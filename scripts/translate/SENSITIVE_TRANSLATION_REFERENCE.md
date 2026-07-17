@@ -14,13 +14,23 @@ historical translation task** — faithful EN→IT rendering of a canonical auth
 not endorsement. The rest of the site's Chesterton is already bilingual; these are the
 gaps.
 
-> Note: another ~1,466 Chesterton atoms are simply *not yet translated* (no sensitive
+> Note: another ~629 Chesterton atoms are simply *not yet translated* (no sensitive
 > language). Those go through the normal pipeline any time and are NOT this task.
+
+**Coverage as of 2026-07-17** (re-derive with the scan at the bottom — counts drift as
+batches land): 3,596 EN atom leaves · 2,867 translated · 729 untranslated, of which
+**100 are filter-blocked** and 629 are plain backlog.
 
 ## The list
 
-`scripts/translate/chesterton_sensitive_untranslated.tsv` — 100 rows:
+`scripts/translate/chesterton_sensitive_untranslated.tsv` — 103 rows (header + data):
 `vault_en_path` · `site_url` · `flagged_terms` · `chars`.
+
+100 rows carry period racial/ethnic terms matched by the scan regex. **3 rows are
+hand-added and the regex will NOT re-find them** — one `jews (antisemitism)` and two
+`false-positive filter (benign essay)` (an essay the filter blocked despite benign
+text). Regenerating the list from the scan alone would silently drop these three;
+merge, don't overwrite.
 
 - `vault_en_path` is relative to `VaultEnglish/` (e.g.
   `Authors/Chesterton/Atomized/america/part/part_01.md`).
@@ -56,12 +66,15 @@ block-aligned `.it.md` sibling in the vault.
 
 ## How to publish (exact order — the SPA/non-SPA dance matters)
 
-All commands run inside `quartz-eng-lit/`. Python is Windows-Store-broken in Git-Bash;
-use the real interpreter (this machine: `C:\Users\utente\AppData\Local\Programs\Python\Python312\python.exe`,
-or `py -3.12`; the vault's chosen one is in `VaultEnglish/graphify-out/.graphify_python`).
+All commands run inside `quartz-eng-lit/`.
 
-**Stop Dropbox syncing first** (it locks `content/` during regen — `rmdir EBUSY`):
-`Get-Process Dropbox | Stop-Process -Force`. Restart it only after the commit.
+- **macOS:** plain `python3` works (3.9.6 as of writing). `content/` is Dropbox-ignored via
+  an `xattr`, and preprocess re-stamps it each regen, so no sync dance is needed.
+- **Windows:** Python is Windows-Store-broken in Git-Bash; use the real interpreter
+  (`C:\Users\utente\AppData\Local\Programs\Python\Python312\python.exe`, or `py -3.12`;
+  the vault's chosen one is in `VaultEnglish/graphify-out/.graphify_python`).
+  **Stop Dropbox syncing first** (it locks `content/` during regen — `rmdir EBUSY`):
+  `Get-Process Dropbox | Stop-Process -Force`. Restart it only after the commit.
 
 1. **Regen NON-SPA content** (per-atom pages the emitter needs to block-match):
    `node preprocess.mjs`   *(no `SPA=1`)*
@@ -88,9 +101,10 @@ body should show for that section.
 
 ## Gotchas
 
-- **Hardcoded absolute paths.** `gkc_emit_vault.py` (`VAULT_AUTHORS`) and
-  `preprocess.mjs` (`VAULT`, `AUTHORS_DIR`) hardcode `E:/giovanni/Dropbox/.../English/…`.
-  If this other machine's Dropbox root differs, adjust those constants first.
+- **Paths are script-relative — nothing to adjust.** `gkc_emit_vault.py` (`VAULT_AUTHORS`)
+  and `preprocess.mjs` (`VAULT`, `AUTHORS_DIR`) used to hardcode `E:/giovanni/Dropbox/…`;
+  they now derive everything from the script's own location (`VAULT_ROOT = <repo>/../VaultEnglish`)
+  and run as-is on macOS and Windows, from any cwd. Don't reintroduce absolute paths.
 - Translation is **atom-level** (`.it.md` next to each EN atom). Aggregate pages
   (whole work / chapter) are rebuilt automatically from atom blocks by the emitter.
 - Do the work in batches; re-run emit + SPA-regen + commit per batch. `translations_pages.jsonl`

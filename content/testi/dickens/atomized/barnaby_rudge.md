@@ -27290,12 +27290,6 @@ Barnaby was grey, he has very probably gone on talking to the present
 
 
 
-
-End of the Project Gutenberg EBook of [[Barnaby Rudge]], by Charles Dickens
-
-
-
-
 <span class="atom-split" data-atom="chapter_05" data-title="Barnaby Rudge — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
 
 
@@ -55639,9 +55633,3 @@ From that period (although he was supposed to be much affected by the
 in the vulgar tongue; and, as he was a mere infant for a raven when
 Barnaby was grey, he has very probably gone on talking to the present
 [[Time|time]].
-
-
-
-
-
-End of the Project Gutenberg EBook of [[Barnaby Rudge]], by Charles Dickens

@@ -37467,13 +37467,6 @@ parting, and uplifts ye both to Heaven!
 
 
 
-
-End of the Project Gutenberg EBook of Life And Adventures Of Martin
-Chuzzlewit, by Charles Dickens
-
-
-
-
 <span class="atom-split" data-atom="chapter_01--part_01" data-title="Martin Chuzzlewit — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
 
 
@@ -76557,10 +76550,3 @@ she is so tenderly entwined in all thy thoughts, thy strain soars onward
 to the Future. As it resounds within thee and without, the noble music,
 [[rolling]] round ye both, shuts out the grosser prospect of an earthly
 parting, and uplifts ye both to Heaven!
-
-
-
-
-
-End of the Project Gutenberg EBook of Life And Adventures Of Martin
-Chuzzlewit, by Charles Dickens

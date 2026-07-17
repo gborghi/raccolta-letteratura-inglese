@@ -14,47 +14,6 @@ tags:
 <span class="atom-split" data-atom="mrpond" data-title="MrPond" data-chapter="" data-kind="intro"></span>
 
 
-A Project Gutenberg of Australia eBook
-
-Title:      The Paradoxes of Mr Pond (1937)
-
-Author:     G. K. Chesterton
-
-eBook No.:  0500421.txt
-
-Edition:    1
-
-Language:   English
-
-Character set encoding:     ASCII--7 bit  or  Latin-1(ISO-8859-1)--8 bit
-
-Date first posted:          May 2005
-
-Date most recently updated: May 2005
-
-This eBook was produced by: Don Lainson dlainson@sympatico.ca
-
-Project Gutenberg of Australia eBooks are created from printed editions
-
-which are in the public domain in Australia, unless a copyright notice
-
-is included. We do NOT keep any eBooks in compliance with a particular
-
-paper edition.
-
-Copyright laws are changing all over the world. Be sure to check the
-
-copyright laws for your country before downloading or redistributing this
-
-file.
-
-This eBook is made available at no cost and with almost no restrictions
-
-whatsoever. You may copy it, give it away or re-use it under the terms
-
-of the Project Gutenberg of Australia License which may be viewed online at
-
-http://gutenberg.net.au/licence.html
 
 To contact Project Gutenberg of Australia go to http://gutenberg.net.au
 
@@ -9921,10 +9880,6 @@ idea that it was a pantomime giant.  We ought to have seen him--
 only," said Mr. Pond, ending, as he had begun, with an apologetic
 
 little laugh, "he was too tall to be seen."
-
-End of this Project Gutenberg of Australia eBook
-
-The Paradoxes of Mr Pond by G. K. Chesterton
 
 
 
@@ -24531,10 +24486,6 @@ idea that it was a pantomime giant.  We ought to have seen him--
 only," said Mr. Pond, ending, as he had begun, with an apologetic
 
 little laugh, "he was too tall to be seen."
-
-End of this Project Gutenberg of Australia eBook
-
-The Paradoxes of Mr Pond by G. K. Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>

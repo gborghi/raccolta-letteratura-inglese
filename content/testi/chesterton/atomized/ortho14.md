@@ -5807,8 +5807,6 @@ There was some one thing that was too great for God to show us when
 He walked upon our earth; and I have sometimes fancied that it was His
 mirth.
 
-End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
-
 
 
 
@@ -14485,8 +14483,6 @@ that He covered constantly by abrupt [[Silence|silence]] or impetuous isolation.
 There was some one thing that was too great for God to show us when
 He walked upon our earth; and I have sometimes fancied that it was His
 mirth.
-
-End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>

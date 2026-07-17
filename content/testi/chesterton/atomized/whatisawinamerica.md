@@ -14,27 +14,6 @@ tags:
 <span class="atom-split" data-atom="whatisawinamerica" data-title="WhatISawInAmerica" data-chapter="" data-kind="intro"></span>
 
 
-The Project Gutenberg EBook of What I Saw in [[America]], by G. K. Chesterton
-
-This eBook is for the use of anyone anywhere at no cost and with
-
-almost no restrictions whatsoever.  You may copy it, give it away or
-
-re-use it under the terms of the Project Gutenberg License included
-
-with this eBook or online at www.gutenberg.org
-
-Title: What I Saw in [[America]]
-
-Author: G. K. Chesterton
-
-Release Date: November 13, 2008 [EBook #27250]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN [[America|AMERICA]] ***
 
 Produced by Irma Špehar, Martin Pettit and the Online
 

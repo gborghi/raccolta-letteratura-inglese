@@ -16,7 +16,8 @@ from sbtrans import clean_body, split_blocks, has_prose
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 CONTENT = os.path.join(ROOT, "content")
-VAULT = r"E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Authors/Sayers/Atomized"
+VAULT_ROOT = os.path.abspath(os.path.join(ROOT, "..", "VaultEnglish"))
+VAULT = os.path.join(VAULT_ROOT, "Authors", "Sayers", "Atomized")
 TASKS_DIR = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "data", "fable_tasks")
 FM_RE = re.compile(r"^---\r?\n(.*?)\r?\n---\r?\n?(.*)$", re.S)
 

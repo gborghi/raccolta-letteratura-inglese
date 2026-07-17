@@ -3666,12 +3666,6 @@ nothing else remains.
 
 
 
-
-End of Project Gutenberg's The Cricket on the Hearth, by Charles Dickens
-
-
-
-
 <span class="atom-split" data-atom="story_01_introduction" data-title="The Cricket on the Hearth — Introduction" data-chapter="Introduction" data-kind="story"></span>
 
 
@@ -7487,9 +7481,3 @@ Dot, for one last glimpse of a little figure very pleasant to me, she
 and the rest have vanished into air, and I am left [[Alone|alone]]. A Cricket
 sings upon the Hearth; a broken [[Child|child]]'s toy lies upon the ground: and
 nothing else remains.
-
-
-
-
-
-End of Project Gutenberg's The Cricket on the Hearth, by Charles Dickens

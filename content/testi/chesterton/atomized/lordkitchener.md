@@ -14,27 +14,6 @@ tags:
 <span class="atom-split" data-atom="lordkitchener" data-title="LordKitchener" data-chapter="" data-kind="intro"></span>
 
 
-The Project Gutenberg EBook of Lord Kitchener, by G. K. Chesterton
-
-This eBook is for the use of anyone anywhere at no cost and with
-
-almost no restrictions whatsoever.  You may copy it, give it away or
-
-re-use it under the terms of the Project Gutenberg License included
-
-with this eBook or online at www.gutenberg.org
-
-Title: Lord Kitchener
-
-Author: G. K. Chesterton
-
-Release Date: June 15, 2008 [EBook #25795]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LORD KITCHENER ***
 
 Produced by Irma Spehar and the Online Distributed
 
@@ -1515,30 +1494,9 @@ _Bream's Buildings, [[London]], E.C. 4_.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="LordKitchener (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt"></span>
 
 
-The Project Gutenberg EBook of Lord Kitchener, by G. K. Chesterton
-
-This eBook is for the use of anyone anywhere at no cost and with
-
-almost no restrictions whatsoever.  You may copy it, give it away or
-
-re-use it under the terms of the Project Gutenberg License included
-
-with this eBook or online at www.gutenberg.org
-
-Title: Lord Kitchener
-
-Author: G. K. Chesterton
-
-Release Date: June 15, 2008 [EBook #25795]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LORD KITCHENER ***
 
 Produced by Irma Spehar and the Online Distributed
 

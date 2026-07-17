@@ -83,7 +83,6 @@ tags:
 - [Part 3](/testi/chesterton/atomized/balladstbarbara#part--part_03)
 - [Part 4](/testi/chesterton/atomized/balladstbarbara#part--part_04)
 - [Part 5](/testi/chesterton/atomized/balladstbarbara#part--part_05)
-- [Part 6](/testi/chesterton/atomized/balladstbarbara#part--part_06)
 
 ## Connections
 

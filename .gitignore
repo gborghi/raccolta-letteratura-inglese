@@ -38,3 +38,4 @@ __pycache__/
 
 debug.log
 sync-v5.log
+gkc_tower_cache.jsonl.*.bak

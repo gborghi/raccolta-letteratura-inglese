@@ -99,8 +99,6 @@ tags:
 - [Part 6](/testi/chesterton/atomized/poems#part--part_06)
 - [Part 7](/testi/chesterton/atomized/poems#part--part_07)
 - [Part 8](/testi/chesterton/atomized/poems#part--part_08)
-- [Part 9](/testi/chesterton/atomized/poems#part--part_09)
-- [Part 10](/testi/chesterton/atomized/poems#part--part_10)
 
 ## Connections
 

@@ -73,9 +73,6 @@ tags:
 - [Part 14](/testi/chesterton/atomized/magic#part--part_14)
 - [Part 15](/testi/chesterton/atomized/magic#part--part_15)
 - [Part 16](/testi/chesterton/atomized/magic#part--part_16)
-- [Part 17](/testi/chesterton/atomized/magic#part--part_17)
-- [Part 18](/testi/chesterton/atomized/magic#part--part_18)
-- [Part 19](/testi/chesterton/atomized/magic#part--part_19)
 
 ## Connections
 

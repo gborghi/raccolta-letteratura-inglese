@@ -14,49 +14,6 @@ tags:
 <span class="atom-split" data-atom="fourfaultlessfelons" data-title="FourFaultlessFelons" data-chapter="" data-kind="intro"></span>
 
 
-A Project Gutenberg of Australia eBook
-
-Title: Four Faultless Felons
-
-Author: G.K. Chesterton
-
-eBook No.:  0300781.txt
-
-Edition:    2
-
-Language:   English
-
-Character set encoding:     Latin-1(ISO-8859-1)--8 bit
-
-Date first posted:          May 2003
-
-Date most recently updated: January 2006
-
-***** A Project Gutenberg of Australia eBook *****
-
-Project Gutenberg of Australia eBooks are created from printed editions
-
-which are in the public domain in Australia, unless a copyright notice
-
-is included. We do NOT keep any eBooks in compliance with a particular
-
-paper edition.
-
-Copyright laws are changing all over the world. Be sure to check the
-
-copyright laws for your country before downloading or redistributing this
-
-file.
-
-This eBook is made available at no cost and with almost no restrictions
-
-whatsoever. You may copy it, give it away or re-use it under the terms
-
-of the Project Gutenberg of Australia License which may be viewed online
-
-at
-
-http://gutenberg.net.au/licence.html
 
 To contact Project Gutenberg of Australia go to http://gutenberg.net.au
 
@@ -12034,10 +11991,6 @@ his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
 
 Lee Pinion as a member of the Club."
 
-End of this Project Gutenberg of Australia eBook
-
-Four Faultless Felons by G.K. Chesterton
-
 
 
 
@@ -13446,10 +13399,6 @@ There was a momentary [[Silence|silence]] at the table, and then Dr. Judson turn
 his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
 
 Lee Pinion as a member of the Club."
-
-End of this Project Gutenberg of Australia eBook
-
-Four Faultless Felons by G.K. Chesterton
 
 
 

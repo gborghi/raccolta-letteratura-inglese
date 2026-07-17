@@ -14,27 +14,6 @@ tags:
 <span class="atom-split" data-atom="variedtypes" data-title="VariedTypes" data-chapter="" data-kind="intro"></span>
 
 
-The Project Gutenberg EBook of Varied Types, by G. K. Chesterton
-
-This eBook is for the use of anyone anywhere at no cost and with
-
-almost no restrictions whatsoever.  You may copy it, give it away or
-
-re-use it under the terms of the Project Gutenberg License included
-
-with this eBook or online at www.gutenberg.net
-
-Title: Varied Types
-
-Author: G. K. Chesterton
-
-Release Date: November 29, 2004 [EBook #14203]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK VARIED TYPES ***
 
 Produced by [[Juliet]] Sutherland, Melissa Er-Raqabi and the Online
 

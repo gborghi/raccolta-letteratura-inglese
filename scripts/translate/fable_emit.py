@@ -17,7 +17,8 @@ from sbtrans import clean_body, split_blocks, has_prose
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 CONTENT = os.path.join(ROOT, "content")
 DATA = os.path.join(ROOT, "data")
-VAULT = r"E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Authors/Sayers/Atomized"
+VAULT_ROOT = os.path.abspath(os.path.join(ROOT, "..", "VaultEnglish"))
+VAULT = os.path.join(VAULT_ROOT, "Authors", "Sayers", "Atomized")
 TASKS = os.path.join(DATA, "fable_tasks")
 OUT = os.path.join(DATA, "fable_out")
 PAGE_STORE = os.path.join(DATA, "translations_pages.jsonl")

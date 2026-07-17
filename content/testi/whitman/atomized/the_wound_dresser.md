@@ -4753,15 +4753,6 @@ of Grass" (1860 Edition).
 
 
 
-
-
-
-End of the Project Gutenberg EBook of The Wound Dresser, by Walt Whitman
-
-
-
-
-
 <span class="atom-split" data-atom="story_01_story_edifices_sometimes_ranged_along_in" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — story edifices, sometimes ranged along in a row, with their heads to" data-chapter="story edifices sometimes ranged along in" data-kind="story"></span>
 
 
@@ -9557,11 +9548,3 @@ neighbor of his mother.
 of Grass" (1860 Edition).
 
 [22] Jeff's daughter Jessie was originally called California.
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Wound Dresser, by Walt Whitman

@@ -37211,13 +37211,6 @@ softly of their poor dead cousin.
 
 
 
-
-End of the Project Gutenberg EBook of The Life And Adventures Of Nicholas
-Nickleby, by Charles Dickens
-
-
-
-
 <span class="atom-split" data-atom="chapter_65" data-title="Nicholas Nickleby — Chapter 65" data-chapter="Chapter 65" data-kind="chapter"></span>
 
 
@@ -37332,13 +37325,6 @@ pressure. Through all the [[spring]] and summertime, garlands of fresh
 children came to change them lest they should wither and be pleasant
 to him no longer, their eyes filled with [[Tears|tears]], and they spoke low and
 softly of their poor dead cousin.
-
-
-
-
-
-End of the Project Gutenberg EBook of The Life And Adventures Of Nicholas
-Nickleby, by Charles Dickens
 
 
 

@@ -14,7 +14,6 @@ tags:
 <span class="atom-split" data-atom="wifrb11" data-title="The Wisdom of Father Brown" data-chapter="" data-kind="intro"></span>
 
 
-***The Project Gutenberg Etext of The Wisdom of [[Father Brown]]***
 
 **Welcome To The World of Free Plain Vanilla Electronic Texts**
 
@@ -7901,8 +7900,6 @@ twice a traitor?"
 And he ruminated long before the portrait of a white-haired man
 with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
-
-End of this Project Gutenberg Etext of The Wisdom of [[Father Brown]]
 
 
 
@@ -20920,8 +20917,6 @@ twice a traitor?"
 And he ruminated long before the portrait of a white-haired man
 with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
-
-End of this Project Gutenberg Etext of The Wisdom of [[Father Brown]]
 
 
 <span class="qlang-split" data-lang="it"></span>

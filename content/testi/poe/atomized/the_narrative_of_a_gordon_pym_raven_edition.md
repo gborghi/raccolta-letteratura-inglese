@@ -20237,16 +20237,6 @@ opinion upon that.”
 
 
 
-
-
-
-
-
-End of the Project Gutenberg EBook of The Works of [[Edgar]] Allan Poe, Volume 3, by [[Edgar]] Allan Poe
-
-
-
-
 <span class="atom-split" data-atom="chapter_10" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
 
 
@@ -40739,13 +40729,3 @@ have her, boy, (plum and all), when you please. Done up, by Jove!
 Three Sundays all in a row! I’ll go, and take Dubble L. Dee’s
 
 opinion upon that.”
-
-
-
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Works of [[Edgar]] Allan Poe, Volume 3, by [[Edgar]] Allan Poe

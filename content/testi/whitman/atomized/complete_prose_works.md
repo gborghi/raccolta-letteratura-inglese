@@ -23790,8 +23790,6 @@ poet's life-work it must have great value to his readers and admirers.
 After the critics 'have ciphered and ciphered out long,' they will
 probably have nothing better to say."
 
-End of the Project Gutenberg EBook of Complete Prose Works, by Walt Whitman
-
 
 
 
@@ -48605,5 +48603,3 @@ Whitman consented to write the above. As a concise explanation of the
 poet's life-work it must have great value to his readers and admirers.
 After the critics 'have ciphered and ciphered out long,' they will
 probably have nothing better to say."
-
-End of the Project Gutenberg EBook of Complete Prose Works, by Walt Whitman

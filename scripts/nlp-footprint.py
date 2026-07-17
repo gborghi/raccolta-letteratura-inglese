@@ -7,9 +7,14 @@ quartz/static/author_stats.json for the author landing pages."""
 import os, re, glob, json, math
 from collections import Counter, defaultdict
 
-AUTHORS_DIR = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/VaultEnglish/Authors"
-WORKS = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/VaultEnglish/Knowledge Graph/Works"
-OUT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/quartz/static/author_stats.json"
+# Paths derive from this file's location so the script runs from any cwd:
+# <repo parent>/quartz-eng-lit/scripts/nlp-footprint.py -> vault is the sibling VaultEnglish/.
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+VAULT_ROOT = os.path.abspath(os.path.join(ROOT, "..", "VaultEnglish"))
+AUTHORS_DIR = os.path.join(VAULT_ROOT, "Authors")
+WORKS = os.path.join(VAULT_ROOT, "Knowledge Graph", "Works")
+STATIC = os.path.join(ROOT, "quartz", "static")
+OUT = os.path.join(STATIC, "author_stats.json")
 # Folder names may use underscores; the site keys authors by the spaced form.
 PRETTY = lambda d: d.replace("_", " ")
 
@@ -121,7 +126,7 @@ for au in AUTHORS:
     }
 
 # works count from index.json
-idx = json.load(open("E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/quartz/static/index.json", encoding="utf-8"))
+idx = json.load(open(os.path.join(STATIC, "index.json"), encoding="utf-8"))
 wc = Counter(w.get("author", "") for w in (idx if isinstance(idx, list) else idx.values()))
 for au in stats: stats[au]["works"] = wc.get(au, 0)
 

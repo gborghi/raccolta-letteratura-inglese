@@ -6079,8 +6079,6 @@ yet have believed.
 
 THE END
 
-End of this Project Gutenberg Etext of Heretics, by G. K. Chesterton
-
 
 
 
@@ -15039,8 +15037,6 @@ strange [[Courage|courage]].  We shall be of those who have seen and
 yet have believed.
 
 THE END
-
-End of this Project Gutenberg Etext of Heretics, by G. K. Chesterton
 
 
 <span class="qlang-split" data-lang="it"></span>
