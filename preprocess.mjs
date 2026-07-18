@@ -670,6 +670,11 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             )
             // plays: EN-only dialogue → English table header (source vault bakes Italian)
             enBody = enBody.replace(/^\|\s*Chi parla\s*\|\s*Battuta\s*\|$/gm, "| Speaker | Line |")
+            // plays: escape the alias-pipe of wikilinks inside dialogue-table rows so the GFM
+            // table tokenizer does not read it as a column divider (wikilinkRegex allows \| — target intact)
+            enBody = enBody.replace(/^\|.*$/gm, (row) =>
+              row.replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, "[[$1\\|$2]]"),
+            )
             const kind = isIntro ? "intro" : it.unitType
             let block =
               `\n\n<span class="atom-split" data-atom="${esc(atomId)}" ` +
