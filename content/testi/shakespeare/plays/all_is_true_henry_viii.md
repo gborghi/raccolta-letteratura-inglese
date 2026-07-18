@@ -11,1154 +11,6 @@ tags:
 <div class="atom-reader" data-work="testi/shakespeare/plays/all_is_true_henry_viii" data-author="Shakespeare" data-workhref="works/all-is-true---(henry-viii)-(shakespeare)"></div>
 
 
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Cornetts. Enter [[King]] Henry leaning on [[Cardinal Wolsey]]’s shoulder. Enter with them Wolsey’s two secretaries, the nobles, and Sir Thomas Lovell. The [[King]] ascends to his seat under the cloth of state; Wolsey places himself under the [[King]]’s feet on his right side |
-| [[King|KING]] HENRY | to Wolsey My life itself and the best heart of it Thanks you for this great care. I stood i’th’ level Of a full-charged confederacy, and give thanks To you that choked it. Let be called before us That gentleman of [[Buckingham]]’s. In person I’ll hear him his confessions justify, And point by point the treasons of his master He shall again relate. CRIER (within) Room for the [[Queen]], ushered by the Duke of Norfolk. Enter [[Queen Katherine]], the Duke of Norfolk, and the [[Duke of Suffolk]]. She kneels. [[King]] Henry riseth from his state, takes her up, and kisses her |
-| [[Queen Katherine|QUEEN KATHERINE]] | Nay, we must longer kneel. I am a suitor. |
-| [[King|KING]] HENRY | Arise, and take place by us. He placeth her by him Half your suit Never name to us. You have half our power, The other moiety ere you ask is given. Repeat your will and take it. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Thank your majesty. That you would [[Love|love]] yourself, and in that [[Love|love]] Not unconsidered leave your [[Honour|honour]] nor The dignity of your office, is the point Of my petition. |
-| [[King|KING]] HENRY | Lady mine, proceed. |
-| [[Queen Katherine|QUEEN KATHERINE]] | I am solicited, not by a few, And those of true condition, that your subjects Are in great grievance. There have been commissions Sent down among ’em which hath flawed the heart Of all their loyalties; wherein, although, My good lord Cardinal, they vent reproaches Most bitterly on you, as putter-on Of these exactions, yet the [[King]] our master— Whose [[Honour|honour]] heaven shield from soil—even he escapes not Language unmannerly, yea, such which breaks The sides of loyalty, and almost appears In loud rebellion. |
-| NORFOLK | Not ‘almost appears’— It doth appear; for upon these taxations The clothiers all, not able to maintain The many to them ‘[[Longing|longing]], have put off The spinsters, carders, fullers, weavers, who, Unfit for other life, compelled by hunger And lack of other means, in desperate manner Daring th’event to th’ teeth, are all in uproar, And danger serves among them. |
-| [[King|KING]] HENRY | Taxation? Wherein, and what taxation? My lord Cardinal, You that are blamed for it alike with us, Know you of this taxation? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Please you, sir, I know but of a single part in aught Pertains to th’ state, and front but in that file Where others tell steps with me. |
-| [[Queen Katherine|QUEEN KATHERINE]] | No, my lord? You know no more than others? But you frame Things that are known alike, which are not wholesome To those which would not know them, and yet must Perforce be their acquaintance. These exactions Whereof my sovereign would have note, they are Most pestilent to th’ hearing, and to bear ’em The back is sacrifice to th’ load. They say They are devised by you, or else you suffer Too hard an exclamation. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_exchange_king_henry" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (KING HENRY) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Still exaction! The [[Nature|nature]] of it? In what kind, let’s know, Is this exaction? |
-| [[Queen Katherine|QUEEN KATHERINE]] | I am much too venturous In tempting of your patience, but am boldened Under your promised pardon. The subjects’ grief Comes through commissions which compels from each The sixth part of his substance to be levied Without delay, and the pretence for this Is named your wars in France. This makes bold mouths. Tongues spit their duties out, and cold hearts freeze Allegiance in them. Their curses now Live where their prayers did, and it’s come to pass This tractable obedience is a slave To each incensed will. I would your highness Would give it quick consideration, for There is no primer business. |
-| [[King|KING]] HENRY | By my life, This is against our pleasure. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | And for me, I have no further gone in this than by A single voice, and that not passed me but By learned approbation of the judges. If I am Traduced by ignorant tongues, which neither know My faculties nor person yet will be The chronicles of my doing, let me say ‘Tis but the fate of place, and the rough brake That virtue must go through. We must not stint Our necessary actions in the [[Fear|fear]] To cope malicious censurers, which ever, As rav’nous fishes, do a vessel follow That is new trimmed, but benefit no further Than vainly [[Longing|longing]]. What we oft do best, By sick interpreters, once weak ones, is Not ours or not allowed; what worst, as oft, Hitting a grosser quality, is cried up For our best act. If we shall stand still, In [[Fear|fear]] our motion will be mocked or carped at, We should take root here where we sit, Or sit state-statues only. |
-| [[King|KING]] HENRY | Things done [[Well|well]], And with a care, exempt themselves from [[Fear|fear]]; Things done without example, in their issue Are to be feared. Have you a precedent Of this commission? I believe not any. We must not rend our subjects from our laws And stick them in our will. Sixth part of each? A trembling contribution! Why, we take From every tree lop, bark, and part o‘th’ timber, And though we leave it with a root, thus hacked The air will drink the sap. To every county Where this is questioned send our letters with Free pardon to each man that has denied The force of this commission. Pray look to’t— I put it to your care. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to a secretary) A word with you. Let there be letters writ to every shire Of the [[King]]’s grace and pardon. (Aside to the secretary) The grieved commons Hardly conceive of me. Let it be noised That through our intercession this revokement And pardon comes. I shall anon advise you Further in the proceeding. Exit secretary Enter [[Buckingham]]’s Surveyor |
-| [[Queen Katherine|QUEEN KATHERINE]] | (to the [[King]]) I am sorry that the [[Duke of Buckingham]] Is run in your displeasure. |
-| [[King|KING]] HENRY | It grieves many. The gentleman is learned, and a most rare speaker, To [[Nature|nature]] none more bound; his training such That he may furnish and instruct great teachers And never seek for aid out of himself. Yet see, When these so noble benefits shall prove Not [[Well|well]] disposed, the mind growing once corrupt, They turn to vicious forms ten times more ugly Than ever they were fair. This man so complete, Who was enrolled ’mongst wonders—and when we Almost with ravished list’ning could not find His hour of speech a minute—he, my lady, Hath into monstrous habits put the graces That once were his, and is become as black As if besmeared in hell. Sit by us. You shall hear— This was his gentleman in trust of him— Things to strike [[Honour|honour]] sad. (To Wolsey) Bid him recount The fore-recited practices whereof We cannot feel too little, hear too much. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (CARDINAL WOLSEY) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the Surveyor) Stand forth, and with bold spirit relate what you Most like a careful subject have collected Out of the [[Duke of Buckingham]]. |
-| [[King|KING]] HENRY | (to the Surveyor) Speak freely. |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | First, it was usual with him, every day It would infect his speech, that if the [[King]] Should without issue die, he’ll carry it so To make the sceptre his. These very words I’ve heard him utter to his son-in-law, Lord Abergavenny, to whom by oath he menaced [[Revenge]] upon the Cardinal. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[King]]) Please your highness note His dangerous conception in this point, Not friended by his wish to your high person. His will is most malignant, and it stretches Beyond you to your friends. |
-| [[Queen Katherine|QUEEN KATHERINE]] | My learned Lord Cardinal, Deliver all with [[Charity|charity]]. |
-| [[King|KING]] HENRY | (to the surveyor) Speak on. How grounded he his title to the [[Crown|crown]] Upon our fail? To this point hast thou heard him At any [[Time|time]] speak aught? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | He was brought to this By a vain prophecy of Nicholas Hopkins. |
-| [[King|KING]] HENRY | What was that Hopkins? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | Sir, a Chartreux friar, His confessor, who fed him every minute With words of sovereignty. |
-| [[King|KING]] HENRY | How know’st thou this? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_monologue_buckinghams_surveyor" data-title="All Is True (Henry VIII) — Act I, Scene 2 — monologue (BUCKINGHAM’S SURVEYOR) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | Not long before your highness sped to France, The Duke being at the [[Rose]], within the parish Saint Lawrence Poutney, did of me demand What was the speech among the Londoners Concerning the French [[Journey|journey]]. I replied Men feared the French would prove perfidious, To the [[King]]’s danger; presently the Duke Said ‘twas the [[Fear|fear]] indeed, and that he doubted ’Twould prove the verity of certain words Spoke by a holy monk that oft, says he, ‘Hath sent to me, wishing me to permit John de la Car, my chaplain, a choice hour To hear from him a matter of some moment; Whom after under the confession’s seal He solemnly had sworn, that what he spoke My chaplain to no creature living but To me should utter, with demure confidence This pausingly ensued: “neither the [[King]] nor’s heirs”, Tell you the Duke, “shall prosper. Bid him strive To win the [[Love|love]] o’th’ commonalty. The Duke Shall govern England.” ’ |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--05_exchange_queen_katherine" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (QUEEN KATHERINE) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Katherine|QUEEN KATHERINE]] | If I know you [[Well|well]], You were the Duke’s surveyor, and lost your office On the complaint o’th’ tenants. Take good heed You charge not in your spleen a noble person And spoil your nobler [[Soul|soul]]. I say, take heed; Yes, heartily beseech you. |
-| [[King|KING]] HENRY | Let him on. (To the Surveyor) Go forward. |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | On my [[Soul|soul]] I’ll speak but [[Truth|truth]]. I told my lord the Duke, by th’ devil’s illusions The monk might be deceived, and that ‘twas dangerous To ruminate on this so far until It forged him some design which, being believed, It was much like to do. He answered, ’Tush, It can do me no damage’, adding further That had the [[King]] in his last sickness failed, The Cardinal’s and Sir Thomas Lovell’s heads Should have gone off. |
-| [[King|KING]] HENRY | Ha? What, so rank? Ah, ha! There’s mischief in this man. Canst thou say further? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | I can, my liege. |
-| [[King|KING]] HENRY | Proceed. |
-| BIJCKINGHAM’S SURVEYOR | Being at Greenwich, After your highness had reproved the Duke About Sir William Bulmer— |
-| [[King|KING]] HENRY | I remember Such a [[Time|time]], being my sworn servant, The Duke retained him his. But on—what hence? |
-| RIICKINGHAM’S SURVEYOR | ‘If’, quoth he, ‘I for this had been committed’— As to the Tower, I thought—‘I would have played The part my father meant to act upon Th’[[Usurper|usurper]] [[Richard]] who, being at Salisbury, Made suit to come in’s presence; which if granted, As he made semblance of his duty, would Have put his knife into him.’ |
-| [[King|KING]] HENRY | A giant traitor! |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[Queen]]) Now, madam, may his highness live in [[Freedom|freedom]], And this man out of [[Prison|prison]]? |
-| [[Queen Katherine|QUEEN KATHERINE]] | God mend all. |
-| [[King|KING]] HENRY | (to the Surveyor) There’s something more would out of thee—what sayst? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | After ‘the Duke his father’, with ‘the knife’, He stretched him, and with one hand on his dagger, Another spread on’s breast, mounting his eyes, He did discharge a horrible oath whose tenor Was, were he evil used, he would outgo His father by as much as a performance Does an irresolute purpose. |
-| [[King|KING]] HENRY | There’s his period— To sheathe his knife in us. He is attached. Call him to present trial. If he may Find [[Mercy|mercy]] in the law, ’tis his; if none, Let him not seek’t of us. By day and [[Night|night]], He’s traitor to th’ height. Flourish. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Hautboys. Enter servants with a small table for [[Cardinal Wolsey]] Which they place under the cloth of state, and a longer table for the guests. Then enter at one door Anne Boleyn and divers other ladies and gentlemen as guests, and at another door enter Sir Henry Guildford GUlLDFORD Ladies, a general welcome from his grace Salutes ye all. This [[Night|night]] he dedicates To fair content and you. None here, he hopes, In all this noble bevy, has brought with her One care abroad. He would have all as merry As feast, good company, good wine, good welcome Can make good people. Enter the Lord Chamberlain, Lord Sands, and Sir Thomas Lovell (To the Lord Chamberlain) O, my lord, you’re tardy. The very thought of this fair company Clapped wings to me. |
-| LORD CHAMBERLAIN | You are young, Sir Harry Guildford. |
-| SANDS | Sir Thomas Lovell, had the Cardinal But half my lay thoughts in him, some of these Should find a running banquet, ere they rested, I think would better please ’em. By my life, They are a sweet society of fair ones. |
-| LOVELL | O, that your lordship were but now confessor To one or two of these. |
-| SANDS | I would I were. They should find easy penance. |
-| LOVELL | [[Faith]], how easy? |
-| SANDS | As easy as a down bed would afford it. |
-| LORD CHAMBERLAIN | Sweet ladies, will it please you sit? (To Guildford) Sir Harry, Place you that side, I’ll take the charge of this. They sit about the longer table. A noise within His grace is ent‘ring. Nay, you must not freeze— Two women placed together makes cold weather. My lord Sands, you are one will keep ’em waking. Pray sit between these ladies. |
-| SANDS | By my [[Faith|faith]], And thank your lordship. He sits between Anne and another By your leave, sweet ladies. If I chance to talk a little wild, forgive me. I had it from my father. |
-| ANNE | Was he mad, sir? |
-| SANDS | O, very mad; exceeding mad—in [[Love|love]], too. But he would bite none. Just as I do now, He would kiss you twenty with a breath. He kisses her |
-| LORD CHAMBERLAIN | [[Well]] said, my lord. So now you’re fairly seated. Gentlemen, The penance lies on you if these fair ladies Pass away frowning. |
-| SANDS | For my little cure, Let me [[Alone|alone]]. Hautboys. Enter [[Cardinal Wolsey]] who takes his seat at the small table under the state |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | You’re welcome, my fair guests. That noble lady Or gentleman that is not freely merry Is not my friend. This, to confirm my welcome, And to you all, good health! He drinks |
-| SANDS | Your grace is noble. Let me have such a bowl may hold my thanks, And save me so much talking. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | My lord Sands, I am beholden to you. Cheer your neighbours. Ladies, you are not merry! Gentlemen, Whose fault is this? |
-| SANDS | The red wine first must rise In their fair cheeks, my lord, then we shall have ’em Talk us to [[Silence|silence]]. |
-| ANNE | You are a merry gamester, My lord Sands. |
-| SANDS | Yes, if I make my play. Here’s to your ladyship; and pledge it, madam, For ’tis to such a thing— |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--02_exchange_anne" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (ANNE) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| ANNE | You cannot show me. |
-| SANDS | (to Wolsey) I told your grace they would talk anon. Drum and trumpet. Chambers discharged |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What’s that? |
-| LORD CHAMBERLAIN | (to the servants) Look out there, some of ye. Exit a servant |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What warlike voice, And to what end is this? Nay, ladies, [[Fear|fear]] not. By all the laws of war you’re privileged. Enter the servant |
-| LORD CHAMBERLAIN | How now—what is’t? |
-| SERVANT | A noble troop of strangers, For so they seem. They’ve left their barge and landed, And hither make as great ambassadors From foreign princes. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Good Lord Chamberlain, Go give ’em welcome—you can speak the French tongue. And pray receive ’em nobly, and conduct ’em Into our presence where this heaven of [[Beauty|beauty]] Shall shine at full upon them. Some attend him. Exit Chamberlain, attended All rise, and some servants remove the tables You have now a broken banquet, but we’ll mend it. A good digestion to you all, and once more I shower a welcome on ye—welcome all. Hautboys. Enter, ushered by the Lord Chamberlain, [[King]] Henry and others as masquers habited like shepherds. They pass directly before [[Cardinal Wolsey]] and gracefully salute him A noble company. What are their pleasures? |
-| LORD CHAMBERLAIN | Because they speak no English, thus they prayed To tell your grace, that, having heard by fame Of this so noble and so fair assembly This [[Night|night]] to meet here, they could do no less, Out of the great respect they bear to [[Beauty|beauty]], But leave their flocks, and, under your fair conduct, Crave leave to view these ladies, and entreat An hour of revels with ’em. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Say, Lord Chamberlain, They have done my poor [[house]] grace, for which I pay ’em A thousand thanks, and pray ’em take their pleasures. The masquers choose ladies. The [[King]] chooses Anne Boleyn |
-| [[King|KING]] HENRY | (to Anne) The fairest hand I ever touched. O [[Beauty|beauty]], Till now I never knew thee. Music. They [[Dance|dance]] |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the Lord Chamberlain) My lord. |
-| LORD CHAMBERLAIN | Your grace. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Pray tell ’em thus much from me. There should be one amongst ’em by his person More worthy this place than myself, to whom, If I but knew him, with my [[Love|love]] and duty I would surrender it. |
-| LORD CHAMBERLAIN | I will, my lord. He whispers with the masquers |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What say they? |
-| LORD CHAMBERLAIN | Such a one they all confess There is indeed, which they would have your grace Find out, and he will take it. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | standing Let me see then. By all your good [[Leaves|leaves]], gentlemen, here I’ll make My royal choice. He bows before the [[King]] |
-| [[King|KING]] HENRY | unmasking Ye have found him, Cardinal. You hold a fair assembly. You do [[Well|well]], lord. You are a churchman, or I’ll tell you, Cardinal, I should judge now unhappily. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I am glad Your grace is grown so pleasant. |
-| [[King|KING]] HENRY | My Lord Chamberlain, Prithee come hither. (Gesturing towards Anne) What fair lady’s that? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--03_exchange_lord_chamberlain" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (LORD CHAMBERLAIN) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LORD CHAMBERLAIN | An’t please your grace, Sir Thomas Boleyn’s daughter— The Viscount Rochford—one of her highness’ women. |
-| [[King|KING]] HENRY | By heaven, she is a dainty one. (To Anne) Sweetheart, I were unmannerly to take you out And not to kiss you kisses her. A health, gentlemen; He drinks Let it go round. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Sir Thomas Lovell, is the banquet ready I’th’ privy chamber? |
-| LOVELL | Yes, my lord. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[King]]) Your grace I [[Fear|fear]] with dancing is a little heated. |
-| [[King|KING]] HENRY | I [[Fear|fear]] too much. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | There’s fresher air, my lord, In the next chamber. |
-| [[King|KING]] HENRY | Lead in your ladies, every one. (To Anne) Sweet partner, I must not yet forsake you. (To Wolsey) Let’s be merry, Good my lord Cardinal. I have half a dozen healths To drink to these fair ladies, and a measure To lead ’em once again, and then let’s dream Who’s best in favour. Let the music knock it. Exeunt with trumpets |
-| [[King|KING]] HENRY | 2.1 Enter two Gentlemen, at several doors |
-| FIRST GENTLEMAN | Whither away so fast? |
-| SECOND GENTLEMAN | O, God save ye. Ev’n to the hall to hear what shall become Of the great [[Duke of Buckingham]]. |
-| FIRST GENTLEMAN | I’ll save you That labour, sir. All’s now done but the ceremony Of bringing back the prisoner. |
-| SECOND GENTLEMAN | Were you there? |
-| FIRST GENTLEMAN | Yes, indeed was I. |
-| SECOND GENTLEMAN | Pray speak what has happened. |
-| FIRST GENTLEMAN | You may guess quickly what. |
-| SECOND GENTLEMAN | Is he found guilty? |
-| FIRST GENTLEMAN | Yes, truly is he, and condemned upon’t. |
-| SECOND GENTLEMAN | I am sorry for’t. |
-| FIRST GENTLEMAN | So are a number more. |
-| SECOND GENTLEMAN | But pray, how passed it? |
-| FIRST GENTLEMAN | I’ll tell you in a little. The great Duke Came to the bar, where to his accusations He pleaded still not guilty, and allegèd Many sharp reasons to defeat the law. The [[King]]’s attorney, on the contrary, Urged on the examinations, proofs, confessions, Of divers witnesses, which the Duke desired To him brought viva voce to his face— At which appeared against him his surveyor, Sir Gilbert Perk his chancellor, and John Car, Confessor to him, with that devil-monk, Hopkins, that made this mischief. |
-| SECOND GENTLEMAN | That was he That fed him with his prophecies. |
-| FIRST GENTLEMAN | The same. All these accused him strongly, which he fain Would have flung from him, but indeed he could not. And so his peers, upon this evidence, Have found him guilty of high treason. Much He spoke, and learnedly, for life, but all Was either pitied in him or forgotten. |
-| SECOND GENTLEMAN | After all this, how did he bear himself? |
-| FIRST GENTLEMAN | When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony he sweat extremely, And something spoke in choler, ill and hasty; But he fell to himself again, and sweetly In all the rest showed a most noble patience. |
-| SECOND GENTLEMAN | I do not think he fears [[Death|death]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--04_exchange_first_gentleman" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (FIRST GENTLEMAN) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST GENTLEMAN | Sure he does not. He never was so womanish. The cause He may a little grieve at. |
-| SECOND GENTLEMAN | Certainly The Cardinal is the end of this. |
-| FIRST GENTLEMAN | ’Tis likely By all conjectures: first, Kildare’s attainder, Then deputy of Ireland, who, removed, Earl Surrey was sent thither—and in haste, too, Lest he should help his father. |
-| SECOND GENTLEMAN | That trick of state Was a deep envious one. |
-| FIRST GENTLEMAN | At his return No [[Doubt|doubt]] he will requite it. This is noted, And generally: whoever the [[King]] favours, The Card’nal instantly will find employment— And far enough from [[Court|court]], too. |
-| SECOND GENTLEMAN | All the commons Hate him perniciously and, o’ my [[Conscience|conscience]], Wish him ten fathom deep. This Duke as much They [[Love|love]] and dote on, call him ‘bounteous [[Buckingham]], The [[Mirror|mirror]] of all courtesy’— Enter the [[Duke of Buckingham]] from his arraignment, tipstaves before him, the axe with the edge towards him, halberdiers on each side, accompanied with Sir Thomas Lovell, Sir Nicholas Vaux, Sir William Sands, and common people |
-| FIRST GENTLEMAN | Stay there, sir, And see the noble ruined man you speak of. |
-| SECOND GENTLEMAN | Let’s stand close and behold him. They stand apart |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--05_monologue_buckingham" data-title="All Is True (Henry VIII) — Act I, Scene 4 — monologue (BUCKINGHAM) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Buckingham|BUCKINGHAM]] | (to the common people) All good people, You that thus far have come to pity me, Hear what I say, and then go [[Home|home]] and lose me. I have this day received a traitor’s judgement, And by that name must die. Yet, heaven bear witness, And if I have a [[Conscience|conscience]] let it sink me, Even as the axe falls, if I be not faithful. The law I bear no malice for my [[Death|death]]. ’T has done, upon the premises, but justice. But those that sought it I could wish more Christians. Be what they will, I heartily forgive ‘em. Yet let ’em look they glory not in mischief, Nor build their evils on the graves of great men, For then my guiltless [[Blood|blood]] must cry against ‘em. For further life in this world I ne’er [[Hope|hope]], Nor will I sue, although the [[King]] have mercies More than I dare make faults. You few that loved me, And dare be bold to weep for [[Buckingham]], His noble friends and fellows, whom to leave Is only bitter to him, only dying, Go with me like good angels to my end, And, as the long [[divorce]] of steel falls on me, Make of your prayers one sweet sacrifice, And lift my [[Soul|soul]] to heaven. (To the guard) Lead on, i’ God’s name. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--06_exchange_lovell" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (LOVELL) [6]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LOVELL | I do beseech your grace, for [[Charity|charity]], If ever any malice in your heart Were hid against me, now to forgive me frankly. |
-| [[Buckingham|BUCKINGHAM]] | Sir Thomas Lovell, I as free forgive you As I would be forgiven. I forgive all. There cannot be those numberless offences ‘Gainst me that I cannot take peace with. No black envy Shall mark my [[Grave|grave]]. Commend me to his grace, And if he speak of [[Buckingham]], pray tell him You met him half in heaven. My vows and prayers Yet are the [[King]]’s, and, till my [[Soul|soul]] forsake, Shall cry for blessings on him. May he live Longer than I have [[Time|time]] to tell his years; Ever beloved and loving may his rule be; And, when old [[Time|time]] shall lead him to his end, Goodness and he fill up one monument. |
-| LOVELL | To th’ waterside I must conduct your grace, Then give my charge up to Sir Nicholas Vaux, Who undertakes you to your end. |
-| VAUX | (to an attendant) Prepare there— The Duke is coming. See the barge be ready, And fit it with such furniture as suits The [[Greatness|greatness]] of his person. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--07_monologue_buckingham" data-title="All Is True (Henry VIII) — Act I, Scene 4 — monologue (BUCKINGHAM) [7]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Buckingham|BUCKINGHAM]] | Nay, Sir Nicholas, Let it [[Alone|alone]]. My state now will but mock me. When I came hither I was Lord High Constable And [[Duke of Buckingham]]; now, poor Edward Bohun. Yet I am richer than my base accusers, That never knew what [[Truth|truth]] meant. I now seal it, And with that [[Blood|blood]] will make ’em one day groan for’t. My noble father, Henry of [[Buckingham]], Who first raised head against usurping [[Richard]], Flying for succour to his servant Banister, Being distressed, was by that wretch betrayed, And without trial fell. God’s peace be with him. Henry the Seventh succeeding, truly pitying My father’s loss, like a most royal prince, Restored me to my honours, and out of ruins Made my name once more noble. Now his son, Henry the Eighth, life, [[Honour|honour]], name, and all That made me happy, at one stroke has taken For ever from the world. I had my trial, And must needs say a noble one; which makes me A little happier than my wretched father. Yet thus far we are one in fortunes: both Fell by our servants, by those men we loved most— A most unnatural and faithless service. Heaven has an end in all. Yet, you that hear me, This from a dying man receive as certain— Where you are liberal of your loves and counsels, Be sure you be not loose; for those you make friends And give your hearts to, when they once perceive The least rub in your fortunes, fall away Like [[Water|water]] from ye, never found again But where they mean to sink ye. All good people Pray for me. I must now forsake ye. The last hour Of my long weary life is come upon me. Farewell, and when you would say something that is sad, Speak how I fell. I have done, and God forgive me. Exeunt [[Buckingham]] and train The two Gentlemen come forward |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_4--08_exchange_first_gentleman" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (FIRST GENTLEMAN) [8]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST GENTLEMAN | O, this is full of pity, sir; it calls, I [[Fear|fear]], too many curses on their heads That were the authors. |
-| SECOND GENTLEMAN | If the Duke be guiltless, ’Tis full of woe. Yet I can give you inkling Of an ensuing evil, if it fall, Greater than this. |
-| FIRST GENTLEMAN | Good angels keep it from us. What may it be? You do not [[Doubt|doubt]] my [[Faith|faith]], sir? |
-| SECOND GENTLEMAN | This secret is so weighty, ’twill require A strong [[Faith|faith]] to conceal it. |
-| FIRST GENTLEMAN | Let me have it— I do not talk much. |
-| SECOND GENTLEMAN | I am confident; You shall, sir. Did you not of late days hear A buzzing of separation Between the [[King]] and Katherine? |
-| FIRST GENTLEMAN | Yes, but it held not. For when the [[King]] once heard it, out of anger He sent command to the [[Lord Mayor]] straight To stop the rumour and allay those tongues That durst disperse it. |
-| SECOND GENTLEMAN | But that slander, sir, Is found a [[Truth|truth]] now, for it grows again Fresher than e’er it was, and held for certain The [[King]] will venture at it. Either the Cardinal Or some about him near have, out of malice To the good [[Queen]], possessed him with a scruple That will undo her. To confirm this, too, Cardinal Campeius is arrived, and lately, As all think, for this business. |
-| FIRST GENTLEMAN | ’Tis the Cardinal; And merely to [[Revenge|revenge]] him on the Emperor For not bestowing on him at his asking The Archbishopric of Toledo this is purposed. |
-| SECOND GENTLEMAN | I think you have hit the mark. But is’t not cruel That she should feel the smart of this? The Cardinal Will have his will, and she must fall. |
-| FIRST GENTLEMAN | ’Tis woeful. We are too open here to argue this. Let’s think in private more. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the Lord Chamberlain with a letter |
-| LORD CHAMBERLAIN | (reads) ‘My lord, the horses your lordship sent for, with all the care I had, I saw [[Well|well]] chosen, ridden, and furnished. They were young and handsome, and of the best breed in the north. When they were ready to set out for [[London]], a man of my lord Cardinal’s, by commission and main power, took ‘em from me with this reason—his master would be served before a subject, if not before the [[King]]; which stopped our mouths, sir.’ I [[Fear|fear]] he will indeed. [[Well]], let him have them. 10 He will have all, I think. Enter to the Lord Chamberlain the Dukes of Norfolk and Suffolk |
-| NORFOLK | [[Well]] met, my Lord Chamberlain. |
-| LORD CHAMBERLAIN | Good day to both your graces. |
-| SUFFOLK | How is the [[King]] employed? |
-| LORD CHAMBERLAIN | I left him private, Full of sad thoughts and troubles. |
-| NORFOLK | What’s the cause? |
-| LORD CHAMBERLAIN | It seems the [[Marriage|marriage]] with his brother’s wife Has crept too near his [[Conscience|conscience]]. |
-| SUFFOLK | No, his [[Conscience|conscience]] Has crept too near another lady. |
-| NORFOLK | ’Tis so. This is the Cardinal’s doing. The [[King]]-Cardinal, That blind priest, like the eldest son of fortune, Turns what he list. The [[King]] will know him one day. |
-| SUFFOLK | Pray God he do. He’ll never know himself else. |
-| NORFOLK | How holily he works in all his business, And with what zeal! For now he has cracked the league Between us and the Emperor, the [[Queen]]’s greatnephew, 25 He dives into the [[King]]’s [[Soul|soul]] and there scatters Dangers, doubts, wringing of the [[Conscience|conscience]], Fears, and despairs—and all these for his [[Marriage|marriage]]. And out of all these, to restore the [[King]], He counsels a [[divorce]]—a loss of her That like a [[Jewel|jewel]] has hung twenty years About his neck, yet never lost her lustre; Of her that loves him with that excellence That angels [[Love|love]] good men with; even of her That, when the greatest stroke of fortune falls, Will bless the [[King]]—and is not this course pious? |
-| LORD CHAMBERLAIN | Heaven keep me from such counsel! ’Tis most true— These news are everywhere, every tongue speaks ’em, And every true heart weeps for’t. All that dare Look into these affairs see this main end— The French [[King|king]]’s sister. Heaven will one day open The [[King]]’s eyes, that so long have slept, upon This bold bad man. |
-| SUFFOLK | And free us from his [[Slavery|slavery]]. |
-| NORFOLK. | We had need pray, And heartily, for our deliverance, Or this imperious man will work us all From princes into pages. All men’s honours Lie like one lump before him, to be fashioned Into what pitch he please. |
-| SUFFOLK | For me, my lords, I [[Love|love]] him not, nor [[Fear|fear]] him—there’s my creed. As I am made without him, so I’ll stand, If the [[King]] please. His curses and his blessings Touch me alike; they’re breath I not believe in. I knew him, and I know him; so I leave him To him that made him proud—the Pope. |
-| NORFOLK | Let’s in, And with some other business put the [[King]] From these sad thoughts that work too much upon him. (To the Lord Chamberlain) My lord, you’ll bear us company? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--02_exchange_lord_chamberlain" data-title="All Is True (Henry VIII) — Act II, Scene 2 — exchange (LORD CHAMBERLAIN) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LORD CHAMBERLAIN | Excuse me, The [[King]] has sent me otherwhere. Besides, You’ll find a most unfit [[Time|time]] to disturb him. Health to your lordships. |
-| NORFOLK | Thanks, my good Lord Chamberlain. Exit the Lord Chamberlain [[King]] Henry draws the curtain, and sits reading pensively |
-| SUFFOLK | How sad he looks! Sure he is much afflicted. |
-| [[King|KING]] HENRY | Who’s there? Ha? |
-| NORFOLK | Pray God he be not angry. |
-| [[King|KING]] HENRY | Who’s there, I say? How dare you thrust yourselves Into my private meditations! Who am I? Ha? |
-| NORFOLK | A gracious [[King|king]] that pardons all offences Malice ne’er meant. Our breach of duty this way Is business of estate, in which we come To know your royal pleasure. |
-| [[King|KING]] HENRY | Ye are too bold. Go to, I’ll make ye know your times of business. Is this an hour for temporal affairs? Ha? Enter [[Cardinal Wolsey]] and Cardinal Campeius, the latter with a commission Who’s there? My good lord Cardinal? O, my Wolsey, The quiet of my wounded [[Conscience|conscience]], Thou art a cure fit for a [[King|king]]. (To Campeius) You’re welcome, Most learnèd reverend sir, into our kingdom. Use us, and it. (To Wolsey) My good lord, have great care I be not found a talker. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Sir, you cannot. I would your grace would give us but an hour Of private conference. |
-| [[King|KING]] HENRY | (to Norfolk and Suffolk) We are busy; go. Norfolk and Suffolk speak privately to one another as they depart |
-| NORFOLK | This priest has no [[Pride|pride]] in him! |
-| SUFFOLK | Not to speak of. I would not be so sick, though, for his place— But this cannot continue. |
-| NORFOLK | If it do I’ll venture one have-at-him. |
-| SUFFOLK | I another. Exeunt Norfolk and Suffolk |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[King]]) Your grace has given a precedent of wisdom Above all princes in committing freely Your scruple to the voice of Christendom. Who can be angry now? What envy reach you? The Spaniard, tied by [[Blood|blood]] and favour to her, Must now confess, if they have any goodness, The trial just and noble. All the cterks— I mean the learnèd ones in Christian kingdoms— Have their free voices. Rome, the [[Nurse|nurse]] of judgement, Invited by your noble [[Self|self]], hath sent One general tongue unto us: this good man, This just and learned priest, Card’nal Campeius, Whom once more I present unto your highness. |
-| [[King|KING]] HENRY | (embracing Campeius) And once more in mine arms I bid him welcome, And thank the holy conclave for their loves. They have sent me such a man I would have wished for. |
-| CARDINAL CAMPEIUS | Your grace must needs deserve all strangers’ loves, You are so noble. To your highness’ hand I tender my commission, He gives the commission to the [[King]] (To Wolsey) by whose virtue, The [[Court]] of Rome commanding, you, my lord Cardinal of York, are joined with me their servant In the unpartial judging of this business. |
-| [[King|KING]] HENRY | Two equal men. The [[Queen]] shall be acquainted Forthwith for what you come. Where’s Gardiner? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I know your majesty has always loved her So dear in heart not to deny her that A woman of less place might ask by law— Scholars allowed freely to argue for her. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act II, Scene 2 — exchange (KING HENRY) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Ay, and the best she shall have, and my favour To him that does best, God forbid else. Cardinal, Prithee call Gardiner to me, my new secretary. [[Cardinal Wolsey]] goes to the door and calls Gardiner I find him a fit fellow. Enter Gardiner |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (aside to Gardiner) Give me your hand. Much joy and favour to you. You are the [[King]]’s now. |
-| GARDINER | (aside to Wolsey) But to be commanded For ever by your grace, whose hand has raised me. |
-| [[King|KING]] HENRY | Come hither, Gardiner. The [[King]] walks with Gardiner and whispers with him |
-| CARDINAL CAMPEIUS | (to Wolsey) My lord of York, was not one Doctor Pace In this man’s place before him? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Yes, he was. |
-| CARDINAL CAMPEIUS | Was he not held a learnèd man? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Yes, surely. |
-| CARDINAL CAMPEIUS | Believe me, there’s an ill opinion spread then, Even of yourself, lord Cardinal. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | How? Of me? |
-| CARDINAL CAMPEIUS | They will not stick to say you envied him, And fearing he would rise, he was so virtuous, Kept him a foreign man still, which so grieved him That he ran mad and died. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Heav’n’s peace be with him— That’s Christian care enough. For living murmurers There’s places of rebuke. He was a [[Fool|fool]], For he would needs be virtuous. (Gesturing towards Gardiner) That good fellow, If I command him, follows my appointment. I will have none so near else. Learn this, brother: We live not to be griped by meaner persons. |
-| [[King|KING]] HENRY | (to Gardiner) Deliver this with modesty to th’ [[Queen]]. Exit Gardiner The most convenient place that I can think of For such receipt of learning is Blackfriars; There ye shall meet about this weighty business. My Wolsey, see it furnished. O, my lord, Would it not grieve an able man to leave So sweet a bedfellow? But [[Conscience|conscience]], [[Conscience|conscience]]— O, ’tis a tender place, and I must leave her. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--01_monologue_speech" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (speech) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Trumpets: sennet. Then cornetts. Enter two vergers with short silver wands; next them two Scribes in the habit of doctors; after them the Archbishop of Canterbury [[Alone|alone]]; after him the Bishops of [[Lincoln]], Ely, Rochester, and Saint Asaph; next them, with some small distance, follows a gentleman bearing both the purse containing the great seal and a cardinal’s hat; then two priests bearing each a silver [[Cross|cross]]; then a gentleman usher, bare-headed, accompanied with a serjeant-at-arms bearing a silver mace; then two gentlemen bearing two great silver pillars; after them, side by side, the two cardinals, Wolsey and Campeius; then two noblemen with the [[Sword|sword]] and mace. The [[King]] ascends to his seat under the cloth of state; the two cardinals sit under him as judges; the [[Queen]], attended by Griffith her gentleman usher, takes place some distance from the [[King]]; the Bishops place themselves on each side the [[Court|court]] in the manner of a consistory; below them, the Scribes. The lords sit next the Bishops. The rest of the attendants stand in convenient order about the stage |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--02_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Whilst our commission from Rome is read Let [[Silence|silence]] be commanded. |
-| [[King|KING]] HENRY | What’s the need? It hath already publicly been read, And on all sides th’authority allowed. You may then spare that [[Time|time]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Be’t so. Proceed. |
-| SCRIBE | (to the Crier) Say, ‘Henry, [[King]] of England, come into the [[Court|court]]’. |
-| CRIER | Henry, [[King]] of England, come into the [[Court|court]]. |
-| [[King|KING]] HENRY | Here. |
-| SCRIBE | (to the Crier) Say, ‘Katherine, [[Queen]] of England, come into the [[Court|court]]’. |
-| CRIER | Katherine, [[Queen]] of England, come into the [[Court|court]]. The [[Queen]] makes no answer, but rises out of her chair, goes about the [[Court|court]], comes to the [[King]], and kneels at his feet. Then she speaks |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--03_monologue_queen_katherine" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (QUEEN KATHERINE) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Katherine|QUEEN KATHERINE]] | Sir, I [[Desire|desire]] you do me right and justice, And to bestow your pity on me; for I am a most poor woman, and a stranger, Born out of your dominions, having here No judge indifferent, nor no more assurance Of equal [[Friendship|friendship]] and proceeding. Alas, sir, In what have I offended you? What cause Hath my behaviour given to your displeasure That thus you should proceed to put me off, And take your good grace from me? Heaven witness I have been to you a true and humble wife, At all times to your will conformable, Ever in [[Fear|fear]] to kindle your dislike, Yea, subject to your countenance, glad or sorry As I saw it inclined. When was the hour I ever contradicted your [[Desire|desire]], Or made it not mine too? Or which of your friends Have I not strove to [[Love|love]], although I knew He were mine enemy? What friend of mine That had to him derived your anger did I Continue in my liking? Nay, gave notice He was from thence discharged? Sir, call to mind That I have been your wife in this obedience Upward of twenty years, and have been blessed With many children by you. If, in the course And process of this [[Time|time]], you can report— And prove it, too—against mine [[Honour|honour]] aught, My bond to wedlock, or my [[Love|love]] and duty Against your sacred person, in God’s name Turn me away, and let the foul‘st contempt Shut door upon me, and so give me up To the sharp’st kind of justice. Please you, sir, The [[King]] your father was reputed for A prince most prudent, of an excellent And unmatched wit and judgement. [[Ferdinand]] My father, [[King]] of Spain, was reckoned one The wisest prince that there had reigned by many A year before. It is not to be questioned That they had gathered a wise council to them Of every realm, that did [[debate]] this business, Who deemed our [[Marriage|marriage]] lawful. Wherefore I humbly Beseech you, sir, to spare me till I may Be by my friends in Spain advised, whose counsel I will implore. If not, i’th’ name of God, Your pleasure be fulfilled. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--04_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | You have here, lady, And of your choice, these reverend fathers, men Of singular integrity and learning, Yea, the elect o’th’ land, who are assembled To plead your cause. It shall be therefore bootless That longer you [[Desire|desire]] the [[Court|court]], as [[Well|well]] For your own quiet, as to rectify What is unsettled in the [[King]]. |
-| CARDINAL CAMPEIUS | His grace Hath spoken [[Well|well]] and justly. Therefore, madam, It’s fit this royal session do proceed, And that without delay their arguments Be now produced and heard. |
-| [[Queen Katherine|QUEEN KATHERINE]] | (to Wolsey) Lord Cardinal, To you I speak. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Your pleasure, madam. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Sir, I am about to weep, but thinking that We are a [[Queen|queen]], or long have dreamed so, certain The daughter of a [[King|king]], my drops of [[Tears|tears]] I’ll turn to sparks of [[Fire|fire]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Be patient yet. |
-| [[Queen Katherine|QUEEN KATHERINE]] | I will when you are humble! Nay, before, Or God will punish me. I do believe, Induced by potent circumstances, that You are mine enemy, and make my challenge You shall not be my judge. For it is you Have blown this coal betwixt my lord and me, Which God’s dew quench. Therefore I say again, I utterly abhor, yea, from my [[Soul|soul]], Refuse you for my judge, whom yet once more I hold my most malicious foe, and think not At all a friend to [[Truth|truth]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--05_monologue_cardinal_woisey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (CARDINAL WOISEY) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CARDINAL WOISEY | I do profess You speak not like yourself, who ever yet Have stood to [[Charity|charity]], and displayed th‘effects Of disposition gentle and of wisdom O’er-topping woman’s power. Madam, you do me wrong. I have no spleen against you, nor injustice For you or any. How far I have proceeded, Or how far further shall, is warranted By a commission from the consistory, Yea, the whole consistory of Rome. You charge me That I ‘have blown this coal’. I do deny it. The [[King]] is present. If it be known to him That I gainsay my deed, how may he wound, And worthily, my falsehood—yea, as much As you have done my [[Truth|truth]]. If he know That I am free of your report, he knows I am not of your wrong. Therefore in him It lies to cure me, and the cure is to Remove these thoughts from you. The which before His highness shall speak in, I do beseech You, gracious madam, to unthink your speaking, And to say so no more. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--06_exchange_queen_katherine" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (QUEEN KATHERINE) [6]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Queen Katherine|QUEEN KATHERINE]] | My lord, my lord— I am a simple woman, much too weak T‘oppose your cunning. You’re meek and humblemouthed; You sign your place and calling, in full seeming, With meekness and [[Humility|humility]]—but your heart Is crammed with arrogancy, spleen, and [[Pride|pride]]. You have by fortune and his highness’ favours Gone slightly o’er low steps, and now are mounted Where powers are your retainers, and your words, Domestics to you, serve your will as’t please Yourself pronounce their office. I must tell you, You tender more your person’s [[Honour|honour]] than Your high profession spiritual, that again I do refuse you for my judge, and here, Before you all, appeal unto the Pope, To bring my whole cause ’fore his holiness, And to be judged by him. She curtsies to the [[King]] and begins to depart |
-| CARDINAL CAMPEIUS | The [[Queen]] is obstinate, Stubborn to justice, apt to accuse it, and Disdainful to be tried by’t. ’Tis not [[Well|well]]. She’s going away. |
-| [[King|KING]] HENRY | (to the Crier) Call her again. |
-| CRIER | Katherine, [[Queen]] of England, come into the [[Court|court]]. |
-| GRIFFITH | (to the [[Queen]]) Madam, you are called back. |
-| [[Queen Katherine|QUEEN KATHERINE]] | What need you note it? Pray you keep your way. When you are called, return. Now the Lord help. They vex me past my patience. Pray you, pass on. I will not tarry; no, nor ever more Upon this business my appearance make In any of their courts. Exeunt [[Queen Katherine]] and her attendants |
-| [[King|KING]] HENRY | Go thy ways, Kate. That man i’th’ world who shall report he has A better wife, let him in naught be trusted For speaking false in that. Thou art [[Alone|alone]]— If thy rare qualities, sweet gentleness, Thy meekness saint-like, wife-like [[government]], Obeying in commanding, and thy parts Sovereign and pious else could speak thee out— The [[Queen|queen]] of earthly queens. She’s noble born, And like her true nobility she has Carried herself towards me. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Most gracious sir, In humblest manner I require your highness That it shall please you to declare in hearing Of all these ears—for where I am robbed and bound, There must I be unloosed, although not there At once and fully satisfied—whether ever I Did broach this business to your highness, or Laid any scruple in your way which might Induce you to the question on’t, or ever Have to you, but with thanks to God for such A royal lady, spake one the least word that might Be to the prejudice of her present state, Or touch of her good person? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--07_monologue_king_henry" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (KING HENRY) [7]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | My lord Cardinal, I do excuse you; yea, upon mine [[Honour|honour]], I free you from’t. You are not to be taught That you have many enemies that know not Why they are so, but, like to village curs, Bark when their fellows do. By some of these The [[Queen]] is put in anger. You’re excused. But will you be more justified? You ever Have wished the sleeping of this business, never desired It to be stirred, but oft have hindered, oft, The passages made toward it. On my [[Honour|honour]] I speak my good lord Card’nal to this point, And thus far clear him. Now, what moved me to’t, I will be bold with [[Time|time]] and your attention. Then mark th‘inducement. Thus it came—give heed to’t. My [[Conscience|conscience]] first received a tenderness, Scruple, and prick, on certain speeches uttered By th’ Bishop of Bayonne, then French Ambassador, Who had been hither sent on the debating A [[Marriage|marriage]] ’twixt the Duke of Orléans and Our daughter Mary. I‘th’ progress of this business, Ere a determinate resolution, he— I mean the Bishop—did require a respite Wherein he might the [[King]] his lord advertise Whether our daughter were legitimate, Respecting this our [[Marriage|marriage]] with the dowager, Sometimes our brother’s wife. This respite shook The bosom of my [[Conscience|conscience]], entered me, Yea, with a spitting power, and made to tremble The region of my breast; which forced such way That many mazed considerings did throng And prest in with this caution. First, methought I stood not in the smile of heaven, who had Commanded [[Nature|nature]] that my lady’s womb, If it conceived a male [[Child|child]] by me, should Do no more offices of life to’t than The [[Grave|grave]] does yield to th’ dead. For her male issue Or died where they were made, or shortly after This world had aired them. Hence I took a thought This was a judgement on me that my kingdom, [[Well]] worthy the best heir o’th’ world, should not Be gladded in’t by me. Then follows that I weighed the danger which my realms stood in By this my issue’s fail, and that gave to me Many a groaning throe. Thus hulling in The wild sea of my [[Conscience|conscience]], I did steer Toward this remedy, whereupon we are Now present here together—that’s to say I meant to rectify my [[Conscience|conscience]], which I then did feel full sick, and yet not [[Well|well]], By all the reverend fathers of the land And doctors learned. First I began in private With you, my lord of [[Lincoln]]. You remember How under my oppression I did reek When I first moved you. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--08_exchange_lincoln" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (LINCOLN) [8]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Lincoln|LINCOLN]] | Very [[Well|well]], my liege. |
-| [[King|KING]] HENRY | I have spoke long. Be pleased yourself to say How far you satisfied me. |
-| [[Lincoln|LINCOLN]] | So please your highness, The question did at first so stagger me, Bearing a state of mighty moment in’t And consequence of dread, that I committed The daring’st counsel which I had to [[Doubt|doubt]], And did entreat your highness to this course Which you are running here. |
-| [[King|KING]] HENRY | (to Canterbury) I then moved you, My lord of Canterbury, and got your leave To make this present summons. Unsolicited I left no reverend person in this [[Court|court]], But by particular consent proceeded Under your hands and seals. Therefore, go on, For no dislike i‘th’ world against the person Of the good [[Queen]], but the sharp thorny points Of my alleged reasons, drives this forward. Prove but our [[Marriage|marriage]] lawful, by my life And kingly dignity, we are contented To wear our mortal state to come with her, Katherine, our [[Queen|queen]], before the primest creature That’s paragoned o’th’ world. |
-| CARDINAL CAMPEIUS | So please your highness, The [[Queen]] being absent, ’tis a needful fitness That we adjourn this [[Court|court]] till further day. Meanwhile must be an earnest motion Made to the [[Queen]] to call back her appeal She intends unto his holiness. |
-| [[King|KING]] HENRY | (aside) I may perceive These cardinals trifle with me. I abhor This dilatory sloth and tricks of Rome. My learned and [[Well|well]]-belovèd servant, [[Cranmer]], Prithee return. With thy approach I know My comfort comes along. (Aloud) Break up the [[Court|court]]. I say, set on. Exeunt in manner as they entered |
-| [[King|KING]] HENRY | 3.1 Enter [[Queen Katherine]] and her women, as at work |
-| [[Queen Katherine|QUEEN KATHERINE]] | Take thy lute, wench. My [[Soul|soul]] grows sad with troubles. Sing, and disperse ’em if thou canst. Leave working. |
-| GENTLEWOMAN | (sings) Orpheus with his lute made trees, And the mountain tops that freeze, Bow themselves when he did sing. To his music plants and [[Flowers|flowers]] Ever sprung, as sun and showers There had made a lasting [[spring]]. Everything that heard him play, Even the billows of the sea, Hung their heads, and then lay by. In sweet music is such art, Killing care and grief of heart Fall asleep, or hearing, die. Enter Griffith, a gentleman |
-| [[Queen Katherine|QUEEN KATHERINE]] | How now? GRIFFITH An’t please your grace, the two great cardinals Wait in the presence. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Would they speak with me? GRIFFITH They willed me say so, madam. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Pray their graces To come near. Exit Griffith What can be their business With me, a poor weak woman, fall’n from favour? I do not like their coming, now I think on’t; They should be good men, their affairs as righteous— But all hoods make not [[Monks|monks]]. Enter the two cardinals, Wolsey and Campeius, ushered by Griffith |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Peace to your highness. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Your graces find me here part of a housewife— I would be all, against the worst may happen. What are your pleasures with me, reverend lords? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--09_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [9]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | May it please you, noble madam, to withdraw Into your private chamber, we shall give you The full cause of our coming. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Speak it here. There’s nothing I have done yet, o’ my [[Conscience|conscience]], Deserves a corner. Would all other women Could speak this with as free a [[Soul|soul]] as I do. My lords, I care not—so much I am happy Above a number—if my actions Were tried by ev’ry tongue, ev’ry eye saw ’em, Envy and base opinion set against ’em, I know my life so even. If your business Seek me out and that way I am wife in, Out with it boldly. [[Truth]] loves open dealing. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Tanta est erga te mentis integritas, Regina serenissima— |
-| [[Queen Katherine|QUEEN KATHERINE]] | O, good my lord, no Latin. I am not such a truant since my coming As not to know the language I have lived in. A strange tongue makes my cause more strange suspicious— Pray, speak in English. Here are some will thank you, If you speak [[Truth|truth]], for their poor mistress’ sake. Believe me, she has had much wrong. Lord Cardinal, The willing’st sin I ever yet committed May be absolved in English. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Noble lady, I am sorry my integrity should breed—so And service to his majesty and you— So deep suspicion, where all [[Faith|faith]] was meant. We come not by the way of accusation, To taint that [[Honour|honour]] every good tongue blesses, Nor to betray you any way to sorrow— You have too much, good lady—but to know How you stand minded in the weighty difference Between the [[King]] and you, and to deliver, Like free and honest men, our just opinions And comforts to your cause. |
-| CARDINAL CAMPEIUS | Most honoured madam, My lord of York, out of his noble [[Nature|nature]], Zeal, and obedience he still bore your grace, Forgetting, like a good man, your late censure Both of his [[Truth|truth]] and him—which was too far— Offers, as I do, in a sign of peace, His service and his counsel. |
-| [[Queen Katherine|QUEEN KATHERINE]] | (aside) To betray me. (Aloud) My lords, I thank you both for your good wills. Ye speak like honest men—pray God ye prove so. But how to make ye suddenly an answer In such a point of weight, so near mine [[Honour|honour]]— More near my life, I [[Fear|fear]]—with my weak wit, And to such men of gravity and learning, In [[Truth|truth]] I know not. I was set at work Among my maids, full little—God knows—looking Either for such men or such business. For her sake that I have been—for I feel The last fit of my [[Greatness|greatness]]—good your graces, Let me have [[Time|time]] and counsel for my cause. Alas, I am a woman friendless, hopeless. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Madam, you wrong the [[King]]’s [[Love|love]] with these fears. Your hopes and friends are infinite. |
-| [[Queen Katherine|QUEEN KATHERINE]] | In England But little for my profit. Can you think, lords, That any Englishman dare give me counsel, Or be a known friend ’gainst his highness’ pleasure— Though he be grown so desperate to be honest— And live a subject? Nay, forsooth, my friends, They that must weigh out my afflictions, They that my trust must grow to, live not here. They are, as all my other comforts, far hence, In mine own country, lords. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--10_exchange_cardinal_campeius" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL CAMPEIUS) [10]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CARDINAL CAMPEIUS | I would your grace Would leave your griefs and take my counsel. |
-| [[Queen Katherine|QUEEN KATHERINE]] | How, sir? |
-| CARDINAL CAMPEIUS | Put your main cause into the [[King]]’s protection. He’s loving and most gracious. ’Twill be much Both for your [[Honour|honour]] better and your cause, For if the trial of the law o’ertake ye You’ll part away disgraced. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[Queen]]) He tells you rightly. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Ye tell me what ye wish for both—my ruin. Is this your Christian counsel? Out upon ye! Heaven is above all yet—there sits a judge That no [[King|king]] can corrupt. |
-| CARDINAL CAMPEIUS | Your rage mistakes us. |
-| [[Queen Katherine|QUEEN KATHERINE]] | The more shame for ye! Holy men I thought ye, Upon my [[Soul|soul]], two reverend cardinal virtues— But cardinal sins and hollow hearts I [[Fear|fear]] ye. Mend ’em, for shame, my lords! Is this your comfort? The cordial that ye bring a wretched lady, A woman lost among ye, laughed at, scorned? I will not wish ye half my miseries— I have more [[Charity|charity]]. But say I warned ye. Take heed, for, heaven’s sake take heed, lest at once The burden of my sorrows fall upon ye. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Madam, this is a mere distraction. You turn the good we offer into envy. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Ye turn me into nothing. Woe upon ye, And all such false professors. Would you have me— If you have any justice, any pity, If ye be anything but churchmen’s habits— Put my sick cause into his hands that hates me? Alas, he’s banished me his bed already— His [[Love|love]], too, long ago. I am old, my lords, And all the fellowship I hold now with him Is only my obedience. What can happen To me above this wretchedness? All your studies Make me accursed like this. |
-| CARDINAL CAMPEIUS | Your fears are worse. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Have I lived thus long—let me speak myself, Since virtue finds no friends—a wife, a true one? A woman, I dare say, without vainglory, Never yet branded with suspicion? Have I with all my full affections Still met the [[King]], loved him next heav‘n, obeyed him, Been out of fondness superstitious to him, Almost forgot my prayers to content him? And am I thus rewarded? ’Tis not [[Well|well]], lords. Bring me a constant woman to her husband, One that ne’er dreamed a joy beyond his pleasure, And to that woman when she has done most, Yet will I add an [[Honour|honour]], a great patience. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Madam, you wander from the good we aim at. |
-| [[Queen Katherine|QUEEN KATHERINE]] | My lord, I dare not make myself so guilty To give up willingly that noble title Your master wed me to. Nothing but [[Death|death]] Shall e’er [[divorce]] my dignities. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Pray, hear me. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Would I had never trod this English earth, Or felt the flatteries that grow upon it. Ye have angels’ faces, but heaven knows your hearts. What will become of me now, wretched lady? I am the most unhappy woman living. (To her women) Alas, poor wenches, where are now your fortunes? Shipwrecked upon a kingdom where no pity, No friends, no [[Hope|hope]], no kindred weep for me? Almost no [[Grave|grave]] allowed me? Like the lily, That once was mistress of the field and flourished, I’ll hang my head and perish. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_4--11_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [11]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | If your grace Could but be brought to know our ends are honest, You’d feel more comfort. Why should we, good lady, Upon what cause, wrong you? Alas, our places, The way of our profession, is against it. We are to cure such sorrows, not to sow ’em. For goodness’ sake, consider what you do, How you may hurt yourself, ay, utterly Grow from the [[King]]’s acquaintance by this carriage. The hearts of princes kiss obedience, So much they [[Love|love]] it, but to stubborn spirits They swell and grow as terrible as storms. I know you have a gentle noble temper, A [[Soul|soul]] as even as a calm. Pray, think us Those we profess—peacemakers, friends, and servants. |
-| CARDINAL CAMPEIUS | Madam, you’ll find it so. You wrong your virtues With these weak women’s fears. A noble spirit, As yours was put into you, ever casts Such doubts as false coin from it. The [[King]] loves you. Beware you lose it not. For us, if you please To trust us in your business, we are ready To use our utmost studies in your service. |
-| QUEENS KATHERINE | Do what ye will, my lords, and pray forgive me. If I have used myself unmannerly, You know I am a woman, lacking wit To make a seemly answer to such persons. Pray do my service to his majesty. He has my heart yet, and shall have my prayers While I shall have my life. Come, reverend fathers, Bestow your counsels on me. She now begs That little thought, when she set footing here, She should have bought her dignities so dear. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the Duke of Norfolk, the [[Duke of Suffolk]], Lord Surrey, and the Lord Chamberlain |
-| NORFOLK | If you will now unite in your complaints, And force them with a constancy, the Cardinal Cannot stand under them. If you omit The offer of this [[Time|time]], I cannot promise But that you shall sustain more new disgraces With these you bear already. |
-| SURREY | I am joyful To meet the least occasion that may give me Remembrance of my father-in-law the Duke, To be revenged on him. |
-| SUFFOLK | Which of the peers Have uncontemned gone by him, or at least Strangely neglected? When did he regard The stamp of nobleness in any person Out of himself? |
-| LORD CHAMBERLAIN | My lords, you speak your pleasures. What he deserves of you and me I know; What we can do to him—though now the [[Time|time]] Gives way to us—I much [[Fear|fear]]. If you cannot Bar his access to th’ [[King]], never attempt Anything on him, for he hath a witchcraft Over the [[King]] in’s tongue. |
-| NORFOLK | O, [[Fear|fear]] him not. His spell in that is out. The [[King]] hath found Matter against him that for ever mars The honey of his language. No, he’s settled, Not to come off, in his displeasure. |
-| SURREY | Sir, I should be glad to hear such news as this Once every hour. |
-| NORFOLK | Believe it, this is true. In the [[divorce]] his contrary proceedings Are all unfolded, wherein he appears As I would wish mine enemy. |
-| SURREY | How came His practices to light? |
-| SUFFOLK | Most strangely. |
-| SURREY | O, how, how? |
-| SUFFOLK | The Cardinal’s letters to the Pope miscarried, And came to th’eye o’th’ [[King]], wherein was read How that the Cardinal did entreat his holiness To stay the judgement o‘th’ [[divorce]], for if It did take place, ‘I do’, quoth he, ‘perceive My [[King|king]] is tangled in affection to A creature of the [[Queen]]’s, [[Lady Anne]] Boleyn’. |
-| SURREY | Has the [[King]] this? |
-| SUFFOLK | Believe it. |
-| SURREY | Will this work? |
-| LORD CHAMBERLAIN | The [[King]] in this perceives him how he coasts And hedges his own way. But in this point All his tricks founder, and he brings his physic After his patient’s [[Death|death]]. The [[King]] already Hath married the fair lady. |
-| SURREY | Would he had. |
-| SUFFOLK | May you be happy in your wish, my lord, For I profess you have it. |
-| SURREY | Now all my joy Trace the conjunction. |
-| SUFFOLK | My amen to’t. |
-| NORFOLK | All men’s. |
-| SUFFOLK | There’s order given for her coronation. Marry, this is yet but young, and may be left To some ears unrecounted. But, my lords, She is a gallant creature, and complete In mind and feature. I persuade me, from her Will fall some blessing to this land which shall In it be memorized. |
-| SURREY | But will the [[King]] Digest this letter of the Cardinal’s? The Lord forbid! |
-| NORFOLK | Marry, amen. |
-| SUFFOLK | No, no— There be more wasps that buzz about his nose Will make this sting the sooner. Cardinal Campeius Is stol’n away to Rome; hath ta’en no leave; Has left the cause o’th’ [[King]] unhandled, and Is posted as the agent of our Cardinal To second all his plot. I do assure you The [[King]] cried ‘Ha!’ at this. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--02_exchange_lord_chamberlain" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (LORD CHAMBERLAIN) [2]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LORD CHAMBERLAIN | Now God incense him, And let him cry ‘Ha!’ louder. |
-| NORFOLK | But, my lord, When returns [[Cranmer]]? |
-| SUFFOLK | He is returned in his opinions, which Have satisfied the [[King]] for his [[divorce]], Together with all famous colleges, Almost, in Christendom. Shortly, I believe, His second [[Marriage|marriage]] shall be published, and Her coronation. Katherine no more Shall be called ‘[[Queen]]’, but ‘Princess Dowager’, And ‘widow to Prince [[arthur|Arthur]]’. |
-| NORFOLK | This same [[Cranmer]]’s A worthy fellow, and hath ta’en much [[Pain|pain]] In the [[King]]’s business. |
-| SUFFOLK | He has, and we shall see him For it an archbishop. |
-| NORFOLK | So I hear. |
-| SUFFOLK | ’Tis so. Enter [[Cardinal Wolsey]] and Cromwell The Cardinal. |
-| NORFOLK | Observe, observe—he’s moody. They stand apart and observe Wolsey and Cromwell |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to Cromwell) The packet, Cromwell—gave’t you the [[King]]? CROMWELI, To his own hand, in’s bedchamber. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Looked he O’th’ inside of the paper? CROMWELL, Presently He did unseal them, and the first he viewed He did it with a serious mind; a heed Was in his countenance. You he bade Attend him here this morning. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Is he ready To come abroad? |
-| CROMWELL | I think by this he is. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Leave me a while. Exit Cromwell (Aside) It shall be to the Duchess of Alençon, The French [[King]]’s sister—he shall marry her. Anne Boleyn? No, I’ll no Anne Boleyns for him. There’s more in’t than fair visage. Boleyn? No, we’ll no Boleyns. Speedily I wish To hear from Rome. The [[Marchioness]] of Pembroke? The nobles speak among themselves |
-| NORFOLK | He’s discontented. |
-| SUFFOLK | Maybe he hears the [[King]] Does whet his anger to him. |
-| SURREY | Sharp enough, Lord, for thy justice. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (aside) The late [[Queen]]’s gentlewoman? A knight’s daughter To be her mistress’ mistress? The [[Queen]]’s [[Queen|queen]]? This candle burns not clear; ‘tis I must snuff it, Then out it goes. What though I know her virtuous And [[Well|well]] deserving? Yet I know her for A spleeny Lutheran, and not wholesome to Our cause, that she should lie i’th’ bosom of Our hard-ruled [[King]]. Again, there is sprung up An heretic, an arch-one, [[Cranmer]], one Hath crawled into the favour of the [[King]] And is his oracle. The nobles speak among themselves |
-| NORFOLK | He is vexed at something. Enter [[King]] Henry reading a schedule, and Lovell with him |
-| SURREY | I would ’twere something that would fret the string, The master-cord on’s heart! |
-| SUFFOLK | The [[King]], the [[King]]! |
-| [[King|KING]] HENRY | aside What piles of wealth hath he accumulated To his own portion? And what expense by th’ hour Seems to flow from him? How i’th’ name of thrift Does he rake this together? (To the nobles) Now, my lords, Saw you the Cardinal? |
-| NORFOLK | My lord, we have Stood here observing him. Some strange commotion Is in his brain. He bites his lip, and starts, Stops on a sudden, looks upon the ground, Then lays his finger on his temple, straight Springs out into fast gait, then stops again, Strikes his breast hard, and anon he casts His eye against the [[Moon|moon]]. In most strange postures We have seen him set himself. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (KING HENRY) [3]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | It may [[Well|well]] be There is a mutiny in’s mind. This morning Papers of state he sent me to peruse As I required, and wot you what I found There, on my [[Conscience|conscience]] put unwittingly? Forsooth, an inventory thus importing The several parcels of his plate, his treasure, Rich stuffs, and ornaments of household which I find at such proud rate that it outspeaks Possession of a subject. |
-| NORFOLK | It’s heaven’s will. Some spirit put this paper in the packet To bless your eye withal. |
-| [[King|KING]] HENRY | If we did think His contemplation were above the earth And fixed on spiritual object, he should still Dwell in his musings. But I am afraid His thinkings are below the [[Moon|moon]], not worth His serious considering. The [[King]] takes his seat and whispers with Lovell, who then goes to the Cardinal |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Heaven forgive me! To the [[King]] Ever God bless your highness! |
-| [[King|KING]] HENRY | Good my lord, You are full of heavenly stuff, and bear the inventory Of your best graces in your mind, the which You were now running o’er. You have scarce [[Time|time]] To steal from spiritual leisure a brief span To keep your earthly audit. Sure, in that, I deem you an ill husband, and am glad To have you therein my companion. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Sir, For holy offices I have a [[Time|time]]; a [[Time|time]] To think upon the part of business which I bear i’th’ state; and [[Nature|nature]] does require Her times of preservation which, perforce, I, her frail son, amongst my brethren mortal, Must give my tendance to. |
-| [[King|KING]] HENRY | You have said [[Well|well]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | And ever may your highness yoke together, As I will lend you cause, my doing [[Well|well]] With my [[Well|well]]-saying. |
-| [[King|KING]] HENRY | ’Tis [[Well|well]] said again, And ’tis a kind of good deed to say [[Well|well]]— And yet words are no deeds. My father loved you. He said he did, and with his deed did [[Crown|crown]] His word upon you. Since I had my office, I have kept you next my heart, have not [[Alone|alone]] Employed you where high profits might come [[Home|home]], But pared my present havings to bestow My bounties upon you. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (aside) What should this mean? |
-| SURREY | aside The Lord increase this business! |
-| [[King|KING]] HENRY | Have I not made you The prime man of the state? I pray you tell me If what I now pronounce you have found true, And, if you may confess it, say withal If you are bound to us or no. What say you? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | My sovereign, I confess your royal graces Showered on me daily have been more than could My studied purposes requite, which went Beyond all man’s endeavours. My endeavours Have ever come too short of my desires, Yet filed with my abilities. Mine own ends Have been mine so that evermore they pointed To th’ good of your most sacred person and The profit of the state. For your great graces Heaped upon me, poor undeserver, I Can nothing render but allegiant thanks, My prayers to heaven for you, my loyalty, Which ever has and ever shall be growing, Till [[Death|death]], that [[Winter|winter]], kill it. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--04_exchange_king_henry" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (KING HENRY) [4]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Fairly answered. A loyal and obedient subject is Therein illustrated. The [[Honour|honour]] of it Does pay the act of it, as, i‘th’ contrary, The foulness is the punishment. I presume That as my hand has opened bounty to you, My heart dropped [[Love|love]], my power rained [[Honour|honour]], more On you than any, so your hand and heart, Your brain, and every function of your power, Should, notwithstanding that your bond of duty, As ’twere in [[Love|love]]’s particular, be more To me, your friend, than any. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I do profess That for your highness’ good I ever laboured More than mine own; that am, have, and will be— Though all the world should crack their duty to you, And throw it from their [[Soul|soul]], though perils did Abound, as thick as thought could make ’em, and Appear in forms more horrid—yet, my duty, As doth a rock against the chiding flood, Should the approach of this wild [[River|river]] break, And stand unshaken yours. |
-| [[King|KING]] HENRY | ’Tis nobly spoken. Take notice, lords, he has a loyal breast, For you have seen him open’t. (To Wolsey) Read o’er this, He gives him a paper And after this (giving him another paper), and then to breakfast with What appetite you have. Exit [[King]] Henry, frowning upon the Cardinal. The nobles throng after the [[King]], smiling and whispering |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--05_monologue_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — monologue (CARDINAL WOLSEY) [5]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What should this mean? What sudden anger’s this? How have I reaped it? He parted frowning from me, as if ruin Leaped from his eyes. So looks the chafed [[Lion|lion]] Upon the daring huntsman that has galled him, Then makes him nothing. I must read this paper— I [[Fear|fear]], the story of his anger. He reads one of the papers ’Tis so. This paper has undone me. ’Tis th‘account Of all that world of wealth I have drawn together For mine own ends—indeed, to gain the popedom, And fee my friends in Rome. O negligence, Fit for a [[Fool|fool]] to fall by! What [[Cross|cross]] devil Made me put this main secret in the packet I sent the [[King]]? Is there no way to cure this? No new device to beat this from his brains? I know ’twill stir him strongly. Yet I know A way, if it take right, in spite of fortune Will bring me off again. What’s this? He reads the other paper ‘To th’ Pope’? The letter, as I live, with all the business I writ to’s holiness. Nay then, farewell. I have touched the highest point of all my [[Greatness|greatness]], And from that full meridian of my glory I haste now to my setting. I shall fall Like a bright exhalation in the evening, And no man see me more. Enter to [[Cardinal Wolsey]] the Dukes of Norfolk and Suffolk, the [[Earl of Surrey]], and the Lord Chamberlain |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--06_exchange_norfolk" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (NORFOLK) [6]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| NORFOLK | Hear the [[King]]’s pleasure, Cardinal, who commands you To render up the great seal presently Into our hands, and to confine yourself To Ashen [[house|House]], my lord of Winchester’s, Till you hear further from his highness. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Stay— Where’s your commission, lords? Words cannot carry Authority so weighty. |
-| SUFFOLK | Who dare [[Cross|cross]] ’em Bearing the [[King]]’s will from his mouth expressly? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Till I find more than will or words to do it— I mean your malice—know, officious lords, I dare and must deny it. Now I feel Of what coarse metal ye are moulded—envy. How eagerly ye follow my disgraces As if it fed ye, and how sleek and wanton Ye appear in everything may bring my ruin! Follow your envious courses, men of malice. You have Christian warrant for ’em, and no [[Doubt|doubt]] In [[Time|time]] will find their fit rewards. That seal You ask with such a violence, the [[King]], Mine and your master, with his own hand gave me, Bade me enjoy it, with the place and honours, During my life; and, to confirm his goodness, Tied it by letters patents. Now, who’ll take it? |
-| SURREY | The [[King]] that gave it. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | It must be himself then. |
-| SURREY | Thou art a proud traitor, priest. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Proud lord, thou liest. Within these forty hours Surrey durst better Have burnt that tongue than said so. |
-| SURREY | Thy [[Ambition|ambition]], Thou scarlet sin, robbed this bewailing land Of noble [[Buckingham]], my father-in-law. The heads of all thy brother cardinals With thee and all thy best parts bound together Weighed not a hair of his. Plague of your policy, You sent me deputy for Ireland, Far from his succour, from the [[King]], from all That might have [[Mercy|mercy]] on the fault thou gav’st him; Whilst your great goodness, out of holy pity, Absolved him with an axe. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | This, and all else This talking lord can lay upon my credit, I answer is most false. The Duke by law Found his deserts. How [[Innocent|innocent]] I was From any private malice in his end, His noble jury and foul cause can witness. If I loved many words, lord, I should tell you You have as little honesty as [[Honour|honour]], That in the way of loyalty and [[Truth|truth]] Toward the [[King]], my ever royal master, Dare mate a sounder man than Surrey can be, And all that [[Love|love]] his follies. |
-| SURREY | By my [[Soul|soul]], Your long coat, priest, protects you; thou shouldst feel My [[Sword|sword]] i’th’ life-[[Blood|blood]] of thee else. My lords, Can ye endure to hear this arrogance, And from this fellow? If we live thus tamely, To be thus jaded by a piece of scarlet, Farewell nobility. Let his grace go forward And dare us with his cap, like larks. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | All goodness Is [[Poison|poison]] to thy stomach. |
-| SURREY | Yes, that goodness Of gleaning all the land’s wealth into one, Into your own hands, Card’nal, by extortion; The goodness of your intercepted packets You writ to th’ Pope against the [[King]]; your goodness— Since you provoke me—shall be most notorious. My lord of Norfolk, as you are truly noble, As you respect the common good, the state Of our despised nobility, our issues— Whom if he live will scarce be gentlemen— Produce the grand sum of his sins, the articles Collected from his life. (To Wolsey) I’ll startle you Worse than the sacring-bell when the brown wench Lay kissing in your arms, lord Cardinal. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--07_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (CARDINAL WOLSEY) [7]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | aside How much, methinks, I could despise this man, But that I am bound in [[Charity|charity]] against it. |
-| NORFOLK | (to Surrey) Those articles, my lord, are in the [[King]]’s hand; But thus much—they are foul ones. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | So much fairer And spotless shall mine [[innocence]] arise When the [[King]] knows my [[Truth|truth]]. |
-| SURREY | This cannot save you. I thank my [[Memory|memory]] I yet remember Some of these articles, and out they shall. Now, if you can blush and cry ‘Guilty’, Cardinal, You’ll show a little honesty. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Speak on, sir; I dare your worst objections. If I blush, It is to see a nobleman want manners. |
-| SURREY | I had rather want those than my head. Have at you! First, that without the [[King]]’s assent or knowledge You wrought to be a legate, by which power You maimed the jurisdiction of all bishops. |
-| NORFOLK | (to Wolsey) Then, that in all you writ to Rome, or else To foreign princes, ‘Ego et Rex meus’ |
-| NORFOLK | Was still inscribed—in which you brought the [[King]] To be your servant. |
-| SUFFOLK | (to Wolsey) Then, that without the knowledge Either of [[King]] or Council, when you went Ambassador to the Emperor, you made bold To carry into Flanders the great seal. |
-| SURREY | (to Wolsey) Item, you sent a large commission To Gregory de Cassado, to conclude, Without the [[King]]’s will or the state’s allowance, A league between his highness and Ferrara, |
-| SUFFOLK | (to Wolsey) That out of mere [[Ambition|ambition]] you have caused Your holy hat to be stamped on the [[King]]’s coin. |
-| SURREY | (to Wolsey) Then, that you have sent innumerable substance— By what means got, I leave to your own [[Conscience|conscience]]— To furnish Rome, and to prepare the ways You have for dignities to the mere undoing Of all the kingdom. Many more there are, Which since they are of you, and odious, I will not taint my mouth with. |
-| LORD CHAMBERLAIN | O, my lord, Press not a falling man too far. ’Tis virtue. His faults lie open to the laws. Let them, Not you, correct him. My heart weeps to see him So little of his great [[Self|self]]. |
-| SURREY | I forgive him. |
-| SUFFOLK | Lord Cardinal, the [[King]]’s further pleasure is— Because all those things you have done of late, By your power legantine within this kingdom, Fall into th’ compass of a praemunire— That therefore such a writ be sued against you, To forfeit all your goods, lands, tenements, Chattels, and whatsoever, and to be Out of the [[King]]’s protection. This is my charge. |
-| NORFOLK | (to Wolsey) And so we’ll leave you to your meditations How to live better. For your stubborn answer About the giving back the great seal to us, The [[King]] shall know it and, no [[Doubt|doubt]], shall thank you. So fare you [[Well|well]], my little good lord Cardinal. Exeunt all but Wolsey |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--08_monologue_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — monologue (CARDINAL WOLSEY) [8]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | So farewell—to the little good you bear me. Farewell, a long farewell, to all my [[Greatness|greatness]]! This is the state of man. Today he puts forth The tender [[Leaves|leaves]] of hopes; tomorrow blossoms, And bears his blushing honours thick upon him; The third day comes a [[Frost|frost]], a killing [[Frost|frost]], And when he thinks, good easy man, full surely His [[Greatness|greatness]] is a-ripening, nips his root, And then he falls, as I do. I have ventured, Like little wanton boys that swim on bladders, This many summers in a sea of glory, But far beyond my depth; my high-blown [[Pride|pride]] At length broke under me, and now has left me Weary, and old with service, to the [[Mercy|mercy]] Of a rude stream that must for ever hide me. Vain pomp and glory of this world, I hate ye! I feel my heart new opened. O, how wretched Is that poor man that hangs on princes’ favours! There is betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have, And when he falls, he falls like [[Lucifer]], Never to [[Hope|hope]] again. Enter Cromwell, who then stands amazed Why, how now, Cromwell? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--09_exchange_cromwell" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (CROMWELL) [9]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CROMWELL | I have no power to speak, sir. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What, amazed At my misfortunes? Can thy spirit [[Wonder|wonder]] A great man should decline? Cromwell begins to weep Nay, an you weep I am fall’n indeed. |
-| CROMWELL | How does your grace? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Why, [[Well|well]]— Never so truly happy, my good Cromwell. I know myself now, and I feel within me A peace above all earthly dignities, A still and quiet [[Conscience|conscience]]. The [[King]] has cured me. I humbly thank his grace, and from these shoulders, These ruined pillars, out of pity, taken A load would sink a navy—too much [[Honour|honour]]. O, ’tis a burden, Cromwell, ’tis a burden Too heavy for a man that hopes for heaven. |
-| CROMWELL | I am glad your grace has made that right use of it. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I [[Hope|hope]] I have. I am able now, methinks, Out of a fortitude of [[Soul|soul]] I feel, To endure more miseries and greater far Than my weak-hearted enemies dare offer. What news abroad? |
-| CROMWELL | The heaviest and the worst Is your displeasure with the [[King]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | God bless him. |
-| CROMWELL | The next is that [[Sir Thomas More]] is chosen Lord Chancellor in your place. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | That’s somewhat sudden. But he’s a learnèd man. May he continue Long in his highness’ favour, and do justice For [[Truth|truth]]’s sake and his [[Conscience|conscience]], that his bones, When he has run his course and sleeps in blessings, May have a tomb of orphans’ [[Tears|tears]] wept on him. What more? |
-| CROMWELL | That [[Cranmer]] is returned with welcome, Installed lord Archbishop of Canterbury. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | That’s news indeed. |
-| CROMWELL | Last, that the [[Lady Anne]], Whom the [[King]] hath in secrecy long married, This day was viewed in open as his [[Queen|queen]], Going to chapel, and the voice is now Only about her coronation. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | There was the weight that pulled me down. O, Cromwell, The [[King]] has gone beyond me. All my glories In that one woman I have lost for ever. No sun shall ever usher forth mine honours, Or gild again the noble troops that waited Upon my smiles. Go, get thee from me, Cromwell. I am a poor fall’n man, unworthy now To be thy lord and master. Seek the [[King]]— That sun I pray may never set—I have told him What and how true thou art. He will advance thee. Some little [[Memory|memory]] of me will stir him. I know his noble [[Nature|nature]] not to let Thy hopeful service perish too. Good Cromwell, Neglect him not. Make use now, and provide For thine own future safety. |
-| CROMWELL | weeping O, my lord, Must I then leave you? Must I needs forgo So good, so noble, and so true a master? Bear witness, all that have not hearts of iron, With what a sorrow Cromwell [[Leaves|leaves]] his lord. The [[King]] shall have my service, but my prayers For ever and for ever shall be yours. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--10_monologue_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — monologue (CARDINAL WOLSEY) [10]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (weeping) Cromwell, I did not think to shed a tear In all my miseries, but thou hast forced me, Out of thy honest [[Truth|truth]], to play the woman. Let’s dry our eyes, and thus far hear me, Cromwell, And when I am forgotten, as I shall be, And [[Sleep|sleep]] in dull cold marble, where no mention Of me more must be heard of, say I taught thee— Say Wolsey, that once trod the ways of glory, And sounded all the depths and shoals of [[Honour|honour]], Found thee a way, out of his wreck, to rise in, A sure and safe one, though thy master missed it. Mark but my fall, and that that ruined me. Cromwell, I charge thee, fling away [[Ambition|ambition]]. By that sin fell the angels. How can man, then, The image of his maker, [[Hope|hope]] to win by it? [[Love]] thyself last. Cherish those hearts that hate thee. Corruption wins not more than honesty. Still in thy right hand carry gentle peace To [[Silence|silence]] envious tongues. Be just, and [[Fear|fear]] not. Let all the ends thou aim’st at be thy country’s, Thy God’s, and [[Truth|truth]]’s. Then if thou fall’st, O Cromwell, Thou fall‘st a blessed martyr. Serve the [[King]]. And prithee, lead me in— There take an inventory of all I have: To the last penny ’tis the [[King]]’s. My robe, And my integrity to heaven, is all I dare now call mine own. O Cromwell, Cromwell, Had I but served my God with half the zeal I served my [[King]], He would not in mine age Have left me naked to mine enemies. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--11_exchange_cromwell" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (CROMWELL) [11]" data-chapter="Scene 2" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CROMWELL | Good sir, have patience. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | So I have. Farewell The hopes of [[Court|court]]; my hopes in heaven do dwell. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter the two Gentlemen meeting one another. The first holds a paper |
-| FIRST GENTLEMAN | You’re [[Well|well]] met once again. |
-| SECOND GENTLEMAN | So are you. |
-| FIRST GENTLEMAN | You come to take your stand here and behold The [[Lady Anne]] pass from her coronation? |
-| SECOND GENTLEMAN | ’Tis all my business. At our last encounter The [[Duke of Buckingham]] came from his trial. |
-| FIRST GENTLEMAN | ’Tis very true. But that [[Time|time]] offered sorrow, This, general joy. |
-| SECOND GENTLEMAN | ’Tis [[Well|well]]. The citizens, I am sure, have shown at full their royal minds— As, let ’em have their rights, they are ever forward— In celebration of this day with shows, Pageants, and sights of [[Honour|honour]]. |
-| FIRST GENTLEMAN | Never greater, Nor, I’ll assure you, better taken, sir. |
-| SECOND GENTLEMAN | May I be bold to ask what that contains, That paper in your hand? |
-| FIRST GENTLEMAN | Yes, ’tis the list Of those that claim their offices this day By custom of the coronation. The [[Duke of Suffolk]] is the first, and claims To be High Steward; next, the Duke of Norfolk, He to be Earl Marshal. You may read the rest. He gives him the paper |
-| SECOND GENTLEMAN | I thank you, sir. Had I not known those customs, I should have been beholden to your paper. But I beseech you, what’s become of Katherine, The Princess Dowager? How goes her business? |
-| FIRST GENTLEMAN | That I can tell you too. The Archbishop Of Canterbury, accompanied with other Learned and reverend fathers of his order, Held a late [[Court|court]] at Dunstable, six miles off From Ampthill, where the Princess lay; to which She was often cited by them, but appeared not. And, to be short, for not appearance, and The [[King]]’s late scruple, by the main assent Of all these learned men, she was divorced, And the late [[Marriage|marriage]] made of none effect, Since which she was removed to Kimbolton, Where she remains now sick. |
-| SECOND GENTLEMAN | Alas, good lady! Flourish of trumpets within The trumpets sound. Stand close. The [[Queen]] is coming. Enter the coronation procession, which passes over the stage in order and state. Hautboys, within, play during the procession |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_monologue_the_order_of_the_coronat" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — monologue (THE ORDER OF THE CORONATION) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE ORDER OF THE | CORONATION 1. First, enter trumpeters, who play a lively flourish. 2. Then, enter two judges. 3. Then, enter the Lord Chancellor, with both the purse containing the great seal and the mace borne before him. 4. Then, enter choristers singing; with them, musicians playing. 5. Then, enter the [[Lord Mayor]] of [[London]] bearing the mace, followed by Garter [[King]]-of-Arms wearing his coat of arms and a gilt copper [[Crown|crown]]. 6. Then, enter Marquis Dorset bearing a sceptre of gold, and wearing, on his head, a demi-coronal of gold and, about his neck, a collar of esses. With him enter the [[Earl of Surrey]] bearing the rod of silver with the dove, crowned with an earl’s coronet, and also wearing a collar of esses. 7. Next, enter the [[Duke of Suffolk]] as High Steward, in his robe of estate, with his coronet on his head, and bearing a long white wand. With him, enter the Duke of Norfolk with the rod of marshalship and a coronet on his head. Each wears a collar of esses. 8. Then, under a canopy borne by four barons of the Cinque Ports, enter Anne, the new [[Queen]], in her robe. Her hair, which hangs loose, is richly adorned with pearl. She wears a [[Crown|crown]]. Accompanying her on either side are the Bishops of [[London]] and Winchester. 9. Next, enter the old Duchess of Norfolk, in a coronal of gold wrought with [[Flowers|flowers]], bearing the [[Queen]]’s train. 10. Finally, enter certain ladies or countesses, with plain circlets of gold without [[Flowers|flowers]]. The two Gentlemen comment on the procession as it passes over the stage |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--03_exchange_second_gentleman" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (SECOND GENTLEMAN) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SECOND GENTLEMAN | A royal train, believe me. These I know. Who’s that that bears the sceptre? |
-| FIRST GENTLEMAN | Marquis Dorset. And that, the [[Earl of Surrey]] with the rod. |
-| SECOND GENTLEMAN | A bold brave gentleman. That should be The [[Duke of Suffolk]]? |
-| FIRST GENTLEMAN | ’Tis the same: High Steward. |
-| SECOND GENTLEMAN | And that, my lord of Norfolk? |
-| FIRST GENTLEMAN | Yes. |
-| SECOND GENTLEMAN | (seeing Anne) Heaven bless thee! Thou hast the sweetest face ever looked on. Sir, as I have a [[Soul|soul]], she is an angel. Our [[King]] has all the Indies in his arms, And more, and richer, when he strains that lady. I cannot blame his [[Conscience|conscience]]. |
-| FIRST GENTLEMAN | They that bear The cloth of [[Honour|honour]] over her are four barons Of the Cinque Ports. |
-| SECOND GENTLEMAN | Those men are happy, And so are all are near her. I take it she that carries up the train Is that old noble lady, Duchess of Norfolk. |
-| FIRST GENTLEMAN | It is. And all the rest are countesses. |
-| SECOND GENTLEMAN | Their coronets say so. These are [[Stars|stars]] indeed— FIRST GENTLEMAN And sometimes falling ones. |
-| SECOND GENTLEMAN | No more of that. Exit the last of the procession, and then a great flourish of trumpets within Enter a third Gentleman in a sweat |
-| FIRST GENTLEMAN | God save you, sir. Where have you been broiling? |
-| THIRD GENTLEMAN | Among the crowd i’th’ Abbey, where a finger Could not be wedged in more. I am stifled With the mere rankness of their joy. |
-| SECOND GENTLEMAN | You saw the ceremony? |
-| THIRD GENTLEMAN | That I did. |
-| FIRST GENTLEMAN | How Was it? |
-| THIRD GENTLEMAN | [[Well]] worth the seeing. |
-| SECOND GENTLEMAN | Good sir, speak it to us. |
-| THIRD GENTLEMAN | As [[Well|well]] as I am able. The rich stream Of lords and ladies, having brought the [[Queen]] To a prepared place in the choir, fell off A distance from her, while her grace sat down To rest a while—some half an hour or so— In a rich chair of state, opposing freely The [[Beauty|beauty]] of her person to the people. Believe me, sir, she is the goodliest woman That ever lay by man; which when the people Had the full view of, such a noise arose As the shrouds make at sea in a stiff tempest, As loud and to as many tunes. Hats, cloaks— Doublets, I think—flew up, and had their faces Been loose, this day they had been lost. Such joy I never saw before. Great-bellied women, That had not half a week to go, like rams In the old [[Time|time]] of war, would shake the press, And make ’em reel before ’em. No man living Could say ‘This is my wife’ there, all were woven So strangely in one piece. |
-| SECOND GENTLEMAN | But what followed? |
-| THIRD GENTLEMAN | At length her grace [[Rose|rose]], and with modest paces Came to the altar, where she kneeled, and saint-like Cast her fair eyes to heaven, and prayed devoutly, 86 Then [[Rose|rose]] again, and bowed her to the people, When by the Archbishop of Canterbury She had all the royal makings of a [[Queen|queen]], As holy oil, Edward Confessor’s [[Crown|crown]], The rod and bird of peace, and all such emblems Laid nobly on her. Which performed, the choir, With all the choicest music of the kingdom, Together sung Te Deum. So she parted, And with the same full state paced back again To York Place, where the feast is held. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--04_exchange_first_gentleman" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (FIRST GENTLEMAN) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| FIRST GENTLEMAN | Sir, You must no more call it York Place—that’s past, For since the Cardinal fell, that title’s lost. ‘Tis now the [[King]]’s, and called Whitehall. |
-| THIRD GENTLEMAN | I know it, But ’tis so lately altered that the old name Is fresh about me. |
-| SECOND GENTLEMAN | What two reverend bishops Were those that went on each side of the [[Queen]]? |
-| THIRD GENTLEMAN | Stokesley and Gardiner, the one of Winchester— Newly preferred from the [[King]]’s secretary— The other [[London]]. |
-| SECOND GENTLEMAN | He of Winchester Is held no great good [[Lover|lover]] of the Archbishop’s, The virtuous [[Cranmer]]. |
-| THIRD GENTLEMAN | All the land knows that. However, yet there is no great breach. When it comes, [[Cranmer]] will find a friend will not shrink from him. |
-| SECOND GENTLEMAN | Who may that be, I pray you? |
-| THIRD GENTLEMAN | Thomas Cromwell, A man in much esteem with th’ [[King]], and truly A worthy friend. The [[King]] has made him Master o’th’ [[Jewel]] [[house|House]], And one already of the Privy Council. |
-| SECOND GENTLEMAN | He will deserve more. |
-| THIRD GENTLEMAN | Yes, without all [[Doubt|doubt]]. Come, gentlemen, ye shall go my way, Which is to th’ [[Court|court]], and there ye shall be my guests. Something I can command. As I walk thither I’ll tell ye more. |
-| FIRST | and SECOND GENTLEMEN You may command us, sir. Exeunt |
-| *(didascalia)* | 4.2 Three chairs. Enter Katherine Dowager, sick, led between Griffith her gentleman usher, and Patience her woman |
-| GRIFFITH | How does your grace? |
-| KATHERINE | O Griffith, sick to [[Death|death]]. My legs, like loaden branches, bow to th’ earth, Willing to leave their burden. Reach a chair. A chair is brought to her. She sits So now, methinks, I feel a little ease. Didst thou not tell me, Griffith, as thou led’st me, That the great [[Child|child]] of [[Honour|honour]], [[Cardinal Wolsey]], Was dead? |
-| GRIFFITH | Yes, madam, but I think your grace, Out of the [[Pain|pain]] you suffered, gave no ear to’t. |
-| KATHERINE | Prithee, good Griffith, tell me how he died. If [[Well|well]], he stepped before me happily For my example. |
-| GRIFFITH | [[Well]], the voice goes, madam. For after the stout Earl Northumberland Arrested him at York, and brought him forward, As a man sorely tainted, to his answer, He fell sick, suddenly, and grew so ill He could not sit his mule. |
-| KATHERINE | Alas, poor man. |
-| GRIFFITH | At last, with easy roads, he came to Leicester, Lodged in the abbey, where the reverend abbot, With all his convent, honourably received him, To whom he gave these words: ‛O father abbot, An old man broken with the storms of state Is come to lay his weary bones among ye. Give him a little earth, for [[Charity|charity]].’ So went to bed, where eagerly his sickness Pursued him still, and three nights after this, About the hour of eight, which he himself Foretold should be his last, full of repentance, Continual meditations, [[Tears|tears]], and sorrows, He gave his honours to the world again, His blessed part to heaven, and slept in peace. |
-| KATHERINE | So may he rest, his faults lie gently on him. Yet thus far, Griffith, give me leave to speak him, And yet with [[Charity|charity]]. He was a man Of an unbounded stomach, ever ranking Himself with princes; one that by suggestion Tied all the kingdom. Simony was fair play. His own opinion was his law. I’th’ presence He would say untruths, and be ever [[Double|double]] Both in his words and meaning. He was never, But where he meant to ruin, pitiful. His promises were, as he then was, mighty; But his performance, as he is now, nothing. Of his own [[Body|body]] he was ill, and gave The clergy ill example. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--05_exchange_griffith" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (GRIFFITH) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| GRIFFITH | Noble madam, Men’s evil manners live in brass, their virtues We write in [[Water|water]]. May it please your highness To hear me speak his good now? |
-| KATHERINE | Yes, good Griffith, I were malicious else. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--06_monologue_griffith" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — monologue (GRIFFITH) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| GRIFFITH | This cardinal, Though from an humble stock, undoubtedly Was fashioned to much [[Honour|honour]]. From his cradle He was a scholar, and a ripe and good one, Exceeding wise, fair-spoken, and persuading; Lofty and sour to them that loved him not, But to those men that sought him, sweet as [[Summer|summer]]. And though he were unsatisfied in getting— Which was a sin—yet in bestowing, madam, He was most princely: ever witness for him Those twins of learning that he raised in you, Ipswich and [[Oxford]]—one of which fell with him, Unwilling to outlive the good that did it; The other, though unfinished, yet so famous, So excellent in art, and still so rising, That Christendom shall ever speak his virtue. His overthrow heaped happiness upon him, For then, and not till then, he felt himself, And found the blessedness of being little. And to add greater honours to his age Than man could give him, he died fearing God. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--07_exchange_katherine" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (KATHERINE) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| KATHERINE | After my [[Death|death]] I wish no other herald, No other speaker of my living actions To keep mine [[Honour|honour]] from corruption But such an honest chronicler as Griffith. Whom I most hated living, thou hast made me, With thy religious [[Truth|truth]] and modesty, Now in his ashes [[Honour|honour]]. Peace be with him. (To her woman) Patience, be near me still, and set me lower. I have not long to trouble thee. Good Griffith, Cause the musicians play me that sad note I named my knell, whilst I sit meditating On that celestial harmony I go to. Sad and solemn music. Katherine sleeps |
-| GRIFFITH | (to the woman) She is asleep. Good wench, let’s sit down quiet For [[Fear|fear]] we wake her. Softly, gentle Patience. They sit |
-| THE VISION | Enter, solemnly tripping one after another, six personages clad in white robes, wearing on their heads garlands of bays, and golden visors on their faces. They carry branches of bays or palm in their hands. They first conge unto Katherine, then [[Dance|dance]]; and, at certain changes, the first two hold a spare garland over her head at which the other four make reverent curtsies. Then the two that held the garland deliver the same to the other next two, who observe the same order in their changes and holding the garland over her head. Which done, they deliver the same garland to the last two who likewise observe the same order. At which, as it were by inspiration, she makes in her [[Sleep|sleep]] signs of rejoicing, and holdeth up her hands to heaven. And so in their dancing vanish, carrying the garland with them. The music continues |
-| KATHERINE | (waking) Spirits of peace, where are ye? Are ye all gone, And leave me here in wretchedness behind ye? Griffith and Patience rise and come forward |
-| GRIFFITH | Madam, we are here. |
-| KATHERINE | It is not you I call for. Saw ye none enter since I slept? |
-| GRIFFITH | None, madam. |
-| KATHERINE | No? Saw you not even now a blessèd troop Invite me to a banquet, whose bright faces Cast thousand beams upon me, like the sun? They promised me eternal happiness, And brought me garlands, Griffith, which I feel I am not worthy yet to wear. I shall, Assuredly. |
-| GRIFFITH | I am most joyful, madam, such good [[Dreams|dreams]] Possess your fancy. |
-| KATHERINE | Bid the music leave. They are harsh and heavy to me. Music ceases |
-| PATIENCE | (to Griffith) Do you note How much her grace is altered on the sudden? How long her face is drawn? How pale she looks, And of an earthy colour? Mark her eyes? |
-| GRIFFITH | She is going, wench. Pray, pray. |
-| PATIENCE | Heaven comfort her. Enter a Messenger |
-| MESSENGER | (to Katherine) An’t like your grace— |
-| KATHERINE | You are a saucy fellow— Deserve we no more reverence? |
-| GRIFFITH | (to the Messenger) You are to blame, Knowing she will not lose her wonted [[Greatness|greatness]], To use so rude behaviour. Go to, kneel. |
-| MESSENGER | (kneeling before Katherine) I humbly do entreat your highness’ pardon. My haste made me unmannerly. There is staying A gentleman sent from the [[King]] to see you. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--08_exchange_katherine" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (KATHERINE) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| KATHERINE | Admit him entrance, Griffith. But this fellow Let me ne’er see again. Exit Messenger Enter Lord Caputius ushered by Griffith If my sight fail not, You should be lord ambassador from the Emperor, My royal nephew, and your name Caputius. |
-| CAPUTIUS | Madam, the same, bowing your servant. |
-| KATHERINE | O, my lord, The times and titles now are altered strangely With me since first you knew me. But I pray you, What is your pleasure with me? |
-| CAPUTIUS | Noble lady, First mine own service to your grace; the next, The [[King]]’s request that I would visit you, Who grieves much for your weakness, and by me Sends you his princely commendations, And heartily entreats you take good comfort. |
-| KATHERINE | O, my good lord, that comfort comes too late, ’Tis like a pardon after execution. That gentle physic, given in [[Time|time]], had cured me; But now I am past all comforts here but prayers. How does his highness? |
-| CAPUTIUS | Madam, in good health. |
-| KATHERINE | So may he ever do, and ever flourish When I shall dwell with worms, and my poor name Banished the kingdom. (To her woman) Patience, is that letter I caused you write yet sent away? |
-| PATIENCE | No, madam. |
-| KATHERINE | (to Caputius) Sir, I most humbly pray you to deliver This to my lord the [[King]]. The letter is given to Caputius |
-| CAPUTIUS | Most willing, madam. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--09_monologue_katherine" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — monologue (KATHERINE) [9]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| KATHERINE | In which I have commended to his goodness The model of our chaste loves, his young daughter— The dews of heaven fall thick in blessings on her— Beseeching him to give her virtuous breeding. She is young, and of a noble modest [[Nature|nature]]. I [[Hope|hope]] she will deserve [[Well|well]]—and a little To [[Love|love]] her for her mother’s sake, that loved him, Heaven knows how dearly. My next poor petition Is that his noble grace would have some pity Upon my wretched women, that so long Have followed both my fortunes faithfully; Of which there is not one, I dare avow— And now I should not lie—but will deserve, For virtue and true [[Beauty|beauty]] of the [[Soul|soul]], For honesty and decent carriage, A right good husband. Let him be a noble, And sure those men are happy that shall have ’em. The last is for my men—they are the poorest, But [[Poverty|poverty]] could never draw ’em from me— That they may have their wages duly paid ’em, And something over to remember me by. If heaven had pleased to have given me longer life, And able means, we had not parted thus. These are the whole contents; and, good my lord, By that you [[Love|love]] the dearest in this world, As you wish Christian peace to souls departed, Stand these poor people’s friend and urge the [[King]] To do me this last rite. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--10_exchange_caputius" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (CAPUTIUS) [10]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| CAPUTIUS | By heaven I will, Or let me lose the fashion of a man. |
-| KATHERINE | I thank you, honest lord. Remember me In all [[Humility|humility]] unto his highness. Say his long trouble now is passing Out of this world. Tell him, in [[Death|death]] I blessed him, For so I will. Mine eyes grow dim. Farewell, My lord. Griffith, farewell. (To her woman) Nay, Patience, You must not leave me yet. I must to bed. Call in more women. When I am dead, good wench, Let me be used with [[Honour|honour]]. Strew me over With maiden [[Flowers|flowers]], that all the world may know I was a chaste wife to my [[Grave|grave]]. Embalm me, Then lay me forth. Although unqueened, yet like A [[Queen|queen]] and daughter to a [[King|king]] inter me. I can no more. Exeunt Caputius and Griffith at one door; Patience leading Katherine at another |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter at one door Gardiner, Bishop of Winchester; before him, a Page with a torch |
-| GARDINER | It’s one o’[[Clock|clock]], boy, is’t not? |
-| PAGE | It hath struck. |
-| GARDINER | These should be hours for necessities, Not for delights; times to repair our [[Nature|nature]] With comforting repose, and not for us To waste these times. Enter at another door Sir Thomas Lovell, meeting them Good hour of [[Night|night]], Sir Thomasl Whither so late? |
-| LOVELY | Came you from the [[King]], my lord? |
-| GARDINER | I did, Sir Thomas, and left him at primero With the [[Duke of Suffolk]]. |
-| LOVELL | I must to him too, Before he go to bed. I’ll take my leave. |
-| GARDINER | Not yet, Sir Thomas Lovell—what’s the matter? It seems you are in haste. An if there be No great offence belongs to’t, give your friend Some touch of your late business. Affairs that walk, As they say spirits do, at midnight, have In them a wilder [[Nature|nature]] than the business That seeks dispatch by day. |
-| LOVELL | My lord, I [[Love|love]] you, And durst commend a secret to your ear Much weightier than this work. The [[Queen]]’s in labour— They say in great extremity—and feared She’ll with the labour end. |
-| GARDINER | The fruit she goes with I pray for heartily, that it may find Good [[Time|time]], and live. But, for the stock, Sir Thomas, I wish it grubbed up now. |
-| LOVELL | Methinks I could Cry the amen, and yet my [[Conscience|conscience]] says She’s a good creature and, sweet lady, does Deserve our better wishes. |
-| GARDINER | But sir, sir, Hear me, Sir Thomas. You’re a gentleman Of mine own way. I know you wise, religious. And let me tell you, it will ne’er be [[Well|well]]— ’Twill not, Sir Thomas Lovell, take’t of me— Till [[Cranmer]], Cromwell—her two hands—and she, [[Sleep]] in their graves. |
-| LOVELL | Now, sir, you speak of two The most remarked i‘th’ kingdom. As for Cromwell, Beside that of the [[Jewel]] [[house|House]] is made Master O’th’ Rolls and the [[King]]’s secretary. Further, sir, Stands in the gap and trade of more preferments With which the [[Time|time]] will load him. Th’Archbishop Is the [[King]]’s hand and tongue, and who dare speak One syllable against him? |
-| GARDINER | Yes, yes, Sir Thomas— There are that dare, and I myself have ventured To speak my mind of him, and, indeed, this day, Sir—I may tell it you, I think—I have Incensed the lords o’th’ Council that he is— For so I know he is, they know he is— A most arch heretic, a pestilence That does infect the land; with which they, moved, Have broken with the [[King]], who hath so far Given ear to our complaint, of his great grace And princely care, foreseeing those fell mischiefs Our reasons laid before him, hath commanded so Tomorrow morning to the Council board He be convented. He’s a rank weed, Sir Thomas, And we must root him out. From your affairs I hinder you too long. Good [[Night|night]], Sir Thomas. |
-| LOVELL | Many good nights, my lord; I rest your servant. Exeunt Gardiner and Page at one door Enter [[King]] Henry and Suffolk at another door |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_exchange_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (KING HENRY) [2]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | (to Suffolk) Charles, I will play no more tonight. My mind’s not on’t. You are too hard for me. |
-| SUFFOLK | Sir, I did never win of you before. |
-| [[King|KING]] HENRY | But little, Charles, Nor shall not when my fancy’s on my play. Now, Lovell, from the [[Queen]] what is the news? |
-| LOVELL | I could not personally deliver to her What you commanded me, but by her woman I sent your message, who returned her thanks In the great’st humbleness, and desired your highness Most heartily to pray for her. |
-| [[King|KING]] HENRY | What sayst thou? Ha? To pray for her? What, is she crying out? |
-| LOVELL | So said her woman, and that her suffrance made Almost each pang a [[Death|death]]. |
-| [[King|KING]] HENRY | Alas, good lady. |
-| SUFFOLK | God safely quit her of her burden, and With gentle travail, to the gladding of Your highness with an heir. |
-| [[King|KING]] HENRY | ’Tis midnight, Charles. Prithee to bed, and in thy prayers remember Th’estate of my poor [[Queen|queen]]. Leave me [[Alone|alone]], For I must think of that which company Would not be friendly to. |
-| SUFFOLK | I wish your highness A quiet [[Night|night]], and my good mistress will Remember in my prayers. |
-| [[King|KING]] HENRY | Charles, good [[Night|night]]. Exit Suffolk Enter Sir Anthony Denny [[Well]], sir, what follows? |
-| DENNY | Sir, I have brought my lord the Archbishop, As you commanded me. |
-| [[King|KING]] HENRY | Ha, Canterbury? |
-| DENNY | Ay, my good lord. |
-| [[King|KING]] HENRY | ’Tis true—where is he, Denny? |
-| DENNY | He attends your highness’ pleasure. |
-| [[King|KING]] HENRY | Bring him to us. Exit Denny |
-| LOVELL. | (aside) This is about that which the Bishop spake. I am happily come hither. Enter [[Cranmer]] the Archbishop, ushered by Denny |
-| [[King|KING]] HENRY | (to Lovell and Denny) Avoid the gallery. Denny begins to depart. Lovell seems to stay Ha? I have said. Be gone. What? Exeunt Lovell and Denny |
-| [[Cranmer|CRANMER]] | (aside) I am fearful. Wherefore frowns he thus? ’Tis his aspect of terror. All’s not [[Well|well]]. |
-| [[King|KING]] HENRY | How now, my lord? You do [[Desire|desire]] to know Wherefore I sent for you. |
-| [[Cranmer|CRANMER]] | (kneeling) It is my duty T’attend your highness’ pleasure. |
-| [[King|KING]] HENRY | Pray you, arise, My good and gracious Lord of Canterbury. Come, you and I must walk a turn together. I have news to tell you. Come, come—give me your hand. [[Cranmer]] rises. They walk Ah, my good lord, I grieve at what I speak, And am right sorry to repeat what follows. I have, and most unwillingly, of late Heard many grievous—I do say, my lord, Grievous—complaints of you, which, being considered, Have moved us and our Council that you shall This morning come before us, where I know You cannot with such [[Freedom|freedom]] purge yourself But that, till further trial in those charges Which will require your answer, you must take Your patience to you, and be [[Well|well]] contented To make your [[house]] our Tower. You a brother of us, It fits we thus proceed, or else no witness Would come against you. |
-| [[Cranmer|CRANMER]] | (kneeling) I humbly thank your highness, And am right glad to catch this good occasion Most throughly to be winnowed, where my chaff And corn shall fly asunder. For I know There’s none stands under more calumnious tongues Than I myself, poor man. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (KING HENRY) [3]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Stand up, good Canterbury. Thy [[Truth|truth]] and thy integrity is rooted In us, thy friend. Give me thy hand. Stand up. Prithee, let’s walk. [[Cranmer]] rises. They walk Now, by my halidom, What manner of man are you? My lord, I looked You would have given me your petition that I should have ta’en some pains to bring together Yourself and your accusers, and to have heard you Without indurance further. |
-| [[Cranmer|CRANMER]] | Most dread liege, The good I stand on is my [[Truth|truth]] and honesty. If they shall fail, I with mine enemies Will triumph o’er my person, which I weigh not, Being of those virtues vacant. I [[Fear|fear]] nothing What can be said against me. |
-| [[King|KING]] HENRY | Know you not How your state stands i’th’ world, with the whole world? Your enemies are many, and not small; their practices Must bear the same proportion, and not ever The justice and the [[Truth|truth]] o’th’ question carries The dew o’th’ verdict with it. At what ease Might corrupt minds procure knaves as corrupt To swear against you? Such things have been done. You are potently opposed, and with a malice Of as great size. Ween you of better luck, I mean in perjured witness, than your master, Whose minister you are, whiles here he lived Upon this naughty earth? Go to, go to. You take a precipice for no leap of danger, And woo your own destruction. |
-| [[Cranmer|CRANMER]] | God and your majesty Protect mine [[innocence]], or I fall into The trap is laid for me. |
-| [[King|KING]] HENRY | Be of good cheer. They shall no more prevail than we give way to. Keep comfort to you, and this morning see You do appear before them. If they shall chance, In charging you with matters, to commit you, The best persuasions to the contrary Fail not to use, and with what vehemency Th’occasion shall instruct you. If entreaties Will render you no remedy, giving his ring this ring Deliver them, and your appeal to us There make before them. [[Cranmer]] weeps Look, the good man weeps. He’s honest, on mine [[Honour|honour]]. God’s blest mother, I swear he is true-hearted, and a [[Soul|soul]] None better in my kingdom. Get you gone, And do as I have bid you. Exit [[Cranmer]] He has strangled His language in his [[Tears|tears]]. Enter the Old Lady LOVELL (within) Come back! What mean you? Enter Lovell, following her |
-| OLD LADY | I’ll not come back. The tidings that I bring Will make my boldness manners. (To the [[King]]) Now good angels Fly o’er thy royal head, and shade thy person Under their blessed wings. |
-| [[King|KING]] HENRY | Now by thy looks I guess thy message. Is the [[Queen]] delivered? Say, ‘Ay, and of a boy.’ |
-| OLD LADY | Ay, ay, my liege, And of a lovely boy. The God of heaven Both now and ever bless her! ’Tis a girl Promises boys hereafter. Sir, your [[Queen|queen]] Desires your visitation, and to be Acquainted with this stranger. ’Tis as like you As cherry is to cherry. |
-| [[King|KING]] HENRY | Lovell— |
-| LOVELL | Sir? |
-| [[King|KING]] HENRY | Give her an hundred marks. I’ll to the [[Queen]]. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--04_exchange_old_lady" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (OLD LADY) [4]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| OLD LADY | An hundred marks? By this light, I’ll ha’ more. An ordinary groom is for such payment. I will have more, or scold it out of him. Said I for this the girl was like to him? I’ll Have more, or else unsay’t; and now, while ’tis hot, I’ll put it to the issue. Exeunt |
-| *(didascalia)* | 5.2 Enter pursuivants, pages, footboys, and grooms. Then enter [[Cranmer]], Archbishop of Canterbury |
-| [[Cranmer|CRANMER]] | I [[Hope|hope]] I am not too late, and yet the gentleman That was sent to me from the council prayed me To make great haste. All fast? What means this? (Calling at the door) Ho! Who waits there? Enter a Doorkeeper Sure you know me? |
-| DOORKEEPER | Yes, my lord, But yet I cannot help you. |
-| [[Cranmer|CRANMER]] | Why? Enter Doctor Butts, passing over the stage |
-| DOORKEEPER | Your grace must wait till you be called for. |
-| [[Cranmer|CRANMER]] | So. |
-| BUTTS | (aside) This is a piece of malice. I am glad I came this way so happily. The [[King]] Shall understand it presently. Exit |
-| [[Cranmer|CRANMER]] | (aside) ‘Tis Butts, The [[King]]’s physician. As he passed along How earnestly he cast his eyes upon me! Pray heaven he found not my disgrace. For certain This is of purpose laid by some that hate me— God turn their hearts, I never sought their malice— To quench mine [[Honour|honour]]. They would shame to make me Wait else at door, a fellow Councillor, ’Mong boys, grooms, and lackeys. But their pleasures Must be fulfilled, and I attend with patience. Enter [[King]] Henry and Doctor Butts at a [[Window|window]], above |
-| BUTTS | I’ll show your grace the strangest sight— |
-| [[King|KING]] HENRY | What’s that, Butts? |
-| BUTTS | I think your highness saw this many a day. |
-| [[King|KING]] HENRY | [[Body]] o’me, where is it? |
-| BUTTS | (pointing at [[Cranmer]], below) There, my lord. The high promotion of his grace of Canterbury, Who holds his state at door, ’mongst pursuivants, Pages, and footboys. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--05_monologue_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 1 — monologue (KING HENRY) [5]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Ha? ‘Tis he indeed. Is this the [[Honour|honour]] they do one another? ’Tis [[Well|well]] there’s one above ’em yet. I had thought They had parted so much honesty among ’em— At least good manners—as not thus to suffer A man of his place and so near our favour To [[Dance|dance]] attendance on their lordships’ pleasures, And at the door, too, like a post with packets! By holy Mary, Butts, there’s knavery! Let ’em [[Alone|alone]], and draw the curtain close. We shall hear more anon. [[Cranmer]] and the doorkeeper stand to one side. Exeunt the lackeys Above, Butts partly draws the curtain close. Below, a council table is brought in along with chairs and stools, and placed under the cloth of state. Enter the Lord Chancellor, who places himself at the upper end of the table, on the left hand, leaving a seat void above him at the table’s head as for Canterbury’s seat. The [[Duke of Suffolk]], the Duke of Norfolk, the [[Earl of Surrey]], the Lord Chamberlain, and Gardiner, the Bishop of Winchester, seat themselves in order on each side of the table. Cromwell sits at the lower end, and acts as secretary |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--06_exchange_lord_chancellor" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (LORD CHANCELLOR) [6]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| LORD CHANCELLOR | (to Cromwell) Speak to the business, master secretary. Why are we met in council? |
-| CROMWELL | Please your honours, The chief cause concerns his grace of Canterbury. |
-| GARDINER | Has he had knowledge of it? |
-| CROMWELL | Yes. |
-| NORFOLK | (to the Doorkeeper) Who waits there? |
-| DOORKEEPER | coming forward Without, my noble lords? |
-| GARDINER | Yes. |
-| DOORKEEPER | My lord Archbishop; And has done half an hour, to know your pleasures. |
-| LORD CHANCELLOR | Let him come in. |
-| DOORKEEPER | (to [[Cranmer]]) Your grace may enter now. [[Cranmer]] approaches the Council table |
-| LORD CHANCELLOR | My good lord Archbishop, I’m very sorry To sit here at this present and behold That chair stand empty, but we all are men In our own natures frail, and capable Of our flesh; few are angels; out of which frailty And want of wisdom, you, that best should teach us, Have misdemeaned yourself, and not a little, Toward the [[King]] first, then his laws, in filling The whole realm, by your teaching and your chaplains’— For so we are informed—with new opinions, Diverse and dangerous, which are heresies, And, not reformed, may prove pernicious. |
-| GARDINER | Which [[Reformation|reformation]] must be sudden too, My noble lords; for those that tame wild horses Pace ’em not in their hands to make ’em gentle, But stop their mouths with stubborn bits and spur ’em Till they obey the manège. If we suffer, Out of our easiness and childish pity To one man’s [[Honour|honour]], this contagious sickness, Farewell all physic—and what follows then? Commotions, uproars—with a general taint Of the whole state, as of late days our neighbours, The upper [[Germany]], can dearly witness, Yet freshly pitied in our memories. 65 |
-| [[Cranmer|CRANMER]] | My good lords, hitherto in all the progress Both of my life and office, I have laboured, And with no little study, that my teaching And the strong course of my authority Might go one way, and safely; and the end Was ever to do [[Well|well]]. Nor is there living— I speak it with a single heart, my lords— A man that more detests, more stirs against, Both in his private [[Conscience|conscience]] and his place, Defacers of a public peace than I do. Pray heaven the [[King]] may never find a heart With less allegiance in it. Men that make Envy and crooked malice nourishment Dare bite the best. I do beseech your lordships That, in this case of justice, my accusers, Be what they will, may stand forth face to face, And freely urge against me. |
-| SUFFOLK | Nay, my lord, That cannot be. You are a Councillor, And by that virtue no man dare accuse you. |
-| GARDINER | (to [[Cranmer]]) My lord, because we have business of more moment, We will be short with you. ’Tis his highness’ pleasure And our consent, for better trial of you, From hence you be committed to the Tower Where, being but a private man again, You shall know many dare accuse you boldly, More than, I [[Fear|fear]], you are provided for. |
-| [[Cranmer|CRANMER]] | Ah, my good lord of Winchester, I thank you. You are always my good friend. If your will pass, I shall both find your lordship judge and juror, You are so merciful. I see your end— ’Tis my undoing. [[Love]] and meekness, lord, Become a churchman better than [[Ambition|ambition]]. Win straying souls with modesty again; Cast none away. That I shall clear myself, Lay all the weight ye can upon my patience, I make as little [[Doubt|doubt]] as you do [[Conscience|conscience]] In doing daily wrongs. I could say more, But reverence to your calling makes me modest. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--07_exchange_gardiner" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (GARDINER) [7]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| GARDINER | My lord, my lord—you are a sectary, That’s the plain [[Truth|truth]]. Your painted gloss discovers, To men that understand you, words and weakness. |
-| CROMWELL | (to Gardiner) My lord of Winchester, you’re a little, By your good favour, too sharp. Men so noble, However faulty, yet should find respect For what they have been. ’Tis a cruelty To load a falling man. |
-| GARDINER | Good master secretary, I cry your [[Honour|honour]] [[Mercy|mercy]]. You may worst Of all this table say so. |
-| CROMWELL | Why, my lord? |
-| GARDINER | Do not I know you for a favourer Of this new sect? Ye are not sound. |
-| CROMWELL | Not sound? |
-| GARDINER | Not sound, I say. |
-| CROMWELL | Would you were half so honest! Men’s prayers then would seek you, not their fears. |
-| GARDINER | I shall remember this bold language. |
-| CROMWELL | Do. Remember your bold life, too. |
-| LORD CHANCELLOR | This is too much. Forbear, for shame, my lords. |
-| GARDINER | I have done. |
-| CROMWELL | And I. |
-| LORD CHANCELLOR | (to [[Cranmer]]) Then thus for you, my lord. It stands agreed, I take it, by all voices, that forthwith You be conveyed to th’ Tower a prisoner, There to remain till the [[King]]’s further pleasure Be known unto us. Are you all agreed, lords? |
-| ALL THE COUNCIL | We are. |
-| [[Cranmer|CRANMER]] | Is there no other way of [[Mercy|mercy]], But I must needs to th’ Tower, my lords? |
-| GARDINER | What other Would you expect? You are strangely troublesome. Let some o’th’ guard be ready there. Enter the guard |
-| [[Cranmer|CRANMER]] | For me? Must I go like a traitor thither? |
-| GARDINER | (to the guard) Receive him, And see him safe i’th’ Tower. |
-| [[Cranmer|CRANMER]] | Stay, good my lords. I have a little yet to say. Look there, my lords— He shows the [[King]]’s ring By virtue of that ring I take my cause Out of the grips of cruel men, and give it To a most noble judge, the [[King]] my master. |
-| LORD CHAMBERLAIN | This is the [[King]]’s ring. |
-| SURREY | ’Tis no counterfeit. |
-| SUFFOLK | ’Tis the right ring, by heav’n. I told ye all When we first put this dangerous stone a-[[rolling]] ’Twould fall upon ourselves. |
-| NORFOLK | Do you think, my lords, The [[King]] will suffer but the little finger Of this man to be vexed? |
-| LORD CHAMBERLAIN | ’Tis now too certain. How much more is his life in value with him! Would I were fairly out on’t. Exit [[King]] with Butts above |
-| CROMWELL | My mind gave me, In seeking tales and informations Against this man, whose honesty the devil And his disciples only envy at, Ye blew the [[Fire|fire]] that burns ye. Now have at ye! Enter, below, [[King]] Henry frowning on them. He takes his seat |
-| GARDINER | Dread sovereign, how much are we bound to heaven In daily thanks, that gave us such a prince, Not only good and wise, but most religious. One that in all obedience makes the church The chief aim of his [[Honour|honour]], and, to strengthen That holy duty, out of dear respect, His royal [[Self|self]] in judgement comes to hear The cause betwixt her and this great offender. |
-| [[King|KING]] HENRY | You were ever good at sudden commendations, Bishop of Winchester. But know I come not To hear such flattery now; and in my presence They are too thin and base to hide offences. To me you cannot reach. You play the spaniel, And think with wagging of your tongue to win me. But whatsoe’er thou tak’st me for, I’m sure Thou hast a cruel [[Nature|nature]] and a bloody. (To [[Cranmer]]) Good man, sit down. [[Cranmer]] takes his seat at the head of the Council table Now let me see the proudest, He that dares most, but wag his finger at thee. By all that’s holy, he had better starve Than but once think this place becomes thee not. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--08_exchange_surrey" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (SURREY) [8]" data-chapter="Scene 1" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| SURREY | May it please your grace— |
-| [[King|KING]] HENRY | No, sir, it does not please me! I had thought I had had men of some understanding And wisdom of my Council, but I find none. Was it discretion, lords, to let this man, This good man—few of you deserve that title— This honest man, wait like a lousy footboy At chamber door? And one as great as you are? Why, what a shame was this! Did my commission Bid ye so far forget yourselves? I gave ye Power as he was a Councillor to try him, Not as a groom. There’s some of ye, I see, More out of malice than integrity, Would try him to the utmost, had ye mean; Which ye shall never have while I live. |
-| LORD CHANCELLOR | Thus far, My most dread sovereign, may it like your grace To let my tongue excuse all. What was purposed Concerning his [[Imprisonment|imprisonment]] was rather— If there be [[Faith|faith]] in men—meant for his trial And fair purgation to the world than malice, I’m sure, in me. |
-| [[King|KING]] HENRY | [[Well]], [[Well|well]], my lords—respect him. Take him and use him [[Well|well]], he’s worthy of it. I will say thus much for him—if a prince May be beholden to a subject, I Am for his [[Love|love]] and service so to him. Make me no more ado; but all embrace him. Be friends, for shame, my lords. (To [[Cranmer]]) My lord of Canterbury, I have a suit which you must not deny me: That is a fair young maid that yet wants baptism— You must be godfather, and answer for her. |
-| [[Cranmer|CRANMER]] | The greatest monarch now alive may glory In such an [[Honour|honour]]; how may I deserve it, That am a poor and humble subject to you? |
-| [[King|KING]] HENRY | Come, come, my lord—you’d spare your spoons. You shall have two noble partners with you—the old Duchess of Norfolk and Lady Marquis Dorset. Will these please you? (To Gardiner) Once more, my lord of Winchester, I charge you Embrace and [[Love|love]] this man. |
-| GARDINER | With a true heart And brother-[[Love|love]] I do it. Gardiner and [[Cranmer]] embrace |
-| [[Cranmer|CRANMER]] | (weeping) And let heaven Witness how dear I hold this confirmation. |
-| [[King|KING]] HENRY | Good man, those joyful [[Tears|tears]] show thy true heart. The common voice, I see, is verified Of thee which says thus, ‘Do my lord of Canterbury A shrewd turn, and he’s your friend for ever.’ Come, lords, we trifle [[Time|time]] away. I long To have this young one made a Christian. As I have made ye one, lords, one remain— So I grow stronger, you more [[Honour|honour]] gain. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act V, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| *(didascalia)* | Enter trumpeters, sounding. Then enter two aldermen, the [[Lord Mayor]] of [[London]], Garter [[King]]-of-Arms, [[Cranmer]] the Archbishop of Canterbury, the Duke of Norfolk with his marshal’s staff, the [[Duke of Suffolk]], two noblemen bearing great standing bowls for the christening gifts; then enter four noblemen bearing a canopy, under which is the Duchess of Norfolk, godmother, bearing the [[Child|child]] Elizabeth richly habited in a mantle, whose train is borne by a lady. Then follows the [[Marchioness]] Dorset, the other godmother, and ladies. The troop pass once about the stage and Garter speaks |
-| GARTER | Heaven, from thy endless goodness send prosperous life, long, and ever happy, to the high and mighty Princess of England, Elizabeth. Flourish. Enter [[King]] Henry and guard |
-| [[Cranmer|CRANMER]] | (kneeling) And to your royal grace, and the good [[Queen]]! My noble partners and myself thus pray All comfort, joy, in this most gracious lady, Heaven ever laid up to make parents happy, May hourly fall upon ye. |
-| [[King|KING]] HENRY | Thank you, good lord Archbishop. What is her name? |
-| [[Cranmer|CRANMER]] | Elizabeth. |
-| [[King|KING]] HENRY | Stand up, lord. [[Cranmer]] rises (To the [[Child|child]]) With this kiss take my blessing— He kisses the [[Child|child]] God protect thee, Into whose hand I give thy life. |
-| [[Cranmer|CRANMER]] | Amen. |
-| [[King|KING]] HENRY | (to [[Cranmer]], old Duchess, and [[Marchioness]]) My noble gossips, you’ve been too prodigal. I thank ye heartily. So shall this lady, When she has so much English. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--02_monologue_cranmer" data-title="All Is True (Henry VIII) — Act V, Scene 4 — monologue (CRANMER) [2]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[Cranmer|CRANMER]] | Let me speak, sir, For heaven now bids me, and the words I utter Let none think flattery, for they’ll find ’em [[Truth|truth]]. This royal infant—heaven still move about her— Though in her cradle, yet now promises Upon this land a thousand thousand blessings Which [[Time|time]] shall bring to ripeness. She shall be— But few now living can behold that goodness— A pattern to all princes living with her, And all that shall succeed. Saba was never More covetous of wisdom and fair virtue Than this pure [[Soul|soul]] shall be. All princely graces That mould up such a mighty piece as this is, With all the virtues that attend the good, Shall still be doubled on her. [[Truth]] shall [[Nurse|nurse]] her, Holy and heavenly thoughts still counsel her. She shall be loved and feared. Her own shall bless her; Her foes shake like a field of beaten corn, And hang their heads with sorrow. Good grows with her. In her days every man shall eat in safety Under his own vine what he plants, and sing The merry [[songs]] of peace to all his neighbours. God shall be truly known, and those about her From her shall read the perfect ways of [[Honour|honour]], And by those claim their [[Greatness|greatness]], not by [[Blood|blood]]. Nor shall this peace [[Sleep|sleep]] with her, but, as when The bird of [[Wonder|wonder]] dies—the maiden phoenix— Her ashes new create another heir As great in admiration as herself, So shall she leave her blessedness to one, When heaven shall call her from this cloud of darkness, Who from the sacred ashes of her [[Honour|honour]] Shall star-like rise as great in fame as she was, And so stand fixed. Peace, plenty, [[Love|love]], [[Truth|truth]], terror, That were the servants to this chosen infant, Shall then be his, and, like a vine, grow to him. Wherever the bright sun of heaven shall shine, His [[Honour|honour]] and the [[Greatness|greatness]] of his name Shall be, and make new nations. He shall flourish, And like a mountain cedar reach his branches To all the plains about him. Our children’s children Shall see this, and bless heaven. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 4 — exchange (KING HENRY) [3]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| [[King|KING]] HENRY | Thou speakest wonders. |
-| CRAMMER | She shall be, to the happiness of England, An aged princess. Many days shall see her, And yet no day without a deed to [[Crown|crown]] it. Would I had known no more. But she must die— She must, the saints must have her—yet a virgin, A most unspotted lily shall she pass To th’ ground, and all the world shall mourn her. |
-| [[King|KING]] HENRY | O lord Archbishop, Thou hast made me now a man. Never before This happy [[Child|child]] did I get anything. This oracle of comfort has so pleased me That when I am in heaven I shall [[Desire|desire]] To see what this [[Child|child]] does, and praise my maker. I thank ye all. To you, my good [[Lord Mayor]], And your good brethren, I am much beholden. I have received much [[Honour|honour]] by your presence, And ye shall find me thankful. Lead the way, lords. Ye must all see the [[Queen]], and she must thank ye. She will be sick else. This day, no man think He’s business at his [[house]], for all shall stay— This little one shall make it holiday. Flourish. Exeunt Epilogue Enter Epilogue |
-| EPILOGUE | ‘Tis ten to one this play can never please All that are here. Some come to take their ease, And [[Sleep|sleep]] an act or two; but those, we [[Fear|fear]], We’ve frighted with our trumpets; so, ’tis clear, They’ll say ’tis naught. Others to hear the [[City|city]] Abused extremely, and to cry ‘That’s witty!’— Which we have not done neither; that, I [[Fear|fear]], All the expected good we’re like to hear For this play at this [[Time|time]] is only in The merciful construction of good women, For such a one we showed ’em. If they smile, And say “Twill do’, I know within a while All the best men are ours—for ’tis ill hap If they hold when their ladies bid ’em clap. Exit |
-| BY JOHN FLETCHER AND | WILLIAM SHAKESPEARE |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--04_monologue_when" data-title="All Is True (Henry VIII) — Act V, Scene 4 — monologue (WHEN) [4]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| WHEN | it first appeared in print, in 1634, The Two Noble Kinsmen was stated to be ‘by the memorable worthies of their [[Time|time]], Mr John Fletcher, and Mr William Shakespeare’. There is no reason to disbelieve this ascription: many plays of the period were not printed till long after they were acted, and there is other evidence that Shakespeare collaborated with Fletcher (1579―1625). The morris [[Dance|dance]] in Act 3, Scene 5, contains characters who also appear in Francis Beaumont’s [[Masque]] of the Inner Temple and Gray’s Inn performed before James I on 20 February 1613. Their [[Dance|dance]] was a great [[success]] with the [[King]]; probably the [[King]]’s Men—some of whom may have taken part in the [[Masque|masque]]—decided to exploit its [[success]] by incorporating it in a play written soon afterwards, in the last year of Shakespeare’s playwriting life. The Two Noble Kinsmen, a [[Tragicomedy|tragicomedy]] of the kind that became popular during the last years of the first decade of the seventeenth century, is based on Chaucer’s Knight’s Tale, on which Shakespeare had already drawn for episodes of A Midsummer [[Night]]’s Dream. It tells a romantic tale of the conflicting claims of [[Love|love]] and [[Friendship|friendship]]: the ‘two noble kinsmen’, [[Palamon]] and [[Arcite]], are the closest of friends until each falls in [[Love|love]] with [[Emilia]], sister-in-law of [[Theseus]], Duke of Athens. Their conflict is finally resolved by a formal combat with [[Emilia]] as the prize, in which the loser is to be executed. [[Arcite]] wins, and [[Palamon]]’s head is on the block as news arrives that [[Arcite]] has been thrown from his [[Horse|horse]]. Dying, [[Arcite]] commends [[Emilia]] to his friend, and [[Theseus]] rounds off the play with a meditation on the paradoxes of fortune. Studies of style suggest that Shakespeare was primarily responsible for the rhetorically and ritualistically impressive Act 1, for Act 2, Scene 1. Act 3, Scenes 1 and 2; and for most of Act 5 (Scene 4 excepted), which includes emblematically spectacular episodes related to his other late plays. Fletcher appears mainly to have written the scenes showing the rivalry of [[Palamon]] and [[Arcite]] along with the sub-plots concerned with the Jailer’s daughter’s [[Love|love]] for [[Palamon]] and the rustics’ entertainment for [[Theseus]]. Though the play was adapted by William Davenant as The Rivals (1664), its first known performances since the seventeenth century were at the Old Vic in 1928; it has been played only occasionally since then, but was chosen to open the Swan Theatre in Stratford-upon-Avon in 1986. Critical interest, too, has been slight; but Shakespeare’s contributions are entirely characteristic of his late style, and Fletcher’s scenes are both touching and funny. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--05_exchange_the_persons_of_the_play" data-title="All Is True (Henry VIII) — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]" data-chapter="Scene 4" data-kind="intro"></span>
-
-
-| Chi parla | Battuta |
-|---|---|
-| THE PERSONS OF THE | PLAY |
-| PROLOGUE | [[Theseus|THESEUS]], Duke of Athens [[Hippolyta|HIPPOLYTA]], [[Queen]] of the Amazons, later wife of [[Theseus]] [[Emilia|EMILIA]], her sister PIRITHOUS, friend of [[Theseus]] Hymen, god of [[Marriage|marriage]] A BOY, who sings ARTESIUS, an Athenian soldier Three QUEENS, widows of kings killed in the siege of Thebes VALERIUS, a Theban |
-| *(didascalia)* | A |
-| HERALD | WOMAN, attending [[Emilia]] An Athenian GENTLEMAN |
-| MESSENGERS | Six KNIGHTS, three attending [[Arcite]] and three [[Palamon]] |
-| *(didascalia)* | A |
-| *(didascalia)* | A |
-| JAILER | in charge of [[Theseus]]’ [[Prison|prison]] The JAILER’S DAUGHTER The JAILER’S BROTHER The WOOER of the Jailer’s daughter Two FRIENDS of the Jailer |
-| *(didascalia)* | A |
-| DOCTOR | Six COUNTRYMEN, one dressed as a babion, or baboon Gerald, a SCHOOLMASTER NELL, a country wench Four other country wenches: Friz, [[Madeline]], Luce, and Barbara Timothy, a TABORER |
-| EPILOGUE | Nymphs, attendants, maids, executioner, guard |
-
-
-
-
 <span class="atom-split" data-atom="all_is_true_henry_viii" data-title="ALL IS TRUE - (HENRY VIII)" data-chapter="" data-kind="intro"></span>
 
 
@@ -1546,63 +398,63 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 ### Atto 1, Scena 2
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Cornetts. Enter [[King]] Henry leaning on [[Cardinal Wolsey]]’s shoulder. Enter with them Wolsey’s two secretaries, the nobles, and Sir Thomas Lovell. The [[King]] ascends to his seat under the cloth of state; Wolsey places himself under the [[King]]’s feet on his right side |
-| [[King|KING]] HENRY | to Wolsey<br>My life itself and the best heart of it<br>Thanks you for this great care. I stood i’th’ level<br>Of a full-charged confederacy, and give thanks<br>To you that choked it. Let be called before us<br>That gentleman of [[Buckingham]]’s. In person<br>I’ll hear him his confessions justify,<br>And point by point the treasons of his master<br>He shall again relate. |
+| [[King\|KING]] HENRY | to Wolsey<br>My life itself and the best heart of it<br>Thanks you for this great care. I stood i’th’ level<br>Of a full-charged confederacy, and give thanks<br>To you that choked it. Let be called before us<br>That gentleman of [[Buckingham]]’s. In person<br>I’ll hear him his confessions justify,<br>And point by point the treasons of his master<br>He shall again relate. |
 | *(didascalia)* | CRIER (within) |
-| [[King|KING]] HENRY | Room for the [[Queen]], ushered by the Duke of Norfolk. |
+| [[King\|KING]] HENRY | Room for the [[Queen]], ushered by the Duke of Norfolk. |
 | *(didascalia)* | Enter [[Queen Katherine]], the Duke of Norfolk, and the [[Duke of Suffolk]]. She kneels. [[King]] Henry riseth from his state, takes her up, and kisses her |
-| [[Queen Katherine|QUEEN KATHERINE]] | Nay, we must longer kneel. I am a suitor. |
-| [[King|KING]] HENRY | Arise, and take place by us.<br>He placeth her by him<br>Half your suit<br>Never name to us. You have half our power,<br>The other moiety ere you ask is given.<br>Repeat your will and take it. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Thank your majesty.<br>That you would [[Love|love]] yourself, and in that [[Love|love]]<br>Not unconsidered leave your [[Honour|honour]] nor<br>The dignity of your office, is the point<br>Of my petition. |
-| [[King|KING]] HENRY | Lady mine, proceed. |
-| [[Queen Katherine|QUEEN KATHERINE]] | I am solicited, not by a few,<br>And those of true condition, that your subjects<br>Are in great grievance. There have been commissions<br>Sent down among ’em which hath flawed the heart<br>Of all their loyalties; wherein, although,<br>My good lord Cardinal, they vent reproaches<br>Most bitterly on you, as putter-on<br>Of these exactions, yet the [[King]] our master—<br>Whose [[Honour|honour]] heaven shield from soil—even he<br>escapes not<br>Language unmannerly, yea, such which breaks<br>The sides of loyalty, and almost appears<br>In loud rebellion. |
-| NORFOLK | Not ‘almost appears’—<br>It doth appear; for upon these taxations<br>The clothiers all, not able to maintain<br>The many to them ‘[[Longing|longing]], have put off<br>The spinsters, carders, fullers, weavers, who,<br>Unfit for other life, compelled by hunger<br>And lack of other means, in desperate manner<br>Daring th’event to th’ teeth, are all in uproar,<br>And danger serves among them. |
-| [[King|KING]] HENRY | Taxation?<br>Wherein, and what taxation? My lord Cardinal,<br>You that are blamed for it alike with us,<br>Know you of this taxation? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Please you, sir,<br>I know but of a single part in aught<br>Pertains to th’ state, and front but in that file<br>Where others tell steps with me. |
-| [[Queen Katherine|QUEEN KATHERINE]] | No, my lord?<br>You know no more than others? But you frame<br>Things that are known alike, which are not wholesome<br>To those which would not know them, and yet must<br>Perforce be their acquaintance. These exactions<br>Whereof my sovereign would have note, they are<br>Most pestilent to th’ hearing, and to bear ’em<br>The back is sacrifice to th’ load. They say<br>They are devised by you, or else you suffer<br>Too hard an exclamation. |
-| [[King|KING]] HENRY | Still exaction!<br>The [[Nature|nature]] of it? In what kind, let’s know,<br>Is this exaction? |
-| [[Queen Katherine|QUEEN KATHERINE]] | I am much too venturous<br>In tempting of your patience, but am boldened<br>Under your promised pardon. The subjects’ grief<br>Comes through commissions which compels from each<br>The sixth part of his substance to be levied<br>Without delay, and the pretence for this<br>Is named your wars in France. This makes bold mouths.<br>Tongues spit their duties out, and cold hearts freeze<br>Allegiance in them. Their curses now<br>Live where their prayers did, and it’s come to pass<br>This tractable obedience is a slave<br>To each incensed will. I would your highness<br>Would give it quick consideration, for<br>There is no primer business. |
-| [[King|KING]] HENRY | By my life,<br>This is against our pleasure. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | And for me,<br>I have no further gone in this than by<br>A single voice, and that not passed me but<br>By learned approbation of the judges. If I am<br>Traduced by ignorant tongues, which neither know<br>My faculties nor person yet will be<br>The chronicles of my doing, let me say<br>‘Tis but the fate of place, and the rough brake<br>That virtue must go through. We must not stint<br>Our necessary actions in the [[Fear|fear]]<br>To cope malicious censurers, which ever,<br>As rav’nous fishes, do a vessel follow<br>That is new trimmed, but benefit no further<br>Than vainly [[Longing|longing]]. What we oft do best,<br>By sick interpreters, once weak ones, is<br>Not ours or not allowed; what worst, as oft,<br>Hitting a grosser quality, is cried up<br>For our best act. If we shall stand still,<br>In [[Fear|fear]] our motion will be mocked or carped at,<br>We should take root here where we sit,<br>Or sit state-statues only. |
-| [[King|KING]] HENRY | Things done [[Well|well]],<br>And with a care, exempt themselves from [[Fear|fear]];<br>Things done without example, in their issue<br>Are to be feared. Have you a precedent<br>Of this commission? I believe not any.<br>We must not rend our subjects from our laws<br>And stick them in our will. Sixth part of each?<br>A trembling contribution! Why, we take<br>From every tree lop, bark, and part o‘th’ timber,<br>And though we leave it with a root, thus hacked<br>The air will drink the sap. To every county<br>Where this is questioned send our letters with<br>Free pardon to each man that has denied<br>The force of this commission. Pray look to’t—<br>I put it to your care. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to a secretary) A word with you.<br>Let there be letters writ to every shire<br>Of the [[King]]’s grace and pardon.<br>(Aside to the secretary)<br>The grieved commons<br>Hardly conceive of me. Let it be noised<br>That through our intercession this revokement<br>And pardon comes. I shall anon advise you<br>Further in the proceeding. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Nay, we must longer kneel. I am a suitor. |
+| [[King\|KING]] HENRY | Arise, and take place by us.<br>He placeth her by him<br>Half your suit<br>Never name to us. You have half our power,<br>The other moiety ere you ask is given.<br>Repeat your will and take it. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Thank your majesty.<br>That you would [[Love\|love]] yourself, and in that [[Love\|love]]<br>Not unconsidered leave your [[Honour\|honour]] nor<br>The dignity of your office, is the point<br>Of my petition. |
+| [[King\|KING]] HENRY | Lady mine, proceed. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | I am solicited, not by a few,<br>And those of true condition, that your subjects<br>Are in great grievance. There have been commissions<br>Sent down among ’em which hath flawed the heart<br>Of all their loyalties; wherein, although,<br>My good lord Cardinal, they vent reproaches<br>Most bitterly on you, as putter-on<br>Of these exactions, yet the [[King]] our master—<br>Whose [[Honour\|honour]] heaven shield from soil—even he<br>escapes not<br>Language unmannerly, yea, such which breaks<br>The sides of loyalty, and almost appears<br>In loud rebellion. |
+| NORFOLK | Not ‘almost appears’—<br>It doth appear; for upon these taxations<br>The clothiers all, not able to maintain<br>The many to them ‘[[Longing\|longing]], have put off<br>The spinsters, carders, fullers, weavers, who,<br>Unfit for other life, compelled by hunger<br>And lack of other means, in desperate manner<br>Daring th’event to th’ teeth, are all in uproar,<br>And danger serves among them. |
+| [[King\|KING]] HENRY | Taxation?<br>Wherein, and what taxation? My lord Cardinal,<br>You that are blamed for it alike with us,<br>Know you of this taxation? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Please you, sir,<br>I know but of a single part in aught<br>Pertains to th’ state, and front but in that file<br>Where others tell steps with me. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | No, my lord?<br>You know no more than others? But you frame<br>Things that are known alike, which are not wholesome<br>To those which would not know them, and yet must<br>Perforce be their acquaintance. These exactions<br>Whereof my sovereign would have note, they are<br>Most pestilent to th’ hearing, and to bear ’em<br>The back is sacrifice to th’ load. They say<br>They are devised by you, or else you suffer<br>Too hard an exclamation. |
+| [[King\|KING]] HENRY | Still exaction!<br>The [[Nature\|nature]] of it? In what kind, let’s know,<br>Is this exaction? |
+| [[Queen Katherine\|QUEEN KATHERINE]] | I am much too venturous<br>In tempting of your patience, but am boldened<br>Under your promised pardon. The subjects’ grief<br>Comes through commissions which compels from each<br>The sixth part of his substance to be levied<br>Without delay, and the pretence for this<br>Is named your wars in France. This makes bold mouths.<br>Tongues spit their duties out, and cold hearts freeze<br>Allegiance in them. Their curses now<br>Live where their prayers did, and it’s come to pass<br>This tractable obedience is a slave<br>To each incensed will. I would your highness<br>Would give it quick consideration, for<br>There is no primer business. |
+| [[King\|KING]] HENRY | By my life,<br>This is against our pleasure. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | And for me,<br>I have no further gone in this than by<br>A single voice, and that not passed me but<br>By learned approbation of the judges. If I am<br>Traduced by ignorant tongues, which neither know<br>My faculties nor person yet will be<br>The chronicles of my doing, let me say<br>‘Tis but the fate of place, and the rough brake<br>That virtue must go through. We must not stint<br>Our necessary actions in the [[Fear\|fear]]<br>To cope malicious censurers, which ever,<br>As rav’nous fishes, do a vessel follow<br>That is new trimmed, but benefit no further<br>Than vainly [[Longing\|longing]]. What we oft do best,<br>By sick interpreters, once weak ones, is<br>Not ours or not allowed; what worst, as oft,<br>Hitting a grosser quality, is cried up<br>For our best act. If we shall stand still,<br>In [[Fear\|fear]] our motion will be mocked or carped at,<br>We should take root here where we sit,<br>Or sit state-statues only. |
+| [[King\|KING]] HENRY | Things done [[Well\|well]],<br>And with a care, exempt themselves from [[Fear\|fear]];<br>Things done without example, in their issue<br>Are to be feared. Have you a precedent<br>Of this commission? I believe not any.<br>We must not rend our subjects from our laws<br>And stick them in our will. Sixth part of each?<br>A trembling contribution! Why, we take<br>From every tree lop, bark, and part o‘th’ timber,<br>And though we leave it with a root, thus hacked<br>The air will drink the sap. To every county<br>Where this is questioned send our letters with<br>Free pardon to each man that has denied<br>The force of this commission. Pray look to’t—<br>I put it to your care. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to a secretary) A word with you.<br>Let there be letters writ to every shire<br>Of the [[King]]’s grace and pardon.<br>(Aside to the secretary)<br>The grieved commons<br>Hardly conceive of me. Let it be noised<br>That through our intercession this revokement<br>And pardon comes. I shall anon advise you<br>Further in the proceeding. |
 | *(didascalia)* | Exit secretary |
 | *(didascalia)* | Enter [[Buckingham]]’s Surveyor |
-| [[Queen Katherine|QUEEN KATHERINE]] | (to the [[King]])<br>I am sorry that the [[Duke of Buckingham]]<br>Is run in your displeasure. |
-| [[King|KING]] HENRY | It grieves many.<br>The gentleman is learned, and a most rare speaker,<br>To [[Nature|nature]] none more bound; his training such<br>That he may furnish and instruct great teachers<br>And never seek for aid out of himself. Yet see,<br>When these so noble benefits shall prove<br>Not [[Well|well]] disposed, the mind growing once corrupt,<br>They turn to vicious forms ten times more ugly<br>Than ever they were fair. This man so complete,<br>Who was enrolled ’mongst wonders—and when we<br>Almost with ravished list’ning could not find<br>His hour of speech a minute—he, my lady,<br>Hath into monstrous habits put the graces<br>That once were his, and is become as black<br>As if besmeared in hell. Sit by us. You shall hear—<br>This was his gentleman in trust of him—<br>Things to strike [[Honour|honour]] sad.<br>(To Wolsey)<br>Bid him recount<br>The fore-recited practices whereof<br>We cannot feel too little, hear too much. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the Surveyor)<br>Stand forth, and with bold spirit relate what you<br>Most like a careful subject have collected<br>Out of the [[Duke of Buckingham]]. |
-| [[King|KING]] HENRY | (to the Surveyor)<br>Speak freely. |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | First, it was usual with him, every day<br>It would infect his speech, that if the [[King]]<br>Should without issue die, he’ll carry it so<br>To make the sceptre his. These very words<br>I’ve heard him utter to his son-in-law,<br>Lord Abergavenny, to whom by oath he menaced<br>[[Revenge]] upon the Cardinal. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[King]])<br>Please your highness note<br>His dangerous conception in this point,<br>Not friended by his wish to your high person.<br>His will is most malignant, and it stretches<br>Beyond you to your friends. |
-| [[Queen Katherine|QUEEN KATHERINE]] | My learned Lord Cardinal,<br>Deliver all with [[Charity|charity]]. |
-| [[King|KING]] HENRY | (to the surveyor) Speak on.<br>How grounded he his title to the [[Crown|crown]]<br>Upon our fail? To this point hast thou heard him<br>At any [[Time|time]] speak aught? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | He was brought to this<br>By a vain prophecy of Nicholas Hopkins. |
-| [[King|KING]] HENRY | What was that Hopkins? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | Sir, a Chartreux friar,<br>His confessor, who fed him every minute<br>With words of sovereignty. |
-| [[King|KING]] HENRY | How know’st thou this? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | Not long before your highness sped to France,<br>The Duke being at the [[Rose]], within the parish<br>Saint Lawrence Poutney, did of me demand<br>What was the speech among the Londoners<br>Concerning the French [[Journey|journey]]. I replied<br>Men feared the French would prove perfidious,<br>To the [[King]]’s danger; presently the Duke<br>Said ‘twas the [[Fear|fear]] indeed, and that he doubted<br>’Twould prove the verity of certain words<br>Spoke by a holy monk that oft, says he,<br>‘Hath sent to me, wishing me to permit<br>John de la Car, my chaplain, a choice hour<br>To hear from him a matter of some moment;<br>Whom after under the confession’s seal<br>He solemnly had sworn, that what he spoke<br>My chaplain to no creature living but<br>To me should utter, with demure confidence<br>This pausingly ensued: “neither the [[King]] nor’s heirs”,<br>Tell you the Duke, “shall prosper. Bid him strive<br>To win the [[Love|love]] o’th’ commonalty. The Duke<br>Shall govern England.” ’ |
-| [[Queen Katherine|QUEEN KATHERINE]] | If I know you [[Well|well]],<br>You were the Duke’s surveyor, and lost your office<br>On the complaint o’th’ tenants. Take good heed<br>You charge not in your spleen a noble person<br>And spoil your nobler [[Soul|soul]]. I say, take heed;<br>Yes, heartily beseech you. |
-| [[King|KING]] HENRY | Let him on.<br>(To the Surveyor) Go forward. |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | On my [[Soul|soul]] I’ll speak but [[Truth|truth]].<br>I told my lord the Duke, by th’ devil’s illusions<br>The monk might be deceived, and that ‘twas<br>dangerous<br>To ruminate on this so far until<br>It forged him some design which, being believed,<br>It was much like to do. He answered, ’Tush,<br>It can do me no damage’, adding further<br>That had the [[King]] in his last sickness failed,<br>The Cardinal’s and Sir Thomas Lovell’s heads<br>Should have gone off. |
-| [[King|KING]] HENRY | Ha? What, so rank? Ah, ha!<br>There’s mischief in this man. Canst thou say further? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | I can, my liege. |
-| [[King|KING]] HENRY | Proceed. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | (to the [[King]])<br>I am sorry that the [[Duke of Buckingham]]<br>Is run in your displeasure. |
+| [[King\|KING]] HENRY | It grieves many.<br>The gentleman is learned, and a most rare speaker,<br>To [[Nature\|nature]] none more bound; his training such<br>That he may furnish and instruct great teachers<br>And never seek for aid out of himself. Yet see,<br>When these so noble benefits shall prove<br>Not [[Well\|well]] disposed, the mind growing once corrupt,<br>They turn to vicious forms ten times more ugly<br>Than ever they were fair. This man so complete,<br>Who was enrolled ’mongst wonders—and when we<br>Almost with ravished list’ning could not find<br>His hour of speech a minute—he, my lady,<br>Hath into monstrous habits put the graces<br>That once were his, and is become as black<br>As if besmeared in hell. Sit by us. You shall hear—<br>This was his gentleman in trust of him—<br>Things to strike [[Honour\|honour]] sad.<br>(To Wolsey)<br>Bid him recount<br>The fore-recited practices whereof<br>We cannot feel too little, hear too much. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the Surveyor)<br>Stand forth, and with bold spirit relate what you<br>Most like a careful subject have collected<br>Out of the [[Duke of Buckingham]]. |
+| [[King\|KING]] HENRY | (to the Surveyor)<br>Speak freely. |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | First, it was usual with him, every day<br>It would infect his speech, that if the [[King]]<br>Should without issue die, he’ll carry it so<br>To make the sceptre his. These very words<br>I’ve heard him utter to his son-in-law,<br>Lord Abergavenny, to whom by oath he menaced<br>[[Revenge]] upon the Cardinal. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[King]])<br>Please your highness note<br>His dangerous conception in this point,<br>Not friended by his wish to your high person.<br>His will is most malignant, and it stretches<br>Beyond you to your friends. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | My learned Lord Cardinal,<br>Deliver all with [[Charity\|charity]]. |
+| [[King\|KING]] HENRY | (to the surveyor) Speak on.<br>How grounded he his title to the [[Crown\|crown]]<br>Upon our fail? To this point hast thou heard him<br>At any [[Time\|time]] speak aught? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | He was brought to this<br>By a vain prophecy of Nicholas Hopkins. |
+| [[King\|KING]] HENRY | What was that Hopkins? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | Sir, a Chartreux friar,<br>His confessor, who fed him every minute<br>With words of sovereignty. |
+| [[King\|KING]] HENRY | How know’st thou this? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | Not long before your highness sped to France,<br>The Duke being at the [[Rose]], within the parish<br>Saint Lawrence Poutney, did of me demand<br>What was the speech among the Londoners<br>Concerning the French [[Journey\|journey]]. I replied<br>Men feared the French would prove perfidious,<br>To the [[King]]’s danger; presently the Duke<br>Said ‘twas the [[Fear\|fear]] indeed, and that he doubted<br>’Twould prove the verity of certain words<br>Spoke by a holy monk that oft, says he,<br>‘Hath sent to me, wishing me to permit<br>John de la Car, my chaplain, a choice hour<br>To hear from him a matter of some moment;<br>Whom after under the confession’s seal<br>He solemnly had sworn, that what he spoke<br>My chaplain to no creature living but<br>To me should utter, with demure confidence<br>This pausingly ensued: “neither the [[King]] nor’s heirs”,<br>Tell you the Duke, “shall prosper. Bid him strive<br>To win the [[Love\|love]] o’th’ commonalty. The Duke<br>Shall govern England.” ’ |
+| [[Queen Katherine\|QUEEN KATHERINE]] | If I know you [[Well\|well]],<br>You were the Duke’s surveyor, and lost your office<br>On the complaint o’th’ tenants. Take good heed<br>You charge not in your spleen a noble person<br>And spoil your nobler [[Soul\|soul]]. I say, take heed;<br>Yes, heartily beseech you. |
+| [[King\|KING]] HENRY | Let him on.<br>(To the Surveyor) Go forward. |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | On my [[Soul\|soul]] I’ll speak but [[Truth\|truth]].<br>I told my lord the Duke, by th’ devil’s illusions<br>The monk might be deceived, and that ‘twas<br>dangerous<br>To ruminate on this so far until<br>It forged him some design which, being believed,<br>It was much like to do. He answered, ’Tush,<br>It can do me no damage’, adding further<br>That had the [[King]] in his last sickness failed,<br>The Cardinal’s and Sir Thomas Lovell’s heads<br>Should have gone off. |
+| [[King\|KING]] HENRY | Ha? What, so rank? Ah, ha!<br>There’s mischief in this man. Canst thou say further? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | I can, my liege. |
+| [[King\|KING]] HENRY | Proceed. |
 | BIJCKINGHAM’S SURVEYOR | Being at Greenwich,<br>After your highness had reproved the Duke<br>About Sir William Bulmer— |
-| [[King|KING]] HENRY | I remember<br>Such a [[Time|time]], being my sworn servant,<br>The Duke retained him his. But on—what hence? |
-| RIICKINGHAM’S SURVEYOR | ‘If’, quoth he, ‘I for this had been committed’—<br>As to the Tower, I thought—‘I would have played<br>The part my father meant to act upon<br>Th’[[Usurper|usurper]] [[Richard]] who, being at Salisbury,<br>Made suit to come in’s presence; which if granted,<br>As he made semblance of his duty, would<br>Have put his knife into him.’ |
-| [[King|KING]] HENRY | A giant traitor! |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[Queen]])<br>Now, madam, may his highness live in [[Freedom|freedom]],<br>And this man out of [[Prison|prison]]? |
-| [[Queen Katherine|QUEEN KATHERINE]] | God mend all. |
-| [[King|KING]] HENRY | (to the Surveyor)<br>There’s something more would out of thee—what<br>sayst? |
-| [[Buckingham|BUCKINGHAM]]’S SURVEYOR | After ‘the Duke his father’, with ‘the knife’,<br>He stretched him, and with one hand on his dagger,<br>Another spread on’s breast, mounting his eyes,<br>He did discharge a horrible oath whose tenor<br>Was, were he evil used, he would outgo<br>His father by as much as a performance<br>Does an irresolute purpose. |
-| [[King|KING]] HENRY | There’s his period—<br>To sheathe his knife in us. He is attached.<br>Call him to present trial. If he may<br>Find [[Mercy|mercy]] in the law, ’tis his; if none,<br>Let him not seek’t of us. By day and [[Night|night]],<br>He’s traitor to th’ height. |
+| [[King\|KING]] HENRY | I remember<br>Such a [[Time\|time]], being my sworn servant,<br>The Duke retained him his. But on—what hence? |
+| RIICKINGHAM’S SURVEYOR | ‘If’, quoth he, ‘I for this had been committed’—<br>As to the Tower, I thought—‘I would have played<br>The part my father meant to act upon<br>Th’[[Usurper\|usurper]] [[Richard]] who, being at Salisbury,<br>Made suit to come in’s presence; which if granted,<br>As he made semblance of his duty, would<br>Have put his knife into him.’ |
+| [[King\|KING]] HENRY | A giant traitor! |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[Queen]])<br>Now, madam, may his highness live in [[Freedom\|freedom]],<br>And this man out of [[Prison\|prison]]? |
+| [[Queen Katherine\|QUEEN KATHERINE]] | God mend all. |
+| [[King\|KING]] HENRY | (to the Surveyor)<br>There’s something more would out of thee—what<br>sayst? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | After ‘the Duke his father’, with ‘the knife’,<br>He stretched him, and with one hand on his dagger,<br>Another spread on’s breast, mounting his eyes,<br>He did discharge a horrible oath whose tenor<br>Was, were he evil used, he would outgo<br>His father by as much as a performance<br>Does an irresolute purpose. |
+| [[King\|KING]] HENRY | There’s his period—<br>To sheathe his knife in us. He is attached.<br>Call him to present trial. If he may<br>Find [[Mercy\|mercy]] in the law, ’tis his; if none,<br>Let him not seek’t of us. By day and [[Night\|night]],<br>He’s traitor to th’ height. |
 | *(didascalia)* | Flourish. Exeunt |
 
 ### Atto 1, Scena 3
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Lord Chamberlain and Lord Sands |
 | LORD CHAMBERLAIN | Is’t possible the spells of France should juggle<br>Men into such strange mysteries? |
@@ -1612,33 +464,33 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | LORD CHAMBERLAIN | [[Death]], my lord,<br>Their clothes are after such a pagan cut to’t<br>That sure they’ve worn out Christendom. |
 | *(didascalia)* | Enter Sir Thomas Lovell |
 | LORD CHAMBERLAIN | How now—<br>What news, Sir Thomas Lovell? |
-| LOVELL | [[Faith]], my lord,<br>I hear of none but the new proclamation<br>That’s clapped upon the [[Court|court]] gate. |
+| LOVELL | [[Faith]], my lord,<br>I hear of none but the new proclamation<br>That’s clapped upon the [[Court\|court]] gate. |
 | LORD CHAMBERLAIN | What is’t for? |
-| LOVELL | The [[Reformation|reformation]] of our travelled gallants<br>That fill the [[Court|court]] with quarrels, talk, and tailors. |
+| LOVELL | The [[Reformation\|reformation]] of our travelled gallants<br>That fill the [[Court\|court]] with quarrels, talk, and tailors. |
 | LORD CHAMBERLAIN | I’m glad ’tis there. Now I would pray our ’messieurs’<br><br>To think an English courtier may be wise<br>And never see the Louvre. |
-| LOVELL | They must either,<br>For so run the conditions, leave those remnants<br>Of [[Fool|fool]] and feather that they got in France,<br>With all their honourable points of ignorance<br>Pertaining thereunto—as fights and fireworks,<br>Abusing better men than they can be<br>Out of a foreign wisdom, renouncing clean<br>The [[Faith|faith]] they have in tennis and tall stockings,<br>Short blistered breeches, and those types of travel—<br>And understand again like honest men,<br>Or pack to their old playfellows. There, I take it,<br>They may, cum privilegio, ‘oui’ away<br>The lag end of their lewdness and be laughed at. |
-| SANDS | ‘Tis [[Time|time]] to give ’em physic, their diseases<br>Are grown so catching. |
+| LOVELL | They must either,<br>For so run the conditions, leave those remnants<br>Of [[Fool\|fool]] and feather that they got in France,<br>With all their honourable points of ignorance<br>Pertaining thereunto—as fights and fireworks,<br>Abusing better men than they can be<br>Out of a foreign wisdom, renouncing clean<br>The [[Faith\|faith]] they have in tennis and tall stockings,<br>Short blistered breeches, and those types of travel—<br>And understand again like honest men,<br>Or pack to their old playfellows. There, I take it,<br>They may, cum privilegio, ‘oui’ away<br>The lag end of their lewdness and be laughed at. |
+| SANDS | ‘Tis [[Time\|time]] to give ’em physic, their diseases<br>Are grown so catching. |
 | LORD CHAMBERLAIN | What a loss our ladies<br>Will have of these trim vanities! |
-| LOVELL | Ay, marry,<br>There will be woe indeed, lords. The sly whoresons<br>Have got a speeding trick to lay down ladies.<br>A French [[Song|song]] and a fiddle has no fellow. |
-| SANDS | The devil fiddle ’em! I am glad they are going,<br>For sure there’s no converting of ’em. Now<br>An honest country lord, as I am, beaten<br>A long [[Time|time]] out of play, may bring his plainsong<br>And have an hour of hearing, and, by’r Lady,<br>Held current music, too. |
+| LOVELL | Ay, marry,<br>There will be woe indeed, lords. The sly whoresons<br>Have got a speeding trick to lay down ladies.<br>A French [[Song\|song]] and a fiddle has no fellow. |
+| SANDS | The devil fiddle ’em! I am glad they are going,<br>For sure there’s no converting of ’em. Now<br>An honest country lord, as I am, beaten<br>A long [[Time\|time]] out of play, may bring his plainsong<br>And have an hour of hearing, and, by’r Lady,<br>Held current music, too. |
 | LORD CHAMBERLAIN | [[Well]] said, Lord Sands.<br>Your colt’s tooth is not cast yet? |
 | SANDS | No, my lord,<br>Nor shall not while I have a stump. |
 | LORD CHAMBERLAIN | (to Lovell)<br>Sir Thomas,<br>Whither were you a-going? |
 | LOVELL | To the Cardinal’s.<br>Your lordship is a guest too. |
-| LORD CHAMBERLAIN | O, ’tis true.<br>This [[Night|night]] he makes a supper, and a great one,<br>To many lords and ladies. There will be<br>The [[Beauty|beauty]] of this kingdom, I’ll assure you. |
+| LORD CHAMBERLAIN | O, ’tis true.<br>This [[Night\|night]] he makes a supper, and a great one,<br>To many lords and ladies. There will be<br>The [[Beauty\|beauty]] of this kingdom, I’ll assure you. |
 | LOVELL | That churchman bears a bounteous mind indeed,<br>A hand as fruitful as the land that feeds us.<br>His dews fall everywhere. |
-| LORD CHAMBERLAIN | No [[Doubt|doubt]] he’s noble.<br>He had a black mouth that said other of him. |
+| LORD CHAMBERLAIN | No [[Doubt\|doubt]] he’s noble.<br>He had a black mouth that said other of him. |
 | SANDS | He may, my lord; he’s wherewithal. In him<br>Sparing would show a worse sin than ill doctrine.<br>Men of his way should be most liberal.<br>They are set here for examples. |
-| LORD CHAMBERLAIN | True, they are so,<br>But few now give so great ones. My barge stays.<br>Your lordship shall along. (To Lovell) Come, good Sir<br>Thomas,<br>We shall be late else, which I would not be,<br>For I was spoke to, with Sir Henry Guildford,<br>This [[Night|night]] to be comptrollers. |
+| LORD CHAMBERLAIN | True, they are so,<br>But few now give so great ones. My barge stays.<br>Your lordship shall along. (To Lovell) Come, good Sir<br>Thomas,<br>We shall be late else, which I would not be,<br>For I was spoke to, with Sir Henry Guildford,<br>This [[Night\|night]] to be comptrollers. |
 | SANDS | I am your lordship’s. |
 | *(didascalia)* | Exeunt |
 
 ### Atto 1, Scena 4
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Hautboys. Enter servants with a small table for [[Cardinal Wolsey]] Which they place under the cloth of state, and a longer table for the guests. Then enter at one door Anne Boleyn and divers other ladies and gentlemen as guests, and at another door enter Sir Henry Guildford |
-| *(didascalia)* | GUlLDFORD<br>Ladies, a general welcome from his grace<br>Salutes ye all. This [[Night|night]] he dedicates<br>To fair content and you. None here, he hopes,<br>In all this noble bevy, has brought with her<br>One care abroad. He would have all as merry<br>As feast, good company, good wine, good welcome<br>Can make good people. |
+| *(didascalia)* | GUlLDFORD<br>Ladies, a general welcome from his grace<br>Salutes ye all. This [[Night\|night]] he dedicates<br>To fair content and you. None here, he hopes,<br>In all this noble bevy, has brought with her<br>One care abroad. He would have all as merry<br>As feast, good company, good wine, good welcome<br>Can make good people. |
 | *(didascalia)* | Enter the Lord Chamberlain, Lord Sands, and Sir Thomas Lovell |
 | *(didascalia)* | (To the Lord Chamberlain) O, my lord, you’re tardy.<br>The very thought of this fair company<br>Clapped wings to me. |
 | LORD CHAMBERLAIN | You are young, Sir Harry Guildford. |
@@ -1648,59 +500,59 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | LOVELL | [[Faith]], how easy? |
 | SANDS | As easy as a down bed would afford it. |
 | LORD CHAMBERLAIN | Sweet ladies, will it please you sit?<br>(To Guildford)<br>Sir Harry,<br>Place you that side, I’ll take the charge of this.<br>They sit about the longer table. A noise within<br>His grace is ent‘ring. Nay, you must not freeze—<br>Two women placed together makes cold weather.<br>My lord Sands, you are one will keep ’em waking.<br>Pray sit between these ladies. |
-| SANDS | By my [[Faith|faith]],<br>And thank your lordship.<br>He sits between Anne and another<br>By your leave, sweet ladies.<br>If I chance to talk a little wild, forgive me.<br>I had it from my father. |
+| SANDS | By my [[Faith\|faith]],<br>And thank your lordship.<br>He sits between Anne and another<br>By your leave, sweet ladies.<br>If I chance to talk a little wild, forgive me.<br>I had it from my father. |
 | ANNE | Was he mad, sir? |
-| SANDS | O, very mad; exceeding mad—in [[Love|love]], too.<br>But he would bite none. Just as I do now,<br>He would kiss you twenty with a breath.<br>He kisses her |
+| SANDS | O, very mad; exceeding mad—in [[Love\|love]], too.<br>But he would bite none. Just as I do now,<br>He would kiss you twenty with a breath.<br>He kisses her |
 | LORD CHAMBERLAIN | [[Well]] said, my lord.<br>So now you’re fairly seated. Gentlemen,<br>The penance lies on you if these fair ladies<br>Pass away frowning. |
-| SANDS | For my little cure,<br>Let me [[Alone|alone]]. |
+| SANDS | For my little cure,<br>Let me [[Alone\|alone]]. |
 | *(didascalia)* | Hautboys. Enter [[Cardinal Wolsey]] who takes his seat at the small table under the state |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | You’re welcome, my fair guests. That noble lady<br>Or gentleman that is not freely merry<br>Is not my friend. This, to confirm my welcome,<br>And to you all, good health!<br>He drinks |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | You’re welcome, my fair guests. That noble lady<br>Or gentleman that is not freely merry<br>Is not my friend. This, to confirm my welcome,<br>And to you all, good health!<br>He drinks |
 | SANDS | Your grace is noble.<br>Let me have such a bowl may hold my thanks,<br>And save me so much talking. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | My lord Sands,<br>I am beholden to you. Cheer your neighbours.<br>Ladies, you are not merry! Gentlemen,<br>Whose fault is this? |
-| SANDS | The red wine first must rise<br>In their fair cheeks, my lord, then we shall have ’em<br>Talk us to [[Silence|silence]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | My lord Sands,<br>I am beholden to you. Cheer your neighbours.<br>Ladies, you are not merry! Gentlemen,<br>Whose fault is this? |
+| SANDS | The red wine first must rise<br>In their fair cheeks, my lord, then we shall have ’em<br>Talk us to [[Silence\|silence]]. |
 | ANNE | You are a merry gamester,<br>My lord Sands. |
 | SANDS | Yes, if I make my play.<br>Here’s to your ladyship; and pledge it, madam,<br>For ’tis to such a thing— |
 | ANNE | You cannot show me. |
 | SANDS | (to Wolsey)<br>I told your grace they would talk anon. |
 | *(didascalia)* | Drum and trumpet. Chambers discharged |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What’s that? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What’s that? |
 | LORD CHAMBERLAIN | (to the servants)<br>Look out there, some of ye. |
 | *(didascalia)* | Exit a servant |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What warlike voice,<br>And to what end is this? Nay, ladies, [[Fear|fear]] not.<br>By all the laws of war you’re privileged. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What warlike voice,<br>And to what end is this? Nay, ladies, [[Fear\|fear]] not.<br>By all the laws of war you’re privileged. |
 | *(didascalia)* | Enter the servant |
 | LORD CHAMBERLAIN | How now—what is’t? |
 | SERVANT | A noble troop of strangers,<br>For so they seem. They’ve left their barge and landed,<br>And hither make as great ambassadors<br>From foreign princes. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Good Lord Chamberlain,<br>Go give ’em welcome—you can speak the French<br>tongue.<br>And pray receive ’em nobly, and conduct ’em<br>Into our presence where this heaven of [[Beauty|beauty]]<br>Shall shine at full upon them. Some attend him. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Good Lord Chamberlain,<br>Go give ’em welcome—you can speak the French<br>tongue.<br>And pray receive ’em nobly, and conduct ’em<br>Into our presence where this heaven of [[Beauty\|beauty]]<br>Shall shine at full upon them. Some attend him. |
 | *(didascalia)* | Exit Chamberlain, attended |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | All rise, and some servants remove the tables<br>You have now a broken banquet, but we’ll mend it.<br>A good digestion to you all, and once more<br>I shower a welcome on ye—welcome all. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | All rise, and some servants remove the tables<br>You have now a broken banquet, but we’ll mend it.<br>A good digestion to you all, and once more<br>I shower a welcome on ye—welcome all. |
 | *(didascalia)* | Hautboys. Enter, ushered by the Lord Chamberlain, [[King]] Henry and others as masquers habited like shepherds. They pass directly before [[Cardinal Wolsey]] and gracefully salute him |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | A noble company. What are their pleasures? |
-| LORD CHAMBERLAIN | Because they speak no English, thus they prayed<br>To tell your grace, that, having heard by fame<br>Of this so noble and so fair assembly<br>This [[Night|night]] to meet here, they could do no less,<br>Out of the great respect they bear to [[Beauty|beauty]],<br>But leave their flocks, and, under your fair conduct,<br>Crave leave to view these ladies, and entreat<br>An hour of revels with ’em. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Say, Lord Chamberlain,<br>They have done my poor [[house]] grace, for which I pay<br>’em<br>A thousand thanks, and pray ’em take their pleasures.<br>The masquers choose ladies. The [[King]] chooses Anne Boleyn |
-| [[King|KING]] HENRY | (to Anne)<br>The fairest hand I ever touched. O [[Beauty|beauty]],<br>Till now I never knew thee. |
-| *(didascalia)* | Music. They [[Dance|dance]] |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the Lord Chamberlain) My lord. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | A noble company. What are their pleasures? |
+| LORD CHAMBERLAIN | Because they speak no English, thus they prayed<br>To tell your grace, that, having heard by fame<br>Of this so noble and so fair assembly<br>This [[Night\|night]] to meet here, they could do no less,<br>Out of the great respect they bear to [[Beauty\|beauty]],<br>But leave their flocks, and, under your fair conduct,<br>Crave leave to view these ladies, and entreat<br>An hour of revels with ’em. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Say, Lord Chamberlain,<br>They have done my poor [[house]] grace, for which I pay<br>’em<br>A thousand thanks, and pray ’em take their pleasures.<br>The masquers choose ladies. The [[King]] chooses Anne Boleyn |
+| [[King\|KING]] HENRY | (to Anne)<br>The fairest hand I ever touched. O [[Beauty\|beauty]],<br>Till now I never knew thee. |
+| *(didascalia)* | Music. They [[Dance\|dance]] |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the Lord Chamberlain) My lord. |
 | LORD CHAMBERLAIN | Your grace. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Pray tell ’em thus much from me. There should be one amongst ’em by his person More worthy this place than myself, to whom, If I but knew him, with my [[Love|love]] and duty I would surrender it. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Pray tell ’em thus much from me. There should be one amongst ’em by his person More worthy this place than myself, to whom, If I but knew him, with my [[Love\|love]] and duty I would surrender it. |
 | LORD CHAMBERLAIN | I will, my lord.<br>He whispers with the masquers |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What say they? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What say they? |
 | LORD CHAMBERLAIN | Such a one they all confess<br>There is indeed, which they would have your grace<br>Find out, and he will take it. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | standing<br>Let me see then.<br>By all your good [[Leaves|leaves]], gentlemen, here I’ll make<br>My royal choice.<br>He bows before the [[King]] |
-| [[King|KING]] HENRY | unmasking Ye have found him, Cardinal.<br>You hold a fair assembly. You do [[Well|well]], lord.<br>You are a churchman, or I’ll tell you, Cardinal,<br>I should judge now unhappily. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I am glad<br>Your grace is grown so pleasant. |
-| [[King|KING]] HENRY | My Lord Chamberlain,<br>Prithee come hither.<br>(Gesturing towards Anne) What fair lady’s that? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | standing<br>Let me see then.<br>By all your good [[Leaves\|leaves]], gentlemen, here I’ll make<br>My royal choice.<br>He bows before the [[King]] |
+| [[King\|KING]] HENRY | unmasking Ye have found him, Cardinal.<br>You hold a fair assembly. You do [[Well\|well]], lord.<br>You are a churchman, or I’ll tell you, Cardinal,<br>I should judge now unhappily. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I am glad<br>Your grace is grown so pleasant. |
+| [[King\|KING]] HENRY | My Lord Chamberlain,<br>Prithee come hither.<br>(Gesturing towards Anne) What fair lady’s that? |
 | LORD CHAMBERLAIN | An’t please your grace, Sir Thomas Boleyn’s daughter—<br>The Viscount Rochford—one of her highness’ women. |
-| [[King|KING]] HENRY | By heaven, she is a dainty one. (To Anne) Sweetheart,<br>I were unmannerly to take you out |
+| [[King\|KING]] HENRY | By heaven, she is a dainty one. (To Anne) Sweetheart,<br>I were unmannerly to take you out |
 | *(didascalia)* | And not to kiss you kisses her. A health, gentlemen; |
-| [[King|KING]] HENRY | He drinks<br>Let it go round. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Sir Thomas Lovell, is the banquet ready<br>I’th’ privy chamber? |
+| [[King\|KING]] HENRY | He drinks<br>Let it go round. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Sir Thomas Lovell, is the banquet ready<br>I’th’ privy chamber? |
 | LOVELL | Yes, my lord. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[King]])<br>Your grace<br>I [[Fear|fear]] with dancing is a little heated. |
-| [[King|KING]] HENRY | I [[Fear|fear]] too much. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | There’s fresher air, my lord,<br>In the next chamber. |
-| [[King|KING]] HENRY | Lead in your ladies, every one. (To Anne) Sweet partner,<br>I must not yet forsake you. (To Wolsey) Let’s be merry,<br>Good my lord Cardinal. I have half a dozen healths<br>To drink to these fair ladies, and a measure<br>To lead ’em once again, and then let’s dream<br>Who’s best in favour. Let the music knock it. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[King]])<br>Your grace<br>I [[Fear\|fear]] with dancing is a little heated. |
+| [[King\|KING]] HENRY | I [[Fear\|fear]] too much. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | There’s fresher air, my lord,<br>In the next chamber. |
+| [[King\|KING]] HENRY | Lead in your ladies, every one. (To Anne) Sweet partner,<br>I must not yet forsake you. (To Wolsey) Let’s be merry,<br>Good my lord Cardinal. I have half a dozen healths<br>To drink to these fair ladies, and a measure<br>To lead ’em once again, and then let’s dream<br>Who’s best in favour. Let the music knock it. |
 | *(didascalia)* | Exeunt with trumpets |
-| [[King|KING]] HENRY | 2.1 Enter two Gentlemen, at several doors |
+| [[King\|KING]] HENRY | 2.1 Enter two Gentlemen, at several doors |
 | FIRST GENTLEMAN | Whither away so fast? |
 | SECOND GENTLEMAN | O, God save ye.<br>Ev’n to the hall to hear what shall become<br>Of the great [[Duke of Buckingham]]. |
 | FIRST GENTLEMAN | I’ll save you<br>That labour, sir. All’s now done but the ceremony<br>Of bringing back the prisoner. |
@@ -1718,245 +570,245 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | FIRST GENTLEMAN | The same.<br>All these accused him strongly, which he fain<br>Would have flung from him, but indeed he could not.<br>And so his peers, upon this evidence,<br>Have found him guilty of high treason. Much<br>He spoke, and learnedly, for life, but all<br>Was either pitied in him or forgotten. |
 | SECOND GENTLEMAN | After all this, how did he bear himself? |
 | FIRST GENTLEMAN | When he was brought again to th’ bar to hear<br>His knell rung out, his judgement, he was stirred<br>With such an agony he sweat extremely,<br>And something spoke in choler, ill and hasty;<br>But he fell to himself again, and sweetly<br>In all the rest showed a most noble patience. |
-| SECOND GENTLEMAN | I do not think he fears [[Death|death]]. |
+| SECOND GENTLEMAN | I do not think he fears [[Death\|death]]. |
 | FIRST GENTLEMAN | Sure he does not.<br>He never was so womanish. The cause<br>He may a little grieve at. |
 | SECOND GENTLEMAN | Certainly<br>The Cardinal is the end of this. |
 | FIRST GENTLEMAN | ’Tis likely<br>By all conjectures: first, Kildare’s attainder,<br>Then deputy of Ireland, who, removed,<br>Earl Surrey was sent thither—and in haste, too,<br>Lest he should help his father. |
 | SECOND GENTLEMAN | That trick of state<br>Was a deep envious one. |
-| FIRST GENTLEMAN | At his return<br>No [[Doubt|doubt]] he will requite it. This is noted,<br>And generally: whoever the [[King]] favours,<br>The Card’nal instantly will find employment—<br>And far enough from [[Court|court]], too. |
-| SECOND GENTLEMAN | All the commons<br>Hate him perniciously and, o’ my [[Conscience|conscience]],<br>Wish him ten fathom deep. This Duke as much<br>They [[Love|love]] and dote on, call him ‘bounteous<br>[[Buckingham]],<br>The [[Mirror|mirror]] of all courtesy’— |
+| FIRST GENTLEMAN | At his return<br>No [[Doubt\|doubt]] he will requite it. This is noted,<br>And generally: whoever the [[King]] favours,<br>The Card’nal instantly will find employment—<br>And far enough from [[Court\|court]], too. |
+| SECOND GENTLEMAN | All the commons<br>Hate him perniciously and, o’ my [[Conscience\|conscience]],<br>Wish him ten fathom deep. This Duke as much<br>They [[Love\|love]] and dote on, call him ‘bounteous<br>[[Buckingham]],<br>The [[Mirror\|mirror]] of all courtesy’— |
 | *(didascalia)* | Enter the [[Duke of Buckingham]] from his arraignment, tipstaves before him, the axe with the edge towards him, halberdiers on each side, accompanied with Sir Thomas Lovell, Sir Nicholas Vaux, Sir William Sands, and common people |
 | FIRST GENTLEMAN | Stay there, sir,<br>And see the noble ruined man you speak of. |
 | SECOND GENTLEMAN | Let’s stand close and behold him.<br>They stand apart |
-| [[Buckingham|BUCKINGHAM]] | (to the common people) All good people,<br>You that thus far have come to pity me,<br>Hear what I say, and then go [[Home|home]] and lose me.<br>I have this day received a traitor’s judgement,<br>And by that name must die. Yet, heaven bear witness,<br>And if I have a [[Conscience|conscience]] let it sink me,<br>Even as the axe falls, if I be not faithful.<br>The law I bear no malice for my [[Death|death]].<br>’T has done, upon the premises, but justice.<br>But those that sought it I could wish more Christians.<br>Be what they will, I heartily forgive ‘em.<br>Yet let ’em look they glory not in mischief,<br>Nor build their evils on the graves of great men,<br>For then my guiltless [[Blood|blood]] must cry against ‘em.<br>For further life in this world I ne’er [[Hope|hope]],<br>Nor will I sue, although the [[King]] have mercies<br>More than I dare make faults. You few that loved me,<br>And dare be bold to weep for [[Buckingham]],<br>His noble friends and fellows, whom to leave<br>Is only bitter to him, only dying,<br>Go with me like good angels to my end,<br>And, as the long [[divorce]] of steel falls on me,<br>Make of your prayers one sweet sacrifice,<br>And lift my [[Soul|soul]] to heaven. (To the guard) Lead on, i’<br>God’s name. |
-| LOVELL | I do beseech your grace, for [[Charity|charity]],<br>If ever any malice in your heart<br>Were hid against me, now to forgive me frankly. |
-| [[Buckingham|BUCKINGHAM]] | Sir Thomas Lovell, I as free forgive you<br>As I would be forgiven. I forgive all.<br>There cannot be those numberless offences<br>‘Gainst me that I cannot take peace with. No black envy<br>Shall mark my [[Grave|grave]]. Commend me to his grace,<br>And if he speak of [[Buckingham]], pray tell him<br>You met him half in heaven. My vows and prayers<br>Yet are the [[King]]’s, and, till my [[Soul|soul]] forsake,<br>Shall cry for blessings on him. May he live<br>Longer than I have [[Time|time]] to tell his years;<br>Ever beloved and loving may his rule be;<br>And, when old [[Time|time]] shall lead him to his end,<br>Goodness and he fill up one monument. |
+| [[Buckingham\|BUCKINGHAM]] | (to the common people) All good people,<br>You that thus far have come to pity me,<br>Hear what I say, and then go [[Home\|home]] and lose me.<br>I have this day received a traitor’s judgement,<br>And by that name must die. Yet, heaven bear witness,<br>And if I have a [[Conscience\|conscience]] let it sink me,<br>Even as the axe falls, if I be not faithful.<br>The law I bear no malice for my [[Death\|death]].<br>’T has done, upon the premises, but justice.<br>But those that sought it I could wish more Christians.<br>Be what they will, I heartily forgive ‘em.<br>Yet let ’em look they glory not in mischief,<br>Nor build their evils on the graves of great men,<br>For then my guiltless [[Blood\|blood]] must cry against ‘em.<br>For further life in this world I ne’er [[Hope\|hope]],<br>Nor will I sue, although the [[King]] have mercies<br>More than I dare make faults. You few that loved me,<br>And dare be bold to weep for [[Buckingham]],<br>His noble friends and fellows, whom to leave<br>Is only bitter to him, only dying,<br>Go with me like good angels to my end,<br>And, as the long [[divorce]] of steel falls on me,<br>Make of your prayers one sweet sacrifice,<br>And lift my [[Soul\|soul]] to heaven. (To the guard) Lead on, i’<br>God’s name. |
+| LOVELL | I do beseech your grace, for [[Charity\|charity]],<br>If ever any malice in your heart<br>Were hid against me, now to forgive me frankly. |
+| [[Buckingham\|BUCKINGHAM]] | Sir Thomas Lovell, I as free forgive you<br>As I would be forgiven. I forgive all.<br>There cannot be those numberless offences<br>‘Gainst me that I cannot take peace with. No black envy<br>Shall mark my [[Grave\|grave]]. Commend me to his grace,<br>And if he speak of [[Buckingham]], pray tell him<br>You met him half in heaven. My vows and prayers<br>Yet are the [[King]]’s, and, till my [[Soul\|soul]] forsake,<br>Shall cry for blessings on him. May he live<br>Longer than I have [[Time\|time]] to tell his years;<br>Ever beloved and loving may his rule be;<br>And, when old [[Time\|time]] shall lead him to his end,<br>Goodness and he fill up one monument. |
 | LOVELL | To th’ waterside I must conduct your grace,<br>Then give my charge up to Sir Nicholas Vaux,<br>Who undertakes you to your end. |
-| VAUX | (to an attendant) Prepare there—<br>The Duke is coming. See the barge be ready,<br>And fit it with such furniture as suits<br>The [[Greatness|greatness]] of his person. |
-| [[Buckingham|BUCKINGHAM]] | Nay, Sir Nicholas,<br>Let it [[Alone|alone]]. My state now will but mock me.<br>When I came hither I was Lord High Constable<br>And [[Duke of Buckingham]]; now, poor Edward Bohun.<br>Yet I am richer than my base accusers,<br>That never knew what [[Truth|truth]] meant. I now seal it,<br>And with that [[Blood|blood]] will make ’em one day groan for’t.<br>My noble father, Henry of [[Buckingham]],<br>Who first raised head against usurping [[Richard]],<br>Flying for succour to his servant Banister,<br>Being distressed, was by that wretch betrayed,<br>And without trial fell. God’s peace be with him.<br>Henry the Seventh succeeding, truly pitying<br>My father’s loss, like a most royal prince,<br>Restored me to my honours, and out of ruins<br>Made my name once more noble. Now his son,<br>Henry the Eighth, life, [[Honour|honour]], name, and all<br>That made me happy, at one stroke has taken<br>For ever from the world. I had my trial,<br>And must needs say a noble one; which makes me<br>A little happier than my wretched father.<br>Yet thus far we are one in fortunes: both<br>Fell by our servants, by those men we loved most—<br>A most unnatural and faithless service.<br>Heaven has an end in all. Yet, you that hear me,<br>This from a dying man receive as certain—<br>Where you are liberal of your loves and counsels,<br>Be sure you be not loose; for those you make friends<br>And give your hearts to, when they once perceive<br>The least rub in your fortunes, fall away<br>Like [[Water|water]] from ye, never found again<br>But where they mean to sink ye. All good people<br>Pray for me. I must now forsake ye. The last hour<br>Of my long weary life is come upon me.<br>Farewell, and when you would say something that is<br>sad,<br>Speak how I fell. I have done, and God forgive me. |
+| VAUX | (to an attendant) Prepare there—<br>The Duke is coming. See the barge be ready,<br>And fit it with such furniture as suits<br>The [[Greatness\|greatness]] of his person. |
+| [[Buckingham\|BUCKINGHAM]] | Nay, Sir Nicholas,<br>Let it [[Alone\|alone]]. My state now will but mock me.<br>When I came hither I was Lord High Constable<br>And [[Duke of Buckingham]]; now, poor Edward Bohun.<br>Yet I am richer than my base accusers,<br>That never knew what [[Truth\|truth]] meant. I now seal it,<br>And with that [[Blood\|blood]] will make ’em one day groan for’t.<br>My noble father, Henry of [[Buckingham]],<br>Who first raised head against usurping [[Richard]],<br>Flying for succour to his servant Banister,<br>Being distressed, was by that wretch betrayed,<br>And without trial fell. God’s peace be with him.<br>Henry the Seventh succeeding, truly pitying<br>My father’s loss, like a most royal prince,<br>Restored me to my honours, and out of ruins<br>Made my name once more noble. Now his son,<br>Henry the Eighth, life, [[Honour\|honour]], name, and all<br>That made me happy, at one stroke has taken<br>For ever from the world. I had my trial,<br>And must needs say a noble one; which makes me<br>A little happier than my wretched father.<br>Yet thus far we are one in fortunes: both<br>Fell by our servants, by those men we loved most—<br>A most unnatural and faithless service.<br>Heaven has an end in all. Yet, you that hear me,<br>This from a dying man receive as certain—<br>Where you are liberal of your loves and counsels,<br>Be sure you be not loose; for those you make friends<br>And give your hearts to, when they once perceive<br>The least rub in your fortunes, fall away<br>Like [[Water\|water]] from ye, never found again<br>But where they mean to sink ye. All good people<br>Pray for me. I must now forsake ye. The last hour<br>Of my long weary life is come upon me.<br>Farewell, and when you would say something that is<br>sad,<br>Speak how I fell. I have done, and God forgive me. |
 | *(didascalia)* | Exeunt [[Buckingham]] and train |
-| [[Buckingham|BUCKINGHAM]] | The two Gentlemen come forward |
-| FIRST GENTLEMAN | O, this is full of pity, sir; it calls,<br>I [[Fear|fear]], too many curses on their heads<br>That were the authors. |
+| [[Buckingham\|BUCKINGHAM]] | The two Gentlemen come forward |
+| FIRST GENTLEMAN | O, this is full of pity, sir; it calls,<br>I [[Fear\|fear]], too many curses on their heads<br>That were the authors. |
 | SECOND GENTLEMAN | If the Duke be guiltless,<br>’Tis full of woe. Yet I can give you inkling<br>Of an ensuing evil, if it fall,<br>Greater than this. |
-| FIRST GENTLEMAN | Good angels keep it from us.<br>What may it be? You do not [[Doubt|doubt]] my [[Faith|faith]], sir? |
-| SECOND GENTLEMAN | This secret is so weighty, ’twill require<br>A strong [[Faith|faith]] to conceal it. |
+| FIRST GENTLEMAN | Good angels keep it from us.<br>What may it be? You do not [[Doubt\|doubt]] my [[Faith\|faith]], sir? |
+| SECOND GENTLEMAN | This secret is so weighty, ’twill require<br>A strong [[Faith\|faith]] to conceal it. |
 | FIRST GENTLEMAN | Let me have it—<br>I do not talk much. |
 | SECOND GENTLEMAN | I am confident;<br>You shall, sir. Did you not of late days hear<br>A buzzing of separation<br>Between the [[King]] and Katherine? |
 | FIRST GENTLEMAN | Yes, but it held not.<br>For when the [[King]] once heard it, out of anger<br>He sent command to the [[Lord Mayor]] straight<br>To stop the rumour and allay those tongues<br>That durst disperse it. |
-| SECOND GENTLEMAN | But that slander, sir,<br>Is found a [[Truth|truth]] now, for it grows again<br>Fresher than e’er it was, and held for certain<br>The [[King]] will venture at it. Either the Cardinal<br>Or some about him near have, out of malice<br>To the good [[Queen]], possessed him with a scruple<br>That will undo her. To confirm this, too,<br>Cardinal Campeius is arrived, and lately,<br>As all think, for this business. |
-| FIRST GENTLEMAN | ’Tis the Cardinal;<br>And merely to [[Revenge|revenge]] him on the Emperor<br>For not bestowing on him at his asking<br>The Archbishopric of Toledo this is purposed. |
+| SECOND GENTLEMAN | But that slander, sir,<br>Is found a [[Truth\|truth]] now, for it grows again<br>Fresher than e’er it was, and held for certain<br>The [[King]] will venture at it. Either the Cardinal<br>Or some about him near have, out of malice<br>To the good [[Queen]], possessed him with a scruple<br>That will undo her. To confirm this, too,<br>Cardinal Campeius is arrived, and lately,<br>As all think, for this business. |
+| FIRST GENTLEMAN | ’Tis the Cardinal;<br>And merely to [[Revenge\|revenge]] him on the Emperor<br>For not bestowing on him at his asking<br>The Archbishopric of Toledo this is purposed. |
 | SECOND GENTLEMAN | I think you have hit the mark. But is’t not cruel<br>That she should feel the smart of this? The Cardinal<br>Will have his will, and she must fall. |
 | FIRST GENTLEMAN | ’Tis woeful.<br>We are too open here to argue this.<br>Let’s think in private more. |
 | *(didascalia)* | Exeunt |
 
 ### Atto 2, Scena 2
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Lord Chamberlain with a letter |
-| LORD CHAMBERLAIN | (reads) ‘My lord, the horses your lordship sent for, with all the care I had, I saw [[Well|well]] chosen, ridden, and furnished. They were young and handsome, and of the best breed in the north. When they were ready to set out for [[London]], a man of my lord Cardinal’s, by commission and main power, took ‘em from me with this reason—his master would be served before a subject, if not before the [[King]]; which stopped our mouths, sir.’<br>I [[Fear|fear]] he will indeed. [[Well]], let him have them. 10<br>He will have all, I think. |
+| LORD CHAMBERLAIN | (reads) ‘My lord, the horses your lordship sent for, with all the care I had, I saw [[Well\|well]] chosen, ridden, and furnished. They were young and handsome, and of the best breed in the north. When they were ready to set out for [[London]], a man of my lord Cardinal’s, by commission and main power, took ‘em from me with this reason—his master would be served before a subject, if not before the [[King]]; which stopped our mouths, sir.’<br>I [[Fear\|fear]] he will indeed. [[Well]], let him have them. 10<br>He will have all, I think. |
 | *(didascalia)* | Enter to the Lord Chamberlain the Dukes of Norfolk and Suffolk |
 | NORFOLK | [[Well]] met, my Lord Chamberlain. |
 | LORD CHAMBERLAIN | Good day to both your graces. |
 | SUFFOLK | How is the [[King]] employed? |
 | LORD CHAMBERLAIN | I left him private,<br>Full of sad thoughts and troubles. |
 | NORFOLK | What’s the cause? |
-| LORD CHAMBERLAIN | It seems the [[Marriage|marriage]] with his brother’s wife<br>Has crept too near his [[Conscience|conscience]]. |
-| SUFFOLK | No, his [[Conscience|conscience]]<br>Has crept too near another lady. |
+| LORD CHAMBERLAIN | It seems the [[Marriage\|marriage]] with his brother’s wife<br>Has crept too near his [[Conscience\|conscience]]. |
+| SUFFOLK | No, his [[Conscience\|conscience]]<br>Has crept too near another lady. |
 | NORFOLK | ’Tis so.<br>This is the Cardinal’s doing. The [[King]]-Cardinal,<br>That blind priest, like the eldest son of fortune,<br>Turns what he list. The [[King]] will know him one day. |
 | SUFFOLK | Pray God he do. He’ll never know himself else. |
-| NORFOLK | How holily he works in all his business,<br>And with what zeal! For now he has cracked the<br>league<br>Between us and the Emperor, the [[Queen]]’s greatnephew,<br>25<br>He dives into the [[King]]’s [[Soul|soul]] and there scatters<br>Dangers, doubts, wringing of the [[Conscience|conscience]],<br>Fears, and despairs—and all these for his [[Marriage|marriage]].<br>And out of all these, to restore the [[King]],<br>He counsels a [[divorce]]—a loss of her<br>That like a [[Jewel|jewel]] has hung twenty years<br>About his neck, yet never lost her lustre;<br>Of her that loves him with that excellence<br>That angels [[Love|love]] good men with; even of her<br>That, when the greatest stroke of fortune falls,<br>Will bless the [[King]]—and is not this course pious? |
-| LORD CHAMBERLAIN | Heaven keep me from such counsel! ’Tis most true—<br>These news are everywhere, every tongue speaks ’em,<br>And every true heart weeps for’t. All that dare<br>Look into these affairs see this main end—<br>The French [[King|king]]’s sister. Heaven will one day open<br>The [[King]]’s eyes, that so long have slept, upon<br>This bold bad man. |
-| SUFFOLK | And free us from his [[Slavery|slavery]]. |
+| NORFOLK | How holily he works in all his business,<br>And with what zeal! For now he has cracked the<br>league<br>Between us and the Emperor, the [[Queen]]’s greatnephew,<br>25<br>He dives into the [[King]]’s [[Soul\|soul]] and there scatters<br>Dangers, doubts, wringing of the [[Conscience\|conscience]],<br>Fears, and despairs—and all these for his [[Marriage\|marriage]].<br>And out of all these, to restore the [[King]],<br>He counsels a [[divorce]]—a loss of her<br>That like a [[Jewel\|jewel]] has hung twenty years<br>About his neck, yet never lost her lustre;<br>Of her that loves him with that excellence<br>That angels [[Love\|love]] good men with; even of her<br>That, when the greatest stroke of fortune falls,<br>Will bless the [[King]]—and is not this course pious? |
+| LORD CHAMBERLAIN | Heaven keep me from such counsel! ’Tis most true—<br>These news are everywhere, every tongue speaks ’em,<br>And every true heart weeps for’t. All that dare<br>Look into these affairs see this main end—<br>The French [[King\|king]]’s sister. Heaven will one day open<br>The [[King]]’s eyes, that so long have slept, upon<br>This bold bad man. |
+| SUFFOLK | And free us from his [[Slavery\|slavery]]. |
 | NORFOLK. | We had need pray,<br>And heartily, for our deliverance,<br>Or this imperious man will work us all<br>From princes into pages. All men’s honours<br>Lie like one lump before him, to be fashioned<br>Into what pitch he please. |
-| SUFFOLK | For me, my lords,<br>I [[Love|love]] him not, nor [[Fear|fear]] him—there’s my creed.<br>As I am made without him, so I’ll stand,<br>If the [[King]] please. His curses and his blessings<br>Touch me alike; they’re breath I not believe in.<br>I knew him, and I know him; so I leave him<br>To him that made him proud—the Pope. |
+| SUFFOLK | For me, my lords,<br>I [[Love\|love]] him not, nor [[Fear\|fear]] him—there’s my creed.<br>As I am made without him, so I’ll stand,<br>If the [[King]] please. His curses and his blessings<br>Touch me alike; they’re breath I not believe in.<br>I knew him, and I know him; so I leave him<br>To him that made him proud—the Pope. |
 | NORFOLK | Let’s in,<br>And with some other business put the [[King]]<br>From these sad thoughts that work too much upon him.<br>(To the Lord Chamberlain)<br>My lord, you’ll bear us company? |
-| LORD CHAMBERLAIN | Excuse me,<br>The [[King]] has sent me otherwhere. Besides,<br>You’ll find a most unfit [[Time|time]] to disturb him.<br>Health to your lordships. |
+| LORD CHAMBERLAIN | Excuse me,<br>The [[King]] has sent me otherwhere. Besides,<br>You’ll find a most unfit [[Time\|time]] to disturb him.<br>Health to your lordships. |
 | NORFOLK | Thanks, my good Lord Chamberlain. |
 | *(didascalia)* | Exit the Lord Chamberlain |
 | NORFOLK | [[King]] Henry draws the curtain, and sits reading<br>pensively |
 | SUFFOLK | How sad he looks! Sure he is much afflicted. |
-| [[King|KING]] HENRY | Who’s there? Ha? |
+| [[King\|KING]] HENRY | Who’s there? Ha? |
 | NORFOLK | Pray God he be not angry. |
-| [[King|KING]] HENRY | Who’s there, I say? How dare you thrust yourselves<br>Into my private meditations!<br>Who am I? Ha? |
-| NORFOLK | A gracious [[King|king]] that pardons all offences<br>Malice ne’er meant. Our breach of duty this way<br>Is business of estate, in which we come<br>To know your royal pleasure. |
-| [[King|KING]] HENRY | Ye are too bold.<br>Go to, I’ll make ye know your times of business.<br>Is this an hour for temporal affairs? Ha? |
+| [[King\|KING]] HENRY | Who’s there, I say? How dare you thrust yourselves<br>Into my private meditations!<br>Who am I? Ha? |
+| NORFOLK | A gracious [[King\|king]] that pardons all offences<br>Malice ne’er meant. Our breach of duty this way<br>Is business of estate, in which we come<br>To know your royal pleasure. |
+| [[King\|KING]] HENRY | Ye are too bold.<br>Go to, I’ll make ye know your times of business.<br>Is this an hour for temporal affairs? Ha? |
 | *(didascalia)* | Enter [[Cardinal Wolsey]] and Cardinal Campeius, the latter with a commission |
-| [[King|KING]] HENRY | Who’s there? My good lord Cardinal? O, my Wolsey,<br>The quiet of my wounded [[Conscience|conscience]],<br>Thou art a cure fit for a [[King|king]].<br>(To Campeius)<br>You’re welcome,<br>Most learnèd reverend sir, into our kingdom.<br>Use us, and it. (To Wolsey) My good lord, have great<br>care<br>I be not found a talker. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Sir, you cannot.<br>I would your grace would give us but an hour<br>Of private conference. |
-| [[King|KING]] HENRY | (to Norfolk and Suffolk) We are busy; go.<br>Norfolk and Suffolk speak privately to one another as they depart |
-| NORFOLK | This priest has no [[Pride|pride]] in him! |
+| [[King\|KING]] HENRY | Who’s there? My good lord Cardinal? O, my Wolsey,<br>The quiet of my wounded [[Conscience\|conscience]],<br>Thou art a cure fit for a [[King\|king]].<br>(To Campeius)<br>You’re welcome,<br>Most learnèd reverend sir, into our kingdom.<br>Use us, and it. (To Wolsey) My good lord, have great<br>care<br>I be not found a talker. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Sir, you cannot.<br>I would your grace would give us but an hour<br>Of private conference. |
+| [[King\|KING]] HENRY | (to Norfolk and Suffolk) We are busy; go.<br>Norfolk and Suffolk speak privately to one another as they depart |
+| NORFOLK | This priest has no [[Pride\|pride]] in him! |
 | SUFFOLK | Not to speak of.<br>I would not be so sick, though, for his place—<br>But this cannot continue. |
 | NORFOLK | If it do<br>I’ll venture one have-at-him. |
 | SUFFOLK | I another. |
 | *(didascalia)* | Exeunt Norfolk and Suffolk |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[King]])<br>Your grace has given a precedent of wisdom<br>Above all princes in committing freely<br>Your scruple to the voice of Christendom.<br>Who can be angry now? What envy reach you?<br>The Spaniard, tied by [[Blood|blood]] and favour to her,<br>Must now confess, if they have any goodness,<br>The trial just and noble. All the cterks—<br>I mean the learnèd ones in Christian kingdoms—<br>Have their free voices. Rome, the [[Nurse|nurse]] of judgement,<br>Invited by your noble [[Self|self]], hath sent<br>One general tongue unto us: this good man,<br>This just and learned priest, Card’nal Campeius,<br>Whom once more I present unto your highness. |
-| [[King|KING]] HENRY | (embracing Campeius)<br>And once more in mine arms I bid him welcome,<br>And thank the holy conclave for their loves.<br>They have sent me such a man I would have wished for. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[King]])<br>Your grace has given a precedent of wisdom<br>Above all princes in committing freely<br>Your scruple to the voice of Christendom.<br>Who can be angry now? What envy reach you?<br>The Spaniard, tied by [[Blood\|blood]] and favour to her,<br>Must now confess, if they have any goodness,<br>The trial just and noble. All the cterks—<br>I mean the learnèd ones in Christian kingdoms—<br>Have their free voices. Rome, the [[Nurse\|nurse]] of judgement,<br>Invited by your noble [[Self\|self]], hath sent<br>One general tongue unto us: this good man,<br>This just and learned priest, Card’nal Campeius,<br>Whom once more I present unto your highness. |
+| [[King\|KING]] HENRY | (embracing Campeius)<br>And once more in mine arms I bid him welcome,<br>And thank the holy conclave for their loves.<br>They have sent me such a man I would have wished for. |
 | CARDINAL CAMPEIUS | Your grace must needs deserve all strangers’ loves,<br>You are so noble. To your highness’ hand<br>I tender my commission,<br>He gives the commission to the [[King]]<br>(To Wolsey)<br>by whose virtue,<br>The [[Court]] of Rome commanding, you, my lord<br>Cardinal of York, are joined with me their servant<br>In the unpartial judging of this business. |
-| [[King|KING]] HENRY | Two equal men. The [[Queen]] shall be acquainted<br>Forthwith for what you come. Where’s Gardiner? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I know your majesty has always loved her<br>So dear in heart not to deny her that<br>A woman of less place might ask by law—<br>Scholars allowed freely to argue for her. |
-| [[King|KING]] HENRY | Ay, and the best she shall have, and my favour<br>To him that does best, God forbid else. Cardinal,<br>Prithee call Gardiner to me, my new secretary.<br>[[Cardinal Wolsey]] goes to the door and calls Gardiner<br>I find him a fit fellow. |
+| [[King\|KING]] HENRY | Two equal men. The [[Queen]] shall be acquainted<br>Forthwith for what you come. Where’s Gardiner? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I know your majesty has always loved her<br>So dear in heart not to deny her that<br>A woman of less place might ask by law—<br>Scholars allowed freely to argue for her. |
+| [[King\|KING]] HENRY | Ay, and the best she shall have, and my favour<br>To him that does best, God forbid else. Cardinal,<br>Prithee call Gardiner to me, my new secretary.<br>[[Cardinal Wolsey]] goes to the door and calls Gardiner<br>I find him a fit fellow. |
 | *(didascalia)* | Enter Gardiner |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (aside to Gardiner)<br>Give me your hand. Much joy and favour to you.<br>You are the [[King]]’s now. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (aside to Gardiner)<br>Give me your hand. Much joy and favour to you.<br>You are the [[King]]’s now. |
 | GARDINER | (aside to Wolsey) But to be commanded<br>For ever by your grace, whose hand has raised me. |
-| [[King|KING]] HENRY | Come hither, Gardiner.<br>The [[King]] walks with Gardiner and whispers with him |
+| [[King\|KING]] HENRY | Come hither, Gardiner.<br>The [[King]] walks with Gardiner and whispers with him |
 | CARDINAL CAMPEIUS | (to Wolsey)<br>My lord of York, was not one Doctor Pace<br>In this man’s place before him? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Yes, he was. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Yes, he was. |
 | CARDINAL CAMPEIUS | Was he not held a learnèd man? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Yes, surely. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Yes, surely. |
 | CARDINAL CAMPEIUS | Believe me, there’s an ill opinion spread then,<br>Even of yourself, lord Cardinal. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | How? Of me? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | How? Of me? |
 | CARDINAL CAMPEIUS | They will not stick to say you envied him,<br>And fearing he would rise, he was so virtuous,<br>Kept him a foreign man still, which so grieved him<br>That he ran mad and died. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Heav’n’s peace be with him—<br>That’s Christian care enough. For living murmurers<br>There’s places of rebuke. He was a [[Fool|fool]],<br>For he would needs be virtuous.<br>(Gesturing towards Gardiner)<br>That good fellow,<br>If I command him, follows my appointment.<br>I will have none so near else. Learn this, brother:<br>We live not to be griped by meaner persons. |
-| [[King|KING]] HENRY | (to Gardiner)<br>Deliver this with modesty to th’ [[Queen]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Heav’n’s peace be with him—<br>That’s Christian care enough. For living murmurers<br>There’s places of rebuke. He was a [[Fool\|fool]],<br>For he would needs be virtuous.<br>(Gesturing towards Gardiner)<br>That good fellow,<br>If I command him, follows my appointment.<br>I will have none so near else. Learn this, brother:<br>We live not to be griped by meaner persons. |
+| [[King\|KING]] HENRY | (to Gardiner)<br>Deliver this with modesty to th’ [[Queen]]. |
 | *(didascalia)* | Exit Gardiner |
-| [[King|KING]] HENRY | The most convenient place that I can think of<br>For such receipt of learning is Blackfriars;<br>There ye shall meet about this weighty business.<br>My Wolsey, see it furnished. O, my lord,<br>Would it not grieve an able man to leave<br>So sweet a bedfellow? But [[Conscience|conscience]], [[Conscience|conscience]]—<br>O, ’tis a tender place, and I must leave her. |
+| [[King\|KING]] HENRY | The most convenient place that I can think of<br>For such receipt of learning is Blackfriars;<br>There ye shall meet about this weighty business.<br>My Wolsey, see it furnished. O, my lord,<br>Would it not grieve an able man to leave<br>So sweet a bedfellow? But [[Conscience\|conscience]], [[Conscience\|conscience]]—<br>O, ’tis a tender place, and I must leave her. |
 | *(didascalia)* | Exeunt |
 
 ### Atto 2, Scena 3
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Anne Boleyn and an Old Lady |
-| ANNE | Not for that neither. Here’s the pang that pinches—<br>His highness having lived so long with her, and she<br>So good a lady that no tongue could ever<br>Pronounce dishonour of her—by my life,<br>She never knew harm-doing—O now, after<br>So many courses of the sun enthroned,<br>Still growing in a majesty and pomp the which<br>To leave a thousandfold more bitter than<br>’Tis sweet at first t’acquire—after this process,<br>To give her the avaunt, it is a pity<br>Would move a [[Monster|monster]]. |
+| ANNE | Not for that neither. Here’s the pang that pinches—<br>His highness having lived so long with her, and she<br>So good a lady that no tongue could ever<br>Pronounce dishonour of her—by my life,<br>She never knew harm-doing—O now, after<br>So many courses of the sun enthroned,<br>Still growing in a majesty and pomp the which<br>To leave a thousandfold more bitter than<br>’Tis sweet at first t’acquire—after this process,<br>To give her the avaunt, it is a pity<br>Would move a [[Monster\|monster]]. |
 | OLD LADY | Hearts of most hard temper<br>Melt and lament for her. |
-| ANNE | O, God’s will! Much better<br>She ne’er had known pomp; though’t be temporal,<br>Yet if that quarrel, fortune, do [[divorce]]<br>It from the bearer, ’tis a sufferance panging<br>As [[Soul|soul]] and bodies severing. |
+| ANNE | O, God’s will! Much better<br>She ne’er had known pomp; though’t be temporal,<br>Yet if that quarrel, fortune, do [[divorce]]<br>It from the bearer, ’tis a sufferance panging<br>As [[Soul\|soul]] and bodies severing. |
 | OLD LADY | Alas, poor lady!<br>She’s a stranger now again. |
 | ANNE | So much the more<br>Must pity drop upon her. Verily,<br>I swear, ’tis better to be lowly born<br>And range with humble livers in content<br>Than to be perked up in a glist’ring grief<br>And wear a golden sorrow. |
 | OLD LADY | Our content<br>Is our best having. |
-| ANNE | By my troth and maidenhead,<br>I would not be a [[Queen|queen]]. |
-| OLD LADY | Beshrew me, I would—<br>And venture maidenhead for’t; and so would you,<br>For all this spice of your hypocrisy.<br>You, that have so fair parts of woman on you,<br>Have, too, a woman’s heart which ever yet<br>Affected eminence, wealth, sovereignty;<br>Which, to say sooth, are blessings; and which gifts,<br>Saving your mincing, the capacity<br>Of your soft cheveril [[Conscience|conscience]] would receive<br>If you might please to stretch it. |
+| ANNE | By my troth and maidenhead,<br>I would not be a [[Queen\|queen]]. |
+| OLD LADY | Beshrew me, I would—<br>And venture maidenhead for’t; and so would you,<br>For all this spice of your hypocrisy.<br>You, that have so fair parts of woman on you,<br>Have, too, a woman’s heart which ever yet<br>Affected eminence, wealth, sovereignty;<br>Which, to say sooth, are blessings; and which gifts,<br>Saving your mincing, the capacity<br>Of your soft cheveril [[Conscience\|conscience]] would receive<br>If you might please to stretch it. |
 | ANNE | Nay, good troth. |
-| OLD LADY | Yes, troth and troth. You would not be a [[Queen|queen]]? |
+| OLD LADY | Yes, troth and troth. You would not be a [[Queen\|queen]]? |
 | ANNE | No, not for all the riches under heaven. |
-| OLD LADY | ’Tis strange. A threepence bowed would hire me,<br>Old as I am, to [[Queen|queen]] it. But I pray you,<br>What think you of a duchess? Have you limbs<br>To bear that load of title? |
-| ANNE | No, in [[Truth|truth]]. |
+| OLD LADY | ’Tis strange. A threepence bowed would hire me,<br>Old as I am, to [[Queen\|queen]] it. But I pray you,<br>What think you of a duchess? Have you limbs<br>To bear that load of title? |
+| ANNE | No, in [[Truth\|truth]]. |
 | OLD LADY | Then you are weakly made. Pluck off a little;<br>I would not be a young count in your way<br>For more than blushing comes to. If your back<br>Cannot vouchsafe this burden, ’tis too weak<br>Ever to get a boy. |
-| ANNE | How you do talk!<br>I swear again, I would not be a [[Queen|queen]]<br>For all the world. |
-| OLD LADY | In [[Faith|faith]], for little England<br>You’d venture an emballing; I myself<br>Would for Caernarfonshire, although there ’longed<br>No more to th’ [[Crown|crown]] but that. Lo, who comes here? |
+| ANNE | How you do talk!<br>I swear again, I would not be a [[Queen\|queen]]<br>For all the world. |
+| OLD LADY | In [[Faith\|faith]], for little England<br>You’d venture an emballing; I myself<br>Would for Caernarfonshire, although there ’longed<br>No more to th’ [[Crown\|crown]] but that. Lo, who comes here? |
 | *(didascalia)* | Enter the Lord Chamberlain |
 | LORD CHAMBERLAIN | Good morrow, ladies. What were’t worth to know<br>The secret of your conference? |
 | ANNE | My good lord,<br>Not your demand; it values not your asking.<br>Our mistress’ sorrows we were pitying. |
-| LORD CHAMBERLAIN | It was a gentle business, and becoming<br>The action of good women. There is [[Hope|hope]]<br>All will be [[Well|well]]. |
+| LORD CHAMBERLAIN | It was a gentle business, and becoming<br>The action of good women. There is [[Hope\|hope]]<br>All will be [[Well\|well]]. |
 | ANNE | Now I pray God, amen. |
-| LORD CHAMBERLAIN | You bear a gentle mind, and heav’nly blessings<br>Follow such creatures. That you may, fair lady,<br>Perceive I speak sincerely, and high note’s<br>Ta’en of your many virtues, the [[King]]’s majesty<br>Commends his good opinion of you, and<br>Does purpose [[Honour|honour]] to you no less flowing<br>Than [[Marchioness]] of Pembroke; to which title<br>A thousand pound a year annual support<br>Out of his grace he adds. |
+| LORD CHAMBERLAIN | You bear a gentle mind, and heav’nly blessings<br>Follow such creatures. That you may, fair lady,<br>Perceive I speak sincerely, and high note’s<br>Ta’en of your many virtues, the [[King]]’s majesty<br>Commends his good opinion of you, and<br>Does purpose [[Honour\|honour]] to you no less flowing<br>Than [[Marchioness]] of Pembroke; to which title<br>A thousand pound a year annual support<br>Out of his grace he adds. |
 | ANNE | I do not know<br>What kind of my obedience I should tender.<br>More than my all is nothing; nor my prayers<br>Are not words duly hallowed, nor my wishes<br>More worth than empty vanities; yet prayers and wishes<br>Are all I can return. Beseech your lordship,<br>Vouchsafe to speak my thanks and my obedience,<br>As from a blushing handmaid to his highness,<br>Whose health and royalty I pray for. |
-| LORD CHAMBERLAIN | Lady,<br>I shall not fail t’approve the fair conceit<br>The [[King]] hath of you. (Aside) I have perused her [[Well|well]].<br>[[Beauty]] and [[Honour|honour]] in her are so mingled<br>That they have caught the [[King]], and who knows yet<br>But from this lady may proceed a gem<br>To lighten all this isle. (To Anne) I’ll to the [[King]]<br>And say I spoke with you; |
+| LORD CHAMBERLAIN | Lady,<br>I shall not fail t’approve the fair conceit<br>The [[King]] hath of you. (Aside) I have perused her [[Well\|well]].<br>[[Beauty]] and [[Honour\|honour]] in her are so mingled<br>That they have caught the [[King]], and who knows yet<br>But from this lady may proceed a gem<br>To lighten all this isle. (To Anne) I’ll to the [[King]]<br>And say I spoke with you; |
 | ANNE | My honoured lord. |
 | *(didascalia)* | Exit the Lord Chamberlain |
-| OLD LADY | Why, this it is—see, see!<br>I have been begging sixteen years in [[Court|court]],<br>Am yet a courtier beggarly, nor could<br>Come pat betwixt too early and too late<br>For any suit of pounds; and you—O, fate!—<br>A very fresh fish here—fie, fie upon<br>This compelled fortune!—have your mouth filled up<br>Before you open it. |
+| OLD LADY | Why, this it is—see, see!<br>I have been begging sixteen years in [[Court\|court]],<br>Am yet a courtier beggarly, nor could<br>Come pat betwixt too early and too late<br>For any suit of pounds; and you—O, fate!—<br>A very fresh fish here—fie, fie upon<br>This compelled fortune!—have your mouth filled up<br>Before you open it. |
 | ANNE | This is strange to me. |
-| OLD LADY | How tastes it? Is it bitter? Forty pence, no.<br>There was a lady once—’tis an old story—<br>That would not be a [[Queen|queen]], that would she not,<br>For all the mud in [[Egypt]]. Have you heard it? |
+| OLD LADY | How tastes it? Is it bitter? Forty pence, no.<br>There was a lady once—’tis an old story—<br>That would not be a [[Queen\|queen]], that would she not,<br>For all the mud in [[Egypt]]. Have you heard it? |
 | ANNE | Come, you are pleasant. |
-| OLD LADY | With your theme I could<br>O’ermount the lark. The [[Marchioness]] of Pembroke?<br>A thousand pounds a year, for pure respect?<br>No other obligation? By my life,<br>That promises more thousands. [[Honour]]’s train<br>Is longer than his foreskirt. By this [[Time|time]]<br>I know your back will bear a duchess. Say,<br>Are you not stronger than you were? |
-| ANNE | Good lady,<br>Make yourself mirth with your particular fancy,<br>And leave me out on’t. Would I had no being;<br>If this salute my [[Blood|blood]] a jot. It faints me<br>To think what follows.<br>The [[Queen]] is comfortless, and we forgetful<br>In our long absence. Pray do not deliver<br>What here you’ve heard to her. |
+| OLD LADY | With your theme I could<br>O’ermount the lark. The [[Marchioness]] of Pembroke?<br>A thousand pounds a year, for pure respect?<br>No other obligation? By my life,<br>That promises more thousands. [[Honour]]’s train<br>Is longer than his foreskirt. By this [[Time\|time]]<br>I know your back will bear a duchess. Say,<br>Are you not stronger than you were? |
+| ANNE | Good lady,<br>Make yourself mirth with your particular fancy,<br>And leave me out on’t. Would I had no being;<br>If this salute my [[Blood\|blood]] a jot. It faints me<br>To think what follows.<br>The [[Queen]] is comfortless, and we forgetful<br>In our long absence. Pray do not deliver<br>What here you’ve heard to her. |
 | OLD LADY | What do you think me— |
 | *(didascalia)* | Exeunt |
 
 ### Atto 2, Scena 4
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
-| *(didascalia)* | Trumpets: sennet. Then cornetts. Enter two vergers with short silver wands; next them two Scribes in the habit of doctors; after them the Archbishop of Canterbury [[Alone|alone]]; after him the Bishops of [[Lincoln]], Ely, Rochester, and Saint Asaph; next them, with some small distance, follows a gentleman bearing both the purse containing the great seal and a cardinal’s hat; then two priests bearing each a silver [[Cross|cross]]; then a gentleman usher, bare-headed, accompanied with a serjeant-at-arms bearing a silver mace; then two gentlemen bearing two great silver pillars; after them, side by side, the two cardinals, Wolsey and Campeius; then two noblemen with the [[Sword|sword]] and mace. The [[King]] ascends to his seat under the cloth of state; the two cardinals sit under him as judges; the [[Queen]], attended by Griffith her gentleman usher, takes place some distance from the [[King]]; the Bishops place themselves on each side the [[Court|court]] in the manner of a consistory; below them, the Scribes. The lords sit next the Bishops. The rest of the attendants stand in convenient order about the stage |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Whilst our commission from Rome is read<br>Let [[Silence|silence]] be commanded. |
-| [[King|KING]] HENRY | What’s the need?<br>It hath already publicly been read,<br>And on all sides th’authority allowed.<br>You may then spare that [[Time|time]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Be’t so. Proceed. |
-| SCRIBE | (to the Crier)<br>Say, ‘Henry, [[King]] of England, come into the [[Court|court]]’. |
-| CRIER | Henry, [[King]] of England, come into the [[Court|court]]. |
-| [[King|KING]] HENRY | Here. |
-| SCRIBE | (to the Crier)<br>Say, ‘Katherine, [[Queen]] of England, come into the [[Court|court]]’. |
-| CRIER | Katherine, [[Queen]] of England, come into the [[Court|court]].<br>The [[Queen]] makes no answer, but rises out of her chair, goes about the [[Court|court]], comes to the [[King]], and kneels at his feet. Then she speaks |
-| [[Queen Katherine|QUEEN KATHERINE]] | Sir, I [[Desire|desire]] you do me right and justice,<br>And to bestow your pity on me; for<br>I am a most poor woman, and a stranger,<br>Born out of your dominions, having here<br>No judge indifferent, nor no more assurance<br>Of equal [[Friendship|friendship]] and proceeding. Alas, sir,<br>In what have I offended you? What cause<br>Hath my behaviour given to your displeasure<br>That thus you should proceed to put me off,<br>And take your good grace from me? Heaven witness<br>I have been to you a true and humble wife,<br>At all times to your will conformable,<br>Ever in [[Fear|fear]] to kindle your dislike,<br>Yea, subject to your countenance, glad or sorry<br>As I saw it inclined. When was the hour<br>I ever contradicted your [[Desire|desire]],<br>Or made it not mine too? Or which of your friends<br>Have I not strove to [[Love|love]], although I knew<br>He were mine enemy? What friend of mine<br>That had to him derived your anger did I<br>Continue in my liking? Nay, gave notice<br>He was from thence discharged? Sir, call to mind<br>That I have been your wife in this obedience<br>Upward of twenty years, and have been blessed<br>With many children by you. If, in the course<br>And process of this [[Time|time]], you can report—<br>And prove it, too—against mine [[Honour|honour]] aught,<br>My bond to wedlock, or my [[Love|love]] and duty<br>Against your sacred person, in God’s name<br>Turn me away, and let the foul‘st contempt<br>Shut door upon me, and so give me up<br>To the sharp’st kind of justice. Please you, sir,<br>The [[King]] your father was reputed for<br>A prince most prudent, of an excellent<br>And unmatched wit and judgement. [[Ferdinand]]<br>My father, [[King]] of Spain, was reckoned one<br>The wisest prince that there had reigned by many<br>A year before. It is not to be questioned<br>That they had gathered a wise council to them<br>Of every realm, that did [[debate]] this business,<br>Who deemed our [[Marriage|marriage]] lawful. Wherefore I humbly<br>Beseech you, sir, to spare me till I may<br>Be by my friends in Spain advised, whose counsel<br>I will implore. If not, i’th’ name of God,<br>Your pleasure be fulfilled. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | You have here, lady,<br>And of your choice, these reverend fathers, men<br>Of singular integrity and learning,<br>Yea, the elect o’th’ land, who are assembled<br>To plead your cause. It shall be therefore bootless<br>That longer you [[Desire|desire]] the [[Court|court]], as [[Well|well]]<br>For your own quiet, as to rectify<br>What is unsettled in the [[King]]. |
-| CARDINAL CAMPEIUS | His grace<br>Hath spoken [[Well|well]] and justly. Therefore, madam,<br>It’s fit this royal session do proceed,<br>And that without delay their arguments<br>Be now produced and heard. |
-| [[Queen Katherine|QUEEN KATHERINE]] | (to Wolsey) Lord Cardinal,<br>To you I speak. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Your pleasure, madam. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Sir,<br>I am about to weep, but thinking that<br>We are a [[Queen|queen]], or long have dreamed so, certain<br>The daughter of a [[King|king]], my drops of [[Tears|tears]]<br>I’ll turn to sparks of [[Fire|fire]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Be patient yet. |
-| [[Queen Katherine|QUEEN KATHERINE]] | I will when you are humble! Nay, before,<br>Or God will punish me. I do believe,<br>Induced by potent circumstances, that<br>You are mine enemy, and make my challenge<br>You shall not be my judge. For it is you<br>Have blown this coal betwixt my lord and me,<br>Which God’s dew quench. Therefore I say again,<br>I utterly abhor, yea, from my [[Soul|soul]],<br>Refuse you for my judge, whom yet once more<br>I hold my most malicious foe, and think not<br>At all a friend to [[Truth|truth]]. |
-| CARDINAL WOISEY | I do profess<br>You speak not like yourself, who ever yet<br>Have stood to [[Charity|charity]], and displayed th‘effects<br>Of disposition gentle and of wisdom<br>O’er-topping woman’s power. Madam, you do me wrong.<br>I have no spleen against you, nor injustice<br>For you or any. How far I have proceeded,<br>Or how far further shall, is warranted<br>By a commission from the consistory,<br>Yea, the whole consistory of Rome. You charge me<br>That I ‘have blown this coal’. I do deny it.<br>The [[King]] is present. If it be known to him<br>That I gainsay my deed, how may he wound,<br>And worthily, my falsehood—yea, as much<br>As you have done my [[Truth|truth]]. If he know<br>That I am free of your report, he knows<br>I am not of your wrong. Therefore in him<br>It lies to cure me, and the cure is to<br>Remove these thoughts from you. The which before<br>His highness shall speak in, I do beseech<br>You, gracious madam, to unthink your speaking,<br>And to say so no more. |
-| [[Queen Katherine|QUEEN KATHERINE]] | My lord, my lord—<br>I am a simple woman, much too weak<br>T‘oppose your cunning. You’re meek and humblemouthed;<br>You sign your place and calling, in full seeming,<br>With meekness and [[Humility|humility]]—but your heart<br>Is crammed with arrogancy, spleen, and [[Pride|pride]].<br>You have by fortune and his highness’ favours<br>Gone slightly o’er low steps, and now are mounted<br>Where powers are your retainers, and your words,<br>Domestics to you, serve your will as’t please<br>Yourself pronounce their office. I must tell you,<br>You tender more your person’s [[Honour|honour]] than<br>Your high profession spiritual, that again<br>I do refuse you for my judge, and here,<br>Before you all, appeal unto the Pope,<br>To bring my whole cause ’fore his holiness,<br>And to be judged by him.<br>She curtsies to the [[King]] and begins to depart |
-| CARDINAL CAMPEIUS | The [[Queen]] is obstinate,<br>Stubborn to justice, apt to accuse it, and<br>Disdainful to be tried by’t. ’Tis not [[Well|well]].<br>She’s going away. |
-| [[King|KING]] HENRY | (to the Crier) Call her again. |
-| CRIER | Katherine, [[Queen]] of England, come into the [[Court|court]]. |
+| *(didascalia)* | Trumpets: sennet. Then cornetts. Enter two vergers with short silver wands; next them two Scribes in the habit of doctors; after them the Archbishop of Canterbury [[Alone\|alone]]; after him the Bishops of [[Lincoln]], Ely, Rochester, and Saint Asaph; next them, with some small distance, follows a gentleman bearing both the purse containing the great seal and a cardinal’s hat; then two priests bearing each a silver [[Cross\|cross]]; then a gentleman usher, bare-headed, accompanied with a serjeant-at-arms bearing a silver mace; then two gentlemen bearing two great silver pillars; after them, side by side, the two cardinals, Wolsey and Campeius; then two noblemen with the [[Sword\|sword]] and mace. The [[King]] ascends to his seat under the cloth of state; the two cardinals sit under him as judges; the [[Queen]], attended by Griffith her gentleman usher, takes place some distance from the [[King]]; the Bishops place themselves on each side the [[Court\|court]] in the manner of a consistory; below them, the Scribes. The lords sit next the Bishops. The rest of the attendants stand in convenient order about the stage |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Whilst our commission from Rome is read<br>Let [[Silence\|silence]] be commanded. |
+| [[King\|KING]] HENRY | What’s the need?<br>It hath already publicly been read,<br>And on all sides th’authority allowed.<br>You may then spare that [[Time\|time]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Be’t so. Proceed. |
+| SCRIBE | (to the Crier)<br>Say, ‘Henry, [[King]] of England, come into the [[Court\|court]]’. |
+| CRIER | Henry, [[King]] of England, come into the [[Court\|court]]. |
+| [[King\|KING]] HENRY | Here. |
+| SCRIBE | (to the Crier)<br>Say, ‘Katherine, [[Queen]] of England, come into the [[Court\|court]]’. |
+| CRIER | Katherine, [[Queen]] of England, come into the [[Court\|court]].<br>The [[Queen]] makes no answer, but rises out of her chair, goes about the [[Court\|court]], comes to the [[King]], and kneels at his feet. Then she speaks |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Sir, I [[Desire\|desire]] you do me right and justice,<br>And to bestow your pity on me; for<br>I am a most poor woman, and a stranger,<br>Born out of your dominions, having here<br>No judge indifferent, nor no more assurance<br>Of equal [[Friendship\|friendship]] and proceeding. Alas, sir,<br>In what have I offended you? What cause<br>Hath my behaviour given to your displeasure<br>That thus you should proceed to put me off,<br>And take your good grace from me? Heaven witness<br>I have been to you a true and humble wife,<br>At all times to your will conformable,<br>Ever in [[Fear\|fear]] to kindle your dislike,<br>Yea, subject to your countenance, glad or sorry<br>As I saw it inclined. When was the hour<br>I ever contradicted your [[Desire\|desire]],<br>Or made it not mine too? Or which of your friends<br>Have I not strove to [[Love\|love]], although I knew<br>He were mine enemy? What friend of mine<br>That had to him derived your anger did I<br>Continue in my liking? Nay, gave notice<br>He was from thence discharged? Sir, call to mind<br>That I have been your wife in this obedience<br>Upward of twenty years, and have been blessed<br>With many children by you. If, in the course<br>And process of this [[Time\|time]], you can report—<br>And prove it, too—against mine [[Honour\|honour]] aught,<br>My bond to wedlock, or my [[Love\|love]] and duty<br>Against your sacred person, in God’s name<br>Turn me away, and let the foul‘st contempt<br>Shut door upon me, and so give me up<br>To the sharp’st kind of justice. Please you, sir,<br>The [[King]] your father was reputed for<br>A prince most prudent, of an excellent<br>And unmatched wit and judgement. [[Ferdinand]]<br>My father, [[King]] of Spain, was reckoned one<br>The wisest prince that there had reigned by many<br>A year before. It is not to be questioned<br>That they had gathered a wise council to them<br>Of every realm, that did [[debate]] this business,<br>Who deemed our [[Marriage\|marriage]] lawful. Wherefore I humbly<br>Beseech you, sir, to spare me till I may<br>Be by my friends in Spain advised, whose counsel<br>I will implore. If not, i’th’ name of God,<br>Your pleasure be fulfilled. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | You have here, lady,<br>And of your choice, these reverend fathers, men<br>Of singular integrity and learning,<br>Yea, the elect o’th’ land, who are assembled<br>To plead your cause. It shall be therefore bootless<br>That longer you [[Desire\|desire]] the [[Court\|court]], as [[Well\|well]]<br>For your own quiet, as to rectify<br>What is unsettled in the [[King]]. |
+| CARDINAL CAMPEIUS | His grace<br>Hath spoken [[Well\|well]] and justly. Therefore, madam,<br>It’s fit this royal session do proceed,<br>And that without delay their arguments<br>Be now produced and heard. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | (to Wolsey) Lord Cardinal,<br>To you I speak. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Your pleasure, madam. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Sir,<br>I am about to weep, but thinking that<br>We are a [[Queen\|queen]], or long have dreamed so, certain<br>The daughter of a [[King\|king]], my drops of [[Tears\|tears]]<br>I’ll turn to sparks of [[Fire\|fire]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Be patient yet. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | I will when you are humble! Nay, before,<br>Or God will punish me. I do believe,<br>Induced by potent circumstances, that<br>You are mine enemy, and make my challenge<br>You shall not be my judge. For it is you<br>Have blown this coal betwixt my lord and me,<br>Which God’s dew quench. Therefore I say again,<br>I utterly abhor, yea, from my [[Soul\|soul]],<br>Refuse you for my judge, whom yet once more<br>I hold my most malicious foe, and think not<br>At all a friend to [[Truth\|truth]]. |
+| CARDINAL WOISEY | I do profess<br>You speak not like yourself, who ever yet<br>Have stood to [[Charity\|charity]], and displayed th‘effects<br>Of disposition gentle and of wisdom<br>O’er-topping woman’s power. Madam, you do me wrong.<br>I have no spleen against you, nor injustice<br>For you or any. How far I have proceeded,<br>Or how far further shall, is warranted<br>By a commission from the consistory,<br>Yea, the whole consistory of Rome. You charge me<br>That I ‘have blown this coal’. I do deny it.<br>The [[King]] is present. If it be known to him<br>That I gainsay my deed, how may he wound,<br>And worthily, my falsehood—yea, as much<br>As you have done my [[Truth\|truth]]. If he know<br>That I am free of your report, he knows<br>I am not of your wrong. Therefore in him<br>It lies to cure me, and the cure is to<br>Remove these thoughts from you. The which before<br>His highness shall speak in, I do beseech<br>You, gracious madam, to unthink your speaking,<br>And to say so no more. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | My lord, my lord—<br>I am a simple woman, much too weak<br>T‘oppose your cunning. You’re meek and humblemouthed;<br>You sign your place and calling, in full seeming,<br>With meekness and [[Humility\|humility]]—but your heart<br>Is crammed with arrogancy, spleen, and [[Pride\|pride]].<br>You have by fortune and his highness’ favours<br>Gone slightly o’er low steps, and now are mounted<br>Where powers are your retainers, and your words,<br>Domestics to you, serve your will as’t please<br>Yourself pronounce their office. I must tell you,<br>You tender more your person’s [[Honour\|honour]] than<br>Your high profession spiritual, that again<br>I do refuse you for my judge, and here,<br>Before you all, appeal unto the Pope,<br>To bring my whole cause ’fore his holiness,<br>And to be judged by him.<br>She curtsies to the [[King]] and begins to depart |
+| CARDINAL CAMPEIUS | The [[Queen]] is obstinate,<br>Stubborn to justice, apt to accuse it, and<br>Disdainful to be tried by’t. ’Tis not [[Well\|well]].<br>She’s going away. |
+| [[King\|KING]] HENRY | (to the Crier) Call her again. |
+| CRIER | Katherine, [[Queen]] of England, come into the [[Court\|court]]. |
 | GRIFFITH | (to the [[Queen]]) Madam, you are called back. |
-| [[Queen Katherine|QUEEN KATHERINE]] | What need you note it? Pray you keep your way.<br>When you are called, return. Now the Lord help.<br>They vex me past my patience. Pray you, pass on.<br>I will not tarry; no, nor ever more<br>Upon this business my appearance make<br>In any of their courts. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | What need you note it? Pray you keep your way.<br>When you are called, return. Now the Lord help.<br>They vex me past my patience. Pray you, pass on.<br>I will not tarry; no, nor ever more<br>Upon this business my appearance make<br>In any of their courts. |
 | *(didascalia)* | Exeunt [[Queen Katherine]] and her attendants |
-| [[King|KING]] HENRY | Go thy ways, Kate.<br>That man i’th’ world who shall report he has<br>A better wife, let him in naught be trusted<br>For speaking false in that. Thou art [[Alone|alone]]—<br>If thy rare qualities, sweet gentleness,<br>Thy meekness saint-like, wife-like [[government]],<br>Obeying in commanding, and thy parts<br>Sovereign and pious else could speak thee out—<br>The [[Queen|queen]] of earthly queens. She’s noble born,<br>And like her true nobility she has<br>Carried herself towards me. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Most gracious sir,<br>In humblest manner I require your highness<br>That it shall please you to declare in hearing<br>Of all these ears—for where I am robbed and bound,<br>There must I be unloosed, although not there<br>At once and fully satisfied—whether ever I<br>Did broach this business to your highness, or<br>Laid any scruple in your way which might<br>Induce you to the question on’t, or ever<br>Have to you, but with thanks to God for such<br>A royal lady, spake one the least word that might<br>Be to the prejudice of her present state,<br>Or touch of her good person? |
-| [[King|KING]] HENRY | My lord Cardinal,<br>I do excuse you; yea, upon mine [[Honour|honour]],<br>I free you from’t. You are not to be taught<br>That you have many enemies that know not<br>Why they are so, but, like to village curs,<br>Bark when their fellows do. By some of these<br>The [[Queen]] is put in anger. You’re excused.<br>But will you be more justified? You ever<br>Have wished the sleeping of this business, never desired<br>It to be stirred, but oft have hindered, oft,<br>The passages made toward it. On my [[Honour|honour]]<br>I speak my good lord Card’nal to this point,<br>And thus far clear him. Now, what moved me to’t,<br>I will be bold with [[Time|time]] and your attention.<br>Then mark th‘inducement. Thus it came—give heed to’t.<br>My [[Conscience|conscience]] first received a tenderness,<br>Scruple, and prick, on certain speeches uttered<br>By th’ Bishop of Bayonne, then French Ambassador,<br>Who had been hither sent on the debating<br>A [[Marriage|marriage]] ’twixt the Duke of Orléans and<br>Our daughter Mary. I‘th’ progress of this business,<br>Ere a determinate resolution, he—<br>I mean the Bishop—did require a respite<br>Wherein he might the [[King]] his lord advertise<br>Whether our daughter were legitimate,<br>Respecting this our [[Marriage|marriage]] with the dowager,<br>Sometimes our brother’s wife. This respite shook<br>The bosom of my [[Conscience|conscience]], entered me,<br>Yea, with a spitting power, and made to tremble<br>The region of my breast; which forced such way<br>That many mazed considerings did throng<br>And prest in with this caution. First, methought<br>I stood not in the smile of heaven, who had<br>Commanded [[Nature|nature]] that my lady’s womb,<br>If it conceived a male [[Child|child]] by me, should<br>Do no more offices of life to’t than<br>The [[Grave|grave]] does yield to th’ dead. For her male issue<br>Or died where they were made, or shortly after<br>This world had aired them. Hence I took a thought<br>This was a judgement on me that my kingdom,<br>[[Well]] worthy the best heir o’th’ world, should not<br>Be gladded in’t by me. Then follows that<br>I weighed the danger which my realms stood in<br>By this my issue’s fail, and that gave to me<br>Many a groaning throe. Thus hulling in<br>The wild sea of my [[Conscience|conscience]], I did steer<br>Toward this remedy, whereupon we are<br>Now present here together—that’s to say<br>I meant to rectify my [[Conscience|conscience]], which<br>I then did feel full sick, and yet not [[Well|well]],<br>By all the reverend fathers of the land<br>And doctors learned. First I began in private<br>With you, my lord of [[Lincoln]]. You remember<br>How under my oppression I did reek<br>When I first moved you. |
-| [[Lincoln|LINCOLN]] | Very [[Well|well]], my liege. |
-| [[King|KING]] HENRY | I have spoke long. Be pleased yourself to say<br>How far you satisfied me. |
-| [[Lincoln|LINCOLN]] | So please your highness,<br>The question did at first so stagger me,<br>Bearing a state of mighty moment in’t<br>And consequence of dread, that I committed<br>The daring’st counsel which I had to [[Doubt|doubt]],<br>And did entreat your highness to this course<br>Which you are running here. |
-| [[King|KING]] HENRY | (to Canterbury)<br>I then moved you,<br>My lord of Canterbury, and got your leave<br>To make this present summons. Unsolicited<br>I left no reverend person in this [[Court|court]],<br>But by particular consent proceeded<br>Under your hands and seals. Therefore, go on,<br>For no dislike i‘th’ world against the person<br>Of the good [[Queen]], but the sharp thorny points<br>Of my alleged reasons, drives this forward.<br>Prove but our [[Marriage|marriage]] lawful, by my life<br>And kingly dignity, we are contented<br>To wear our mortal state to come with her,<br>Katherine, our [[Queen|queen]], before the primest creature<br>That’s paragoned o’th’ world. |
-| CARDINAL CAMPEIUS | So please your highness,<br>The [[Queen]] being absent, ’tis a needful fitness<br>That we adjourn this [[Court|court]] till further day.<br>Meanwhile must be an earnest motion<br>Made to the [[Queen]] to call back her appeal<br>She intends unto his holiness. |
-| [[King|KING]] HENRY | (aside)<br>I may perceive<br>These cardinals trifle with me. I abhor<br>This dilatory sloth and tricks of Rome.<br>My learned and [[Well|well]]-belovèd servant, [[Cranmer]],<br>Prithee return. With thy approach I know<br>My comfort comes along. (Aloud) Break up the [[Court|court]].<br>I say, set on. |
+| [[King\|KING]] HENRY | Go thy ways, Kate.<br>That man i’th’ world who shall report he has<br>A better wife, let him in naught be trusted<br>For speaking false in that. Thou art [[Alone\|alone]]—<br>If thy rare qualities, sweet gentleness,<br>Thy meekness saint-like, wife-like [[government]],<br>Obeying in commanding, and thy parts<br>Sovereign and pious else could speak thee out—<br>The [[Queen\|queen]] of earthly queens. She’s noble born,<br>And like her true nobility she has<br>Carried herself towards me. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Most gracious sir,<br>In humblest manner I require your highness<br>That it shall please you to declare in hearing<br>Of all these ears—for where I am robbed and bound,<br>There must I be unloosed, although not there<br>At once and fully satisfied—whether ever I<br>Did broach this business to your highness, or<br>Laid any scruple in your way which might<br>Induce you to the question on’t, or ever<br>Have to you, but with thanks to God for such<br>A royal lady, spake one the least word that might<br>Be to the prejudice of her present state,<br>Or touch of her good person? |
+| [[King\|KING]] HENRY | My lord Cardinal,<br>I do excuse you; yea, upon mine [[Honour\|honour]],<br>I free you from’t. You are not to be taught<br>That you have many enemies that know not<br>Why they are so, but, like to village curs,<br>Bark when their fellows do. By some of these<br>The [[Queen]] is put in anger. You’re excused.<br>But will you be more justified? You ever<br>Have wished the sleeping of this business, never desired<br>It to be stirred, but oft have hindered, oft,<br>The passages made toward it. On my [[Honour\|honour]]<br>I speak my good lord Card’nal to this point,<br>And thus far clear him. Now, what moved me to’t,<br>I will be bold with [[Time\|time]] and your attention.<br>Then mark th‘inducement. Thus it came—give heed to’t.<br>My [[Conscience\|conscience]] first received a tenderness,<br>Scruple, and prick, on certain speeches uttered<br>By th’ Bishop of Bayonne, then French Ambassador,<br>Who had been hither sent on the debating<br>A [[Marriage\|marriage]] ’twixt the Duke of Orléans and<br>Our daughter Mary. I‘th’ progress of this business,<br>Ere a determinate resolution, he—<br>I mean the Bishop—did require a respite<br>Wherein he might the [[King]] his lord advertise<br>Whether our daughter were legitimate,<br>Respecting this our [[Marriage\|marriage]] with the dowager,<br>Sometimes our brother’s wife. This respite shook<br>The bosom of my [[Conscience\|conscience]], entered me,<br>Yea, with a spitting power, and made to tremble<br>The region of my breast; which forced such way<br>That many mazed considerings did throng<br>And prest in with this caution. First, methought<br>I stood not in the smile of heaven, who had<br>Commanded [[Nature\|nature]] that my lady’s womb,<br>If it conceived a male [[Child\|child]] by me, should<br>Do no more offices of life to’t than<br>The [[Grave\|grave]] does yield to th’ dead. For her male issue<br>Or died where they were made, or shortly after<br>This world had aired them. Hence I took a thought<br>This was a judgement on me that my kingdom,<br>[[Well]] worthy the best heir o’th’ world, should not<br>Be gladded in’t by me. Then follows that<br>I weighed the danger which my realms stood in<br>By this my issue’s fail, and that gave to me<br>Many a groaning throe. Thus hulling in<br>The wild sea of my [[Conscience\|conscience]], I did steer<br>Toward this remedy, whereupon we are<br>Now present here together—that’s to say<br>I meant to rectify my [[Conscience\|conscience]], which<br>I then did feel full sick, and yet not [[Well\|well]],<br>By all the reverend fathers of the land<br>And doctors learned. First I began in private<br>With you, my lord of [[Lincoln]]. You remember<br>How under my oppression I did reek<br>When I first moved you. |
+| [[Lincoln\|LINCOLN]] | Very [[Well\|well]], my liege. |
+| [[King\|KING]] HENRY | I have spoke long. Be pleased yourself to say<br>How far you satisfied me. |
+| [[Lincoln\|LINCOLN]] | So please your highness,<br>The question did at first so stagger me,<br>Bearing a state of mighty moment in’t<br>And consequence of dread, that I committed<br>The daring’st counsel which I had to [[Doubt\|doubt]],<br>And did entreat your highness to this course<br>Which you are running here. |
+| [[King\|KING]] HENRY | (to Canterbury)<br>I then moved you,<br>My lord of Canterbury, and got your leave<br>To make this present summons. Unsolicited<br>I left no reverend person in this [[Court\|court]],<br>But by particular consent proceeded<br>Under your hands and seals. Therefore, go on,<br>For no dislike i‘th’ world against the person<br>Of the good [[Queen]], but the sharp thorny points<br>Of my alleged reasons, drives this forward.<br>Prove but our [[Marriage\|marriage]] lawful, by my life<br>And kingly dignity, we are contented<br>To wear our mortal state to come with her,<br>Katherine, our [[Queen\|queen]], before the primest creature<br>That’s paragoned o’th’ world. |
+| CARDINAL CAMPEIUS | So please your highness,<br>The [[Queen]] being absent, ’tis a needful fitness<br>That we adjourn this [[Court\|court]] till further day.<br>Meanwhile must be an earnest motion<br>Made to the [[Queen]] to call back her appeal<br>She intends unto his holiness. |
+| [[King\|KING]] HENRY | (aside)<br>I may perceive<br>These cardinals trifle with me. I abhor<br>This dilatory sloth and tricks of Rome.<br>My learned and [[Well\|well]]-belovèd servant, [[Cranmer]],<br>Prithee return. With thy approach I know<br>My comfort comes along. (Aloud) Break up the [[Court\|court]].<br>I say, set on. |
 | *(didascalia)* | Exeunt in manner as they entered |
-| [[King|KING]] HENRY | 3.1 Enter [[Queen Katherine]] and her women, as at work |
-| [[Queen Katherine|QUEEN KATHERINE]] | Take thy lute, wench. My [[Soul|soul]] grows sad with troubles.<br>Sing, and disperse ’em if thou canst. Leave working. |
-| GENTLEWOMAN | (sings)<br>Orpheus with his lute made trees,<br>And the mountain tops that freeze,<br>Bow themselves when he did sing.<br>To his music plants and [[Flowers|flowers]]<br>Ever sprung, as sun and showers<br>There had made a lasting [[spring]].<br>Everything that heard him play,<br>Even the billows of the sea,<br>Hung their heads, and then lay by.<br>In sweet music is such art,<br>Killing care and grief of heart<br>Fall asleep, or hearing, die. |
+| [[King\|KING]] HENRY | 3.1 Enter [[Queen Katherine]] and her women, as at work |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Take thy lute, wench. My [[Soul\|soul]] grows sad with troubles.<br>Sing, and disperse ’em if thou canst. Leave working. |
+| GENTLEWOMAN | (sings)<br>Orpheus with his lute made trees,<br>And the mountain tops that freeze,<br>Bow themselves when he did sing.<br>To his music plants and [[Flowers\|flowers]]<br>Ever sprung, as sun and showers<br>There had made a lasting [[spring]].<br>Everything that heard him play,<br>Even the billows of the sea,<br>Hung their heads, and then lay by.<br>In sweet music is such art,<br>Killing care and grief of heart<br>Fall asleep, or hearing, die. |
 | *(didascalia)* | Enter Griffith, a gentleman |
-| [[Queen Katherine|QUEEN KATHERINE]] | How now? |
+| [[Queen Katherine\|QUEEN KATHERINE]] | How now? |
 | *(didascalia)* | GRIFFITH |
-| [[Queen Katherine|QUEEN KATHERINE]] | An’t please your grace, the two great cardinals<br>Wait in the presence. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Would they speak with me? |
+| [[Queen Katherine\|QUEEN KATHERINE]] | An’t please your grace, the two great cardinals<br>Wait in the presence. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Would they speak with me? |
 | *(didascalia)* | GRIFFITH |
-| [[Queen Katherine|QUEEN KATHERINE]] | They willed me say so, madam. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Pray their graces<br>To come near. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | They willed me say so, madam. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Pray their graces<br>To come near. |
 | *(didascalia)* | Exit Griffith |
-| [[Queen Katherine|QUEEN KATHERINE]] | What can be their business<br>With me, a poor weak woman, fall’n from favour?<br>I do not like their coming, now I think on’t;<br>They should be good men, their affairs as righteous—<br>But all hoods make not [[Monks|monks]]. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | What can be their business<br>With me, a poor weak woman, fall’n from favour?<br>I do not like their coming, now I think on’t;<br>They should be good men, their affairs as righteous—<br>But all hoods make not [[Monks\|monks]]. |
 | *(didascalia)* | Enter the two cardinals, Wolsey and Campeius, ushered by Griffith |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Peace to your highness. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Your graces find me here part of a housewife—<br>I would be all, against the worst may happen.<br>What are your pleasures with me, reverend lords? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | May it please you, noble madam, to withdraw<br>Into your private chamber, we shall give you<br>The full cause of our coming. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Speak it here.<br>There’s nothing I have done yet, o’ my [[Conscience|conscience]],<br>Deserves a corner. Would all other women<br>Could speak this with as free a [[Soul|soul]] as I do.<br>My lords, I care not—so much I am happy<br>Above a number—if my actions<br>Were tried by ev’ry tongue, ev’ry eye saw ’em,<br>Envy and base opinion set against ’em,<br>I know my life so even. If your business<br>Seek me out and that way I am wife in,<br>Out with it boldly. [[Truth]] loves open dealing. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Tanta est erga te mentis integritas, Regina serenissima— |
-| [[Queen Katherine|QUEEN KATHERINE]] | O, good my lord, no Latin.<br>I am not such a truant since my coming<br>As not to know the language I have lived in.<br>A strange tongue makes my cause more strange<br>suspicious—<br>Pray, speak in English. Here are some will thank you,<br>If you speak [[Truth|truth]], for their poor mistress’ sake.<br>Believe me, she has had much wrong. Lord Cardinal,<br>The willing’st sin I ever yet committed<br>May be absolved in English. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Noble lady,<br>I am sorry my integrity should breed—so<br>And service to his majesty and you—<br>So deep suspicion, where all [[Faith|faith]] was meant.<br>We come not by the way of accusation,<br>To taint that [[Honour|honour]] every good tongue blesses,<br>Nor to betray you any way to sorrow—<br>You have too much, good lady—but to know<br>How you stand minded in the weighty difference<br>Between the [[King]] and you, and to deliver,<br>Like free and honest men, our just opinions<br>And comforts to your cause. |
-| CARDINAL CAMPEIUS | Most honoured madam,<br>My lord of York, out of his noble [[Nature|nature]],<br>Zeal, and obedience he still bore your grace,<br>Forgetting, like a good man, your late censure<br>Both of his [[Truth|truth]] and him—which was too far—<br>Offers, as I do, in a sign of peace,<br>His service and his counsel. |
-| [[Queen Katherine|QUEEN KATHERINE]] | (aside)<br>To betray me.<br>(Aloud) My lords, I thank you both for your good<br>wills.<br>Ye speak like honest men—pray God ye prove so.<br>But how to make ye suddenly an answer<br>In such a point of weight, so near mine [[Honour|honour]]—<br>More near my life, I [[Fear|fear]]—with my weak wit,<br>And to such men of gravity and learning,<br>In [[Truth|truth]] I know not. I was set at work<br>Among my maids, full little—God knows—looking<br>Either for such men or such business.<br>For her sake that I have been—for I feel<br>The last fit of my [[Greatness|greatness]]—good your graces,<br>Let me have [[Time|time]] and counsel for my cause.<br>Alas, I am a woman friendless, hopeless. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Madam, you wrong the [[King]]’s [[Love|love]] with these fears.<br>Your hopes and friends are infinite. |
-| [[Queen Katherine|QUEEN KATHERINE]] | In England<br>But little for my profit. Can you think, lords,<br>That any Englishman dare give me counsel,<br>Or be a known friend ’gainst his highness’ pleasure—<br>Though he be grown so desperate to be honest—<br>And live a subject? Nay, forsooth, my friends,<br>They that must weigh out my afflictions,<br>They that my trust must grow to, live not here.<br>They are, as all my other comforts, far hence,<br>In mine own country, lords. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Peace to your highness. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Your graces find me here part of a housewife—<br>I would be all, against the worst may happen.<br>What are your pleasures with me, reverend lords? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | May it please you, noble madam, to withdraw<br>Into your private chamber, we shall give you<br>The full cause of our coming. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Speak it here.<br>There’s nothing I have done yet, o’ my [[Conscience\|conscience]],<br>Deserves a corner. Would all other women<br>Could speak this with as free a [[Soul\|soul]] as I do.<br>My lords, I care not—so much I am happy<br>Above a number—if my actions<br>Were tried by ev’ry tongue, ev’ry eye saw ’em,<br>Envy and base opinion set against ’em,<br>I know my life so even. If your business<br>Seek me out and that way I am wife in,<br>Out with it boldly. [[Truth]] loves open dealing. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Tanta est erga te mentis integritas, Regina serenissima— |
+| [[Queen Katherine\|QUEEN KATHERINE]] | O, good my lord, no Latin.<br>I am not such a truant since my coming<br>As not to know the language I have lived in.<br>A strange tongue makes my cause more strange<br>suspicious—<br>Pray, speak in English. Here are some will thank you,<br>If you speak [[Truth\|truth]], for their poor mistress’ sake.<br>Believe me, she has had much wrong. Lord Cardinal,<br>The willing’st sin I ever yet committed<br>May be absolved in English. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Noble lady,<br>I am sorry my integrity should breed—so<br>And service to his majesty and you—<br>So deep suspicion, where all [[Faith\|faith]] was meant.<br>We come not by the way of accusation,<br>To taint that [[Honour\|honour]] every good tongue blesses,<br>Nor to betray you any way to sorrow—<br>You have too much, good lady—but to know<br>How you stand minded in the weighty difference<br>Between the [[King]] and you, and to deliver,<br>Like free and honest men, our just opinions<br>And comforts to your cause. |
+| CARDINAL CAMPEIUS | Most honoured madam,<br>My lord of York, out of his noble [[Nature\|nature]],<br>Zeal, and obedience he still bore your grace,<br>Forgetting, like a good man, your late censure<br>Both of his [[Truth\|truth]] and him—which was too far—<br>Offers, as I do, in a sign of peace,<br>His service and his counsel. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | (aside)<br>To betray me.<br>(Aloud) My lords, I thank you both for your good<br>wills.<br>Ye speak like honest men—pray God ye prove so.<br>But how to make ye suddenly an answer<br>In such a point of weight, so near mine [[Honour\|honour]]—<br>More near my life, I [[Fear\|fear]]—with my weak wit,<br>And to such men of gravity and learning,<br>In [[Truth\|truth]] I know not. I was set at work<br>Among my maids, full little—God knows—looking<br>Either for such men or such business.<br>For her sake that I have been—for I feel<br>The last fit of my [[Greatness\|greatness]]—good your graces,<br>Let me have [[Time\|time]] and counsel for my cause.<br>Alas, I am a woman friendless, hopeless. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Madam, you wrong the [[King]]’s [[Love\|love]] with these fears.<br>Your hopes and friends are infinite. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | In England<br>But little for my profit. Can you think, lords,<br>That any Englishman dare give me counsel,<br>Or be a known friend ’gainst his highness’ pleasure—<br>Though he be grown so desperate to be honest—<br>And live a subject? Nay, forsooth, my friends,<br>They that must weigh out my afflictions,<br>They that my trust must grow to, live not here.<br>They are, as all my other comforts, far hence,<br>In mine own country, lords. |
 | CARDINAL CAMPEIUS | I would your grace<br>Would leave your griefs and take my counsel. |
-| [[Queen Katherine|QUEEN KATHERINE]] | How, sir? |
-| CARDINAL CAMPEIUS | Put your main cause into the [[King]]’s protection.<br>He’s loving and most gracious. ’Twill be much<br>Both for your [[Honour|honour]] better and your cause,<br>For if the trial of the law o’ertake ye<br>You’ll part away disgraced. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to the [[Queen]]) He tells you rightly. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Ye tell me what ye wish for both—my ruin.<br>Is this your Christian counsel? Out upon ye!<br>Heaven is above all yet—there sits a judge<br>That no [[King|king]] can corrupt. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | How, sir? |
+| CARDINAL CAMPEIUS | Put your main cause into the [[King]]’s protection.<br>He’s loving and most gracious. ’Twill be much<br>Both for your [[Honour\|honour]] better and your cause,<br>For if the trial of the law o’ertake ye<br>You’ll part away disgraced. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[Queen]]) He tells you rightly. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Ye tell me what ye wish for both—my ruin.<br>Is this your Christian counsel? Out upon ye!<br>Heaven is above all yet—there sits a judge<br>That no [[King\|king]] can corrupt. |
 | CARDINAL CAMPEIUS | Your rage mistakes us. |
-| [[Queen Katherine|QUEEN KATHERINE]] | The more shame for ye! Holy men I thought ye,<br>Upon my [[Soul|soul]], two reverend cardinal virtues—<br>But cardinal sins and hollow hearts I [[Fear|fear]] ye.<br>Mend ’em, for shame, my lords! Is this your comfort?<br>The cordial that ye bring a wretched lady,<br>A woman lost among ye, laughed at, scorned?<br>I will not wish ye half my miseries—<br>I have more [[Charity|charity]]. But say I warned ye.<br>Take heed, for, heaven’s sake take heed, lest at once<br>The burden of my sorrows fall upon ye. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Madam, this is a mere distraction.<br>You turn the good we offer into envy. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Ye turn me into nothing. Woe upon ye,<br>And all such false professors. Would you have me—<br>If you have any justice, any pity,<br>If ye be anything but churchmen’s habits—<br>Put my sick cause into his hands that hates me?<br>Alas, he’s banished me his bed already—<br>His [[Love|love]], too, long ago. I am old, my lords,<br>And all the fellowship I hold now with him<br>Is only my obedience. What can happen<br>To me above this wretchedness? All your studies<br>Make me accursed like this. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | The more shame for ye! Holy men I thought ye,<br>Upon my [[Soul\|soul]], two reverend cardinal virtues—<br>But cardinal sins and hollow hearts I [[Fear\|fear]] ye.<br>Mend ’em, for shame, my lords! Is this your comfort?<br>The cordial that ye bring a wretched lady,<br>A woman lost among ye, laughed at, scorned?<br>I will not wish ye half my miseries—<br>I have more [[Charity\|charity]]. But say I warned ye.<br>Take heed, for, heaven’s sake take heed, lest at once<br>The burden of my sorrows fall upon ye. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Madam, this is a mere distraction.<br>You turn the good we offer into envy. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Ye turn me into nothing. Woe upon ye,<br>And all such false professors. Would you have me—<br>If you have any justice, any pity,<br>If ye be anything but churchmen’s habits—<br>Put my sick cause into his hands that hates me?<br>Alas, he’s banished me his bed already—<br>His [[Love\|love]], too, long ago. I am old, my lords,<br>And all the fellowship I hold now with him<br>Is only my obedience. What can happen<br>To me above this wretchedness? All your studies<br>Make me accursed like this. |
 | CARDINAL CAMPEIUS | Your fears are worse. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Have I lived thus long—let me speak myself,<br>Since virtue finds no friends—a wife, a true one?<br>A woman, I dare say, without vainglory,<br>Never yet branded with suspicion?<br>Have I with all my full affections<br>Still met the [[King]], loved him next heav‘n, obeyed him,<br>Been out of fondness superstitious to him,<br>Almost forgot my prayers to content him?<br>And am I thus rewarded? ’Tis not [[Well|well]], lords.<br>Bring me a constant woman to her husband,<br>One that ne’er dreamed a joy beyond his pleasure,<br>And to that woman when she has done most,<br>Yet will I add an [[Honour|honour]], a great patience. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Madam, you wander from the good we aim at. |
-| [[Queen Katherine|QUEEN KATHERINE]] | My lord, I dare not make myself so guilty<br>To give up willingly that noble title<br>Your master wed me to. Nothing but [[Death|death]]<br>Shall e’er [[divorce]] my dignities. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Pray, hear me. |
-| [[Queen Katherine|QUEEN KATHERINE]] | Would I had never trod this English earth,<br>Or felt the flatteries that grow upon it.<br>Ye have angels’ faces, but heaven knows your hearts.<br>What will become of me now, wretched lady?<br>I am the most unhappy woman living.<br>(To her women) Alas, poor wenches, where are now<br>your fortunes?<br>Shipwrecked upon a kingdom where no pity,<br>No friends, no [[Hope|hope]], no kindred weep for me?<br>Almost no [[Grave|grave]] allowed me? Like the lily,<br>That once was mistress of the field and flourished,<br>I’ll hang my head and perish. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | If your grace<br>Could but be brought to know our ends are honest,<br>You’d feel more comfort. Why should we, good lady,<br>Upon what cause, wrong you? Alas, our places,<br>The way of our profession, is against it.<br>We are to cure such sorrows, not to sow ’em.<br>For goodness’ sake, consider what you do,<br>How you may hurt yourself, ay, utterly<br>Grow from the [[King]]’s acquaintance by this carriage.<br>The hearts of princes kiss obedience,<br>So much they [[Love|love]] it, but to stubborn spirits<br>They swell and grow as terrible as storms.<br>I know you have a gentle noble temper,<br>A [[Soul|soul]] as even as a calm. Pray, think us<br>Those we profess—peacemakers, friends, and servants. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Have I lived thus long—let me speak myself,<br>Since virtue finds no friends—a wife, a true one?<br>A woman, I dare say, without vainglory,<br>Never yet branded with suspicion?<br>Have I with all my full affections<br>Still met the [[King]], loved him next heav‘n, obeyed him,<br>Been out of fondness superstitious to him,<br>Almost forgot my prayers to content him?<br>And am I thus rewarded? ’Tis not [[Well\|well]], lords.<br>Bring me a constant woman to her husband,<br>One that ne’er dreamed a joy beyond his pleasure,<br>And to that woman when she has done most,<br>Yet will I add an [[Honour\|honour]], a great patience. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Madam, you wander from the good we aim at. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | My lord, I dare not make myself so guilty<br>To give up willingly that noble title<br>Your master wed me to. Nothing but [[Death\|death]]<br>Shall e’er [[divorce]] my dignities. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Pray, hear me. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Would I had never trod this English earth,<br>Or felt the flatteries that grow upon it.<br>Ye have angels’ faces, but heaven knows your hearts.<br>What will become of me now, wretched lady?<br>I am the most unhappy woman living.<br>(To her women) Alas, poor wenches, where are now<br>your fortunes?<br>Shipwrecked upon a kingdom where no pity,<br>No friends, no [[Hope\|hope]], no kindred weep for me?<br>Almost no [[Grave\|grave]] allowed me? Like the lily,<br>That once was mistress of the field and flourished,<br>I’ll hang my head and perish. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | If your grace<br>Could but be brought to know our ends are honest,<br>You’d feel more comfort. Why should we, good lady,<br>Upon what cause, wrong you? Alas, our places,<br>The way of our profession, is against it.<br>We are to cure such sorrows, not to sow ’em.<br>For goodness’ sake, consider what you do,<br>How you may hurt yourself, ay, utterly<br>Grow from the [[King]]’s acquaintance by this carriage.<br>The hearts of princes kiss obedience,<br>So much they [[Love\|love]] it, but to stubborn spirits<br>They swell and grow as terrible as storms.<br>I know you have a gentle noble temper,<br>A [[Soul\|soul]] as even as a calm. Pray, think us<br>Those we profess—peacemakers, friends, and servants. |
 | CARDINAL CAMPEIUS | Madam, you’ll find it so. You wrong your virtues<br>With these weak women’s fears. A noble spirit,<br>As yours was put into you, ever casts<br>Such doubts as false coin from it. The [[King]] loves you.<br>Beware you lose it not. For us, if you please<br>To trust us in your business, we are ready<br>To use our utmost studies in your service. |
 | QUEENS KATHERINE | Do what ye will, my lords, and pray forgive me.<br>If I have used myself unmannerly,<br>You know I am a woman, lacking wit<br>To make a seemly answer to such persons.<br>Pray do my service to his majesty.<br>He has my heart yet, and shall have my prayers<br>While I shall have my life. Come, reverend fathers,<br>Bestow your counsels on me. She now begs<br>That little thought, when she set footing here,<br>She should have bought her dignities so dear. |
 | *(didascalia)* | Exeunt |
 
 ### Atto 3, Scena 2
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Duke of Norfolk, the [[Duke of Suffolk]], Lord Surrey, and the Lord Chamberlain |
-| NORFOLK | If you will now unite in your complaints,<br>And force them with a constancy, the Cardinal<br>Cannot stand under them. If you omit<br>The offer of this [[Time|time]], I cannot promise<br>But that you shall sustain more new disgraces<br>With these you bear already. |
+| NORFOLK | If you will now unite in your complaints,<br>And force them with a constancy, the Cardinal<br>Cannot stand under them. If you omit<br>The offer of this [[Time\|time]], I cannot promise<br>But that you shall sustain more new disgraces<br>With these you bear already. |
 | SURREY | I am joyful<br>To meet the least occasion that may give me<br>Remembrance of my father-in-law the Duke,<br>To be revenged on him. |
 | SUFFOLK | Which of the peers<br>Have uncontemned gone by him, or at least<br>Strangely neglected? When did he regard<br>The stamp of nobleness in any person<br>Out of himself? |
-| LORD CHAMBERLAIN | My lords, you speak your pleasures.<br>What he deserves of you and me I know;<br>What we can do to him—though now the [[Time|time]]<br>Gives way to us—I much [[Fear|fear]]. If you cannot<br>Bar his access to th’ [[King]], never attempt<br>Anything on him, for he hath a witchcraft<br>Over the [[King]] in’s tongue. |
-| NORFOLK | O, [[Fear|fear]] him not.<br>His spell in that is out. The [[King]] hath found<br>Matter against him that for ever mars<br>The honey of his language. No, he’s settled,<br>Not to come off, in his displeasure. |
+| LORD CHAMBERLAIN | My lords, you speak your pleasures.<br>What he deserves of you and me I know;<br>What we can do to him—though now the [[Time\|time]]<br>Gives way to us—I much [[Fear\|fear]]. If you cannot<br>Bar his access to th’ [[King]], never attempt<br>Anything on him, for he hath a witchcraft<br>Over the [[King]] in’s tongue. |
+| NORFOLK | O, [[Fear\|fear]] him not.<br>His spell in that is out. The [[King]] hath found<br>Matter against him that for ever mars<br>The honey of his language. No, he’s settled,<br>Not to come off, in his displeasure. |
 | SURREY | Sir,<br>I should be glad to hear such news as this<br>Once every hour. |
 | NORFOLK | Believe it, this is true.<br>In the [[divorce]] his contrary proceedings<br>Are all unfolded, wherein he appears<br>As I would wish mine enemy. |
 | SURREY | How came<br>His practices to light? |
 | SUFFOLK | Most strangely. |
 | SURREY | O, how, how? |
-| SUFFOLK | The Cardinal’s letters to the Pope miscarried,<br>And came to th’eye o’th’ [[King]], wherein was read<br>How that the Cardinal did entreat his holiness<br>To stay the judgement o‘th’ [[divorce]], for if<br>It did take place, ‘I do’, quoth he, ‘perceive<br>My [[King|king]] is tangled in affection to<br>A creature of the [[Queen]]’s, [[Lady Anne]] Boleyn’. |
+| SUFFOLK | The Cardinal’s letters to the Pope miscarried,<br>And came to th’eye o’th’ [[King]], wherein was read<br>How that the Cardinal did entreat his holiness<br>To stay the judgement o‘th’ [[divorce]], for if<br>It did take place, ‘I do’, quoth he, ‘perceive<br>My [[King\|king]] is tangled in affection to<br>A creature of the [[Queen]]’s, [[Lady Anne]] Boleyn’. |
 | SURREY | Has the [[King]] this? |
 | SUFFOLK | Believe it. |
 | SURREY | Will this work? |
-| LORD CHAMBERLAIN | The [[King]] in this perceives him how he coasts<br>And hedges his own way. But in this point<br>All his tricks founder, and he brings his physic<br>After his patient’s [[Death|death]]. The [[King]] already<br>Hath married the fair lady. |
+| LORD CHAMBERLAIN | The [[King]] in this perceives him how he coasts<br>And hedges his own way. But in this point<br>All his tricks founder, and he brings his physic<br>After his patient’s [[Death\|death]]. The [[King]] already<br>Hath married the fair lady. |
 | SURREY | Would he had. |
 | SUFFOLK | May you be happy in your wish, my lord,<br>For I profess you have it. |
 | SURREY | Now all my joy<br>Trace the conjunction. |
@@ -1968,129 +820,129 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | SUFFOLK | No, no—<br>There be more wasps that buzz about his nose<br>Will make this sting the sooner. Cardinal Campeius<br>Is stol’n away to Rome; hath ta’en no leave;<br>Has left the cause o’th’ [[King]] unhandled, and<br>Is posted as the agent of our Cardinal<br>To second all his plot. I do assure you<br>The [[King]] cried ‘Ha!’ at this. |
 | LORD CHAMBERLAIN | Now God incense him,<br>And let him cry ‘Ha!’ louder. |
 | NORFOLK | But, my lord,<br>When returns [[Cranmer]]? |
-| SUFFOLK | He is returned in his opinions, which<br>Have satisfied the [[King]] for his [[divorce]],<br>Together with all famous colleges,<br>Almost, in Christendom. Shortly, I believe,<br>His second [[Marriage|marriage]] shall be published, and<br>Her coronation. Katherine no more<br>Shall be called ‘[[Queen]]’, but ‘Princess Dowager’,<br>And ‘widow to Prince [[arthur|Arthur]]’. |
-| NORFOLK | This same [[Cranmer]]’s<br>A worthy fellow, and hath ta’en much [[Pain|pain]]<br>In the [[King]]’s business. |
+| SUFFOLK | He is returned in his opinions, which<br>Have satisfied the [[King]] for his [[divorce]],<br>Together with all famous colleges,<br>Almost, in Christendom. Shortly, I believe,<br>His second [[Marriage\|marriage]] shall be published, and<br>Her coronation. Katherine no more<br>Shall be called ‘[[Queen]]’, but ‘Princess Dowager’,<br>And ‘widow to Prince [[arthur\|Arthur]]’. |
+| NORFOLK | This same [[Cranmer]]’s<br>A worthy fellow, and hath ta’en much [[Pain\|pain]]<br>In the [[King]]’s business. |
 | SUFFOLK | He has, and we shall see him<br>For it an archbishop. |
 | NORFOLK | So I hear. |
 | SUFFOLK | ’Tis so. |
 | *(didascalia)* | Enter [[Cardinal Wolsey]] and Cromwell |
 | SUFFOLK | The Cardinal. |
 | NORFOLK | Observe, observe—he’s moody.<br>They stand apart and observe Wolsey and<br>Cromwell |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (to Cromwell)<br>The packet, Cromwell—gave’t you the [[King]]?<br>CROMWELI,<br>To his own hand, in’s bedchamber. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Looked he<br>O’th’ inside of the paper?<br>CROMWELL,<br>Presently<br>He did unseal them, and the first he viewed<br>He did it with a serious mind; a heed<br>Was in his countenance. You he bade<br>Attend him here this morning. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Is he ready<br>To come abroad? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to Cromwell)<br>The packet, Cromwell—gave’t you the [[King]]?<br>CROMWELI,<br>To his own hand, in’s bedchamber. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Looked he<br>O’th’ inside of the paper?<br>CROMWELL,<br>Presently<br>He did unseal them, and the first he viewed<br>He did it with a serious mind; a heed<br>Was in his countenance. You he bade<br>Attend him here this morning. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Is he ready<br>To come abroad? |
 | CROMWELL | I think by this he is. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Leave me a while. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Leave me a while. |
 | *(didascalia)* | Exit Cromwell |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (Aside) It shall be to the Duchess of Alençon,<br>The French [[King]]’s sister—he shall marry her.<br>Anne Boleyn? No, I’ll no Anne Boleyns for him.<br>There’s more in’t than fair visage. Boleyn?<br>No, we’ll no Boleyns. Speedily I wish<br>To hear from Rome. The [[Marchioness]] of Pembroke?<br>The nobles speak among themselves |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (Aside) It shall be to the Duchess of Alençon,<br>The French [[King]]’s sister—he shall marry her.<br>Anne Boleyn? No, I’ll no Anne Boleyns for him.<br>There’s more in’t than fair visage. Boleyn?<br>No, we’ll no Boleyns. Speedily I wish<br>To hear from Rome. The [[Marchioness]] of Pembroke?<br>The nobles speak among themselves |
 | NORFOLK | He’s discontented. |
 | SUFFOLK | Maybe he hears the [[King]]<br>Does whet his anger to him. |
 | SURREY | Sharp enough,<br>Lord, for thy justice. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (aside)<br>The late [[Queen]]’s gentlewoman? A knight’s daughter<br>To be her mistress’ mistress? The [[Queen]]’s [[Queen|queen]]?<br>This candle burns not clear; ‘tis I must snuff it,<br>Then out it goes. What though I know her virtuous<br>And [[Well|well]] deserving? Yet I know her for<br>A spleeny Lutheran, and not wholesome to<br>Our cause, that she should lie i’th’ bosom of<br>Our hard-ruled [[King]]. Again, there is sprung up<br>An heretic, an arch-one, [[Cranmer]], one<br>Hath crawled into the favour of the [[King]]<br>And is his oracle.<br>The nobles speak among themselves |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (aside)<br>The late [[Queen]]’s gentlewoman? A knight’s daughter<br>To be her mistress’ mistress? The [[Queen]]’s [[Queen\|queen]]?<br>This candle burns not clear; ‘tis I must snuff it,<br>Then out it goes. What though I know her virtuous<br>And [[Well\|well]] deserving? Yet I know her for<br>A spleeny Lutheran, and not wholesome to<br>Our cause, that she should lie i’th’ bosom of<br>Our hard-ruled [[King]]. Again, there is sprung up<br>An heretic, an arch-one, [[Cranmer]], one<br>Hath crawled into the favour of the [[King]]<br>And is his oracle.<br>The nobles speak among themselves |
 | NORFOLK | He is vexed at something. |
 | *(didascalia)* | Enter [[King]] Henry reading a schedule, and Lovell with him |
 | SURREY | I would ’twere something that would fret the string,<br>The master-cord on’s heart! |
 | SUFFOLK | The [[King]], the [[King]]! |
-| *(didascalia)* | [[King|KING]] HENRY aside |
+| *(didascalia)* | [[King\|KING]] HENRY aside |
 | SUFFOLK | What piles of wealth hath he accumulated<br>To his own portion? And what expense by th’ hour<br>Seems to flow from him? How i’th’ name of thrift<br>Does he rake this together? (To the nobles) Now, my lords,<br>Saw you the Cardinal? |
-| NORFOLK | My lord, we have<br>Stood here observing him. Some strange commotion<br>Is in his brain. He bites his lip, and starts,<br>Stops on a sudden, looks upon the ground,<br>Then lays his finger on his temple, straight<br>Springs out into fast gait, then stops again,<br>Strikes his breast hard, and anon he casts<br>His eye against the [[Moon|moon]]. In most strange postures<br>We have seen him set himself. |
-| [[King|KING]] HENRY | It may [[Well|well]] be<br>There is a mutiny in’s mind. This morning<br>Papers of state he sent me to peruse<br>As I required, and wot you what I found<br>There, on my [[Conscience|conscience]] put unwittingly?<br>Forsooth, an inventory thus importing<br>The several parcels of his plate, his treasure,<br>Rich stuffs, and ornaments of household which<br>I find at such proud rate that it outspeaks<br>Possession of a subject. |
+| NORFOLK | My lord, we have<br>Stood here observing him. Some strange commotion<br>Is in his brain. He bites his lip, and starts,<br>Stops on a sudden, looks upon the ground,<br>Then lays his finger on his temple, straight<br>Springs out into fast gait, then stops again,<br>Strikes his breast hard, and anon he casts<br>His eye against the [[Moon\|moon]]. In most strange postures<br>We have seen him set himself. |
+| [[King\|KING]] HENRY | It may [[Well\|well]] be<br>There is a mutiny in’s mind. This morning<br>Papers of state he sent me to peruse<br>As I required, and wot you what I found<br>There, on my [[Conscience\|conscience]] put unwittingly?<br>Forsooth, an inventory thus importing<br>The several parcels of his plate, his treasure,<br>Rich stuffs, and ornaments of household which<br>I find at such proud rate that it outspeaks<br>Possession of a subject. |
 | NORFOLK | It’s heaven’s will.<br>Some spirit put this paper in the packet<br>To bless your eye withal. |
-| [[King|KING]] HENRY | If we did think<br>His contemplation were above the earth<br>And fixed on spiritual object, he should still<br>Dwell in his musings. But I am afraid<br>His thinkings are below the [[Moon|moon]], not worth<br>His serious considering.<br>The [[King]] takes his seat and whispers with Lovell, who then goes to the Cardinal |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Heaven forgive me! |
+| [[King\|KING]] HENRY | If we did think<br>His contemplation were above the earth<br>And fixed on spiritual object, he should still<br>Dwell in his musings. But I am afraid<br>His thinkings are below the [[Moon\|moon]], not worth<br>His serious considering.<br>The [[King]] takes his seat and whispers with Lovell, who then goes to the Cardinal |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Heaven forgive me! |
 | *(didascalia)* | To the [[King]] Ever God bless your highness! |
-| [[King|KING]] HENRY | Good my lord,<br>You are full of heavenly stuff, and bear the inventory<br>Of your best graces in your mind, the which<br>You were now running o’er. You have scarce [[Time|time]]<br>To steal from spiritual leisure a brief span<br>To keep your earthly audit. Sure, in that,<br>I deem you an ill husband, and am glad<br>To have you therein my companion. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Sir,<br>For holy offices I have a [[Time|time]]; a [[Time|time]]<br>To think upon the part of business which<br>I bear i’th’ state; and [[Nature|nature]] does require<br>Her times of preservation which, perforce,<br>I, her frail son, amongst my brethren mortal,<br>Must give my tendance to. |
-| [[King|KING]] HENRY | You have said [[Well|well]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | And ever may your highness yoke together,<br>As I will lend you cause, my doing [[Well|well]]<br>With my [[Well|well]]-saying. |
-| [[King|KING]] HENRY | ’Tis [[Well|well]] said again,<br>And ’tis a kind of good deed to say [[Well|well]]—<br>And yet words are no deeds. My father loved you.<br>He said he did, and with his deed did [[Crown|crown]]<br>His word upon you. Since I had my office,<br>I have kept you next my heart, have not [[Alone|alone]]<br>Employed you where high profits might come [[Home|home]],<br>But pared my present havings to bestow<br>My bounties upon you. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (aside) What should this mean? |
+| [[King\|KING]] HENRY | Good my lord,<br>You are full of heavenly stuff, and bear the inventory<br>Of your best graces in your mind, the which<br>You were now running o’er. You have scarce [[Time\|time]]<br>To steal from spiritual leisure a brief span<br>To keep your earthly audit. Sure, in that,<br>I deem you an ill husband, and am glad<br>To have you therein my companion. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Sir,<br>For holy offices I have a [[Time\|time]]; a [[Time\|time]]<br>To think upon the part of business which<br>I bear i’th’ state; and [[Nature\|nature]] does require<br>Her times of preservation which, perforce,<br>I, her frail son, amongst my brethren mortal,<br>Must give my tendance to. |
+| [[King\|KING]] HENRY | You have said [[Well\|well]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | And ever may your highness yoke together,<br>As I will lend you cause, my doing [[Well\|well]]<br>With my [[Well\|well]]-saying. |
+| [[King\|KING]] HENRY | ’Tis [[Well\|well]] said again,<br>And ’tis a kind of good deed to say [[Well\|well]]—<br>And yet words are no deeds. My father loved you.<br>He said he did, and with his deed did [[Crown\|crown]]<br>His word upon you. Since I had my office,<br>I have kept you next my heart, have not [[Alone\|alone]]<br>Employed you where high profits might come [[Home\|home]],<br>But pared my present havings to bestow<br>My bounties upon you. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (aside) What should this mean? |
 | *(didascalia)* | SURREY aside |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | The Lord increase this business! |
-| [[King|KING]] HENRY | Have I not made you<br>The prime man of the state? I pray you tell me<br>If what I now pronounce you have found true,<br>And, if you may confess it, say withal<br>If you are bound to us or no. What say you? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | My sovereign, I confess your royal graces<br>Showered on me daily have been more than could<br>My studied purposes requite, which went<br>Beyond all man’s endeavours. My endeavours<br>Have ever come too short of my desires,<br>Yet filed with my abilities. Mine own ends<br>Have been mine so that evermore they pointed<br>To th’ good of your most sacred person and<br>The profit of the state. For your great graces<br>Heaped upon me, poor undeserver, I<br>Can nothing render but allegiant thanks,<br>My prayers to heaven for you, my loyalty,<br>Which ever has and ever shall be growing,<br>Till [[Death|death]], that [[Winter|winter]], kill it. |
-| [[King|KING]] HENRY | Fairly answered.<br>A loyal and obedient subject is<br>Therein illustrated. The [[Honour|honour]] of it<br>Does pay the act of it, as, i‘th’ contrary,<br>The foulness is the punishment. I presume<br>That as my hand has opened bounty to you,<br>My heart dropped [[Love|love]], my power rained [[Honour|honour]], more<br>On you than any, so your hand and heart,<br>Your brain, and every function of your power,<br>Should, notwithstanding that your bond of duty,<br>As ’twere in [[Love|love]]’s particular, be more<br>To me, your friend, than any. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I do profess<br>That for your highness’ good I ever laboured<br>More than mine own; that am, have, and will be—<br>Though all the world should crack their duty to you,<br>And throw it from their [[Soul|soul]], though perils did<br>Abound, as thick as thought could make ’em, and<br>Appear in forms more horrid—yet, my duty,<br>As doth a rock against the chiding flood,<br>Should the approach of this wild [[River|river]] break,<br>And stand unshaken yours. |
-| [[King|KING]] HENRY | ’Tis nobly spoken.<br>Take notice, lords, he has a loyal breast,<br>For you have seen him open’t. (To Wolsey) Read o’er this,<br>He gives him a paper<br>And after this (giving him another paper), and then to<br>breakfast with<br>What appetite you have. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | The Lord increase this business! |
+| [[King\|KING]] HENRY | Have I not made you<br>The prime man of the state? I pray you tell me<br>If what I now pronounce you have found true,<br>And, if you may confess it, say withal<br>If you are bound to us or no. What say you? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | My sovereign, I confess your royal graces<br>Showered on me daily have been more than could<br>My studied purposes requite, which went<br>Beyond all man’s endeavours. My endeavours<br>Have ever come too short of my desires,<br>Yet filed with my abilities. Mine own ends<br>Have been mine so that evermore they pointed<br>To th’ good of your most sacred person and<br>The profit of the state. For your great graces<br>Heaped upon me, poor undeserver, I<br>Can nothing render but allegiant thanks,<br>My prayers to heaven for you, my loyalty,<br>Which ever has and ever shall be growing,<br>Till [[Death\|death]], that [[Winter\|winter]], kill it. |
+| [[King\|KING]] HENRY | Fairly answered.<br>A loyal and obedient subject is<br>Therein illustrated. The [[Honour\|honour]] of it<br>Does pay the act of it, as, i‘th’ contrary,<br>The foulness is the punishment. I presume<br>That as my hand has opened bounty to you,<br>My heart dropped [[Love\|love]], my power rained [[Honour\|honour]], more<br>On you than any, so your hand and heart,<br>Your brain, and every function of your power,<br>Should, notwithstanding that your bond of duty,<br>As ’twere in [[Love\|love]]’s particular, be more<br>To me, your friend, than any. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I do profess<br>That for your highness’ good I ever laboured<br>More than mine own; that am, have, and will be—<br>Though all the world should crack their duty to you,<br>And throw it from their [[Soul\|soul]], though perils did<br>Abound, as thick as thought could make ’em, and<br>Appear in forms more horrid—yet, my duty,<br>As doth a rock against the chiding flood,<br>Should the approach of this wild [[River\|river]] break,<br>And stand unshaken yours. |
+| [[King\|KING]] HENRY | ’Tis nobly spoken.<br>Take notice, lords, he has a loyal breast,<br>For you have seen him open’t. (To Wolsey) Read o’er this,<br>He gives him a paper<br>And after this (giving him another paper), and then to<br>breakfast with<br>What appetite you have. |
 | *(didascalia)* | Exit [[King]] Henry, frowning upon the |
-| [[King|KING]] HENRY | Cardinal. The nobles throng after<br>the [[King]], smiling and whispering |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What should this mean?<br>What sudden anger’s this? How have I reaped it?<br>He parted frowning from me, as if ruin<br>Leaped from his eyes. So looks the chafed [[Lion|lion]]<br>Upon the daring huntsman that has galled him,<br>Then makes him nothing. I must read this paper—<br>I [[Fear|fear]], the story of his anger.<br>He reads one of the papers<br>’Tis so.<br>This paper has undone me. ’Tis th‘account<br>Of all that world of wealth I have drawn together<br>For mine own ends—indeed, to gain the popedom,<br>And fee my friends in Rome. O negligence,<br>Fit for a [[Fool|fool]] to fall by! What [[Cross|cross]] devil<br>Made me put this main secret in the packet<br>I sent the [[King]]? Is there no way to cure this?<br>No new device to beat this from his brains?<br>I know ’twill stir him strongly. Yet I know<br>A way, if it take right, in spite of fortune<br>Will bring me off again. What’s this?<br>He reads the other paper<br>‘To th’ Pope’?<br>The letter, as I live, with all the business<br>I writ to’s holiness. Nay then, farewell.<br>I have touched the highest point of all my [[Greatness|greatness]],<br>And from that full meridian of my glory<br>I haste now to my setting. I shall fall<br>Like a bright exhalation in the evening,<br>And no man see me more. |
+| [[King\|KING]] HENRY | Cardinal. The nobles throng after<br>the [[King]], smiling and whispering |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What should this mean?<br>What sudden anger’s this? How have I reaped it?<br>He parted frowning from me, as if ruin<br>Leaped from his eyes. So looks the chafed [[Lion\|lion]]<br>Upon the daring huntsman that has galled him,<br>Then makes him nothing. I must read this paper—<br>I [[Fear\|fear]], the story of his anger.<br>He reads one of the papers<br>’Tis so.<br>This paper has undone me. ’Tis th‘account<br>Of all that world of wealth I have drawn together<br>For mine own ends—indeed, to gain the popedom,<br>And fee my friends in Rome. O negligence,<br>Fit for a [[Fool\|fool]] to fall by! What [[Cross\|cross]] devil<br>Made me put this main secret in the packet<br>I sent the [[King]]? Is there no way to cure this?<br>No new device to beat this from his brains?<br>I know ’twill stir him strongly. Yet I know<br>A way, if it take right, in spite of fortune<br>Will bring me off again. What’s this?<br>He reads the other paper<br>‘To th’ Pope’?<br>The letter, as I live, with all the business<br>I writ to’s holiness. Nay then, farewell.<br>I have touched the highest point of all my [[Greatness\|greatness]],<br>And from that full meridian of my glory<br>I haste now to my setting. I shall fall<br>Like a bright exhalation in the evening,<br>And no man see me more. |
 | *(didascalia)* | Enter to [[Cardinal Wolsey]] the Dukes of Norfolk and |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Suffolk, the [[Earl of Surrey]], and the Lord Chamberlain |
-| NORFOLK | Hear the [[King]]’s pleasure, Cardinal, who commands you<br>To render up the great seal presently<br>Into our hands, and to confine yourself<br>To Ashen [[house|House]], my lord of Winchester’s,<br>Till you hear further from his highness. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Stay—<br>Where’s your commission, lords? Words cannot carry<br>Authority so weighty. |
-| SUFFOLK | Who dare [[Cross|cross]] ’em<br>Bearing the [[King]]’s will from his mouth expressly? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Till I find more than will or words to do it—<br>I mean your malice—know, officious lords,<br>I dare and must deny it. Now I feel<br>Of what coarse metal ye are moulded—envy.<br>How eagerly ye follow my disgraces<br>As if it fed ye, and how sleek and wanton<br>Ye appear in everything may bring my ruin!<br>Follow your envious courses, men of malice.<br>You have Christian warrant for ’em, and no [[Doubt|doubt]]<br>In [[Time|time]] will find their fit rewards. That seal<br>You ask with such a violence, the [[King]],<br>Mine and your master, with his own hand gave me,<br>Bade me enjoy it, with the place and honours,<br>During my life; and, to confirm his goodness,<br>Tied it by letters patents. Now, who’ll take it? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Suffolk, the [[Earl of Surrey]], and the Lord Chamberlain |
+| NORFOLK | Hear the [[King]]’s pleasure, Cardinal, who commands you<br>To render up the great seal presently<br>Into our hands, and to confine yourself<br>To Ashen [[house\|House]], my lord of Winchester’s,<br>Till you hear further from his highness. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Stay—<br>Where’s your commission, lords? Words cannot carry<br>Authority so weighty. |
+| SUFFOLK | Who dare [[Cross\|cross]] ’em<br>Bearing the [[King]]’s will from his mouth expressly? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Till I find more than will or words to do it—<br>I mean your malice—know, officious lords,<br>I dare and must deny it. Now I feel<br>Of what coarse metal ye are moulded—envy.<br>How eagerly ye follow my disgraces<br>As if it fed ye, and how sleek and wanton<br>Ye appear in everything may bring my ruin!<br>Follow your envious courses, men of malice.<br>You have Christian warrant for ’em, and no [[Doubt\|doubt]]<br>In [[Time\|time]] will find their fit rewards. That seal<br>You ask with such a violence, the [[King]],<br>Mine and your master, with his own hand gave me,<br>Bade me enjoy it, with the place and honours,<br>During my life; and, to confirm his goodness,<br>Tied it by letters patents. Now, who’ll take it? |
 | SURREY | The [[King]] that gave it. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | It must be himself then. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | It must be himself then. |
 | SURREY | Thou art a proud traitor, priest. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Proud lord, thou liest. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Proud lord, thou liest. |
 | *(didascalia)* | Within these forty hours Surrey durst better |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Have burnt that tongue than said so. |
-| SURREY | Thy [[Ambition|ambition]],<br>Thou scarlet sin, robbed this bewailing land<br>Of noble [[Buckingham]], my father-in-law.<br>The heads of all thy brother cardinals<br>With thee and all thy best parts bound together<br>Weighed not a hair of his. Plague of your policy,<br>You sent me deputy for Ireland,<br>Far from his succour, from the [[King]], from all<br>That might have [[Mercy|mercy]] on the fault thou gav’st him;<br>Whilst your great goodness, out of holy pity,<br>Absolved him with an axe. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | This, and all else<br>This talking lord can lay upon my credit,<br>I answer is most false. The Duke by law<br>Found his deserts. How [[Innocent|innocent]] I was<br>From any private malice in his end,<br>His noble jury and foul cause can witness.<br>If I loved many words, lord, I should tell you<br>You have as little honesty as [[Honour|honour]],<br>That in the way of loyalty and [[Truth|truth]]<br>Toward the [[King]], my ever royal master,<br>Dare mate a sounder man than Surrey can be,<br>And all that [[Love|love]] his follies. |
-| SURREY | By my [[Soul|soul]],<br>Your long coat, priest, protects you; thou shouldst feel<br>My [[Sword|sword]] i’th’ life-[[Blood|blood]] of thee else. My lords,<br>Can ye endure to hear this arrogance,<br>And from this fellow? If we live thus tamely,<br>To be thus jaded by a piece of scarlet,<br>Farewell nobility. Let his grace go forward<br>And dare us with his cap, like larks. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | All goodness<br>Is [[Poison|poison]] to thy stomach. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Have burnt that tongue than said so. |
+| SURREY | Thy [[Ambition\|ambition]],<br>Thou scarlet sin, robbed this bewailing land<br>Of noble [[Buckingham]], my father-in-law.<br>The heads of all thy brother cardinals<br>With thee and all thy best parts bound together<br>Weighed not a hair of his. Plague of your policy,<br>You sent me deputy for Ireland,<br>Far from his succour, from the [[King]], from all<br>That might have [[Mercy\|mercy]] on the fault thou gav’st him;<br>Whilst your great goodness, out of holy pity,<br>Absolved him with an axe. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | This, and all else<br>This talking lord can lay upon my credit,<br>I answer is most false. The Duke by law<br>Found his deserts. How [[Innocent\|innocent]] I was<br>From any private malice in his end,<br>His noble jury and foul cause can witness.<br>If I loved many words, lord, I should tell you<br>You have as little honesty as [[Honour\|honour]],<br>That in the way of loyalty and [[Truth\|truth]]<br>Toward the [[King]], my ever royal master,<br>Dare mate a sounder man than Surrey can be,<br>And all that [[Love\|love]] his follies. |
+| SURREY | By my [[Soul\|soul]],<br>Your long coat, priest, protects you; thou shouldst feel<br>My [[Sword\|sword]] i’th’ life-[[Blood\|blood]] of thee else. My lords,<br>Can ye endure to hear this arrogance,<br>And from this fellow? If we live thus tamely,<br>To be thus jaded by a piece of scarlet,<br>Farewell nobility. Let his grace go forward<br>And dare us with his cap, like larks. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | All goodness<br>Is [[Poison\|poison]] to thy stomach. |
 | SURREY | Yes, that goodness<br>Of gleaning all the land’s wealth into one,<br>Into your own hands, Card’nal, by extortion;<br>The goodness of your intercepted packets<br>You writ to th’ Pope against the [[King]]; your<br>goodness—<br>Since you provoke me—shall be most notorious.<br>My lord of Norfolk, as you are truly noble,<br>As you respect the common good, the state<br>Of our despised nobility, our issues—<br>Whom if he live will scarce be gentlemen—<br>Produce the grand sum of his sins, the articles<br>Collected from his life. (To Wolsey) I’ll startle you<br>Worse than the sacring-bell when the brown wench<br>Lay kissing in your arms, lord Cardinal. |
-| *(didascalia)* | [[Cardinal Wolsey|CARDINAL WOLSEY]] aside |
-| SURREY | How much, methinks, I could despise this man,<br>But that I am bound in [[Charity|charity]] against it. |
+| *(didascalia)* | [[Cardinal Wolsey\|CARDINAL WOLSEY]] aside |
+| SURREY | How much, methinks, I could despise this man,<br>But that I am bound in [[Charity\|charity]] against it. |
 | NORFOLK | (to Surrey)<br>Those articles, my lord, are in the [[King]]’s hand;<br>But thus much—they are foul ones. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | So much fairer<br>And spotless shall mine [[innocence]] arise<br>When the [[King]] knows my [[Truth|truth]]. |
-| SURREY | This cannot save you.<br>I thank my [[Memory|memory]] I yet remember<br>Some of these articles, and out they shall.<br>Now, if you can blush and cry ‘Guilty’, Cardinal,<br>You’ll show a little honesty. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Speak on, sir;<br>I dare your worst objections. If I blush,<br>It is to see a nobleman want manners. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | So much fairer<br>And spotless shall mine [[innocence]] arise<br>When the [[King]] knows my [[Truth\|truth]]. |
+| SURREY | This cannot save you.<br>I thank my [[Memory\|memory]] I yet remember<br>Some of these articles, and out they shall.<br>Now, if you can blush and cry ‘Guilty’, Cardinal,<br>You’ll show a little honesty. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Speak on, sir;<br>I dare your worst objections. If I blush,<br>It is to see a nobleman want manners. |
 | SURREY | I had rather want those than my head. Have at you!<br>First, that without the [[King]]’s assent or knowledge<br>You wrought to be a legate, by which power<br>You maimed the jurisdiction of all bishops. |
 | NORFOLK | (to Wolsey)<br>Then, that in all you writ to Rome, or else<br>To foreign princes, ‘Ego et Rex meus’<br><br>Was still inscribed—in which you brought the [[King]]<br>To be your servant. |
 | SUFFOLK | (to Wolsey) Then, that without the knowledge<br>Either of [[King]] or Council, when you went<br>Ambassador to the Emperor, you made bold<br>To carry into Flanders the great seal. |
 | SURREY | (to Wolsey)<br>Item, you sent a large commission<br>To Gregory de Cassado, to conclude,<br>Without the [[King]]’s will or the state’s allowance,<br>A league between his highness and Ferrara, |
-| SUFFOLK | (to Wolsey)<br>That out of mere [[Ambition|ambition]] you have caused<br>Your holy hat to be stamped on the [[King]]’s coin. |
-| SURREY | (to Wolsey)<br>Then, that you have sent innumerable substance—<br>By what means got, I leave to your own [[Conscience|conscience]]—<br>To furnish Rome, and to prepare the ways<br>You have for dignities to the mere undoing<br>Of all the kingdom. Many more there are,<br>Which since they are of you, and odious,<br>I will not taint my mouth with. |
-| LORD CHAMBERLAIN | O, my lord,<br>Press not a falling man too far. ’Tis virtue.<br>His faults lie open to the laws. Let them,<br>Not you, correct him. My heart weeps to see him<br>So little of his great [[Self|self]]. |
+| SUFFOLK | (to Wolsey)<br>That out of mere [[Ambition\|ambition]] you have caused<br>Your holy hat to be stamped on the [[King]]’s coin. |
+| SURREY | (to Wolsey)<br>Then, that you have sent innumerable substance—<br>By what means got, I leave to your own [[Conscience\|conscience]]—<br>To furnish Rome, and to prepare the ways<br>You have for dignities to the mere undoing<br>Of all the kingdom. Many more there are,<br>Which since they are of you, and odious,<br>I will not taint my mouth with. |
+| LORD CHAMBERLAIN | O, my lord,<br>Press not a falling man too far. ’Tis virtue.<br>His faults lie open to the laws. Let them,<br>Not you, correct him. My heart weeps to see him<br>So little of his great [[Self\|self]]. |
 | SURREY | I forgive him. |
 | SUFFOLK | Lord Cardinal, the [[King]]’s further pleasure is—<br>Because all those things you have done of late,<br>By your power legantine within this kingdom,<br>Fall into th’ compass of a praemunire—<br>That therefore such a writ be sued against you,<br>To forfeit all your goods, lands, tenements,<br>Chattels, and whatsoever, and to be<br>Out of the [[King]]’s protection. This is my charge. |
-| NORFOLK | (to Wolsey)<br>And so we’ll leave you to your meditations<br>How to live better. For your stubborn answer<br>About the giving back the great seal to us,<br>The [[King]] shall know it and, no [[Doubt|doubt]], shall thank you.<br>So fare you [[Well|well]], my little good lord Cardinal. |
+| NORFOLK | (to Wolsey)<br>And so we’ll leave you to your meditations<br>How to live better. For your stubborn answer<br>About the giving back the great seal to us,<br>The [[King]] shall know it and, no [[Doubt\|doubt]], shall thank you.<br>So fare you [[Well\|well]], my little good lord Cardinal. |
 | *(didascalia)* | Exeunt all but Wolsey |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | So farewell—to the little good you bear me.<br>Farewell, a long farewell, to all my [[Greatness|greatness]]!<br>This is the state of man. Today he puts forth<br>The tender [[Leaves|leaves]] of hopes; tomorrow blossoms,<br>And bears his blushing honours thick upon him;<br>The third day comes a [[Frost|frost]], a killing [[Frost|frost]],<br>And when he thinks, good easy man, full surely<br>His [[Greatness|greatness]] is a-ripening, nips his root,<br>And then he falls, as I do. I have ventured,<br>Like little wanton boys that swim on bladders,<br>This many summers in a sea of glory,<br>But far beyond my depth; my high-blown [[Pride|pride]]<br>At length broke under me, and now has left me<br>Weary, and old with service, to the [[Mercy|mercy]]<br>Of a rude stream that must for ever hide me.<br>Vain pomp and glory of this world, I hate ye!<br>I feel my heart new opened. O, how wretched<br>Is that poor man that hangs on princes’ favours!<br>There is betwixt that smile we would aspire to,<br>That sweet aspect of princes, and their ruin,<br>More pangs and fears than wars or women have,<br>And when he falls, he falls like [[Lucifer]],<br>Never to [[Hope|hope]] again. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | So farewell—to the little good you bear me.<br>Farewell, a long farewell, to all my [[Greatness\|greatness]]!<br>This is the state of man. Today he puts forth<br>The tender [[Leaves\|leaves]] of hopes; tomorrow blossoms,<br>And bears his blushing honours thick upon him;<br>The third day comes a [[Frost\|frost]], a killing [[Frost\|frost]],<br>And when he thinks, good easy man, full surely<br>His [[Greatness\|greatness]] is a-ripening, nips his root,<br>And then he falls, as I do. I have ventured,<br>Like little wanton boys that swim on bladders,<br>This many summers in a sea of glory,<br>But far beyond my depth; my high-blown [[Pride\|pride]]<br>At length broke under me, and now has left me<br>Weary, and old with service, to the [[Mercy\|mercy]]<br>Of a rude stream that must for ever hide me.<br>Vain pomp and glory of this world, I hate ye!<br>I feel my heart new opened. O, how wretched<br>Is that poor man that hangs on princes’ favours!<br>There is betwixt that smile we would aspire to,<br>That sweet aspect of princes, and their ruin,<br>More pangs and fears than wars or women have,<br>And when he falls, he falls like [[Lucifer]],<br>Never to [[Hope\|hope]] again. |
 | *(didascalia)* | Enter Cromwell, who then stands amazed |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Why, how now, Cromwell? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Why, how now, Cromwell? |
 | CROMWELL | I have no power to speak, sir. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | What, amazed<br>At my misfortunes? Can thy spirit [[Wonder|wonder]]<br>A great man should decline? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What, amazed<br>At my misfortunes? Can thy spirit [[Wonder\|wonder]]<br>A great man should decline? |
 | *(didascalia)* | Cromwell begins to weep |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Nay, an you weep<br>I am fall’n indeed. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Nay, an you weep<br>I am fall’n indeed. |
 | CROMWELL | How does your grace? |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | Why, [[Well|well]]—<br>Never so truly happy, my good Cromwell.<br>I know myself now, and I feel within me<br>A peace above all earthly dignities,<br>A still and quiet [[Conscience|conscience]]. The [[King]] has cured me.<br>I humbly thank his grace, and from these shoulders,<br>These ruined pillars, out of pity, taken<br>A load would sink a navy—too much [[Honour|honour]].<br>O, ’tis a burden, Cromwell, ’tis a burden<br>Too heavy for a man that hopes for heaven. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Why, [[Well\|well]]—<br>Never so truly happy, my good Cromwell.<br>I know myself now, and I feel within me<br>A peace above all earthly dignities,<br>A still and quiet [[Conscience\|conscience]]. The [[King]] has cured me.<br>I humbly thank his grace, and from these shoulders,<br>These ruined pillars, out of pity, taken<br>A load would sink a navy—too much [[Honour\|honour]].<br>O, ’tis a burden, Cromwell, ’tis a burden<br>Too heavy for a man that hopes for heaven. |
 | CROMWELL | I am glad your grace has made that right use of it. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | I [[Hope|hope]] I have. I am able now, methinks,<br>Out of a fortitude of [[Soul|soul]] I feel,<br>To endure more miseries and greater far<br>Than my weak-hearted enemies dare offer.<br>What news abroad? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I [[Hope\|hope]] I have. I am able now, methinks,<br>Out of a fortitude of [[Soul\|soul]] I feel,<br>To endure more miseries and greater far<br>Than my weak-hearted enemies dare offer.<br>What news abroad? |
 | CROMWELL | The heaviest and the worst<br>Is your displeasure with the [[King]]. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | God bless him. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | God bless him. |
 | CROMWELL | The next is that [[Sir Thomas More]] is chosen<br>Lord Chancellor in your place. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | That’s somewhat sudden.<br>But he’s a learnèd man. May he continue<br>Long in his highness’ favour, and do justice<br>For [[Truth|truth]]’s sake and his [[Conscience|conscience]], that his bones,<br>When he has run his course and sleeps in blessings,<br>May have a tomb of orphans’ [[Tears|tears]] wept on him.<br>What more? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | That’s somewhat sudden.<br>But he’s a learnèd man. May he continue<br>Long in his highness’ favour, and do justice<br>For [[Truth\|truth]]’s sake and his [[Conscience\|conscience]], that his bones,<br>When he has run his course and sleeps in blessings,<br>May have a tomb of orphans’ [[Tears\|tears]] wept on him.<br>What more? |
 | CROMWELL | That [[Cranmer]] is returned with welcome,<br>Installed lord Archbishop of Canterbury. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | That’s news indeed. |
-| CROMWELL | Last, that the [[Lady Anne]],<br>Whom the [[King]] hath in secrecy long married,<br>This day was viewed in open as his [[Queen|queen]],<br>Going to chapel, and the voice is now<br>Only about her coronation. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | There was the weight that pulled me down. O,<br>Cromwell,<br>The [[King]] has gone beyond me. All my glories<br>In that one woman I have lost for ever.<br>No sun shall ever usher forth mine honours,<br>Or gild again the noble troops that waited<br>Upon my smiles. Go, get thee from me, Cromwell.<br>I am a poor fall’n man, unworthy now<br>To be thy lord and master. Seek the [[King]]—<br>That sun I pray may never set—I have told him<br>What and how true thou art. He will advance thee.<br>Some little [[Memory|memory]] of me will stir him.<br>I know his noble [[Nature|nature]] not to let<br>Thy hopeful service perish too. Good Cromwell,<br>Neglect him not. Make use now, and provide<br>For thine own future safety. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | That’s news indeed. |
+| CROMWELL | Last, that the [[Lady Anne]],<br>Whom the [[King]] hath in secrecy long married,<br>This day was viewed in open as his [[Queen\|queen]],<br>Going to chapel, and the voice is now<br>Only about her coronation. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | There was the weight that pulled me down. O,<br>Cromwell,<br>The [[King]] has gone beyond me. All my glories<br>In that one woman I have lost for ever.<br>No sun shall ever usher forth mine honours,<br>Or gild again the noble troops that waited<br>Upon my smiles. Go, get thee from me, Cromwell.<br>I am a poor fall’n man, unworthy now<br>To be thy lord and master. Seek the [[King]]—<br>That sun I pray may never set—I have told him<br>What and how true thou art. He will advance thee.<br>Some little [[Memory\|memory]] of me will stir him.<br>I know his noble [[Nature\|nature]] not to let<br>Thy hopeful service perish too. Good Cromwell,<br>Neglect him not. Make use now, and provide<br>For thine own future safety. |
 | *(didascalia)* | CROMWELL weeping |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | O, my lord,<br>Must I then leave you? Must I needs forgo<br>So good, so noble, and so true a master?<br>Bear witness, all that have not hearts of iron,<br>With what a sorrow Cromwell [[Leaves|leaves]] his lord.<br>The [[King]] shall have my service, but my prayers<br>For ever and for ever shall be yours. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | (weeping)<br>Cromwell, I did not think to shed a tear<br>In all my miseries, but thou hast forced me,<br>Out of thy honest [[Truth|truth]], to play the woman.<br>Let’s dry our eyes, and thus far hear me, Cromwell,<br>And when I am forgotten, as I shall be,<br>And [[Sleep|sleep]] in dull cold marble, where no mention<br>Of me more must be heard of, say I taught thee—<br>Say Wolsey, that once trod the ways of glory,<br>And sounded all the depths and shoals of [[Honour|honour]],<br>Found thee a way, out of his wreck, to rise in,<br>A sure and safe one, though thy master missed it.<br>Mark but my fall, and that that ruined me.<br>Cromwell, I charge thee, fling away [[Ambition|ambition]].<br>By that sin fell the angels. How can man, then,<br>The image of his maker, [[Hope|hope]] to win by it?<br>[[Love]] thyself last. Cherish those hearts that hate thee.<br>Corruption wins not more than honesty.<br>Still in thy right hand carry gentle peace<br>To [[Silence|silence]] envious tongues. Be just, and [[Fear|fear]] not.<br>Let all the ends thou aim’st at be thy country’s,<br>Thy God’s, and [[Truth|truth]]’s. Then if thou fall’st, O<br>Cromwell,<br>Thou fall‘st a blessed martyr.<br>Serve the [[King]]. And prithee, lead me in—<br>There take an inventory of all I have:<br>To the last penny ’tis the [[King]]’s. My robe,<br>And my integrity to heaven, is all<br>I dare now call mine own. O Cromwell, Cromwell,<br>Had I but served my God with half the zeal<br>I served my [[King]], He would not in mine age<br>Have left me naked to mine enemies. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | O, my lord,<br>Must I then leave you? Must I needs forgo<br>So good, so noble, and so true a master?<br>Bear witness, all that have not hearts of iron,<br>With what a sorrow Cromwell [[Leaves\|leaves]] his lord.<br>The [[King]] shall have my service, but my prayers<br>For ever and for ever shall be yours. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (weeping)<br>Cromwell, I did not think to shed a tear<br>In all my miseries, but thou hast forced me,<br>Out of thy honest [[Truth\|truth]], to play the woman.<br>Let’s dry our eyes, and thus far hear me, Cromwell,<br>And when I am forgotten, as I shall be,<br>And [[Sleep\|sleep]] in dull cold marble, where no mention<br>Of me more must be heard of, say I taught thee—<br>Say Wolsey, that once trod the ways of glory,<br>And sounded all the depths and shoals of [[Honour\|honour]],<br>Found thee a way, out of his wreck, to rise in,<br>A sure and safe one, though thy master missed it.<br>Mark but my fall, and that that ruined me.<br>Cromwell, I charge thee, fling away [[Ambition\|ambition]].<br>By that sin fell the angels. How can man, then,<br>The image of his maker, [[Hope\|hope]] to win by it?<br>[[Love]] thyself last. Cherish those hearts that hate thee.<br>Corruption wins not more than honesty.<br>Still in thy right hand carry gentle peace<br>To [[Silence\|silence]] envious tongues. Be just, and [[Fear\|fear]] not.<br>Let all the ends thou aim’st at be thy country’s,<br>Thy God’s, and [[Truth\|truth]]’s. Then if thou fall’st, O<br>Cromwell,<br>Thou fall‘st a blessed martyr.<br>Serve the [[King]]. And prithee, lead me in—<br>There take an inventory of all I have:<br>To the last penny ’tis the [[King]]’s. My robe,<br>And my integrity to heaven, is all<br>I dare now call mine own. O Cromwell, Cromwell,<br>Had I but served my God with half the zeal<br>I served my [[King]], He would not in mine age<br>Have left me naked to mine enemies. |
 | CROMWELL | Good sir, have patience. |
-| [[Cardinal Wolsey|CARDINAL WOLSEY]] | So I have. Farewell<br>The hopes of [[Court|court]]; my hopes in heaven do dwell. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | So I have. Farewell<br>The hopes of [[Court\|court]]; my hopes in heaven do dwell. |
 | *(didascalia)* | Exeunt |
 
 ### Atto 4, Scena 1
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the two Gentlemen meeting one another. The first holds a paper |
-| FIRST GENTLEMAN | You’re [[Well|well]] met once again. |
+| FIRST GENTLEMAN | You’re [[Well\|well]] met once again. |
 | SECOND GENTLEMAN | So are you. |
 | FIRST GENTLEMAN | You come to take your stand here and behold<br>The [[Lady Anne]] pass from her coronation? |
 | SECOND GENTLEMAN | ’Tis all my business. At our last encounter<br>The [[Duke of Buckingham]] came from his trial. |
-| FIRST GENTLEMAN | ’Tis very true. But that [[Time|time]] offered sorrow,<br>This, general joy. |
-| SECOND GENTLEMAN | ’Tis [[Well|well]]. The citizens,<br>I am sure, have shown at full their royal minds—<br>As, let ’em have their rights, they are ever forward—<br>In celebration of this day with shows,<br>Pageants, and sights of [[Honour|honour]]. |
+| FIRST GENTLEMAN | ’Tis very true. But that [[Time\|time]] offered sorrow,<br>This, general joy. |
+| SECOND GENTLEMAN | ’Tis [[Well\|well]]. The citizens,<br>I am sure, have shown at full their royal minds—<br>As, let ’em have their rights, they are ever forward—<br>In celebration of this day with shows,<br>Pageants, and sights of [[Honour\|honour]]. |
 | FIRST GENTLEMAN | Never greater,<br>Nor, I’ll assure you, better taken, sir. |
 | SECOND GENTLEMAN | May I be bold to ask what that contains,<br>That paper in your hand? |
 | FIRST GENTLEMAN | Yes, ’tis the list<br>Of those that claim their offices this day<br>By custom of the coronation.<br>The [[Duke of Suffolk]] is the first, and claims<br>To be High Steward; next, the Duke of Norfolk,<br>He to be Earl Marshal. You may read the rest.<br>He gives him the paper |
 | SECOND GENTLEMAN | I thank you, sir. Had I not known those customs,<br>I should have been beholden to your paper.<br>But I beseech you, what’s become of Katherine,<br>The Princess Dowager? How goes her business? |
-| FIRST GENTLEMAN | That I can tell you too. The Archbishop<br>Of Canterbury, accompanied with other<br>Learned and reverend fathers of his order,<br>Held a late [[Court|court]] at Dunstable, six miles off<br>From Ampthill, where the Princess lay; to which<br>She was often cited by them, but appeared not.<br>And, to be short, for not appearance, and<br>The [[King]]’s late scruple, by the main assent<br>Of all these learned men, she was divorced,<br>And the late [[Marriage|marriage]] made of none effect,<br>Since which she was removed to Kimbolton,<br>Where she remains now sick. |
+| FIRST GENTLEMAN | That I can tell you too. The Archbishop<br>Of Canterbury, accompanied with other<br>Learned and reverend fathers of his order,<br>Held a late [[Court\|court]] at Dunstable, six miles off<br>From Ampthill, where the Princess lay; to which<br>She was often cited by them, but appeared not.<br>And, to be short, for not appearance, and<br>The [[King]]’s late scruple, by the main assent<br>Of all these learned men, she was divorced,<br>And the late [[Marriage\|marriage]] made of none effect,<br>Since which she was removed to Kimbolton,<br>Where she remains now sick. |
 | SECOND GENTLEMAN | Alas, good lady! |
 | *(didascalia)* | Flourish of trumpets within |
 | SECOND GENTLEMAN | The trumpets sound. Stand close. The [[Queen]] is coming. |
@@ -2099,18 +951,18 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | 1. First, enter trumpeters, who play a lively flourish. |
 | THE ORDER OF THE | 2. Then, enter two judges.<br>3. Then, enter the Lord Chancellor, with both the purse containing the great seal and the mace borne before him. |
 | *(didascalia)* | 4. Then, enter choristers singing; with them, musicians playing. |
-| THE ORDER OF THE | 5. Then, enter the [[Lord Mayor]] of [[London]] bearing the mace, followed by Garter [[King]]-of-Arms wearing his coat of arms and a gilt copper [[Crown|crown]].<br>6. Then, enter Marquis Dorset bearing a sceptre of gold, and wearing, on his head, a demi-coronal of gold and, about his neck, a collar of esses. With him enter the [[Earl of Surrey]] bearing the rod of silver with the dove, crowned with an earl’s coronet, and also wearing a collar of esses.<br>7. Next, enter the [[Duke of Suffolk]] as High Steward, in his robe of estate, with his coronet on his head, and bearing a long white wand. With him, enter the Duke of Norfolk with the rod of marshalship and a coronet on his head. Each wears a collar of esses.<br>8. Then, under a canopy borne by four barons of the Cinque Ports, enter Anne, the new [[Queen]], in her robe. Her hair, which hangs loose, is richly adorned with pearl. She wears a [[Crown|crown]]. Accompanying her on either side are the Bishops of [[London]] and Winchester.<br>9. Next, enter the old Duchess of Norfolk, in a coronal of gold wrought with [[Flowers|flowers]], bearing the [[Queen]]’s train.<br>10. Finally, enter certain ladies or countesses, with plain circlets of gold without [[Flowers|flowers]]. The two Gentlemen comment on the procession as it passes over the stage |
+| THE ORDER OF THE | 5. Then, enter the [[Lord Mayor]] of [[London]] bearing the mace, followed by Garter [[King]]-of-Arms wearing his coat of arms and a gilt copper [[Crown\|crown]].<br>6. Then, enter Marquis Dorset bearing a sceptre of gold, and wearing, on his head, a demi-coronal of gold and, about his neck, a collar of esses. With him enter the [[Earl of Surrey]] bearing the rod of silver with the dove, crowned with an earl’s coronet, and also wearing a collar of esses.<br>7. Next, enter the [[Duke of Suffolk]] as High Steward, in his robe of estate, with his coronet on his head, and bearing a long white wand. With him, enter the Duke of Norfolk with the rod of marshalship and a coronet on his head. Each wears a collar of esses.<br>8. Then, under a canopy borne by four barons of the Cinque Ports, enter Anne, the new [[Queen]], in her robe. Her hair, which hangs loose, is richly adorned with pearl. She wears a [[Crown\|crown]]. Accompanying her on either side are the Bishops of [[London]] and Winchester.<br>9. Next, enter the old Duchess of Norfolk, in a coronal of gold wrought with [[Flowers\|flowers]], bearing the [[Queen]]’s train.<br>10. Finally, enter certain ladies or countesses, with plain circlets of gold without [[Flowers\|flowers]]. The two Gentlemen comment on the procession as it passes over the stage |
 | SECOND GENTLEMAN | A royal train, believe me. These I know.<br>Who’s that that bears the sceptre? |
 | FIRST GENTLEMAN | Marquis Dorset.<br>And that, the [[Earl of Surrey]] with the rod. |
 | SECOND GENTLEMAN | A bold brave gentleman. That should be<br>The [[Duke of Suffolk]]? |
 | FIRST GENTLEMAN | ’Tis the same: High Steward. |
 | SECOND GENTLEMAN | And that, my lord of Norfolk? |
 | FIRST GENTLEMAN | Yes. |
-| SECOND GENTLEMAN | (seeing Anne) Heaven bless thee!<br>Thou hast the sweetest face ever looked on.<br>Sir, as I have a [[Soul|soul]], she is an angel.<br>Our [[King]] has all the Indies in his arms,<br>And more, and richer, when he strains that lady.<br>I cannot blame his [[Conscience|conscience]]. |
-| FIRST GENTLEMAN | They that bear The cloth of [[Honour|honour]] over her are four barons<br>Of the Cinque Ports. |
+| SECOND GENTLEMAN | (seeing Anne) Heaven bless thee!<br>Thou hast the sweetest face ever looked on.<br>Sir, as I have a [[Soul\|soul]], she is an angel.<br>Our [[King]] has all the Indies in his arms,<br>And more, and richer, when he strains that lady.<br>I cannot blame his [[Conscience\|conscience]]. |
+| FIRST GENTLEMAN | They that bear The cloth of [[Honour\|honour]] over her are four barons<br>Of the Cinque Ports. |
 | SECOND GENTLEMAN | Those men are happy, And so are all are near her.<br>I take it she that carries up the train<br>Is that old noble lady, Duchess of Norfolk. |
 | FIRST GENTLEMAN | It is. And all the rest are countesses. |
-| SECOND GENTLEMAN | Their coronets say so. These are [[Stars|stars]] indeed— |
+| SECOND GENTLEMAN | Their coronets say so. These are [[Stars\|stars]] indeed— |
 | *(didascalia)* | FIRST GENTLEMAN |
 | SECOND GENTLEMAN | And sometimes falling ones. |
 | SECOND GENTLEMAN | No more of that. |
@@ -2124,42 +976,42 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | FIRST GENTLEMAN | How Was it? |
 | THIRD GENTLEMAN | [[Well]] worth the seeing. |
 | SECOND GENTLEMAN | Good sir, speak it to us. |
-| THIRD GENTLEMAN | As [[Well|well]] as I am able. The rich stream<br>Of lords and ladies, having brought the [[Queen]]<br>To a prepared place in the choir, fell off<br>A distance from her, while her grace sat down<br>To rest a while—some half an hour or so—<br>In a rich chair of state, opposing freely<br>The [[Beauty|beauty]] of her person to the people.<br>Believe me, sir, she is the goodliest woman<br>That ever lay by man; which when the people<br>Had the full view of, such a noise arose<br>As the shrouds make at sea in a stiff tempest,<br>As loud and to as many tunes. Hats, cloaks—<br>Doublets, I think—flew up, and had their faces<br>Been loose, this day they had been lost. Such joy<br>I never saw before. Great-bellied women,<br>That had not half a week to go, like rams<br>In the old [[Time|time]] of war, would shake the press,<br>And make ’em reel before ’em. No man living<br>Could say ‘This is my wife’ there, all were woven<br>So strangely in one piece. |
+| THIRD GENTLEMAN | As [[Well\|well]] as I am able. The rich stream<br>Of lords and ladies, having brought the [[Queen]]<br>To a prepared place in the choir, fell off<br>A distance from her, while her grace sat down<br>To rest a while—some half an hour or so—<br>In a rich chair of state, opposing freely<br>The [[Beauty\|beauty]] of her person to the people.<br>Believe me, sir, she is the goodliest woman<br>That ever lay by man; which when the people<br>Had the full view of, such a noise arose<br>As the shrouds make at sea in a stiff tempest,<br>As loud and to as many tunes. Hats, cloaks—<br>Doublets, I think—flew up, and had their faces<br>Been loose, this day they had been lost. Such joy<br>I never saw before. Great-bellied women,<br>That had not half a week to go, like rams<br>In the old [[Time\|time]] of war, would shake the press,<br>And make ’em reel before ’em. No man living<br>Could say ‘This is my wife’ there, all were woven<br>So strangely in one piece. |
 | SECOND GENTLEMAN | But what followed? |
-| THIRD GENTLEMAN | At length her grace [[Rose|rose]], and with modest paces<br>Came to the altar, where she kneeled, and saint-like<br>Cast her fair eyes to heaven, and prayed devoutly, 86<br>Then [[Rose|rose]] again, and bowed her to the people,<br>When by the Archbishop of Canterbury<br>She had all the royal makings of a [[Queen|queen]],<br>As holy oil, Edward Confessor’s [[Crown|crown]],<br>The rod and bird of peace, and all such emblems<br>Laid nobly on her. Which performed, the choir,<br>With all the choicest music of the kingdom,<br>Together sung Te Deum. So she parted,<br>And with the same full state paced back again<br>To York Place, where the feast is held. |
+| THIRD GENTLEMAN | At length her grace [[Rose\|rose]], and with modest paces<br>Came to the altar, where she kneeled, and saint-like<br>Cast her fair eyes to heaven, and prayed devoutly, 86<br>Then [[Rose\|rose]] again, and bowed her to the people,<br>When by the Archbishop of Canterbury<br>She had all the royal makings of a [[Queen\|queen]],<br>As holy oil, Edward Confessor’s [[Crown\|crown]],<br>The rod and bird of peace, and all such emblems<br>Laid nobly on her. Which performed, the choir,<br>With all the choicest music of the kingdom,<br>Together sung Te Deum. So she parted,<br>And with the same full state paced back again<br>To York Place, where the feast is held. |
 | FIRST GENTLEMAN | Sir, You must no more call it York Place—that’s past,<br>For since the Cardinal fell, that title’s lost.<br>‘Tis now the [[King]]’s, and called Whitehall. |
 | THIRD GENTLEMAN | I know it, But ’tis so lately altered that the old name<br>Is fresh about me. |
 | SECOND GENTLEMAN | What two reverend bishops<br>Were those that went on each side of the [[Queen]]? |
 | THIRD GENTLEMAN | Stokesley and Gardiner, the one of Winchester—<br>Newly preferred from the [[King]]’s secretary—<br>The other [[London]]. |
-| SECOND GENTLEMAN | He of Winchester<br>Is held no great good [[Lover|lover]] of the Archbishop’s,<br>The virtuous [[Cranmer]]. |
+| SECOND GENTLEMAN | He of Winchester<br>Is held no great good [[Lover\|lover]] of the Archbishop’s,<br>The virtuous [[Cranmer]]. |
 | THIRD GENTLEMAN | All the land knows that.<br>However, yet there is no great breach. When it<br>comes,<br>[[Cranmer]] will find a friend will not shrink from him. |
 | SECOND GENTLEMAN | Who may that be, I pray you? |
-| THIRD GENTLEMAN | Thomas Cromwell, A man in much esteem with th’ [[King]], and truly<br>A worthy friend. The [[King]] has made him<br>Master o’th’ [[Jewel]] [[house|House]],<br>And one already of the Privy Council. |
+| THIRD GENTLEMAN | Thomas Cromwell, A man in much esteem with th’ [[King]], and truly<br>A worthy friend. The [[King]] has made him<br>Master o’th’ [[Jewel]] [[house\|House]],<br>And one already of the Privy Council. |
 | SECOND GENTLEMAN | He will deserve more. |
-| THIRD GENTLEMAN | Yes, without all [[Doubt|doubt]].<br>Come, gentlemen, ye shall go my way,<br>Which is to th’ [[Court|court]], and there ye shall be my<br>guests.<br>Something I can command. As I walk thither<br>I’ll tell ye more. |
+| THIRD GENTLEMAN | Yes, without all [[Doubt\|doubt]].<br>Come, gentlemen, ye shall go my way,<br>Which is to th’ [[Court\|court]], and there ye shall be my<br>guests.<br>Something I can command. As I walk thither<br>I’ll tell ye more. |
 | FIRST | and SECOND GENTLEMEN You may command us, sir. |
 | *(didascalia)* | Exeunt |
 | *(didascalia)* | 4.2 Three chairs. Enter Katherine Dowager, sick, led between Griffith her gentleman usher, and Patience her woman |
 | GRIFFITH | How does your grace? |
-| KATHERINE | O Griffith, sick to [[Death|death]].<br>My legs, like loaden branches, bow to th’ earth,<br>Willing to leave their burden. Reach a chair.<br>A chair is brought to her. She sits<br>So now, methinks, I feel a little ease.<br>Didst thou not tell me, Griffith, as thou led’st me,<br>That the great [[Child|child]] of [[Honour|honour]], [[Cardinal Wolsey]],<br>Was dead? |
-| GRIFFITH | Yes, madam, but I think your grace, Out of the [[Pain|pain]] you suffered, gave no ear to’t. |
-| KATHERINE | Prithee, good Griffith, tell me how he died.<br>If [[Well|well]], he stepped before me happily<br>For my example. |
+| KATHERINE | O Griffith, sick to [[Death\|death]].<br>My legs, like loaden branches, bow to th’ earth,<br>Willing to leave their burden. Reach a chair.<br>A chair is brought to her. She sits<br>So now, methinks, I feel a little ease.<br>Didst thou not tell me, Griffith, as thou led’st me,<br>That the great [[Child\|child]] of [[Honour\|honour]], [[Cardinal Wolsey]],<br>Was dead? |
+| GRIFFITH | Yes, madam, but I think your grace, Out of the [[Pain\|pain]] you suffered, gave no ear to’t. |
+| KATHERINE | Prithee, good Griffith, tell me how he died.<br>If [[Well\|well]], he stepped before me happily<br>For my example. |
 | GRIFFITH | [[Well]], the voice goes, madam.<br>For after the stout Earl Northumberland<br>Arrested him at York, and brought him forward,<br>As a man sorely tainted, to his answer,<br>He fell sick, suddenly, and grew so ill<br>He could not sit his mule. |
 | KATHERINE | Alas, poor man. |
-| GRIFFITH | At last, with easy roads, he came to Leicester,<br>Lodged in the abbey, where the reverend abbot,<br>With all his convent, honourably received him,<br>To whom he gave these words: ‛O father abbot,<br>An old man broken with the storms of state<br>Is come to lay his weary bones among ye.<br>Give him a little earth, for [[Charity|charity]].’<br>So went to bed, where eagerly his sickness<br>Pursued him still, and three nights after this,<br>About the hour of eight, which he himself<br>Foretold should be his last, full of repentance,<br>Continual meditations, [[Tears|tears]], and sorrows,<br>He gave his honours to the world again,<br>His blessed part to heaven, and slept in peace. |
-| KATHERINE | So may he rest, his faults lie gently on him.<br>Yet thus far, Griffith, give me leave to speak him,<br>And yet with [[Charity|charity]]. He was a man<br>Of an unbounded stomach, ever ranking<br>Himself with princes; one that by suggestion<br>Tied all the kingdom. Simony was fair play.<br>His own opinion was his law. I’th’ presence<br>He would say untruths, and be ever [[Double|double]]<br>Both in his words and meaning. He was never,<br>But where he meant to ruin, pitiful.<br>His promises were, as he then was, mighty;<br>But his performance, as he is now, nothing.<br>Of his own [[Body|body]] he was ill, and gave<br>The clergy ill example. |
-| GRIFFITH | Noble madam, Men’s evil manners live in brass, their virtues<br>We write in [[Water|water]]. May it please your highness<br>To hear me speak his good now? |
+| GRIFFITH | At last, with easy roads, he came to Leicester,<br>Lodged in the abbey, where the reverend abbot,<br>With all his convent, honourably received him,<br>To whom he gave these words: ‛O father abbot,<br>An old man broken with the storms of state<br>Is come to lay his weary bones among ye.<br>Give him a little earth, for [[Charity\|charity]].’<br>So went to bed, where eagerly his sickness<br>Pursued him still, and three nights after this,<br>About the hour of eight, which he himself<br>Foretold should be his last, full of repentance,<br>Continual meditations, [[Tears\|tears]], and sorrows,<br>He gave his honours to the world again,<br>His blessed part to heaven, and slept in peace. |
+| KATHERINE | So may he rest, his faults lie gently on him.<br>Yet thus far, Griffith, give me leave to speak him,<br>And yet with [[Charity\|charity]]. He was a man<br>Of an unbounded stomach, ever ranking<br>Himself with princes; one that by suggestion<br>Tied all the kingdom. Simony was fair play.<br>His own opinion was his law. I’th’ presence<br>He would say untruths, and be ever [[Double\|double]]<br>Both in his words and meaning. He was never,<br>But where he meant to ruin, pitiful.<br>His promises were, as he then was, mighty;<br>But his performance, as he is now, nothing.<br>Of his own [[Body\|body]] he was ill, and gave<br>The clergy ill example. |
+| GRIFFITH | Noble madam, Men’s evil manners live in brass, their virtues<br>We write in [[Water\|water]]. May it please your highness<br>To hear me speak his good now? |
 | KATHERINE | Yes, good Griffith,<br>I were malicious else. |
-| GRIFFITH | This cardinal, Though from an humble stock, undoubtedly<br>Was fashioned to much [[Honour|honour]]. From his cradle<br>He was a scholar, and a ripe and good one,<br>Exceeding wise, fair-spoken, and persuading;<br>Lofty and sour to them that loved him not,<br>But to those men that sought him, sweet as [[Summer|summer]].<br>And though he were unsatisfied in getting—<br>Which was a sin—yet in bestowing, madam,<br>He was most princely: ever witness for him<br>Those twins of learning that he raised in you,<br>Ipswich and [[Oxford]]—one of which fell with him,<br>Unwilling to outlive the good that did it;<br>The other, though unfinished, yet so famous,<br>So excellent in art, and still so rising,<br>That Christendom shall ever speak his virtue.<br>His overthrow heaped happiness upon him,<br>For then, and not till then, he felt himself,<br>And found the blessedness of being little.<br>And to add greater honours to his age<br>Than man could give him, he died fearing God. |
-| KATHERINE | After my [[Death|death]] I wish no other herald,<br>No other speaker of my living actions<br>To keep mine [[Honour|honour]] from corruption<br>But such an honest chronicler as Griffith.<br>Whom I most hated living, thou hast made me,<br>With thy religious [[Truth|truth]] and modesty,<br>Now in his ashes [[Honour|honour]]. Peace be with him.<br>(To her woman) Patience, be near me still, and set me<br>lower.<br>I have not long to trouble thee. Good Griffith,<br>Cause the musicians play me that sad note<br>I named my knell, whilst I sit meditating<br>On that celestial harmony I go to.<br>Sad and solemn music. Katherine sleeps |
-| GRIFFITH | (to the woman)<br>She is asleep. Good wench, let’s sit down quiet<br>For [[Fear|fear]] we wake her. Softly, gentle Patience.<br>They sit |
-| *(didascalia)* | Enter, solemnly tripping one after another, six personages clad in white robes, wearing on their heads garlands of bays, and golden visors on their faces. They carry branches of bays or palm in their hands. They first conge unto Katherine, then [[Dance|dance]]; and, at certain changes, the first two hold a spare garland over her head at which the other four make reverent curtsies. Then the two that held the garland deliver the same to the other next two, who observe the same order in their changes and holding the garland over her head. Which done, they deliver the same garland to the last two who likewise observe the same order. At which, as it were by inspiration, she makes in her [[Sleep|sleep]] signs of rejoicing, and holdeth up her hands to heaven. And so in their dancing vanish, carrying the garland with them. The music continues |
+| GRIFFITH | This cardinal, Though from an humble stock, undoubtedly<br>Was fashioned to much [[Honour\|honour]]. From his cradle<br>He was a scholar, and a ripe and good one,<br>Exceeding wise, fair-spoken, and persuading;<br>Lofty and sour to them that loved him not,<br>But to those men that sought him, sweet as [[Summer\|summer]].<br>And though he were unsatisfied in getting—<br>Which was a sin—yet in bestowing, madam,<br>He was most princely: ever witness for him<br>Those twins of learning that he raised in you,<br>Ipswich and [[Oxford]]—one of which fell with him,<br>Unwilling to outlive the good that did it;<br>The other, though unfinished, yet so famous,<br>So excellent in art, and still so rising,<br>That Christendom shall ever speak his virtue.<br>His overthrow heaped happiness upon him,<br>For then, and not till then, he felt himself,<br>And found the blessedness of being little.<br>And to add greater honours to his age<br>Than man could give him, he died fearing God. |
+| KATHERINE | After my [[Death\|death]] I wish no other herald,<br>No other speaker of my living actions<br>To keep mine [[Honour\|honour]] from corruption<br>But such an honest chronicler as Griffith.<br>Whom I most hated living, thou hast made me,<br>With thy religious [[Truth\|truth]] and modesty,<br>Now in his ashes [[Honour\|honour]]. Peace be with him.<br>(To her woman) Patience, be near me still, and set me<br>lower.<br>I have not long to trouble thee. Good Griffith,<br>Cause the musicians play me that sad note<br>I named my knell, whilst I sit meditating<br>On that celestial harmony I go to.<br>Sad and solemn music. Katherine sleeps |
+| GRIFFITH | (to the woman)<br>She is asleep. Good wench, let’s sit down quiet<br>For [[Fear\|fear]] we wake her. Softly, gentle Patience.<br>They sit |
+| *(didascalia)* | Enter, solemnly tripping one after another, six personages clad in white robes, wearing on their heads garlands of bays, and golden visors on their faces. They carry branches of bays or palm in their hands. They first conge unto Katherine, then [[Dance\|dance]]; and, at certain changes, the first two hold a spare garland over her head at which the other four make reverent curtsies. Then the two that held the garland deliver the same to the other next two, who observe the same order in their changes and holding the garland over her head. Which done, they deliver the same garland to the last two who likewise observe the same order. At which, as it were by inspiration, she makes in her [[Sleep\|sleep]] signs of rejoicing, and holdeth up her hands to heaven. And so in their dancing vanish, carrying the garland with them. The music continues |
 | KATHERINE | (waking)<br>Spirits of peace, where are ye? Are ye all gone,<br>And leave me here in wretchedness behind ye?<br>Griffith and Patience rise and come forward |
 | GRIFFITH | Madam, we are here. |
 | KATHERINE | It is not you I call for.<br>Saw ye none enter since I slept? |
 | GRIFFITH | None, madam. |
 | KATHERINE | No? Saw you not even now a blessèd troop<br>Invite me to a banquet, whose bright faces<br>Cast thousand beams upon me, like the sun?<br>They promised me eternal happiness,<br>And brought me garlands, Griffith, which I feel<br>I am not worthy yet to wear. I shall,<br>Assuredly. |
-| GRIFFITH | I am most joyful, madam, such good [[Dreams|dreams]]<br>Possess your fancy. |
+| GRIFFITH | I am most joyful, madam, such good [[Dreams\|dreams]]<br>Possess your fancy. |
 | KATHERINE | Bid the music leave.<br>They are harsh and heavy to me. |
 | *(didascalia)* | Music ceases |
 | PATIENCE | (to Griffith)<br>Do you note<br>How much her grace is altered on the sudden?<br>How long her face is drawn? How pale she looks,<br>And of an earthy colour? Mark her eyes? |
@@ -2168,7 +1020,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Enter a Messenger |
 | MESSENGER | (to Katherine)<br>An’t like your grace— |
 | KATHERINE | You are a saucy fellow—<br>Deserve we no more reverence? |
-| GRIFFITH | (to the Messenger)<br>You are to blame,<br>Knowing she will not lose her wonted [[Greatness|greatness]],<br>To use so rude behaviour. Go to, kneel. |
+| GRIFFITH | (to the Messenger)<br>You are to blame,<br>Knowing she will not lose her wonted [[Greatness\|greatness]],<br>To use so rude behaviour. Go to, kneel. |
 | MESSENGER | (kneeling before Katherine)<br>I humbly do entreat your highness’ pardon.<br>My haste made me unmannerly. There is staying<br>A gentleman sent from the [[King]] to see you. |
 | KATHERINE | Admit him entrance, Griffith. But this fellow<br>Let me ne’er see again. |
 | *(didascalia)* | Exit Messenger |
@@ -2177,118 +1029,118 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | *(didascalia)* | Madam, the same, bowing your servant. |
 | KATHERINE | O, my lord, The times and titles now are altered strangely<br>With me since first you knew me. But I pray you,<br>What is your pleasure with me? |
 | CAPUTIUS | Noble lady, First mine own service to your grace; the next,<br>The [[King]]’s request that I would visit you,<br>Who grieves much for your weakness, and by me<br>Sends you his princely commendations,<br>And heartily entreats you take good comfort. |
-| KATHERINE | O, my good lord, that comfort comes too late,<br>’Tis like a pardon after execution.<br>That gentle physic, given in [[Time|time]], had cured me;<br>But now I am past all comforts here but prayers.<br>How does his highness? |
+| KATHERINE | O, my good lord, that comfort comes too late,<br>’Tis like a pardon after execution.<br>That gentle physic, given in [[Time\|time]], had cured me;<br>But now I am past all comforts here but prayers.<br>How does his highness? |
 | CAPUTIUS | Madam, in good health. |
 | KATHERINE | So may he ever do, and ever flourish<br>When I shall dwell with worms, and my poor name<br>Banished the kingdom. (To her woman) Patience, is<br>that letter<br>I caused you write yet sent away? |
 | PATIENCE | No, madam. |
 | KATHERINE | (to Caputius)<br>Sir, I most humbly pray you to deliver<br>This to my lord the [[King]].<br>The letter is given to Caputius |
 | CAPUTIUS | Most willing, madam. |
-| KATHERINE | In which I have commended to his goodness<br>The model of our chaste loves, his young daughter—<br>The dews of heaven fall thick in blessings on her—<br>Beseeching him to give her virtuous breeding.<br>She is young, and of a noble modest [[Nature|nature]].<br>I [[Hope|hope]] she will deserve [[Well|well]]—and a little<br>To [[Love|love]] her for her mother’s sake, that loved him,<br>Heaven knows how dearly. My next poor petition<br>Is that his noble grace would have some pity<br>Upon my wretched women, that so long<br>Have followed both my fortunes faithfully;<br>Of which there is not one, I dare avow—<br>And now I should not lie—but will deserve,<br>For virtue and true [[Beauty|beauty]] of the [[Soul|soul]],<br>For honesty and decent carriage,<br>A right good husband. Let him be a noble,<br>And sure those men are happy that shall have ’em.<br>The last is for my men—they are the poorest,<br>But [[Poverty|poverty]] could never draw ’em from me—<br>That they may have their wages duly paid ’em,<br>And something over to remember me by.<br>If heaven had pleased to have given me longer life,<br>And able means, we had not parted thus.<br>These are the whole contents; and, good my lord,<br>By that you [[Love|love]] the dearest in this world,<br>As you wish Christian peace to souls departed,<br>Stand these poor people’s friend and urge the [[King]]<br>To do me this last rite. |
+| KATHERINE | In which I have commended to his goodness<br>The model of our chaste loves, his young daughter—<br>The dews of heaven fall thick in blessings on her—<br>Beseeching him to give her virtuous breeding.<br>She is young, and of a noble modest [[Nature\|nature]].<br>I [[Hope\|hope]] she will deserve [[Well\|well]]—and a little<br>To [[Love\|love]] her for her mother’s sake, that loved him,<br>Heaven knows how dearly. My next poor petition<br>Is that his noble grace would have some pity<br>Upon my wretched women, that so long<br>Have followed both my fortunes faithfully;<br>Of which there is not one, I dare avow—<br>And now I should not lie—but will deserve,<br>For virtue and true [[Beauty\|beauty]] of the [[Soul\|soul]],<br>For honesty and decent carriage,<br>A right good husband. Let him be a noble,<br>And sure those men are happy that shall have ’em.<br>The last is for my men—they are the poorest,<br>But [[Poverty\|poverty]] could never draw ’em from me—<br>That they may have their wages duly paid ’em,<br>And something over to remember me by.<br>If heaven had pleased to have given me longer life,<br>And able means, we had not parted thus.<br>These are the whole contents; and, good my lord,<br>By that you [[Love\|love]] the dearest in this world,<br>As you wish Christian peace to souls departed,<br>Stand these poor people’s friend and urge the [[King]]<br>To do me this last rite. |
 | CAPUTIUS | By heaven I will,<br>Or let me lose the fashion of a man. |
-| KATHERINE | I thank you, honest lord. Remember me<br>In all [[Humility|humility]] unto his highness.<br>Say his long trouble now is passing<br>Out of this world. Tell him, in [[Death|death]] I blessed him,<br>For so I will. Mine eyes grow dim. Farewell,<br>My lord. Griffith, farewell.<br>(To her woman)<br>Nay, Patience,<br>You must not leave me yet. I must to bed.<br>Call in more women. When I am dead, good wench,<br>Let me be used with [[Honour|honour]]. Strew me over<br>With maiden [[Flowers|flowers]], that all the world may know<br>I was a chaste wife to my [[Grave|grave]]. Embalm me,<br>Then lay me forth. Although unqueened, yet like<br>A [[Queen|queen]] and daughter to a [[King|king]] inter me.<br>I can no more. |
+| KATHERINE | I thank you, honest lord. Remember me<br>In all [[Humility\|humility]] unto his highness.<br>Say his long trouble now is passing<br>Out of this world. Tell him, in [[Death\|death]] I blessed him,<br>For so I will. Mine eyes grow dim. Farewell,<br>My lord. Griffith, farewell.<br>(To her woman)<br>Nay, Patience,<br>You must not leave me yet. I must to bed.<br>Call in more women. When I am dead, good wench,<br>Let me be used with [[Honour\|honour]]. Strew me over<br>With maiden [[Flowers\|flowers]], that all the world may know<br>I was a chaste wife to my [[Grave\|grave]]. Embalm me,<br>Then lay me forth. Although unqueened, yet like<br>A [[Queen\|queen]] and daughter to a [[King\|king]] inter me.<br>I can no more. |
 | *(didascalia)* | Exeunt Caputius and Griffith at one door; |
 | *(didascalia)* | Patience leading Katherine at another |
 
 ### Atto 5, Scena 1
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter at one door Gardiner, Bishop of Winchester; before him, a Page with a torch |
-| GARDINER | It’s one o’[[Clock|clock]], boy, is’t not? |
+| GARDINER | It’s one o’[[Clock\|clock]], boy, is’t not? |
 | PAGE | It hath struck. |
-| GARDINER | These should be hours for necessities,<br>Not for delights; times to repair our [[Nature|nature]]<br>With comforting repose, and not for us<br>To waste these times. |
+| GARDINER | These should be hours for necessities,<br>Not for delights; times to repair our [[Nature\|nature]]<br>With comforting repose, and not for us<br>To waste these times. |
 | *(didascalia)* | Enter at another door Sir Thomas Lovell, meeting them |
-| GARDINER | Good hour of [[Night|night]], Sir Thomasl<br>Whither so late? |
+| GARDINER | Good hour of [[Night\|night]], Sir Thomasl<br>Whither so late? |
 | LOVELY | Came you from the [[King]], my lord? |
 | GARDINER | I did, Sir Thomas, and left him at primero<br>With the [[Duke of Suffolk]]. |
 | LOVELL | I must to him too,<br>Before he go to bed. I’ll take my leave. |
-| GARDINER | Not yet, Sir Thomas Lovell—what’s the matter?<br>It seems you are in haste. An if there be<br>No great offence belongs to’t, give your friend<br>Some touch of your late business. Affairs that walk,<br>As they say spirits do, at midnight, have<br>In them a wilder [[Nature|nature]] than the business<br>That seeks dispatch by day. |
-| LOVELL | My lord, I [[Love|love]] you,<br>And durst commend a secret to your ear<br>Much weightier than this work. The [[Queen]]’s in labour—<br>They say in great extremity—and feared<br>She’ll with the labour end. |
-| GARDINER | The fruit she goes with<br>I pray for heartily, that it may find<br>Good [[Time|time]], and live. But, for the stock, Sir Thomas,<br>I wish it grubbed up now. |
-| LOVELL | Methinks I could<br>Cry the amen, and yet my [[Conscience|conscience]] says<br>She’s a good creature and, sweet lady, does<br>Deserve our better wishes. |
-| GARDINER | But sir, sir,<br>Hear me, Sir Thomas. You’re a gentleman<br>Of mine own way. I know you wise, religious.<br>And let me tell you, it will ne’er be [[Well|well]]—<br>’Twill not, Sir Thomas Lovell, take’t of me—<br>Till [[Cranmer]], Cromwell—her two hands—and she,<br>[[Sleep]] in their graves. |
-| LOVELL | Now, sir, you speak of two<br>The most remarked i‘th’ kingdom. As for Cromwell,<br>Beside that of the [[Jewel]] [[house|House]] is made Master<br>O’th’ Rolls and the [[King]]’s secretary. Further, sir,<br>Stands in the gap and trade of more preferments<br>With which the [[Time|time]] will load him. Th’Archbishop<br>Is the [[King]]’s hand and tongue, and who dare speak<br>One syllable against him? |
-| GARDINER | Yes, yes, Sir Thomas—<br>There are that dare, and I myself have ventured<br>To speak my mind of him, and, indeed, this day,<br>Sir—I may tell it you, I think—I have<br>Incensed the lords o’th’ Council that he is—<br>For so I know he is, they know he is—<br>A most arch heretic, a pestilence<br>That does infect the land; with which they, moved,<br>Have broken with the [[King]], who hath so far<br>Given ear to our complaint, of his great grace<br>And princely care, foreseeing those fell mischiefs<br>Our reasons laid before him, hath commanded so<br>Tomorrow morning to the Council board<br>He be convented. He’s a rank weed, Sir Thomas,<br>And we must root him out. From your affairs<br>I hinder you too long. Good [[Night|night]], Sir Thomas. |
+| GARDINER | Not yet, Sir Thomas Lovell—what’s the matter?<br>It seems you are in haste. An if there be<br>No great offence belongs to’t, give your friend<br>Some touch of your late business. Affairs that walk,<br>As they say spirits do, at midnight, have<br>In them a wilder [[Nature\|nature]] than the business<br>That seeks dispatch by day. |
+| LOVELL | My lord, I [[Love\|love]] you,<br>And durst commend a secret to your ear<br>Much weightier than this work. The [[Queen]]’s in labour—<br>They say in great extremity—and feared<br>She’ll with the labour end. |
+| GARDINER | The fruit she goes with<br>I pray for heartily, that it may find<br>Good [[Time\|time]], and live. But, for the stock, Sir Thomas,<br>I wish it grubbed up now. |
+| LOVELL | Methinks I could<br>Cry the amen, and yet my [[Conscience\|conscience]] says<br>She’s a good creature and, sweet lady, does<br>Deserve our better wishes. |
+| GARDINER | But sir, sir,<br>Hear me, Sir Thomas. You’re a gentleman<br>Of mine own way. I know you wise, religious.<br>And let me tell you, it will ne’er be [[Well\|well]]—<br>’Twill not, Sir Thomas Lovell, take’t of me—<br>Till [[Cranmer]], Cromwell—her two hands—and she,<br>[[Sleep]] in their graves. |
+| LOVELL | Now, sir, you speak of two<br>The most remarked i‘th’ kingdom. As for Cromwell,<br>Beside that of the [[Jewel]] [[house\|House]] is made Master<br>O’th’ Rolls and the [[King]]’s secretary. Further, sir,<br>Stands in the gap and trade of more preferments<br>With which the [[Time\|time]] will load him. Th’Archbishop<br>Is the [[King]]’s hand and tongue, and who dare speak<br>One syllable against him? |
+| GARDINER | Yes, yes, Sir Thomas—<br>There are that dare, and I myself have ventured<br>To speak my mind of him, and, indeed, this day,<br>Sir—I may tell it you, I think—I have<br>Incensed the lords o’th’ Council that he is—<br>For so I know he is, they know he is—<br>A most arch heretic, a pestilence<br>That does infect the land; with which they, moved,<br>Have broken with the [[King]], who hath so far<br>Given ear to our complaint, of his great grace<br>And princely care, foreseeing those fell mischiefs<br>Our reasons laid before him, hath commanded so<br>Tomorrow morning to the Council board<br>He be convented. He’s a rank weed, Sir Thomas,<br>And we must root him out. From your affairs<br>I hinder you too long. Good [[Night\|night]], Sir Thomas. |
 | LOVELL | Many good nights, my lord; I rest your servant. |
 | *(didascalia)* | Exeunt Gardiner and Page at one door |
 | *(didascalia)* | Enter [[King]] Henry and Suffolk at another door |
-| [[King|KING]] HENRY | (to Suffolk)<br>Charles, I will play no more tonight.<br>My mind’s not on’t. You are too hard for me. |
+| [[King\|KING]] HENRY | (to Suffolk)<br>Charles, I will play no more tonight.<br>My mind’s not on’t. You are too hard for me. |
 | SUFFOLK | Sir, I did never win of you before. |
-| [[King|KING]] HENRY | But little, Charles,<br>Nor shall not when my fancy’s on my play.<br>Now, Lovell, from the [[Queen]] what is the news? |
+| [[King\|KING]] HENRY | But little, Charles,<br>Nor shall not when my fancy’s on my play.<br>Now, Lovell, from the [[Queen]] what is the news? |
 | LOVELL | I could not personally deliver to her<br>What you commanded me, but by her woman<br>I sent your message, who returned her thanks<br>In the great’st humbleness, and desired your highness<br>Most heartily to pray for her. |
-| [[King|KING]] HENRY | What sayst thou? Ha?<br>To pray for her? What, is she crying out? |
-| LOVELL | So said her woman, and that her suffrance made<br>Almost each pang a [[Death|death]]. |
-| [[King|KING]] HENRY | Alas, good lady. |
+| [[King\|KING]] HENRY | What sayst thou? Ha?<br>To pray for her? What, is she crying out? |
+| LOVELL | So said her woman, and that her suffrance made<br>Almost each pang a [[Death\|death]]. |
+| [[King\|KING]] HENRY | Alas, good lady. |
 | SUFFOLK | God safely quit her of her burden, and<br>With gentle travail, to the gladding of<br>Your highness with an heir. |
-| [[King|KING]] HENRY | ’Tis midnight, Charles.<br>Prithee to bed, and in thy prayers remember<br>Th’estate of my poor [[Queen|queen]]. Leave me [[Alone|alone]],<br>For I must think of that which company<br>Would not be friendly to. |
-| SUFFOLK | I wish your highness<br>A quiet [[Night|night]], and my good mistress will<br>Remember in my prayers. |
-| [[King|KING]] HENRY | Charles, good [[Night|night]]. |
+| [[King\|KING]] HENRY | ’Tis midnight, Charles.<br>Prithee to bed, and in thy prayers remember<br>Th’estate of my poor [[Queen\|queen]]. Leave me [[Alone\|alone]],<br>For I must think of that which company<br>Would not be friendly to. |
+| SUFFOLK | I wish your highness<br>A quiet [[Night\|night]], and my good mistress will<br>Remember in my prayers. |
+| [[King\|KING]] HENRY | Charles, good [[Night\|night]]. |
 | *(didascalia)* | Exit Suffolk |
 | *(didascalia)* | Enter Sir Anthony Denny |
-| [[King|KING]] HENRY | [[Well]], sir, what follows? |
+| [[King\|KING]] HENRY | [[Well]], sir, what follows? |
 | DENNY | Sir, I have brought my lord the Archbishop,<br>As you commanded me. |
-| [[King|KING]] HENRY | Ha, Canterbury? |
+| [[King\|KING]] HENRY | Ha, Canterbury? |
 | DENNY | Ay, my good lord. |
-| [[King|KING]] HENRY | ’Tis true—where is he, Denny? |
+| [[King\|KING]] HENRY | ’Tis true—where is he, Denny? |
 | DENNY | He attends your highness’ pleasure. |
-| [[King|KING]] HENRY | Bring him to us. |
+| [[King\|KING]] HENRY | Bring him to us. |
 | *(didascalia)* | Exit Denny |
 | LOVELL. | (aside)<br>This is about that which the Bishop spake.<br>I am happily come hither. |
 | *(didascalia)* | Enter |
 | LOVELL. | [[Cranmer]]<br>the Archbishop, ushered by<br>Denny |
-| [[King|KING]] HENRY | (to Lovell and Denny) Avoid the gallery. |
+| [[King\|KING]] HENRY | (to Lovell and Denny) Avoid the gallery. |
 | *(didascalia)* | Denny begins to depart. Lovell seems to stay |
-| [[King|KING]] HENRY | Ha? I have said. Be gone.<br>What? |
+| [[King\|KING]] HENRY | Ha? I have said. Be gone.<br>What? |
 | *(didascalia)* | Exeunt Lovell and Denny |
-| [[Cranmer|CRANMER]] | (aside)<br>I am fearful. Wherefore frowns he thus?<br>’Tis his aspect of terror. All’s not [[Well|well]]. |
-| [[King|KING]] HENRY | How now, my lord? You do [[Desire|desire]] to know<br>Wherefore I sent for you. |
-| [[Cranmer|CRANMER]] | (kneeling) It is my duty<br>T’attend your highness’ pleasure. |
-| [[King|KING]] HENRY | Pray you, arise,<br>My good and gracious Lord of Canterbury.<br>Come, you and I must walk a turn together.<br>I have news to tell you. Come, come—give me your<br>hand. |
+| [[Cranmer\|CRANMER]] | (aside)<br>I am fearful. Wherefore frowns he thus?<br>’Tis his aspect of terror. All’s not [[Well\|well]]. |
+| [[King\|KING]] HENRY | How now, my lord? You do [[Desire\|desire]] to know<br>Wherefore I sent for you. |
+| [[Cranmer\|CRANMER]] | (kneeling) It is my duty<br>T’attend your highness’ pleasure. |
+| [[King\|KING]] HENRY | Pray you, arise,<br>My good and gracious Lord of Canterbury.<br>Come, you and I must walk a turn together.<br>I have news to tell you. Come, come—give me your<br>hand. |
 | *(didascalia)* | [[Cranmer]] rises. They walk |
-| [[King|KING]] HENRY | Ah, my good lord, I grieve at what I speak,<br>And am right sorry to repeat what follows.<br>I have, and most unwillingly, of late<br>Heard many grievous—I do say, my lord,<br>Grievous—complaints of you, which, being considered,<br>Have moved us and our Council that you shall<br>This morning come before us, where I know<br>You cannot with such [[Freedom|freedom]] purge yourself<br>But that, till further trial in those charges<br>Which will require your answer, you must take<br>Your patience to you, and be [[Well|well]] contented<br>To make your [[house]] our Tower. You a brother of us,<br>It fits we thus proceed, or else no witness<br>Would come against you. |
-| [[Cranmer|CRANMER]] | (kneeling)<br>I humbly thank your highness, And am right glad to catch this good occasion<br>Most throughly to be winnowed, where my chaff<br>And corn shall fly asunder. For I know<br>There’s none stands under more calumnious tongues<br>Than I myself, poor man. |
-| [[King|KING]] HENRY | Stand up, good Canterbury.<br>Thy [[Truth|truth]] and thy integrity is rooted<br>In us, thy friend. Give me thy hand. Stand up.<br>Prithee, let’s walk.<br>[[Cranmer]] rises. They walk<br>Now, by my halidom,<br>What manner of man are you? My lord, I looked<br>You would have given me your petition that<br>I should have ta’en some pains to bring together<br>Yourself and your accusers, and to have heard you<br>Without indurance further. |
-| [[Cranmer|CRANMER]] | Most dread liege, The good I stand on is my [[Truth|truth]] and honesty.<br>If they shall fail, I with mine enemies<br>Will triumph o’er my person, which I weigh not,<br>Being of those virtues vacant. I [[Fear|fear]] nothing<br>What can be said against me. |
-| [[King|KING]] HENRY | Know you not<br>How your state stands i’th’ world, with the whole<br>world?<br>Your enemies are many, and not small; their practices<br>Must bear the same proportion, and not ever<br>The justice and the [[Truth|truth]] o’th’ question carries<br>The dew o’th’ verdict with it. At what ease<br>Might corrupt minds procure knaves as corrupt<br>To swear against you? Such things have been<br>done.<br>You are potently opposed, and with a malice<br>Of as great size. Ween you of better luck,<br>I mean in perjured witness, than your master,<br>Whose minister you are, whiles here he lived<br>Upon this naughty earth? Go to, go to.<br>You take a precipice for no leap of danger,<br>And woo your own destruction. |
-| [[Cranmer|CRANMER]] | God and your majesty<br>Protect mine [[innocence]], or I fall into<br>The trap is laid for me. |
-| [[King|KING]] HENRY | Be of good cheer. They shall no more prevail than we give way to.<br>Keep comfort to you, and this morning see<br>You do appear before them. If they shall chance,<br>In charging you with matters, to commit you,<br>The best persuasions to the contrary<br>Fail not to use, and with what vehemency<br>Th’occasion shall instruct you. If entreaties |
+| [[King\|KING]] HENRY | Ah, my good lord, I grieve at what I speak,<br>And am right sorry to repeat what follows.<br>I have, and most unwillingly, of late<br>Heard many grievous—I do say, my lord,<br>Grievous—complaints of you, which, being considered,<br>Have moved us and our Council that you shall<br>This morning come before us, where I know<br>You cannot with such [[Freedom\|freedom]] purge yourself<br>But that, till further trial in those charges<br>Which will require your answer, you must take<br>Your patience to you, and be [[Well\|well]] contented<br>To make your [[house]] our Tower. You a brother of us,<br>It fits we thus proceed, or else no witness<br>Would come against you. |
+| [[Cranmer\|CRANMER]] | (kneeling)<br>I humbly thank your highness, And am right glad to catch this good occasion<br>Most throughly to be winnowed, where my chaff<br>And corn shall fly asunder. For I know<br>There’s none stands under more calumnious tongues<br>Than I myself, poor man. |
+| [[King\|KING]] HENRY | Stand up, good Canterbury.<br>Thy [[Truth\|truth]] and thy integrity is rooted<br>In us, thy friend. Give me thy hand. Stand up.<br>Prithee, let’s walk.<br>[[Cranmer]] rises. They walk<br>Now, by my halidom,<br>What manner of man are you? My lord, I looked<br>You would have given me your petition that<br>I should have ta’en some pains to bring together<br>Yourself and your accusers, and to have heard you<br>Without indurance further. |
+| [[Cranmer\|CRANMER]] | Most dread liege, The good I stand on is my [[Truth\|truth]] and honesty.<br>If they shall fail, I with mine enemies<br>Will triumph o’er my person, which I weigh not,<br>Being of those virtues vacant. I [[Fear\|fear]] nothing<br>What can be said against me. |
+| [[King\|KING]] HENRY | Know you not<br>How your state stands i’th’ world, with the whole<br>world?<br>Your enemies are many, and not small; their practices<br>Must bear the same proportion, and not ever<br>The justice and the [[Truth\|truth]] o’th’ question carries<br>The dew o’th’ verdict with it. At what ease<br>Might corrupt minds procure knaves as corrupt<br>To swear against you? Such things have been<br>done.<br>You are potently opposed, and with a malice<br>Of as great size. Ween you of better luck,<br>I mean in perjured witness, than your master,<br>Whose minister you are, whiles here he lived<br>Upon this naughty earth? Go to, go to.<br>You take a precipice for no leap of danger,<br>And woo your own destruction. |
+| [[Cranmer\|CRANMER]] | God and your majesty<br>Protect mine [[innocence]], or I fall into<br>The trap is laid for me. |
+| [[King\|KING]] HENRY | Be of good cheer. They shall no more prevail than we give way to.<br>Keep comfort to you, and this morning see<br>You do appear before them. If they shall chance,<br>In charging you with matters, to commit you,<br>The best persuasions to the contrary<br>Fail not to use, and with what vehemency<br>Th’occasion shall instruct you. If entreaties |
 | *(didascalia)* | Will render you no remedy, giving his ring this ring |
-| [[King|KING]] HENRY | Deliver them, and your appeal to us<br>There make before them.<br>[[Cranmer]] weeps<br>Look, the good man weeps.<br>He’s honest, on mine [[Honour|honour]]. God’s blest mother,<br>I swear he is true-hearted, and a [[Soul|soul]]<br>None better in my kingdom. Get you gone,<br>And do as I have bid you. |
+| [[King\|KING]] HENRY | Deliver them, and your appeal to us<br>There make before them.<br>[[Cranmer]] weeps<br>Look, the good man weeps.<br>He’s honest, on mine [[Honour\|honour]]. God’s blest mother,<br>I swear he is true-hearted, and a [[Soul\|soul]]<br>None better in my kingdom. Get you gone,<br>And do as I have bid you. |
 | *(didascalia)* | Exit [[Cranmer]] |
-| [[King|KING]] HENRY | He has strangled<br>His language in his [[Tears|tears]]. |
+| [[King\|KING]] HENRY | He has strangled<br>His language in his [[Tears\|tears]]. |
 | *(didascalia)* | Enter the Old Lady |
 | *(didascalia)* | LOVELL (within) Come back! What mean you? |
 | *(didascalia)* | Enter Lovell, following her |
 | OLD LADY | I’ll not come back. The tidings that I bring<br>Will make my boldness manners. (To the [[King]]) Now<br>good angels<br>Fly o’er thy royal head, and shade thy person<br>Under their blessed wings. |
-| [[King|KING]] HENRY | Now by thy looks<br>I guess thy message. Is the [[Queen]] delivered?<br>Say, ‘Ay, and of a boy.’ |
-| OLD LADY | Ay, ay, my liege,<br>And of a lovely boy. The God of heaven<br>Both now and ever bless her! ’Tis a girl<br>Promises boys hereafter. Sir, your [[Queen|queen]]<br>Desires your visitation, and to be<br>Acquainted with this stranger. ’Tis as like you<br>As cherry is to cherry. |
-| [[King|KING]] HENRY | Lovell— |
+| [[King\|KING]] HENRY | Now by thy looks<br>I guess thy message. Is the [[Queen]] delivered?<br>Say, ‘Ay, and of a boy.’ |
+| OLD LADY | Ay, ay, my liege,<br>And of a lovely boy. The God of heaven<br>Both now and ever bless her! ’Tis a girl<br>Promises boys hereafter. Sir, your [[Queen\|queen]]<br>Desires your visitation, and to be<br>Acquainted with this stranger. ’Tis as like you<br>As cherry is to cherry. |
+| [[King\|KING]] HENRY | Lovell— |
 | LOVELL | Sir? |
-| [[King|KING]] HENRY | Give her an hundred marks. I’ll to the [[Queen]]. |
+| [[King\|KING]] HENRY | Give her an hundred marks. I’ll to the [[Queen]]. |
 | *(didascalia)* | Exit |
 | OLD LADY | An hundred marks? By this light, I’ll ha’ more.<br>An ordinary groom is for such payment.<br>I will have more, or scold it out of him.<br>Said I for this the girl was like to him? I’ll<br>Have more, or else unsay’t; and now, while ’tis hot,<br>I’ll put it to the issue. |
 | *(didascalia)* | Exeunt |
 | *(didascalia)* | 5.2 Enter pursuivants, pages, footboys, and grooms. Then enter [[Cranmer]], Archbishop of Canterbury |
-| [[Cranmer|CRANMER]] | I [[Hope|hope]] I am not too late, and yet the gentleman<br>That was sent to me from the council prayed me<br>To make great haste. All fast? What means this?<br>(Calling at the door) Ho!<br>Who waits there? |
+| [[Cranmer\|CRANMER]] | I [[Hope\|hope]] I am not too late, and yet the gentleman<br>That was sent to me from the council prayed me<br>To make great haste. All fast? What means this?<br>(Calling at the door) Ho!<br>Who waits there? |
 | *(didascalia)* | Enter |
-| [[Cranmer|CRANMER]] | a Doorkeeper<br>Sure you know me? |
+| [[Cranmer\|CRANMER]] | a Doorkeeper<br>Sure you know me? |
 | DOORKEEPER | Yes, my lord,<br>But yet I cannot help you. |
-| [[Cranmer|CRANMER]] | Why? |
+| [[Cranmer\|CRANMER]] | Why? |
 | *(didascalia)* | Enter |
-| [[Cranmer|CRANMER]] | Doctor Butts, passing over the |
+| [[Cranmer\|CRANMER]] | Doctor Butts, passing over the |
 | *(didascalia)* | stage |
 | DOORKEEPER | Your grace must wait till you be called for. |
-| [[Cranmer|CRANMER]] | So. |
+| [[Cranmer\|CRANMER]] | So. |
 | BUTTS | (aside)<br>This is a piece of malice. I am glad<br>I came this way so happily. The [[King]]<br>Shall understand it presently. |
 | *(didascalia)* | Exit |
-| [[Cranmer|CRANMER]] | (aside)<br>‘Tis Butts, The [[King]]’s physician. As he passed along<br>How earnestly he cast his eyes upon me!<br>Pray heaven he found not my disgrace. For certain<br>This is of purpose laid by some that hate me—<br>God turn their hearts, I never sought their malice—<br>To quench mine [[Honour|honour]]. They would shame to make me<br>Wait else at door, a fellow Councillor,<br>’Mong boys, grooms, and lackeys. But their pleasures<br>Must be fulfilled, and I attend with patience. |
-| *(didascalia)* | Enter [[King]] Henry and Doctor Butts at a [[Window|window]], above |
+| [[Cranmer\|CRANMER]] | (aside)<br>‘Tis Butts, The [[King]]’s physician. As he passed along<br>How earnestly he cast his eyes upon me!<br>Pray heaven he found not my disgrace. For certain<br>This is of purpose laid by some that hate me—<br>God turn their hearts, I never sought their malice—<br>To quench mine [[Honour\|honour]]. They would shame to make me<br>Wait else at door, a fellow Councillor,<br>’Mong boys, grooms, and lackeys. But their pleasures<br>Must be fulfilled, and I attend with patience. |
+| *(didascalia)* | Enter [[King]] Henry and Doctor Butts at a [[Window\|window]], above |
 | BUTTS | I’ll show your grace the strangest sight— |
-| [[King|KING]] HENRY | What’s that, Butts? |
+| [[King\|KING]] HENRY | What’s that, Butts? |
 | BUTTS | I think your highness saw this many a day. |
-| [[King|KING]] HENRY | [[Body]] o’me, where is it? |
+| [[King\|KING]] HENRY | [[Body]] o’me, where is it? |
 | BUTTS | (pointing at [[Cranmer]], below)<br>There, my lord. The high promotion of his grace of Canterbury,<br>Who holds his state at door, ’mongst pursuivants,<br>Pages, and footboys. |
-| [[King|KING]] HENRY | Ha? ‘Tis he indeed.<br>Is this the [[Honour|honour]] they do one another?<br>’Tis [[Well|well]] there’s one above ’em yet. I had thought<br>They had parted so much honesty among ’em—<br>At least good manners—as not thus to suffer<br>A man of his place and so near our favour<br>To [[Dance|dance]] attendance on their lordships’ pleasures,<br>And at the door, too, like a post with packets!<br>By holy Mary, Butts, there’s knavery!<br>Let ’em [[Alone|alone]], and draw the curtain close.<br>We shall hear more anon. |
+| [[King\|KING]] HENRY | Ha? ‘Tis he indeed.<br>Is this the [[Honour\|honour]] they do one another?<br>’Tis [[Well\|well]] there’s one above ’em yet. I had thought<br>They had parted so much honesty among ’em—<br>At least good manners—as not thus to suffer<br>A man of his place and so near our favour<br>To [[Dance\|dance]] attendance on their lordships’ pleasures,<br>And at the door, too, like a post with packets!<br>By holy Mary, Butts, there’s knavery!<br>Let ’em [[Alone\|alone]], and draw the curtain close.<br>We shall hear more anon. |
 | *(didascalia)* | [[Cranmer]] and the doorkeeper stand to one side. Exeunt the lackeys Above, Butts partly draws the curtain close. Below, a council table is brought in along with chairs and stools, and placed under the cloth of state. Enter the Lord Chancellor, who places himself at the upper end of the table, on the left hand, leaving a seat void above him at the table’s head as for Canterbury’s seat. The [[Duke of Suffolk]], the Duke of Norfolk, the [[Earl of Surrey]], the Lord Chamberlain, and Gardiner, the Bishop of Winchester, seat themselves in order on each side of the table. Cromwell sits at the lower end, and acts as secretary |
 | LORD CHANCELLOR | (to Cromwell)<br>Speak to the business, master secretary.<br>Why are we met in council? |
 | CROMWELL | Please your honours,<br>The chief cause concerns his grace of Canterbury. |
@@ -2302,14 +1154,14 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | LORD CHANCELLOR | Let him come in. |
 | DOORKEEPER | (to [[Cranmer]]) Your grace may enter now.<br>[[Cranmer]] approaches the Council table |
 | LORD CHANCELLOR | My good lord Archbishop, I’m very sorry<br>To sit here at this present and behold<br>That chair stand empty, but we all are men<br>In our own natures frail, and capable<br>Of our flesh; few are angels; out of which frailty<br>And want of wisdom, you, that best should teach us,<br>Have misdemeaned yourself, and not a little,<br>Toward the [[King]] first, then his laws, in filling<br>The whole realm, by your teaching and your chaplains’—<br>For so we are informed—with new opinions,<br>Diverse and dangerous, which are heresies,<br>And, not reformed, may prove pernicious. |
-| GARDINER | Which [[Reformation|reformation]] must be sudden too,<br>My noble lords; for those that tame wild horses<br>Pace ’em not in their hands to make ’em gentle,<br>But stop their mouths with stubborn bits and spur ’em<br>Till they obey the manège. If we suffer,<br>Out of our easiness and childish pity<br>To one man’s [[Honour|honour]], this contagious sickness,<br>Farewell all physic—and what follows then?<br>Commotions, uproars—with a general taint<br>Of the whole state, as of late days our neighbours,<br>The upper [[Germany]], can dearly witness,<br>Yet freshly pitied in our memories. 65 |
-| [[Cranmer|CRANMER]] | My good lords, hitherto in all the progress<br>Both of my life and office, I have laboured,<br>And with no little study, that my teaching<br>And the strong course of my authority<br>Might go one way, and safely; and the end<br>Was ever to do [[Well|well]]. Nor is there living—<br>I speak it with a single heart, my lords—<br>A man that more detests, more stirs against,<br>Both in his private [[Conscience|conscience]] and his place,<br>Defacers of a public peace than I do.<br>Pray heaven the [[King]] may never find a heart<br>With less allegiance in it. Men that make<br>Envy and crooked malice nourishment<br>Dare bite the best. I do beseech your lordships<br>That, in this case of justice, my accusers,<br>Be what they will, may stand forth face to face,<br>And freely urge against me. |
+| GARDINER | Which [[Reformation\|reformation]] must be sudden too,<br>My noble lords; for those that tame wild horses<br>Pace ’em not in their hands to make ’em gentle,<br>But stop their mouths with stubborn bits and spur ’em<br>Till they obey the manège. If we suffer,<br>Out of our easiness and childish pity<br>To one man’s [[Honour\|honour]], this contagious sickness,<br>Farewell all physic—and what follows then?<br>Commotions, uproars—with a general taint<br>Of the whole state, as of late days our neighbours,<br>The upper [[Germany]], can dearly witness,<br>Yet freshly pitied in our memories. 65 |
+| [[Cranmer\|CRANMER]] | My good lords, hitherto in all the progress<br>Both of my life and office, I have laboured,<br>And with no little study, that my teaching<br>And the strong course of my authority<br>Might go one way, and safely; and the end<br>Was ever to do [[Well\|well]]. Nor is there living—<br>I speak it with a single heart, my lords—<br>A man that more detests, more stirs against,<br>Both in his private [[Conscience\|conscience]] and his place,<br>Defacers of a public peace than I do.<br>Pray heaven the [[King]] may never find a heart<br>With less allegiance in it. Men that make<br>Envy and crooked malice nourishment<br>Dare bite the best. I do beseech your lordships<br>That, in this case of justice, my accusers,<br>Be what they will, may stand forth face to face,<br>And freely urge against me. |
 | SUFFOLK | Nay, my lord,<br>That cannot be. You are a Councillor,<br>And by that virtue no man dare accuse you. |
-| GARDINER | (to [[Cranmer]])<br>My lord, because we have business of more moment,<br>We will be short with you. ’Tis his highness’ pleasure<br>And our consent, for better trial of you,<br>From hence you be committed to the Tower<br>Where, being but a private man again,<br>You shall know many dare accuse you boldly,<br>More than, I [[Fear|fear]], you are provided for. |
-| [[Cranmer|CRANMER]] | Ah, my good lord of Winchester, I thank you.<br>You are always my good friend. If your will pass,<br>I shall both find your lordship judge and juror,<br>You are so merciful. I see your end—<br>’Tis my undoing. [[Love]] and meekness, lord,<br>Become a churchman better than [[Ambition|ambition]].<br>Win straying souls with modesty again;<br>Cast none away. That I shall clear myself,<br>Lay all the weight ye can upon my patience,<br>I make as little [[Doubt|doubt]] as you do [[Conscience|conscience]]<br>In doing daily wrongs. I could say more,<br>But reverence to your calling makes me modest. |
-| GARDINER | My lord, my lord—you are a sectary,<br>That’s the plain [[Truth|truth]]. Your painted gloss discovers,<br>To men that understand you, words and weakness. |
+| GARDINER | (to [[Cranmer]])<br>My lord, because we have business of more moment,<br>We will be short with you. ’Tis his highness’ pleasure<br>And our consent, for better trial of you,<br>From hence you be committed to the Tower<br>Where, being but a private man again,<br>You shall know many dare accuse you boldly,<br>More than, I [[Fear\|fear]], you are provided for. |
+| [[Cranmer\|CRANMER]] | Ah, my good lord of Winchester, I thank you.<br>You are always my good friend. If your will pass,<br>I shall both find your lordship judge and juror,<br>You are so merciful. I see your end—<br>’Tis my undoing. [[Love]] and meekness, lord,<br>Become a churchman better than [[Ambition\|ambition]].<br>Win straying souls with modesty again;<br>Cast none away. That I shall clear myself,<br>Lay all the weight ye can upon my patience,<br>I make as little [[Doubt\|doubt]] as you do [[Conscience\|conscience]]<br>In doing daily wrongs. I could say more,<br>But reverence to your calling makes me modest. |
+| GARDINER | My lord, my lord—you are a sectary,<br>That’s the plain [[Truth\|truth]]. Your painted gloss discovers,<br>To men that understand you, words and weakness. |
 | CROMWELL | (to Gardiner)<br>My lord of Winchester, you’re a little,<br>By your good favour, too sharp. Men so noble,<br>However faulty, yet should find respect<br>For what they have been. ’Tis a cruelty<br>To load a falling man. |
-| GARDINER | Good master secretary,<br>I cry your [[Honour|honour]] [[Mercy|mercy]]. You may worst<br>Of all this table say so. |
+| GARDINER | Good master secretary,<br>I cry your [[Honour\|honour]] [[Mercy\|mercy]]. You may worst<br>Of all this table say so. |
 | CROMWELL | Why, my lord? |
 | GARDINER | Do not I know you for a favourer<br>Of this new sect? Ye are not sound. |
 | CROMWELL | Not sound? |
@@ -2322,58 +1174,58 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | CROMWELL | And I. |
 | LORD CHANCELLOR | (to [[Cranmer]])<br>Then thus for you, my lord. It stands agreed,<br>I take it, by all voices, that forthwith<br>You be conveyed to th’ Tower a prisoner,<br>There to remain till the [[King]]’s further pleasure<br>Be known unto us. Are you all agreed, lords? |
 | ALL THE COUNCIL | We are. |
-| [[Cranmer|CRANMER]] | Is there no other way of [[Mercy|mercy]],<br>But I must needs to th’ Tower, my lords? |
+| [[Cranmer\|CRANMER]] | Is there no other way of [[Mercy\|mercy]],<br>But I must needs to th’ Tower, my lords? |
 | GARDINER | What other<br>Would you expect? You are strangely troublesome.<br>Let some o’th’ guard be ready there. |
 | *(didascalia)* | Enter the guard |
-| [[Cranmer|CRANMER]] | For me?<br>Must I go like a traitor thither? |
+| [[Cranmer\|CRANMER]] | For me?<br>Must I go like a traitor thither? |
 | GARDINER | (to the guard)<br>Receive him,<br>And see him safe i’th’ Tower. |
-| [[Cranmer|CRANMER]] | Stay, good my lords.<br>I have a little yet to say. Look there, my lords—<br>He shows the [[King]]’s ring<br>By virtue of that ring I take my cause<br>Out of the grips of cruel men, and give it<br>To a most noble judge, the [[King]] my master. |
+| [[Cranmer\|CRANMER]] | Stay, good my lords.<br>I have a little yet to say. Look there, my lords—<br>He shows the [[King]]’s ring<br>By virtue of that ring I take my cause<br>Out of the grips of cruel men, and give it<br>To a most noble judge, the [[King]] my master. |
 | LORD CHAMBERLAIN | This is the [[King]]’s ring. |
 | SURREY | ’Tis no counterfeit. |
 | SUFFOLK | ’Tis the right ring, by heav’n. I told ye all<br>When we first put this dangerous stone a-[[rolling]]<br>’Twould fall upon ourselves. |
 | NORFOLK | Do you think, my lords,<br>The [[King]] will suffer but the little finger<br>Of this man to be vexed? |
 | LORD CHAMBERLAIN | ’Tis now too certain.<br>How much more is his life in value with him!<br>Would I were fairly out on’t. |
 | *(didascalia)* | Exit [[King]] with Butts above |
-| CROMWELL | My mind gave me,<br>In seeking tales and informations<br>Against this man, whose honesty the devil<br>And his disciples only envy at,<br>Ye blew the [[Fire|fire]] that burns ye. Now have at ye! |
+| CROMWELL | My mind gave me,<br>In seeking tales and informations<br>Against this man, whose honesty the devil<br>And his disciples only envy at,<br>Ye blew the [[Fire\|fire]] that burns ye. Now have at ye! |
 | *(didascalia)* | Enter, below, [[King]] Henry frowning on them. He takes his seat |
-| GARDINER | Dread sovereign, how much are we bound to heaven<br>In daily thanks, that gave us such a prince,<br>Not only good and wise, but most religious.<br>One that in all obedience makes the church<br>The chief aim of his [[Honour|honour]], and, to strengthen<br>That holy duty, out of dear respect,<br>His royal [[Self|self]] in judgement comes to hear<br>The cause betwixt her and this great offender. |
-| [[King|KING]] HENRY | You were ever good at sudden commendations,<br>Bishop of Winchester. But know I come not<br>To hear such flattery now; and in my presence<br>They are too thin and base to hide offences.<br>To me you cannot reach. You play the spaniel,<br>And think with wagging of your tongue to win me.<br>But whatsoe’er thou tak’st me for, I’m sure<br>Thou hast a cruel [[Nature|nature]] and a bloody.<br>(To [[Cranmer]]) Good man, sit down.<br>[[Cranmer]] takes his seat at the head of the Council table<br>Now let me see the proudest,<br>He that dares most, but wag his finger at thee.<br>By all that’s holy, he had better starve<br>Than but once think this place becomes thee not. |
+| GARDINER | Dread sovereign, how much are we bound to heaven<br>In daily thanks, that gave us such a prince,<br>Not only good and wise, but most religious.<br>One that in all obedience makes the church<br>The chief aim of his [[Honour\|honour]], and, to strengthen<br>That holy duty, out of dear respect,<br>His royal [[Self\|self]] in judgement comes to hear<br>The cause betwixt her and this great offender. |
+| [[King\|KING]] HENRY | You were ever good at sudden commendations,<br>Bishop of Winchester. But know I come not<br>To hear such flattery now; and in my presence<br>They are too thin and base to hide offences.<br>To me you cannot reach. You play the spaniel,<br>And think with wagging of your tongue to win me.<br>But whatsoe’er thou tak’st me for, I’m sure<br>Thou hast a cruel [[Nature\|nature]] and a bloody.<br>(To [[Cranmer]]) Good man, sit down.<br>[[Cranmer]] takes his seat at the head of the Council table<br>Now let me see the proudest,<br>He that dares most, but wag his finger at thee.<br>By all that’s holy, he had better starve<br>Than but once think this place becomes thee not. |
 | SURREY | May it please your grace— |
-| [[King|KING]] HENRY | No, sir, it does not please me!<br>I had thought I had had men of some understanding<br>And wisdom of my Council, but I find none.<br>Was it discretion, lords, to let this man,<br>This good man—few of you deserve that title—<br>This honest man, wait like a lousy footboy<br>At chamber door? And one as great as you are?<br>Why, what a shame was this! Did my commission<br>Bid ye so far forget yourselves? I gave ye<br>Power as he was a Councillor to try him,<br>Not as a groom. There’s some of ye, I see,<br>More out of malice than integrity,<br>Would try him to the utmost, had ye mean;<br>Which ye shall never have while I live. |
-| LORD CHANCELLOR | Thus far,<br>My most dread sovereign, may it like your grace<br>To let my tongue excuse all. What was purposed<br>Concerning his [[Imprisonment|imprisonment]] was rather—<br>If there be [[Faith|faith]] in men—meant for his trial<br>And fair purgation to the world than malice,<br>I’m sure, in me. |
-| [[King|KING]] HENRY | [[Well]], [[Well|well]], my lords—respect him.<br>Take him and use him [[Well|well]], he’s worthy of it.<br>I will say thus much for him—if a prince<br>May be beholden to a subject, I<br>Am for his [[Love|love]] and service so to him.<br>Make me no more ado; but all embrace him.<br>Be friends, for shame, my lords. (To [[Cranmer]]) My lord<br>of Canterbury,<br>I have a suit which you must not deny me:<br>That is a fair young maid that yet wants baptism—<br>You must be godfather, and answer for her. |
-| [[Cranmer|CRANMER]] | The greatest monarch now alive may glory<br>In such an [[Honour|honour]]; how may I deserve it,<br>That am a poor and humble subject to you? |
-| [[King|KING]] HENRY | Come, come, my lord—you’d spare your spoons. You shall have two noble partners with you—the old Duchess of Norfolk and Lady Marquis Dorset. Will these please you?<br>(To Gardiner) Once more, my lord of Winchester, I<br>charge you<br>Embrace and [[Love|love]] this man. |
-| GARDINER | With a true heart<br>And brother-[[Love|love]] I do it. |
+| [[King\|KING]] HENRY | No, sir, it does not please me!<br>I had thought I had had men of some understanding<br>And wisdom of my Council, but I find none.<br>Was it discretion, lords, to let this man,<br>This good man—few of you deserve that title—<br>This honest man, wait like a lousy footboy<br>At chamber door? And one as great as you are?<br>Why, what a shame was this! Did my commission<br>Bid ye so far forget yourselves? I gave ye<br>Power as he was a Councillor to try him,<br>Not as a groom. There’s some of ye, I see,<br>More out of malice than integrity,<br>Would try him to the utmost, had ye mean;<br>Which ye shall never have while I live. |
+| LORD CHANCELLOR | Thus far,<br>My most dread sovereign, may it like your grace<br>To let my tongue excuse all. What was purposed<br>Concerning his [[Imprisonment\|imprisonment]] was rather—<br>If there be [[Faith\|faith]] in men—meant for his trial<br>And fair purgation to the world than malice,<br>I’m sure, in me. |
+| [[King\|KING]] HENRY | [[Well]], [[Well\|well]], my lords—respect him.<br>Take him and use him [[Well\|well]], he’s worthy of it.<br>I will say thus much for him—if a prince<br>May be beholden to a subject, I<br>Am for his [[Love\|love]] and service so to him.<br>Make me no more ado; but all embrace him.<br>Be friends, for shame, my lords. (To [[Cranmer]]) My lord<br>of Canterbury,<br>I have a suit which you must not deny me:<br>That is a fair young maid that yet wants baptism—<br>You must be godfather, and answer for her. |
+| [[Cranmer\|CRANMER]] | The greatest monarch now alive may glory<br>In such an [[Honour\|honour]]; how may I deserve it,<br>That am a poor and humble subject to you? |
+| [[King\|KING]] HENRY | Come, come, my lord—you’d spare your spoons. You shall have two noble partners with you—the old Duchess of Norfolk and Lady Marquis Dorset. Will these please you?<br>(To Gardiner) Once more, my lord of Winchester, I<br>charge you<br>Embrace and [[Love\|love]] this man. |
+| GARDINER | With a true heart<br>And brother-[[Love\|love]] I do it. |
 | *(didascalia)* | Gardiner and [[Cranmer]] embrace |
-| [[Cranmer|CRANMER]] | (weeping)<br>And let heaven<br>Witness how dear I hold this confirmation. |
-| [[King|KING]] HENRY | Good man, those joyful [[Tears|tears]] show thy true heart.<br>The common voice, I see, is verified<br>Of thee which says thus, ‘Do my lord of Canterbury<br>A shrewd turn, and he’s your friend for ever.’<br>Come, lords, we trifle [[Time|time]] away. I long<br>To have this young one made a Christian.<br>As I have made ye one, lords, one remain—<br>So I grow stronger, you more [[Honour|honour]] gain. |
+| [[Cranmer\|CRANMER]] | (weeping)<br>And let heaven<br>Witness how dear I hold this confirmation. |
+| [[King\|KING]] HENRY | Good man, those joyful [[Tears\|tears]] show thy true heart.<br>The common voice, I see, is verified<br>Of thee which says thus, ‘Do my lord of Canterbury<br>A shrewd turn, and he’s your friend for ever.’<br>Come, lords, we trifle [[Time\|time]] away. I long<br>To have this young one made a Christian.<br>As I have made ye one, lords, one remain—<br>So I grow stronger, you more [[Honour\|honour]] gain. |
 | *(didascalia)* | Exeunt |
 
 ### Atto 5, Scena 3
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Noise and tumult within. Enter Porter with rushes and his man with a broken cudgel |
-| PORTER | (to those within)<br>You’ll leave your noise anon, ye rascals. Do you take<br>The [[Court|court]] for [[Paris]] [[Garden]], ye rude slaves?<br>Leave your gaping. |
+| PORTER | (to those within)<br>You’ll leave your noise anon, ye rascals. Do you take<br>The [[Court\|court]] for [[Paris]] [[Garden]], ye rude slaves?<br>Leave your gaping. |
 | ONE | (within)<br>Good master porter, I belong to th’ larder. |
 | PORTER | Belong to th’ gallows, and be hanged, ye rogue!<br>Is this a place to roar in?<br>(To his man)<br>Fetch me a dozen crab-tree staves, and strong ones, |
 | *(didascalia)* | Raising his rushes These are but switches to ’em. |
 | PORTER | (To those within)<br>I’ll scratch your heads.<br>You must be seeing christenings? Do you look<br>For ale and cakes here, you rude rascals? |
-| MAN | Pray, sir, be patient. ’Tis as much impossible,<br>Unless we sweep ’em from the door with cannons,<br>To scatter ’em as ’tis to make ’em [[Sleep|sleep]]<br>On May-day morning—which will never be.<br>We may as [[Well|well]] push against Paul’s as stir ’em. |
+| MAN | Pray, sir, be patient. ’Tis as much impossible,<br>Unless we sweep ’em from the door with cannons,<br>To scatter ’em as ’tis to make ’em [[Sleep\|sleep]]<br>On May-day morning—which will never be.<br>We may as [[Well\|well]] push against Paul’s as stir ’em. |
 | PORTER | How got they in, and be hanged? |
 | MAN | Alas, I know not. How gets the tide in?<br>As much as one sound cudgel of four foot—<br>He raises his cudgel<br>You see the poor remainder—could distribute,<br>I made no spare, sir. |
 | PORTER | You did nothing, sir. |
-| MAN | I am not Samson, nor Sir Guy, nor Colbrand,<br>To mow ‘em down before me; but if I spared any<br>That had a head to hit, either young or old,<br>He or she, cuckold or cuckold-maker,<br>Let me ne’er [[Hope|hope]] to see a chine again—<br>And that I would not for a cow, God save her! |
+| MAN | I am not Samson, nor Sir Guy, nor Colbrand,<br>To mow ‘em down before me; but if I spared any<br>That had a head to hit, either young or old,<br>He or she, cuckold or cuckold-maker,<br>Let me ne’er [[Hope\|hope]] to see a chine again—<br>And that I would not for a cow, God save her! |
 | ONE | (within) Do you hear, master porter? |
 | PORTER | I shall be with you presently,<br>Good master puppy. (To his man) Keep the door close,<br>sirrah. |
 | MAN | What would you have me do? |
-| PORTER | What should you do, but knock ’em down by th’ dozens? Is this Moorfields<br>to muster in? Or have we some strange Indian with<br>the great tool come to [[Court|court]], the women so besiege us?<br>Bless me, what a fry of fornication is at door! On my<br>Christian [[Conscience|conscience]], this one christening will beget a<br>thousand. Here will be father, godfather, and all<br>together. |
-| MAN | The spoons will be the bigger, sir. There is a fellow somewhat near the door, he should be a brazier by his face, for o’ my [[Conscience|conscience]] twenty of the dog-days now reign in’s nose. All that stand about him are under the line—they need no other penance. That [[Fire|fire]]-drake did I hit three times on the head, and three times was his nose discharged against me. He stands there like a mortar-piece, to blow us. There was a haberdasher’s wife of small wit near him, that railed upon me till her pinked porringer fell off her head, for kindling such a combustion in the state. I missed the meteor once, and hit that woman, who cried out ‘Clubs!’, when I might see from far some forty truncheoners draw to her succour, which were the [[Hope|hope]] o’th’ Strand, where she was quartered. They fell on. I made good my place. At length they came to th’ broomstaff to me. I defied ’em still, when suddenly a file of boys behind ‘em, loose shot, delivered such a shower of pebbles that I was fain to draw mine [[Honour|honour]] in and let ’em win the work. The devil was amongst ’em, I think, surely. |
-| PORTER | These are the youths that thunder at a playhouse, and fight for bitten apples, that no audience but the tribulation of Tower [[Hill]] or the limbs of Limehouse, their dear brothers, are able to endure. I have some of ’em in limbo patrum, and there they are like to [[Dance|dance]] these three days, besides the running banquet of two beadles that is to come. |
+| PORTER | What should you do, but knock ’em down by th’ dozens? Is this Moorfields<br>to muster in? Or have we some strange Indian with<br>the great tool come to [[Court\|court]], the women so besiege us?<br>Bless me, what a fry of fornication is at door! On my<br>Christian [[Conscience\|conscience]], this one christening will beget a<br>thousand. Here will be father, godfather, and all<br>together. |
+| MAN | The spoons will be the bigger, sir. There is a fellow somewhat near the door, he should be a brazier by his face, for o’ my [[Conscience\|conscience]] twenty of the dog-days now reign in’s nose. All that stand about him are under the line—they need no other penance. That [[Fire\|fire]]-drake did I hit three times on the head, and three times was his nose discharged against me. He stands there like a mortar-piece, to blow us. There was a haberdasher’s wife of small wit near him, that railed upon me till her pinked porringer fell off her head, for kindling such a combustion in the state. I missed the meteor once, and hit that woman, who cried out ‘Clubs!’, when I might see from far some forty truncheoners draw to her succour, which were the [[Hope\|hope]] o’th’ Strand, where she was quartered. They fell on. I made good my place. At length they came to th’ broomstaff to me. I defied ’em still, when suddenly a file of boys behind ‘em, loose shot, delivered such a shower of pebbles that I was fain to draw mine [[Honour\|honour]] in and let ’em win the work. The devil was amongst ’em, I think, surely. |
+| PORTER | These are the youths that thunder at a playhouse, and fight for bitten apples, that no audience but the tribulation of Tower [[Hill]] or the limbs of Limehouse, their dear brothers, are able to endure. I have some of ’em in limbo patrum, and there they are like to [[Dance\|dance]] these three days, besides the running banquet of two beadles that is to come. |
 | *(didascalia)* | Enter the Lord Chamberlain |
-| LORD CHAMBERLAIN | [[Mercy]] o’ me, what a multitude are here!<br>They grow still, too—from all parts they are coming,<br>As if we kept a fair here! Where are these porters,<br>These lazy knaves? (To the Porter and his man) You’ve<br>made a fine hand, fellows!<br>There’s a trim rabble let in—are all these<br>Your faithful friends o’th’ suburbs? We shall have<br>Great store of room, no [[Doubt|doubt]], left for the ladies<br>When they pass back from the christening! |
-| PORTER | An’t please your [[Honour|honour]],<br>We are but men, and what so many may do,<br>Not being torn a-pieces, we have done.<br>An army cannot rule ’em. |
+| LORD CHAMBERLAIN | [[Mercy]] o’ me, what a multitude are here!<br>They grow still, too—from all parts they are coming,<br>As if we kept a fair here! Where are these porters,<br>These lazy knaves? (To the Porter and his man) You’ve<br>made a fine hand, fellows!<br>There’s a trim rabble let in—are all these<br>Your faithful friends o’th’ suburbs? We shall have<br>Great store of room, no [[Doubt\|doubt]], left for the ladies<br>When they pass back from the christening! |
+| PORTER | An’t please your [[Honour\|honour]],<br>We are but men, and what so many may do,<br>Not being torn a-pieces, we have done.<br>An army cannot rule ’em. |
 | LORD CHAMBERLAIN | As I live, If the [[King]] blame me for’t, I’ll lay ye all<br>By th’ heels, and suddenly—and on your heads<br>Clap round fines for neglect. You’re lazy knaves,<br>And here ye lie baiting of bombards when<br>Ye should do service. |
 | *(didascalia)* | Flourish of trumpets within |
 | LORD CHAMBERLAIN | Hark, the trumpets sound.<br>They’re come, already, from the christening.<br>Go break among the press, and find a way out<br>To let the troop pass fairly, or I’ll find<br>A Marshalsea shall hold ye play these two months. |
@@ -2385,32 +1237,122 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 ### Atto 5, Scena 4
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
-| *(didascalia)* | Enter trumpeters, sounding. Then enter two aldermen, the [[Lord Mayor]] of [[London]], Garter [[King]]-of-Arms, [[Cranmer]] the Archbishop of Canterbury, the Duke of Norfolk with his marshal’s staff, the [[Duke of Suffolk]], two noblemen bearing great standing bowls for the christening gifts; then enter four noblemen bearing a canopy, under which is the Duchess of Norfolk, godmother, bearing the [[Child|child]] Elizabeth richly habited in a mantle, whose train is borne by a lady. Then follows the [[Marchioness]] Dorset, the other godmother, and ladies. The troop pass once about the stage and Garter speaks |
+| *(didascalia)* | Enter trumpeters, sounding. Then enter two aldermen, the [[Lord Mayor]] of [[London]], Garter [[King]]-of-Arms, [[Cranmer]] the Archbishop of Canterbury, the Duke of Norfolk with his marshal’s staff, the [[Duke of Suffolk]], two noblemen bearing great standing bowls for the christening gifts; then enter four noblemen bearing a canopy, under which is the Duchess of Norfolk, godmother, bearing the [[Child\|child]] Elizabeth richly habited in a mantle, whose train is borne by a lady. Then follows the [[Marchioness]] Dorset, the other godmother, and ladies. The troop pass once about the stage and Garter speaks |
 | GARTER | Heaven, from thy endless goodness send prosperous life, long, and ever happy, to the high and mighty Princess of England, Elizabeth. |
 | *(didascalia)* | Flourish. Enter [[King]] Henry and guard |
-| [[Cranmer|CRANMER]] | (kneeling)<br>And to your royal grace, and the good [[Queen]]!<br>My noble partners and myself thus pray<br>All comfort, joy, in this most gracious lady,<br>Heaven ever laid up to make parents happy,<br>May hourly fall upon ye. |
-| [[King|KING]] HENRY | Thank you, good lord Archbishop.<br>What is her name? |
-| [[Cranmer|CRANMER]] | Elizabeth. |
-| [[King|KING]] HENRY | Stand up, lord.<br>[[Cranmer]] rises<br>(To the [[Child|child]]) With this kiss take my blessing—<br>He kisses the [[Child|child]]<br>God protect thee,<br>Into whose hand I give thy life. |
-| [[Cranmer|CRANMER]] | Amen. |
-| [[King|KING]] HENRY | (to [[Cranmer]], old Duchess, and [[Marchioness]]) My noble gossips, you’ve been too prodigal. I thank ye heartily. So shall this lady, When she has so much English. |
-| [[Cranmer|CRANMER]] | Let me speak, sir,<br>For heaven now bids me, and the words I utter<br>Let none think flattery, for they’ll find ’em [[Truth|truth]].<br>This royal infant—heaven still move about her—<br>Though in her cradle, yet now promises<br>Upon this land a thousand thousand blessings<br>Which [[Time|time]] shall bring to ripeness. She shall be—<br>But few now living can behold that goodness—<br>A pattern to all princes living with her,<br>And all that shall succeed. Saba was never<br>More covetous of wisdom and fair virtue<br>Than this pure [[Soul|soul]] shall be. All princely graces<br>That mould up such a mighty piece as this is,<br>With all the virtues that attend the good,<br>Shall still be doubled on her. [[Truth]] shall [[Nurse|nurse]] her,<br>Holy and heavenly thoughts still counsel her.<br>She shall be loved and feared. Her own shall bless her;<br>Her foes shake like a field of beaten corn,<br>And hang their heads with sorrow. Good grows with<br>her.<br>In her days every man shall eat in safety<br>Under his own vine what he plants, and sing<br>The merry [[songs]] of peace to all his neighbours.<br>God shall be truly known, and those about her<br>From her shall read the perfect ways of [[Honour|honour]],<br>And by those claim their [[Greatness|greatness]], not by [[Blood|blood]].<br>Nor shall this peace [[Sleep|sleep]] with her, but, as when<br>The bird of [[Wonder|wonder]] dies—the maiden phoenix—<br>Her ashes new create another heir<br>As great in admiration as herself,<br>So shall she leave her blessedness to one,<br>When heaven shall call her from this cloud of darkness,<br>Who from the sacred ashes of her [[Honour|honour]]<br>Shall star-like rise as great in fame as she was,<br>And so stand fixed. Peace, plenty, [[Love|love]], [[Truth|truth]], terror,<br>That were the servants to this chosen infant,<br>Shall then be his, and, like a vine, grow to him.<br>Wherever the bright sun of heaven shall shine,<br>His [[Honour|honour]] and the [[Greatness|greatness]] of his name<br>Shall be, and make new nations. He shall flourish,<br>And like a mountain cedar reach his branches<br>To all the plains about him. Our children’s children<br>Shall see this, and bless heaven. |
-| [[King|KING]] HENRY | Thou speakest wonders. |
-| CRAMMER | She shall be, to the happiness of England,<br>An aged princess. Many days shall see her,<br>And yet no day without a deed to [[Crown|crown]] it.<br>Would I had known no more. But she must die—<br>She must, the saints must have her—yet a virgin,<br>A most unspotted lily shall she pass<br>To th’ ground, and all the world shall mourn her. |
-| [[King|KING]] HENRY | O lord Archbishop, Thou hast made me now a man. Never before<br>This happy [[Child|child]] did I get anything.<br>This oracle of comfort has so pleased me<br>That when I am in heaven I shall [[Desire|desire]]<br>To see what this [[Child|child]] does, and praise my maker.<br>I thank ye all. To you, my good [[Lord Mayor]],<br>And your good brethren, I am much beholden.<br>I have received much [[Honour|honour]] by your presence,<br>And ye shall find me thankful. Lead the way, lords.<br>Ye must all see the [[Queen]], and she must thank ye.<br>She will be sick else. This day, no man think<br>He’s business at his [[house]], for all shall stay— |
+| [[Cranmer\|CRANMER]] | (kneeling)<br>And to your royal grace, and the good [[Queen]]!<br>My noble partners and myself thus pray<br>All comfort, joy, in this most gracious lady,<br>Heaven ever laid up to make parents happy,<br>May hourly fall upon ye. |
+| [[King\|KING]] HENRY | Thank you, good lord Archbishop.<br>What is her name? |
+| [[Cranmer\|CRANMER]] | Elizabeth. |
+| [[King\|KING]] HENRY | Stand up, lord.<br>[[Cranmer]] rises<br>(To the [[Child\|child]]) With this kiss take my blessing—<br>He kisses the [[Child\|child]]<br>God protect thee,<br>Into whose hand I give thy life. |
+| [[Cranmer\|CRANMER]] | Amen. |
+| [[King\|KING]] HENRY | (to [[Cranmer]], old Duchess, and [[Marchioness]]) My noble gossips, you’ve been too prodigal. I thank ye heartily. So shall this lady, When she has so much English. |
+| [[Cranmer\|CRANMER]] | Let me speak, sir,<br>For heaven now bids me, and the words I utter<br>Let none think flattery, for they’ll find ’em [[Truth\|truth]].<br>This royal infant—heaven still move about her—<br>Though in her cradle, yet now promises<br>Upon this land a thousand thousand blessings<br>Which [[Time\|time]] shall bring to ripeness. She shall be—<br>But few now living can behold that goodness—<br>A pattern to all princes living with her,<br>And all that shall succeed. Saba was never<br>More covetous of wisdom and fair virtue<br>Than this pure [[Soul\|soul]] shall be. All princely graces<br>That mould up such a mighty piece as this is,<br>With all the virtues that attend the good,<br>Shall still be doubled on her. [[Truth]] shall [[Nurse\|nurse]] her,<br>Holy and heavenly thoughts still counsel her.<br>She shall be loved and feared. Her own shall bless her;<br>Her foes shake like a field of beaten corn,<br>And hang their heads with sorrow. Good grows with<br>her.<br>In her days every man shall eat in safety<br>Under his own vine what he plants, and sing<br>The merry [[songs]] of peace to all his neighbours.<br>God shall be truly known, and those about her<br>From her shall read the perfect ways of [[Honour\|honour]],<br>And by those claim their [[Greatness\|greatness]], not by [[Blood\|blood]].<br>Nor shall this peace [[Sleep\|sleep]] with her, but, as when<br>The bird of [[Wonder\|wonder]] dies—the maiden phoenix—<br>Her ashes new create another heir<br>As great in admiration as herself,<br>So shall she leave her blessedness to one,<br>When heaven shall call her from this cloud of darkness,<br>Who from the sacred ashes of her [[Honour\|honour]]<br>Shall star-like rise as great in fame as she was,<br>And so stand fixed. Peace, plenty, [[Love\|love]], [[Truth\|truth]], terror,<br>That were the servants to this chosen infant,<br>Shall then be his, and, like a vine, grow to him.<br>Wherever the bright sun of heaven shall shine,<br>His [[Honour\|honour]] and the [[Greatness\|greatness]] of his name<br>Shall be, and make new nations. He shall flourish,<br>And like a mountain cedar reach his branches<br>To all the plains about him. Our children’s children<br>Shall see this, and bless heaven. |
+| [[King\|KING]] HENRY | Thou speakest wonders. |
+| CRAMMER | She shall be, to the happiness of England,<br>An aged princess. Many days shall see her,<br>And yet no day without a deed to [[Crown\|crown]] it.<br>Would I had known no more. But she must die—<br>She must, the saints must have her—yet a virgin,<br>A most unspotted lily shall she pass<br>To th’ ground, and all the world shall mourn her. |
+| [[King\|KING]] HENRY | O lord Archbishop, Thou hast made me now a man. Never before<br>This happy [[Child\|child]] did I get anything.<br>This oracle of comfort has so pleased me<br>That when I am in heaven I shall [[Desire\|desire]]<br>To see what this [[Child\|child]] does, and praise my maker.<br>I thank ye all. To you, my good [[Lord Mayor]],<br>And your good brethren, I am much beholden.<br>I have received much [[Honour\|honour]] by your presence,<br>And ye shall find me thankful. Lead the way, lords.<br>Ye must all see the [[Queen]], and she must thank ye.<br>She will be sick else. This day, no man think<br>He’s business at his [[house]], for all shall stay— |
 | *(didascalia)* | This little one shall make it holiday. Flourish. Exeunt |
-| [[King|KING]] HENRY | Epilogue |
+| [[King\|KING]] HENRY | Epilogue |
 | *(didascalia)* | Enter Epilogue |
-| EPILOGUE | ‘Tis ten to one this play can never please<br>All that are here. Some come to take their ease,<br>And [[Sleep|sleep]] an act or two; but those, we [[Fear|fear]],<br>We’ve frighted with our trumpets; so, ’tis clear,<br>They’ll say ’tis naught. Others to hear the [[City|city]]<br>Abused extremely, and to cry ‘That’s witty!’—<br>Which we have not done neither; that, I [[Fear|fear]],<br>All the expected good we’re like to hear<br>For this play at this [[Time|time]] is only in<br>The merciful construction of good women,<br>For such a one we showed ’em. If they smile,<br>And say “Twill do’, I know within a while<br>All the best men are ours—for ’tis ill hap<br>If they hold when their ladies bid ’em clap. |
+| EPILOGUE | ‘Tis ten to one this play can never please<br>All that are here. Some come to take their ease,<br>And [[Sleep\|sleep]] an act or two; but those, we [[Fear\|fear]],<br>We’ve frighted with our trumpets; so, ’tis clear,<br>They’ll say ’tis naught. Others to hear the [[City\|city]]<br>Abused extremely, and to cry ‘That’s witty!’—<br>Which we have not done neither; that, I [[Fear\|fear]],<br>All the expected good we’re like to hear<br>For this play at this [[Time\|time]] is only in<br>The merciful construction of good women,<br>For such a one we showed ’em. If they smile,<br>And say “Twill do’, I know within a while<br>All the best men are ours—for ’tis ill hap<br>If they hold when their ladies bid ’em clap. |
 | *(didascalia)* | Exit |
 | BY JOHN FLETCHER AND | WILLIAM SHAKESPEARE |
-| WHEN | it first appeared in print, in 1634, The Two Noble Kinsmen was stated to be ‘by the memorable worthies of their [[Time|time]], Mr John Fletcher, and Mr William Shakespeare’. There is no reason to disbelieve this ascription: many plays of the period were not printed till long after they were acted, and there is other evidence that Shakespeare collaborated with Fletcher (1579―1625). The morris [[Dance|dance]] in Act 3, Scene 5, contains characters who also appear in Francis Beaumont’s [[Masque]] of the Inner Temple and Gray’s Inn performed before James I on 20 February 1613. Their [[Dance|dance]] was a great [[success]] with the [[King]]; probably the [[King]]’s Men—some of whom may have taken part in the [[Masque|masque]]—decided to exploit its [[success]] by incorporating it in a play written soon afterwards, in the last year of Shakespeare’s playwriting life.<br>The Two Noble Kinsmen, a [[Tragicomedy|tragicomedy]] of the kind that became popular during the last years of the first decade of the seventeenth century, is based on Chaucer’s Knight’s Tale, on which Shakespeare had already drawn for episodes of A Midsummer [[Night]]’s Dream. It tells a romantic tale of the conflicting claims of [[Love|love]] and [[Friendship|friendship]]: the ‘two noble kinsmen’, [[Palamon]] and [[Arcite]], are the closest of friends until each falls in [[Love|love]] with [[Emilia]], sister-in-law of [[Theseus]], Duke of Athens. Their conflict is finally resolved by a formal combat with [[Emilia]] as the prize, in which the loser is to be executed. [[Arcite]] wins, and [[Palamon]]’s head is on the block as news arrives that [[Arcite]] has been thrown from his [[Horse|horse]]. Dying, [[Arcite]] commends [[Emilia]] to his friend, and [[Theseus]] rounds off the play with a meditation on the paradoxes of fortune.<br>Studies of style suggest that Shakespeare was primarily responsible for the rhetorically and ritualistically impressive Act 1, for Act 2, Scene 1. Act 3, Scenes 1 and 2; and for most of Act 5 (Scene 4 excepted), which includes emblematically spectacular episodes related to his other late plays. Fletcher appears mainly to have written the scenes showing the rivalry of [[Palamon]] and [[Arcite]] along with the sub-plots concerned with the Jailer’s daughter’s [[Love|love]] for [[Palamon]] and the rustics’ entertainment for [[Theseus]].<br>Though the play was adapted by William Davenant as The Rivals (1664), its first known performances since the seventeenth century were at the Old Vic in 1928; it has been played only occasionally since then, but was chosen to open the Swan Theatre in Stratford-upon-Avon in 1986. Critical interest, too, has been slight; but Shakespeare’s contributions are entirely characteristic of his late style, and Fletcher’s scenes are both touching and funny. |
+| WHEN | it first appeared in print, in 1634, The Two Noble Kinsmen was stated to be ‘by the memorable worthies of their [[Time\|time]], Mr John Fletcher, and Mr William Shakespeare’. There is no reason to disbelieve this ascription: many plays of the period were not printed till long after they were acted, and there is other evidence that Shakespeare collaborated with Fletcher (1579―1625). The morris [[Dance\|dance]] in Act 3, Scene 5, contains characters who also appear in Francis Beaumont’s [[Masque]] of the Inner Temple and Gray’s Inn performed before James I on 20 February 1613. Their [[Dance\|dance]] was a great [[success]] with the [[King]]; probably the [[King]]’s Men—some of whom may have taken part in the [[Masque\|masque]]—decided to exploit its [[success]] by incorporating it in a play written soon afterwards, in the last year of Shakespeare’s playwriting life.<br>The Two Noble Kinsmen, a [[Tragicomedy\|tragicomedy]] of the kind that became popular during the last years of the first decade of the seventeenth century, is based on Chaucer’s Knight’s Tale, on which Shakespeare had already drawn for episodes of A Midsummer [[Night]]’s Dream. It tells a romantic tale of the conflicting claims of [[Love\|love]] and [[Friendship\|friendship]]: the ‘two noble kinsmen’, [[Palamon]] and [[Arcite]], are the closest of friends until each falls in [[Love\|love]] with [[Emilia]], sister-in-law of [[Theseus]], Duke of Athens. Their conflict is finally resolved by a formal combat with [[Emilia]] as the prize, in which the loser is to be executed. [[Arcite]] wins, and [[Palamon]]’s head is on the block as news arrives that [[Arcite]] has been thrown from his [[Horse\|horse]]. Dying, [[Arcite]] commends [[Emilia]] to his friend, and [[Theseus]] rounds off the play with a meditation on the paradoxes of fortune.<br>Studies of style suggest that Shakespeare was primarily responsible for the rhetorically and ritualistically impressive Act 1, for Act 2, Scene 1. Act 3, Scenes 1 and 2; and for most of Act 5 (Scene 4 excepted), which includes emblematically spectacular episodes related to his other late plays. Fletcher appears mainly to have written the scenes showing the rivalry of [[Palamon]] and [[Arcite]] along with the sub-plots concerned with the Jailer’s daughter’s [[Love\|love]] for [[Palamon]] and the rustics’ entertainment for [[Theseus]].<br>Though the play was adapted by William Davenant as The Rivals (1664), its first known performances since the seventeenth century were at the Old Vic in 1928; it has been played only occasionally since then, but was chosen to open the Swan Theatre in Stratford-upon-Avon in 1986. Critical interest, too, has been slight; but Shakespeare’s contributions are entirely characteristic of his late style, and Fletcher’s scenes are both touching and funny. |
 | THE PERSONS OF THE | PLAY |
-| PROLOGUE | [[Theseus|THESEUS]], Duke of Athens<br>[[Hippolyta|HIPPOLYTA]], [[Queen]] of the Amazons, later wife of [[Theseus]]<br>[[Emilia|EMILIA]], her sister<br>PIRITHOUS, friend of [[Theseus]]<br>Hymen, god of [[Marriage|marriage]]<br>A BOY, who sings<br>ARTESIUS, an Athenian soldier<br>Three QUEENS, widows of kings killed in the siege of Thebes<br>VALERIUS, a Theban<br>A HERALD<br>WOMAN, attending [[Emilia]]<br>An Athenian GENTLEMAN |
-| MESSENGERS | Six KNIGHTS, three attending [[Arcite]] and three [[Palamon]]<br>A SERVANT<br>A JAILER in charge of [[Theseus]]’ [[Prison|prison]]<br>The JAILER’S DAUGHTER<br>The JAILER’S BROTHER<br>The WOOER of the Jailer’s daughter<br>Two FRIENDS of the Jailer<br>A DOCTOR<br>Six COUNTRYMEN, one dressed as a babion, or baboon<br>Gerald, a SCHOOLMASTER<br>NELL, a country wench<br>Four other country wenches: Friz, [[Madeline]], Luce, and Barbara Timothy, a TABORER |
+| PROLOGUE | [[Theseus\|THESEUS]], Duke of Athens<br>[[Hippolyta\|HIPPOLYTA]], [[Queen]] of the Amazons, later wife of [[Theseus]]<br>[[Emilia\|EMILIA]], her sister<br>PIRITHOUS, friend of [[Theseus]]<br>Hymen, god of [[Marriage\|marriage]]<br>A BOY, who sings<br>ARTESIUS, an Athenian soldier<br>Three QUEENS, widows of kings killed in the siege of Thebes<br>VALERIUS, a Theban<br>A HERALD<br>WOMAN, attending [[Emilia]]<br>An Athenian GENTLEMAN |
+| MESSENGERS | Six KNIGHTS, three attending [[Arcite]] and three [[Palamon]]<br>A SERVANT<br>A JAILER in charge of [[Theseus]]’ [[Prison\|prison]]<br>The JAILER’S DAUGHTER<br>The JAILER’S BROTHER<br>The WOOER of the Jailer’s daughter<br>Two FRIENDS of the Jailer<br>A DOCTOR<br>Six COUNTRYMEN, one dressed as a babion, or baboon<br>Gerald, a SCHOOLMASTER<br>NELL, a country wench<br>Four other country wenches: Friz, [[Madeline]], Luce, and Barbara Timothy, a TABORER |
 | EPILOGUE | Nymphs, attendants, maids, executioner, guard |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Cornetts. Enter [[King]] Henry leaning on [[Cardinal Wolsey]]’s shoulder. Enter with them Wolsey’s two secretaries, the nobles, and Sir Thomas Lovell. The [[King]] ascends to his seat under the cloth of state; Wolsey places himself under the [[King]]’s feet on his right side |
+| [[King\|KING]] HENRY | to Wolsey My life itself and the best heart of it Thanks you for this great care. I stood i’th’ level Of a full-charged confederacy, and give thanks To you that choked it. Let be called before us That gentleman of [[Buckingham]]’s. In person I’ll hear him his confessions justify, And point by point the treasons of his master He shall again relate. CRIER (within) Room for the [[Queen]], ushered by the Duke of Norfolk. Enter [[Queen Katherine]], the Duke of Norfolk, and the [[Duke of Suffolk]]. She kneels. [[King]] Henry riseth from his state, takes her up, and kisses her |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Nay, we must longer kneel. I am a suitor. |
+| [[King\|KING]] HENRY | Arise, and take place by us. He placeth her by him Half your suit Never name to us. You have half our power, The other moiety ere you ask is given. Repeat your will and take it. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Thank your majesty. That you would [[Love\|love]] yourself, and in that [[Love\|love]] Not unconsidered leave your [[Honour\|honour]] nor The dignity of your office, is the point Of my petition. |
+| [[King\|KING]] HENRY | Lady mine, proceed. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | I am solicited, not by a few, And those of true condition, that your subjects Are in great grievance. There have been commissions Sent down among ’em which hath flawed the heart Of all their loyalties; wherein, although, My good lord Cardinal, they vent reproaches Most bitterly on you, as putter-on Of these exactions, yet the [[King]] our master— Whose [[Honour\|honour]] heaven shield from soil—even he escapes not Language unmannerly, yea, such which breaks The sides of loyalty, and almost appears In loud rebellion. |
+| NORFOLK | Not ‘almost appears’— It doth appear; for upon these taxations The clothiers all, not able to maintain The many to them ‘[[Longing\|longing]], have put off The spinsters, carders, fullers, weavers, who, Unfit for other life, compelled by hunger And lack of other means, in desperate manner Daring th’event to th’ teeth, are all in uproar, And danger serves among them. |
+| [[King\|KING]] HENRY | Taxation? Wherein, and what taxation? My lord Cardinal, You that are blamed for it alike with us, Know you of this taxation? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Please you, sir, I know but of a single part in aught Pertains to th’ state, and front but in that file Where others tell steps with me. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | No, my lord? You know no more than others? But you frame Things that are known alike, which are not wholesome To those which would not know them, and yet must Perforce be their acquaintance. These exactions Whereof my sovereign would have note, they are Most pestilent to th’ hearing, and to bear ’em The back is sacrifice to th’ load. They say They are devised by you, or else you suffer Too hard an exclamation. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--02_exchange_king_henry" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (KING HENRY) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | Still exaction! The [[Nature\|nature]] of it? In what kind, let’s know, Is this exaction? |
+| [[Queen Katherine\|QUEEN KATHERINE]] | I am much too venturous In tempting of your patience, but am boldened Under your promised pardon. The subjects’ grief Comes through commissions which compels from each The sixth part of his substance to be levied Without delay, and the pretence for this Is named your wars in France. This makes bold mouths. Tongues spit their duties out, and cold hearts freeze Allegiance in them. Their curses now Live where their prayers did, and it’s come to pass This tractable obedience is a slave To each incensed will. I would your highness Would give it quick consideration, for There is no primer business. |
+| [[King\|KING]] HENRY | By my life, This is against our pleasure. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | And for me, I have no further gone in this than by A single voice, and that not passed me but By learned approbation of the judges. If I am Traduced by ignorant tongues, which neither know My faculties nor person yet will be The chronicles of my doing, let me say ‘Tis but the fate of place, and the rough brake That virtue must go through. We must not stint Our necessary actions in the [[Fear\|fear]] To cope malicious censurers, which ever, As rav’nous fishes, do a vessel follow That is new trimmed, but benefit no further Than vainly [[Longing\|longing]]. What we oft do best, By sick interpreters, once weak ones, is Not ours or not allowed; what worst, as oft, Hitting a grosser quality, is cried up For our best act. If we shall stand still, In [[Fear\|fear]] our motion will be mocked or carped at, We should take root here where we sit, Or sit state-statues only. |
+| [[King\|KING]] HENRY | Things done [[Well\|well]], And with a care, exempt themselves from [[Fear\|fear]]; Things done without example, in their issue Are to be feared. Have you a precedent Of this commission? I believe not any. We must not rend our subjects from our laws And stick them in our will. Sixth part of each? A trembling contribution! Why, we take From every tree lop, bark, and part o‘th’ timber, And though we leave it with a root, thus hacked The air will drink the sap. To every county Where this is questioned send our letters with Free pardon to each man that has denied The force of this commission. Pray look to’t— I put it to your care. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to a secretary) A word with you. Let there be letters writ to every shire Of the [[King]]’s grace and pardon. (Aside to the secretary) The grieved commons Hardly conceive of me. Let it be noised That through our intercession this revokement And pardon comes. I shall anon advise you Further in the proceeding. Exit secretary Enter [[Buckingham]]’s Surveyor |
+| [[Queen Katherine\|QUEEN KATHERINE]] | (to the [[King]]) I am sorry that the [[Duke of Buckingham]] Is run in your displeasure. |
+| [[King\|KING]] HENRY | It grieves many. The gentleman is learned, and a most rare speaker, To [[Nature\|nature]] none more bound; his training such That he may furnish and instruct great teachers And never seek for aid out of himself. Yet see, When these so noble benefits shall prove Not [[Well\|well]] disposed, the mind growing once corrupt, They turn to vicious forms ten times more ugly Than ever they were fair. This man so complete, Who was enrolled ’mongst wonders—and when we Almost with ravished list’ning could not find His hour of speech a minute—he, my lady, Hath into monstrous habits put the graces That once were his, and is become as black As if besmeared in hell. Sit by us. You shall hear— This was his gentleman in trust of him— Things to strike [[Honour\|honour]] sad. (To Wolsey) Bid him recount The fore-recited practices whereof We cannot feel too little, hear too much. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--03_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (CARDINAL WOLSEY) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the Surveyor) Stand forth, and with bold spirit relate what you Most like a careful subject have collected Out of the [[Duke of Buckingham]]. |
+| [[King\|KING]] HENRY | (to the Surveyor) Speak freely. |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | First, it was usual with him, every day It would infect his speech, that if the [[King]] Should without issue die, he’ll carry it so To make the sceptre his. These very words I’ve heard him utter to his son-in-law, Lord Abergavenny, to whom by oath he menaced [[Revenge]] upon the Cardinal. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[King]]) Please your highness note His dangerous conception in this point, Not friended by his wish to your high person. His will is most malignant, and it stretches Beyond you to your friends. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | My learned Lord Cardinal, Deliver all with [[Charity\|charity]]. |
+| [[King\|KING]] HENRY | (to the surveyor) Speak on. How grounded he his title to the [[Crown\|crown]] Upon our fail? To this point hast thou heard him At any [[Time\|time]] speak aught? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | He was brought to this By a vain prophecy of Nicholas Hopkins. |
+| [[King\|KING]] HENRY | What was that Hopkins? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | Sir, a Chartreux friar, His confessor, who fed him every minute With words of sovereignty. |
+| [[King\|KING]] HENRY | How know’st thou this? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--04_monologue_buckinghams_surveyor" data-title="All Is True (Henry VIII) — Act I, Scene 2 — monologue (BUCKINGHAM’S SURVEYOR) [4]" data-chapter="Scene 2" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | Not long before your highness sped to France, The Duke being at the [[Rose]], within the parish Saint Lawrence Poutney, did of me demand What was the speech among the Londoners Concerning the French [[Journey\|journey]]. I replied Men feared the French would prove perfidious, To the [[King]]’s danger; presently the Duke Said ‘twas the [[Fear\|fear]] indeed, and that he doubted ’Twould prove the verity of certain words Spoke by a holy monk that oft, says he, ‘Hath sent to me, wishing me to permit John de la Car, my chaplain, a choice hour To hear from him a matter of some moment; Whom after under the confession’s seal He solemnly had sworn, that what he spoke My chaplain to no creature living but To me should utter, with demure confidence This pausingly ensued: “neither the [[King]] nor’s heirs”, Tell you the Duke, “shall prosper. Bid him strive To win the [[Love\|love]] o’th’ commonalty. The Duke Shall govern England.” ’ |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_2--05_exchange_queen_katherine" data-title="All Is True (Henry VIII) — Act I, Scene 2 — exchange (QUEEN KATHERINE) [5]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Queen Katherine\|QUEEN KATHERINE]] | If I know you [[Well\|well]], You were the Duke’s surveyor, and lost your office On the complaint o’th’ tenants. Take good heed You charge not in your spleen a noble person And spoil your nobler [[Soul\|soul]]. I say, take heed; Yes, heartily beseech you. |
+| [[King\|KING]] HENRY | Let him on. (To the Surveyor) Go forward. |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | On my [[Soul\|soul]] I’ll speak but [[Truth\|truth]]. I told my lord the Duke, by th’ devil’s illusions The monk might be deceived, and that ‘twas dangerous To ruminate on this so far until It forged him some design which, being believed, It was much like to do. He answered, ’Tush, It can do me no damage’, adding further That had the [[King]] in his last sickness failed, The Cardinal’s and Sir Thomas Lovell’s heads Should have gone off. |
+| [[King\|KING]] HENRY | Ha? What, so rank? Ah, ha! There’s mischief in this man. Canst thou say further? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | I can, my liege. |
+| [[King\|KING]] HENRY | Proceed. |
+| BIJCKINGHAM’S SURVEYOR | Being at Greenwich, After your highness had reproved the Duke About Sir William Bulmer— |
+| [[King\|KING]] HENRY | I remember Such a [[Time\|time]], being my sworn servant, The Duke retained him his. But on—what hence? |
+| RIICKINGHAM’S SURVEYOR | ‘If’, quoth he, ‘I for this had been committed’— As to the Tower, I thought—‘I would have played The part my father meant to act upon Th’[[Usurper\|usurper]] [[Richard]] who, being at Salisbury, Made suit to come in’s presence; which if granted, As he made semblance of his duty, would Have put his knife into him.’ |
+| [[King\|KING]] HENRY | A giant traitor! |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[Queen]]) Now, madam, may his highness live in [[Freedom\|freedom]], And this man out of [[Prison\|prison]]? |
+| [[Queen Katherine\|QUEEN KATHERINE]] | God mend all. |
+| [[King\|KING]] HENRY | (to the Surveyor) There’s something more would out of thee—what sayst? |
+| [[Buckingham\|BUCKINGHAM]]’S SURVEYOR | After ‘the Duke his father’, with ‘the knife’, He stretched him, and with one hand on his dagger, Another spread on’s breast, mounting his eyes, He did discharge a horrible oath whose tenor Was, were he evil used, he would outgo His father by as much as a performance Does an irresolute purpose. |
+| [[King\|KING]] HENRY | There’s his period— To sheathe his knife in us. He is attached. Call him to present trial. If he may Find [[Mercy\|mercy]] in the law, ’tis his; if none, Let him not seek’t of us. By day and [[Night\|night]], He’s traitor to th’ height. Flourish. Exeunt |
 
 
 
@@ -2418,7 +1360,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 <span class="atom-split" data-atom="act_1--scene_3" data-title="All Is True (Henry VIII) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
 
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the Lord Chamberlain and Lord Sands |
 | LORD CHAMBERLAIN | Is’t possible the spells of France should juggle<br>Men into such strange mysteries? |
@@ -2428,26 +1370,266 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | LORD CHAMBERLAIN | [[Death]], my lord,<br>Their clothes are after such a pagan cut to’t<br>That sure they’ve worn out Christendom. |
 | *(didascalia)* | Enter Sir Thomas Lovell |
 | LORD CHAMBERLAIN | How now—<br>What news, Sir Thomas Lovell? |
-| LOVELL | [[Faith]], my lord,<br>I hear of none but the new proclamation<br>That’s clapped upon the [[Court|court]] gate. |
+| LOVELL | [[Faith]], my lord,<br>I hear of none but the new proclamation<br>That’s clapped upon the [[Court\|court]] gate. |
 | LORD CHAMBERLAIN | What is’t for? |
-| LOVELL | The [[Reformation|reformation]] of our travelled gallants<br>That fill the [[Court|court]] with quarrels, talk, and tailors. |
+| LOVELL | The [[Reformation\|reformation]] of our travelled gallants<br>That fill the [[Court\|court]] with quarrels, talk, and tailors. |
 | LORD CHAMBERLAIN | I’m glad ’tis there. Now I would pray our ’messieurs’<br><br>To think an English courtier may be wise<br>And never see the Louvre. |
-| LOVELL | They must either,<br>For so run the conditions, leave those remnants<br>Of [[Fool|fool]] and feather that they got in France,<br>With all their honourable points of ignorance<br>Pertaining thereunto—as fights and fireworks,<br>Abusing better men than they can be<br>Out of a foreign wisdom, renouncing clean<br>The [[Faith|faith]] they have in tennis and tall stockings,<br>Short blistered breeches, and those types of travel—<br>And understand again like honest men,<br>Or pack to their old playfellows. There, I take it,<br>They may, cum privilegio, ‘oui’ away<br>The lag end of their lewdness and be laughed at. |
-| SANDS | ‘Tis [[Time|time]] to give ’em physic, their diseases<br>Are grown so catching. |
+| LOVELL | They must either,<br>For so run the conditions, leave those remnants<br>Of [[Fool\|fool]] and feather that they got in France,<br>With all their honourable points of ignorance<br>Pertaining thereunto—as fights and fireworks,<br>Abusing better men than they can be<br>Out of a foreign wisdom, renouncing clean<br>The [[Faith\|faith]] they have in tennis and tall stockings,<br>Short blistered breeches, and those types of travel—<br>And understand again like honest men,<br>Or pack to their old playfellows. There, I take it,<br>They may, cum privilegio, ‘oui’ away<br>The lag end of their lewdness and be laughed at. |
+| SANDS | ‘Tis [[Time\|time]] to give ’em physic, their diseases<br>Are grown so catching. |
 | LORD CHAMBERLAIN | What a loss our ladies<br>Will have of these trim vanities! |
-| LOVELL | Ay, marry,<br>There will be woe indeed, lords. The sly whoresons<br>Have got a speeding trick to lay down ladies.<br>A French [[Song|song]] and a fiddle has no fellow. |
-| SANDS | The devil fiddle ’em! I am glad they are going,<br>For sure there’s no converting of ’em. Now<br>An honest country lord, as I am, beaten<br>A long [[Time|time]] out of play, may bring his plainsong<br>And have an hour of hearing, and, by’r Lady,<br>Held current music, too. |
+| LOVELL | Ay, marry,<br>There will be woe indeed, lords. The sly whoresons<br>Have got a speeding trick to lay down ladies.<br>A French [[Song\|song]] and a fiddle has no fellow. |
+| SANDS | The devil fiddle ’em! I am glad they are going,<br>For sure there’s no converting of ’em. Now<br>An honest country lord, as I am, beaten<br>A long [[Time\|time]] out of play, may bring his plainsong<br>And have an hour of hearing, and, by’r Lady,<br>Held current music, too. |
 | LORD CHAMBERLAIN | [[Well]] said, Lord Sands.<br>Your colt’s tooth is not cast yet? |
 | SANDS | No, my lord,<br>Nor shall not while I have a stump. |
 | LORD CHAMBERLAIN | (to Lovell)<br>Sir Thomas,<br>Whither were you a-going? |
 | LOVELL | To the Cardinal’s.<br>Your lordship is a guest too. |
-| LORD CHAMBERLAIN | O, ’tis true.<br>This [[Night|night]] he makes a supper, and a great one,<br>To many lords and ladies. There will be<br>The [[Beauty|beauty]] of this kingdom, I’ll assure you. |
+| LORD CHAMBERLAIN | O, ’tis true.<br>This [[Night\|night]] he makes a supper, and a great one,<br>To many lords and ladies. There will be<br>The [[Beauty\|beauty]] of this kingdom, I’ll assure you. |
 | LOVELL | That churchman bears a bounteous mind indeed,<br>A hand as fruitful as the land that feeds us.<br>His dews fall everywhere. |
-| LORD CHAMBERLAIN | No [[Doubt|doubt]] he’s noble.<br>He had a black mouth that said other of him. |
+| LORD CHAMBERLAIN | No [[Doubt\|doubt]] he’s noble.<br>He had a black mouth that said other of him. |
 | SANDS | He may, my lord; he’s wherewithal. In him<br>Sparing would show a worse sin than ill doctrine.<br>Men of his way should be most liberal.<br>They are set here for examples. |
-| LORD CHAMBERLAIN | True, they are so,<br>But few now give so great ones. My barge stays.<br>Your lordship shall along. (To Lovell) Come, good Sir<br>Thomas,<br>We shall be late else, which I would not be,<br>For I was spoke to, with Sir Henry Guildford,<br>This [[Night|night]] to be comptrollers. |
+| LORD CHAMBERLAIN | True, they are so,<br>But few now give so great ones. My barge stays.<br>Your lordship shall along. (To Lovell) Come, good Sir<br>Thomas,<br>We shall be late else, which I would not be,<br>For I was spoke to, with Sir Henry Guildford,<br>This [[Night\|night]] to be comptrollers. |
 | SANDS | I am your lordship’s. |
 | *(didascalia)* | Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Hautboys. Enter servants with a small table for [[Cardinal Wolsey]] Which they place under the cloth of state, and a longer table for the guests. Then enter at one door Anne Boleyn and divers other ladies and gentlemen as guests, and at another door enter Sir Henry Guildford GUlLDFORD Ladies, a general welcome from his grace Salutes ye all. This [[Night\|night]] he dedicates To fair content and you. None here, he hopes, In all this noble bevy, has brought with her One care abroad. He would have all as merry As feast, good company, good wine, good welcome Can make good people. Enter the Lord Chamberlain, Lord Sands, and Sir Thomas Lovell (To the Lord Chamberlain) O, my lord, you’re tardy. The very thought of this fair company Clapped wings to me. |
+| LORD CHAMBERLAIN | You are young, Sir Harry Guildford. |
+| SANDS | Sir Thomas Lovell, had the Cardinal But half my lay thoughts in him, some of these Should find a running banquet, ere they rested, I think would better please ’em. By my life, They are a sweet society of fair ones. |
+| LOVELL | O, that your lordship were but now confessor To one or two of these. |
+| SANDS | I would I were. They should find easy penance. |
+| LOVELL | [[Faith]], how easy? |
+| SANDS | As easy as a down bed would afford it. |
+| LORD CHAMBERLAIN | Sweet ladies, will it please you sit? (To Guildford) Sir Harry, Place you that side, I’ll take the charge of this. They sit about the longer table. A noise within His grace is ent‘ring. Nay, you must not freeze— Two women placed together makes cold weather. My lord Sands, you are one will keep ’em waking. Pray sit between these ladies. |
+| SANDS | By my [[Faith\|faith]], And thank your lordship. He sits between Anne and another By your leave, sweet ladies. If I chance to talk a little wild, forgive me. I had it from my father. |
+| ANNE | Was he mad, sir? |
+| SANDS | O, very mad; exceeding mad—in [[Love\|love]], too. But he would bite none. Just as I do now, He would kiss you twenty with a breath. He kisses her |
+| LORD CHAMBERLAIN | [[Well]] said, my lord. So now you’re fairly seated. Gentlemen, The penance lies on you if these fair ladies Pass away frowning. |
+| SANDS | For my little cure, Let me [[Alone\|alone]]. Hautboys. Enter [[Cardinal Wolsey]] who takes his seat at the small table under the state |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | You’re welcome, my fair guests. That noble lady Or gentleman that is not freely merry Is not my friend. This, to confirm my welcome, And to you all, good health! He drinks |
+| SANDS | Your grace is noble. Let me have such a bowl may hold my thanks, And save me so much talking. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | My lord Sands, I am beholden to you. Cheer your neighbours. Ladies, you are not merry! Gentlemen, Whose fault is this? |
+| SANDS | The red wine first must rise In their fair cheeks, my lord, then we shall have ’em Talk us to [[Silence\|silence]]. |
+| ANNE | You are a merry gamester, My lord Sands. |
+| SANDS | Yes, if I make my play. Here’s to your ladyship; and pledge it, madam, For ’tis to such a thing— |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--02_exchange_anne" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (ANNE) [2]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| ANNE | You cannot show me. |
+| SANDS | (to Wolsey) I told your grace they would talk anon. Drum and trumpet. Chambers discharged |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What’s that? |
+| LORD CHAMBERLAIN | (to the servants) Look out there, some of ye. Exit a servant |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What warlike voice, And to what end is this? Nay, ladies, [[Fear\|fear]] not. By all the laws of war you’re privileged. Enter the servant |
+| LORD CHAMBERLAIN | How now—what is’t? |
+| SERVANT | A noble troop of strangers, For so they seem. They’ve left their barge and landed, And hither make as great ambassadors From foreign princes. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Good Lord Chamberlain, Go give ’em welcome—you can speak the French tongue. And pray receive ’em nobly, and conduct ’em Into our presence where this heaven of [[Beauty\|beauty]] Shall shine at full upon them. Some attend him. Exit Chamberlain, attended All rise, and some servants remove the tables You have now a broken banquet, but we’ll mend it. A good digestion to you all, and once more I shower a welcome on ye—welcome all. Hautboys. Enter, ushered by the Lord Chamberlain, [[King]] Henry and others as masquers habited like shepherds. They pass directly before [[Cardinal Wolsey]] and gracefully salute him A noble company. What are their pleasures? |
+| LORD CHAMBERLAIN | Because they speak no English, thus they prayed To tell your grace, that, having heard by fame Of this so noble and so fair assembly This [[Night\|night]] to meet here, they could do no less, Out of the great respect they bear to [[Beauty\|beauty]], But leave their flocks, and, under your fair conduct, Crave leave to view these ladies, and entreat An hour of revels with ’em. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Say, Lord Chamberlain, They have done my poor [[house]] grace, for which I pay ’em A thousand thanks, and pray ’em take their pleasures. The masquers choose ladies. The [[King]] chooses Anne Boleyn |
+| [[King\|KING]] HENRY | (to Anne) The fairest hand I ever touched. O [[Beauty\|beauty]], Till now I never knew thee. Music. They [[Dance\|dance]] |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the Lord Chamberlain) My lord. |
+| LORD CHAMBERLAIN | Your grace. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Pray tell ’em thus much from me. There should be one amongst ’em by his person More worthy this place than myself, to whom, If I but knew him, with my [[Love\|love]] and duty I would surrender it. |
+| LORD CHAMBERLAIN | I will, my lord. He whispers with the masquers |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What say they? |
+| LORD CHAMBERLAIN | Such a one they all confess There is indeed, which they would have your grace Find out, and he will take it. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | standing Let me see then. By all your good [[Leaves\|leaves]], gentlemen, here I’ll make My royal choice. He bows before the [[King]] |
+| [[King\|KING]] HENRY | unmasking Ye have found him, Cardinal. You hold a fair assembly. You do [[Well\|well]], lord. You are a churchman, or I’ll tell you, Cardinal, I should judge now unhappily. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I am glad Your grace is grown so pleasant. |
+| [[King\|KING]] HENRY | My Lord Chamberlain, Prithee come hither. (Gesturing towards Anne) What fair lady’s that? |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--03_exchange_lord_chamberlain" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (LORD CHAMBERLAIN) [3]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| LORD CHAMBERLAIN | An’t please your grace, Sir Thomas Boleyn’s daughter— The Viscount Rochford—one of her highness’ women. |
+| [[King\|KING]] HENRY | By heaven, she is a dainty one. (To Anne) Sweetheart, I were unmannerly to take you out And not to kiss you kisses her. A health, gentlemen; He drinks Let it go round. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Sir Thomas Lovell, is the banquet ready I’th’ privy chamber? |
+| LOVELL | Yes, my lord. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[King]]) Your grace I [[Fear\|fear]] with dancing is a little heated. |
+| [[King\|KING]] HENRY | I [[Fear\|fear]] too much. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | There’s fresher air, my lord, In the next chamber. |
+| [[King\|KING]] HENRY | Lead in your ladies, every one. (To Anne) Sweet partner, I must not yet forsake you. (To Wolsey) Let’s be merry, Good my lord Cardinal. I have half a dozen healths To drink to these fair ladies, and a measure To lead ’em once again, and then let’s dream Who’s best in favour. Let the music knock it. Exeunt with trumpets |
+| [[King\|KING]] HENRY | 2.1 Enter two Gentlemen, at several doors |
+| FIRST GENTLEMAN | Whither away so fast? |
+| SECOND GENTLEMAN | O, God save ye. Ev’n to the hall to hear what shall become Of the great [[Duke of Buckingham]]. |
+| FIRST GENTLEMAN | I’ll save you That labour, sir. All’s now done but the ceremony Of bringing back the prisoner. |
+| SECOND GENTLEMAN | Were you there? |
+| FIRST GENTLEMAN | Yes, indeed was I. |
+| SECOND GENTLEMAN | Pray speak what has happened. |
+| FIRST GENTLEMAN | You may guess quickly what. |
+| SECOND GENTLEMAN | Is he found guilty? |
+| FIRST GENTLEMAN | Yes, truly is he, and condemned upon’t. |
+| SECOND GENTLEMAN | I am sorry for’t. |
+| FIRST GENTLEMAN | So are a number more. |
+| SECOND GENTLEMAN | But pray, how passed it? |
+| FIRST GENTLEMAN | I’ll tell you in a little. The great Duke Came to the bar, where to his accusations He pleaded still not guilty, and allegèd Many sharp reasons to defeat the law. The [[King]]’s attorney, on the contrary, Urged on the examinations, proofs, confessions, Of divers witnesses, which the Duke desired To him brought viva voce to his face— At which appeared against him his surveyor, Sir Gilbert Perk his chancellor, and John Car, Confessor to him, with that devil-monk, Hopkins, that made this mischief. |
+| SECOND GENTLEMAN | That was he That fed him with his prophecies. |
+| FIRST GENTLEMAN | The same. All these accused him strongly, which he fain Would have flung from him, but indeed he could not. And so his peers, upon this evidence, Have found him guilty of high treason. Much He spoke, and learnedly, for life, but all Was either pitied in him or forgotten. |
+| SECOND GENTLEMAN | After all this, how did he bear himself? |
+| FIRST GENTLEMAN | When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony he sweat extremely, And something spoke in choler, ill and hasty; But he fell to himself again, and sweetly In all the rest showed a most noble patience. |
+| SECOND GENTLEMAN | I do not think he fears [[Death\|death]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--04_exchange_first_gentleman" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (FIRST GENTLEMAN) [4]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| FIRST GENTLEMAN | Sure he does not. He never was so womanish. The cause He may a little grieve at. |
+| SECOND GENTLEMAN | Certainly The Cardinal is the end of this. |
+| FIRST GENTLEMAN | ’Tis likely By all conjectures: first, Kildare’s attainder, Then deputy of Ireland, who, removed, Earl Surrey was sent thither—and in haste, too, Lest he should help his father. |
+| SECOND GENTLEMAN | That trick of state Was a deep envious one. |
+| FIRST GENTLEMAN | At his return No [[Doubt\|doubt]] he will requite it. This is noted, And generally: whoever the [[King]] favours, The Card’nal instantly will find employment— And far enough from [[Court\|court]], too. |
+| SECOND GENTLEMAN | All the commons Hate him perniciously and, o’ my [[Conscience\|conscience]], Wish him ten fathom deep. This Duke as much They [[Love\|love]] and dote on, call him ‘bounteous [[Buckingham]], The [[Mirror\|mirror]] of all courtesy’— Enter the [[Duke of Buckingham]] from his arraignment, tipstaves before him, the axe with the edge towards him, halberdiers on each side, accompanied with Sir Thomas Lovell, Sir Nicholas Vaux, Sir William Sands, and common people |
+| FIRST GENTLEMAN | Stay there, sir, And see the noble ruined man you speak of. |
+| SECOND GENTLEMAN | Let’s stand close and behold him. They stand apart |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--05_monologue_buckingham" data-title="All Is True (Henry VIII) — Act I, Scene 4 — monologue (BUCKINGHAM) [5]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Buckingham\|BUCKINGHAM]] | (to the common people) All good people, You that thus far have come to pity me, Hear what I say, and then go [[Home\|home]] and lose me. I have this day received a traitor’s judgement, And by that name must die. Yet, heaven bear witness, And if I have a [[Conscience\|conscience]] let it sink me, Even as the axe falls, if I be not faithful. The law I bear no malice for my [[Death\|death]]. ’T has done, upon the premises, but justice. But those that sought it I could wish more Christians. Be what they will, I heartily forgive ‘em. Yet let ’em look they glory not in mischief, Nor build their evils on the graves of great men, For then my guiltless [[Blood\|blood]] must cry against ‘em. For further life in this world I ne’er [[Hope\|hope]], Nor will I sue, although the [[King]] have mercies More than I dare make faults. You few that loved me, And dare be bold to weep for [[Buckingham]], His noble friends and fellows, whom to leave Is only bitter to him, only dying, Go with me like good angels to my end, And, as the long [[divorce]] of steel falls on me, Make of your prayers one sweet sacrifice, And lift my [[Soul\|soul]] to heaven. (To the guard) Lead on, i’ God’s name. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--06_exchange_lovell" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (LOVELL) [6]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| LOVELL | I do beseech your grace, for [[Charity\|charity]], If ever any malice in your heart Were hid against me, now to forgive me frankly. |
+| [[Buckingham\|BUCKINGHAM]] | Sir Thomas Lovell, I as free forgive you As I would be forgiven. I forgive all. There cannot be those numberless offences ‘Gainst me that I cannot take peace with. No black envy Shall mark my [[Grave\|grave]]. Commend me to his grace, And if he speak of [[Buckingham]], pray tell him You met him half in heaven. My vows and prayers Yet are the [[King]]’s, and, till my [[Soul\|soul]] forsake, Shall cry for blessings on him. May he live Longer than I have [[Time\|time]] to tell his years; Ever beloved and loving may his rule be; And, when old [[Time\|time]] shall lead him to his end, Goodness and he fill up one monument. |
+| LOVELL | To th’ waterside I must conduct your grace, Then give my charge up to Sir Nicholas Vaux, Who undertakes you to your end. |
+| VAUX | (to an attendant) Prepare there— The Duke is coming. See the barge be ready, And fit it with such furniture as suits The [[Greatness\|greatness]] of his person. |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--07_monologue_buckingham" data-title="All Is True (Henry VIII) — Act I, Scene 4 — monologue (BUCKINGHAM) [7]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Buckingham\|BUCKINGHAM]] | Nay, Sir Nicholas, Let it [[Alone\|alone]]. My state now will but mock me. When I came hither I was Lord High Constable And [[Duke of Buckingham]]; now, poor Edward Bohun. Yet I am richer than my base accusers, That never knew what [[Truth\|truth]] meant. I now seal it, And with that [[Blood\|blood]] will make ’em one day groan for’t. My noble father, Henry of [[Buckingham]], Who first raised head against usurping [[Richard]], Flying for succour to his servant Banister, Being distressed, was by that wretch betrayed, And without trial fell. God’s peace be with him. Henry the Seventh succeeding, truly pitying My father’s loss, like a most royal prince, Restored me to my honours, and out of ruins Made my name once more noble. Now his son, Henry the Eighth, life, [[Honour\|honour]], name, and all That made me happy, at one stroke has taken For ever from the world. I had my trial, And must needs say a noble one; which makes me A little happier than my wretched father. Yet thus far we are one in fortunes: both Fell by our servants, by those men we loved most— A most unnatural and faithless service. Heaven has an end in all. Yet, you that hear me, This from a dying man receive as certain— Where you are liberal of your loves and counsels, Be sure you be not loose; for those you make friends And give your hearts to, when they once perceive The least rub in your fortunes, fall away Like [[Water\|water]] from ye, never found again But where they mean to sink ye. All good people Pray for me. I must now forsake ye. The last hour Of my long weary life is come upon me. Farewell, and when you would say something that is sad, Speak how I fell. I have done, and God forgive me. Exeunt [[Buckingham]] and train The two Gentlemen come forward |
+
+
+
+
+<span class="atom-split" data-atom="act_1--scene_4--08_exchange_first_gentleman" data-title="All Is True (Henry VIII) — Act I, Scene 4 — exchange (FIRST GENTLEMAN) [8]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| FIRST GENTLEMAN | O, this is full of pity, sir; it calls, I [[Fear\|fear]], too many curses on their heads That were the authors. |
+| SECOND GENTLEMAN | If the Duke be guiltless, ’Tis full of woe. Yet I can give you inkling Of an ensuing evil, if it fall, Greater than this. |
+| FIRST GENTLEMAN | Good angels keep it from us. What may it be? You do not [[Doubt\|doubt]] my [[Faith\|faith]], sir? |
+| SECOND GENTLEMAN | This secret is so weighty, ’twill require A strong [[Faith\|faith]] to conceal it. |
+| FIRST GENTLEMAN | Let me have it— I do not talk much. |
+| SECOND GENTLEMAN | I am confident; You shall, sir. Did you not of late days hear A buzzing of separation Between the [[King]] and Katherine? |
+| FIRST GENTLEMAN | Yes, but it held not. For when the [[King]] once heard it, out of anger He sent command to the [[Lord Mayor]] straight To stop the rumour and allay those tongues That durst disperse it. |
+| SECOND GENTLEMAN | But that slander, sir, Is found a [[Truth\|truth]] now, for it grows again Fresher than e’er it was, and held for certain The [[King]] will venture at it. Either the Cardinal Or some about him near have, out of malice To the good [[Queen]], possessed him with a scruple That will undo her. To confirm this, too, Cardinal Campeius is arrived, and lately, As all think, for this business. |
+| FIRST GENTLEMAN | ’Tis the Cardinal; And merely to [[Revenge\|revenge]] him on the Emperor For not bestowing on him at his asking The Archbishopric of Toledo this is purposed. |
+| SECOND GENTLEMAN | I think you have hit the mark. But is’t not cruel That she should feel the smart of this? The Cardinal Will have his will, and she must fall. |
+| FIRST GENTLEMAN | ’Tis woeful. We are too open here to argue this. Let’s think in private more. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Lord Chamberlain with a letter |
+| LORD CHAMBERLAIN | (reads) ‘My lord, the horses your lordship sent for, with all the care I had, I saw [[Well\|well]] chosen, ridden, and furnished. They were young and handsome, and of the best breed in the north. When they were ready to set out for [[London]], a man of my lord Cardinal’s, by commission and main power, took ‘em from me with this reason—his master would be served before a subject, if not before the [[King]]; which stopped our mouths, sir.’ I [[Fear\|fear]] he will indeed. [[Well]], let him have them. 10 He will have all, I think. Enter to the Lord Chamberlain the Dukes of Norfolk and Suffolk |
+| NORFOLK | [[Well]] met, my Lord Chamberlain. |
+| LORD CHAMBERLAIN | Good day to both your graces. |
+| SUFFOLK | How is the [[King]] employed? |
+| LORD CHAMBERLAIN | I left him private, Full of sad thoughts and troubles. |
+| NORFOLK | What’s the cause? |
+| LORD CHAMBERLAIN | It seems the [[Marriage\|marriage]] with his brother’s wife Has crept too near his [[Conscience\|conscience]]. |
+| SUFFOLK | No, his [[Conscience\|conscience]] Has crept too near another lady. |
+| NORFOLK | ’Tis so. This is the Cardinal’s doing. The [[King]]-Cardinal, That blind priest, like the eldest son of fortune, Turns what he list. The [[King]] will know him one day. |
+| SUFFOLK | Pray God he do. He’ll never know himself else. |
+| NORFOLK | How holily he works in all his business, And with what zeal! For now he has cracked the league Between us and the Emperor, the [[Queen]]’s greatnephew, 25 He dives into the [[King]]’s [[Soul\|soul]] and there scatters Dangers, doubts, wringing of the [[Conscience\|conscience]], Fears, and despairs—and all these for his [[Marriage\|marriage]]. And out of all these, to restore the [[King]], He counsels a [[divorce]]—a loss of her That like a [[Jewel\|jewel]] has hung twenty years About his neck, yet never lost her lustre; Of her that loves him with that excellence That angels [[Love\|love]] good men with; even of her That, when the greatest stroke of fortune falls, Will bless the [[King]]—and is not this course pious? |
+| LORD CHAMBERLAIN | Heaven keep me from such counsel! ’Tis most true— These news are everywhere, every tongue speaks ’em, And every true heart weeps for’t. All that dare Look into these affairs see this main end— The French [[King\|king]]’s sister. Heaven will one day open The [[King]]’s eyes, that so long have slept, upon This bold bad man. |
+| SUFFOLK | And free us from his [[Slavery\|slavery]]. |
+| NORFOLK. | We had need pray, And heartily, for our deliverance, Or this imperious man will work us all From princes into pages. All men’s honours Lie like one lump before him, to be fashioned Into what pitch he please. |
+| SUFFOLK | For me, my lords, I [[Love\|love]] him not, nor [[Fear\|fear]] him—there’s my creed. As I am made without him, so I’ll stand, If the [[King]] please. His curses and his blessings Touch me alike; they’re breath I not believe in. I knew him, and I know him; so I leave him To him that made him proud—the Pope. |
+| NORFOLK | Let’s in, And with some other business put the [[King]] From these sad thoughts that work too much upon him. (To the Lord Chamberlain) My lord, you’ll bear us company? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--02_exchange_lord_chamberlain" data-title="All Is True (Henry VIII) — Act II, Scene 2 — exchange (LORD CHAMBERLAIN) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| LORD CHAMBERLAIN | Excuse me, The [[King]] has sent me otherwhere. Besides, You’ll find a most unfit [[Time\|time]] to disturb him. Health to your lordships. |
+| NORFOLK | Thanks, my good Lord Chamberlain. Exit the Lord Chamberlain [[King]] Henry draws the curtain, and sits reading pensively |
+| SUFFOLK | How sad he looks! Sure he is much afflicted. |
+| [[King\|KING]] HENRY | Who’s there? Ha? |
+| NORFOLK | Pray God he be not angry. |
+| [[King\|KING]] HENRY | Who’s there, I say? How dare you thrust yourselves Into my private meditations! Who am I? Ha? |
+| NORFOLK | A gracious [[King\|king]] that pardons all offences Malice ne’er meant. Our breach of duty this way Is business of estate, in which we come To know your royal pleasure. |
+| [[King\|KING]] HENRY | Ye are too bold. Go to, I’ll make ye know your times of business. Is this an hour for temporal affairs? Ha? Enter [[Cardinal Wolsey]] and Cardinal Campeius, the latter with a commission Who’s there? My good lord Cardinal? O, my Wolsey, The quiet of my wounded [[Conscience\|conscience]], Thou art a cure fit for a [[King\|king]]. (To Campeius) You’re welcome, Most learnèd reverend sir, into our kingdom. Use us, and it. (To Wolsey) My good lord, have great care I be not found a talker. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Sir, you cannot. I would your grace would give us but an hour Of private conference. |
+| [[King\|KING]] HENRY | (to Norfolk and Suffolk) We are busy; go. Norfolk and Suffolk speak privately to one another as they depart |
+| NORFOLK | This priest has no [[Pride\|pride]] in him! |
+| SUFFOLK | Not to speak of. I would not be so sick, though, for his place— But this cannot continue. |
+| NORFOLK | If it do I’ll venture one have-at-him. |
+| SUFFOLK | I another. Exeunt Norfolk and Suffolk |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[King]]) Your grace has given a precedent of wisdom Above all princes in committing freely Your scruple to the voice of Christendom. Who can be angry now? What envy reach you? The Spaniard, tied by [[Blood\|blood]] and favour to her, Must now confess, if they have any goodness, The trial just and noble. All the cterks— I mean the learnèd ones in Christian kingdoms— Have their free voices. Rome, the [[Nurse\|nurse]] of judgement, Invited by your noble [[Self\|self]], hath sent One general tongue unto us: this good man, This just and learned priest, Card’nal Campeius, Whom once more I present unto your highness. |
+| [[King\|KING]] HENRY | (embracing Campeius) And once more in mine arms I bid him welcome, And thank the holy conclave for their loves. They have sent me such a man I would have wished for. |
+| CARDINAL CAMPEIUS | Your grace must needs deserve all strangers’ loves, You are so noble. To your highness’ hand I tender my commission, He gives the commission to the [[King]] (To Wolsey) by whose virtue, The [[Court]] of Rome commanding, you, my lord Cardinal of York, are joined with me their servant In the unpartial judging of this business. |
+| [[King\|KING]] HENRY | Two equal men. The [[Queen]] shall be acquainted Forthwith for what you come. Where’s Gardiner? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I know your majesty has always loved her So dear in heart not to deny her that A woman of less place might ask by law— Scholars allowed freely to argue for her. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_2--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act II, Scene 2 — exchange (KING HENRY) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | Ay, and the best she shall have, and my favour To him that does best, God forbid else. Cardinal, Prithee call Gardiner to me, my new secretary. [[Cardinal Wolsey]] goes to the door and calls Gardiner I find him a fit fellow. Enter Gardiner |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (aside to Gardiner) Give me your hand. Much joy and favour to you. You are the [[King]]’s now. |
+| GARDINER | (aside to Wolsey) But to be commanded For ever by your grace, whose hand has raised me. |
+| [[King\|KING]] HENRY | Come hither, Gardiner. The [[King]] walks with Gardiner and whispers with him |
+| CARDINAL CAMPEIUS | (to Wolsey) My lord of York, was not one Doctor Pace In this man’s place before him? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Yes, he was. |
+| CARDINAL CAMPEIUS | Was he not held a learnèd man? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Yes, surely. |
+| CARDINAL CAMPEIUS | Believe me, there’s an ill opinion spread then, Even of yourself, lord Cardinal. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | How? Of me? |
+| CARDINAL CAMPEIUS | They will not stick to say you envied him, And fearing he would rise, he was so virtuous, Kept him a foreign man still, which so grieved him That he ran mad and died. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Heav’n’s peace be with him— That’s Christian care enough. For living murmurers There’s places of rebuke. He was a [[Fool\|fool]], For he would needs be virtuous. (Gesturing towards Gardiner) That good fellow, If I command him, follows my appointment. I will have none so near else. Learn this, brother: We live not to be griped by meaner persons. |
+| [[King\|KING]] HENRY | (to Gardiner) Deliver this with modesty to th’ [[Queen]]. Exit Gardiner The most convenient place that I can think of For such receipt of learning is Blackfriars; There ye shall meet about this weighty business. My Wolsey, see it furnished. O, my lord, Would it not grieve an able man to leave So sweet a bedfellow? But [[Conscience\|conscience]], [[Conscience\|conscience]]— O, ’tis a tender place, and I must leave her. Exeunt |
 
 
 
@@ -2455,43 +1637,790 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 <span class="atom-split" data-atom="act_2--scene_3" data-title="All Is True (Henry VIII) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
 
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Anne Boleyn and an Old Lady |
-| ANNE | Not for that neither. Here’s the pang that pinches—<br>His highness having lived so long with her, and she<br>So good a lady that no tongue could ever<br>Pronounce dishonour of her—by my life,<br>She never knew harm-doing—O now, after<br>So many courses of the sun enthroned,<br>Still growing in a majesty and pomp the which<br>To leave a thousandfold more bitter than<br>’Tis sweet at first t’acquire—after this process,<br>To give her the avaunt, it is a pity<br>Would move a [[Monster|monster]]. |
+| ANNE | Not for that neither. Here’s the pang that pinches—<br>His highness having lived so long with her, and she<br>So good a lady that no tongue could ever<br>Pronounce dishonour of her—by my life,<br>She never knew harm-doing—O now, after<br>So many courses of the sun enthroned,<br>Still growing in a majesty and pomp the which<br>To leave a thousandfold more bitter than<br>’Tis sweet at first t’acquire—after this process,<br>To give her the avaunt, it is a pity<br>Would move a [[Monster\|monster]]. |
 | OLD LADY | Hearts of most hard temper<br>Melt and lament for her. |
-| ANNE | O, God’s will! Much better<br>She ne’er had known pomp; though’t be temporal,<br>Yet if that quarrel, fortune, do [[divorce]]<br>It from the bearer, ’tis a sufferance panging<br>As [[Soul|soul]] and bodies severing. |
+| ANNE | O, God’s will! Much better<br>She ne’er had known pomp; though’t be temporal,<br>Yet if that quarrel, fortune, do [[divorce]]<br>It from the bearer, ’tis a sufferance panging<br>As [[Soul\|soul]] and bodies severing. |
 | OLD LADY | Alas, poor lady!<br>She’s a stranger now again. |
 | ANNE | So much the more<br>Must pity drop upon her. Verily,<br>I swear, ’tis better to be lowly born<br>And range with humble livers in content<br>Than to be perked up in a glist’ring grief<br>And wear a golden sorrow. |
 | OLD LADY | Our content<br>Is our best having. |
-| ANNE | By my troth and maidenhead,<br>I would not be a [[Queen|queen]]. |
-| OLD LADY | Beshrew me, I would—<br>And venture maidenhead for’t; and so would you,<br>For all this spice of your hypocrisy.<br>You, that have so fair parts of woman on you,<br>Have, too, a woman’s heart which ever yet<br>Affected eminence, wealth, sovereignty;<br>Which, to say sooth, are blessings; and which gifts,<br>Saving your mincing, the capacity<br>Of your soft cheveril [[Conscience|conscience]] would receive<br>If you might please to stretch it. |
+| ANNE | By my troth and maidenhead,<br>I would not be a [[Queen\|queen]]. |
+| OLD LADY | Beshrew me, I would—<br>And venture maidenhead for’t; and so would you,<br>For all this spice of your hypocrisy.<br>You, that have so fair parts of woman on you,<br>Have, too, a woman’s heart which ever yet<br>Affected eminence, wealth, sovereignty;<br>Which, to say sooth, are blessings; and which gifts,<br>Saving your mincing, the capacity<br>Of your soft cheveril [[Conscience\|conscience]] would receive<br>If you might please to stretch it. |
 | ANNE | Nay, good troth. |
-| OLD LADY | Yes, troth and troth. You would not be a [[Queen|queen]]? |
+| OLD LADY | Yes, troth and troth. You would not be a [[Queen\|queen]]? |
 | ANNE | No, not for all the riches under heaven. |
-| OLD LADY | ’Tis strange. A threepence bowed would hire me,<br>Old as I am, to [[Queen|queen]] it. But I pray you,<br>What think you of a duchess? Have you limbs<br>To bear that load of title? |
-| ANNE | No, in [[Truth|truth]]. |
+| OLD LADY | ’Tis strange. A threepence bowed would hire me,<br>Old as I am, to [[Queen\|queen]] it. But I pray you,<br>What think you of a duchess? Have you limbs<br>To bear that load of title? |
+| ANNE | No, in [[Truth\|truth]]. |
 | OLD LADY | Then you are weakly made. Pluck off a little;<br>I would not be a young count in your way<br>For more than blushing comes to. If your back<br>Cannot vouchsafe this burden, ’tis too weak<br>Ever to get a boy. |
-| ANNE | How you do talk!<br>I swear again, I would not be a [[Queen|queen]]<br>For all the world. |
-| OLD LADY | In [[Faith|faith]], for little England<br>You’d venture an emballing; I myself<br>Would for Caernarfonshire, although there ’longed<br>No more to th’ [[Crown|crown]] but that. Lo, who comes here? |
+| ANNE | How you do talk!<br>I swear again, I would not be a [[Queen\|queen]]<br>For all the world. |
+| OLD LADY | In [[Faith\|faith]], for little England<br>You’d venture an emballing; I myself<br>Would for Caernarfonshire, although there ’longed<br>No more to th’ [[Crown\|crown]] but that. Lo, who comes here? |
 | *(didascalia)* | Enter the Lord Chamberlain |
 | LORD CHAMBERLAIN | Good morrow, ladies. What were’t worth to know<br>The secret of your conference? |
 | ANNE | My good lord,<br>Not your demand; it values not your asking.<br>Our mistress’ sorrows we were pitying. |
-| LORD CHAMBERLAIN | It was a gentle business, and becoming<br>The action of good women. There is [[Hope|hope]]<br>All will be [[Well|well]]. |
+| LORD CHAMBERLAIN | It was a gentle business, and becoming<br>The action of good women. There is [[Hope\|hope]]<br>All will be [[Well\|well]]. |
 | ANNE | Now I pray God, amen. |
-| LORD CHAMBERLAIN | You bear a gentle mind, and heav’nly blessings<br>Follow such creatures. That you may, fair lady,<br>Perceive I speak sincerely, and high note’s<br>Ta’en of your many virtues, the [[King]]’s majesty<br>Commends his good opinion of you, and<br>Does purpose [[Honour|honour]] to you no less flowing<br>Than [[Marchioness]] of Pembroke; to which title<br>A thousand pound a year annual support<br>Out of his grace he adds. |
+| LORD CHAMBERLAIN | You bear a gentle mind, and heav’nly blessings<br>Follow such creatures. That you may, fair lady,<br>Perceive I speak sincerely, and high note’s<br>Ta’en of your many virtues, the [[King]]’s majesty<br>Commends his good opinion of you, and<br>Does purpose [[Honour\|honour]] to you no less flowing<br>Than [[Marchioness]] of Pembroke; to which title<br>A thousand pound a year annual support<br>Out of his grace he adds. |
 | ANNE | I do not know<br>What kind of my obedience I should tender.<br>More than my all is nothing; nor my prayers<br>Are not words duly hallowed, nor my wishes<br>More worth than empty vanities; yet prayers and wishes<br>Are all I can return. Beseech your lordship,<br>Vouchsafe to speak my thanks and my obedience,<br>As from a blushing handmaid to his highness,<br>Whose health and royalty I pray for. |
-| LORD CHAMBERLAIN | Lady,<br>I shall not fail t’approve the fair conceit<br>The [[King]] hath of you. (Aside) I have perused her [[Well|well]].<br>[[Beauty]] and [[Honour|honour]] in her are so mingled<br>That they have caught the [[King]], and who knows yet<br>But from this lady may proceed a gem<br>To lighten all this isle. (To Anne) I’ll to the [[King]]<br>And say I spoke with you; |
+| LORD CHAMBERLAIN | Lady,<br>I shall not fail t’approve the fair conceit<br>The [[King]] hath of you. (Aside) I have perused her [[Well\|well]].<br>[[Beauty]] and [[Honour\|honour]] in her are so mingled<br>That they have caught the [[King]], and who knows yet<br>But from this lady may proceed a gem<br>To lighten all this isle. (To Anne) I’ll to the [[King]]<br>And say I spoke with you; |
 | ANNE | My honoured lord. |
 | *(didascalia)* | Exit the Lord Chamberlain |
-| OLD LADY | Why, this it is—see, see!<br>I have been begging sixteen years in [[Court|court]],<br>Am yet a courtier beggarly, nor could<br>Come pat betwixt too early and too late<br>For any suit of pounds; and you—O, fate!—<br>A very fresh fish here—fie, fie upon<br>This compelled fortune!—have your mouth filled up<br>Before you open it. |
+| OLD LADY | Why, this it is—see, see!<br>I have been begging sixteen years in [[Court\|court]],<br>Am yet a courtier beggarly, nor could<br>Come pat betwixt too early and too late<br>For any suit of pounds; and you—O, fate!—<br>A very fresh fish here—fie, fie upon<br>This compelled fortune!—have your mouth filled up<br>Before you open it. |
 | ANNE | This is strange to me. |
-| OLD LADY | How tastes it? Is it bitter? Forty pence, no.<br>There was a lady once—’tis an old story—<br>That would not be a [[Queen|queen]], that would she not,<br>For all the mud in [[Egypt]]. Have you heard it? |
+| OLD LADY | How tastes it? Is it bitter? Forty pence, no.<br>There was a lady once—’tis an old story—<br>That would not be a [[Queen\|queen]], that would she not,<br>For all the mud in [[Egypt]]. Have you heard it? |
 | ANNE | Come, you are pleasant. |
-| OLD LADY | With your theme I could<br>O’ermount the lark. The [[Marchioness]] of Pembroke?<br>A thousand pounds a year, for pure respect?<br>No other obligation? By my life,<br>That promises more thousands. [[Honour]]’s train<br>Is longer than his foreskirt. By this [[Time|time]]<br>I know your back will bear a duchess. Say,<br>Are you not stronger than you were? |
-| ANNE | Good lady,<br>Make yourself mirth with your particular fancy,<br>And leave me out on’t. Would I had no being;<br>If this salute my [[Blood|blood]] a jot. It faints me<br>To think what follows.<br>The [[Queen]] is comfortless, and we forgetful<br>In our long absence. Pray do not deliver<br>What here you’ve heard to her. |
+| OLD LADY | With your theme I could<br>O’ermount the lark. The [[Marchioness]] of Pembroke?<br>A thousand pounds a year, for pure respect?<br>No other obligation? By my life,<br>That promises more thousands. [[Honour]]’s train<br>Is longer than his foreskirt. By this [[Time\|time]]<br>I know your back will bear a duchess. Say,<br>Are you not stronger than you were? |
+| ANNE | Good lady,<br>Make yourself mirth with your particular fancy,<br>And leave me out on’t. Would I had no being;<br>If this salute my [[Blood\|blood]] a jot. It faints me<br>To think what follows.<br>The [[Queen]] is comfortless, and we forgetful<br>In our long absence. Pray do not deliver<br>What here you’ve heard to her. |
 | OLD LADY | What do you think me— |
 | *(didascalia)* | Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--01_monologue_speech" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (speech) [1]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Trumpets: sennet. Then cornetts. Enter two vergers with short silver wands; next them two Scribes in the habit of doctors; after them the Archbishop of Canterbury [[Alone\|alone]]; after him the Bishops of [[Lincoln]], Ely, Rochester, and Saint Asaph; next them, with some small distance, follows a gentleman bearing both the purse containing the great seal and a cardinal’s hat; then two priests bearing each a silver [[Cross\|cross]]; then a gentleman usher, bare-headed, accompanied with a serjeant-at-arms bearing a silver mace; then two gentlemen bearing two great silver pillars; after them, side by side, the two cardinals, Wolsey and Campeius; then two noblemen with the [[Sword\|sword]] and mace. The [[King]] ascends to his seat under the cloth of state; the two cardinals sit under him as judges; the [[Queen]], attended by Griffith her gentleman usher, takes place some distance from the [[King]]; the Bishops place themselves on each side the [[Court\|court]] in the manner of a consistory; below them, the Scribes. The lords sit next the Bishops. The rest of the attendants stand in convenient order about the stage |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--02_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [2]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Whilst our commission from Rome is read Let [[Silence\|silence]] be commanded. |
+| [[King\|KING]] HENRY | What’s the need? It hath already publicly been read, And on all sides th’authority allowed. You may then spare that [[Time\|time]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Be’t so. Proceed. |
+| SCRIBE | (to the Crier) Say, ‘Henry, [[King]] of England, come into the [[Court\|court]]’. |
+| CRIER | Henry, [[King]] of England, come into the [[Court\|court]]. |
+| [[King\|KING]] HENRY | Here. |
+| SCRIBE | (to the Crier) Say, ‘Katherine, [[Queen]] of England, come into the [[Court\|court]]’. |
+| CRIER | Katherine, [[Queen]] of England, come into the [[Court\|court]]. The [[Queen]] makes no answer, but rises out of her chair, goes about the [[Court\|court]], comes to the [[King]], and kneels at his feet. Then she speaks |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--03_monologue_queen_katherine" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (QUEEN KATHERINE) [3]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Queen Katherine\|QUEEN KATHERINE]] | Sir, I [[Desire\|desire]] you do me right and justice, And to bestow your pity on me; for I am a most poor woman, and a stranger, Born out of your dominions, having here No judge indifferent, nor no more assurance Of equal [[Friendship\|friendship]] and proceeding. Alas, sir, In what have I offended you? What cause Hath my behaviour given to your displeasure That thus you should proceed to put me off, And take your good grace from me? Heaven witness I have been to you a true and humble wife, At all times to your will conformable, Ever in [[Fear\|fear]] to kindle your dislike, Yea, subject to your countenance, glad or sorry As I saw it inclined. When was the hour I ever contradicted your [[Desire\|desire]], Or made it not mine too? Or which of your friends Have I not strove to [[Love\|love]], although I knew He were mine enemy? What friend of mine That had to him derived your anger did I Continue in my liking? Nay, gave notice He was from thence discharged? Sir, call to mind That I have been your wife in this obedience Upward of twenty years, and have been blessed With many children by you. If, in the course And process of this [[Time\|time]], you can report— And prove it, too—against mine [[Honour\|honour]] aught, My bond to wedlock, or my [[Love\|love]] and duty Against your sacred person, in God’s name Turn me away, and let the foul‘st contempt Shut door upon me, and so give me up To the sharp’st kind of justice. Please you, sir, The [[King]] your father was reputed for A prince most prudent, of an excellent And unmatched wit and judgement. [[Ferdinand]] My father, [[King]] of Spain, was reckoned one The wisest prince that there had reigned by many A year before. It is not to be questioned That they had gathered a wise council to them Of every realm, that did [[debate]] this business, Who deemed our [[Marriage\|marriage]] lawful. Wherefore I humbly Beseech you, sir, to spare me till I may Be by my friends in Spain advised, whose counsel I will implore. If not, i’th’ name of God, Your pleasure be fulfilled. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--04_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [4]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | You have here, lady, And of your choice, these reverend fathers, men Of singular integrity and learning, Yea, the elect o’th’ land, who are assembled To plead your cause. It shall be therefore bootless That longer you [[Desire\|desire]] the [[Court\|court]], as [[Well\|well]] For your own quiet, as to rectify What is unsettled in the [[King]]. |
+| CARDINAL CAMPEIUS | His grace Hath spoken [[Well\|well]] and justly. Therefore, madam, It’s fit this royal session do proceed, And that without delay their arguments Be now produced and heard. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | (to Wolsey) Lord Cardinal, To you I speak. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Your pleasure, madam. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Sir, I am about to weep, but thinking that We are a [[Queen\|queen]], or long have dreamed so, certain The daughter of a [[King\|king]], my drops of [[Tears\|tears]] I’ll turn to sparks of [[Fire\|fire]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Be patient yet. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | I will when you are humble! Nay, before, Or God will punish me. I do believe, Induced by potent circumstances, that You are mine enemy, and make my challenge You shall not be my judge. For it is you Have blown this coal betwixt my lord and me, Which God’s dew quench. Therefore I say again, I utterly abhor, yea, from my [[Soul\|soul]], Refuse you for my judge, whom yet once more I hold my most malicious foe, and think not At all a friend to [[Truth\|truth]]. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--05_monologue_cardinal_woisey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (CARDINAL WOISEY) [5]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| CARDINAL WOISEY | I do profess You speak not like yourself, who ever yet Have stood to [[Charity\|charity]], and displayed th‘effects Of disposition gentle and of wisdom O’er-topping woman’s power. Madam, you do me wrong. I have no spleen against you, nor injustice For you or any. How far I have proceeded, Or how far further shall, is warranted By a commission from the consistory, Yea, the whole consistory of Rome. You charge me That I ‘have blown this coal’. I do deny it. The [[King]] is present. If it be known to him That I gainsay my deed, how may he wound, And worthily, my falsehood—yea, as much As you have done my [[Truth\|truth]]. If he know That I am free of your report, he knows I am not of your wrong. Therefore in him It lies to cure me, and the cure is to Remove these thoughts from you. The which before His highness shall speak in, I do beseech You, gracious madam, to unthink your speaking, And to say so no more. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--06_exchange_queen_katherine" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (QUEEN KATHERINE) [6]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Queen Katherine\|QUEEN KATHERINE]] | My lord, my lord— I am a simple woman, much too weak T‘oppose your cunning. You’re meek and humblemouthed; You sign your place and calling, in full seeming, With meekness and [[Humility\|humility]]—but your heart Is crammed with arrogancy, spleen, and [[Pride\|pride]]. You have by fortune and his highness’ favours Gone slightly o’er low steps, and now are mounted Where powers are your retainers, and your words, Domestics to you, serve your will as’t please Yourself pronounce their office. I must tell you, You tender more your person’s [[Honour\|honour]] than Your high profession spiritual, that again I do refuse you for my judge, and here, Before you all, appeal unto the Pope, To bring my whole cause ’fore his holiness, And to be judged by him. She curtsies to the [[King]] and begins to depart |
+| CARDINAL CAMPEIUS | The [[Queen]] is obstinate, Stubborn to justice, apt to accuse it, and Disdainful to be tried by’t. ’Tis not [[Well\|well]]. She’s going away. |
+| [[King\|KING]] HENRY | (to the Crier) Call her again. |
+| CRIER | Katherine, [[Queen]] of England, come into the [[Court\|court]]. |
+| GRIFFITH | (to the [[Queen]]) Madam, you are called back. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | What need you note it? Pray you keep your way. When you are called, return. Now the Lord help. They vex me past my patience. Pray you, pass on. I will not tarry; no, nor ever more Upon this business my appearance make In any of their courts. Exeunt [[Queen Katherine]] and her attendants |
+| [[King\|KING]] HENRY | Go thy ways, Kate. That man i’th’ world who shall report he has A better wife, let him in naught be trusted For speaking false in that. Thou art [[Alone\|alone]]— If thy rare qualities, sweet gentleness, Thy meekness saint-like, wife-like [[government]], Obeying in commanding, and thy parts Sovereign and pious else could speak thee out— The [[Queen\|queen]] of earthly queens. She’s noble born, And like her true nobility she has Carried herself towards me. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Most gracious sir, In humblest manner I require your highness That it shall please you to declare in hearing Of all these ears—for where I am robbed and bound, There must I be unloosed, although not there At once and fully satisfied—whether ever I Did broach this business to your highness, or Laid any scruple in your way which might Induce you to the question on’t, or ever Have to you, but with thanks to God for such A royal lady, spake one the least word that might Be to the prejudice of her present state, Or touch of her good person? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--07_monologue_king_henry" data-title="All Is True (Henry VIII) — Act II, Scene 4 — monologue (KING HENRY) [7]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | My lord Cardinal, I do excuse you; yea, upon mine [[Honour\|honour]], I free you from’t. You are not to be taught That you have many enemies that know not Why they are so, but, like to village curs, Bark when their fellows do. By some of these The [[Queen]] is put in anger. You’re excused. But will you be more justified? You ever Have wished the sleeping of this business, never desired It to be stirred, but oft have hindered, oft, The passages made toward it. On my [[Honour\|honour]] I speak my good lord Card’nal to this point, And thus far clear him. Now, what moved me to’t, I will be bold with [[Time\|time]] and your attention. Then mark th‘inducement. Thus it came—give heed to’t. My [[Conscience\|conscience]] first received a tenderness, Scruple, and prick, on certain speeches uttered By th’ Bishop of Bayonne, then French Ambassador, Who had been hither sent on the debating A [[Marriage\|marriage]] ’twixt the Duke of Orléans and Our daughter Mary. I‘th’ progress of this business, Ere a determinate resolution, he— I mean the Bishop—did require a respite Wherein he might the [[King]] his lord advertise Whether our daughter were legitimate, Respecting this our [[Marriage\|marriage]] with the dowager, Sometimes our brother’s wife. This respite shook The bosom of my [[Conscience\|conscience]], entered me, Yea, with a spitting power, and made to tremble The region of my breast; which forced such way That many mazed considerings did throng And prest in with this caution. First, methought I stood not in the smile of heaven, who had Commanded [[Nature\|nature]] that my lady’s womb, If it conceived a male [[Child\|child]] by me, should Do no more offices of life to’t than The [[Grave\|grave]] does yield to th’ dead. For her male issue Or died where they were made, or shortly after This world had aired them. Hence I took a thought This was a judgement on me that my kingdom, [[Well]] worthy the best heir o’th’ world, should not Be gladded in’t by me. Then follows that I weighed the danger which my realms stood in By this my issue’s fail, and that gave to me Many a groaning throe. Thus hulling in The wild sea of my [[Conscience\|conscience]], I did steer Toward this remedy, whereupon we are Now present here together—that’s to say I meant to rectify my [[Conscience\|conscience]], which I then did feel full sick, and yet not [[Well\|well]], By all the reverend fathers of the land And doctors learned. First I began in private With you, my lord of [[Lincoln]]. You remember How under my oppression I did reek When I first moved you. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--08_exchange_lincoln" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (LINCOLN) [8]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Lincoln\|LINCOLN]] | Very [[Well\|well]], my liege. |
+| [[King\|KING]] HENRY | I have spoke long. Be pleased yourself to say How far you satisfied me. |
+| [[Lincoln\|LINCOLN]] | So please your highness, The question did at first so stagger me, Bearing a state of mighty moment in’t And consequence of dread, that I committed The daring’st counsel which I had to [[Doubt\|doubt]], And did entreat your highness to this course Which you are running here. |
+| [[King\|KING]] HENRY | (to Canterbury) I then moved you, My lord of Canterbury, and got your leave To make this present summons. Unsolicited I left no reverend person in this [[Court\|court]], But by particular consent proceeded Under your hands and seals. Therefore, go on, For no dislike i‘th’ world against the person Of the good [[Queen]], but the sharp thorny points Of my alleged reasons, drives this forward. Prove but our [[Marriage\|marriage]] lawful, by my life And kingly dignity, we are contented To wear our mortal state to come with her, Katherine, our [[Queen\|queen]], before the primest creature That’s paragoned o’th’ world. |
+| CARDINAL CAMPEIUS | So please your highness, The [[Queen]] being absent, ’tis a needful fitness That we adjourn this [[Court\|court]] till further day. Meanwhile must be an earnest motion Made to the [[Queen]] to call back her appeal She intends unto his holiness. |
+| [[King\|KING]] HENRY | (aside) I may perceive These cardinals trifle with me. I abhor This dilatory sloth and tricks of Rome. My learned and [[Well\|well]]-belovèd servant, [[Cranmer]], Prithee return. With thy approach I know My comfort comes along. (Aloud) Break up the [[Court\|court]]. I say, set on. Exeunt in manner as they entered |
+| [[King\|KING]] HENRY | 3.1 Enter [[Queen Katherine]] and her women, as at work |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Take thy lute, wench. My [[Soul\|soul]] grows sad with troubles. Sing, and disperse ’em if thou canst. Leave working. |
+| GENTLEWOMAN | (sings) Orpheus with his lute made trees, And the mountain tops that freeze, Bow themselves when he did sing. To his music plants and [[Flowers\|flowers]] Ever sprung, as sun and showers There had made a lasting [[spring]]. Everything that heard him play, Even the billows of the sea, Hung their heads, and then lay by. In sweet music is such art, Killing care and grief of heart Fall asleep, or hearing, die. Enter Griffith, a gentleman |
+| [[Queen Katherine\|QUEEN KATHERINE]] | How now? GRIFFITH An’t please your grace, the two great cardinals Wait in the presence. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Would they speak with me? GRIFFITH They willed me say so, madam. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Pray their graces To come near. Exit Griffith What can be their business With me, a poor weak woman, fall’n from favour? I do not like their coming, now I think on’t; They should be good men, their affairs as righteous— But all hoods make not [[Monks\|monks]]. Enter the two cardinals, Wolsey and Campeius, ushered by Griffith |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Peace to your highness. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Your graces find me here part of a housewife— I would be all, against the worst may happen. What are your pleasures with me, reverend lords? |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--09_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [9]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | May it please you, noble madam, to withdraw Into your private chamber, we shall give you The full cause of our coming. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Speak it here. There’s nothing I have done yet, o’ my [[Conscience\|conscience]], Deserves a corner. Would all other women Could speak this with as free a [[Soul\|soul]] as I do. My lords, I care not—so much I am happy Above a number—if my actions Were tried by ev’ry tongue, ev’ry eye saw ’em, Envy and base opinion set against ’em, I know my life so even. If your business Seek me out and that way I am wife in, Out with it boldly. [[Truth]] loves open dealing. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Tanta est erga te mentis integritas, Regina serenissima— |
+| [[Queen Katherine\|QUEEN KATHERINE]] | O, good my lord, no Latin. I am not such a truant since my coming As not to know the language I have lived in. A strange tongue makes my cause more strange suspicious— Pray, speak in English. Here are some will thank you, If you speak [[Truth\|truth]], for their poor mistress’ sake. Believe me, she has had much wrong. Lord Cardinal, The willing’st sin I ever yet committed May be absolved in English. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Noble lady, I am sorry my integrity should breed—so And service to his majesty and you— So deep suspicion, where all [[Faith\|faith]] was meant. We come not by the way of accusation, To taint that [[Honour\|honour]] every good tongue blesses, Nor to betray you any way to sorrow— You have too much, good lady—but to know How you stand minded in the weighty difference Between the [[King]] and you, and to deliver, Like free and honest men, our just opinions And comforts to your cause. |
+| CARDINAL CAMPEIUS | Most honoured madam, My lord of York, out of his noble [[Nature\|nature]], Zeal, and obedience he still bore your grace, Forgetting, like a good man, your late censure Both of his [[Truth\|truth]] and him—which was too far— Offers, as I do, in a sign of peace, His service and his counsel. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | (aside) To betray me. (Aloud) My lords, I thank you both for your good wills. Ye speak like honest men—pray God ye prove so. But how to make ye suddenly an answer In such a point of weight, so near mine [[Honour\|honour]]— More near my life, I [[Fear\|fear]]—with my weak wit, And to such men of gravity and learning, In [[Truth\|truth]] I know not. I was set at work Among my maids, full little—God knows—looking Either for such men or such business. For her sake that I have been—for I feel The last fit of my [[Greatness\|greatness]]—good your graces, Let me have [[Time\|time]] and counsel for my cause. Alas, I am a woman friendless, hopeless. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Madam, you wrong the [[King]]’s [[Love\|love]] with these fears. Your hopes and friends are infinite. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | In England But little for my profit. Can you think, lords, That any Englishman dare give me counsel, Or be a known friend ’gainst his highness’ pleasure— Though he be grown so desperate to be honest— And live a subject? Nay, forsooth, my friends, They that must weigh out my afflictions, They that my trust must grow to, live not here. They are, as all my other comforts, far hence, In mine own country, lords. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--10_exchange_cardinal_campeius" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL CAMPEIUS) [10]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| CARDINAL CAMPEIUS | I would your grace Would leave your griefs and take my counsel. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | How, sir? |
+| CARDINAL CAMPEIUS | Put your main cause into the [[King]]’s protection. He’s loving and most gracious. ’Twill be much Both for your [[Honour\|honour]] better and your cause, For if the trial of the law o’ertake ye You’ll part away disgraced. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to the [[Queen]]) He tells you rightly. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Ye tell me what ye wish for both—my ruin. Is this your Christian counsel? Out upon ye! Heaven is above all yet—there sits a judge That no [[King\|king]] can corrupt. |
+| CARDINAL CAMPEIUS | Your rage mistakes us. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | The more shame for ye! Holy men I thought ye, Upon my [[Soul\|soul]], two reverend cardinal virtues— But cardinal sins and hollow hearts I [[Fear\|fear]] ye. Mend ’em, for shame, my lords! Is this your comfort? The cordial that ye bring a wretched lady, A woman lost among ye, laughed at, scorned? I will not wish ye half my miseries— I have more [[Charity\|charity]]. But say I warned ye. Take heed, for, heaven’s sake take heed, lest at once The burden of my sorrows fall upon ye. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Madam, this is a mere distraction. You turn the good we offer into envy. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Ye turn me into nothing. Woe upon ye, And all such false professors. Would you have me— If you have any justice, any pity, If ye be anything but churchmen’s habits— Put my sick cause into his hands that hates me? Alas, he’s banished me his bed already— His [[Love\|love]], too, long ago. I am old, my lords, And all the fellowship I hold now with him Is only my obedience. What can happen To me above this wretchedness? All your studies Make me accursed like this. |
+| CARDINAL CAMPEIUS | Your fears are worse. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Have I lived thus long—let me speak myself, Since virtue finds no friends—a wife, a true one? A woman, I dare say, without vainglory, Never yet branded with suspicion? Have I with all my full affections Still met the [[King]], loved him next heav‘n, obeyed him, Been out of fondness superstitious to him, Almost forgot my prayers to content him? And am I thus rewarded? ’Tis not [[Well\|well]], lords. Bring me a constant woman to her husband, One that ne’er dreamed a joy beyond his pleasure, And to that woman when she has done most, Yet will I add an [[Honour\|honour]], a great patience. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Madam, you wander from the good we aim at. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | My lord, I dare not make myself so guilty To give up willingly that noble title Your master wed me to. Nothing but [[Death\|death]] Shall e’er [[divorce]] my dignities. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Pray, hear me. |
+| [[Queen Katherine\|QUEEN KATHERINE]] | Would I had never trod this English earth, Or felt the flatteries that grow upon it. Ye have angels’ faces, but heaven knows your hearts. What will become of me now, wretched lady? I am the most unhappy woman living. (To her women) Alas, poor wenches, where are now your fortunes? Shipwrecked upon a kingdom where no pity, No friends, no [[Hope\|hope]], no kindred weep for me? Almost no [[Grave\|grave]] allowed me? Like the lily, That once was mistress of the field and flourished, I’ll hang my head and perish. |
+
+
+
+
+<span class="atom-split" data-atom="act_2--scene_4--11_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act II, Scene 4 — exchange (CARDINAL WOLSEY) [11]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | If your grace Could but be brought to know our ends are honest, You’d feel more comfort. Why should we, good lady, Upon what cause, wrong you? Alas, our places, The way of our profession, is against it. We are to cure such sorrows, not to sow ’em. For goodness’ sake, consider what you do, How you may hurt yourself, ay, utterly Grow from the [[King]]’s acquaintance by this carriage. The hearts of princes kiss obedience, So much they [[Love\|love]] it, but to stubborn spirits They swell and grow as terrible as storms. I know you have a gentle noble temper, A [[Soul\|soul]] as even as a calm. Pray, think us Those we profess—peacemakers, friends, and servants. |
+| CARDINAL CAMPEIUS | Madam, you’ll find it so. You wrong your virtues With these weak women’s fears. A noble spirit, As yours was put into you, ever casts Such doubts as false coin from it. The [[King]] loves you. Beware you lose it not. For us, if you please To trust us in your business, we are ready To use our utmost studies in your service. |
+| QUEENS KATHERINE | Do what ye will, my lords, and pray forgive me. If I have used myself unmannerly, You know I am a woman, lacking wit To make a seemly answer to such persons. Pray do my service to his majesty. He has my heart yet, and shall have my prayers While I shall have my life. Come, reverend fathers, Bestow your counsels on me. She now begs That little thought, when she set footing here, She should have bought her dignities so dear. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the Duke of Norfolk, the [[Duke of Suffolk]], Lord Surrey, and the Lord Chamberlain |
+| NORFOLK | If you will now unite in your complaints, And force them with a constancy, the Cardinal Cannot stand under them. If you omit The offer of this [[Time\|time]], I cannot promise But that you shall sustain more new disgraces With these you bear already. |
+| SURREY | I am joyful To meet the least occasion that may give me Remembrance of my father-in-law the Duke, To be revenged on him. |
+| SUFFOLK | Which of the peers Have uncontemned gone by him, or at least Strangely neglected? When did he regard The stamp of nobleness in any person Out of himself? |
+| LORD CHAMBERLAIN | My lords, you speak your pleasures. What he deserves of you and me I know; What we can do to him—though now the [[Time\|time]] Gives way to us—I much [[Fear\|fear]]. If you cannot Bar his access to th’ [[King]], never attempt Anything on him, for he hath a witchcraft Over the [[King]] in’s tongue. |
+| NORFOLK | O, [[Fear\|fear]] him not. His spell in that is out. The [[King]] hath found Matter against him that for ever mars The honey of his language. No, he’s settled, Not to come off, in his displeasure. |
+| SURREY | Sir, I should be glad to hear such news as this Once every hour. |
+| NORFOLK | Believe it, this is true. In the [[divorce]] his contrary proceedings Are all unfolded, wherein he appears As I would wish mine enemy. |
+| SURREY | How came His practices to light? |
+| SUFFOLK | Most strangely. |
+| SURREY | O, how, how? |
+| SUFFOLK | The Cardinal’s letters to the Pope miscarried, And came to th’eye o’th’ [[King]], wherein was read How that the Cardinal did entreat his holiness To stay the judgement o‘th’ [[divorce]], for if It did take place, ‘I do’, quoth he, ‘perceive My [[King\|king]] is tangled in affection to A creature of the [[Queen]]’s, [[Lady Anne]] Boleyn’. |
+| SURREY | Has the [[King]] this? |
+| SUFFOLK | Believe it. |
+| SURREY | Will this work? |
+| LORD CHAMBERLAIN | The [[King]] in this perceives him how he coasts And hedges his own way. But in this point All his tricks founder, and he brings his physic After his patient’s [[Death\|death]]. The [[King]] already Hath married the fair lady. |
+| SURREY | Would he had. |
+| SUFFOLK | May you be happy in your wish, my lord, For I profess you have it. |
+| SURREY | Now all my joy Trace the conjunction. |
+| SUFFOLK | My amen to’t. |
+| NORFOLK | All men’s. |
+| SUFFOLK | There’s order given for her coronation. Marry, this is yet but young, and may be left To some ears unrecounted. But, my lords, She is a gallant creature, and complete In mind and feature. I persuade me, from her Will fall some blessing to this land which shall In it be memorized. |
+| SURREY | But will the [[King]] Digest this letter of the Cardinal’s? The Lord forbid! |
+| NORFOLK | Marry, amen. |
+| SUFFOLK | No, no— There be more wasps that buzz about his nose Will make this sting the sooner. Cardinal Campeius Is stol’n away to Rome; hath ta’en no leave; Has left the cause o’th’ [[King]] unhandled, and Is posted as the agent of our Cardinal To second all his plot. I do assure you The [[King]] cried ‘Ha!’ at this. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--02_exchange_lord_chamberlain" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (LORD CHAMBERLAIN) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| LORD CHAMBERLAIN | Now God incense him, And let him cry ‘Ha!’ louder. |
+| NORFOLK | But, my lord, When returns [[Cranmer]]? |
+| SUFFOLK | He is returned in his opinions, which Have satisfied the [[King]] for his [[divorce]], Together with all famous colleges, Almost, in Christendom. Shortly, I believe, His second [[Marriage\|marriage]] shall be published, and Her coronation. Katherine no more Shall be called ‘[[Queen]]’, but ‘Princess Dowager’, And ‘widow to Prince [[arthur\|Arthur]]’. |
+| NORFOLK | This same [[Cranmer]]’s A worthy fellow, and hath ta’en much [[Pain\|pain]] In the [[King]]’s business. |
+| SUFFOLK | He has, and we shall see him For it an archbishop. |
+| NORFOLK | So I hear. |
+| SUFFOLK | ’Tis so. Enter [[Cardinal Wolsey]] and Cromwell The Cardinal. |
+| NORFOLK | Observe, observe—he’s moody. They stand apart and observe Wolsey and Cromwell |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (to Cromwell) The packet, Cromwell—gave’t you the [[King]]? CROMWELI, To his own hand, in’s bedchamber. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Looked he O’th’ inside of the paper? CROMWELL, Presently He did unseal them, and the first he viewed He did it with a serious mind; a heed Was in his countenance. You he bade Attend him here this morning. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Is he ready To come abroad? |
+| CROMWELL | I think by this he is. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Leave me a while. Exit Cromwell (Aside) It shall be to the Duchess of Alençon, The French [[King]]’s sister—he shall marry her. Anne Boleyn? No, I’ll no Anne Boleyns for him. There’s more in’t than fair visage. Boleyn? No, we’ll no Boleyns. Speedily I wish To hear from Rome. The [[Marchioness]] of Pembroke? The nobles speak among themselves |
+| NORFOLK | He’s discontented. |
+| SUFFOLK | Maybe he hears the [[King]] Does whet his anger to him. |
+| SURREY | Sharp enough, Lord, for thy justice. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (aside) The late [[Queen]]’s gentlewoman? A knight’s daughter To be her mistress’ mistress? The [[Queen]]’s [[Queen\|queen]]? This candle burns not clear; ‘tis I must snuff it, Then out it goes. What though I know her virtuous And [[Well\|well]] deserving? Yet I know her for A spleeny Lutheran, and not wholesome to Our cause, that she should lie i’th’ bosom of Our hard-ruled [[King]]. Again, there is sprung up An heretic, an arch-one, [[Cranmer]], one Hath crawled into the favour of the [[King]] And is his oracle. The nobles speak among themselves |
+| NORFOLK | He is vexed at something. Enter [[King]] Henry reading a schedule, and Lovell with him |
+| SURREY | I would ’twere something that would fret the string, The master-cord on’s heart! |
+| SUFFOLK | The [[King]], the [[King]]! |
+| [[King\|KING]] HENRY | aside What piles of wealth hath he accumulated To his own portion? And what expense by th’ hour Seems to flow from him? How i’th’ name of thrift Does he rake this together? (To the nobles) Now, my lords, Saw you the Cardinal? |
+| NORFOLK | My lord, we have Stood here observing him. Some strange commotion Is in his brain. He bites his lip, and starts, Stops on a sudden, looks upon the ground, Then lays his finger on his temple, straight Springs out into fast gait, then stops again, Strikes his breast hard, and anon he casts His eye against the [[Moon\|moon]]. In most strange postures We have seen him set himself. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (KING HENRY) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | It may [[Well\|well]] be There is a mutiny in’s mind. This morning Papers of state he sent me to peruse As I required, and wot you what I found There, on my [[Conscience\|conscience]] put unwittingly? Forsooth, an inventory thus importing The several parcels of his plate, his treasure, Rich stuffs, and ornaments of household which I find at such proud rate that it outspeaks Possession of a subject. |
+| NORFOLK | It’s heaven’s will. Some spirit put this paper in the packet To bless your eye withal. |
+| [[King\|KING]] HENRY | If we did think His contemplation were above the earth And fixed on spiritual object, he should still Dwell in his musings. But I am afraid His thinkings are below the [[Moon\|moon]], not worth His serious considering. The [[King]] takes his seat and whispers with Lovell, who then goes to the Cardinal |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Heaven forgive me! To the [[King]] Ever God bless your highness! |
+| [[King\|KING]] HENRY | Good my lord, You are full of heavenly stuff, and bear the inventory Of your best graces in your mind, the which You were now running o’er. You have scarce [[Time\|time]] To steal from spiritual leisure a brief span To keep your earthly audit. Sure, in that, I deem you an ill husband, and am glad To have you therein my companion. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Sir, For holy offices I have a [[Time\|time]]; a [[Time\|time]] To think upon the part of business which I bear i’th’ state; and [[Nature\|nature]] does require Her times of preservation which, perforce, I, her frail son, amongst my brethren mortal, Must give my tendance to. |
+| [[King\|KING]] HENRY | You have said [[Well\|well]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | And ever may your highness yoke together, As I will lend you cause, my doing [[Well\|well]] With my [[Well\|well]]-saying. |
+| [[King\|KING]] HENRY | ’Tis [[Well\|well]] said again, And ’tis a kind of good deed to say [[Well\|well]]— And yet words are no deeds. My father loved you. He said he did, and with his deed did [[Crown\|crown]] His word upon you. Since I had my office, I have kept you next my heart, have not [[Alone\|alone]] Employed you where high profits might come [[Home\|home]], But pared my present havings to bestow My bounties upon you. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (aside) What should this mean? |
+| SURREY | aside The Lord increase this business! |
+| [[King\|KING]] HENRY | Have I not made you The prime man of the state? I pray you tell me If what I now pronounce you have found true, And, if you may confess it, say withal If you are bound to us or no. What say you? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | My sovereign, I confess your royal graces Showered on me daily have been more than could My studied purposes requite, which went Beyond all man’s endeavours. My endeavours Have ever come too short of my desires, Yet filed with my abilities. Mine own ends Have been mine so that evermore they pointed To th’ good of your most sacred person and The profit of the state. For your great graces Heaped upon me, poor undeserver, I Can nothing render but allegiant thanks, My prayers to heaven for you, my loyalty, Which ever has and ever shall be growing, Till [[Death\|death]], that [[Winter\|winter]], kill it. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--04_exchange_king_henry" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (KING HENRY) [4]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | Fairly answered. A loyal and obedient subject is Therein illustrated. The [[Honour\|honour]] of it Does pay the act of it, as, i‘th’ contrary, The foulness is the punishment. I presume That as my hand has opened bounty to you, My heart dropped [[Love\|love]], my power rained [[Honour\|honour]], more On you than any, so your hand and heart, Your brain, and every function of your power, Should, notwithstanding that your bond of duty, As ’twere in [[Love\|love]]’s particular, be more To me, your friend, than any. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I do profess That for your highness’ good I ever laboured More than mine own; that am, have, and will be— Though all the world should crack their duty to you, And throw it from their [[Soul\|soul]], though perils did Abound, as thick as thought could make ’em, and Appear in forms more horrid—yet, my duty, As doth a rock against the chiding flood, Should the approach of this wild [[River\|river]] break, And stand unshaken yours. |
+| [[King\|KING]] HENRY | ’Tis nobly spoken. Take notice, lords, he has a loyal breast, For you have seen him open’t. (To Wolsey) Read o’er this, He gives him a paper And after this (giving him another paper), and then to breakfast with What appetite you have. Exit [[King]] Henry, frowning upon the Cardinal. The nobles throng after the [[King]], smiling and whispering |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--05_monologue_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — monologue (CARDINAL WOLSEY) [5]" data-chapter="Scene 2" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What should this mean? What sudden anger’s this? How have I reaped it? He parted frowning from me, as if ruin Leaped from his eyes. So looks the chafed [[Lion\|lion]] Upon the daring huntsman that has galled him, Then makes him nothing. I must read this paper— I [[Fear\|fear]], the story of his anger. He reads one of the papers ’Tis so. This paper has undone me. ’Tis th‘account Of all that world of wealth I have drawn together For mine own ends—indeed, to gain the popedom, And fee my friends in Rome. O negligence, Fit for a [[Fool\|fool]] to fall by! What [[Cross\|cross]] devil Made me put this main secret in the packet I sent the [[King]]? Is there no way to cure this? No new device to beat this from his brains? I know ’twill stir him strongly. Yet I know A way, if it take right, in spite of fortune Will bring me off again. What’s this? He reads the other paper ‘To th’ Pope’? The letter, as I live, with all the business I writ to’s holiness. Nay then, farewell. I have touched the highest point of all my [[Greatness\|greatness]], And from that full meridian of my glory I haste now to my setting. I shall fall Like a bright exhalation in the evening, And no man see me more. Enter to [[Cardinal Wolsey]] the Dukes of Norfolk and Suffolk, the [[Earl of Surrey]], and the Lord Chamberlain |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--06_exchange_norfolk" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (NORFOLK) [6]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| NORFOLK | Hear the [[King]]’s pleasure, Cardinal, who commands you To render up the great seal presently Into our hands, and to confine yourself To Ashen [[house\|House]], my lord of Winchester’s, Till you hear further from his highness. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Stay— Where’s your commission, lords? Words cannot carry Authority so weighty. |
+| SUFFOLK | Who dare [[Cross\|cross]] ’em Bearing the [[King]]’s will from his mouth expressly? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Till I find more than will or words to do it— I mean your malice—know, officious lords, I dare and must deny it. Now I feel Of what coarse metal ye are moulded—envy. How eagerly ye follow my disgraces As if it fed ye, and how sleek and wanton Ye appear in everything may bring my ruin! Follow your envious courses, men of malice. You have Christian warrant for ’em, and no [[Doubt\|doubt]] In [[Time\|time]] will find their fit rewards. That seal You ask with such a violence, the [[King]], Mine and your master, with his own hand gave me, Bade me enjoy it, with the place and honours, During my life; and, to confirm his goodness, Tied it by letters patents. Now, who’ll take it? |
+| SURREY | The [[King]] that gave it. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | It must be himself then. |
+| SURREY | Thou art a proud traitor, priest. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Proud lord, thou liest. Within these forty hours Surrey durst better Have burnt that tongue than said so. |
+| SURREY | Thy [[Ambition\|ambition]], Thou scarlet sin, robbed this bewailing land Of noble [[Buckingham]], my father-in-law. The heads of all thy brother cardinals With thee and all thy best parts bound together Weighed not a hair of his. Plague of your policy, You sent me deputy for Ireland, Far from his succour, from the [[King]], from all That might have [[Mercy\|mercy]] on the fault thou gav’st him; Whilst your great goodness, out of holy pity, Absolved him with an axe. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | This, and all else This talking lord can lay upon my credit, I answer is most false. The Duke by law Found his deserts. How [[Innocent\|innocent]] I was From any private malice in his end, His noble jury and foul cause can witness. If I loved many words, lord, I should tell you You have as little honesty as [[Honour\|honour]], That in the way of loyalty and [[Truth\|truth]] Toward the [[King]], my ever royal master, Dare mate a sounder man than Surrey can be, And all that [[Love\|love]] his follies. |
+| SURREY | By my [[Soul\|soul]], Your long coat, priest, protects you; thou shouldst feel My [[Sword\|sword]] i’th’ life-[[Blood\|blood]] of thee else. My lords, Can ye endure to hear this arrogance, And from this fellow? If we live thus tamely, To be thus jaded by a piece of scarlet, Farewell nobility. Let his grace go forward And dare us with his cap, like larks. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | All goodness Is [[Poison\|poison]] to thy stomach. |
+| SURREY | Yes, that goodness Of gleaning all the land’s wealth into one, Into your own hands, Card’nal, by extortion; The goodness of your intercepted packets You writ to th’ Pope against the [[King]]; your goodness— Since you provoke me—shall be most notorious. My lord of Norfolk, as you are truly noble, As you respect the common good, the state Of our despised nobility, our issues— Whom if he live will scarce be gentlemen— Produce the grand sum of his sins, the articles Collected from his life. (To Wolsey) I’ll startle you Worse than the sacring-bell when the brown wench Lay kissing in your arms, lord Cardinal. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--07_exchange_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (CARDINAL WOLSEY) [7]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | aside How much, methinks, I could despise this man, But that I am bound in [[Charity\|charity]] against it. |
+| NORFOLK | (to Surrey) Those articles, my lord, are in the [[King]]’s hand; But thus much—they are foul ones. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | So much fairer And spotless shall mine [[innocence]] arise When the [[King]] knows my [[Truth\|truth]]. |
+| SURREY | This cannot save you. I thank my [[Memory\|memory]] I yet remember Some of these articles, and out they shall. Now, if you can blush and cry ‘Guilty’, Cardinal, You’ll show a little honesty. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Speak on, sir; I dare your worst objections. If I blush, It is to see a nobleman want manners. |
+| SURREY | I had rather want those than my head. Have at you! First, that without the [[King]]’s assent or knowledge You wrought to be a legate, by which power You maimed the jurisdiction of all bishops. |
+| NORFOLK | (to Wolsey) Then, that in all you writ to Rome, or else To foreign princes, ‘Ego et Rex meus’ |
+| NORFOLK | Was still inscribed—in which you brought the [[King]] To be your servant. |
+| SUFFOLK | (to Wolsey) Then, that without the knowledge Either of [[King]] or Council, when you went Ambassador to the Emperor, you made bold To carry into Flanders the great seal. |
+| SURREY | (to Wolsey) Item, you sent a large commission To Gregory de Cassado, to conclude, Without the [[King]]’s will or the state’s allowance, A league between his highness and Ferrara, |
+| SUFFOLK | (to Wolsey) That out of mere [[Ambition\|ambition]] you have caused Your holy hat to be stamped on the [[King]]’s coin. |
+| SURREY | (to Wolsey) Then, that you have sent innumerable substance— By what means got, I leave to your own [[Conscience\|conscience]]— To furnish Rome, and to prepare the ways You have for dignities to the mere undoing Of all the kingdom. Many more there are, Which since they are of you, and odious, I will not taint my mouth with. |
+| LORD CHAMBERLAIN | O, my lord, Press not a falling man too far. ’Tis virtue. His faults lie open to the laws. Let them, Not you, correct him. My heart weeps to see him So little of his great [[Self\|self]]. |
+| SURREY | I forgive him. |
+| SUFFOLK | Lord Cardinal, the [[King]]’s further pleasure is— Because all those things you have done of late, By your power legantine within this kingdom, Fall into th’ compass of a praemunire— That therefore such a writ be sued against you, To forfeit all your goods, lands, tenements, Chattels, and whatsoever, and to be Out of the [[King]]’s protection. This is my charge. |
+| NORFOLK | (to Wolsey) And so we’ll leave you to your meditations How to live better. For your stubborn answer About the giving back the great seal to us, The [[King]] shall know it and, no [[Doubt\|doubt]], shall thank you. So fare you [[Well\|well]], my little good lord Cardinal. Exeunt all but Wolsey |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--08_monologue_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — monologue (CARDINAL WOLSEY) [8]" data-chapter="Scene 2" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | So farewell—to the little good you bear me. Farewell, a long farewell, to all my [[Greatness\|greatness]]! This is the state of man. Today he puts forth The tender [[Leaves\|leaves]] of hopes; tomorrow blossoms, And bears his blushing honours thick upon him; The third day comes a [[Frost\|frost]], a killing [[Frost\|frost]], And when he thinks, good easy man, full surely His [[Greatness\|greatness]] is a-ripening, nips his root, And then he falls, as I do. I have ventured, Like little wanton boys that swim on bladders, This many summers in a sea of glory, But far beyond my depth; my high-blown [[Pride\|pride]] At length broke under me, and now has left me Weary, and old with service, to the [[Mercy\|mercy]] Of a rude stream that must for ever hide me. Vain pomp and glory of this world, I hate ye! I feel my heart new opened. O, how wretched Is that poor man that hangs on princes’ favours! There is betwixt that smile we would aspire to, That sweet aspect of princes, and their ruin, More pangs and fears than wars or women have, And when he falls, he falls like [[Lucifer]], Never to [[Hope\|hope]] again. Enter Cromwell, who then stands amazed Why, how now, Cromwell? |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--09_exchange_cromwell" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (CROMWELL) [9]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| CROMWELL | I have no power to speak, sir. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | What, amazed At my misfortunes? Can thy spirit [[Wonder\|wonder]] A great man should decline? Cromwell begins to weep Nay, an you weep I am fall’n indeed. |
+| CROMWELL | How does your grace? |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | Why, [[Well\|well]]— Never so truly happy, my good Cromwell. I know myself now, and I feel within me A peace above all earthly dignities, A still and quiet [[Conscience\|conscience]]. The [[King]] has cured me. I humbly thank his grace, and from these shoulders, These ruined pillars, out of pity, taken A load would sink a navy—too much [[Honour\|honour]]. O, ’tis a burden, Cromwell, ’tis a burden Too heavy for a man that hopes for heaven. |
+| CROMWELL | I am glad your grace has made that right use of it. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | I [[Hope\|hope]] I have. I am able now, methinks, Out of a fortitude of [[Soul\|soul]] I feel, To endure more miseries and greater far Than my weak-hearted enemies dare offer. What news abroad? |
+| CROMWELL | The heaviest and the worst Is your displeasure with the [[King]]. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | God bless him. |
+| CROMWELL | The next is that [[Sir Thomas More]] is chosen Lord Chancellor in your place. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | That’s somewhat sudden. But he’s a learnèd man. May he continue Long in his highness’ favour, and do justice For [[Truth\|truth]]’s sake and his [[Conscience\|conscience]], that his bones, When he has run his course and sleeps in blessings, May have a tomb of orphans’ [[Tears\|tears]] wept on him. What more? |
+| CROMWELL | That [[Cranmer]] is returned with welcome, Installed lord Archbishop of Canterbury. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | That’s news indeed. |
+| CROMWELL | Last, that the [[Lady Anne]], Whom the [[King]] hath in secrecy long married, This day was viewed in open as his [[Queen\|queen]], Going to chapel, and the voice is now Only about her coronation. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | There was the weight that pulled me down. O, Cromwell, The [[King]] has gone beyond me. All my glories In that one woman I have lost for ever. No sun shall ever usher forth mine honours, Or gild again the noble troops that waited Upon my smiles. Go, get thee from me, Cromwell. I am a poor fall’n man, unworthy now To be thy lord and master. Seek the [[King]]— That sun I pray may never set—I have told him What and how true thou art. He will advance thee. Some little [[Memory\|memory]] of me will stir him. I know his noble [[Nature\|nature]] not to let Thy hopeful service perish too. Good Cromwell, Neglect him not. Make use now, and provide For thine own future safety. |
+| CROMWELL | weeping O, my lord, Must I then leave you? Must I needs forgo So good, so noble, and so true a master? Bear witness, all that have not hearts of iron, With what a sorrow Cromwell [[Leaves\|leaves]] his lord. The [[King]] shall have my service, but my prayers For ever and for ever shall be yours. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--10_monologue_cardinal_wolsey" data-title="All Is True (Henry VIII) — Act III, Scene 2 — monologue (CARDINAL WOLSEY) [10]" data-chapter="Scene 2" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | (weeping) Cromwell, I did not think to shed a tear In all my miseries, but thou hast forced me, Out of thy honest [[Truth\|truth]], to play the woman. Let’s dry our eyes, and thus far hear me, Cromwell, And when I am forgotten, as I shall be, And [[Sleep\|sleep]] in dull cold marble, where no mention Of me more must be heard of, say I taught thee— Say Wolsey, that once trod the ways of glory, And sounded all the depths and shoals of [[Honour\|honour]], Found thee a way, out of his wreck, to rise in, A sure and safe one, though thy master missed it. Mark but my fall, and that that ruined me. Cromwell, I charge thee, fling away [[Ambition\|ambition]]. By that sin fell the angels. How can man, then, The image of his maker, [[Hope\|hope]] to win by it? [[Love]] thyself last. Cherish those hearts that hate thee. Corruption wins not more than honesty. Still in thy right hand carry gentle peace To [[Silence\|silence]] envious tongues. Be just, and [[Fear\|fear]] not. Let all the ends thou aim’st at be thy country’s, Thy God’s, and [[Truth\|truth]]’s. Then if thou fall’st, O Cromwell, Thou fall‘st a blessed martyr. Serve the [[King]]. And prithee, lead me in— There take an inventory of all I have: To the last penny ’tis the [[King]]’s. My robe, And my integrity to heaven, is all I dare now call mine own. O Cromwell, Cromwell, Had I but served my God with half the zeal I served my [[King]], He would not in mine age Have left me naked to mine enemies. |
+
+
+
+
+<span class="atom-split" data-atom="act_3--scene_2--11_exchange_cromwell" data-title="All Is True (Henry VIII) — Act III, Scene 2 — exchange (CROMWELL) [11]" data-chapter="Scene 2" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| CROMWELL | Good sir, have patience. |
+| [[Cardinal Wolsey\|CARDINAL WOLSEY]] | So I have. Farewell The hopes of [[Court\|court]]; my hopes in heaven do dwell. Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter the two Gentlemen meeting one another. The first holds a paper |
+| FIRST GENTLEMAN | You’re [[Well\|well]] met once again. |
+| SECOND GENTLEMAN | So are you. |
+| FIRST GENTLEMAN | You come to take your stand here and behold The [[Lady Anne]] pass from her coronation? |
+| SECOND GENTLEMAN | ’Tis all my business. At our last encounter The [[Duke of Buckingham]] came from his trial. |
+| FIRST GENTLEMAN | ’Tis very true. But that [[Time\|time]] offered sorrow, This, general joy. |
+| SECOND GENTLEMAN | ’Tis [[Well\|well]]. The citizens, I am sure, have shown at full their royal minds— As, let ’em have their rights, they are ever forward— In celebration of this day with shows, Pageants, and sights of [[Honour\|honour]]. |
+| FIRST GENTLEMAN | Never greater, Nor, I’ll assure you, better taken, sir. |
+| SECOND GENTLEMAN | May I be bold to ask what that contains, That paper in your hand? |
+| FIRST GENTLEMAN | Yes, ’tis the list Of those that claim their offices this day By custom of the coronation. The [[Duke of Suffolk]] is the first, and claims To be High Steward; next, the Duke of Norfolk, He to be Earl Marshal. You may read the rest. He gives him the paper |
+| SECOND GENTLEMAN | I thank you, sir. Had I not known those customs, I should have been beholden to your paper. But I beseech you, what’s become of Katherine, The Princess Dowager? How goes her business? |
+| FIRST GENTLEMAN | That I can tell you too. The Archbishop Of Canterbury, accompanied with other Learned and reverend fathers of his order, Held a late [[Court\|court]] at Dunstable, six miles off From Ampthill, where the Princess lay; to which She was often cited by them, but appeared not. And, to be short, for not appearance, and The [[King]]’s late scruple, by the main assent Of all these learned men, she was divorced, And the late [[Marriage\|marriage]] made of none effect, Since which she was removed to Kimbolton, Where she remains now sick. |
+| SECOND GENTLEMAN | Alas, good lady! Flourish of trumpets within The trumpets sound. Stand close. The [[Queen]] is coming. Enter the coronation procession, which passes over the stage in order and state. Hautboys, within, play during the procession |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--02_monologue_the_order_of_the_coronat" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — monologue (THE ORDER OF THE CORONATION) [2]" data-chapter="Scene 1" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| THE ORDER OF THE | CORONATION 1. First, enter trumpeters, who play a lively flourish. 2. Then, enter two judges. 3. Then, enter the Lord Chancellor, with both the purse containing the great seal and the mace borne before him. 4. Then, enter choristers singing; with them, musicians playing. 5. Then, enter the [[Lord Mayor]] of [[London]] bearing the mace, followed by Garter [[King]]-of-Arms wearing his coat of arms and a gilt copper [[Crown\|crown]]. 6. Then, enter Marquis Dorset bearing a sceptre of gold, and wearing, on his head, a demi-coronal of gold and, about his neck, a collar of esses. With him enter the [[Earl of Surrey]] bearing the rod of silver with the dove, crowned with an earl’s coronet, and also wearing a collar of esses. 7. Next, enter the [[Duke of Suffolk]] as High Steward, in his robe of estate, with his coronet on his head, and bearing a long white wand. With him, enter the Duke of Norfolk with the rod of marshalship and a coronet on his head. Each wears a collar of esses. 8. Then, under a canopy borne by four barons of the Cinque Ports, enter Anne, the new [[Queen]], in her robe. Her hair, which hangs loose, is richly adorned with pearl. She wears a [[Crown\|crown]]. Accompanying her on either side are the Bishops of [[London]] and Winchester. 9. Next, enter the old Duchess of Norfolk, in a coronal of gold wrought with [[Flowers\|flowers]], bearing the [[Queen]]’s train. 10. Finally, enter certain ladies or countesses, with plain circlets of gold without [[Flowers\|flowers]]. The two Gentlemen comment on the procession as it passes over the stage |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--03_exchange_second_gentleman" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (SECOND GENTLEMAN) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| SECOND GENTLEMAN | A royal train, believe me. These I know. Who’s that that bears the sceptre? |
+| FIRST GENTLEMAN | Marquis Dorset. And that, the [[Earl of Surrey]] with the rod. |
+| SECOND GENTLEMAN | A bold brave gentleman. That should be The [[Duke of Suffolk]]? |
+| FIRST GENTLEMAN | ’Tis the same: High Steward. |
+| SECOND GENTLEMAN | And that, my lord of Norfolk? |
+| FIRST GENTLEMAN | Yes. |
+| SECOND GENTLEMAN | (seeing Anne) Heaven bless thee! Thou hast the sweetest face ever looked on. Sir, as I have a [[Soul\|soul]], she is an angel. Our [[King]] has all the Indies in his arms, And more, and richer, when he strains that lady. I cannot blame his [[Conscience\|conscience]]. |
+| FIRST GENTLEMAN | They that bear The cloth of [[Honour\|honour]] over her are four barons Of the Cinque Ports. |
+| SECOND GENTLEMAN | Those men are happy, And so are all are near her. I take it she that carries up the train Is that old noble lady, Duchess of Norfolk. |
+| FIRST GENTLEMAN | It is. And all the rest are countesses. |
+| SECOND GENTLEMAN | Their coronets say so. These are [[Stars\|stars]] indeed— FIRST GENTLEMAN And sometimes falling ones. |
+| SECOND GENTLEMAN | No more of that. Exit the last of the procession, and then a great flourish of trumpets within Enter a third Gentleman in a sweat |
+| FIRST GENTLEMAN | God save you, sir. Where have you been broiling? |
+| THIRD GENTLEMAN | Among the crowd i’th’ Abbey, where a finger Could not be wedged in more. I am stifled With the mere rankness of their joy. |
+| SECOND GENTLEMAN | You saw the ceremony? |
+| THIRD GENTLEMAN | That I did. |
+| FIRST GENTLEMAN | How Was it? |
+| THIRD GENTLEMAN | [[Well]] worth the seeing. |
+| SECOND GENTLEMAN | Good sir, speak it to us. |
+| THIRD GENTLEMAN | As [[Well\|well]] as I am able. The rich stream Of lords and ladies, having brought the [[Queen]] To a prepared place in the choir, fell off A distance from her, while her grace sat down To rest a while—some half an hour or so— In a rich chair of state, opposing freely The [[Beauty\|beauty]] of her person to the people. Believe me, sir, she is the goodliest woman That ever lay by man; which when the people Had the full view of, such a noise arose As the shrouds make at sea in a stiff tempest, As loud and to as many tunes. Hats, cloaks— Doublets, I think—flew up, and had their faces Been loose, this day they had been lost. Such joy I never saw before. Great-bellied women, That had not half a week to go, like rams In the old [[Time\|time]] of war, would shake the press, And make ’em reel before ’em. No man living Could say ‘This is my wife’ there, all were woven So strangely in one piece. |
+| SECOND GENTLEMAN | But what followed? |
+| THIRD GENTLEMAN | At length her grace [[Rose\|rose]], and with modest paces Came to the altar, where she kneeled, and saint-like Cast her fair eyes to heaven, and prayed devoutly, 86 Then [[Rose\|rose]] again, and bowed her to the people, When by the Archbishop of Canterbury She had all the royal makings of a [[Queen\|queen]], As holy oil, Edward Confessor’s [[Crown\|crown]], The rod and bird of peace, and all such emblems Laid nobly on her. Which performed, the choir, With all the choicest music of the kingdom, Together sung Te Deum. So she parted, And with the same full state paced back again To York Place, where the feast is held. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--04_exchange_first_gentleman" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (FIRST GENTLEMAN) [4]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| FIRST GENTLEMAN | Sir, You must no more call it York Place—that’s past, For since the Cardinal fell, that title’s lost. ‘Tis now the [[King]]’s, and called Whitehall. |
+| THIRD GENTLEMAN | I know it, But ’tis so lately altered that the old name Is fresh about me. |
+| SECOND GENTLEMAN | What two reverend bishops Were those that went on each side of the [[Queen]]? |
+| THIRD GENTLEMAN | Stokesley and Gardiner, the one of Winchester— Newly preferred from the [[King]]’s secretary— The other [[London]]. |
+| SECOND GENTLEMAN | He of Winchester Is held no great good [[Lover\|lover]] of the Archbishop’s, The virtuous [[Cranmer]]. |
+| THIRD GENTLEMAN | All the land knows that. However, yet there is no great breach. When it comes, [[Cranmer]] will find a friend will not shrink from him. |
+| SECOND GENTLEMAN | Who may that be, I pray you? |
+| THIRD GENTLEMAN | Thomas Cromwell, A man in much esteem with th’ [[King]], and truly A worthy friend. The [[King]] has made him Master o’th’ [[Jewel]] [[house\|House]], And one already of the Privy Council. |
+| SECOND GENTLEMAN | He will deserve more. |
+| THIRD GENTLEMAN | Yes, without all [[Doubt\|doubt]]. Come, gentlemen, ye shall go my way, Which is to th’ [[Court\|court]], and there ye shall be my guests. Something I can command. As I walk thither I’ll tell ye more. |
+| FIRST | and SECOND GENTLEMEN You may command us, sir. Exeunt |
+| *(didascalia)* | 4.2 Three chairs. Enter Katherine Dowager, sick, led between Griffith her gentleman usher, and Patience her woman |
+| GRIFFITH | How does your grace? |
+| KATHERINE | O Griffith, sick to [[Death\|death]]. My legs, like loaden branches, bow to th’ earth, Willing to leave their burden. Reach a chair. A chair is brought to her. She sits So now, methinks, I feel a little ease. Didst thou not tell me, Griffith, as thou led’st me, That the great [[Child\|child]] of [[Honour\|honour]], [[Cardinal Wolsey]], Was dead? |
+| GRIFFITH | Yes, madam, but I think your grace, Out of the [[Pain\|pain]] you suffered, gave no ear to’t. |
+| KATHERINE | Prithee, good Griffith, tell me how he died. If [[Well\|well]], he stepped before me happily For my example. |
+| GRIFFITH | [[Well]], the voice goes, madam. For after the stout Earl Northumberland Arrested him at York, and brought him forward, As a man sorely tainted, to his answer, He fell sick, suddenly, and grew so ill He could not sit his mule. |
+| KATHERINE | Alas, poor man. |
+| GRIFFITH | At last, with easy roads, he came to Leicester, Lodged in the abbey, where the reverend abbot, With all his convent, honourably received him, To whom he gave these words: ‛O father abbot, An old man broken with the storms of state Is come to lay his weary bones among ye. Give him a little earth, for [[Charity\|charity]].’ So went to bed, where eagerly his sickness Pursued him still, and three nights after this, About the hour of eight, which he himself Foretold should be his last, full of repentance, Continual meditations, [[Tears\|tears]], and sorrows, He gave his honours to the world again, His blessed part to heaven, and slept in peace. |
+| KATHERINE | So may he rest, his faults lie gently on him. Yet thus far, Griffith, give me leave to speak him, And yet with [[Charity\|charity]]. He was a man Of an unbounded stomach, ever ranking Himself with princes; one that by suggestion Tied all the kingdom. Simony was fair play. His own opinion was his law. I’th’ presence He would say untruths, and be ever [[Double\|double]] Both in his words and meaning. He was never, But where he meant to ruin, pitiful. His promises were, as he then was, mighty; But his performance, as he is now, nothing. Of his own [[Body\|body]] he was ill, and gave The clergy ill example. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--05_exchange_griffith" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (GRIFFITH) [5]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| GRIFFITH | Noble madam, Men’s evil manners live in brass, their virtues We write in [[Water\|water]]. May it please your highness To hear me speak his good now? |
+| KATHERINE | Yes, good Griffith, I were malicious else. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--06_monologue_griffith" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — monologue (GRIFFITH) [6]" data-chapter="Scene 1" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| GRIFFITH | This cardinal, Though from an humble stock, undoubtedly Was fashioned to much [[Honour\|honour]]. From his cradle He was a scholar, and a ripe and good one, Exceeding wise, fair-spoken, and persuading; Lofty and sour to them that loved him not, But to those men that sought him, sweet as [[Summer\|summer]]. And though he were unsatisfied in getting— Which was a sin—yet in bestowing, madam, He was most princely: ever witness for him Those twins of learning that he raised in you, Ipswich and [[Oxford]]—one of which fell with him, Unwilling to outlive the good that did it; The other, though unfinished, yet so famous, So excellent in art, and still so rising, That Christendom shall ever speak his virtue. His overthrow heaped happiness upon him, For then, and not till then, he felt himself, And found the blessedness of being little. And to add greater honours to his age Than man could give him, he died fearing God. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--07_exchange_katherine" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (KATHERINE) [7]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| KATHERINE | After my [[Death\|death]] I wish no other herald, No other speaker of my living actions To keep mine [[Honour\|honour]] from corruption But such an honest chronicler as Griffith. Whom I most hated living, thou hast made me, With thy religious [[Truth\|truth]] and modesty, Now in his ashes [[Honour\|honour]]. Peace be with him. (To her woman) Patience, be near me still, and set me lower. I have not long to trouble thee. Good Griffith, Cause the musicians play me that sad note I named my knell, whilst I sit meditating On that celestial harmony I go to. Sad and solemn music. Katherine sleeps |
+| GRIFFITH | (to the woman) She is asleep. Good wench, let’s sit down quiet For [[Fear\|fear]] we wake her. Softly, gentle Patience. They sit |
+| THE VISION | Enter, solemnly tripping one after another, six personages clad in white robes, wearing on their heads garlands of bays, and golden visors on their faces. They carry branches of bays or palm in their hands. They first conge unto Katherine, then [[Dance\|dance]]; and, at certain changes, the first two hold a spare garland over her head at which the other four make reverent curtsies. Then the two that held the garland deliver the same to the other next two, who observe the same order in their changes and holding the garland over her head. Which done, they deliver the same garland to the last two who likewise observe the same order. At which, as it were by inspiration, she makes in her [[Sleep\|sleep]] signs of rejoicing, and holdeth up her hands to heaven. And so in their dancing vanish, carrying the garland with them. The music continues |
+| KATHERINE | (waking) Spirits of peace, where are ye? Are ye all gone, And leave me here in wretchedness behind ye? Griffith and Patience rise and come forward |
+| GRIFFITH | Madam, we are here. |
+| KATHERINE | It is not you I call for. Saw ye none enter since I slept? |
+| GRIFFITH | None, madam. |
+| KATHERINE | No? Saw you not even now a blessèd troop Invite me to a banquet, whose bright faces Cast thousand beams upon me, like the sun? They promised me eternal happiness, And brought me garlands, Griffith, which I feel I am not worthy yet to wear. I shall, Assuredly. |
+| GRIFFITH | I am most joyful, madam, such good [[Dreams\|dreams]] Possess your fancy. |
+| KATHERINE | Bid the music leave. They are harsh and heavy to me. Music ceases |
+| PATIENCE | (to Griffith) Do you note How much her grace is altered on the sudden? How long her face is drawn? How pale she looks, And of an earthy colour? Mark her eyes? |
+| GRIFFITH | She is going, wench. Pray, pray. |
+| PATIENCE | Heaven comfort her. Enter a Messenger |
+| MESSENGER | (to Katherine) An’t like your grace— |
+| KATHERINE | You are a saucy fellow— Deserve we no more reverence? |
+| GRIFFITH | (to the Messenger) You are to blame, Knowing she will not lose her wonted [[Greatness\|greatness]], To use so rude behaviour. Go to, kneel. |
+| MESSENGER | (kneeling before Katherine) I humbly do entreat your highness’ pardon. My haste made me unmannerly. There is staying A gentleman sent from the [[King]] to see you. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--08_exchange_katherine" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (KATHERINE) [8]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| KATHERINE | Admit him entrance, Griffith. But this fellow Let me ne’er see again. Exit Messenger Enter Lord Caputius ushered by Griffith If my sight fail not, You should be lord ambassador from the Emperor, My royal nephew, and your name Caputius. |
+| CAPUTIUS | Madam, the same, bowing your servant. |
+| KATHERINE | O, my lord, The times and titles now are altered strangely With me since first you knew me. But I pray you, What is your pleasure with me? |
+| CAPUTIUS | Noble lady, First mine own service to your grace; the next, The [[King]]’s request that I would visit you, Who grieves much for your weakness, and by me Sends you his princely commendations, And heartily entreats you take good comfort. |
+| KATHERINE | O, my good lord, that comfort comes too late, ’Tis like a pardon after execution. That gentle physic, given in [[Time\|time]], had cured me; But now I am past all comforts here but prayers. How does his highness? |
+| CAPUTIUS | Madam, in good health. |
+| KATHERINE | So may he ever do, and ever flourish When I shall dwell with worms, and my poor name Banished the kingdom. (To her woman) Patience, is that letter I caused you write yet sent away? |
+| PATIENCE | No, madam. |
+| KATHERINE | (to Caputius) Sir, I most humbly pray you to deliver This to my lord the [[King]]. The letter is given to Caputius |
+| CAPUTIUS | Most willing, madam. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--09_monologue_katherine" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — monologue (KATHERINE) [9]" data-chapter="Scene 1" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| KATHERINE | In which I have commended to his goodness The model of our chaste loves, his young daughter— The dews of heaven fall thick in blessings on her— Beseeching him to give her virtuous breeding. She is young, and of a noble modest [[Nature\|nature]]. I [[Hope\|hope]] she will deserve [[Well\|well]]—and a little To [[Love\|love]] her for her mother’s sake, that loved him, Heaven knows how dearly. My next poor petition Is that his noble grace would have some pity Upon my wretched women, that so long Have followed both my fortunes faithfully; Of which there is not one, I dare avow— And now I should not lie—but will deserve, For virtue and true [[Beauty\|beauty]] of the [[Soul\|soul]], For honesty and decent carriage, A right good husband. Let him be a noble, And sure those men are happy that shall have ’em. The last is for my men—they are the poorest, But [[Poverty\|poverty]] could never draw ’em from me— That they may have their wages duly paid ’em, And something over to remember me by. If heaven had pleased to have given me longer life, And able means, we had not parted thus. These are the whole contents; and, good my lord, By that you [[Love\|love]] the dearest in this world, As you wish Christian peace to souls departed, Stand these poor people’s friend and urge the [[King]] To do me this last rite. |
+
+
+
+
+<span class="atom-split" data-atom="act_4--scene_1--10_exchange_caputius" data-title="All Is True (Henry VIII) — Act IV, Scene 1 — exchange (CAPUTIUS) [10]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| CAPUTIUS | By heaven I will, Or let me lose the fashion of a man. |
+| KATHERINE | I thank you, honest lord. Remember me In all [[Humility\|humility]] unto his highness. Say his long trouble now is passing Out of this world. Tell him, in [[Death\|death]] I blessed him, For so I will. Mine eyes grow dim. Farewell, My lord. Griffith, farewell. (To her woman) Nay, Patience, You must not leave me yet. I must to bed. Call in more women. When I am dead, good wench, Let me be used with [[Honour\|honour]]. Strew me over With maiden [[Flowers\|flowers]], that all the world may know I was a chaste wife to my [[Grave\|grave]]. Embalm me, Then lay me forth. Although unqueened, yet like A [[Queen\|queen]] and daughter to a [[King\|king]] inter me. I can no more. Exeunt Caputius and Griffith at one door; Patience leading Katherine at another |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter at one door Gardiner, Bishop of Winchester; before him, a Page with a torch |
+| GARDINER | It’s one o’[[Clock\|clock]], boy, is’t not? |
+| PAGE | It hath struck. |
+| GARDINER | These should be hours for necessities, Not for delights; times to repair our [[Nature\|nature]] With comforting repose, and not for us To waste these times. Enter at another door Sir Thomas Lovell, meeting them Good hour of [[Night\|night]], Sir Thomasl Whither so late? |
+| LOVELY | Came you from the [[King]], my lord? |
+| GARDINER | I did, Sir Thomas, and left him at primero With the [[Duke of Suffolk]]. |
+| LOVELL | I must to him too, Before he go to bed. I’ll take my leave. |
+| GARDINER | Not yet, Sir Thomas Lovell—what’s the matter? It seems you are in haste. An if there be No great offence belongs to’t, give your friend Some touch of your late business. Affairs that walk, As they say spirits do, at midnight, have In them a wilder [[Nature\|nature]] than the business That seeks dispatch by day. |
+| LOVELL | My lord, I [[Love\|love]] you, And durst commend a secret to your ear Much weightier than this work. The [[Queen]]’s in labour— They say in great extremity—and feared She’ll with the labour end. |
+| GARDINER | The fruit she goes with I pray for heartily, that it may find Good [[Time\|time]], and live. But, for the stock, Sir Thomas, I wish it grubbed up now. |
+| LOVELL | Methinks I could Cry the amen, and yet my [[Conscience\|conscience]] says She’s a good creature and, sweet lady, does Deserve our better wishes. |
+| GARDINER | But sir, sir, Hear me, Sir Thomas. You’re a gentleman Of mine own way. I know you wise, religious. And let me tell you, it will ne’er be [[Well\|well]]— ’Twill not, Sir Thomas Lovell, take’t of me— Till [[Cranmer]], Cromwell—her two hands—and she, [[Sleep]] in their graves. |
+| LOVELL | Now, sir, you speak of two The most remarked i‘th’ kingdom. As for Cromwell, Beside that of the [[Jewel]] [[house\|House]] is made Master O’th’ Rolls and the [[King]]’s secretary. Further, sir, Stands in the gap and trade of more preferments With which the [[Time\|time]] will load him. Th’Archbishop Is the [[King]]’s hand and tongue, and who dare speak One syllable against him? |
+| GARDINER | Yes, yes, Sir Thomas— There are that dare, and I myself have ventured To speak my mind of him, and, indeed, this day, Sir—I may tell it you, I think—I have Incensed the lords o’th’ Council that he is— For so I know he is, they know he is— A most arch heretic, a pestilence That does infect the land; with which they, moved, Have broken with the [[King]], who hath so far Given ear to our complaint, of his great grace And princely care, foreseeing those fell mischiefs Our reasons laid before him, hath commanded so Tomorrow morning to the Council board He be convented. He’s a rank weed, Sir Thomas, And we must root him out. From your affairs I hinder you too long. Good [[Night\|night]], Sir Thomas. |
+| LOVELL | Many good nights, my lord; I rest your servant. Exeunt Gardiner and Page at one door Enter [[King]] Henry and Suffolk at another door |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--02_exchange_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (KING HENRY) [2]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | (to Suffolk) Charles, I will play no more tonight. My mind’s not on’t. You are too hard for me. |
+| SUFFOLK | Sir, I did never win of you before. |
+| [[King\|KING]] HENRY | But little, Charles, Nor shall not when my fancy’s on my play. Now, Lovell, from the [[Queen]] what is the news? |
+| LOVELL | I could not personally deliver to her What you commanded me, but by her woman I sent your message, who returned her thanks In the great’st humbleness, and desired your highness Most heartily to pray for her. |
+| [[King\|KING]] HENRY | What sayst thou? Ha? To pray for her? What, is she crying out? |
+| LOVELL | So said her woman, and that her suffrance made Almost each pang a [[Death\|death]]. |
+| [[King\|KING]] HENRY | Alas, good lady. |
+| SUFFOLK | God safely quit her of her burden, and With gentle travail, to the gladding of Your highness with an heir. |
+| [[King\|KING]] HENRY | ’Tis midnight, Charles. Prithee to bed, and in thy prayers remember Th’estate of my poor [[Queen\|queen]]. Leave me [[Alone\|alone]], For I must think of that which company Would not be friendly to. |
+| SUFFOLK | I wish your highness A quiet [[Night\|night]], and my good mistress will Remember in my prayers. |
+| [[King\|KING]] HENRY | Charles, good [[Night\|night]]. Exit Suffolk Enter Sir Anthony Denny [[Well]], sir, what follows? |
+| DENNY | Sir, I have brought my lord the Archbishop, As you commanded me. |
+| [[King\|KING]] HENRY | Ha, Canterbury? |
+| DENNY | Ay, my good lord. |
+| [[King\|KING]] HENRY | ’Tis true—where is he, Denny? |
+| DENNY | He attends your highness’ pleasure. |
+| [[King\|KING]] HENRY | Bring him to us. Exit Denny |
+| LOVELL. | (aside) This is about that which the Bishop spake. I am happily come hither. Enter [[Cranmer]] the Archbishop, ushered by Denny |
+| [[King\|KING]] HENRY | (to Lovell and Denny) Avoid the gallery. Denny begins to depart. Lovell seems to stay Ha? I have said. Be gone. What? Exeunt Lovell and Denny |
+| [[Cranmer\|CRANMER]] | (aside) I am fearful. Wherefore frowns he thus? ’Tis his aspect of terror. All’s not [[Well\|well]]. |
+| [[King\|KING]] HENRY | How now, my lord? You do [[Desire\|desire]] to know Wherefore I sent for you. |
+| [[Cranmer\|CRANMER]] | (kneeling) It is my duty T’attend your highness’ pleasure. |
+| [[King\|KING]] HENRY | Pray you, arise, My good and gracious Lord of Canterbury. Come, you and I must walk a turn together. I have news to tell you. Come, come—give me your hand. [[Cranmer]] rises. They walk Ah, my good lord, I grieve at what I speak, And am right sorry to repeat what follows. I have, and most unwillingly, of late Heard many grievous—I do say, my lord, Grievous—complaints of you, which, being considered, Have moved us and our Council that you shall This morning come before us, where I know You cannot with such [[Freedom\|freedom]] purge yourself But that, till further trial in those charges Which will require your answer, you must take Your patience to you, and be [[Well\|well]] contented To make your [[house]] our Tower. You a brother of us, It fits we thus proceed, or else no witness Would come against you. |
+| [[Cranmer\|CRANMER]] | (kneeling) I humbly thank your highness, And am right glad to catch this good occasion Most throughly to be winnowed, where my chaff And corn shall fly asunder. For I know There’s none stands under more calumnious tongues Than I myself, poor man. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (KING HENRY) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | Stand up, good Canterbury. Thy [[Truth\|truth]] and thy integrity is rooted In us, thy friend. Give me thy hand. Stand up. Prithee, let’s walk. [[Cranmer]] rises. They walk Now, by my halidom, What manner of man are you? My lord, I looked You would have given me your petition that I should have ta’en some pains to bring together Yourself and your accusers, and to have heard you Without indurance further. |
+| [[Cranmer\|CRANMER]] | Most dread liege, The good I stand on is my [[Truth\|truth]] and honesty. If they shall fail, I with mine enemies Will triumph o’er my person, which I weigh not, Being of those virtues vacant. I [[Fear\|fear]] nothing What can be said against me. |
+| [[King\|KING]] HENRY | Know you not How your state stands i’th’ world, with the whole world? Your enemies are many, and not small; their practices Must bear the same proportion, and not ever The justice and the [[Truth\|truth]] o’th’ question carries The dew o’th’ verdict with it. At what ease Might corrupt minds procure knaves as corrupt To swear against you? Such things have been done. You are potently opposed, and with a malice Of as great size. Ween you of better luck, I mean in perjured witness, than your master, Whose minister you are, whiles here he lived Upon this naughty earth? Go to, go to. You take a precipice for no leap of danger, And woo your own destruction. |
+| [[Cranmer\|CRANMER]] | God and your majesty Protect mine [[innocence]], or I fall into The trap is laid for me. |
+| [[King\|KING]] HENRY | Be of good cheer. They shall no more prevail than we give way to. Keep comfort to you, and this morning see You do appear before them. If they shall chance, In charging you with matters, to commit you, The best persuasions to the contrary Fail not to use, and with what vehemency Th’occasion shall instruct you. If entreaties Will render you no remedy, giving his ring this ring Deliver them, and your appeal to us There make before them. [[Cranmer]] weeps Look, the good man weeps. He’s honest, on mine [[Honour\|honour]]. God’s blest mother, I swear he is true-hearted, and a [[Soul\|soul]] None better in my kingdom. Get you gone, And do as I have bid you. Exit [[Cranmer]] He has strangled His language in his [[Tears\|tears]]. Enter the Old Lady LOVELL (within) Come back! What mean you? Enter Lovell, following her |
+| OLD LADY | I’ll not come back. The tidings that I bring Will make my boldness manners. (To the [[King]]) Now good angels Fly o’er thy royal head, and shade thy person Under their blessed wings. |
+| [[King\|KING]] HENRY | Now by thy looks I guess thy message. Is the [[Queen]] delivered? Say, ‘Ay, and of a boy.’ |
+| OLD LADY | Ay, ay, my liege, And of a lovely boy. The God of heaven Both now and ever bless her! ’Tis a girl Promises boys hereafter. Sir, your [[Queen\|queen]] Desires your visitation, and to be Acquainted with this stranger. ’Tis as like you As cherry is to cherry. |
+| [[King\|KING]] HENRY | Lovell— |
+| LOVELL | Sir? |
+| [[King\|KING]] HENRY | Give her an hundred marks. I’ll to the [[Queen]]. Exit |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--04_exchange_old_lady" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (OLD LADY) [4]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| OLD LADY | An hundred marks? By this light, I’ll ha’ more. An ordinary groom is for such payment. I will have more, or scold it out of him. Said I for this the girl was like to him? I’ll Have more, or else unsay’t; and now, while ’tis hot, I’ll put it to the issue. Exeunt |
+| *(didascalia)* | 5.2 Enter pursuivants, pages, footboys, and grooms. Then enter [[Cranmer]], Archbishop of Canterbury |
+| [[Cranmer\|CRANMER]] | I [[Hope\|hope]] I am not too late, and yet the gentleman That was sent to me from the council prayed me To make great haste. All fast? What means this? (Calling at the door) Ho! Who waits there? Enter a Doorkeeper Sure you know me? |
+| DOORKEEPER | Yes, my lord, But yet I cannot help you. |
+| [[Cranmer\|CRANMER]] | Why? Enter Doctor Butts, passing over the stage |
+| DOORKEEPER | Your grace must wait till you be called for. |
+| [[Cranmer\|CRANMER]] | So. |
+| BUTTS | (aside) This is a piece of malice. I am glad I came this way so happily. The [[King]] Shall understand it presently. Exit |
+| [[Cranmer\|CRANMER]] | (aside) ‘Tis Butts, The [[King]]’s physician. As he passed along How earnestly he cast his eyes upon me! Pray heaven he found not my disgrace. For certain This is of purpose laid by some that hate me— God turn their hearts, I never sought their malice— To quench mine [[Honour\|honour]]. They would shame to make me Wait else at door, a fellow Councillor, ’Mong boys, grooms, and lackeys. But their pleasures Must be fulfilled, and I attend with patience. Enter [[King]] Henry and Doctor Butts at a [[Window\|window]], above |
+| BUTTS | I’ll show your grace the strangest sight— |
+| [[King\|KING]] HENRY | What’s that, Butts? |
+| BUTTS | I think your highness saw this many a day. |
+| [[King\|KING]] HENRY | [[Body]] o’me, where is it? |
+| BUTTS | (pointing at [[Cranmer]], below) There, my lord. The high promotion of his grace of Canterbury, Who holds his state at door, ’mongst pursuivants, Pages, and footboys. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--05_monologue_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 1 — monologue (KING HENRY) [5]" data-chapter="Scene 1" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | Ha? ‘Tis he indeed. Is this the [[Honour\|honour]] they do one another? ’Tis [[Well\|well]] there’s one above ’em yet. I had thought They had parted so much honesty among ’em— At least good manners—as not thus to suffer A man of his place and so near our favour To [[Dance\|dance]] attendance on their lordships’ pleasures, And at the door, too, like a post with packets! By holy Mary, Butts, there’s knavery! Let ’em [[Alone\|alone]], and draw the curtain close. We shall hear more anon. [[Cranmer]] and the doorkeeper stand to one side. Exeunt the lackeys Above, Butts partly draws the curtain close. Below, a council table is brought in along with chairs and stools, and placed under the cloth of state. Enter the Lord Chancellor, who places himself at the upper end of the table, on the left hand, leaving a seat void above him at the table’s head as for Canterbury’s seat. The [[Duke of Suffolk]], the Duke of Norfolk, the [[Earl of Surrey]], the Lord Chamberlain, and Gardiner, the Bishop of Winchester, seat themselves in order on each side of the table. Cromwell sits at the lower end, and acts as secretary |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--06_exchange_lord_chancellor" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (LORD CHANCELLOR) [6]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| LORD CHANCELLOR | (to Cromwell) Speak to the business, master secretary. Why are we met in council? |
+| CROMWELL | Please your honours, The chief cause concerns his grace of Canterbury. |
+| GARDINER | Has he had knowledge of it? |
+| CROMWELL | Yes. |
+| NORFOLK | (to the Doorkeeper) Who waits there? |
+| DOORKEEPER | coming forward Without, my noble lords? |
+| GARDINER | Yes. |
+| DOORKEEPER | My lord Archbishop; And has done half an hour, to know your pleasures. |
+| LORD CHANCELLOR | Let him come in. |
+| DOORKEEPER | (to [[Cranmer]]) Your grace may enter now. [[Cranmer]] approaches the Council table |
+| LORD CHANCELLOR | My good lord Archbishop, I’m very sorry To sit here at this present and behold That chair stand empty, but we all are men In our own natures frail, and capable Of our flesh; few are angels; out of which frailty And want of wisdom, you, that best should teach us, Have misdemeaned yourself, and not a little, Toward the [[King]] first, then his laws, in filling The whole realm, by your teaching and your chaplains’— For so we are informed—with new opinions, Diverse and dangerous, which are heresies, And, not reformed, may prove pernicious. |
+| GARDINER | Which [[Reformation\|reformation]] must be sudden too, My noble lords; for those that tame wild horses Pace ’em not in their hands to make ’em gentle, But stop their mouths with stubborn bits and spur ’em Till they obey the manège. If we suffer, Out of our easiness and childish pity To one man’s [[Honour\|honour]], this contagious sickness, Farewell all physic—and what follows then? Commotions, uproars—with a general taint Of the whole state, as of late days our neighbours, The upper [[Germany]], can dearly witness, Yet freshly pitied in our memories. 65 |
+| [[Cranmer\|CRANMER]] | My good lords, hitherto in all the progress Both of my life and office, I have laboured, And with no little study, that my teaching And the strong course of my authority Might go one way, and safely; and the end Was ever to do [[Well\|well]]. Nor is there living— I speak it with a single heart, my lords— A man that more detests, more stirs against, Both in his private [[Conscience\|conscience]] and his place, Defacers of a public peace than I do. Pray heaven the [[King]] may never find a heart With less allegiance in it. Men that make Envy and crooked malice nourishment Dare bite the best. I do beseech your lordships That, in this case of justice, my accusers, Be what they will, may stand forth face to face, And freely urge against me. |
+| SUFFOLK | Nay, my lord, That cannot be. You are a Councillor, And by that virtue no man dare accuse you. |
+| GARDINER | (to [[Cranmer]]) My lord, because we have business of more moment, We will be short with you. ’Tis his highness’ pleasure And our consent, for better trial of you, From hence you be committed to the Tower Where, being but a private man again, You shall know many dare accuse you boldly, More than, I [[Fear\|fear]], you are provided for. |
+| [[Cranmer\|CRANMER]] | Ah, my good lord of Winchester, I thank you. You are always my good friend. If your will pass, I shall both find your lordship judge and juror, You are so merciful. I see your end— ’Tis my undoing. [[Love]] and meekness, lord, Become a churchman better than [[Ambition\|ambition]]. Win straying souls with modesty again; Cast none away. That I shall clear myself, Lay all the weight ye can upon my patience, I make as little [[Doubt\|doubt]] as you do [[Conscience\|conscience]] In doing daily wrongs. I could say more, But reverence to your calling makes me modest. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--07_exchange_gardiner" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (GARDINER) [7]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| GARDINER | My lord, my lord—you are a sectary, That’s the plain [[Truth\|truth]]. Your painted gloss discovers, To men that understand you, words and weakness. |
+| CROMWELL | (to Gardiner) My lord of Winchester, you’re a little, By your good favour, too sharp. Men so noble, However faulty, yet should find respect For what they have been. ’Tis a cruelty To load a falling man. |
+| GARDINER | Good master secretary, I cry your [[Honour\|honour]] [[Mercy\|mercy]]. You may worst Of all this table say so. |
+| CROMWELL | Why, my lord? |
+| GARDINER | Do not I know you for a favourer Of this new sect? Ye are not sound. |
+| CROMWELL | Not sound? |
+| GARDINER | Not sound, I say. |
+| CROMWELL | Would you were half so honest! Men’s prayers then would seek you, not their fears. |
+| GARDINER | I shall remember this bold language. |
+| CROMWELL | Do. Remember your bold life, too. |
+| LORD CHANCELLOR | This is too much. Forbear, for shame, my lords. |
+| GARDINER | I have done. |
+| CROMWELL | And I. |
+| LORD CHANCELLOR | (to [[Cranmer]]) Then thus for you, my lord. It stands agreed, I take it, by all voices, that forthwith You be conveyed to th’ Tower a prisoner, There to remain till the [[King]]’s further pleasure Be known unto us. Are you all agreed, lords? |
+| ALL THE COUNCIL | We are. |
+| [[Cranmer\|CRANMER]] | Is there no other way of [[Mercy\|mercy]], But I must needs to th’ Tower, my lords? |
+| GARDINER | What other Would you expect? You are strangely troublesome. Let some o’th’ guard be ready there. Enter the guard |
+| [[Cranmer\|CRANMER]] | For me? Must I go like a traitor thither? |
+| GARDINER | (to the guard) Receive him, And see him safe i’th’ Tower. |
+| [[Cranmer\|CRANMER]] | Stay, good my lords. I have a little yet to say. Look there, my lords— He shows the [[King]]’s ring By virtue of that ring I take my cause Out of the grips of cruel men, and give it To a most noble judge, the [[King]] my master. |
+| LORD CHAMBERLAIN | This is the [[King]]’s ring. |
+| SURREY | ’Tis no counterfeit. |
+| SUFFOLK | ’Tis the right ring, by heav’n. I told ye all When we first put this dangerous stone a-[[rolling]] ’Twould fall upon ourselves. |
+| NORFOLK | Do you think, my lords, The [[King]] will suffer but the little finger Of this man to be vexed? |
+| LORD CHAMBERLAIN | ’Tis now too certain. How much more is his life in value with him! Would I were fairly out on’t. Exit [[King]] with Butts above |
+| CROMWELL | My mind gave me, In seeking tales and informations Against this man, whose honesty the devil And his disciples only envy at, Ye blew the [[Fire\|fire]] that burns ye. Now have at ye! Enter, below, [[King]] Henry frowning on them. He takes his seat |
+| GARDINER | Dread sovereign, how much are we bound to heaven In daily thanks, that gave us such a prince, Not only good and wise, but most religious. One that in all obedience makes the church The chief aim of his [[Honour\|honour]], and, to strengthen That holy duty, out of dear respect, His royal [[Self\|self]] in judgement comes to hear The cause betwixt her and this great offender. |
+| [[King\|KING]] HENRY | You were ever good at sudden commendations, Bishop of Winchester. But know I come not To hear such flattery now; and in my presence They are too thin and base to hide offences. To me you cannot reach. You play the spaniel, And think with wagging of your tongue to win me. But whatsoe’er thou tak’st me for, I’m sure Thou hast a cruel [[Nature\|nature]] and a bloody. (To [[Cranmer]]) Good man, sit down. [[Cranmer]] takes his seat at the head of the Council table Now let me see the proudest, He that dares most, but wag his finger at thee. By all that’s holy, he had better starve Than but once think this place becomes thee not. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_1--08_exchange_surrey" data-title="All Is True (Henry VIII) — Act V, Scene 1 — exchange (SURREY) [8]" data-chapter="Scene 1" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| SURREY | May it please your grace— |
+| [[King\|KING]] HENRY | No, sir, it does not please me! I had thought I had had men of some understanding And wisdom of my Council, but I find none. Was it discretion, lords, to let this man, This good man—few of you deserve that title— This honest man, wait like a lousy footboy At chamber door? And one as great as you are? Why, what a shame was this! Did my commission Bid ye so far forget yourselves? I gave ye Power as he was a Councillor to try him, Not as a groom. There’s some of ye, I see, More out of malice than integrity, Would try him to the utmost, had ye mean; Which ye shall never have while I live. |
+| LORD CHANCELLOR | Thus far, My most dread sovereign, may it like your grace To let my tongue excuse all. What was purposed Concerning his [[Imprisonment\|imprisonment]] was rather— If there be [[Faith\|faith]] in men—meant for his trial And fair purgation to the world than malice, I’m sure, in me. |
+| [[King\|KING]] HENRY | [[Well]], [[Well\|well]], my lords—respect him. Take him and use him [[Well\|well]], he’s worthy of it. I will say thus much for him—if a prince May be beholden to a subject, I Am for his [[Love\|love]] and service so to him. Make me no more ado; but all embrace him. Be friends, for shame, my lords. (To [[Cranmer]]) My lord of Canterbury, I have a suit which you must not deny me: That is a fair young maid that yet wants baptism— You must be godfather, and answer for her. |
+| [[Cranmer\|CRANMER]] | The greatest monarch now alive may glory In such an [[Honour\|honour]]; how may I deserve it, That am a poor and humble subject to you? |
+| [[King\|KING]] HENRY | Come, come, my lord—you’d spare your spoons. You shall have two noble partners with you—the old Duchess of Norfolk and Lady Marquis Dorset. Will these please you? (To Gardiner) Once more, my lord of Winchester, I charge you Embrace and [[Love\|love]] this man. |
+| GARDINER | With a true heart And brother-[[Love\|love]] I do it. Gardiner and [[Cranmer]] embrace |
+| [[Cranmer\|CRANMER]] | (weeping) And let heaven Witness how dear I hold this confirmation. |
+| [[King\|KING]] HENRY | Good man, those joyful [[Tears\|tears]] show thy true heart. The common voice, I see, is verified Of thee which says thus, ‘Do my lord of Canterbury A shrewd turn, and he’s your friend for ever.’ Come, lords, we trifle [[Time\|time]] away. I long To have this young one made a Christian. As I have made ye one, lords, one remain— So I grow stronger, you more [[Honour\|honour]] gain. Exeunt |
 
 
 
@@ -2499,28 +2428,28 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 <span class="atom-split" data-atom="act_5--scene_3" data-title="All Is True (Henry VIII) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
 
 
-| Chi parla | Battuta |
+| Speaker | Line |
 |---|---|
 | *(didascalia)* | Noise and tumult within. Enter Porter with rushes and his man with a broken cudgel |
-| PORTER | (to those within)<br>You’ll leave your noise anon, ye rascals. Do you take<br>The [[Court|court]] for [[Paris]] [[Garden]], ye rude slaves?<br>Leave your gaping. |
+| PORTER | (to those within)<br>You’ll leave your noise anon, ye rascals. Do you take<br>The [[Court\|court]] for [[Paris]] [[Garden]], ye rude slaves?<br>Leave your gaping. |
 | ONE | (within)<br>Good master porter, I belong to th’ larder. |
 | PORTER | Belong to th’ gallows, and be hanged, ye rogue!<br>Is this a place to roar in?<br>(To his man)<br>Fetch me a dozen crab-tree staves, and strong ones, |
 | *(didascalia)* | Raising his rushes These are but switches to ’em. |
 | PORTER | (To those within)<br>I’ll scratch your heads.<br>You must be seeing christenings? Do you look<br>For ale and cakes here, you rude rascals? |
-| MAN | Pray, sir, be patient. ’Tis as much impossible,<br>Unless we sweep ’em from the door with cannons,<br>To scatter ’em as ’tis to make ’em [[Sleep|sleep]]<br>On May-day morning—which will never be.<br>We may as [[Well|well]] push against Paul’s as stir ’em. |
+| MAN | Pray, sir, be patient. ’Tis as much impossible,<br>Unless we sweep ’em from the door with cannons,<br>To scatter ’em as ’tis to make ’em [[Sleep\|sleep]]<br>On May-day morning—which will never be.<br>We may as [[Well\|well]] push against Paul’s as stir ’em. |
 | PORTER | How got they in, and be hanged? |
 | MAN | Alas, I know not. How gets the tide in?<br>As much as one sound cudgel of four foot—<br>He raises his cudgel<br>You see the poor remainder—could distribute,<br>I made no spare, sir. |
 | PORTER | You did nothing, sir. |
-| MAN | I am not Samson, nor Sir Guy, nor Colbrand,<br>To mow ‘em down before me; but if I spared any<br>That had a head to hit, either young or old,<br>He or she, cuckold or cuckold-maker,<br>Let me ne’er [[Hope|hope]] to see a chine again—<br>And that I would not for a cow, God save her! |
+| MAN | I am not Samson, nor Sir Guy, nor Colbrand,<br>To mow ‘em down before me; but if I spared any<br>That had a head to hit, either young or old,<br>He or she, cuckold or cuckold-maker,<br>Let me ne’er [[Hope\|hope]] to see a chine again—<br>And that I would not for a cow, God save her! |
 | ONE | (within) Do you hear, master porter? |
 | PORTER | I shall be with you presently,<br>Good master puppy. (To his man) Keep the door close,<br>sirrah. |
 | MAN | What would you have me do? |
-| PORTER | What should you do, but knock ’em down by th’ dozens? Is this Moorfields<br>to muster in? Or have we some strange Indian with<br>the great tool come to [[Court|court]], the women so besiege us?<br>Bless me, what a fry of fornication is at door! On my<br>Christian [[Conscience|conscience]], this one christening will beget a<br>thousand. Here will be father, godfather, and all<br>together. |
-| MAN | The spoons will be the bigger, sir. There is a fellow somewhat near the door, he should be a brazier by his face, for o’ my [[Conscience|conscience]] twenty of the dog-days now reign in’s nose. All that stand about him are under the line—they need no other penance. That [[Fire|fire]]-drake did I hit three times on the head, and three times was his nose discharged against me. He stands there like a mortar-piece, to blow us. There was a haberdasher’s wife of small wit near him, that railed upon me till her pinked porringer fell off her head, for kindling such a combustion in the state. I missed the meteor once, and hit that woman, who cried out ‘Clubs!’, when I might see from far some forty truncheoners draw to her succour, which were the [[Hope|hope]] o’th’ Strand, where she was quartered. They fell on. I made good my place. At length they came to th’ broomstaff to me. I defied ’em still, when suddenly a file of boys behind ‘em, loose shot, delivered such a shower of pebbles that I was fain to draw mine [[Honour|honour]] in and let ’em win the work. The devil was amongst ’em, I think, surely. |
-| PORTER | These are the youths that thunder at a playhouse, and fight for bitten apples, that no audience but the tribulation of Tower [[Hill]] or the limbs of Limehouse, their dear brothers, are able to endure. I have some of ’em in limbo patrum, and there they are like to [[Dance|dance]] these three days, besides the running banquet of two beadles that is to come. |
+| PORTER | What should you do, but knock ’em down by th’ dozens? Is this Moorfields<br>to muster in? Or have we some strange Indian with<br>the great tool come to [[Court\|court]], the women so besiege us?<br>Bless me, what a fry of fornication is at door! On my<br>Christian [[Conscience\|conscience]], this one christening will beget a<br>thousand. Here will be father, godfather, and all<br>together. |
+| MAN | The spoons will be the bigger, sir. There is a fellow somewhat near the door, he should be a brazier by his face, for o’ my [[Conscience\|conscience]] twenty of the dog-days now reign in’s nose. All that stand about him are under the line—they need no other penance. That [[Fire\|fire]]-drake did I hit three times on the head, and three times was his nose discharged against me. He stands there like a mortar-piece, to blow us. There was a haberdasher’s wife of small wit near him, that railed upon me till her pinked porringer fell off her head, for kindling such a combustion in the state. I missed the meteor once, and hit that woman, who cried out ‘Clubs!’, when I might see from far some forty truncheoners draw to her succour, which were the [[Hope\|hope]] o’th’ Strand, where she was quartered. They fell on. I made good my place. At length they came to th’ broomstaff to me. I defied ’em still, when suddenly a file of boys behind ‘em, loose shot, delivered such a shower of pebbles that I was fain to draw mine [[Honour\|honour]] in and let ’em win the work. The devil was amongst ’em, I think, surely. |
+| PORTER | These are the youths that thunder at a playhouse, and fight for bitten apples, that no audience but the tribulation of Tower [[Hill]] or the limbs of Limehouse, their dear brothers, are able to endure. I have some of ’em in limbo patrum, and there they are like to [[Dance\|dance]] these three days, besides the running banquet of two beadles that is to come. |
 | *(didascalia)* | Enter the Lord Chamberlain |
-| LORD CHAMBERLAIN | [[Mercy]] o’ me, what a multitude are here!<br>They grow still, too—from all parts they are coming,<br>As if we kept a fair here! Where are these porters,<br>These lazy knaves? (To the Porter and his man) You’ve<br>made a fine hand, fellows!<br>There’s a trim rabble let in—are all these<br>Your faithful friends o’th’ suburbs? We shall have<br>Great store of room, no [[Doubt|doubt]], left for the ladies<br>When they pass back from the christening! |
-| PORTER | An’t please your [[Honour|honour]],<br>We are but men, and what so many may do,<br>Not being torn a-pieces, we have done.<br>An army cannot rule ’em. |
+| LORD CHAMBERLAIN | [[Mercy]] o’ me, what a multitude are here!<br>They grow still, too—from all parts they are coming,<br>As if we kept a fair here! Where are these porters,<br>These lazy knaves? (To the Porter and his man) You’ve<br>made a fine hand, fellows!<br>There’s a trim rabble let in—are all these<br>Your faithful friends o’th’ suburbs? We shall have<br>Great store of room, no [[Doubt\|doubt]], left for the ladies<br>When they pass back from the christening! |
+| PORTER | An’t please your [[Honour\|honour]],<br>We are but men, and what so many may do,<br>Not being torn a-pieces, we have done.<br>An army cannot rule ’em. |
 | LORD CHAMBERLAIN | As I live, If the [[King]] blame me for’t, I’ll lay ye all<br>By th’ heels, and suddenly—and on your heads<br>Clap round fines for neglect. You’re lazy knaves,<br>And here ye lie baiting of bombards when<br>Ye should do service. |
 | *(didascalia)* | Flourish of trumpets within |
 | LORD CHAMBERLAIN | Hark, the trumpets sound.<br>They’re come, already, from the christening.<br>Go break among the press, and find a way out<br>To let the troop pass fairly, or I’ll find<br>A Marshalsea shall hold ye play these two months. |
@@ -2529,3 +2458,74 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 | MAN | You great fellow,<br>Stand close up, or I’ll make your head ache. |
 | PORTER | You i’th’ camlet, get up o’th’ rail—<br>I’ll peck you o’er the pales else. |
 | *(didascalia)* | Exeunt |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--01_exchange_dialogue" data-title="All Is True (Henry VIII) — Act V, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter trumpeters, sounding. Then enter two aldermen, the [[Lord Mayor]] of [[London]], Garter [[King]]-of-Arms, [[Cranmer]] the Archbishop of Canterbury, the Duke of Norfolk with his marshal’s staff, the [[Duke of Suffolk]], two noblemen bearing great standing bowls for the christening gifts; then enter four noblemen bearing a canopy, under which is the Duchess of Norfolk, godmother, bearing the [[Child\|child]] Elizabeth richly habited in a mantle, whose train is borne by a lady. Then follows the [[Marchioness]] Dorset, the other godmother, and ladies. The troop pass once about the stage and Garter speaks |
+| GARTER | Heaven, from thy endless goodness send prosperous life, long, and ever happy, to the high and mighty Princess of England, Elizabeth. Flourish. Enter [[King]] Henry and guard |
+| [[Cranmer\|CRANMER]] | (kneeling) And to your royal grace, and the good [[Queen]]! My noble partners and myself thus pray All comfort, joy, in this most gracious lady, Heaven ever laid up to make parents happy, May hourly fall upon ye. |
+| [[King\|KING]] HENRY | Thank you, good lord Archbishop. What is her name? |
+| [[Cranmer\|CRANMER]] | Elizabeth. |
+| [[King\|KING]] HENRY | Stand up, lord. [[Cranmer]] rises (To the [[Child\|child]]) With this kiss take my blessing— He kisses the [[Child\|child]] God protect thee, Into whose hand I give thy life. |
+| [[Cranmer\|CRANMER]] | Amen. |
+| [[King\|KING]] HENRY | (to [[Cranmer]], old Duchess, and [[Marchioness]]) My noble gossips, you’ve been too prodigal. I thank ye heartily. So shall this lady, When she has so much English. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--02_monologue_cranmer" data-title="All Is True (Henry VIII) — Act V, Scene 4 — monologue (CRANMER) [2]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[Cranmer\|CRANMER]] | Let me speak, sir, For heaven now bids me, and the words I utter Let none think flattery, for they’ll find ’em [[Truth\|truth]]. This royal infant—heaven still move about her— Though in her cradle, yet now promises Upon this land a thousand thousand blessings Which [[Time\|time]] shall bring to ripeness. She shall be— But few now living can behold that goodness— A pattern to all princes living with her, And all that shall succeed. Saba was never More covetous of wisdom and fair virtue Than this pure [[Soul\|soul]] shall be. All princely graces That mould up such a mighty piece as this is, With all the virtues that attend the good, Shall still be doubled on her. [[Truth]] shall [[Nurse\|nurse]] her, Holy and heavenly thoughts still counsel her. She shall be loved and feared. Her own shall bless her; Her foes shake like a field of beaten corn, And hang their heads with sorrow. Good grows with her. In her days every man shall eat in safety Under his own vine what he plants, and sing The merry [[songs]] of peace to all his neighbours. God shall be truly known, and those about her From her shall read the perfect ways of [[Honour\|honour]], And by those claim their [[Greatness\|greatness]], not by [[Blood\|blood]]. Nor shall this peace [[Sleep\|sleep]] with her, but, as when The bird of [[Wonder\|wonder]] dies—the maiden phoenix— Her ashes new create another heir As great in admiration as herself, So shall she leave her blessedness to one, When heaven shall call her from this cloud of darkness, Who from the sacred ashes of her [[Honour\|honour]] Shall star-like rise as great in fame as she was, And so stand fixed. Peace, plenty, [[Love\|love]], [[Truth\|truth]], terror, That were the servants to this chosen infant, Shall then be his, and, like a vine, grow to him. Wherever the bright sun of heaven shall shine, His [[Honour\|honour]] and the [[Greatness\|greatness]] of his name Shall be, and make new nations. He shall flourish, And like a mountain cedar reach his branches To all the plains about him. Our children’s children Shall see this, and bless heaven. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--03_exchange_king_henry" data-title="All Is True (Henry VIII) — Act V, Scene 4 — exchange (KING HENRY) [3]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| [[King\|KING]] HENRY | Thou speakest wonders. |
+| CRAMMER | She shall be, to the happiness of England, An aged princess. Many days shall see her, And yet no day without a deed to [[Crown\|crown]] it. Would I had known no more. But she must die— She must, the saints must have her—yet a virgin, A most unspotted lily shall she pass To th’ ground, and all the world shall mourn her. |
+| [[King\|KING]] HENRY | O lord Archbishop, Thou hast made me now a man. Never before This happy [[Child\|child]] did I get anything. This oracle of comfort has so pleased me That when I am in heaven I shall [[Desire\|desire]] To see what this [[Child\|child]] does, and praise my maker. I thank ye all. To you, my good [[Lord Mayor]], And your good brethren, I am much beholden. I have received much [[Honour\|honour]] by your presence, And ye shall find me thankful. Lead the way, lords. Ye must all see the [[Queen]], and she must thank ye. She will be sick else. This day, no man think He’s business at his [[house]], for all shall stay— This little one shall make it holiday. Flourish. Exeunt Epilogue Enter Epilogue |
+| EPILOGUE | ‘Tis ten to one this play can never please All that are here. Some come to take their ease, And [[Sleep\|sleep]] an act or two; but those, we [[Fear\|fear]], We’ve frighted with our trumpets; so, ’tis clear, They’ll say ’tis naught. Others to hear the [[City\|city]] Abused extremely, and to cry ‘That’s witty!’— Which we have not done neither; that, I [[Fear\|fear]], All the expected good we’re like to hear For this play at this [[Time\|time]] is only in The merciful construction of good women, For such a one we showed ’em. If they smile, And say “Twill do’, I know within a while All the best men are ours—for ’tis ill hap If they hold when their ladies bid ’em clap. Exit |
+| BY JOHN FLETCHER AND | WILLIAM SHAKESPEARE |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--04_monologue_when" data-title="All Is True (Henry VIII) — Act V, Scene 4 — monologue (WHEN) [4]" data-chapter="Scene 4" data-kind="monologue"></span>
+
+
+| Speaker | Line |
+|---|---|
+| WHEN | it first appeared in print, in 1634, The Two Noble Kinsmen was stated to be ‘by the memorable worthies of their [[Time\|time]], Mr John Fletcher, and Mr William Shakespeare’. There is no reason to disbelieve this ascription: many plays of the period were not printed till long after they were acted, and there is other evidence that Shakespeare collaborated with Fletcher (1579―1625). The morris [[Dance\|dance]] in Act 3, Scene 5, contains characters who also appear in Francis Beaumont’s [[Masque]] of the Inner Temple and Gray’s Inn performed before James I on 20 February 1613. Their [[Dance\|dance]] was a great [[success]] with the [[King]]; probably the [[King]]’s Men—some of whom may have taken part in the [[Masque\|masque]]—decided to exploit its [[success]] by incorporating it in a play written soon afterwards, in the last year of Shakespeare’s playwriting life. The Two Noble Kinsmen, a [[Tragicomedy\|tragicomedy]] of the kind that became popular during the last years of the first decade of the seventeenth century, is based on Chaucer’s Knight’s Tale, on which Shakespeare had already drawn for episodes of A Midsummer [[Night]]’s Dream. It tells a romantic tale of the conflicting claims of [[Love\|love]] and [[Friendship\|friendship]]: the ‘two noble kinsmen’, [[Palamon]] and [[Arcite]], are the closest of friends until each falls in [[Love\|love]] with [[Emilia]], sister-in-law of [[Theseus]], Duke of Athens. Their conflict is finally resolved by a formal combat with [[Emilia]] as the prize, in which the loser is to be executed. [[Arcite]] wins, and [[Palamon]]’s head is on the block as news arrives that [[Arcite]] has been thrown from his [[Horse\|horse]]. Dying, [[Arcite]] commends [[Emilia]] to his friend, and [[Theseus]] rounds off the play with a meditation on the paradoxes of fortune. Studies of style suggest that Shakespeare was primarily responsible for the rhetorically and ritualistically impressive Act 1, for Act 2, Scene 1. Act 3, Scenes 1 and 2; and for most of Act 5 (Scene 4 excepted), which includes emblematically spectacular episodes related to his other late plays. Fletcher appears mainly to have written the scenes showing the rivalry of [[Palamon]] and [[Arcite]] along with the sub-plots concerned with the Jailer’s daughter’s [[Love\|love]] for [[Palamon]] and the rustics’ entertainment for [[Theseus]]. Though the play was adapted by William Davenant as The Rivals (1664), its first known performances since the seventeenth century were at the Old Vic in 1928; it has been played only occasionally since then, but was chosen to open the Swan Theatre in Stratford-upon-Avon in 1986. Critical interest, too, has been slight; but Shakespeare’s contributions are entirely characteristic of his late style, and Fletcher’s scenes are both touching and funny. |
+
+
+
+
+<span class="atom-split" data-atom="act_5--scene_4--05_exchange_the_persons_of_the_play" data-title="All Is True (Henry VIII) — Act V, Scene 4 — exchange (THE PERSONS OF THE PLAY) [5]" data-chapter="Scene 4" data-kind="exchange"></span>
+
+
+| Speaker | Line |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| PROLOGUE | [[Theseus\|THESEUS]], Duke of Athens [[Hippolyta\|HIPPOLYTA]], [[Queen]] of the Amazons, later wife of [[Theseus]] [[Emilia\|EMILIA]], her sister PIRITHOUS, friend of [[Theseus]] Hymen, god of [[Marriage\|marriage]] A BOY, who sings ARTESIUS, an Athenian soldier Three QUEENS, widows of kings killed in the siege of Thebes VALERIUS, a Theban |
+| *(didascalia)* | A |
+| HERALD | WOMAN, attending [[Emilia]] An Athenian GENTLEMAN |
+| MESSENGERS | Six KNIGHTS, three attending [[Arcite]] and three [[Palamon]] |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| JAILER | in charge of [[Theseus]]’ [[Prison\|prison]] The JAILER’S DAUGHTER The JAILER’S BROTHER The WOOER of the Jailer’s daughter Two FRIENDS of the Jailer |
+| *(didascalia)* | A |
+| DOCTOR | Six COUNTRYMEN, one dressed as a babion, or baboon Gerald, a SCHOOLMASTER NELL, a country wench Four other country wenches: Friz, [[Madeline]], Luce, and Barbara Timothy, a TABORER |
+| EPILOGUE | Nymphs, attendants, maids, executioner, guard |

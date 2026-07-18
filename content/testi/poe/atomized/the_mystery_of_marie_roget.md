@@ -4238,13 +4238,13 @@ somewhat more of hesitation by Madame.
 
 
 
-The anticipations of the shopkeeper were realized, and his rooms
-
-
-
-
 <span class="atom-split" data-atom="part--part_02" data-title="The Mystery of Marie Roget (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
 
+
+
+
+
+The anticipations of the shopkeeper were realized, and his rooms
 
 soon became notorious through the charms of the sprightly
 
@@ -4426,15 +4426,15 @@ Dupin, and made him a direct, and certainly a liberal
 
 proposition, the precise [[Nature|nature]] of which I do not feel myself at
 
+liberty to disclose, but which has no bearing upon the proper
+
+subject of my narrative.
 
 
 
 <span class="atom-split" data-atom="part--part_03" data-title="The Mystery of Marie Roget (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
 
 
-liberty to disclose, but which has no bearing upon the proper
-
-subject of my narrative.
 
 
 
@@ -4618,15 +4618,15 @@ muslin slip and the slip of lace, the strings of a bonnet were
 
 attached; the bonnet being appended. The knot by which the
 
+strings of the bonnet were fastened, was not a lady’s, but a slip
+
+or sailor’s knot.
 
 
 
 <span class="atom-split" data-atom="part--part_04" data-title="The Mystery of Marie Roget (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
 
 
-strings of the bonnet were fastened, was not a lady’s, but a slip
-
-or sailor’s knot.
 
 
 
@@ -4800,13 +4800,13 @@ been some one who would have thought it worth while to go over
 
 and attend the investigation, if they thought the [[Body|body]] was that
 
+of Marie.
 
 
 
 <span class="atom-split" data-atom="part--part_05" data-title="The Mystery of Marie Roget (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
 
-
-of Marie. Nobody went over. There was nothing said or heard about
+Nobody went over. There was nothing said or heard about
 
 the matter in the Rue Pavée St. Andrée, that reached even the
 
@@ -4988,15 +4988,15 @@ a close thicket, within which were three or four large stones,
 
 forming a kind of seat, with a back and footstool. On the upper
 
+stone lay a white petticoat; on the second a silk scarf. A
+
+parasol, gloves, and a pocket-handkerchief were also here found.
 
 
 
 <span class="atom-split" data-atom="part--part_06" data-title="The Mystery of Marie Roget (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
 
 
-stone lay a white petticoat; on the second a silk scarf. A
-
-parasol, gloves, and a pocket-handkerchief were also here found.
 
 The handkerchief bore the name “Marie Rogêt.” Fragments of dress
 
@@ -5180,12 +5180,6 @@ never occurred before?’ In the investigations at the [[house]] of
 
 Madame L’Espanaye, (*14) the agents of G—— were discouraged and
 
-
-
-
-<span class="atom-split" data-atom="part--part_07" data-title="The Mystery of Marie Roget (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
-
-
 confounded by that very unusualness which, to a properly
 
 regulated intellect, would have afforded the surest omen of
@@ -5205,6 +5199,12 @@ triumph to the functionaries of the Prefecture.
 even at the beginning of our investigation, no [[Doubt|doubt]] that murder
 
 had been committed. The idea of [[suicide]] was excluded at once.
+
+
+
+<span class="atom-split" data-atom="part--part_07" data-title="The Mystery of Marie Roget (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+
+
 
 Here, too, we are freed, at the commencement, from all
 
@@ -5364,12 +5364,6 @@ case_ against this passage of L’Etoile’s argument, I might safely
 
 leave it where it is. It is not, however, with L’Etoile that we
 
-
-
-
-<span class="atom-split" data-atom="part--part_08" data-title="The Mystery of Marie Roget (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
-
-
 have to do, but with the [[Truth|truth]]. The sentence in question has but
 
 one meaning, as it stands; and this meaning I have fairly stated;
@@ -5377,6 +5371,12 @@ one meaning, as it stands; and this meaning I have fairly stated;
 but it is material that we go behind the mere words, for an idea
 
 which these words have obviously intended, and failed to convey.
+
+
+
+<span class="atom-split" data-atom="part--part_08" data-title="The Mystery of Marie Roget (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+
+
 
 It was the design of the journalist to say that, at whatever
 
@@ -5540,15 +5540,15 @@ whole head, while the accidental aid of the smallest piece of
 
 timber will enable us to elevate the head so as to look about.
 
-Now, in the struggles of one unused to swimming, the arms are
-
-invariably thrown upwards, while an attempt is made to keep the
-
-
 
 
 <span class="atom-split" data-atom="part--part_09" data-title="The Mystery of Marie Roget (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
 
+
+
+Now, in the struggles of one unused to swimming, the arms are
+
+invariably thrown upwards, while an attempt is made to keep the
 
 head in its usual perpendicular position. The result is the
 
@@ -5718,15 +5718,15 @@ elapsed, this [[Body|body]] was found floating? If drowned, being a woman,
 
 she might never have sunk; or having sunk, might have reappeared
 
-in twenty-four hours, or less. But no one supposes her to have
-
-been drowned; and, dying before being thrown into the [[River|river]], she
-
+in twenty-four hours, or less.
 
 
 
 <span class="atom-split" data-atom="part--part_10" data-title="The Mystery of Marie Roget (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
 
+But no one supposes her to have
+
+been drowned; and, dying before being thrown into the [[River|river]], she
 
 might have been found floating at any period afterwards whatever.
 
@@ -5898,7 +5898,13 @@ corpse were also small, the increase of probability that the [[Body|body]]
 
 was that of Marie would not be an increase in a ratio merely
 
-arithmetical, but in one highly geometrical, or accumulative. Add
+arithmetical, but in one highly geometrical, or accumulative.
+
+
+
+<span class="atom-split" data-atom="part--part_11" data-title="The Mystery of Marie Roget (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+
+Add
 
 to all this shoes such as she had been known to wear upon the day
 
@@ -5907,12 +5913,6 @@ of her disappearance, and, although these shoes may be ‘sold in
 packages,’ you so far augment the probability as to verge upon
 
 the certain. What, of itself, would be no evidence of [[Identity|identity]],
-
-
-
-
-<span class="atom-split" data-atom="part--part_11" data-title="The Mystery of Marie Roget (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
-
 
 becomes through its corroborative position, proof most sure. Give
 
@@ -6092,13 +6092,13 @@ Commerciel?”
 
 “That, in spirit, they are far more worthy of attention than any
 
+which have been promulgated upon the subject.
 
 
 
 <span class="atom-split" data-atom="part--part_12" data-title="The Mystery of Marie Roget (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
 
-
-which have been promulgated upon the subject. The deductions from
+The deductions from
 
 the premises are philosophical and acute; but the premises, in
 
@@ -6268,6 +6268,12 @@ another division of the theme.
 
 “At present we must occupy ourselves with other investigations.
 
+
+
+<span class="atom-split" data-atom="part--part_13" data-title="The Mystery of Marie Roget (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+
+
+
 You cannot fail to have remarked the extreme laxity of the
 
 examination of the corpse. To be sure, the question of [[Identity|identity]]
@@ -6279,12 +6285,6 @@ points to be ascertained. Had the [[Body|body]] been in any respect
 despoiled? Had the deceased any articles of jewelry about her
 
 person upon leaving [[Home|home]]? if so, had she any when found? These
-
-
-
-
-<span class="atom-split" data-atom="part--part_13" data-title="The Mystery of Marie Roget (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
-
 
 are important questions utterly untouched by the evidence; and
 
@@ -6460,7 +6460,13 @@ and daughter, engaged, about dusk, the services of six young men,
 
 who were idly rowing a boat to and fro near the banks of the
 
-Seine, to convey him across the [[River|river]]. Upon reaching the opposite
+Seine, to convey him across the [[River|river]].
+
+
+
+<span class="atom-split" data-atom="part--part_14" data-title="The Mystery of Marie Roget (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+
+Upon reaching the opposite
 
 shore, the three passengers stepped out, and had proceeded so far
 
@@ -6471,12 +6477,6 @@ discovered that she had left in it her parasol. She returned for
 it, was seized by the gang, carried out into the stream, gagged,
 
 brutally treated, and finally taken to the shore at a point not
-
-
-
-
-<span class="atom-split" data-atom="part--part_14" data-title="The Mystery of Marie Roget (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
-
 
 far from that at which she had originally entered the boat with
 
@@ -6664,13 +6664,13 @@ intelligence, he should become aware of her continued absence
 
 from [[Home|home]]. She must have thought of these things, I say. She must
 
+have foreseen the chagrin of St. Eustache, the suspicion of all.
 
 
 
 <span class="atom-split" data-atom="part--part_15" data-title="The Mystery of Marie Roget (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
 
 
-have foreseen the chagrin of St. Eustache, the suspicion of all.
 
 She could not have thought of returning to brave this suspicion;
 
@@ -6846,15 +6846,15 @@ it was supposed to indicate the precise scene of the outrage, it
 
 must be admitted that there was some very good reason for [[Doubt|doubt]].
 
-That it was the scene, I may or I may not believe—but there was
-
-excellent reason for [[Doubt|doubt]]. Had the true scene been, as Le
-
-
 
 
 <span class="atom-split" data-atom="part--part_16" data-title="The Mystery of Marie Roget (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
 
+
+
+That it was the scene, I may or I may not believe—but there was
+
+excellent reason for [[Doubt|doubt]]. Had the true scene been, as Le
 
 Commerciel suggested, in the neighborhood of the Rue Pavée St.
 
@@ -7018,7 +7018,13 @@ to another, in any thicket in the immediate neighborhood of
 
 the articles were placed in the thicket with the view of
 
-diverting attention from the real scene of the outrage. And,
+diverting attention from the real scene of the outrage.
+
+
+
+<span class="atom-split" data-atom="part--part_17" data-title="The Mystery of Marie Roget (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+
+And,
 
 first, let me direct your notice to the date of the discovery of
 
@@ -7029,12 +7035,6 @@ made by myself from the newspapers. You will find that the
 discovery followed, almost immediately, the urgent communications
 
 sent to the evening paper. These communications, although various
-
-
-
-
-<span class="atom-split" data-atom="part--part_17" data-title="The Mystery of Marie Roget (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
-
 
 and apparently from various sources, tended all to the same
 
@@ -7184,6 +7184,12 @@ and the other in one. And this in the supposition that the edge
 
 is unhemmed. If hemmed, the matter is nearly out of the question.
 
+
+
+<span class="atom-split" data-atom="part--part_18" data-title="The Mystery of Marie Roget (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+
+
+
 We thus see the numerous and great obstacles in the way of pieces
 
 being ‘torn off’ through the simple agency of ‘thorns;’ yet we
@@ -7211,12 +7217,6 @@ enough precaution to think of removing the corpse. You will not
 have apprehended me rightly, however, if you suppose it my design
 
 to deny this thicket as the scene of the outrage. There might
-
-
-
-
-<span class="atom-split" data-atom="part--part_18" data-title="The Mystery of Marie Roget (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
-
 
 have been a wrong here, or, more possibly, an accident at Madame
 
@@ -7392,17 +7392,17 @@ the waist, and secured by a sort of hitch in the back.’ This was
 
 done with the obvious design of affording a handle by which to
 
-carry the [[Body|body]]. But would any number of men have dreamed of
-
-resorting to such an expedient? To three or four, the limbs of
-
-the corpse would have afforded not only a sufficient, but the
-
+carry the [[Body|body]].
 
 
 
 <span class="atom-split" data-atom="part--part_19" data-title="The Mystery of Marie Roget (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
 
+But would any number of men have dreamed of
+
+resorting to such an expedient? To three or four, the limbs of
+
+the corpse would have afforded not only a sufficient, but the
 
 best possible hold. The device is that of a single individual;
 
@@ -7580,7 +7580,13 @@ approaches.
 
 about dusk that the indecent haste of these ‘miscreants’ offended
 
-the sober eyes of Madame Deluc. But we are told that it was upon
+the sober eyes of Madame Deluc.
+
+
+
+<span class="atom-split" data-atom="part--part_20" data-title="The Mystery of Marie Roget (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+
+But we are told that it was upon
 
 this very evening that Madame Deluc, as [[Well|well]] as her eldest son,
 
@@ -7593,12 +7599,6 @@ evening at which these screams were heard? ‘It was soon after
 dark,’ she says. But ‘soon after dark,’ is, at least, dark; and
 
 ‘about dusk’ is as certainly daylight. Thus it is abundantly
-
-
-
-
-<span class="atom-split" data-atom="part--part_20" data-title="The Mystery of Marie Roget (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
-
 
 clear that the gang quitted the Barrière du Roule prior to the
 
@@ -7764,7 +7764,13 @@ parties, information on this particular point (or upon
 
 others)—information which the parties themselves may not even be
 
-aware of possessing. And let us now trace the boat picked up by
+aware of possessing.
+
+
+
+<span class="atom-split" data-atom="part--part_21" data-title="The Mystery of Marie Roget (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+
+And let us now trace the boat picked up by
 
 the bargeman on the morning of Monday the twenty-third of June,
 
@@ -7779,12 +7785,6 @@ proper caution and perseverance we shall infallibly trace this
 boat; for not only can the bargeman who picked it up identify it,
 
 but the rudder is at hand. The rudder of a sail-boat would not
-
-
-
-
-<span class="atom-split" data-atom="part--part_21" data-title="The Mystery of Marie Roget (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
-
 
 have been abandoned, without inquiry, by one altogether at ease
 
@@ -7956,6 +7956,12 @@ ratiocination, would produce any similar result.
 
 
 
+<span class="atom-split" data-atom="part--part_22" data-title="The Mystery of Marie Roget (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+
+
+
+
+
 For, in respect to the latter branch of the supposition, it
 
 should be considered that the most trifling variation in the
@@ -7969,12 +7975,6 @@ events; very much as, in arithmetic, an error which, in its own
 individuality, may be inappreciable, produces, at length, by dint
 
 of multiplication at all points of the process, a result
-
-
-
-
-<span class="atom-split" data-atom="part--part_22" data-title="The Mystery of Marie Roget (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
-
 
 enormously at variance with [[Truth|truth]]. And, in regard to the former
 
