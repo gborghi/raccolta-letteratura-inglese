@@ -668,6 +668,8 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             let enBody = normalizeProse(
               stripLeadingSelfH1(stripLeadingH1IfMatchesTitle(stripJunkSeparators(body), title)),
             )
+            // plays: EN-only dialogue → English table header (source vault bakes Italian)
+            enBody = enBody.replace(/^\|\s*Chi parla\s*\|\s*Battuta\s*\|$/gm, "| Speaker | Line |")
             const kind = isIntro ? "intro" : it.unitType
             let block =
               `\n\n<span class="atom-split" data-atom="${esc(atomId)}" ` +
