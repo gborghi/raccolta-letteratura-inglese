@@ -3,7 +3,7 @@ title: Sonnet 137
 author: Shakespeare
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight
-source: Authors/Shakespeare/Sonnets/Sonnet_137.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_137.md
 tags:
   - graph/work
   - author/Shakespeare

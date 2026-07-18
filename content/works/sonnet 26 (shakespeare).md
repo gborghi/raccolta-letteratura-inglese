@@ -3,7 +3,7 @@ title: Sonnet 26
 author: Shakespeare
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance
-source: Authors/Shakespeare/Sonnets/Sonnet_026.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_026.md
 tags:
   - graph/work
   - author/Shakespeare

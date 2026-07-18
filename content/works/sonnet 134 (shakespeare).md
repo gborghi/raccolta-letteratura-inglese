@@ -3,7 +3,7 @@ title: Sonnet 134
 author: Shakespeare
 type: work
 cluster: Friendship · Tears
-source: Authors/Shakespeare/Sonnets/Sonnet_134.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_134.md
 tags:
   - graph/work
   - author/Shakespeare

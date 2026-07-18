@@ -3,7 +3,7 @@ title: Sonnet 100
 author: Shakespeare
 type: work
 cluster: Time · Tempus Fugit · Clock
-source: Authors/Shakespeare/Sonnets/Sonnet_100.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_100.md
 tags:
   - graph/work
   - author/Shakespeare

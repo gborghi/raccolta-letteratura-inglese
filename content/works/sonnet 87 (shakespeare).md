@@ -3,7 +3,7 @@ title: Sonnet 87
 author: Shakespeare
 type: work
 cluster: Dreams · Moon
-source: Authors/Shakespeare/Sonnets/Sonnet_087.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_087.md
 tags:
   - graph/work
   - author/Shakespeare

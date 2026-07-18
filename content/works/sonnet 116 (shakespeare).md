@@ -3,7 +3,7 @@ title: Sonnet 116
 author: Shakespeare
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
-source: Authors/Shakespeare/Sonnets/Sonnet_116.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_116.md
 tags:
   - graph/work
   - author/Shakespeare

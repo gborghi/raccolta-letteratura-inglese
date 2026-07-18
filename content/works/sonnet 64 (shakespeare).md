@@ -3,7 +3,7 @@ title: Sonnet 64
 author: Shakespeare
 type: work
 cluster: Transience · Decay · Carpe Diem
-source: Authors/Shakespeare/Sonnets/Sonnet_064.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_064.md
 tags:
   - graph/work
   - author/Shakespeare

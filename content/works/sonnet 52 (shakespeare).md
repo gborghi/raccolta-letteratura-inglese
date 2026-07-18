@@ -3,7 +3,7 @@ title: Sonnet 52
 author: Shakespeare
 type: work
 cluster: Money and Gold · Poverty · Imprisonment
-source: Authors/Shakespeare/Sonnets/Sonnet_052.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_052.md
 tags:
   - graph/work
   - author/Shakespeare

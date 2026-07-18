@@ -3,7 +3,7 @@ title: Sonnet 75
 author: Shakespeare
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
-source: Authors/Shakespeare/Sonnets/Sonnet_075.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_075.md
 tags:
   - graph/work
   - author/Shakespeare

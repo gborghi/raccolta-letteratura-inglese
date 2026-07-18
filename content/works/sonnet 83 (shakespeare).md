@@ -3,7 +3,7 @@ title: Sonnet 83
 author: Shakespeare
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight
-source: Authors/Shakespeare/Sonnets/Sonnet_083.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_083.md
 tags:
   - graph/work
   - author/Shakespeare

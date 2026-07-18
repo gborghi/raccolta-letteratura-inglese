@@ -3,7 +3,7 @@ title: Sonnet 44
 author: Shakespeare
 type: work
 cluster: Journey · Ship
-source: Authors/Shakespeare/Sonnets/Sonnet_044.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_044.md
 tags:
   - graph/work
   - author/Shakespeare

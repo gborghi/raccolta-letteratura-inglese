@@ -3,7 +3,7 @@ title: Sonnet 43
 author: Shakespeare
 type: work
 cluster: Dreams · Moon
-source: Authors/Shakespeare/Sonnets/Sonnet_043.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_043.md
 tags:
   - graph/work
   - author/Shakespeare

@@ -3,7 +3,7 @@ title: Sonnet 1
 author: Shakespeare
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
-source: Authors/Shakespeare/Sonnets/Sonnet_001.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_001.md
 tags:
   - graph/work
   - author/Shakespeare

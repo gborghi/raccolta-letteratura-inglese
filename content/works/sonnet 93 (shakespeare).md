@@ -3,7 +3,7 @@ title: Sonnet 93
 author: Shakespeare
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight
-source: Authors/Shakespeare/Sonnets/Sonnet_093.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_093.md
 tags:
   - graph/work
   - author/Shakespeare

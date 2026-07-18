@@ -3,7 +3,7 @@ title: Sonnet 25
 author: Shakespeare
 type: work
 cluster: Crown · Pride · Fortune's Wheel
-source: Authors/Shakespeare/Sonnets/Sonnet_025.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_025.md
 tags:
   - graph/work
   - author/Shakespeare

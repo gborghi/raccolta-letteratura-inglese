@@ -3,7 +3,7 @@ title: Sonnet 122
 author: Shakespeare
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance
-source: Authors/Shakespeare/Sonnets/Sonnet_122.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_122.md
 tags:
   - graph/work
   - author/Shakespeare

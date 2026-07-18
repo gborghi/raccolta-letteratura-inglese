@@ -3,7 +3,7 @@ title: Sonnet 5
 author: Shakespeare
 type: work
 cluster: Seasons · Winter · Autumn
-source: Authors/Shakespeare/Sonnets/Sonnet_005.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_005.md
 tags:
   - graph/work
   - author/Shakespeare

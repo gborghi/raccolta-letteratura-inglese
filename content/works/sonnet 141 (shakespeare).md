@@ -3,7 +3,7 @@ title: Sonnet 141
 author: Shakespeare
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire
-source: Authors/Shakespeare/Sonnets/Sonnet_141.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_141.md
 tags:
   - graph/work
   - author/Shakespeare

@@ -3,7 +3,7 @@ title: Sonnet 148
 author: Shakespeare
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight
-source: Authors/Shakespeare/Sonnets/Sonnet_148.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_148.md
 tags:
   - graph/work
   - author/Shakespeare

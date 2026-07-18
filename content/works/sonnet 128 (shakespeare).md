@@ -3,7 +3,7 @@ title: Sonnet 128
 author: Shakespeare
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire
-source: Authors/Shakespeare/Sonnets/Sonnet_128.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_128.md
 tags:
   - graph/work
   - author/Shakespeare

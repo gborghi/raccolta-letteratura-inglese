@@ -3,7 +3,7 @@ title: Sonnet 118
 author: Shakespeare
 type: work
 cluster: Paradox · Food and Feasting · Aphorism
-source: Authors/Shakespeare/Sonnets/Sonnet_118.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_118.md
 tags:
   - graph/work
   - author/Shakespeare

@@ -3,7 +3,7 @@ title: Sonnet 73
 author: Shakespeare
 type: work
 cluster: Seasons · Winter · Autumn
-source: Authors/Shakespeare/Sonnets/Sonnet_073.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_073.md
 tags:
   - graph/work
   - author/Shakespeare

@@ -3,7 +3,7 @@ title: Sonnet 154
 author: Shakespeare
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire
-source: Authors/Shakespeare/Sonnets/Sonnet_154.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_154.md
 tags:
   - graph/work
   - author/Shakespeare

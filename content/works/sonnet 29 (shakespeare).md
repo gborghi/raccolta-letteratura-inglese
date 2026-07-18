@@ -3,7 +3,7 @@ title: Sonnet 29
 author: Shakespeare
 type: work
 cluster: Alienation · Outsider · Exile
-source: Authors/Shakespeare/Sonnets/Sonnet_029.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_029.md
 tags:
   - graph/work
   - author/Shakespeare

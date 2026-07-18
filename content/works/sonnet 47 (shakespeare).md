@@ -3,7 +3,7 @@ title: Sonnet 47
 author: Shakespeare
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
-source: Authors/Shakespeare/Sonnets/Sonnet_047.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_047.md
 tags:
   - graph/work
   - author/Shakespeare

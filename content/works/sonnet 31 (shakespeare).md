@@ -3,7 +3,7 @@ title: Sonnet 31
 author: Shakespeare
 type: work
 cluster: Mortality · Grave · Memento Mori
-source: Authors/Shakespeare/Sonnets/Sonnet_031.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_031.md
 tags:
   - graph/work
   - author/Shakespeare

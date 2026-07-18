@@ -3,7 +3,7 @@ title: Sonnet 71
 author: Shakespeare
 type: work
 cluster: Death · Silence · Bells
-source: Authors/Shakespeare/Sonnets/Sonnet_071.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_071.md
 tags:
   - graph/work
   - author/Shakespeare

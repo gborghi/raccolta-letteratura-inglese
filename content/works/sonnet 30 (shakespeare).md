@@ -3,7 +3,7 @@ title: Sonnet 30
 author: Shakespeare
 type: work
 cluster: Memory and Time · Memory · Nostalgia
-source: Authors/Shakespeare/Sonnets/Sonnet_030.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_030.md
 tags:
   - graph/work
   - author/Shakespeare

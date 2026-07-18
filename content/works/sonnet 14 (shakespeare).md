@@ -3,7 +3,7 @@ title: Sonnet 14
 author: Shakespeare
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance
-source: Authors/Shakespeare/Sonnets/Sonnet_014.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_014.md
 tags:
   - graph/work
   - author/Shakespeare

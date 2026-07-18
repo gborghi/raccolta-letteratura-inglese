@@ -3,7 +3,7 @@ title: Sonnet 133
 author: Shakespeare
 type: work
 cluster: Friendship · Tears
-source: Authors/Shakespeare/Sonnets/Sonnet_133.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_133.md
 tags:
   - graph/work
   - author/Shakespeare

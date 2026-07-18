@@ -3,7 +3,7 @@ title: Sonnet 69
 author: Shakespeare
 type: work
 cluster: Appearance vs Reality · Beauty · Eyes and Sight
-source: Authors/Shakespeare/Sonnets/Sonnet_069.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_069.md
 tags:
   - graph/work
   - author/Shakespeare

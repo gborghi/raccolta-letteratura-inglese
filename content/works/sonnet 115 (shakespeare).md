@@ -3,7 +3,7 @@ title: Sonnet 115
 author: Shakespeare
 type: work
 cluster: Time · Tempus Fugit · Clock
-source: Authors/Shakespeare/Sonnets/Sonnet_115.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_115.md
 tags:
   - graph/work
   - author/Shakespeare

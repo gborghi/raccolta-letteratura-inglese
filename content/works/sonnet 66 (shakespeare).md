@@ -3,7 +3,7 @@ title: Sonnet 66
 author: Shakespeare
 type: work
 cluster: World Upside Down · Comedy
-source: Authors/Shakespeare/Sonnets/Sonnet_066.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_066.md
 tags:
   - graph/work
   - author/Shakespeare

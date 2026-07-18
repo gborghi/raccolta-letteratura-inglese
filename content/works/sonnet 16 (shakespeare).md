@@ -3,7 +3,7 @@ title: Sonnet 16
 author: Shakespeare
 type: work
 cluster: Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
-source: Authors/Shakespeare/Sonnets/Sonnet_016.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_016.md
 tags:
   - graph/work
   - author/Shakespeare

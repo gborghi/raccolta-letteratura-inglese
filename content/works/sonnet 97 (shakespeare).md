@@ -3,7 +3,7 @@ title: Sonnet 97
 author: Shakespeare
 type: work
 cluster: Seasons · Winter · Autumn
-source: Authors/Shakespeare/Sonnets/Sonnet_097.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_097.md
 tags:
   - graph/work
   - author/Shakespeare

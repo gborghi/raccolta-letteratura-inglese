@@ -3,7 +3,7 @@ title: Sonnet 32
 author: Shakespeare
 type: work
 cluster: Mortality · Grave · Memento Mori
-source: Authors/Shakespeare/Sonnets/Sonnet_032.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_032.md
 tags:
   - graph/work
   - author/Shakespeare

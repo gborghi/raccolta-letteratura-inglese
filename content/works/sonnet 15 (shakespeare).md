@@ -3,7 +3,7 @@ title: Sonnet 15
 author: Shakespeare
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance
-source: Authors/Shakespeare/Sonnets/Sonnet_015.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_015.md
 tags:
   - graph/work
   - author/Shakespeare

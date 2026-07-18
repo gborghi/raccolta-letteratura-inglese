@@ -3,7 +3,7 @@ title: Sonnet 102
 author: Shakespeare
 type: work
 cluster: Birds · Music and Song · Nightingale
-source: Authors/Shakespeare/Sonnets/Sonnet_102.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_102.md
 tags:
   - graph/work
   - author/Shakespeare

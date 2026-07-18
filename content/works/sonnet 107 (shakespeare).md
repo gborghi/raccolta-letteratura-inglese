@@ -3,7 +3,7 @@ title: Sonnet 107
 author: Shakespeare
 type: work
 cluster: Self-Knowledge · Immortality · Self-Reliance
-source: Authors/Shakespeare/Sonnets/Sonnet_107.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_107.md
 tags:
   - graph/work
   - author/Shakespeare

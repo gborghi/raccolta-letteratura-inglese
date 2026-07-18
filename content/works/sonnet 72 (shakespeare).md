@@ -3,7 +3,7 @@ title: Sonnet 72
 author: Shakespeare
 type: work
 cluster: Death · Silence · Bells
-source: Authors/Shakespeare/Sonnets/Sonnet_072.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_072.md
 tags:
   - graph/work
   - author/Shakespeare

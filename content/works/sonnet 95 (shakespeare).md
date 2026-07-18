@@ -3,7 +3,7 @@ title: Sonnet 95
 author: Shakespeare
 type: work
 cluster: Rose · Desire · Value and Scarcity
-source: Authors/Shakespeare/Sonnets/Sonnet_095.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_095.md
 tags:
   - graph/work
   - author/Shakespeare

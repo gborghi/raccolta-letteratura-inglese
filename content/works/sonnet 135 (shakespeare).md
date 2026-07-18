@@ -3,7 +3,7 @@ title: Sonnet 135
 author: Shakespeare
 type: work
 cluster: Greek Mythology · Lust Sexual Desire · Desire
-source: Authors/Shakespeare/Sonnets/Sonnet_135.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_135.md
 tags:
   - graph/work
   - author/Shakespeare

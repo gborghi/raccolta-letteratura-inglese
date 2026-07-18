@@ -3,7 +3,7 @@ title: Sonnet 99
 author: Shakespeare
 type: work
 cluster: Rose · Desire · Value and Scarcity
-source: Authors/Shakespeare/Sonnets/Sonnet_099.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_099.md
 tags:
   - graph/work
   - author/Shakespeare

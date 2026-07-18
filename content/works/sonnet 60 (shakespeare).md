@@ -3,7 +3,7 @@ title: Sonnet 60
 author: Shakespeare
 type: work
 cluster: Time · Tempus Fugit · Clock
-source: Authors/Shakespeare/Sonnets/Sonnet_060.md
+source: Authors/Shakespeare/Atomized/Sonnets/Sonnet_060.md
 tags:
   - graph/work
   - author/Shakespeare
