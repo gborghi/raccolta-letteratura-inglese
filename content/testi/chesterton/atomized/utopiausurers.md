@@ -6072,6 +6072,200 @@ that may correctly be called soap; and the enterprises of a kind that
 may truly be described as Bubbles.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Arte e Pubblicità
+
+Propongo di dedicare due o...
+
+Tre articoli per la profezia. Come tutti i profeti sani di mente, sacri e
+
+Profano, posso solo profetizzare quando sono furioso e penso che le cose vadano male
+
+Brutto per tutti. E come tutti i profeti sani di mente, io profezzo in...
+
+la [[Hope|speranza]] che la mia profezia non si avveri. Perché la previsione fatta da
+
+Il vero veggente è come l'avvertimento di un buon medico. E il
+
+il medico ha davvero trionfato quando il paziente che ha condannato a [[Death|morte]] ha
+
+Risuscitato alla vita. La minaccia è giustificata nel momento stesso in cui...
+
+Falsificato. Ora ho detto più e più volte (e continuerò a dire)
+
+Ancora e ancora in tutte le occasioni più inappropriate), che dobbiamo
+
+Colpisci il capitalismo e colpiscilo duramente, per la ragione chiara e definitiva che
+
+Sta diventando più forte. La maggior parte delle scuse che servono ai capitalisti
+
+Le maschere sono, naturalmente, le scuse degli ipocriti. Mentono quando...
+
+invocano la filantropia; non provano più un particolare [[Love|amore]] per gli uomini di quanto
+
+# Albu provava affetto per i cinesi, che mentono quando dicono di avere...
+
+Hanno raggiunto la loro posizione grazie alla propria capacità organizzativa.
+
+# Di solito bisogna pagare gli uomini per organizzare la miniera, esattamente come si paga
+
+# Uomini che scendono in basso. Spesso mentono sulla ricchezza attuale, come fanno...
+
+generalmente mentono riguardo alla loro passata [[Poverty|povertà]]. Ma quando dicono che essi
+
+# Se si opta per una "politica sociale costruttiva", non mentono.
+
+Stiamo davvero adottando una politica sociale costruttiva? E dobbiamo farlo
+
+Per una politica sociale altrettanto distruttiva e distruggere mentre è ancora
+
+a metà costruita, la maledetta cosa che stanno costruendo.
+
+L'esempio delle arti
+
+Ora propongo di prendere in esame, uno dopo l'altro, alcuni aspetti e
+
+# Dipartimenti della vita moderna e come li vedo io
+
+In questo paradiso dei plutocrati, questa Utopia d'oro e di ottone in cui
+
+La grande storia dell'Inghilterra sembra destinata a finire. Propongo di dire cosa
+
+Penso che i nostri nuovi padroni, semplici milionari, faranno con certe cose...
+
+Interessi e istituzioni umane: arte, scienza, giurisprudenza
+
+o la religione -- a meno che non agiamo in tempo per impedirlo. E per il
+
+Per amore di discussione, in questo articolo prenderò l'esempio delle arti.
+
+La maggior parte delle persone ha visto un quadro chiamato "Bolle", che è utilizzato per...
+
+Pubblicità di un celebre sapone, con l'introduzione di una piccola pastiglia
+
+Nel disegno pittorico. E chiunque abbia un istinto per il disegno...
+
+Caricaturista del Daily Herald, per esempio), indovinerà che era
+
+Non originariamente parte del progetto. Vedrà che il sapone...
+
+distrugge l'immagine come immagine, tanto quanto se il sapone fosse
+
+# È stato usato per rimuovere la vernice. Piccolo com'è, rompe e disorienta
+
+L'equilibrio complessivo degli oggetti nella composizione. Non esprimo giudizi.
+
+# Sull'azione di Millais nella questione; in realtà, non so cosa
+
+Era così. Per ora l'importante è che il quadro...
+
+Non fu dipinto per il sapone, ma il sapone aggiunse al quadro. E
+
+Lo spirito del cambiamento corrotto che ci ha separato da ciò
+
+L'epoca vittoriana si riflette meglio qui: nell'atmosfera vittoriana,
+
+# con tutti i suoi difetti, non permise che un tale stile di protezione passasse inosservato
+
+una cosa ovvia. [[Michael|Michelangelo]] [[Angelo]] potrebbe essere stato orgoglioso di aver contribuito a un
+
+Imperatore o papa: ma credo che fosse più orgoglioso di loro
+
+# Erano per suo conto. Non credo che Sir John Millais ne fosse orgoglioso
+
+# avendo aiutato un saponificio, non dico che pensasse fosse sbagliato; ma
+
+non ne andava fiero. E questo segna esattamente il cambiamento rispetto al suo [[Time|tempo]].
+
+I nostri mercanti hanno davvero adottato lo stile del commerciante
+
+# Principi: hanno iniziato apertamente a dominare la civiltà della
+
+Stato, come gli imperatori e i papi dominavano apertamente in [[Italy|Italia]]. In Millais'
+
+[[Time|tempo]], in senso lato, si riteneva che l'arte significasse buona arte; pubblicità
+
+Si supponeva che significasse arte inferiore. La testa di un uomo nero, dipinta
+
+Annunciare la lucidatura di qualcuno potrebbe essere un simbolo grezzo, come una locanda
+
+segno. Bastava che l'uomo nero fosse abbastanza nero. Un [[artist|artista]] esponendo
+
+L'immagine di un negro si aspettava di sapere che un uomo nero non è così
+
+Nero come lo dipingono. Si pensava che potesse rendere mille sfumature di...
+
+Grigio e marrone e viola: perché non esiste l'uomo nero
+
+Non esiste l'uomo bianco. Una linea abbastanza chiara
+
+ha separato la pubblicità dall'arte.
+
+Il primo effetto
+
+Direi che il primo effetto del trionfo del capitalista (se
+
+# gli permettiamo di trionfare) sarà che quella linea di demarcazione sarà
+
+scompariranno del tutto. Non ci sarà arte che non potrebbe altrettanto [[Well|bene]] essere
+
+Pubblicità. Non intendo dire che non ci sarà arte buona;
+
+Gran parte di esso potrebbe essere, gran parte già è, un'arte molto buona. Puoi mettere
+
+Se proprio vuole, nella forma che c'è stato un enorme miglioramento
+
+Pubblicità. Non ci sarebbe nulla di sorprendente se la testa...
+
+Di un negro che pubblicizza la lucidatura di qualcuno ai giorni nostri è finita
+
+Con colori attenti e sottili come quelli dei vecchi superstiziosi
+
+i pittori avrebbero sprecato sul negro [[King|re]] che portò doni a
+
+[[Christ|Cristo]]. Ma il miglioramento degli annunci pubblicitari è la degradazione della
+
+# Gli artisti e la loro degenerazione per una ragione chiara e vitale:
+
+l'[[artist|artista]] lavorerà non solo per compiacere i ricchi, ma solo per aumentare
+
+# Le loro ricchezze: un passo indietro considerevole. Dopotutto, era come...
+
+Un essere umano che un papa apprezzava in una caricatura di Raffaello o un...
+
+Il principe si dilettò con una statuetta di Cellini. Il principe pagò per
+
+La statuetta; ma non si aspettava che la statuetta lo pagasse. È il mio...
+
+Impressione che non si trovi nemmeno un pezzo di sapone nei fumetti
+
+Che il Papa ordinò a Raffaello. E nessuno che conosca la mentalità ristretta...
+
+Cinismo della nostra plutocrazia, il suo segreto, lo spirito del gioco,
+
+disprezzo della [[Conscience|coscienza]], può [[Doubt|dubitare]] che l'[[artist|artista]]-pubblicitario spesso
+
+Aiutare imprese su cui non avrà alcun controllo morale
+
+Di cui non poteva approvare moralmente. Lavorerà per diffondere
+
+Medicinali falsi, investimenti strani e lavorerò per Marconi invece di
+
+I Medici. E a questa bassa astuzia dovrà piegare i più orgogliosi
+
+E la più pura delle virtù dell'intelletto: il potere di attrarre
+
+Fratelli e il nobile dovere della lode. Per quel dipinto di Millais è
+
+Un quadro molto allegorico. È quasi una profezia di ciò che verrà.
+
+in attesa della [[Beauty|bellezza]] del [[Child|bambino]] [[unborn|non ancora nato]]. La lode sarà di un tipo
+
+Quello che si può chiamare sapone e le imprese di quel tipo
+
+possono veramente essere descritti come Bolle.
+
 
 
 <span class="atom-split" data-atom="story_06_letters_and_the_new_laureates" data-title="UtopiaUsurers — Letters and the New Laureates" data-chapter="Letters and the New Laureates" data-kind="story"></span>
@@ -9885,6 +10079,180 @@ THE [[French Revolution|FRENCH REVOLUTION]] AND THE IRISH
 
 It will be long before the [[Poison|poison]] of the Party System is worked out
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+condizioni di quelle classi, fino a diventare praticamente una [[democracy|democrazia]],
+
+Salvo alcune eccezioni come quella delle donne, non credo che qualcuno...
+
+Nega che qualcosa del genere sia l'idea generale degli istruiti
+
+L'uomo che legge un giornale e il giornale che lui legge
+
+È l'opinione corrente nelle scuole e nei college; ne fa parte la...
+
+cultura di tutte le classi che contano molto nel [[government|governo]]; e là
+
+non c'è una sola parola di [[Truth|verità]] da principio a fine.
+
+Quel grande disegno di legge sulla [[Reform|riforma]]
+
+La ricchezza e il potere politico erano molto più distribuiti in modo popolare
+
+# nel Medioevo più che ora; ma lasciamo perdere tutto questo e...
+
+Considerate la [[history|storia]] recente. Il diritto di voto non è mai stato ampiamente e
+
+Concesso liberamente in Inghilterra; la metà degli uomini non ha il diritto di voto e non lo è
+
+Probabile che se ne ottenga uno. Non fu mai concesso come risposta alle pressioni da
+
+hanno risvegliato settori della [[democracy|democrazia]]; in ogni caso c'era una perfetta
+
+# Motivo chiaro per concederlo solo per comodità
+
+aristocratici. Il grande disegno di legge per la [[Reform|riforma]] non fu approvato in risposta a tali
+
+disordini come quello che distrusse un [[Castle|castello]]; né gli uomini che lo distrussero
+
+il [[Castle|Castello]] non trasse alcun vantaggio dal Grande disegno di legge sulla [[Reform|riforma]]. Il
+
+Il grande disegno di legge per la [[Reform|riforma]] fu approvato allo scopo di sigillare un'alleanza tra il
+
+Aristocratici terrieri e ricchi industriali del nord (un'alleanza)
+
+che ancora ci governa); e l'obiettivo principale di quell'alleanza era di
+
+# impedire che la popolazione inglese ottenga potere politico
+
+eccitazione generale dopo la [[French Revolution|Rivoluzione Francese]]. Nessuno può leggere
+
+Il discorso di Macaulay sui Cartisti, per esempio, e non capire che questo
+
+È così. L'ulteriore estensione del suffragio da parte di Disraeli non fu realizzata
+
+Dalla vitalità intellettuale e dalla pura teoria repubblicana
+
+L'operaio agricolo del periodo vittoriano di metà secolo: fu realizzato da un politico
+
+Chi vide l'occasione di screditare i Whig e intuì che certi...
+
+# Ortodossie nel più prospero artigiano potrebbero ancora dargli un equilibrio
+
+Contro i radicali commerciali e mentre questo gioco molto sottile di
+
+# Manovre elettorali con l'astrazione del voto in corso
+
+# Interamente controllato dagli oligarchi e interamente nei loro interessi, il solido e
+
+La vera cosa che stava succedendo era il costante impoverimento dei poveri
+
+di tutto il potere o la ricchezza, fino a trovarsi oggi in una situazione...
+
+soglia della [[Slavery|servitù]]. Questa è la [[history|storia]] dell'operaio inglese.
+
+Ora, come ho detto, mi interessa relativamente poco cosa si faccia con il...
+
+La semplice votazione è parte della questione, purché non sia richiesta in tal modo
+
+Un modo che permetta al plutocrate di eludere la sua responsabilità per
+
+I suoi crimini, fingendo di essere molto più progressisti o molto più...
+
+# più sensibile alle proteste popolari di quanto non sia mai stato. E c'è questo
+
+# Il pericolo di molti che mi hanno risposto. Uno di loro, per esempio...
+
+# Ad esempio, si dice che le donne siano state costrette nella loro attuale situazione industriale
+
+Situazioni governate dalle stesse rigide leggi economiche che hanno costretto gli uomini. Dico
+
+Gli uomini non sono stati costretti da rigide leggi economiche, ma per lo più
+
+# dal cinismo grossolano e senza Cristo di altri uomini. Ma, ovviamente,
+
+Questo modo di parlare è esattamente in linea con la moda
+
+e la versione ufficiale della storia inglese [[history|storia]]. Così, leggerete che il
+
+Monasteri, luoghi dove uomini di umili origini potevano essere potenti
+
+# si corruppe e gradualmente decadde. Oppure leggerai che il medievale
+
+le corporazioni di liberi lavoratori cedettero infine a una legge economica inevitabile.
+
+Leggerete questo e leggerete menzogne. Potrebbero altrettanto [[Well|bene]] dire
+
+che [[Julius Caesar|Giulio Cesare]] andò gradualmente in rovina ai piedi della statua di [[Pompey|Pompeo]]. You
+
+potrebbe altrettanto bene dire che [[Abraham Lincoln]] cedette infine a un inevitabile [[Well|fato]]
+
+legge economica. Le libere corporazioni medievali non sono [[Decay|cadute in decadenza]]; sono state
+
+Uccisi. Uomini seri con armi e alabarde solide, dotati di legittima...
+
+Mandati di arresto da parte di statisti in carica sciolsero le loro corporazioni e tolsero
+
+# Il denaro facile e la gente di Cradley Heath
+
+Non sono vittime di una legge economica necessaria più degli altri
+
+# Putumayo: vittime di una creatura terribile e dei suoi peccati
+
+Molto è stato detto dall'inizio del mondo e da chi lo fu
+
+Dicevano un tempo: «Cadiamo nelle mani di Dio, perché le sue misericordie sono...
+
+grande; ma non cadiamo nelle mani dell'uomo».
+
+Il capitalista è sul banco degli imputati
+
+Ora è questa offerta di una scusa economica falsa per la maglia che
+
+Il pericolo di dire sempre che la povera donna utilizzerà...
+
+# Voto e l'uomo povero che non lo usa. L'uomo povero è ostacolato
+
+# dall'usarlo; impedito dal ricco e dalla povera donna sarebbe
+
+# Impedito nello stesso stile volgare e severo. Non nego,
+
+Certo che c'è qualcosa nel temperamento inglese e in...
+
+L'eredità degli ultimi secoli che ha creato l'operaio inglese
+
+# più tolleranti verso l'errore rispetto alla maggior parte dei lavoratori stranieri, ma questo solo
+
+Modifica leggermente il fatto principale della responsabilità morale. Per esempio,
+
+Parallelo imperfetto: se avessimo detto che gli schiavi neri si sarebbero ribellati
+
+Se i negri fossero stati più intelligenti, diremmo ciò che è
+
+Ragionevole. Ma se dovessimo dire che potrebbe in qualche modo essere...
+
+Rappresentato come colpa del negro per essere in quel momento
+
+in [[america|America]] e non in Africa, dovremmo dire ciò che è francamente
+
+# Ingenuo. È altrettanto ingenuo dire che la mera inerzia
+
+# Gli operai inglesi sono finiti nel cortile degli schiavi capitalistici.
+
+Il capitalista li ha messi nel cortile degli schiavi capitalistici e molto astuto
+
+I fabbri hanno battuto le [[Chains|catene]]. È proprio questa creatività criminale che...
+
+Gli autori del sistema che non dobbiamo permettere di essere ignorati.
+
+Il capitalista è oggi sul banco degli imputati; e finché posso, lo eviterò
+
+lui non ne uscirà mai.
+
+LA [[French Revolution|RIVOLUZIONE FRANCESE]] E GLI IRLANDESI
+
+Passerà molto tempo prima che il [[Poison|veleno]] del sistema dei partiti sia eliminato
 
 
 

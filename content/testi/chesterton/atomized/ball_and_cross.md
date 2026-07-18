@@ -11674,6 +11674,91 @@ and shapeless back turned towards them.  "Don't you be afraid,"
 he added, "he can still see us."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Fermatevi!" ruggì l'uomo piccolo col papillon.
+"Ridatemi la mia pace intellettuale. Siete davvero i due
+sciocchi di cui ho letto su tutti i giornali? Siete le due persone che volevano sputarsi a vicenda nel [[Court|Tribunale]] di Polizia? Lo siete?
+Lo siete?"
+
+"Sì", disse MacIan, "è cominciato in un Tribunale di Polizia [[Court|Polizia]]."
+
+Il piccolo uomo scagliò la bottiglia di vino a venti iarde di distanza come se fosse una pietra.
+
+«Venite a casa mia», disse, «ho cose migliori di quelle.
+Ho il miglior vino di Beaune in un raggio di ottanta chilometri da qui. Venite su.
+Siete proprio gli uomini che desideravo vedere».
+
+Anche Turnbull, con la sua tipica invulnerabilità, rimase un po' sorpreso da questa ospitalità rumorosa e quasi brutale.
+
+"Perché... signore..." cominciò.
+
+"Salite! Venite dentro!" ululò l'omino, danzando di gioia.
+"Vi offrirò una cena. Vi darò un letto! Vi darò un prato verde e soffice e la possibilità di scegliere tra spade e pistole. Ma perché, idioti che siete, io adoro combattere! È l'unica cosa buona in questo mondo di Dio!
+Ho vagabondato per questi dannati campi desiderando vedere qualcuno massacrato e ucciso con il [[Blood|sangue]] che scorreva. Ah! Ah!"
+
+E faceva improvvise stoccate con il bastone contro il tronco di un albero vicino, tanto che la punta di metallo lasciava feroci impronte e buchi nella corteccia.
+
+«Mi scusi», disse MacIan all'improvviso con la curiosità spalancata di un [[Child|bambino]], «mi scusi, ma...»
+
+"Ebbene?" disse il piccolo combattente, brandendo la sua arma di legno [[Well|legno]].
+
+«Mi scusi», ripeté MacIan «ma era questo che stava facendo alla porta?»
+
+Il piccolo uomo fissò per un istante e poi disse: «Sì», e Turnbull scoppiò in una risata fragorosa.
+
+"Vieni!" esclamò l'uomo piccolo, infilando il bastone sotto il braccio e mettendosi improvvisamente a correre. "Vieni! Maledizione, vi farò mangiare tutti e due e poi uno di voi morirà. Dio mi benedica, gli dei devono esistere dopotutto: mi hanno mandato uno dei miei [[Dreams|sogni]] diurni! Signore! Un duello!"
+
+Egli era volato lungo un sentiero tortuoso tra i confini dell'[[Garden|orto]], e nella crescente penombra era difficile da seguire come una lepre in fuga. Ma alla fine il sentiero, dopo molti giri, rivelò la sua destinazione e portò bruscamente su due o tre gradini fino alla porta di un piccolo ma molto pulito cottage. Non c'era nulla all'esterno che lo distinguesse dagli altri cottage, tranne forse la sua inquietante pulizia e una cosa che era fuori da tutte le consuetudini e tradizioni di tutti i cottage sotto il sole. Nel mezzo del piccolo [[Garden|giardino]], tra i papaveri e i calendule, si ergeva in pietra informe un idolo delle isole del Pacifico meridionale. C'era qualcosa di grossolano e persino di malvagio in quel dio senza occhi e alieno tra le più [[Innocent|innocenti]] delle [[Flowers|fiori]] inglesi.
+
+«Entra!» gridò di nuovo la creatura «Entra! È meglio dentro!»
+
+Che fosse meglio dentro o no, era almeno una sorpresa.
+Nel momento in cui i due duellanti spingevano la porta di quella casetta innocua,
+bianca di calce, scoprivano che l'interno era rivestito d'oro fiammeggiante. Era come entrare
+in una camera delle Mille e una notte.
+La porta che si chiudeva alle loro spalle escludeva l'Inghilterra e tutte le energie dell'Occidente.
+Gli ornamenti che brillavano e scintillavano da ogni parte erano sottilmente mescolati
+di molti periodi e terre, ma tutti orientali. Bas-rilievi crudeli assiri correvano lungo i lati del corridoio;
+spade e pugnali turchi crudeli brillavano sopra e sotto di loro; i due erano separati da ere
+e civiltà cadute.
+Eppure sembrava che si comprendessero, poiché entrambi erano armoniosi ed entrambi implacabili. La [[house|casa]] sembrava composta di camera in camera e creava quell'impressione come di [[A Dream|un sogno]]
+che appartiene anche alle Mille e una notte stesse.
+La stanza più interna era come l'interno di un [[Jewel|gioiello]]. Il piccolo uomo che ne possedeva tutto si gettò su un mucchio di cuscini scarlatti
+e dorati e batté le mani. Un negro in una veste bianca e turbante apparve improvvisamente e silenziosamente alle loro spalle.
+
+«Selim», disse l'ospite, «questi due signori pernottano da me stasera. Porta subito su il miglior vino e la cena che abbiamo. E Selim, uno di questi signori probabilmente morirà domani. Fai i preparativi, ti prego».
+
+Il negro si inchinò e uscì.
+
+[[Evan MacIan]] uscì la mattina dopo nel piccolo [[Garden|giardino]]
+in una fresca giornata d'argento, il suo lungo viso appariva più austero
+che mai in quella luce fredda, le palpebre un po' pesanti.
+Portava una delle spade. Turnbull era nella piccola [[house|casa]]
+dietro di lui, stava finendo la colazione e canticchiava
+una melodia per sé stesso, che si poteva sentire attraverso la [[Window|finestra]] aperta.
+Un attimo dopo saltò in piedi ed uscì alla luce del sole,
+masticando ancora il pane tostato, con la sua [[Sword|spada]] infilata sotto il
+braccio come un bastone da passeggio.
+
+Il loro eccentrico ospite era scomparso dalla vista, con un gesto cortese,
+una ventina di minuti prima. Lo immaginavano occupato in
+qualche faccenda all'interno della [[house|casa]], e aspettavano il suo ritorno,
+camminando nel [[Garden|giardino]] in [[Silence|silenzio]] - il [[Garden|giardino]] di alti
+freschi [[Flowers|fiori]] di campagna, al centro del quale l'idolo mostruoso del Sud Pacifico si ergeva bruscamente come la prua di una [[Ship|nave]] che naviga su un mare di rosso e bianco e oro.
+
+Fu quindi con un sussulto che si imbatterono nell'uomo stesso già nel [[Garden|giardino]]. Erano ancora più sorpresi per la posa immobile in cui lo trovarono.
+Era inginocchiato davanti all'idolo di pietra, rigido e immobile,
+come un santo in trance o estasi. Eppure quando il passo di Turnbull
+ruppe un rametto, fu in piedi in un attimo.
+
+«Mi scusi», disse con un'irradiazione di sorrisi, ma pure
+con una specie di smarrimento. «Mi dispiace tanto… preghiere in famiglia… antiquato… sulle ginocchia della mamma. Andiamo avanti verso il prato dietro».
+
+E si chinò rapidamente dietro la statua fino ad uno spazio aperto d'erba dall'altra parte di essa.
+
+"Questo ci farà al caso nostro, signor MacIan", disse lui. Poi fece un gesto verso la pesante figura di pietra sul piedistallo che ora mostrava loro il suo dorso vuoto e informe. "Non abbia paura," aggiunse, "ci può ancora vedere."
+
 
 
 <span class="atom-split" data-atom="story_05_the_other_philosopher--part_04" data-title="ball and cross — The Other Philosopher (part 4)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
@@ -11814,6 +11899,92 @@ A second afterwards the most extraordinary grimaces were seen to
 distort the stiff face of MacIan, and unholy sounds came from within.
 He had never practised laughing, and it hurt him very much.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+MacIan volse gli occhi azzurri e sbattuti che sembravano ancora offuscati dal [[Sleep|sonno]] (o dall'insonnia) verso l'idolo, ma aggrottò le sopracciglia.
+
+L'uomo piccolo dai capelli lunghi aveva anche lui gli occhi fissi sulla parte posteriore del dio.
+I suoi occhi erano allo stesso tempo liquidi e ardenti, e si strofinava lentamente le mani l'una contro l'altra.
+
+«Sai», disse, «credo che ci veda meglio in questo modo.
+Spesso penso che questa cosa vuota sia il suo vero volto, che osserva anche se non può essere osservato. Ah! ah! Sì, credo che da dietro abbia un aspetto piacevole.
+Da dietro sembra più crudele, non trovi?»
+
+«Che diavolo è questa cosa?» chiese Turnbull in tono burbero.
+
+«È l'unica cosa che esiste», rispose l'altro.
+«È la Forza».
+
+«Oh!», disse seccamente Turnbull.
+
+"Sì, miei amici", disse l'uomo piccolo, con un volto animato,
+agitando le dita nell'aria, "non è stato un caso a condurvi in questo [[Garden|giardino]]; sicuramente è stato il capriccio di qualche vecchio dio, qualche dio felice e spietato. Forse era la sua volontà, perché ama il [[Blood|sangue]];
+e su quella pietra davanti a lui gli uomini sono stati macellati a centinaia
+nelle feroci isole festose del Sud. In questo luogo maledetto,
+vile non mi è stato permesso di uccidere uomini sul suo altare.
+Solo conigli e gatti, qualche volta."
+
+Nel silenzio MacIan fece un improvviso movimento, apparentemente senza significato,
+e poi rimase rigido.
+
+«Ma oggi, oggi», continuò l'uomo piccolo con voce stridula,
+«oggi è venuta la sua ora. Oggi sarà fatta la sua volontà sulla terra come nel cielo.
+Gli uomini, gli uomini, gli uomini verseranno sangue davanti a lui oggi».
+E si morse il dito indice in una specie di febbre.
+
+Tuttavia i due duellanti rimasero con le spade in mano immobili come statue, e il [[Silence|silenzio]] sembrò raffreddare l'eccentrico e richiamarlo a un discorso più razionale.
+
+"Mi esprimo forse un po' troppo liricamente", disse con amichevole bruschezza,
+"ma la mia [[philosophy|filosofia]] ha i suoi alti e bassi, anche se forse non siete ancora pronti per quelli.
+Limitiamoci a ciò che è indiscutibile. Signori, avete trovato il modo, grazie
+a un bel caso fortuito, di arrivare alla [[house|casa]] dell'unico uomo in Inghilterra (probabilmente)
+che favorirà e incoraggerà il vostro più ragionevole progetto. Da Cornovaglia al Capo Wrath,
+questo paese è un orribile, compatto blocco di [[Humanitarianism|umanitarismo]]. Troverete uomini che difenderanno
+questa o quella guerra in un continente lontano. La difenderanno su basi meschine come il commercio
+o peggio ancora, il bene sociale. Ma non pensate di trovare un'altra persona che comprenda
+un uomo forte che prende la [[Sword|spada]] e annienta il suo nemico. Mi chiamo Wimpey, Morrice Wimpey.
+Ero un borsista a Magdalen. Ma vi assicuro che ho dovuto rinunciarvi per aver detto qualcosa
+in una conferenza pubblica che andava contro il pregiudizio popolare contro quei grandi signori,
+gli assassini del [[Renaissance|Rinascimento]] italiano. Mi hanno lasciato dire queste cose a cena e così via, e sembravano gradirle.
+Ma in una conferenza pubblica... troppo inconsistente. [[Well|Beh]], come dicevo,
+qui è il vostro unico rifugio e tempio di [[Honour|onore]]. Qui potete fare affidamento
+su quell'arbitrato nudo e terribile che è l'unica cosa che bilancia le [[Stars|stelle]]:
+una violenza continua, immutabile. _Vae Victis!_ Giù,
+giù, giù con i vinti! La vittoria è l'unico fatto definitivo.
+Cartagine fu distrutta, gli indiani d'America sono in via di estinzione: questa è l'unica certezza.
+Tra un'ora quel sole continuerà a splendere e quell'erba a crescere,
+e uno di voi sarà sconfitto; uno di voi sarà il vincitore. Quando sarà fatto, nulla lo cambierà.
+Eroi, vi offro l'ospitalità degna degli eroi.
+E saluto il sopravvissuto. Avanti!"
+
+I due uomini presero le loro spade. Poi MacIan disse con fermezza: "Signor Turnbull, prestami per un momento la sua [[Sword|spada]]."
+
+Turnbull, con uno sguardo interrogativo, gli porse l'arma.
+MacIan prese la seconda [[Sword|spada]] nella mano sinistra e, con un gesto violento,
+la scagliò ai piedi del piccolo signor Wimpey.
+
+«Combatti!» disse con voce forte e aspra. «Combatti contro di me adesso!»
+
+Wimpey fece un passo indietro e parole confuse gli salirono alle labbra.
+
+«Raccogli quella [[Sword|spada]] e combatti con me», ripeté MacIan, con le sopracciglia nere come il tuono.
+
+L'omino si rivolse a Turnbull con un gesto che chiedeva giudizio o protezione.
+
+«Davvero, signore», cominciò «questo gentiluomo confonde...»
+
+"Vile piccolo codardo", ruggì Turnbull, sfogando improvvisamente la sua ira. "Combatti, se ti piace tanto combattere! Combatti, se ti piace tutta quella sporca [[philosophy|filosofia]]! Se vincere è tutto, vai e vinci! Se i deboli devono soccombere, soccombi! Combatti, topo! Combatti, o se non vuoi combattere... scappa!"
+
+E si scagliò contro Wimpey con gli occhi in fiamme.
+
+Wimpey indietreggiò di qualche passo come un uomo che lotta contro i propri arti. Poi sentì il furioso scozzese avvicinarsi a lui come un treno espresso, raddoppiando le sue dimensioni ogni secondo, con occhi grandi come finestre e una [[Sword|spada]] luminosa quanto il sole. Qualcosa si spezzò dentro di lui, e si ritrovò a scappare via, inciampando nei propri piedi per la paura, e gridando mentre correva.
+
+"Inseguilo!" gridò Turnbull mentre MacIan afferrava la [[Sword|spada]] e si univa alla corsa. "Inseguilo attraverso una contea! Inseguilo fino al mare! Scappa! Scappa! Scappa!"
+
+Il piccolo uomo si tuffò come un coniglio tra i folti [[Flowers|fiori]], seguito dai due duellanti. Turnbull gli rimase incollato al tallone con selvaggia esaltazione, continuando a scacciarlo come fa un gatto. Ma MacIan, mentre correva oltre l'idolo del Pacifico meridionale, si fermò per un istante per [[spring|saltare]] sul suo piedistallo. Per cinque secondi si sforzò di spostare la massa inerte. Poi questa si mosse; e lui la fece cadere con un gran fracasso tra i [[Flowers|fiori]], che la inghiottirono del tutto. Poi si mise a correre veloce dietro al fuggitivo.
+
+Nell'energia del suo allarme l'ex membro di Magdalen riuscì a saltare la [[Garden|staccionata]] del suo giardino. I due inseguitori lo seguirono come volanti [[Birds|uccelli]]. Fuggì freneticamente lungo un viale con i suoi due terrori alle calcagna finché non arrivò a una breccia nella siepe e attraversò un prato ripido come il [[Wind|vento]]. I due scozzesi, mentre correvano, mantenevano un allegro ruggito e agitavano le loro spade. Su tre pendii erbosi, giù per altri quattro pendii dall'altra parte, attraverso un altro [[Road|sentiero]], su una brughiera di felci scricchiolanti, attraverso un bosco, lungo un altro [[Road|sentiero]] e fino al bordo di una grande pozza, inseguirono il filosofo in fuga. Ma quando arrivò alla pozza il suo passo era così precipitoso che non riuscì a fermarsi, e con una specie di barcollante inciampo cadde schizzando nell'[[Water|acqua]] grassa. Rialzandosi gocciolante fino ai piedi, con l'[[Water|acqua]] alle ginocchia, il cultore della forza e della vittoria guadò disperatamente sull'altra riva e si tirò su sulla sponda. E Turnbull si sedette sull'erba e scoppiò in risate fragorose. Un secondo dopo si videro le smorfie più straordinarie distorcere il volto rigido di MacIan, e da dentro provenivano suoni profani. Non aveva mai praticato la risata, e gli faceva molto male.
 
 
 
@@ -14724,6 +14895,83 @@ And he was overtaken once more.
 "what about the nigger?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Su tre lati di questo isolotto sabbioso e ghiaioso il mare si stendeva blu e infinito senza un pezzetto di terra o una vela; lo stesso che Turnbull aveva visto per la prima volta, tranne che la bassa marea mostrava qualche metro in più di sabbia inclinata sotto le radici delle rocce. Ma sul quarto lato l'isola presentava una caratteristica più straordinaria. In effetti, presentava la caratteristica straordinaria di non essere affatto un'isola. Un lungo collo curvo di sabbia, liscio e bagnato come il collo del serpente marino, si protendeva verso il mare e univa la loro roccia a una linea di basse colline di sabbia ondulate e lucenti che il mare in ritirata aveva appena scoperto al sole. Se fossero state sabbia compatta o [[Doubt|sabbie mobili]] era difficile da indovinare; ma non c'era dubbio che si trovassero sul bordo di una terra più grande; infatti colline senza colore apparivano debolmente dietro di loro e non si vedeva il mare oltre.
+
+«Perbacco!» esclamò Turnbull, con occhi [[rolling|spalancati]]; «questa non è un'isola nell'Atlantico.
+Abbiamo urtato il dannato continente dell'[[America]].»
+
+MacIan girò la testa e il suo volto, già pallido, divenne ancora più pallido.
+In quel [[Time|momento]] camminava in un mondo di presagi ed ideogrammi,
+e non riusciva a leggere altro che ciò che era sconcertante o minaccioso
+in quell'immensa braccia marrone della terra protesa verso il mare
+per catturarlo.
+
+"MacIan", disse Turnbull nel suo modo equilibrato, "qualunque cosa i nostri eterni tête-à-tête interrotti ci abbiano insegnato o non ci abbiano insegnato, almeno non dobbiamo [[Fear|temere]] l'accusa di [[Fear|paura]]. Se è essenziale per le tue emozioni, finirò volentieri la lotta qui e ora; ma devo confessare che se mi uccidi qui morirò con una curiosità molto eccitata e insoddisfatta su un punto minore di geografia."
+
+"Non voglio fermarmi ora," disse l'altro, nella sua semplicità elefantina,
+"ma dobbiamo fermarci per un momento, perché è un segno--
+forse è un miracolo.  Dobbiamo vedere cosa c'è alla fine della [[Road|strada]]
+di sabbia; potrebbe essere un ponte costruito da Dio attraverso il golfo."
+
+«Finché soddisfate la mia curiosità», disse Turnbull ridendo e rimettendo la lama nel fodero, «non mi interessa per quale motivo decidiate di fermarvi.»
+
+Scendevano lungo la penisola rocciosa e procedevano con fatica
+sull'istmo sabbioso con la risolutezza ostinata di uomini che sembravano
+aver quasi deciso di diventare vagabondi sulla faccia della terra.
+Nonostante l'aria di entusiasmo scientifico di Turnbull,
+era in realtà il meno impaziente dei due; e l'Altoatesino
+procedeva [[Well|bene]] avanti a lui con passi appassionati.  Al [[Time|tempo]]
+che avevano camminato per circa mezz'ora tra i saliscendi
+di quelle sabbie desolate, la distanza tra i due si era allungata
+e MacIan era solo una figura alta che si stagliava per un istante
+sulla cresta di qualche duna e poi spariva dietro di essa.
+Questo aumentò il senso di isolamento di Robinson Crusoe in Mr. Turnbull,
+che guardava intorno quasi disperato alla ricerca di qualche segno di vita.
+Che tipo di vita si aspettasse se fosse apparsa, non lo
+sapeva molto chiaramente.  Ha poi confessato che pensa
+che nella sua sottocoscienza si aspettasse un alligatore.
+
+Il primo segno di vita che vide fu però qualcosa di più straordinario del più grande alligatore. Non era niente meno che il famigerato signor [[Evan MacIan]] che tornava saltellando tra le dune di sabbia senza fiato, senza berretto e tenendo la [[Sword|spada]] in mano solo per una abitudine ormai radicata.
+
+«Fai attenzione, Turnbull», gridò da una certa distanza mentre correva,
+«ho visto un indigeno».
+
+«Un indigeno?» ripeté il suo compagno, che ultimamente aveva avuto come scenario principalmente molluschi. «Che diavolo! Vuoi dire una ostrica?»
+
+«No», disse MacIan fermandosi e respirando affannosamente, «voglio dire un selvaggio,
+un uomo di colore.»
+
+«Perché, dove l'ha visto?» chiese il redattore fissandolo.
+
+"Là dietro... dietro quella [[Hill|collina]]", disse il senza fiato MacIan,
+"ha alzato la sua testa nera e mi ha fatto un ghigno".
+
+Turnbull si passò le mani tra i capelli rossi come uno che abbandona il mondo perché un brutto [[Riddle|enigma]]. «[[Love|Dio]] benedica l'anatra», disse, «sarà la Giamaica?»
+
+Poi, lanciando un'occhiata al suo compagno con una piccola espressione corrucciata, come se fosse leggermente sospettoso, disse: «Non pensate che io sia scortese... ma voi siete un tipo visionario... e poi abbiamo bevuto parecchio. Vi dispiace aspettare qui mentre vado a vedere con i miei occhi?»
+
+«Urlate se vi trovate nei guai», disse il celtico con calma,
+«e vedrete che avrò ragione».
+
+Turnbull corse avanti con una rapidità ora molto maggiore di quella del suo rivale e presto scomparve oltre la contesa [[Hill|collina]] di sabbia. Poi passarono cinque minuti, poi sette; MacIan si morse il labbro e fece roteare la sua [[Sword|spada]], ma l'altro non riapparve. Infine, con un giuramento gaelico, Evan partì in avanti per andarlo a salvare e quasi nello stesso momento apparve sulla cresta contro il cielo la piccola figura dell'uomo scomparso.
+
+Anche a quella distanza, tuttavia, c'era qualcosa di strano nel suo comportamento; così strano che MacIan continuò ad avvicinarsi in quella direzione. Sembrava ferito; o, ancora più, sembrava malato. Vacillava mentre scendeva lungo il pendio e pareva assumere posture particolari. Ma fu solo quando si trovò a tre piedi dal viso di MacIan che quest'osservatore dell'umanità comprese pienamente che il signor [[James Turnbull]] stava scoppiando dalle risate.
+
+"Avete perfettamente ragione," singhiozzò quel giornalista completamente demoralizzato.
+"È nero, oh, non c'è [[Doubt|dubbio]] che il nero sia giusto -
+fino a un certo punto." E ricadde ancora in convulsioni
+del suo umorismo malato.
+
+«Che cosa le succede?» chiese MacIan con severa impazienza.
+«Ha visto il negro...»
+
+"Ho visto il negro", ansimò Turnbull. "Ho visto lo splendido capo barbaro. Ho visto l'imperatore d'Etiopia -- oh, l'ho visto benissimo. Le mani e la faccia del negro sono di un colore bellissimo -- e il negro ----"
+E fu nuovamente sopraffatto.
+
+"Ebbene, ebbene, ebbene," disse Evan, battendo ogni monosillabo sulla sabbia, "e il negro che diremo di lui?"
+
 
 
 <span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_08" data-title="ball and cross — A Scandal in the Village (part 8)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
@@ -14855,6 +15103,70 @@ for they had strapped them across their backs like guitars.
 They had all the advantages that invisibility and [[Silence|silence]] can
 add to [[Speed|speed]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"[[Well|Bene]], la [[Truth|verità]] è", disse Turnbull, improvvisamente e in modo sorprendente,
+diventando del tutto [[Grave|serio]] e preciso, "la [[Truth|verità]] è che il negro
+è un negro di Margate, e ci troviamo ora ai margini dell'Isola di Thanet,
+a poche miglia da Margate."
+
+Poi ebbe un attimo di ritorno alla sua isteria e disse: «Senta,
+vecchio mio, mi piacerebbe vedere una carta della nostra crociera
+di due settimane sullo yacht di Wilkinson».
+
+MacIan non aveva un sorriso in risposta, ma le sue labbra ansiose si aprirono come se fossero assetate per la [[Truth|verità]]. «Volete dire», cominciò...
+
+"Sì, voglio dire," disse Turnbull, "e voglio dire qualcosa di ancora più divertente.
+Ho imparato tutto ciò che volevo sapere dal musicista parzialmente nero laggiù,
+che si è dato una corsa con il suo trucco da guerra per incontrare un amico in un pub tranquillo lungo la costa:
+il nobile selvaggio mi ha raccontato tutto. La bottiglia contenente
+la nostra dichiarazione, le dottrine e i sentimenti morenti è stata portata a riva
+sulla spiaggia di Margate ieri alla presenza di un assessore,
+due addetti alle [[Machine|cabine]] da bagno, tre poliziotti, sette medici e centotredici
+impiegati di [[London|Londra]] in vacanza, a tutti i quali, direttamente o indirettamente,
+la nostra composizione ha dato un enorme piacere letterario.
+Tirati su, vecchio mio, questa storia è una montagna russa.
+Ho cominciato a capire il ritmo e la [[Time|musica]] della cosa;
+ora siamo in cima in una [[Cathedral|cattedrale]] e poi siamo giù in un teatro,
+dove rappresentano solo farse. Vieni, sono perfettamente riconciliato:
+godiamoci la farsa."
+
+Ma MacIan non disse nulla e un attimo dopo lo stesso Turnbull esclamò con voce completamente diversa: «Oh, questo è intollerabile! Non si può sopportare!»
+
+MacIan seguì il suo sguardo lungo le dune di sabbia. Vide quello che sembrava la figura momentanea e ondeggiante del cantante negro, e poi vide un robusto poliziotto in corsa prendere la curva della [[Hill|duna]] con la fluida solennità di un treno ferroviario.
+
+XIII. IL [[Garden|GIARDINO]] DELLA PACE
+
+Fino a quel momento, [[Evan MacIan]] non aveva capito nulla;
+ma quando vide il poliziotto comprese tutto. Vide i suoi nemici,
+tutti i poteri e i principi della terra. Improvvisamente si trasformò
+da una statua immobile in un uomo agile delle [[Mountains|montagne]].
+
+"Dobbiamo separarci da lui qui", gridò brevemente e si allontanò come un turbine oltre la cresta di sabbia in linea retta e a un angolo particolare. Quando l'agente ebbe completato la sua ammirevole curva ferroviaria, trovò una parete di sabbia crollante tra sé e il perseguitato. Al [[Time|tempo]] in cui era riuscito a scalare tre volte la cresta, scivolare giù due volte e superarla al terzo tentativo, le due figure in fuga erano già lontane davanti di lui. Trovarono la sabbia più dura più avanti; cominciò ad essere ricoperta da brandelli di terreno erboso e dopo pochi momenti volavano facilmente sopra un ampio spazio aperto di alto mare-grass. Non avevano però una missione facile; perché la bottiglia che avevano così innocentemente inviato al cancello principale di Thanet aveva risvegliato la polizia di mezza contea sulle loro tracce. Da ogni lato attraverso il comune grigio-verde si potevano vedere figure correre e chiudersi; ed è stato solo quando MacIan con il suo grande [[Body|corpo]] ha abbattuto la barriera intricata di un piccolo bosco, come gli uomini abbattano una porta con la spalla; è stato solo quando sono scomparsi schiantandosi nell'oltretomba del nero bosco che i loro cacciatori furono anche istantaneamente messi fuori pista.
+
+A rischio di lottare un po' più a lungo come mosche in quella nera ragnatela di rami e tronchi, Evan (che aveva l'istinto del cacciatore o della preda) intraprese un percorso imprevedibile attraverso la foresta, che alla fine li fece uscire da una radura -- completamente dimenticata dai capi della caccia. Corsero ancora un paio di miglia lungo il bordo del bosco fino a raggiungere un'altra apertura, piuttosto simile alla prima. Poi MacIan si fermò immobile e ascoltò, come ascoltano le [[Animals|bestie]], ogni suono dell'universo. Poi disse: "Li abbiamo seminati." E Turnbull chiese: "E adesso dove andiamo?"
+
+MacIan guardò il tramonto d'argento che si chiudeva, barrato da linee piumate di nuvole viola; guardò le cime degli alberi più alti che coglievano l'ultima luce e [[Birds|uccelli]] che tornavano a casa pesantemente, come se tutte queste cose fossero pezzi di consiglio scritto che poteva leggere.
+
+Poi disse: «Il posto migliore dove possiamo andare è il letto. Se riusciamo ad avere un po' di [[Sleep|sonno]] in questo bosco, ora che tutti se ne sono andati, domani ci sarà utile come uno svantaggio di duecento iarde».
+
+Turnbull, che era eccezionalmente vivace e rideva nel suo comportamento,
+agitava le gambe come un scolaretto e diceva di non voler andare a [[Sleep|dormire]]. Camminava incessantemente e parlava con grande brillantezza.
+E quando alla fine si sdraiò sulla terra dura, il [[Sleep|sonno]] lo colpì
+rendendolo insensibile come un martello.
+
+Infatti aveva bisogno del più forte [[Sleep|sonno]] possibile, perché la terra era ancora piena di oscurità e una specie di nebbia mattutina quando il suo compagno fuggitivo lo scosse per svegliarlo.
+
+"Niente più [[Sleep|sonno]], temo", disse Evan con una voce grave, quasi sottomessa, di scusa. "Sono andati avanti oltre noi per almeno trenta miglia; ma ora hanno scoperto il loro errore e stanno tornando indietro."
+
+«Ne è sicuro?», disse Turnbull, sedendosi e strofinandosi con la mano le sopracciglia rosse.
+
+Il momento successivo, tuttavia, era balzato in piedi vivo e saltellante come un uomo colpito da uno shock di [[Water|acqua]] fredda, e si stava tuffando dietro MacIan lungo il sentiero del bosco. La sagoma del loro vecchio amico l'agente era apparsa contro il perlaceo e rosa dell'alba. In qualche modo, sembrava sempre una forma molto buffa quando vista all'alba.
+
+* * *
+
+Una luce diurna stanca stava sorgendo sul paesaggio, e i campi e le strade erano pieni di nebbia bianca - quel tipo di nebbia bianca che si attacca agli angoli come la lana di cotone. La [[Road|strada]] vuota, lungo cui la caccia aveva preso la sua svolta, era ombreggiata da un lato da un muro molto alto e decolorato, macchiato e striato di verde come dalle alghe - evidentemente il sentinella a spalle larghe di qualche grande tenuta. A un paio di metri dal muro correva parallela ad esso una linea intrecciata e intricata di tigli, formando una sorta di chiostro lungo il lato della [[Road|strada]]. Era sotto questa colonnata ramificata che i due fuggitivi fuggivano, quasi nascosti dai loro inseguitori dalla penombra, dalla nebbia e dallo zoetro saltellante delle ombre. I loro piedi, pur battendo furiosamente il terreno, facevano solo un rumore debole; perché avevano calciato via le scarpe nel bosco; le loro lunghe armi antiquate non facevano tintinnio né fracasso, perché se le erano legate in spalla come chitarre. Avevano tutti i vantaggi che l'invisibilità e il [[Silence|silenzio]] possono aggiungere alla [[Speed|velocità]].
 
 
 

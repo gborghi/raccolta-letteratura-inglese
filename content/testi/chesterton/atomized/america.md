@@ -472,6 +472,74 @@ so pure and good that the police have only to ask them questions
 and they are certain to tell no lies.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CHE COS'È L'[[america|AMERICA]]?
+
+G.K. Chesterton
+
+Da: Cosa ho visto in [[america|America]] (1922)
+
+Non sono mai riuscito a perdere la mia vecchia convinzione che i viaggi restringano lo spirito. Almeno un uomo deve fare uno sforzo [[Double|doppio]] di morale [[Humility|umiltà]] e immaginativa energia per impedire che si restringa il suo spirito.
+C'è qualcosa di toccante, anzi addirittura tragico nel pensiero del turista senza cervello, che avrebbe potuto rimanere a [[Home|casa]] amando gli Lapponi,
+abbracciando i Cinesi e stringendo al cuore i Patagoni ad Hampstead
+o Surbiton, se non fosse stato per il suo impulso cieco e suicida di andare a vedere com'erano fatti. Non è un pensiero frivolo; ancor meno è inteso come la forma più sciocca di frivolezza che sia lo scetticismo.
+Il legame umano che sente in [[Home|casa]] non è un'illusione.
+Al contrario, è piuttosto una realtà interiore. L'uomo è dentro tutti gli uomini.
+In senso reale ogni uomo può essere dentro qualsiasi altro uomo. Ma viaggiare
+è lasciare l'interno e avvicinarsi pericolosamente all'esterno.
+Finché pensava agli uomini in astratto, come figure nude che si affaticano
+in qualche fregio classico, semplicemente come coloro che lavorano e [[Love|amano]] i loro
+figli e muoiono, stava pensando la fondamentale [[Truth|verità]] su di loro.
+Andando a guardare le loro usanze e costumi sconosciuti li sta invitando
+a mascherarsi in travestimenti fantastici. Molti moderni internazionalisti parlano come se gli uomini di nazionalità diverse dovessero solo incontrarsi, mescolarsi e capirsi a vicenda.
+In realtà è il momento del pericolo supremo: il momento in cui si incontrano.
+Potremmo rabbrividire, come al vecchio eufemismo per cui un incontro significava un duello.
+
+Viaggiare dovrebbe combinare divertimento e istruzione; ma la maggior parte dei viaggiatori si diverte così tanto che rifiuta di farsi istruire.
+Non li biasimo per essersi divertiti; è del tutto naturale divertirsi nel vedere un olandese comportarsi da olandese, o un cinese da cinese. Dove sbagliano è nel prendere sul serio il proprio divertimento.
+Su questo fondano le loro serie idee sull'istruzione internazionale.
+Si dice che l'inglese si diverta tristemente;
+e il piacere di disprezzare gli stranieri è quello che più di tutti egli gusta
+con malinconia.  Viene a deridere e non rimane per pregare,
+ma piuttosto per scomunicare.  Ecco perché nelle relazioni internazionali
+c'è ben poca risata, ma troppo sarcasmo.
+Ma credo che esista un modo migliore che consiste in gran parte nella risata; una forma di [[Friendship|amicizia]] tra le nazioni fondata proprio sulle differenze.
+
+Permettetemi di iniziare le mie impressioni sull'America con due impressioni che avevo prima di recarmi negli [[america|Stati Uniti]]. Una era un episodio e l'altra un'idea; e prese insieme illustrano l'atteggiamento a cui mi riferisco. Il primo principio è che nessuno dovrebbe vergognarsi di trovare divertente una cosa perché è straniera; il secondo è che dovrebbe vergognarsi di pensare che sia sbagliata perché è divertente. La reazione dei suoi sensi e delle sue abitudini superficiali della mente contro qualcosa di nuovo, e per lui anormale, è una reazione perfettamente sana. Ma la mente che immagina che la semplice estraneità possa dimostrare qualcosa riguardo all'inferiorità è una mente molto inadeguata. È inadeguata anche nel criticare cose che possono realmente essere inferiori a quelle coinvolte qui. È molto meglio ridere di un negro per il fatto di avere la faccia nera piuttosto che schernirlo per il fatto di avere uno scheletro inclinato. Proporzionalmente è ancora più preferibile ridere piuttosto che giudicare nel trattare con popoli altamente civilizzati. Pertanto metto all'inizio due esempi pratici di ciò che pensavo degli [[america|Stati Uniti]] prima di vederli; il tipo di cosa che un uomo ha diritto di godersi come una battuta, e il tipo di cosa che ha il dovere di capire e rispettare, perché è la spiegazione della battuta.
+
+Quando mi recai al consolato americano per regolarizzare i miei passaporti, ero in grado di aspettarmi che il consolato americano fosse americano. Le ambasciate e i consolati sono tradizionalmente come isole del suolo per cui stanno; e ho spesso trovato la tradizione corrispondente a una [[Truth|verità]]. Ho visto l'irriconoscibile funzionario francese vivere di omelette e un po' di vino e servire le sue sacre astrazioni sotto gli ultimi palmizi che friggono in un [[Desert|deserto]]. Nel caldo e nel rumore dei turchi ed egiziani che litigavano, mi sono trovato improvvisamente, come con il fresco shock della propria doccia, di fronte alla languida amabilità del gentiluomo inglese. I funzionari a cui ho parlato erano molto americani, specialmente nel fatto di essere molto cortesi; perché qualunque sia stato l'umore o il significato di [[Martin Chuzzlewit]], ho sempre trovato gli americani di gran lunga le persone più gentili del mondo. Mi misero in mano un modulo da compilare, a prima vista simile ad altri moduli che avevo compilato in altri uffici passaporti. Ma in realtà era molto diverso da qualsiasi modulo avessi mai compilato in vita mia. Almeno era un po' come una forma più libera del gioco chiamato "Confessioni" che io e i miei amici inventammo nella nostra giovinezza; un compito contenente domande come, "Se vedeste un rinoceronte nel [[Garden|giardino]] di fronte, cosa fareste?" Uno dei miei amici, ricordo, scrisse: "Fare il voto." Ma questa è un'altra storia e potrebbe portare Mr. Pussyfoot Johnson sulla scena prima del suo [[Time|tempo]].
+
+Una delle domande del modulo era: "È anarchico?"
+A cui un filosofo distaccato sarebbe naturalmente incline a rispondere:
+"Che diavolo c'entra con lei? È ateo?"
+insieme ad alcuni tentativi scherzosi di [[Cross|interrogare]] l'ufficiale su
+cosa costituisca un ateo. Poi c'era la domanda: "È a favore della sovversione del [[government|governo]]
+degli Stati Uniti con la forza?"
+A questa io scriverei: "Preferisco rispondere a questa domanda
+alla fine del mio viaggio e non all'inizio." L'interrogatore,
+nella sua curiosità più che morbosa, aveva poi scritto:
+"È un poligamo?" La risposta a questo è: "Non tanta fortuna"
+o "Non tanto [[Fool|sciocco]]", secondo la nostra esperienza dell'altro sesso.
+Ma forse una risposta migliore sarebbe quella data a W. T. Stead
+quando diffuse la domanda retorica: "Dovrei uccidere mio fratello
+Boer" -- la risposta che diceva: "Non interferire mai negli affari di famiglia."
+Ma tra le molte cose che mi hanno divertito quasi al punto da trattare
+il modulo in modo così irrispettoso, la più divertente è stata il pensiero
+del fuorilegge spietato che si sentisse costretto a trattarlo con rispetto.
+Mi piace pensare al disperato straniero, cercando di scivolare in
+[[america|America]] con documenti ufficiali sotto protezione ufficiale, e sedendosi
+a scrivere con una bella gravità: "Sono un anarchico.
+Vi odio tutti e desidero distruggervi." Oppure: "Intendo
+sovvertire con la forza il [[government|governo]] degli Stati Uniti
+il prima possibile, piantando il lungo coltello da fodero nella mia tasca dei pantaloni sinistra nel vostro Presidente alla prima occasione."
+O ancora: "Sì, sono un poligamo proprio così, e le mie quarantasette
+mogli mi accompagnano nel viaggio travestite da segretarie."
+Sembrerebbe esserci una certa semplicità mentale in queste risposte;
+ed è rassicurante sapere che anarchici e poligami sono
+tanto puri e buoni che la polizia ha solo da far loro delle domande
+e sono sicuri di non dire bugie.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="America (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
@@ -691,3 +759,32 @@ we see the whole position in a totally different perspective.
 We say that the Americans are doing something heroic or doing
 something insane, or doing it in an unworkable or unworthy fashion,
 instead of simply wondering what the devil they are doing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora in [[america|America]] questa non è una teoria oziosa. Potrebbe essere stata teorica,
+sebbene fosse profondamente sincera, quando quel grande gentiluomo della Virginia
+la dichiarò in un ambiente che conservava ancora qualcosa del carattere
+di una campagna inglese. Ora non è più solo teorica.
+Nulla impedisce che [[america|America]] sia letteralmente invasa dai Turchi,
+come lo è stata dagli ebrei o dai bulgari. Nella più squisitamente
+inconsequenziale delle Bab Ballads, ci viene raccontato riguardo al Pascià Bailey Ben:
+
+Una mattina alle otto e mezza bussò Un alto indiano rosso al suo cancello.
+In Turchia, come forse sapete, gli indiani rossi sono estremamente rari.
+
+Ma il contrario non è affatto vero. Non c'è nulla nella [[Nature|natura]] delle cose che impedisca a un'emigrazione di turchi di aumentare e moltiplicarsi sulle pianure dove vagavano gli indiani d'America; non c'è nulla che renda necessario che i turchi siano estremamente rari. Gli indiani d'America, ahimé, sono probabilmente più rari. E poiché preferisco di gran lunga gli indiani d'America ai turchi, parlo senza pregiudizi; ma il punto qui è che l'[[america|America]], in parte per teoria originale e in parte per caso storico, è aperta a mescolanze razziali che la maggior parte dei paesi riterrà incongrue o comiche. Ecco perché è giusto leggere qualsiasi definizione o regola americana sotto una certa luce, e relativamente a una posizione piuttosto unica. Non è giusto paragonare la posizione di coloro che possono incontrare i turchi in strade secondarie con quella di coloro che non hanno mai incontrato i turchi se non nei Bab Ballads. Non è giusto semplicemente paragonare l'[[america|America]] all'Inghilterra nelle sue normative sul turco. In breve, non è giusto fare ciò che probabilmente fa quasi ogni inglese; guardare il questionario internazionale americano e ridere e accontentarsi di dire: "Non abbiamo nulla di questa sciocchezza in Inghilterra."
+
+In Inghilterra non abbiamo nulla di tutto questo perché non abbiamo mai tentato di avere alcuna di questa [[philosophy|filosofia]]. E, soprattutto, perché abbiamo l'enorme vantaggio di sentire naturale essere nazionali, poiché non c'è altro da essere. L'Inghilterra in questi giorni non è governata [[Well|bene]]; l'Inghilterra non è istruita [[Well|bene]]; l'Inghilterra soffre di ricchezza e [[Poverty|povertà]] che non sono [[Well|bene]] distribuite. Ma l'Inghilterra è inglese - esto perpetua. L'Inghilterra è inglese come la Francia è francese o l'Irlanda è irlandese; la grande massa degli uomini dà per scontate certe tradizioni nazionali. Ora questo ci dà un compito totalmente diverso e molto più facile. Non abbiamo una [[Inquisition|inquisizione]], perché non abbiamo un credo; ma si può discutere che non abbiamo bisogno di un credo, perché abbiamo un carattere. In ciascuna delle vecchie nazioni l'[[unity|unità]] nazionale è preservata dal tipo nazionale. Perché abbiamo un tipo, non abbiamo bisogno di avere una prova.
+
+Prendete quella domanda [[Innocent|innocente]], "Siete un anarchico?", che è intrinsecamente tanto sfrontata quanto "Siete un ottimista?" o "Siete un filantropo". Non sto discutendo qui se queste cose sono giuste, ma se la maggior parte di noi è in grado di conoscerle correttamente. Ora è del tutto vero che la maggior parte degli inglesi non trova necessario andare in giro tutto il giorno a chiedersi l'un l'altro se siano anarchici. È del tutto vero che questa frase non compare su nessun modulo britannico che io abbia visto. Ma questo non è solo perché la maggior parte degli inglesi non sono anarchici. È ancora più perché anche gli anarchici sono inglesi. Per esempio, sarebbe facile prendere in giro la formula americana notando che il cappello andrebbe bene a tutti i tipi di teste calve accademiche. Si potrebbe [[Well|ben]] sostenere che Herbert Spencer fosse un anarchico. È praticamente certo che Auberon Herbert fosse un anarchico. Ma Herbert Spencer era un straordinario inglese tipico della classe media non conformista. E Auberon Herbert era uno straordinario tipico [[aristocrat|aristocratico]] inglese dell'antica e genuina aristocrazia.
+
+Tutti sapevano che il signore del maniero non avrebbe lanciato una bomba contro la [[Queen|Regina]], e che il dissidente non ne avrebbe lanciata nessuna contro chicchessia.
+Tutti sapevano che c'era qualcosa di subconscio in un uomo come Auberon Herbert, che sarebbe venuto fuori solo nel lanciare bombe contro i nemici dell'Inghilterra; così come è venuto fuori in suo figlio e omonimo, il generoso e indimenticato, che cadde scagliando bombe dal cielo ben oltre la linea tedesca. Tutti sanno che normalmente, alla fine, il gentiluomo inglese è patriottico.
+Tutti sanno che l'inglese non conformista è nazionale anche quando nega di essere patriottico. Nulla è più notevole infatti del fatto che nessuno è più segnato dal marchio della propria nazione dell'uomo che dice che non dovrebbero esserci nazioni.
+Qualcuno chiamò Cobden l'Uomo Internazionale; ma nessun uomo potrebbe essere più inglese di Cobden. Tutti riconoscono [[tolstoy|Tolstoj]] come iconoclasta di ogni patriottismo; ma nessuno potrebbe essere più russo di [[tolstoy|Tolstoj]]. Nei vecchi paesi dove ci sono questi tipi nazionali, ai tipi può essere concesso di sostenere qualsiasi teoria.
+Anche se sostengono certe teorie è improbabile che facciano certe cose. Così l'obiettore di coscienza, nel senso inglese del termine, può essere e infatti è uno dei particolari sottoprodotti dell'Inghilterra.
+Ma l'obiettore di coscienza probabilmente avrà un'obiezione di coscienza a lanciare bombe.
+
+Ora sono ben lontano dall'intendere di suggerire che questi test americani siano buoni test o che non ci sia pericolo che la tirannia diventi la [[Temptation|tentazione]] dell'[[america|America]]. Avrò qualcosa da dire più avanti su quella [[Temptation|tentazione]] o tendenza. Non dico nemmeno che applichino in modo coerente questa concezione di una nazione con l'[[Soul|anima]] di una chiesa, protetta dalla selezione religiosa e non razziale. Se applicassero quel principio in modo coerente, dovrebbero escludere pessimisti e cinici ricchi che negano l'ideale democratico; cosa eccellente ma piuttosto improbabile. Quello che dico è che quando ci rendiamo conto che questo principio esiste affatto, vediamo tutta la situazione in una prospettiva totalmente diversa. Diciamo che gli americani stanno facendo qualcosa di eroico o qualcosa di folle, o lo stanno facendo in modo impraticabile o indegno, invece di chiederci semplicemente cosa diavolo stiano facendo.

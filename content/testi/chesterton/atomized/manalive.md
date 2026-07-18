@@ -6500,6 +6500,67 @@ boarding-[[house]], a man whose negro vitality and vulgarity amused
 like the owner of a performing monkey.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Né la ragazza in blu rimase del tutto impassibile di fronte a questa [[Apocalypse|apocalisse]] in un [[Garden|giardino]] privato, sebbene fosse una delle creature più prosaiche e pratiche esistenti. Era infatti nientemeno che la strenua nipote la cui forza [[Alone|sola]] sosteneva quella dimora di [[Decay|decadimento]]. Ma mentre il vento faceva ondeggiare le gonne blu e bianche fino a conferire loro i contorni mostruosi dei crinolini vittoriani, un ricordo sepolto si risvegliò in lei che era quasi [[Romance|romantico]]: un [[Memory|ricordo]] di un volume polveroso del _Punch_ nella [[house|casa]] di una zia durante l'infanzia; immagini di cerchi per crinoline e cerchi da croquet e qualche bella storia, di cui forse facevano parte. Questo profumo appena percettibile nei suoi pensieri svanì quasi istantaneamente, e [[Diana]] Duke entrò in [[house|casa]] anche più prontamente del suo compagno. Alta, snella, aquilina e scura, sembrava fatta per una tale rapidità. Nel [[Body|corpo]] era della razza di quegli [[Birds|uccelli]] e animali che sono allo stesso tempo lunghi e vigili, come levrieri o cicogne o anche un serpente [[Innocent|innocente]]. L'intera [[house|casa]] ruotava attorno a lei come su una sbarra d'acciaio. Sarebbe sbagliato dire che comandasse; poiché la sua efficienza era così impaziente che obbediva a se stessa prima ancora che qualcun altro le obbedisse. Prima che gli elettricisti potessero riparare un campanello o i fabbri aprire una porta, prima che i dentisti potessero estrarre un dente o i maggiordomi tirare un tappo stretto, era già fatto con la violenza silenziosa delle sue mani snelle. Era leggera; ma non c'era nulla di saltellante nella sua leggerezza. Schivava il terreno e intendeva schivarlo. La gente parla del pathos e del fallimento delle donne ordinarie; ma è una cosa più terribile che una donna bella possa avere successo in tutto tranne che nell'essere donna.
+
+«È sufficiente a farvi saltare il cervello», disse la giovane donna vestita di bianco, dirigendosi verso lo specchio.
+
+La giovane donna in blu non rispose, ma ripose i guanti da giardinaggio e poi si avvicinò al buffet per stendere la tovaglia del tè pomeridiano.
+
+«Abbastanza per farvi saltare il cervello, dico io», disse la signorina Rosamund Hunt con l'imperturbabile allegria di chi ha sempre avuto [[songs|canzoni]] e discorsi che potevano essere ripetuti.
+
+«Solo il tuo cappello, credo», disse la [[Diana|duchessa]] Diana «ma presumo che a volte sia più importante.»
+
+Il volto di Rosamund mostrò per un istante l'offesa di un [[Child|bambino]] viziato, e poi l'[[Humour|umorismo]] di una persona molto sana.
+Scoppiò a ridere e disse: "[[Well|Beh]], dovrebbe essere un grande [[Wind|vento]] per staccarti la testa."
+
+Ci fu un altro [[Silence|silenzio]]; e il tramonto che si faceva sempre più largo tra le nuvole squarciate riempì la stanza di una soave [[Fire|fiamma]] e dipinse i muri opachi di rubino e oro.
+
+«Qualcuno mi disse una volta», disse Rosamond Hunt,
+«che è più facile conservare la testa quando si è perso il cuore.»
+
+"Non dire sciocchezze del genere", disse [[Diana]] con asprezza selvaggia.
+
+Fuori, il [[Garden|giardino]] era avvolto in uno splendore dorato;
+ma il [[Wind|vento]] soffiava ancora impetuosamente e i tre uomini
+che tenevano duro potevano anche considerare il problema dei cappelli e delle teste.  E, infatti, la loro posizione riguardo ai cappelli era in qualche modo tipica di loro. Il più alto dei tre sopportava la raffica con un alto cappello di seta che il [[Wind|vento]] sembrava caricare altrettanto invano quanto quella torre cupa, la [[house|casa]] alle sue spalle.
+Il secondo uomo cercava di tenere saldamente un rigido cappello di paglia in tutte le angolazioni,
+e alla fine lo teneva in mano.  Il terzo non aveva cappello e, dal suo atteggiamento, sembrava che non ne avesse mai avuto uno in vita sua.
+Forse questo [[Wind|vento]] era una specie di bacchetta magica per mettere alla prova uomini e donne,
+perché c'era molto dei tre uomini in questa differenza.
+
+L'uomo dal cappello di seta solida era l'incarnazione della lucentezza e della solidità.
+Era un uomo grande, banale, annoiato e (come alcuni dicevano) noioso, con capelli chiari piatti
+e bei lineamenti pesanti; un giovane dottore prospero di nome Warner. Ma se la sua biondezza e banalità sembravano all'inizio un po' fatue, è certo che non era uno [[Fool|stupido]]. Se Rosamund Hunt era l'unica persona presente con molti soldi,
+era l'unica persona che avesse finora trovato qualche tipo di fama.
+La sua trattazione su "L'esistenza probabile del [[Pain|dolore]] negli organismi più bassi"
+era stata universalmente salutata dal mondo scientifico come allo stesso tempo solida
+e audace. In breve, aveva indubbiamente cervello; e forse non era colpa sua se era il tipo di cervello che la maggior parte degli uomini [[Desire|desidera]]
+di analizzare con un attizzatoio.
+
+Il giovane che si toglieva e rimetteva il cappello era un dilettante scientifico di piccola levatura, e venerava il grande Warner con una freschezza solenne.
+Fu infatti su suo invito che il distinto medico era presente; poiché Warner non viveva in una simile [[house|casa]] cadente, ma in un palazzo professionale a Harley Street. Questo giovane
+era in realtà il più giovane e il più bello dei tre.
+Ma era uno di quei tipi, sia maschi che femmine,
+che sembrano destinati ad essere belli e insignificanti.
+Bruno, dal colorito acceso e timido, sembrava perdere
+la delicatezza dei suoi tratti in una specie di sfocatura di marrone
+e rosso mentre stava lì arrossendo e sbattendo le palpebre contro il [[Wind|vento]].
+Era uno di quei tipi evidenti ma invisibili:
+tutti sapevano che era [[arthur|Arthur]] Inglewood, scapolo, morale,
+decisamente intelligente, che viveva con un po' di soldi suoi
+e si nascondeva nei due hobby della fotografia e del ciclismo.
+Tutti lo conoscevano e lo dimenticavano; anche mentre stava lì nella
+luce accecante del tramonto dorato c'era qualcosa in lui di indefinito,
+come una delle sue fotografie amatoriali rosso-marroni.
+
+Il terzo uomo non aveva cappello; era magro, vestito con abiti leggeri e vagamente sportivi, e la grande pipa in bocca lo faceva apparire ancora più magro. Aveva un viso lungo e ironico, capelli blu-neri, gli occhi azzurri di un irlandese e il mento azzurro di un attore.
+Era irlandese, ma non era un attore, se si escludono i vecchi tempi delle charades della signorina Hunt; in realtà era un giornalista oscuro e frivolo di nome [[Michael]] [[Moon]]. Si era creduto vagamente che stesse studiando per diventare avvocato, ma (come direbbe Warner con il suo umorismo piuttosto pesante) era soprattutto in un altro tipo di bar che i suoi amici lo trovavano.
+[[Moon]], tuttavia, non beveva, né si ubriacava frequentemente; era semplicemente un gentiluomo che amava la compagnia bassa. Questo in parte perché la compagnia è più tranquilla della società: e se gli piaceva parlare con una barista (come sembrava), era principalmente perché era lei a fare tutto il discorso.
+Inoltre spesso portava altri talenti per aiutarla. Condivideva quella strana abitudine di tutti gli uomini del suo tipo, intellettuali e senza [[Ambition|ambizione]]: l'abitudine di frequentare i loro inferiori mentali.
+C'era un piccolo ebreo elastico di nome Moses Gould nella stessa pensione, un uomo la cui vitalità nera e volgarità divertivano così tanto [[Michael]] che andava in giro con lui da un bar all'altro, come il proprietario di una scimmia esibizionista.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="Manalive — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
@@ -7212,6 +7273,57 @@ death out of that machine gun?"
 out of that," and he went bounding down the stairs.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Cristo lo confonda!» esclamò Moon, afferrando improvvisamente la bottiglia vuota di clarete «questo è il vino più acquoso e schifoso che io abbia mai stappato, ed è l'unico drink che ho veramente apprezzato negli ultimi nove anni. Non sono stato ubriaco fino a dieci minuti fa».
+E mandò la bottiglia a fischiare, una ruota di vetro, lontano oltre il giardino sulla strada dove, nel profondo silenzio serale, potevano persino sentirlo rompersi e frantumarsi sulle pietre.
+
+«Moon», disse Arthur Inglewood con voce un po' rauca, «non dovresti essere così amaro per questo. Ognuno deve prendere il mondo come lo trova; naturalmente spesso lo si trova un po' noioso...»
+
+“Quell’uomo non lo fa”, disse Michael con decisione; “voglio dire quell’uomo Smith. Ho la sensazione che ci sia un metodo nella sua follia. Sembra che possa trasformarsi in una specie di Paese delle Meraviglie da un momento all’altro, facendo solo un passo fuori dalla strada normale. Chi avrebbe mai pensato a quella botola? Chi avrebbe mai pensato che questo maledetto vino coloniale potesse avere un sapore piuttosto buono tra i comignoli? Forse questa è la vera chiave del Paese delle Meraviglie. Forse quelle orribili sigarette Empire di Nosey Gould dovrebbero essere fumate su dei trampoli, o qualcosa del genere. Forse il freddo arrosto di pecora della signora Duke sembrerebbe piuttosto appetitoso in cima a un albero. Forse anche la mia maledetta, lurida, monotona pioggerellina di Old Bill Whisky...”
+
+«Non essere così duro con te stesso», disse Inglewood, seriamente turbato. «La noia non è colpa tua né del whisky. I tipi che non... voglio dire quelli come me, hanno la stessa sensazione che tutto sia piuttosto piatto e un fallimento. Ma il mondo è fatto così; è tutta sopravvivenza. Alcune persone sono fatte per andare avanti, come Warner; e alcune persone sono fatte per rimanere tranquille, come me. Non puoi farci niente col tuo temperamento.
+So che sei molto più intelligente di me; ma non puoi fare a meno di avere tutti i modi sciatti di un povero letterato, e io non posso fare a meno
+di avere tutti i dubbi e l'impotenza di uno scienziatuccio,
+proprio come un pesce non può fare a meno di galleggiare o una felce di arricciarsi. L'umanità, come Warner ha detto così bene in quella conferenza, è veramente composta
+da tribù completamente diverse di animali tutti mascherati da uomini».
+
+Nel giardino buio sotto di loro, il brusio delle conversazioni fu improvvisamente interrotto dallo strumento musicale della signorina Hunt che suonava con l'inaspettata violenza dell'artiglieria una melodia volgare ma vivace.
+
+La voce di Rosamunda risuonò ricca e forte nelle parole di una canzone negra frivola e alla moda: -
+
+«I negri cantano una canzone nella vecchia piantagione,
+cantiamola come la cantavamo nei giorni ormai lontani.»
+
+Gli occhi castani di Inglewood si ammorbidirono e s'infestarono ancora più profondamente mentre continuava il suo monologo di rassegnazione su un ritmo così allegro e romantico.
+Ma gli occhi azzurri di Michael Moon si illuminarono e indurirono con una luce che Inglewood non capiva. Molti secoli, molti villaggi e molte valli sarebbero stati più felici se Inglewood o i suoi compatrioti avessero mai capito quella luce, o intuito al primo lampeggio che era la stella della battaglia d'Irlanda.
+
+«Niente potrà mai cambiarla; è nelle ruote dell'universo»,
+continuò Inglewood a bassa voce: «alcuni uomini sono deboli e altri forti,
+e l'unica cosa che possiamo fare è sapere di essere deboli.
+Sono stato innamorato molte volte, ma non potevo fare nulla,
+perché ricordavo la mia stessa incoerenza. Ho formato opinioni, ma
+non ho il coraggio di sostenerle, perché le ho cambiate così spesso.
+Questo è il risultato, vecchio mio. Non possiamo fidarci di noi stessi--
+e non possiamo farne a meno».
+
+Michael si era alzato e stava in piedi in una posizione pericolosa alla fine del tetto, come una statua scura appesa sopra il suo frontone. Dietro di lui enormi nuvole di un viola quasi impossibile giravano lentamente a testa in giù nell'anarchia silenziosa del cielo. La loro rotazione rendeva la figura scura ancora più vertiginosa.
+
+«Facciamo...» disse e improvvisamente tacque.
+
+«Cosa facciamo?» chiese Arthur Inglewood, alzandosi con la stessa prontezza ma un po' più cautamente, perché il suo amico sembrava avere qualche difficoltà a parlare.
+
+“Andiamo a fare alcune di quelle cose che non possiamo fare”, disse Michele.
+
+Nello stesso istante dalla botola sotto di loro spuntarono i capelli da cacatua e il viso arrossato di Innocent Smith, che li chiamava per dirgli che dovevano scendere perché il «concerto» era in pieno svolgimento e il signor Moses Gould stava per recitare «Young Lochinvar».
+
+Mentre scendevano nella soffitta di Innocent rischiavano ancora una volta di inciampare nei suoi divertenti impedimenta. Inglewood, fissando il pavimento ingombro, pensò istintivamente al pavimento ingombro di un asilo.
+Fu quindi tanto più commosso e persino scioccato quando i suoi occhi caddero su una grande rivoltella americana ben lucidata.
+
+«Ehi!» esclamò, indietreggiando dal bagliore d'acciaio come gli uomini si ritraggono da un serpente; «hai paura dei ladri? o quando e perché spari con quella mitragliatrice?»
+
+«Oh, quello!» disse Smith con un solo sguardo «distribuisco la vita da lì», e si mise a scendere le scale di corsa.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Manalive — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
@@ -7815,6 +7927,90 @@ you must marry Man--that is Me.  The only third thing is to marry yourself--
 yourself, yourself, yourself--the only companion that is never satisfied--
 and never satisfactory."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo IV
+
+Il [[Garden|giardino]] del Dio
+
+La [[Diana|duchessa]] Diana sembrava inesplicabilmente irritata dall'ingresso brusco e dalle parole della ragazza.
+
+«[[Well|Bene]]», disse in tono brusco, «immagino che la signorina Gray possa rifiutarlo se non vuole sposarlo».
+
+"Ma lei vuole sposarlo!" gridò Rosamunda esasperata. "È una pazza selvaggia e malvagia, e non voglio separarmi da lei."
+
+«Forse», disse freddamente [[Diana]], «ma non vedo proprio cosa possiamo fare.»
+
+«Ma quell'uomo è pazzo, [[Diana]]», ragionò la sua amica con rabbia.
+«Non posso permettere alla mia cara governante di sposare un uomo che è pazzo!
+Tu o qualcun altro DEVE fermarla! -- Signor Inglewood, lei è un uomo;
+vada a dirgli che semplicemente non possono.»
+
+«Purtroppo mi sembra che possano semplicemente farlo», disse Inglewood con aria depressa. «Ho un diritto d'intervento molto minore di quello della signorina Duke e ho, naturalmente, una forza morale molto inferiore alla sua».
+
+"Non avete molto da offrire nessuno dei due", gridò Rosamund,
+mentre gli ultimi residui del suo formidabile carattere cedevano;
+"Credo che andrò altrove per un po' di buon senso e coraggio.
+Penso di conoscere qualcuno che mi aiuterà più di voi,
+in ogni caso... è una bestia intrattabile, ma è un uomo,
+ha una mente e lo sa..." E si lanciò fuori nel [[Garden|giardino]],
+con le guance in fiamme e il parasole che vorticava come una ruota di Santa [[Wheel|Caterina]].
+
+La signorina trovò [[Michael]] [[Moon]] in piedi sotto l'albero del [[Garden|giardino]], che guardava oltre la siepe; curvo come un uccello rapace, con la sua grande pipa che gli pendeva dal lungo mento blu. La durezza stessa della sua espressione le piacque, dopo le sciocchezze del nuovo fidanzamento e l'incertezza degli altri suoi amici.
+
+"Mi dispiace di essere stata [[Cross|irritabile]], signor [[Moon]]", disse francamente. "La odiavo per il suo cinismo; ma sono stata ben punita, perché ora ne ho proprio bisogno. Ne ho abbastanza del sentimentalismo - ne sono sazia.
+Il mondo è impazzito, signor [[Moon]] - tutti tranne i cinici, credo.
+Quel maniaco di [[smith|Smith]] vuole sposare la mia vecchia amica Mary e lei...  e lei... non sembra dispiacersene."
+
+Vedendo il suo viso attento ancora tranquillamente intento a fumare, aggiunse con vivacità:
+"Non sto scherzando; quella è la carrozza del signor [[smith|Smith]] là fuori.  Giura che ora la porterà da sua zia e andrà a prendere una licenza speciale.
+Mi dia qualche consiglio pratico, signor [[Moon]]."
+
+Il signor [[Moon]] tolse la pipa di bocca e la tenne in mano per un istante pensieroso, poi la scagliò dall'altra parte del [[Garden|giardino]]. "Il mio consiglio pratico è questo," disse: "lasciate che vada a prendere il suo permesso speciale e chiedetegli di procurarne un altro per voi e me."
+
+«È uno dei suoi scherzi?» chiese la giovane signora.
+«Dica quello che intende davvero».
+
+"Voglio dire che [[Innocent]] [[smith|Smith]] è un uomo d'affari",
+disse [[Moon]] con ponderosa precisione -- "un uomo semplice e pratico:
+un uomo di affari; un uomo di fatti e della luce del giorno.
+Mi ha fatto cadere addosso improvvisamente venti tonnellate
+di mattoni da costruzione, e sono felice di dire che mi hanno svegliato.
+Ci siamo [[Sleep|addormentati]] poco fa su questo stesso prato, sotto questa stessa luce solare. Abbiamo fatto un pisolino per cinque anni circa,
+ma ora ci sposeremo, Rosamund, e non riesco a capire
+perché quel taxi..."
+
+«In verità», disse con fermezza Rosamond, «non capisco cosa intendiate».
+
+"Che bugia!" esclamò [[Michael]], avvicinandosi a lei con gli occhi che brillavano.
+"Sono tutto per le bugie in modo ordinario; ma non vedi che stasera non funzionano? Siamo finiti nel mondo dei fatti, vecchia mia. Quell'erba che cresce, e quel sole che tramonta, e quella carrozza alla porta sono fatti. Tu mi tormentavi e ti scusavi dicendo che ero dietro ai tuoi soldi e che non ti [[Love|amavo]] davvero. Ma se ora stessi qui a dirti che non ti [[Love|amo]] -- non mi crederesti: perché la [[Truth|verità]] è in questo [[Garden|giardino]] stasera."
+
+«Davvero, signor [[Moon]]...» disse Rosamond, con voce ancora più flebile.
+
+Le teneva puntati addosso due grandi occhi magnetici azzurri.
+"Si chiama [[Moon|Luna]]?" chiese. "Si chiama Caccia? Per la mia [[Honour|parola]],
+mi sembrano nomi altrettanto strani e lontani di quelli degli indiani d'America.
+È come se lei si chiamasse 'Nuotare' e io mi chiamassi 'Aurora'. Ma i nostri
+veri nomi sono Marito e Moglie, così come erano quando ci siamo addormentati."
+
+«Non serve a nulla», disse Rosamund con vere [[Tears|lacrime]] negli occhi,
+«non si può mai tornare indietro».
+
+"Posso andare dove cazzo voglio", disse [[Michael]], "e posso portarti sulle spalle".
+
+«Ma davvero, [[Michael]], davvero, devi fermarti e riflettere!» esclamò la ragazza con serietà. «Potresti rapirmi, [[Soul|anima]] e [[Body|corpo]], non ne dubito, ma potrebbe essere un affare amaro in ogni caso. Queste cose fatte in quel modo romantico, come quelle del signor [[smith|Smith]], esse... attraggono le donne, non lo nego. Come dici tu, stiamo tutti dicendo la [[Truth|verità]] stan-[[Night|notte]]. Hanno attratto povera Mary, per esempio. Mi attirano, [[Michael]]. Ma il fatto è che i matrimoni imprudenti portano a lunghe infelicità e delusioni... ti sei abituato ai tuoi drink e alle tue cose... non sarò carina ancora per molto...»
+
+"Matrimoni imprudenti!" ruggì [[Michael]]. "E prego, dove sulla terra o in cielo esistono matrimoni prudenti? Potremmo altrettanto [[Well|bene]] parlare di suicidi prudenti. Tu ed io abbiamo girato intorno l'uno all'altra abbastanza a lungo, e siamo più al sicuro di [[smith|Smith]] e Mary Gray, che si sono incontrati la scorsa [[Night|notte]]? Non si conosce mai un marito fino a quando non lo si sposa. Infelici! naturalmente sarete infelici. Chi diavolo siete voi che non dobbiate essere infelici, come la madre che vi ha generato? Delusi! naturalmente saremo delusi. Io, per uno, non mi aspetto fino alla morte di essere un uomo così buono come sono in questo momento -- una torre con tutte le trombe che suonano."
+
+«Vedete tutto questo», disse Rosamunda con una grande sincerità sul suo volto solido,
+«e volete davvero sposarmi?»
+
+"La mia cara, che altro c'è da fare?" ragionò l'Irlandese. "Qual altra occupazione c'è per un uomo attivo su questa terra, se non sposarti? Qual è l'alternativa al [[Marriage|matrimonio]], a parte il [[Sleep|sonno]]?
+Non è la libertà, Rosamund. A meno che tu non ti sposi con Dio, come fanno le nostre monache in Irlanda,
+devi sposare un Uomo--cioè Me. L'unica terza cosa è sposarti te stessa--
+te stessa, te stessa, te stessa--l'unica compagna che non si accontenta mai--
+e non è mai soddisfacente."
 
 
 
@@ -8848,6 +9044,64 @@ He had remained like a thing graven; the god of the [[Garden|garden]].
 A sparrow had perched on one of his heavy shoulders; and then,
 after correcting its costume of feathers, had flown away.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+D'altra parte, Cyrus Pym apparteneva a un paese dove sono possibili cose che sembrano pazzesche agli inglesi. Esistono davvero regolamenti e autorità esattamente come uno degli scherzi di [[Innocent|Innocenzo]] o una delle satire di [[Michael|Michele]], sostenuti da poliziotti placidi e imposti a uomini d'affari indaffarati. Pym conosceva interi Stati che sono vasti eppure segreti e fantasiosi; ciascuno è grande come una nazione, ma privato come un villaggio perduto, e inaspettato quanto un letto a forma di torta di mele. Stati dove nessuno può avere una sigaretta, Stati dove chiunque può avere dieci mogli, Stati con divieti molto rigorosi, Stati con [[divorce|divorzi]] molto lassi: tutte queste grandi vaghezze locali avevano preparato la mente di Cyrus Pym per piccole vaghezze locali in un paese più piccolo. Infinitamente più remoto dall'Inghilterra di qualsiasi russo o italiano, del tutto incapace di concepire cosa siano le convenzioni inglesi, non poteva vedere l'impossibilità sociale della [[Court|Corte]] di Beacon. Coloro che hanno condiviso l'esperimento credono fermamente che Pym abbia creduto fino alla fine in quella fantasmagorica [[Court|corte]] e l'abbia considerata un'istituzione britannica.
+
+Verso il sinodo, che era così un po' fermo, si avvicinava attraverso la crescente foschia e crepuscolo una figura bassa e scura con un modo di camminare apparentemente basato sulla repressione imperfetta di una danza nera. Qualcosa nella familiarità e nell'incongruità di questo essere spinse [[Michael]] a scoppi di frivolezza sani e umani ancora più cordiali.
+
+«Ecco il piccolo Nosey Gould», esclamò. «Non è già la semplice vista di lui sufficiente a scacciare tutte le vostre riflessioni morbosi?»
+
+«Davvero», rispose il dottor Warner, «non riesco proprio a capire come la cosa riguardi il signor Gould;
+e ribadisco ancora una volta...»
+
+"Ciao! che tipo di funerale è, signori?" chiese il nuovo arrivato con l'aria di un arbitro esuberante. "Il dottore sta chiedendo qualcosa? È sempre così in una pensione, sapete. Ci sono sempre molte richieste. Nessuna offerta."
+
+Con la massima delicatezza e imparzialità di cui era capace, [[Michael]] riformulò la sua posizione,
+e indicò in generale che [[smith|Smith]] si fosse reso responsabile di certi atti pericolosi
+e dubbi, e che fosse persino sorta l'accusa che egli fosse pazzo.
+
+«[[Well|Beh]], naturalmente lo è», disse Moses Gould con calma; «non c’è bisogno di vecchio Holmes per capirlo. Il volto da avvoltoio di Holmes,» aggiunse con gusto astratto, «mostrò un segno di delusione, il detective Gould essendoci arrivato prima di lui.»
+
+«Se è pazzo», cominciò Inglewood.
+
+«[[Well|Beh]]», disse Mosè, «quando uno esce sul tetto la prima [[Night|sera]], di solito trova una tegola allentata.»
+
+"Non hai mai obiettato prima", disse la [[Diana|duchessa Diana]] piuttosto freddamente, "e di solito sei abbastanza libera con le tue lamentele".
+
+"Non mi lamento di lui", disse Mosè con magnanimità, "il poveretto è abbastanza innocuo; potreste legarlo nel [[Garden|giardino]] qui e farebbe rumore contro i ladri".
+
+"Mosè", disse [[Moon]] con solenne fervore, "sei l'incarnazione del Buon Senso. Pensi che il signor [[Innocent]] sia pazzo. Lascia che ti presenti l'incarnazione della Teoria Scientifica. Anche lui pensa che il signor [[Innocent]] sia pazzo. -- Dottore, questo è il mio amico Gould. -- Mosè, questo è il celebre dottor Pym." Il celebre dottor Cyrus Pym chiuse gli occhi e si inchinò. Anche lui mormorò la sua guerra nazionale a bassa voce, che suonava come "Piacere di conoscerti".
+
+"Ora voi due persone", disse [[Michael]] allegramente, "che pensate entrambi che il nostro povero amico sia matto, andreste benissimo in quella [[house|casa]] laggiù e lo dimostrereste pazzo. Cosa potrebbe essere più efficace della combinazione di Teoria Scientifica con Buon Senso? Uniti vincerete; divisi perderete. Non sarò così scortese da suggerire che il Dr. Pym non abbia buon senso; mi limito a registrare l'incidente cronologico per cui finora non ce ne ha mostrato alcuno. Mi prendo la [[Freedom|libertà]] di un vecchio amico nel scommetterci la camicia che Mosè non abbia una teoria scientifica. Eppure contro questa forte coalizione sono pronto ad apparire, armato solo di un'intuizione--che in americano vuol dire un'ipotesi."
+
+«Distinto dall'aiuto del signor Gould», disse Pym aprendo gli occhi di colpo.
+«Mi sembra di capire che sebbene lui e io siamo identici nella diagnosi primaria, c'è tra noi qualcosa che non può essere chiamato disaccordo, qualcosa che forse potremmo definire un...» Unì la punta del pollice e dell'indice, aprendo con squisita eleganza le altre dita nell'aria, e sembrò aspettare che qualcun altro gli suggerisse cosa dire.
+
+«Stai catturando mosche?» chiese il cordiale Mosè.
+
+«Una divergenza», disse il dottor Pym con un raffinato sospiro di sollievo, «una divergenza. Ammesso che l'uomo in questione sia squilibrato, non sarebbe necessariamente tutto ciò che la scienza richiede in uno psicopatico omicida...»
+
+«Le è mai venuto in mente», osservò [[Moon]], che si era appoggiato di nuovo al cancello e non si voltò, «che se fosse un pazzo omicida avrebbe potuto ucciderci tutti qui mentre parlavamo.»
+
+Qualcosa esplose silenziosamente sotto tutte le loro menti,
+come dinamite sigillata in qualche cantina dimenticata. Tutti
+ricordarono per la prima [[Time|volta]] per un'ora o due che il [[Monster|mostro]]
+di cui stavano parlando era lì tranquillo tra loro.
+Lo avevano lasciato nel [[Garden|giardino]] come una statua; avrebbe
+potuto esserci un delfino che si arrotolava intorno alle sue gambe, o una fontana che sgorgava
+dalla sua bocca, per quanto riguarda l'attenzione che avevano prestato a [[Innocent]] [[smith|Smith]].
+Era in piedi con la cresta dei suoi capelli biondi spettinati un po' in avanti,
+il suo viso fresco, piuttosto miope, guardava pazientemente
+in basso verso nulla di particolare, le sue enormi spalle curve,
+e le mani nelle tasche dei pantaloni.  Per quanto potessero indovinare
+non si era mosso affatto. Il suo cappotto verde poteva essere stato tagliato fuori
+dall'erba verde su cui stava. Nella sua [[Shadow|ombra]] Pym aveva esposto
+e Rosamund aveva contestato, [[Michael]] aveva fatto discorsi infuocati e Mosè si era lamentato.
+Era rimasto come una cosa scolpita; il dio del [[Garden|giardino]].
+Uno sparrow era appollaiato su una delle sue grosse spalle; e poi,
+dopo aver corretto il suo costume di piume, volò via.
 
 
 
@@ -11801,6 +12055,61 @@ so mesmerized with the transparent glow of Our Lady's blue gown and
 the big gold star behind, that he led me also to look at the thing,
 which I had not done for fourteen years.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+E io, sorridendo della sua semplicità, risposi: «E così, se non ci sono dei,
+non avrò altro che un tempio in rovina».
+
+"E a questo punto quel gigante al quale era stata negata la luce della ragione allargò le sue possenti braccia e mi chiese di perdonarlo. E quando gli domandai per cosa dovesse essere perdonato, egli rispose: «Per aver ragione».
+
+«I vostri idoli e imperatori sono così vecchi e saggi e soddisfacenti»,
+esclamò «è un peccato che abbiano torto.
+Noi siamo così volgari e violenti, vi abbiamo fatto tante ingiustizie--
+è un peccato che alla fine avessimo ragione.»
+
+E io, continuando a sopportare la sua innocuità, gli chiesi perché pensasse che lui e il suo popolo avessero ragione.
+
+Egli rispose: «Abbiamo ragione perché siamo legati dove gli uomini dovrebbero essere legati e liberi dove gli uomini dovrebbero essere liberi. Abbiamo ragione perché dubitiamo e distruggiamo leggi e costumi, ma non dubitiamo del nostro diritto di distruggerli. Voi vivete secondo i costumi, noi viviamo secondo le credenze. Guardatemi! Nel mio paese mi chiamano Smip. Il mio paese è abbandonato, il mio nome è macchiato perché io inseguo in giro per il mondo ciò che mi appartiene veramente. Voi siete fermi come gli alberi perché non credete. Io sono mutevole come la tempesta perché credo. Credo nella mia casa, che ritroverò. E alla fine rimane la lanterna verde e il palo rosso».
+
+Gli dissi: «Alla fine rimane solo la saggezza».
+
+«Ma mentre pronunciavo queste parole, emise un urlo orribile e,
+precipitandosi avanti, scomparve tra gli alberi.
+Non ho più rivisto quell'uomo né altri uomini.
+Le virtù dei saggi sono di ottone fine.
+Wong-Hi.»
+
+"La prossima lettera che devo leggere," continuò [[arthur|Arthur]] Inglewood, "probabilmente chiarirà la [[Nature|natura]] dell'esperimento curioso ma [[Innocent|innocente]] del nostro cliente.
+È datata da un villaggio di montagna in California e recita come segue:--
+
+"Signore,--Una persona che corrispondeva alla piuttosto straordinaria descrizione richiesta attraversò certamente qualche [[Time|tempo]] fa il passo montano delle Sierras su cui vivo e di cui sono probabilmente l'unico abitante stanziale. Gestisco una taverna rudimentale, più rudimentale di una capanna, proprio in cima a questo passo particolarmente ripido e minaccioso. Mi chiamo Louis Hara, e il nome stesso potrebbe confonderla riguardo alla mia nazionalità. [[Well|Beh]], mi confonde parecchio anche me. Dopo quindici anni senza compagnia è difficile avere un senso di patriottismo; e dove non c'è nemmeno un [[Hamlet|borghetto]] è difficile inventarsi una nazione. Mio padre era un irlandese del tipo più feroce e propenso agli spari dei vecchi californiani. Mia madre era una spagnola, orgogliosa della sua discendenza dalle antiche famiglie spagnole intorno a San Francisco, ma accusata per questo di avere qualche mescolanza di [[Blood|sangue]] indiano rosso. Io fui [[Well|bene]] istruito e amavo la musica e i libri. Ma come molti altri ibridi ero troppo buono o troppo cattivo per il mondo; dopo aver tentato molte cose, mi accontentai di guadagnarmi da vivere in modo sufficiente sebbene solitario con questo piccolo cabaret tra le [[Mountains|montagne]]. Nella mia [[Solitude|solitudine]] caddi in molti dei modi di un selvaggio. Come un eschimese, ero senza forma d'[[Winter|inverno]]; come un indiano rosso, d'estate calda portavo solo un paio di pantaloni di pelle e un grande cappello di paglia grande quanto un ombrello per proteggermi dal sole. Avevo un coltello bowie alla cintura e un fucile lungo sotto il braccio; e credo di aver fatto una bella impressione selvaggia sui pochi viaggiatori pacifici che riuscivano a salire fino al mio posto. Ma le prometto che non avevo mai l'aspetto folle come quello dell'uomo in questione. Rispetto a lui ero la Fifth Avenue."
+
+Oso dire che vivere proprio sotto la cima delle Sierras ha un effetto strano sulla mente; si tende a pensare a quelle rocce solitarie non come a vette appuntite, ma piuttosto come pilastri che sostengono lo stesso cielo. Dirupi verticali salgono e si allontanano oltre la [[Hope|speranza]] degli aquili; dirupi così alti da sembrare attrarre le [[Stars|stelle]] e raccoglierle come gli scogli marini raccolgono un semplice bagliore di fosforo. Queste terrazze e torri di roccia non appaiono, a differenza delle creste più piccole, la fine del mondo. Piuttosto sembrano il suo terribile inizio: le sue enormi fondamenta. Potremmo quasi immaginare che la montagna si dirami sopra di noi come un albero di pietra e porti tutte quelle luci cosmiche come un candelabro. Infatti, proprio come le vette ci hanno deluso, innalzandosi in modo impossibilmente lontano, così le [[Stars|stelle]] ci hanno assediato (così sembrava), avvicinandosi in modo incredibile. Le sfere scoppiarono intorno a noi più come fulmini scagliati contro la terra che pianeti che vi ruotavano placidamente attorno.
+
+"Tutto questo potrebbe avermi fatto impazzire; non ne sono sicuro. So che c'è un punto della [[Road|strada]] nella gola dove la roccia sporge leggermente, e nelle notti ventose mi sembra di sentirla scontrarsi sopra di me con altre rocce -- sì, [[City|città]] contro [[City|città]] e cittadella contro cittadella, fino in fondo alla [[Night|notte]]. Fu una sera così che lo strano uomo si arrampicò faticosamente nella gola. In generale, solo uomini strani lottavano per salire la gola. Ma non ne avevo mai visto uno come questo prima d'ora."
+
+Portava (non riesco a capire perché) un lungo rastrello da [[Garden|giardino]] malandato, tutto impigliato e imbrattato di erba,
+tanto che sembrava l'insegna di qualche vecchia tribù barbara.
+I suoi capelli, lunghi e scarmigliati come l'erba, gli cadevano
+sotto le enormi spalle; e i vestiti che gli aderivano addosso
+erano stracci e brandelli rossi e gialli, tanto che sembrava
+vestito come un indiano con piume o [[Autumn|autunnali]] [[Leaves|foglie]].
+Il rastrello o la forca, o qualsiasi cosa fosse, lo usava a volte
+come un alpenstock, altre (mi dissero) come arma.
+Non so perché avrebbe dovuto usarlo come arma, dato che aveva,
+e in seguito mi mostrò, una splendida pistola a sei colpi in tasca.
+«Ma QUESTA», disse, «la uso solo per scopi pacifici».
+Non ho idea di cosa intendesse.
+
+Si sedette sulla grezza panca fuori dalla mia locanda e bevve del vino
+dai vigneti sottostanti, sospirando di estasi come uno che avesse viaggiato a lungo tra cose aliene e crudeli e avesse finalmente trovato qualcosa che conosceva. Poi si mise a fissare piuttosto stupidamente la rozza lanterna di piombo e vetro colorato che pende sopra la mia porta.
+È vecchia, ma senza valore; me l'ha data mia nonna tanto tempo fa:
+era devota, ed è capitato che il vetro sia dipinto con un grezzo
+ritratto di Betlemme e i Re Magi e la Stella. Sembrava così
+ammaliato dallo splendore trasparente dell'abito blu della Madonna e
+della grande stella dorata sullo sfondo, che mi portò anche a guardare quella cosa,
+cosa che non facevo da quattordici anni.
 
 
 

@@ -9972,6 +9972,54 @@ voice that said of old upon the mountain ‘Blessed are the poor,'
 added but a moment afterwards:  ‘Blessed are ye that mourn.'
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I DIRITTI DEL RITO
+
+SAN GIOVANNI CRISOSTOMO, se non ricordo male, disse, tra le molte altre acutezze sulla relazione tra la religione citata e l'usanza sociale: «Le cerimonie funebri non sono un tributo ai morti, ma ai vivi.» È parte di una [[Truth|verità]] che viene costantemente dimenticata nelle controversie riguardanti il cerimoniale e i simboli. Eppure è un punto su cui il puritano è in realtà meno religioso del pagano. Se foste andati da un antico greco nel [[Time|tempo]] di Platone, mentre stava offrendo sacrifici ad Atena, avreste potuto benissimo chiedergli con una certa curiosità la domanda sugli antichi che non è mai stata del tutto soddisfacentemente risposta da nessuno dei moderni: «Credi davvero che la pura dea della saggezza desideri che tu uccida o bruci qualcosa su questa particolare pietra? La richiede veramente sopra tutte le altre cose?» Ma l'ateniese, se fosse stato intelligente come lo erano la maggior parte degli ateniesi, avrebbe potuto benissimo rispondervi dicendo: «Che Atena lo richieda o no, sono sicuro che io lo richiedo.» Se foste entrati nel tempio domestico di un cinese e l'aveste trovato a bruciare pezzi di carta per placare il suo trisavolo, avreste potuto chiedergli quale [[Well|bene]] ne ricavasse il suo trisavolo. Ma il cinese avrebbe davvero avuto la meglio nell'argomentazione se vi avesse risposto: «Non capisco appieno il bene che fa al mio trisavolo, ma capisco il bene che fa a me.»
+
+Esprimere in emblemi e rituali consacrati sentimenti che sono difficilissimi da esprimere a parole non è solo un saluto ai defunti; è anche un gesto liberatorio per i viventi. È addirittura soprattutto un'espressione della vita dei viventi. L'alternativa pratica non è il discorso, ma il silenzio; non la semplicità, ma solo l'imbarazzo. Non uno su mille dice mai nulla che sia degno del defunto o anche solo adeguato alle proprie emozioni nei suoi confronti. È un rilascio molto più pieno dei propri sentimenti fare qualcosa; e soprattutto qualcosa che non è troppo insolito o innaturale da fare. I gesti che gli uomini hanno sempre fatto, scoprirsi il capo, chinare la testa, spargere fiori sulla tomba, sono nel vero senso azioni individuali. Non sono solo più dignitose, ma più dirette del discorso ufficiale o della preghiera improvvisata. Non sono solo più serie, ma più spontanee della grottesca messinscena di "dire qualche parola appropriata". Un uomo sarebbe più propenso a fare tali cose che a dirle anche se fosse lasciato del tutto a sé stesso, senza tradizione o cultura, anche se fosse un selvaggio o un contadino totalmente analfabeta. Il ritualismo è più naturale del razionalismo riguardo a queste cose. È una necessità vitale per chi sopravvive; talvolta quasi una necessità che gli permette di sopravvivere. È quasi il primo gesto di risveglio, con cui dimostrano di non essere stati colpiti anche loro dal fulmine. "Le cerimonie funebri non sono un tributo ai morti, ma ai viventi."
+
+Il Natale è una festa di gioia e un funerale nazionale è
+una festa di dolore; ma entrambi portano con sé questo problema
+del presente che è sempre stato la pratica del passato.
+E infatti c'è più connessione tra le due idee di quanto
+molti suppongano, specialmente coloro che sono in gran parte fuori contatto
+con il presente, per essere completamente fuori contatto con il passato.
+Perché un uomo senza storia è quasi nel senso letterale
+mezzo matto. È solo padrone di una parte della sua stessa mente.
+Non sa cosa significhino metà delle sue parole o cosa significhino metà dei suoi
+gesti. E nel grande passato umano c'era una connessione profondamente
+umana tra i giorni di lutto e i giorni di allegria.
+Le stesse parole venivano usate per entrambi, o, ciò che sembrerà ancora più
+strano ad alcuni, le parole erano scambiate e la frase che ci sembra
+appropriata a uno era specialmente applicata all'altro.
+Nei tempi antichi un funerale aveva molti degli elementi di una festa.
+Nei tempi antichi una danza poteva avere molta della gravità di un
+servizio divino. Usavano la parola ‘banchetto' per l'occasione tragica.
+Usavano la parola ‘solennità' per l'occasione frivola.
+Achille, in lutto per Patroclo, convoca gli eroi a partecipare
+ai giochi, come in una festa scolastica dedicata allo sport. Teseo in
+‘Il sogno di una notte di mezza estate' [[Night|sogno]], facendo battute e guardando burleschi,
+alla sua festa nuziale, dice: ‘Manteniamo questa solennità per due settimane.'
+E sebbene la nostra civiltà sia cresciuta in alcuni modi più complessa
+e non possa esprimere queste verità con la stessa inconscia
+sincerità e tatto naturale, è bene non dimenticare del tutto
+che i nostri padri sentivano questa cameratismo nel loro dolore e questa
+religione nella loro allegria.
+
+Il mondo antico concepiva che gli dei pagani presiedessero a ogni funzione sociale e ad ogni attività della vita quotidiana; e gran parte del posto che era stato dato agli dei pagani fu poi, con grande saggezza, assegnato ai santi patroni. Ma nei tempi moderni è sorto un umore che non è tanto influenzato dagli dei pagani quanto dal paganesimo senza dio. I suoi funerali non sono feste; e, in senso molto diverso, le sue feste sono funerali. Il vecchio santo cristiano invitava gli uomini a essere tristi, ma non come uomini senza speranza. Il nuovo saggio pagano piuttosto li invita ad essere allegri come uomini senza speranza. La frivolezza dei pessimisti, degli scettici e dei decadenti è stata qualcosa che collega la gaiezza alla pietà eliminando entrambe. Non può creare nessuna di quelle forme simboliche di bellezza che rimangono permanenti come rituale o anche come festa. Le cerimonie funebri sono un tributo non ai morti ma ai vivi. Ma questi uomini non sono vivi; sono del tipo che disprezzerebbe allo stesso modo le piccole pietà dei poveri sul lutto, persino il lutto pubblico, e i giochi tradizionali e gli scherzi di una festa come il Natale. Proprio come non capiscono quanto vita ci sia nel culto dei morti, così non comprendono quanta verità ci sia nella ripetizione dello scherzo. Non sono abbastanza sottili da capire ciò che è semplice, né hanno l'intuizione o l'intelligenza per comprendere le cose piane e popolari.
+
+La persona più mansueta che segue la tradizione è un po' più nel corso principale della vita di così. Potrebbe non essere una persona eccezionale, ma almeno capisce cosa si intende per occasione eccezionale. Potrebbe assomigliare un po' a un vegetale o a una pianta che fiorisce o prende vita solo in certe stagioni regolari. Ma almeno non è come una pietra che non prende mai vita. E lo stoico di poco prezzo o la persona superiore non sono meno privi di vita di una pietra, perché generalmente si considerano una pietra preziosa e cadono nell'errore geologico non raro di supporre di essere l'unico sassolino sulla spiaggia. Rispetto a lui, c'è qualcosa che assomiglia al movimento nella semplice massa dei sassolini che vengono fatti rotolare avanti e indietro dal mare.
+
+Quando dunque assistiamo al passaggio di una pompa popolare,
+soprattutto se funebre, pensiamo non solo alle virtù dei defunti,
+ma anche ai viventi; e soprattutto a quella virtù umana universale
+che è la venerazione per i morti. Il dolore è veramente qualcosa di popolare;
+questo fatto, se lo consideriamo, apparirà molto notevole e impressionante;
+e quando l'avremo compreso potremo capire perché la grande voce che un tempo disse sul monte
+«Beati i poveri», aggiunse poco dopo: «Beati voi che piangete».
+
 
 
 <span class="atom-split" data-atom="story_21_the_inside_of_life" data-title="The Glass Walking Stick — The Inside Of Life" data-chapter="The Inside Of Life" data-kind="story"></span>

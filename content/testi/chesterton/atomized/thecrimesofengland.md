@@ -9978,7 +9978,7 @@ L'inglese ideale era troppo un gentiluomo di campagna; ma è giusto aggiungere
 
 # che il gentiluomo ideale fosse un buon gentiluomo. Il miglior gentiluomo che conosco è
 
-Il personaggio di finzione è il Duca [[Theseus|Teseo]] ne "Il sogno di una notte di mezza estate", che si dimostra gentile con
+Il personaggio di finzione è il Duca [[Theseus|Teseo]] ne "Il sogno di una [[Night|notte]] di mezza estate", che si dimostra gentile con
 
 il suo popolo e orgoglioso dei suoi [[dogs|cani]]; sarebbe un essere umano perfetto se
 
@@ -9998,7 +9998,7 @@ Coerente per pura brutalità. La disciplina era abbastanza crudele in tutti i...
 
 eserciti del diciottesimo secolo, creati molto tempo dopo il [[Decay|declino]] di ogni [[Faith|fede]] o
 
-speranza che potesse tenere uniti gli uomini. Ma lo stato che fu il primo a
+[[Hope|speranza]] che potesse tenere uniti gli uomini. Ma lo stato che fu il primo a
 
 La [[Germany|Germania]] fu la prima nella ferocia. Federico il Grande dovette vietare ai suoi
 
@@ -12172,7 +12172,7 @@ Tra i crimini minori dell'Inghilterra si può annoverare la critica superficiale
 
 cattiva abitudine di lasciarsi influenzare dalle parole e nello stesso [[Time|tempo]] fingere
 
-per disprezzarli. Costruirebbero tutta la loro filosofia storica sulla
+per disprezzarli. Costruirebbero tutta la loro [[philosophy|filosofia]] storica sulla
 
 Due o tre titoli e poi rifiutarsi di fare bene anche solo i titoli.
 

@@ -6134,6 +6134,98 @@ after generations have in [[Truth|truth]] been struggling either to protect
 or to tear down.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II
+
+LA PROVINCIA D'INGHILTERRA
+
+La terra su cui viviamo ebbe un tempo il privilegio altamente poetico di essere la fine del mondo. La sua estremità era l'ultima Thule, l'altra parte del nulla. Quando queste isole, perdute in una [[Night|notte]] di mari settentrionali, furono finalmente illuminate dai lunghi fari di Roma, si ebbe la sensazione che fosse stato toccato il più remoto frammento delle cose; e più per [[Pride|orgoglio]] che per possesso.
+
+Il sentimento non era del tutto fuori luogo, nemmeno in geografia.
+Questi regni ai margini di ogni cosa avevano davvero qualcosa che si può chiamare solo "marginale". La Gran Bretagna è un arcipelago più che un'isola; è almeno un labirinto di penisole. In pochi dei paesi affini si possono trovare così facilmente e stranamente il mare nei campi o i campi nel mare. I grandi fiumi sembrano non solo incontrarsi nell'oceano, ma quasi mancarsi nelle colline: tutta la terra, sebbene bassa nella sua interezza, si inclina verso l'ovest con le spalle che appoggiano sulle [[Mountains|montagne]]; e una tradizione preistorica ha insegnato a guardare verso il tramonto in cerca di isole ancora più sognanti della propria. Gli isolani sono simili alle loro isole.
+Diversi come sono le nazioni nelle quali ora si dividono, gli scozzesi, gli inglesi, gli irlandesi, i gallesi delle alture occidentali hanno qualcosa di completamente diverso dalla monotona docilità dei tedeschi dell'entroterra o dal bon sens français che può essere a piacere incisivo o banale. C'è qualcosa che accomuna tutti i britannici e che nemmeno gli Atti di [[Union|Unione]] hanno strappato. Il nome più vicino è insicurezza, qualcosa che si addice agli uomini che camminano su scogliere e sul bordo delle cose. Avventura, un gusto solitario per la libertà, un [[Humour|umorismo]] senza arguzia, confondono i loro critici e li confondono anche loro stessi. Le loro anime sono tormentate come le loro coste. Hanno un imbarazzo notato da tutti gli stranieri: si esprime forse in irlandese con una confusione di parole e in inglese con una confusione di pensiero.
+Perché il bue irlandese è una licenza con il simbolo del linguaggio. Ma il bue di Bull, il bue inglese, è "un bue muto del pensiero"; un'[[Mystification|misterificazione]] permanente nella mente. C'è qualcosa di [[Double|doppio]] nei pensieri come dell'[[Soul|anima]] riflessa in molte acque.
+Di tutti i popoli sono quelli meno attaccati al puramente classico; alla semplicità imperiale che i francesi fanno con eleganza e i tedeschi con rozzezza, ma i britannici quasi per niente. Sono costantemente colonizzatori ed emigranti; hanno la fama di essere a [[Home|casa]] in ogni paese.
+Ma sono divisi tra l'[[Love|amore]] della [[Home|casa]] e l'[[Love|amore]] per qualcos'altro;
+di cui il mare può essere la spiegazione o solo il simbolo. Si trova anche in una filastrocca senza nome che è la più bella riga
+della letteratura inglese e il ritornello muto di tutte le [[Poems|poesie]] inglesi: "Oltre le colline e lontano."
+
+Il più grande [[Hero|eroe]] razionalista che conquistò per primo la Britannia,
+fosse o non fosse il demigio distaccato di "Caesar and [[Cleopatra]],"
+era certamente un latino tra i latini, e descrisse queste isole
+quando le trovò con tutto il positivismo brusco della sua penna d'acciaio.
+Ma anche la breve relazione di [[Julius Caesar|Giulio Cesare]] sui Britanni [[Leaves|lascia]] in noi
+qualcosa di questo mistero, che è più che ignoranza dei fatti.
+Era evidente che erano governati da quella cosa terribile, un sacerdozio pagano.
+Pietre ora informi ma disposte in forme simboliche testimoniano
+l'ordine e il lavoro di coloro che le sollevarono.
+Il loro culto era probabilmente un culto della [[Nature|Natura]]; e sebbene una base del genere possa
+contare qualcosa nella qualità elementare che ha sempre impregnato
+le arti insulari, la collisione tra questa e l'Impero tollerante suggerisce
+la presenza di qualcosa che generalmente nasce dal culto della [[Nature|natura]]--
+intendo dire il non naturale. Ma su quasi tutte le questioni della moderna
+controversia Cesare è silenzioso. È silenzioso sul fatto se la lingua
+fosse "Celtica"; e alcuni dei nomi di luogo hanno anche dato origine
+a un suggerimento che, almeno in alcune parti, fosse già Teutonica.
+Non sono capace di pronunciarmi sulla [[Truth|verità]] di tali speculazioni,
+ma lo sono sul loro valore; almeno, per il mio unico scopo molto
+semplice. E infatti la loro importanza è stata molto esagerata.
+Cesare si dichiarò disposto a dare non più che uno sguardo da viaggiatore;
+ma quando, dopo un [[Time|tempo]] considerevole, i Romani tornarono e trasformarono
+la Britannia in una provincia romana, continuarono a mostrare una singolare
+indifferenza verso questioni che hanno eccitato così tanti professori.
+Ciò di cui si preoccupavano era ottenere e dare in Britannia ciò che avevano
+ottenuto e dato in Gallia. Non sappiamo se i Britanni allora,
+o per quel che riguarda i Britanni ora, fossero Iberici o Cimrici o Teutonici.
+Sappiamo che in breve [[Time|tempo]] divennero Romani.
+
+Di tanto in tanto, nella moderna Inghilterra si scopre qualche [[Fragment|frammento]]
+come un lastricato romano.  Antichità romane del genere diminuiscono
+più che aumentare la realtà romana.  Fanno sembrare lontana una cosa
+che è ancora molto vicina, e fanno sembrare morta una cosa che è ancora viva.
+È come scrivere l'epitaffio di un uomo sulla sua porta d'ingresso.  L'epitaffio
+sarebbe probabilmente un complimento, ma difficilmente un'introduzione personale.
+La cosa importante della Francia e dell'Inghilterra non è che esse
+abbiano resti romani.  Sono i resti romani.  In [[Truth|verità]] non sono tanto
+resti quanto reliquie; perché stanno ancora compiendo miracoli.
+Una fila di pioppi è una reliquia romana più di una fila di pilastri.
+Quasi tutto ciò che chiamiamo opere della [[Nature|natura]] non ha fatto altro che crescere come funghi
+su quest'opera originaria dell'uomo, e i nostri boschi sono muschi sulle ossa
+di un gigante.  Sotto il seme del nostro raccolto e le radici dei nostri alberi
+c'è una fondazione di cui i frammenti di tegole e mattoni non sono che emblemi;
+e sotto i colori dei nostri [[Flowers|fiori]] più selvaggi ci sono i colori
+di un lastricato romano.
+
+La Gran Bretagna fu direttamente romana per ben quattrocento anni; più a lungo di quanto sia stata protestante, e molto più a lungo di quanto sia stata industriale.
+È necessario spiegare in poche righe cosa si intendesse per essere romani,
+altrimenti non si può capire quello che accadde dopo, specialmente quello
+che accadde subito dopo.  Essere romani non significava essere sudditi,
+nel senso che una tribù selvaggia assoggetterà un'altra,
+o nel senso in cui i politici cinici dei tempi recenti osservavano
+con orribile speranza l'evanescenza degli irlandesi.
+Sia conquistatori che conquistati erano pagani, e avevano entrambi le
+istituzioni che a noi sembrano conferire un'inhumanità al paganesimo:
+il trionfo, il mercato degli schiavi, la mancanza di tutto il sensibile nazionalismo della moderna [[history|storia]].  Ma l'impero romano non distrusse le nazioni;
+se mai, le creò. I britanni in origine
+non erano orgogliosi di essere britanni; ma lo erano di essere romani.
+L'acciaio romano era almeno tanto un magnete quanto una [[Sword|spada]].
+In [[Truth|verità]] era piuttosto uno [[Mirror|specchio]] rotondo d'acciaio, in cui ogni popolo
+veniva a vedersi. Per Roma come Roma la stessa piccolezza dell'origine civica
+era una garanzia per l'ampiezza dell'esperimento civico.
+Roma stessa ovviamente non poteva governare il mondo più di quanto potesse farlo Rutland.
+Voglio dire che non poteva governare le altre razze come gli Spartani governavano
+gli Iloti o gli americani i negri. Una [[Machine|macchina]] così enorme
+doveva essere umana; doveva avere un manico che si adattasse alla mano di qualsiasi uomo.
+L'impero romano divenne necessariamente meno romano man mano che diventava
+più imperiale; fino a quando, non molto tempo dopo che Roma diede conquistatori
+alla Britannia, la Britannia stessa diede imperatori a Roma.  Fu dalla Britannia,
+come i britanni si vantavano, che alla fine venne l'imperatrice [[Helena|Elena]],
+che fu madre di Costantino. E fu Costantino,
+come tutti sanno, il primo ad appendere quella proclamazione per la quale tutte
+le generazioni successive hanno in [[Truth|verità]] faticato o a proteggerla
+o ad abbatterla.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="A Short History of England — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
@@ -8018,6 +8110,73 @@ insecurity like that of [[Cain]], and of [[Exile|exile]] on the English kings.
 --/--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma si potrebbe suggerire, credo, sebbene con il [[Doubt|dubbio]] dovuto all'ignoranza, che l'ideale angioino della Giustizia del [[King|Re]] abbia perso più di quanto fosse immediatamente evidente nella [[Death|morte]] di San Tommaso nell'orrore della cristianità, nella canonizzazione della vittima e nel pentimento pubblico del [[Tyrant|tiranno]]. Queste cose erano in un certo senso temporanee; il [[King|Re]] riacquistò il potere di giudicare i chierici, e molti re e giustizieri successivi continuarono il piano monarchico. Ma vorrei suggerire, come possibile chiave per eventi posteriori sconcertanti, che qui e con questo colpo assassino la [[Crown|corona]] abbia perso ciò che avrebbe dovuto essere il sostegno silenzioso e massiccio di tutta la sua politica. Intendo dire che ha perso il popolo.
+
+Non è necessario ripetere che il caso a favore del dispotismo è democratico.
+Di norma la sua crudeltà verso i forti è gentilezza verso i deboli.
+Un'autorità non può essere giudicata come un personaggio storico
+in base alle sue relazioni con altri personaggi storici.
+Il suo vero applauso non proviene dai pochi attori sul palcoscenico illuminato
+dell'aristocrazia, ma da quell'enorme pubblico
+che deve sempre sedere al buio durante il dramma.
+Il [[King|re]] che aiuta innumerevoli uomini senza nome, e quando lancia
+la sua più ampia elemosina è un cristiano che fa del bene di nascosto.
+Questo tipo di monarchia era certamente un ideale medievale, né necessariamente
+deve fallire come realtà. I re francesi non furono mai così
+pietosi verso il popolo come quando erano implacabili verso i pari;
+ed è probabilmente vero che uno zar che era un grande signore per i suoi intimi
+era spesso un piccolo padre in innumerevoli case.
+È estremamente probabile che un tale potere centrale,
+anche se alla fine avrebbe meritato la distruzione in Inghilterra
+come in Francia, abbia impedito ai pochi di impossessarsi e mantenere
+tutta la ricchezza e il potere fino ad oggi. Ma in Inghilterra si è interrotto bruscamente,
+a causa di qualcosa di cui l'uccisione di San Tommaso può [[Well|ben]] essere stato l'esempio supremo.
+Era qualcosa di esagerato e sorprendente, contro gli istinti
+del popolo. E di ciò che si intendeva nel Medioevo
+per quella cosa molto potente e piuttosto peculiare, il popolo,
+ne parlerò nel prossimo capitolo.
+
+In ogni caso questa congettura trova sostegno negli eventi successivi.
+Non è solo che, proprio come il grande ma personale piano del Conquistatore crollò infine nel caos della transizione di Stefano, così il grande ma personale piano del primo Plantageneto crollò nel caos delle guerre dei baroni. Quando si tengono presenti tutte le finzioni e i ripensamenti costituzionali, sembra probabile che qui per la prima [[Time|volta]] qualche forza morale abbandonasse la monarchia. Il carattere del secondo figlio di Enrico, Giovanni (perché [[Richard|Riccardo]] appartiene piuttosto all'ultimo capitolo) lo ha marchiato con qualcosa di accidentale ma simbolico. Non è che Giovanni fosse una semplice macchia nera sull'oro puro dei Plantageneti; il tessuto era molto più misto e continuo, ma lui era davvero un Plantageneto screditato, per così dire danneggiato. Non è che fosse molto più cattivo di molti suoi oppositori, ma era il tipo di uomo cattivo contro cui uomini buoni e cattivi si uniscono a combattere. In un senso più sottile di quello della [[logic|logica]] giuridica e parlamentare inventata molto tempo dopo, riuscì certamente a mettere la [[Crown|Corona]] nel torto.
+Nessuno suggerì che i baroni del [[Time|tempo]] di Stefano lasciassero morire di fame gli uomini nelle segrete per promuovere la libertà politica, o li appendessero per le caviglie come richiesta simbolica di un parlamento libero.
+Nel regno di Giovanni e di suo figlio erano ancora i baroni, e non affatto il popolo, a prendere il potere; ma cominciò ad apparire una ragione per cui lo prendessero, sia per i contemporanei che per gli storici costituzionali in seguito.
+Giovanni, in uno dei suoi doppi giochi diplomatici, aveva messo l'Inghilterra sotto la tutela papale, come si mette un patrimonio in cancelleria.
+E sfortunatamente il Papa, le cui decisioni erano state generalmente miti e liberali, era allora nella sua [[Death|agonia]] contro l'imperatore germanico e voleva ogni soldo che poteva ottenere per vincere.
+La sua vittoria fu una benedizione per l'Europa, ma una maledizione per l'Inghilterra, perché usò l'isola come un semplice tesoro per questa guerra straniera.
+Su questo e altri argomenti il partito baronale cominciò ad avere qualcosa di simile a un principio, che è la spina dorsale di una politica.
+Gran parte della [[history|storia]] convenzionale che collega i loro consigli con qualcosa come la nostra [[house|Camera]] dei Comuni è altrettanto infondata quanto dire che il presidente brandisce un mazza come quelli che i baroni sventolavano in battaglia.
+Simon de Montfort non era un entusiasta della teoria whig della costituzione britannica, ma era un entusiasta di qualcosa.
+Fondò un parlamento in uno stato d'animo di notevole distrazione, nel senso responsabile e persino religioso che aveva reso suo padre così feroce crociato contro gli eretici, tanto da brandire la sua grande [[Sword|spada]] prima di cadere ad Evesham.
+
+La Magna Carta non fu un passo verso la [[democracy|democrazia]], ma fu un passo lontano dal dispotismo. Se teniamo saldamente questa [[Double|duplice]] [[Truth|verità]], abbiamo qualcosa di simile a una chiave per il resto della [[history|storia]] inglese. Un'aristocrazia piuttosto libera non solo ottenne, ma spesso meritò il nome di libertà. E la [[history|storia]] degli inglesi può essere riassunta brevemente prendendo il motto francese "Libertà, Uguaglianza e Fratellanza" e notando che gli inglesi hanno sinceramente amato la prima e perso le altre due.
+
+Nella complicata situazione contemporanea si poteva sostenere molto sia per la [[Crown|Corona]] che per il nuovo e più nazionale raduno della nobiltà.
+Ma era una complicazione, mentre un miracolo è una cosa semplice che chiunque può capire. Le possibilità o impossibilità di San [[Thomas Becket|Tommaso Becket]] furono lasciate come un [[Riddle|enigma]] per la [[history|storia]];
+la bianca fiamma della sua audace teoria fu frustrata,
+e il suo lavoro interrotto come una fiaba rimasta inascoltata.
+Ma la sua [[Memory|memoria]] passò nelle mani del popolo comune, e con
+esso egli fu più attivo da morto che da vivo -- sì, anche più operoso.
+Nel prossimo capitolo considereremo cosa si intendesse nel
+Medioevo per "popolo comune", e quanto insolito ci sembrerebbe oggi. E nell'ultimo capitolo abbiamo già visto
+come nell'età delle Crociate le cose più strane diventassero familiari, e gli uomini
+si nutrissero di racconti di viaggio quando non c'erano giornali nazionali.
+Uno spettacolo multicolore di martirologio su innumerevoli muri e
+finestre aveva familiarizzato i più ignoranti con crudeltà straniere
+in molti climi; con un vescovo scorticato dai Danesi o una vergine bruciata
+dai Saraceni, con un santo lapidato dagli Ebrei e un altro fatto a pezzi
+da negri. Non posso pensare che fosse cosa da poco
+che tra queste immagini uno dei più magnifici avesse incontrato la sua [[Death|morte]]
+poco prima per mano di un monarca inglese.
+C'era almeno qualcosa di affine alle primitive e epiche
+romance di quel periodo nella storia di quei due potenti amici,
+uno dei quali colpì troppo forte e uccise l'altro. Potrebbe anche essere stato così presto che qualcosa fu giudicato nel [[Silence|silenzio]];
+e per la moltitudine riposava sulla [[Crown|Corona]] un misterioso sigillo di
+insicurezza come quello di [[Cain|Caino]], e di [[Exile|esilio]] sui re inglesi.
+
+--/--
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="A Short History of England — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
@@ -8409,6 +8568,66 @@ of the parishes, and especially of the monastic estates.
 It is important to remember this fact in the subsequent
 [[history]] of England.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'importanza vitale della parola "Maestro" è questa.
+Un'Arte era, in senso molto ampio, un [[Union|Sindacato]] nel quale ogni uomo era il proprio datore di lavoro.  Cioè, un uomo non poteva lavorare
+in alcun mestiere a meno che non si fosse unito alla lega e accettasse le leggi di quel mestiere; ma lavorava nella propria bottega con i propri strumenti,
+e tutto il profitto andava a lui.
+Ma la parola "datore" segnala una carenza moderna che rende l'uso moderno della parola "Maestro" del tutto inesatto.
+Un Maestro significava qualcosa di completamente diverso e più grande di un "capo".
+Significava padrone dell'arte, mentre ora significa solo capo degli artigiani.  È una caratteristica elementare del Capitalismo
+che il proprietario di una nave non debba conoscere la prua della [[Ship|nave]],
+o che un terriero abbia anche solo visto il paesaggio; che il proprietario di una miniera d'oro possa interessarsi a nient'altro che vecchi piatti,
+o il proprietario di una ferrovia viaggiare esclusivamente in mongolfiera.
+Può essere un capitalista più riuscito se ha una passione per la propria attività; spesso è un capitalista più riuscito
+se ha il buon senso di lasciarla a un amministratore; ma economicamente può controllare l'attività perché è un capitalista,
+non perché abbia alcuna passione o qualsiasi tipo di buonsenso.
+Il grado più alto nel sistema delle Arti era quello di Maestro, e significava
+padronanza dell'arte.  Per usare il termine creato dai collegi nello stesso periodo, tutti i capi medievali erano Dottori in [[Common Man|Arti Libere]].
+Gli altri gradi erano quelli dello specializzando e del praticante;
+ma come i corrispondenti titoli nelle università,
+erano gradi attraverso cui ogni [[Romance|uomo comune]] poteva passare.
+Non erano classi sociali; erano gradi, non caste.
+Questo è il punto centrale della ricorrente romanza in cui
+il praticante sposa la figlia del suo maestro.  Il Maestro
+non sarebbe sorpreso di una cosa simile, più di quanto un Dottore in Arti Libere si gonfi d'indignazione aristocratica quando sua figlia
+sposa uno specializzato.
+
+Quando passiamo dalla gerarchia strettamente educativa all'ideale strettamente egualitario, troviamo di nuovo che i resti della cosa oggi sono così distorti e disconnessi da essere comici.
+Ci sono Compagnie [[City|della Città]] che ereditano gli stemmi e l'immenso patrimonio relativo delle vecchie Corporazioni, senza ereditare nulla altro.
+Anche ciò che è buono in esse non è ciò che era buono nelle Corporazioni.
+In un caso troveremo qualcosa come una Rispettabile Compagnia di Muratori, nella quale, è superfluo dirlo, non c'è neppure un muratore o chiunque abbia mai conosciuto un muratore, ma nella quale i soci anziani di alcune grandi imprese della [[City|Città]], insieme a qualche militare in pensione con una passione per la cucina, si dicono nei discorsi dopo cena che è stata la gloria delle loro vite fare mattoni allegorici senza paglia.
+In un altro caso troveremo una Rispettabile Compagnia di Calcestandoli che meritano il loro nome, nel senso che molti di loro impiegano un gran numero di altre persone per calcestarare.
+Queste Compagnie sostengono grandi opere pie e spesso senza dubbio molto preziose; ma il loro obiettivo è del tutto diverso da quello delle vecchie opere pie delle Corporazioni.  Lo scopo delle opere pie delle Corporazioni era lo stesso dello scopo della Terra Comune.
+Era resistere alla disuguaglianza--o, come probabilmente direbbero alcuni seri signori anziani dell'ultima generazione, resistere all'evoluzione.
+Era assicurare non solo che il mestiere del muratore sopravvivesse e prosperasse, ma che ogni muratore sopravvivesse e avesse successo.
+Cercava di ricostruire le rovine di qualsiasi muratore e di dare a qualsiasi calcestandolo in pensione un nuovo abito bianco.  Era l'intero scopo delle Corporazioni rattoppare i loro calzolai come le loro scarpe
+e vestire i loro sarti con i loro vestiti; rafforzare il collegamento più debole, o andare dietro alla centesima pecora; in breve, mantenere la fila dei piccoli negozi indivisa come una linea di battaglia.
+Resisteva alla crescita di un grande negozio come si resiste alla crescita di un drago.
+Ora anche i calcestandoli della Compagnia dei Calcestandoli non
+pretenderanno che esista per impedire a un piccolo negozio di essere inghiottito da un grande negozio, o che abbia fatto qualcosa per impedirlo.
+Nel migliore dei casi la gentilezza che mostrerebbe verso un calcestandolo fallito sarebbe una sorta di risarcimento; non sarebbe reintegrazione;
+non sarebbe il ripristino dello status in un sistema industriale.
+Così attenta al tipo, così disinteressata della singola vita;
+e con quella [[philosophy|filosofia]] evolutiva modernissima il tipo
+stesso è stato distrutto.  Le vecchie Corporazioni, con lo stesso
+obiettivo di uguaglianza, naturalmente, insistevano perentoriamente sullo
+stesso sistema uniforme di pagamento e trattamento che è
+un punto di lamento contro i moderni Sindacati.
+Ma insistevano anche, come i Sindacati non possono fare, su un alto
+standard di artigianato, che ancora stupisce il mondo negli
+angoli degli edifici morenti o nei colori del vetro rotto.
+Non c'è [[Artist|artista]] o critico d'arte che non conceda, per quanto lontano
+sia il suo stile dalla scuola gotica, che in questo
+[[Time|tempo]] ci fosse un tocco artistico senza nome ma universale nella modellazione
+degli strumenti della vita.  L'incidente ha preservato i più rozzi
+bastoni e sgabelli e pentole e padelle che hanno forme suggestive come se fossero posseduti non da diavoli ma da folletti.
+Perché erano, infatti, rispetto ai sistemi successivi,
+prodotti nell'incredibile paese delle fate di un paese libero.
+
+È vero e certamente tragico che i sindacati, la più medievale delle istituzioni moderne, non lottino per lo stesso ideale di finitura estetica; ma attribuire loro una colpa è del tutto fraintendere la [[Tragedy|tragedia]]. I sindacati sono confederazioni di uomini senza proprietà che cercano di compensarne l'assenza con il numero e con il carattere necessario del loro lavoro. Le corporazioni erano invece confederazioni di uomini con proprietà, che cercavano di garantire a ciascuno la conservazione della sua proprietà. Questa è naturalmente l'unica condizione in cui si può dire che esista veramente una proprietà. Non parleremmo di una comunità negra nella quale la maggior parte degli uomini fossero bianchi e i rari neri fossero giganti; né concepiremmo una comunità sposata nella quale la maggior parte degli uomini fosse celibe e tre soli avessero harem. Una comunità sposata significa una comunità in cui la maggioranza delle persone è sposata, non una comunità dove uno o due sono molto sposati. Una comunità proprietaria significa una comunità in cui la maggioranza delle persone possiede proprietà; non una comunità con pochi capitalisti. In realtà i membri delle corporazioni (come anche, del resto, servi della gleba, semi-servi e contadini) erano molto più ricchi di quanto si possa immaginare, anche solo considerando il fatto che le corporazioni proteggevano la proprietà di case, strumenti e un giusto compenso. Il surplus è [[Self|auto]]evidente a chiunque studi con equità i prezzi del periodo, naturalmente dopo aver sottratto il diverso valore della moneta effettiva. Quando un uomo poteva comprare un'oca o una gallina per uno o due dei più piccoli e comuni pezzi di moneta, la questione non è affatto influenzata dal nome di quelle monete. Anche dove la ricchezza individuale era severamente limitata, quella collettiva era molto grande: la ricchezza delle corporazioni, delle parrocchie e specialmente dei beni monastici. È importante ricordare questo fatto nella successiva [[history|storia]] d'Inghilterra.
 
 
 
@@ -10727,6 +10946,56 @@ or Renascence writing, except as one mentions a Hottentot--
 the barbarian from beyond the Rhine.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gran parte dell'Inghilterra, dunque, era davvero allarmata dallo schema di tolleranza degli Stuart,
+sincero o non sincero, perché sembrava teorico e quindi fantasioso.
+Era in anticipo sui tempi o (per usare un linguaggio più intelligente) troppo sottile ed etereo per la sua atmosfera.
+E a questo affetto per l'effettivo nei moderati inglesi deve
+essere aggiunto (in quale proporzione non lo sappiamo) un odio persecutorio del Papato
+quasi maniacale ma assai sincero. Lo Stato era da tempo, come abbiamo visto,
+stato trasformato in una macchina di tortura contro i preti e gli amici
+dei preti. Si parla della Revoca dell'Editto di Nantes;
+ma i persecutori inglesi non avevano mai avuto un editto così tollerante da revocare.
+Ma almeno a questo [[Time|tempo]] gli inglesi, come i francesi, erano
+oppressori di una minoranza. Sfortunatamente c'era un'altra provincia del
+[[government|governo]] in cui perseguitavano ancora più follemente la maggioranza.
+Perché fu qui che giunse al suo culmine e assunse il suo terrificante carattere
+quel crimine persistente chiamato il [[government|governo]] dell'Irlanda.
+Sarebbe troppo lungo dettagliare la fitta rete di leggi innaturali
+con cui quel paese fu coperto fino verso la fine del
+diciottesimo secolo; qui basta dire che l'intero atteggiamento
+verso gli irlandesi fu tragicamente tipificato, e collegato alla nostra espulsione
+degli Stuart, in uno di quegli atti che sono ricordati per sempre.
+Giacomo II, fuggendo dall'opinione di [[London|Londra]], forse dell'Inghilterra,
+alla fine trovò rifugio in Irlanda, che prese le armi a suo favore.
+Il Principe d'Orange, che l'aristocrazia aveva convocato sul trono,
+sbarcò in quel paese con un esercito inglese e olandese, vinse la Battaglia
+del Boyne, ma vide il suo esercito fermarsi con successo davanti a Limerick
+dal genio militare di Patrick Sarsfield. Lo stop fu così completo
+che la pace poteva essere ripristinata solo promettendo completa libertà religiosa
+agli irlandesi, in cambio della resa di Limerick.
+Il nuovo [[government|governo]] inglese occupò la città e immediatamente ruppe
+la promessa. Non c'è molto altro da dire al riguardo.
+Fu una tragica necessità che gli irlandesi se lo ricordassero;
+ma fu assai più tragico che gli inglesi lo dimenticarono. Perché chi ha
+dimenticato il suo peccato lo ripete incessantemente per sempre.
+
+Ma anche qui la posizione degli Stuart era molto più vulnerabile sul lato della politica secolare, e in particolare della politica estera. Gli aristocratici ai quali il potere passò infine alla Rivoluzione stavano già smettendo di avere una [[Supernatural|sovrannaturale]] [[Faith|fede]] nel protestantesimo contro il cattolicismo; ma avevano una [[Faith|fede]] molto naturale nell'Inghilterra contro la Francia; e anche, in un certo senso, nelle istituzioni inglesi contro le istituzioni francesi. E proprio come questi uomini, i più non medievali dell'umanità, potevano ancora vantarsi di alcune libertà medievali, Magna Carta, il Parlamento e la Giuria, così potevano appellarsi a una vera leggenda medievale nella questione della guerra con la Francia. Un tipico oligarca del diciottesimo secolo come Horace Walpole poteva lamentarsi che il cicerone in una vecchia chiesa lo disturbasse con tracce di una persona irrilevante di nome San Qualcuno, quando stava cercando i resti di [[John of Gaunt|Giovanni di Ghent]]. Poteva dirlo con tutta la naïveté dello scetticismo, e non sognare mai quanto lontano da [[John of Gaunt|Giovanni di Ghent]] si stesse realmente allontanando dicendo così. Ma sebbene la loro nozione di [[history|storia]] medievale fosse un semplice ballo in maschera, era uno in cui gli uomini che combattevano contro i francesi potevano ancora, in modo ornamentale, indossare l'armatura del Principe Nero o la [[Crown|corona]] di Enrico di Monmouth. In questa questione, insomma, è abbastanza probabile che gli aristocratici fossero popolari come i patrioti saranno sempre popolari. È vero che gli ultimi Stuart erano ben lungi dall'essere impatriottici; e Giacomo II in particolare può [[Well|ben]] essere chiamato il fondatore della Marina Britannica. Ma le loro simpatie erano con la Francia, tra gli altri paesi stranieri; si rifugiarono in Francia, il maggiore prima e il minore dopo il suo periodo di regno; e la Francia aiutò i successivi sforzi giacobiti per restaurare la loro linea. E per la [[New England|nuova Inghilterra]], specialmente la nuova nobiltà inglese, la Francia era il nemico.
+
+La trasformazione attraverso cui passarono le relazioni esterne dell'Inghilterra alla fine del diciassettesimo secolo è simboleggiata da due passi molto distinti e definitivi; il primo l'ascesa di un [[King|re]] olandese e il secondo l'ascesa di un [[King|re]] tedesco. Nel primo erano presenti tutte le caratteristiche che possono parzialmente rendere naturale una cosa innaturale. Nel secondo abbiamo la condizione in cui anche coloro che la effettuano a malapena possono chiamarla naturale, ma solo necessaria.
+Guglielmo d'Orange era come un cannone trainato nella breccia di un muro; un cannone straniero, certo, e uno sparato in una disputa più straniera che inglese, ma pur sempre una disputa in cui gli inglesi,
+e specialmente gli aristocratici inglesi, potevano giocare un ruolo importante. Giorgio di Hannover era semplicemente qualcosa infilato in un buco nel muro dagli aristocratici inglesi, che praticamente ammettevano di starlo semplicemente tappando con la spazzatura.
+In molti modi Guglielmo, cinico com'era, portò avanti la leggenda del [[Puritanism|Puritanesimo]] più grande e più cupo. Era per convinzione privata un calvinista; e nessuno sapeva o gli importava di cosa fosse Giorgio se non che non era cattolico.
+Era a [[Home|casa]] il magistrato in parte repubblicano di quello che una volta era stato un esperimento puramente repubblicano, e tra
+gli ideali più puliti sebbene più freddi del diciassettesimo secolo. Giorgio era quando era a [[Home|casa]] pressappoco ciò che il [[King|Re]]
+delle Isole Cannibali era quando era a [[Home|casa]] -- un sovrano personale selvaggio, appena abbastanza logico da essere chiamato despota.
+Guglielmo era un uomo di intelligenza acuta sebbene ristretta;
+Giorgio era un uomo senza intelligenza. Soprattutto per quanto riguarda l'effetto immediato prodotto, Guglielmo era sposato con una Stuart,
+e salì al trono mano nella mano con una Stuart; era
+una figura familiare, e già parte della nostra famiglia reale.
+Con Giorgio entrò in Inghilterra qualcosa che vi era stato appena visto prima; qualcosa a malapena menzionato nelle scritture medievali o rinascimentali, se non come si menziona un Hottentotto -- il barbaro oltre il Reno.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="A Short History of England — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
@@ -11216,6 +11485,80 @@ were to say of Chinese Gordon, "He is not actually a Mandarin,"
 we should think that the Chinese system deserved its reputation
 for being both rigid and remote.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Parlando in modo approssimativo e schietto, possiamo dire che [[America]] ha provocato la lite. Desiderava essere separata, il che per lei era un altro modo di dire che desiderava essere libera. Non pensava ai suoi torti come colonia, ma già ai suoi diritti come repubblica. L'effetto negativo di una differenza così piccola non avrebbe mai potuto cambiare il mondo. Senza l'effetto positivo di un grande ideale, si può dire di una nuova grande religione. La vera ragione dei coloni è che sentivano di poter essere qualcosa, e sentivano anche, e giustamente, che l'Inghilterra non li avrebbe aiutati a esserlo. L'Inghilterra probabilmente avrebbe concesso ai coloni ogni sorta di concessione e privilegi costituzionali, ma non poteva concedere loro l'uguaglianza: non intendo uguaglianza con lei, ma anche tra loro. Chatham avrebbe potuto fare un compromesso con Washington, perché Washington era un gentiluomo; ma Chatham difficilmente avrebbe potuto concepire un paese non governato da gentiluomini. Burke sembrava pronto a concedere tutto all'[[America]]; ma non sarebbe stato pronto a concederle ciò che l'[[America]] alla fine ottenne. Se avesse visto la [[democracy|democrazia]] americana, ne sarebbe stato altrettanto sgomento come lo fu della [[democracy|democrazia]] francese e sempre lo sarebbe stato di qualsiasi [[democracy|democrazia]]. In una parola i Whigs erano aristocratici liberali e persino generosi, ma erano aristocratici; ecco perché le loro concessioni furono altrettanto vane delle loro conquiste. Parliamo, con un'umiliazione troppo rara per noi, della nostra dubbiosa parte nella secessione dell'[[America]]. Non so se aumenti o diminuisca l'umiliazione; ma sospetto fortemente che non c'entriamo molto. Credo che il nostro peso nel caso sia stato eccezionalmente scarso. Non abbiamo davvero allontanato i coloni americani, né furono allontanati. Furono guidati da una luce che li precedeva.
+
+Quella luce veniva dalla Francia, come gli eserciti di Lafayette che accorsero in aiuto a Washington. La Francia era già travagliata dalla tremenda rivoluzione spirituale che avrebbe presto rimodellato il mondo. La sua dottrina, disgregatrice e creatrice, fu ampiamente fraintesa all'[[Time|epoca]], ed è ancora oggi molto fraintesa, nonostante la splendida chiarezza di stile con cui venne enunciata da Rousseau nel "Contratto sociale" e da Jefferson nella Dichiarazione d'Indipendenza. Basti pronunciare la parola "uguaglianza" in molti paesi moderni perché quattrocento imbecilli si alzino subito in piedi per spiegare che alcuni uomini possono risultare, se osservati attentamente, più alti o più belli di altri. Come se Danton non avesse notato di essere più alto di Robespierre, o come se Washington non fosse [[Well|ben]] consapevole di essere più bello di Franklin.
+Non è questo il luogo per esporre una [[philosophy|filosofia]]; sarà sufficiente dire di sfuggita, a mo' di [[Parable|parabola]], che quando diciamo che tutte le monete da un penny sono uguali, non intendiamo che siano tutte esattamente identiche. Intendiamo che sono assolutamente uguali nel loro carattere assoluto, nella cosa più importante in esse contenuta. Si può dire praticamente che sono monete di un certo valore, dodici delle quali equivalgono a uno scellino. Si può dire simbolicamente, e persino misticamente, che portano tutte l'effige del [[King|Re]]. E sebbene sia la più mistica, è anche la sintesi più pratica dell'uguaglianza il fatto che tutti gli uomini portino l'effige del [[King|Re dei Re]]. In effetti, è ovviamente vero che questa idea era da tempo alla base di tutta la [[Christianity|cristianità]], anche nelle istituzioni meno popolari nella forma rispetto alle folle delle repubbliche medievali in [[Italy|Italia]]. Un dogma di doveri uguali implica quello di diritti uguali. Non conosco alcuna autorità cristiana che non ammetta che è altrettanto malvagio uccidere un povero quanto un ricco, o altrettanto grave scassinare una [[house|casa]] modestamente arredata quanto una raffinatamente arredata. Ma il mondo si era allontanato sempre più da questi luoghi comuni, e nessuno al mondo ne era più lontano del gruppo dei grandi aristocratici inglesi. L'idea dell'uguaglianza degli uomini è in sostanza semplicemente l'idea dell'importanza dell'uomo. Ma fu proprio la nozione dell'importanza di un semplice uomo che sembrò sconcertante e indecente a una società la cui intera [[Romance|romantica]] avventura e religione consistevano ormai nell'importanza del gentiluomo. Fu come se un uomo fosse entrato nudo al Parlamento.
+Non c'è spazio qui per sviluppare appieno l'aspetto morale, ma questo basterà a dimostrare che i critici preoccupati della differenza tra tipi o talenti umani stanno perdendo notevolmente il loro [[Time|tempo]]. Se possono capire come due monete possano valere lo stesso anche se una è lucida e l'altra opaca, forse potranno capire come due uomini possano votare allo stesso modo anche se uno è intelligente e l'altro no. Tuttavia, se sono ancora soddisfatti della loro solida obiezione che alcuni uomini siano ottusi, posso solo concordare con gravità con loro: alcuni uomini sono davvero molto ottusi.
+
+Ma pochi anni dopo che Lafayette era tornato dall'aiutare
+a fondare una repubblica in [[America]] fu scacciato oltre i suoi stessi confini per aver resistito alla fondazione di una repubblica in Francia.
+Tanto furioso era l'avanzata di questo nuovo spirito che il repubblicano del Nuovo Mondo visse abbastanza da diventare il reazionario del Vecchio.
+Quando la Francia passò dalla teoria alla pratica, la questione
+fu posta al mondo in un modo impensabile in relazione
+all'esperimento preliminare di una popolazione esigua su una costa coloniale.
+La più possente delle monarchie umane, come qualche mostruoso idolo immane di ferro,
+fu fusa in un forno a malapena più grande di essa stessa,
+e ricastata in una forma altrettanto colossale, ma che gli uomini non
+potevano comprendere.  Molti, almeno, non potevano comprenderla,
+e meno di tutti la liberal aristocrazia d'Inghilterra.
+C'erano, naturalmente, ragioni pratiche per una politica estera continua contro la Francia, sia essa reale o repubblicana.
+C'era in primo luogo il [[Desire|desiderio]] di tenere lontani gli stranieri dal minacciarci
+dalla costa fiamminga; c'era, in misura molto minore,
+la rivalità coloniale nella quale tanto orgoglio inglese era stato guadagnato
+dallo statista Chatham e dalle armi di Wolfe e Clive.
+La prima ragione ci si è rivoltata contro con una singolare ironia;
+perché, per tenere i francesi fuori dai Paesi Bassi, ci siamo lanciati
+con crescente entusiasmo in un'amicizia con i tedeschi.
+Abbiamo volutamente nutrito e viziato il potere che era destinato a divorare la Belgio nel futuro come la Francia non avrebbe mai potuto fare,
+e minacciarci attraverso il mare con terrore di cui nessun francese
+avrebbe mai sognato.  Ma in effetti cose molto più profonde unificarono
+il nostro atteggiamento verso la Francia prima e dopo la Rivoluzione.
+È solo un passo dal dispotismo alla [[democracy|democrazia]], nella [[logic|logica]] come
+[[Well|well]] che nella [[history]]; e l'oligarchia è ugualmente distante da entrambe.
+La Bastiglia cadde, e sembrò a un inglese che semplicemente un
+dispotico si fosse trasformato in una democrazia.  Il giovane Bonaparte [[Rose|rose]], e sembrò a un inglese che semplicemente una democrazia si fosse nuovamente trasformata
+in un dispotismo.  Non aveva torto nel pensare queste forme allotropiche della stessa cosa aliena; e quella cosa era l'uguaglianza.
+Perché quando milioni sono ugualmente soggetti a una legge, fa
+poca differenza se sono anche soggetti a un legislatore;
+la vita sociale generale è livellata.  L'unica cosa che gli inglesi
+non hanno mai capito di Napoleone, in tutti i loro miriadi studi
+della sua misteriosa personalità, è quanto fosse impersonale.
+Ero quasi sul punto di dire quanto fosse insignificante.  Disse lui stesso,
+"Scenderò nella [[history]] con il mio codice in mano;"
+ma per gli effetti pratici, distinti dal semplice nome e rinomanza,
+sarebbe ancora più vero dire che il suo codice scenderà nella [[history]]
+con la sua firma apposta - piuttosto illeggibile.
+Così la sua legge testamentaria ha frantumato grandi proprietà e incoraggiato
+contadini contenti in luoghi dove il suo nome è maledetto,
+in luoghi dove il suo nome è quasi sconosciuto.  Nella sua vita,
+naturalmente, era naturale che lo splendore annientante dei suoi
+colpi militari attirasse l'occhio come lampi di [[Lightning|lightning]];
+ma la sua pioggia cadeva più silenziosamente, e il suo ristoro rimaneva.
+È inutile ripetere qui che dopo aver infranto una coalizione mondiale
+dopo l'altra con battaglie che sono capolavori dell'arte militare,
+fu infine consumato da due cause relativamente popolari,
+la resistenza della [[Russia]] e la resistenza di Spagna.
+La prima fu in gran parte, come tanto di ciò che è russo, religiosa;
+ma nella seconda apparve più spiccata quella che ci riguarda
+qui, il valore, la vigilanza e lo spirito nazionale elevato dell'Inghilterra
+nel diciottesimo secolo.  La lunga campagna spagnola mise alla prova e rese
+trionfale il grande soldato irlandese, in seguito noto come Wellington;
+che è diventato ancora più simbolico da quando fu infine confrontato
+con Napoleone nell'ultima sconfitta di quest'ultimo a Waterloo.
+Wellington, sebbene troppo logico per essere affatto inglese, era in molti modi
+tipico dell'aristocrazia; aveva ironia e indipendenza di mente.
+Ma se vogliamo renderci conto di quanto rigidamente tali uomini rimasero limitati
+dalla loro classe, quanto poco sapessero realmente cosa stava accadendo
+nel loro [[Time|time]], basta notare che Wellington sembra
+aver pensato di aver liquidato Napoleone dicendo che non era
+veramente un gentiluomo.  Se un cinese acuto ed esperto
+dicesse del generale Gordon, "Non è in realtà un Mandarino,"
+penseremmo che il sistema cinese meritasse la sua reputazione
+di essere sia rigido che remoto.
 
 
 

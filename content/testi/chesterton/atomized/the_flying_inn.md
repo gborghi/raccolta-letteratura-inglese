@@ -11762,7 +11762,7 @@ Lady Joan Brett si alzò improvvisamente e mostrò un enorme interesse per il re
 
 
 
-“Ora, perché”, chiese il filosofo orientale, “racconto una storia così semplice delle vostre strade di [[London|Londra]] - qualcosa che succede tutti i giorni? L'errore non ebbe alcun effetto pregiudizievole. Lord Ivywood alla fine uscì. Non fece nessun tentativo di spiegare la vera opinione su questioni così importanti al servo del signor Claridge, anche se il servo del signor Claridge rimase sulla soglia della porta. Ma ordinò al servo del signor Claridge di restituirmi uno dei miei stivali, che era caduto giù per i gradini d'ingresso mentre spiegavo questa innocuità del cappello nella [[Home|casa]]. Così tutto andò, per me, molto bene. Ma perché racconto queste piccole storie?”
+“Ora, perché”, chiese il filosofo orientale, “racconto una storia così semplice delle vostre strade di [[London|Londra]] - qualcosa che succede tutti i giorni? L'errore non ebbe alcun effetto pregiudizievole. Lord Ivywood alla fine uscì. Non fece nessun tentativo di spiegare la vera opinione su questioni così importanti al servo del signor Claridge, anche se il servo del signor Claridge rimase sulla soglia della porta. Ma ordinò al servo del signor Claridge di restituirmi uno dei miei stivali, che era caduto giù per i gradini d'ingresso mentre spiegavo questa innocuità del cappello nella [[Home|casa]]. Così tutto andò, per me, molto [[Well|bene]]. Ma perché racconto queste piccole storie?”
 
 
 
@@ -13278,7 +13278,7 @@ Lord Ivywood riprese posto, le sue labbra incolori ancora in movimento. Per un a
 
 
 
-A un segnale simile, preordinato, Hibbs si alzò piuttosto vagamente in piedi per sostenere la mozione. Si vantava di essere un uomo di poche parole, nel senso vocale; non era un oratore, come [[Brutus|Bruto]]. Solo con una penna in mano, in uno studio pieno di opere di consultazione, poteva provare quel senso di responsabilità confusa che era l'unica gioia della sua vita. Ma in questa occasione era più brillante del solito; in parte perché gli piaceva trovarsi nella [[house|casa]] di un lord; in parte perché non aveva mai assaggiato lo champagne prima, e sentiva che gli faceva bene; in parte perché vedeva nell'argomento del Progresso un'infinita opportunità di spaccare il capello in quattro.
+A un segnale simile, preordinato, Hibbs si [[Rose|alzò]] piuttosto vagamente in piedi per sostenere la mozione. Si vantava di essere un uomo di poche parole, nel senso vocale; non era un oratore, come [[Brutus|Bruto]]. Solo con una penna in mano, in uno studio pieno di opere di consultazione, poteva provare quel senso di responsabilità confusa che era l'unica gioia della sua vita. Ma in questa occasione era più brillante del solito; in parte perché gli piaceva trovarsi nella [[house|casa]] di un lord; in parte perché non aveva mai assaggiato lo champagne prima, e sentiva che gli faceva bene; in parte perché vedeva nell'argomento del Progresso un'infinita opportunità di spaccare il capello in quattro.
 
 
 
@@ -13286,7 +13286,7 @@ A un segnale simile, preordinato, Hibbs si alzò piuttosto vagamente in piedi pe
 
 
 
-Lady Joan si mosse bruscamente sulla sedia, come se fosse stata presa da un improvviso [[Pain|dolore]]. E infatti aveva sentito all'improvviso il dolore cronico e ricorrente della sua vita. Era coraggiosa riguardo al dolore fisico, come la maggior parte delle donne, anche quelle più lussuose: ma il tormento che di [[Time|tanto]] in [[Time|tanto]] tornava a straziarla era uno a cui erano stati dati molti nomi filosofici, ma nessuno così filosofico come la Noia.
+Lady Joan si mosse bruscamente sulla sedia, come se fosse stata presa da un improvviso [[Pain|dolore]]. E infatti aveva sentito all'improvviso il [[Pain|dolore]] cronico e ricorrente della sua vita. Era coraggiosa riguardo al [[Pain|dolore]] fisico, come la maggior parte delle donne, anche quelle più lussuose: ma il tormento che di [[Time|tanto]] in [[Time|tanto]] tornava a straziarla era uno a cui erano stati dati molti nomi filosofici, ma nessuno così filosofico come la Noia.
 
 
 
@@ -13294,7 +13294,7 @@ Sentiva di non poter sopportare un minuto di più il signor Hibbs. Sentiva che s
 
 
 
-Sussultò e si sollevò a metà sul gomito con una risatina. Un cane dall'aspetto ridicolo ma familiare venne barcollando verso di lei e lei si alzò nel gesto di prenderlo in braccio. Alzò anche la testa, e vide qualcosa che le sembrò, in un senso più cristiano e catastrofico, molto simile alla fine del mondo.
+Sussultò e si sollevò a metà sul gomito con una risatina. Un cane dall'aspetto ridicolo ma familiare venne barcollando verso di lei e lei si [[Rose|alzò]] nel gesto di prenderlo in braccio. Alzò anche la testa, e vide qualcosa che le sembrò, in un senso più cristiano e catastrofico, molto simile alla fine del mondo.
 
 
 
@@ -13876,7 +13876,7 @@ Ma provava anche un'altra sensazione che non riusciva ad analizzare; perché gli
 
 
 
-Ma mentre scendeva lungo questo telescopio di colori tropicali provava davvero qualcosa di quella dura libertà fatalistica degli eroi (o dovremmo dire dei malvagi?) nelle Mille e una notte. Era preparato a qualsiasi impossibilità. Non si sarebbe quasi sorpreso se da sotto il coperchio di uno dei vasi di porcellana in un angolo fosse uscito un serpente filo di fumo blu o giallo, come se all'interno ci fosse l'olio di qualche mago. Non si sarebbe quasi sorpreso se da sotto le tende o dalle porte chiuse fosse strisciata fuori una scia sinuosa di [[Blood|sangue]], o se un negro muto vestito di bianco fosse uscito con una corda per l'arco, avendo compiuto il suo lavoro. Non si sarebbe sorpreso se fosse entrato all'improvviso nella camera silenziosa di qualche sultano addormentato, che svegliare era una [[Death|morte]] in tormenti. Eppure fu molto più sorpreso da ciò che vide davvero, e quando lo vide fu certo infine che stava solo vagando nel labirinto del suo cervello. Perché quello che vide era proprio il cuore di tutti i suoi [[Dreams|sogni]].
+Ma mentre scendeva lungo questo telescopio di colori tropicali provava davvero qualcosa di quella dura [[Freedom|libertà]] fatalistica degli eroi (o dovremmo dire dei malvagi?) nelle Mille e una notte. Era preparato a qualsiasi impossibilità. Non si sarebbe quasi sorpreso se da sotto il coperchio di uno dei vasi di porcellana in un angolo fosse uscito un serpente filo di fumo blu o giallo, come se all'interno ci fosse l'olio di qualche mago. Non si sarebbe quasi sorpreso se da sotto le tende o dalle porte chiuse fosse strisciata fuori una scia sinuosa di [[Blood|sangue]], o se un negro muto vestito di bianco fosse uscito con una corda per l'arco, avendo compiuto il suo lavoro. Non si sarebbe sorpreso se fosse entrato all'improvviso nella camera silenziosa di qualche sultano addormentato, che svegliare era una [[Death|morte]] in tormenti. Eppure fu molto più sorpreso da ciò che vide davvero, e quando lo vide fu certo infine che stava solo vagando nel labirinto del suo cervello. Perché quello che vide era proprio il cuore di tutti i suoi [[Dreams|sogni]].
 
 
 
@@ -13908,7 +13908,7 @@ Lo spaventoso choc che ancora non aveva abbandonato il volto della signora lo ri
 
 
 
-«Questo è il nuovo ala di Ivywood [[house|House]]», disse la signora chiamata Joan, parlando con grande difficoltà. «Lord Ivywood li ha arredati in stile orientale; è dentro che sta conducendo un dibattito molto interessante in difesa del vegetarianismo orientale. Sono uscita solo perché la stanza era piuttosto calda».
+«Questo è il nuovo ala di Ivywood [[house|House]]», disse la signora chiamata Joan, parlando con grande difficoltà. «Lord Ivywood li ha arredati in stile orientale; è dentro che sta conducendo un [[debate|dibattito]] molto interessante in difesa del vegetarianismo orientale. Sono uscita solo perché la stanza era piuttosto calda».
 
 
 
@@ -23548,7 +23548,7 @@ Away in the distant music room, Lady Enid, having found the music she preferred,
 
 
 
-Una signora con un volto così intelligente non poté fare a meno di ridere debolmente; ma continuò su un tema determinato: “Il [[Prophet|Profeta]] disse, sapete, che tutto l'amore reale aveva in sé un elemento del destino. E sono sicura che questa è anche la sua opinione. Le persone si raggruppano attorno a un centro come le piccole [[Stars|stelle]] fanno attorno a una stella; perché una stella è un magnete. Non sbagliate mai quando il destino soffia dietro di voi come un grande, grosso [[Wind|vento]]; e penso che molte cose siano state giudicate ingiustamente in questo modo. È tutto molto [[Well|bene]] parlare dei matrimoni infantili in India.”
+Una signora con un volto così intelligente non poté fare a meno di ridere debolmente; ma continuò su un tema determinato: “Il [[Prophet|Profeta]] disse, sapete, che tutto l'[[Love|amore]] reale aveva in sé un elemento del destino. E sono sicura che questa è anche la sua opinione. Le persone si raggruppano attorno a un centro come le piccole [[Stars|stelle]] fanno attorno a una stella; perché una stella è un magnete. Non sbagliate mai quando il destino soffia dietro di voi come un grande, grosso [[Wind|vento]]; e penso che molte cose siano state giudicate ingiustamente in questo modo. È tutto molto [[Well|bene]] parlare dei matrimoni infantili in India.”
 
 
 

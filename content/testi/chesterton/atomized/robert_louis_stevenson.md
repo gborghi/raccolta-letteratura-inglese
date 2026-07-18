@@ -4081,6 +4081,92 @@ better than he did that nothing is more terrible than a bed;
 since it is always waiting to be a deathbed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I
+
+"Il mito di Stevenson"
+
+IN questo breve studio su Stevenson propongo di seguire un percorso piuttosto insolito; o di [[Sketch|delinare]] quello che può essere considerato uno schema eccentrico. Può essere giustificato solo nella pratica; e ho una sana [[Fear|paura]] che la mia pratica non lo giustificherà. Tuttavia, non l'ho adottato senza un'attenta riflessione, e persino con [[Doubt|dubbio]], sul modo migliore di affrontare un problema reale e pratico. Quindi, prima che crolli completamente nella pratica, mi concederò il trionfo e la gioia di giustificarlo in linea di principio.
+
+La difficoltà sorge così. Nei grandi giorni di Stevenson i critici avevano cominciato ad aver vergogna di essere critici e di dare alla loro antica funzione il nome di critica. Era di moda pubblicare un libro che era un fascio di recensioni e chiamarlo "Apprezzamenti". Ma il mondo avanza; e se quel tipo di libro viene pubblicato ora, potrebbe [[Well|ben]] portare il titolo generale di "Deprezzamenti". Stevenson ha sofferto più della maggior parte degli altri da questa nuova moda di minimizzare e trovare difetti; e alcuni scrittori energici e di successo si sono buttati nell'impresa quasi con l'ardore dei broker, decisi a provocare un crollo invece che un boom nelle azioni Stevenson. Si può dubitare che abbiamo bisogno di accogliere l'orso più del toro nel negozio di porcellane delle eleganti lettere inglesi.
+Altri sembrano fare proprio un hobby di dimostrare che uno scrittore particolare è sopravvalutato. Scrivono articoli lunghi e laboriosi, pieni di dettagli biografici e commenti amari, per mostrare che l'argomento non merita attenzione; e scrivono pagine su Stevenson per provare che non vale la pena scriverne.
+Né le loro motivazioni né i loro metodi sono molto chiari o soddisfacenti. Se è vero che tutti i cigni sono oche all'occhio discriminante dell'ornitologo scientifico, a malapena basta a spiegare una caccia all'oca selvatica così lunga o così faticosa.
+
+Ma è vero che, in un senso più generale di quello di questi individui piuttosto irritabili, una reazione del genere esiste. E' una reazione contro Stevenson, o almeno contro i stevensoniani. Forse sarebbe più corretto chiamarla una reazione contro la [[Well|stevensoniana]]. E permettetemi di dire fin da subito che concordo pienamente sul fatto che ci sia stata troppa [[Love|stevensoniana]]. In un certo senso, infatti, tutto ciò che riguarda qualcuno così interessante come Stevenson è interessante. In un certo senso, tutto ciò che riguarda chiunque è interessante. Ma non tutti possono interessare gli altri: e va [[Tragedy|bene]] sapere che un autore è amato, ma non pubblicare tutte le lettere d'[[Truth|amore]]. A volte abbiamo dovuto sopportare quella tragedia più terribile e spaventosa: una verità detta una volta di troppo. A volte abbiamo sentito ripetere sentimenti stevensoniani in violazione di tutte le regole stevensoniane. Perché tra tutte le cose che odiava, lui detestava la diluizione: e amava prendere il linguaggio puro, come un liquore. Insomma, era troppo; era troppo rumoroso eppure tutto su una nota sola; soprattutto, era troppo incessante e prolungato. Come dicevo, c'erano varie cause, che sarebbe inutile e talvolta poco amichevole discutere. C'era forse qualcosa della stessa virtù di Stevenson: tollerava molte società e si interessava a molti uomini; e non c'era nulla per tenere lontani i risultati più terribili degli uomini che si interessavano a lui. Soprattutto dopo la sua morte, una persona dopo l'altra si presentava e scriveva un libro sul fatto di aver incontrato Stevenson su una nave a vapore o in un ristorante; e non sorprende che tali fabbricanti di libri cominciassero ad apparire volgari come i bookmaker. C'era forse qualcosa della vecchia battuta di Johnson: che gli scozzesi sono in una cospirazione per lodarsi a vicenda. Spesso era perché gli scozzesi sono sentimentali segreti e non sempre riescono a mantenere il segreto. Il loro interesse per una storia così brillante e in qualche modo patetica era perfettamente naturale e umano; ma, per quanto riguarda questo, il loro interesse era esagerato. A volte, mi duole dirlo, perché l'interesse poteva essere chiamato un interesse acquisito. Comunque, qualsiasi numero di cose è accaduto a combinare per volgarizzare la cosa; ma volgarizzare una cosa non la rende realmente volgare.
+
+La vita di Stevenson era davvero quella che chiamiamo pittoresca;
+in parte perché vedeva tutto come se fossero immagini; e in parte perché una serie di incidenti lo legò effettivamente a luoghi molto pittoreschi.
+Nacque sulle alte terrazze della più nobile delle città del nord:
+nella casa familiare ad Edimburgo nel 1850; era il figlio
+di una [[house|casa]] di architetti di fari altamente rispettati;
+e nulla poteva essere più veramente romantico di questa leggenda
+di uomini che sollevavano con fatica le torri stellate del mare.
+Non riuscì a seguire la tradizione familiare, tuttavia, per vari motivi;
+era afflitto da cattiva salute e un gusto per l'arte; quest'ultimo
+lo spinse a cercare trucchi pittoreschi e pose nella colonia d'arte
+di Barbizon; il primo lo mandò molto presto verso sud in climi sempre più caldi;
+e come lui stesso osservò, accade che i paesi dove siamo inviati quando la salute ci abbandona
+hanno una [[Beauty|bellezza]] magica e piuttosto beffarda.  In un [[Time|periodo]] aveva fatto
+una sorta di visita da vagabondo in [[america|America]], attraversando le brutte pianure
+che portano alla brusca [[Beauty|bellezza]] della California, quella terra promessa.
+La descrisse negli studi chiamati _Across the Plain:_ un'opera
+vagamente insoddisfacente sia per lo scrittore che per il lettore.  Penso che registri
+il vuoto subconscio e la sensazione di smarrimento provata da ogni vero
+europeo alla prima vista della luce e del paesaggio dell'[[america|America]].
+Lo shock della negazione fu nel suo caso veramente innaturale.
+Scrisse quasi un libro noioso.  Ma c'è un altro motivo per notare
+questa eccezione qui.
+
+Questo libro non pretende di essere neppure uno schema della vita
+di Stevenson. Nel suo caso particolare ometto deliberatamente tale
+schema, perché ritengo che esso abbia incrociato e confuso
+il contorno molto netto e lucido della sua arte. Ma in ogni caso
+sarebbe davvero difficile raccontare la storia con [[Truth|verità]] senza
+raccontarla nei dettagli, e in dettagli piuttosto sconcertanti. La prima
+cosa che ci colpisce, ad un rapido esame della sua vita e delle sue lettere,
+è il suo numero infinito di cambiamenti di domicilio, specialmente nei suoi primi anni.
+Se i suoi amici avessero seguito l'esempio che lui dice di dare, per quanto riguarda
+il signor [[Michael]] Finsbury, e si fossero rifiutati di imparare più di un indirizzo
+per ogni amico, la sua corrispondenza sarebbe rimasta davvero molto
+indietro. I suoi vagabondaggi nell'Europa occidentale apparirebbero
+sulla mappa molto più selvaggi e [[Well|ben]] più vasti del "probabile
+percorso delle peregrinazioni di David Balfour" nella Scozia occidentale.
+Se ci mettessimo a raccontare la sua storia così, dovremmo notare
+come andò prima a Mentone e poi tornò ad Edimburgo,
+e poi a Fontainebleau e poi nelle Highlands e poi di nuovo a
+Fontainebleau e poi a Davos tra le [[Mountains|montagne]], e così via;
+un pellegrinaggio a zigzag impossibile da comprimere se non in una più ampia [[Biography|biografia]].
+Ma tutto o quasi tutto è coperto da una generalizzazione.
+Questo grafico di navigazione era in realtà un grafico ospedaliero. I suoi
+frastagliati [[Mountains|monti]] rappresentavano le temperature; o almeno i climi.
+Tutta la storia di Stevenson è condizionata da una certa complessità,
+che un riguardo per la lingua inglese ci tratterrà dal chiamare
+un complesso. Era una sorta di [[Paradox|paradosso]], per cui era
+al tempo stesso più e meno protetto degli altri uomini; come qualcuno
+che viaggiasse sulle strade più selvagge del mondo in un carro coperto.
+Andava dove andava in parte perché era un avventuriero e in parte
+perché era un malato. Con quella sorta di agilità zoppicante,
+si può dire che vedesse al tempo stesso troppo poco e troppo.
+Forse era un viaggiatore naturale; ma non era un viaggiatore normale.
+Nessuno lo ha mai trattato come del tutto normale; ed è questa la [[Truth|verità]]
+nascosta nella falsità di coloro che scherniscono la sua infantilità
+come quella di un [[Child|bambino]] viziato. Era coraggioso; eppure doveva essere
+protetto da due cose insieme, dalla sua debolezza e dal suo [[Courage|coraggio]].
+Ma il suo ritratto di sé come vagabondo con le dita blu
+sulla [[Winter|inverno]] [[Road|strada]] è dichiaratamente un'immagine ideale; era esattamente
+quella sorta di [[Freedom|libertà]] che non avrebbe mai potuto avere. Poteva solo essere
+trasportato da una vista all'altra; o anche da un'avventura all'altra.
+Infatti c'è qui una curiosa aderenza alla semplicità pittoresca
+della sua rima infantile che recitava: "Il mio letto è come una piccola barca."
+Attraverso tutte le sue varie esperienze il suo letto era una barca e la sua barca era
+un letto. I panorami di palme tropicali e di aranceti californiani passavano
+sopra quel letto mobile come l'interminabile [[nightmare|incubo]] delle pareti della nursery.
+Ma il suo vero [[Courage|coraggio]] non era rivolto tanto verso l'esterno nel dramma
+della barca quanto verso l'interno nel dramma del letto. Nessuno sapeva
+meglio di lui che nulla è più terribile di un letto;
+dato che aspetta sempre di diventare un letto di morte.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Robert Louis Stevenson — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>

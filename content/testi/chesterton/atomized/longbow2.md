@@ -8362,6 +8362,50 @@ but she came to the conclusion that she would not like to have
 a husband standing for Parliament.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Fece un passo avanti, come nel cuore di una tromba d'aria,
+e si incontrarono sulla cima di quella ventosa [[Hill|collina]], come se fossero venuti dai confini della terra.
+
+“Questo è un [[Epic|poema epico]]”, disse, “che è piuttosto un'azione che una parola.
+Ho vissuto troppo a lungo con le parole.”
+
+«Cosa volete dire?»
+
+"Voglio dire che mi hai trasformato in un uomo d'azione", rispose.
+"Fino a quando eri nel passato, nulla era migliore del passato.
+Fino a quando eri solo [[A Dream|un sogno]], nulla era meglio di sognare.
+Ma ora sto per fare qualcosa che nessuno ha mai fatto prima."
+
+Si voltò verso la valle e fece un gesto con la mano, quasi come se avesse tenuto una [[Sword|spada]].
+
+«Io infrangerò la profezia», gridò a gran voce.
+«Io sfiderò i presagi della mia rovina e mi prenderò gioco del mio astro maligno. 
+Coloro che mi hanno chiamato un fallito dovranno riconoscere di essere stati sconfitti da me, là dove tutta
+l'umanità ha fallito.  Il vero [[Hero|eroe]] non è colui che ha il coraggio
+di compiere le profezie, ma colui che ha il coraggio di falsificarle.
+E voi vedrete una falsificata questa-[[Night|sera]].»
+
+«Che cosa al mondo intendete fare?» chiese lei.
+
+Rise una risata improvvisa. «La prima cosa da fare», esclamò,
+girandosi con un nuovo aspetto di decisione e persino allegria,
+«la prima cosa da fare è votare per Hunter. O, almeno,
+aiutare a farlo entrare in Parlamento».
+
+«Ma perché al mondo», chiese meravigliata, «dovreste volere così tanto che il dottor Hunter entri in Parlamento?»
+
+«[[Well|Bene]], bisogna fare qualcosa», disse con un'aria di buon senso, «per celebrare l'occasione.  Dobbiamo fare qualcosa; e dopotutto deve andare da qualche parte, povero diavolo.  Direte: perché non buttarlo nel [[River|fiume]]? Sarebbe un sollievo per i sentimenti e farebbe uno schizzo d'acqua. Ma io sto per fare qualcosa di molto più grande di uno schizzo d'acqua. Inoltre, non voglio che sia nel mio bel [[River|fiume]]. Preferirei prenderlo e lanciarlo fino a Westminster. Molto più sensato e appropriato. È ovvio che dovrebbe esserci una banda di ottoni e una processione con torce stasera; e perché non dovrebbe partecipare anche lui un po' alla festa?»
+
+Si fermò improvvisamente come se fosse sorpreso dalle proprie parole;
+perché infatti la sua stessa frase era caduta, per lui, con il significato di una stella cadente.
+
+"Naturalmente!", borbottò. "Una processione con torce! Ultimamente sentivo che quello di cui avevo bisogno erano trombe e invece quello che voglio davvero sono le torce. Sì, credo che si possa fare! Sì, è giunta l'ora! Per [[Stars|stelle]] e fiamme, gli darò una processione con torce!"
+
+Era quasi danzante dall'entusiasmo sulla cima della cresta; ora improvvisamente si mise a scendere di corsa lungo il pendio oltre, chiamando la ragazza ad andargli dietro con la stessa disinvoltura come se fossero stati due bambini che giocano a nascondino. Stranamente abbastanza, forse, lei lo seguì; ancora più stranamente quando si considerano le scene stravaganti attraverso cui si lasciò condurre. Erano scene più follemente in contrasto con tutta la sua sensibile e persino segreta dignità che se avesse scambiato i cappelli con un venditore ambulante durante il giorno festivo. Perché lì il mondo sarebbe stato solo rumoroso di volgarità, mentre qui era anche rumoroso di bugie. Non avrebbe mai potuto descrivere quel Saturnalia di un'elezione politica; ma sentiva vagamente la [[Double|doppia]] impressione di una arlecchinata alla fine di una pantomima e della frase di Hood sulla fine del mondo. Era come se il giorno festivo potesse anche essere il Giorno del Giudizio. Ma poiché la farsa non poteva più offenderla, così la [[Tragedy|tragedia]] non poteva più terrorizzarla. Passò attraverso tutto con un pallido sorriso che forse nessuno al mondo l'avrebbe conosciuta abbastanza da interpretare. Non era nel senso normale dell'entusiasmo; eppure era qualcosa di molto più positivo della pazienza. In un certo senso, forse più che mai prima nella sua solitaria vita, era rinchiusa nella sua torre d'avorio; ma tutto era illuminato all'interno, come se fosse illuminata a candele o foderata d'oro.
+
+I movimenti impetuosi di Hood li portarono sulla riva del [[River|fiume]] e negli uffici esterni della fabbrica, tutti ricoperti dai manifesti colorati della candidatura, uno dei quali era ovviamente allestito come una stanza del comitato affollata e frenetica. Hood incontrò effettivamente il signor Low che ne usciva, avvolto in un cappotto di pelliccia e traboccante di efficacia senza parole. Ma gli occhi neri e lucenti del signor Low brillavano di uno stupore confinante con il sospetto quando Hood, nel modo più cordiale, offrì la sua simpatia e collaborazione. Quel strano timore subconscio [[Fear|paura]] che sottostava a tutto il [[success|successo]] e alla sicurezza del ricco manager in questo paese, veniva sempre a galla alla vista del volto ironico di Owen Hood. In quel momento, tuttavia, uno degli agenti locali gli si avventò contro in modo distratto, con dei telegrammi in mano. Mancavano attivisti; mancavano auto; mancavano oratori; la folla a Little Puddleton aveva aspettato mezz'ora; il dottor Hunter non sarebbe potuto arrivare prima delle nove e dieci, e così via. L'agente nella sua agonia probabilmente avrebbe salutato un negro di Margate e gli avrebbe affidato la causa del grande Partito Nazionale, senza alcuna indagine filosofica sulla teoria della cittadinanza del negro. Perché tutta questa spinta e confusione così pratica nel nostro [[Time|tempo]] è sempre del tutto impratica all'ultimo minuto e in prospettiva. In quella [[Night|sera]] Robert Owen Hood sarebbe stato incoraggiato ad andare ovunque e dire qualsiasi cosa; e lo fece. Potrebbe essere interessante immaginare cosa ne pensasse la signorina; ma è possibile che non ci abbia pensato. Aveva un senso radioso e distratto di passare attraverso una serie di stanze brutte e capannoni con luci al gas accecanti e pile di volantini dietro cui correvano piccoli uomini irritabili come conigli. Le pareti erano coperte da grandi immagini allegoriche stampate in linee o in pochi colori vivaci, che rappresentavano il dottor Hunter vestito di armatura, mentre uccideva draghi, salvava dame piuttosto simili a dee classiche e così via. Per evitare che si potesse intendere troppo letteralmente che il dottor Hunter fosse solito uccidere draghi nel suo giro quotidiano come forma di sport di campo, il drago era iscritto con il suo nome in grandi lettere. A quanto pareva il suo nome era "Spreco Nazionale". Per evitare che ci potesse essere qualche [[Doubt|dubbio]] sull'alternativa che il dottor Hunter aveva scoperto come correttivo allo spreco, la [[Sword|spada]] che stava infilzando nel [[Body|corpo]] del drago era iscritta con la parola "Economia". Elizabeth Seymour, attraverso la cui mente felice ma confusa passavano queste immagini, non poteva fare a meno di riflettere vagamente che lei stessa aveva dovuto praticare molto risparmio e resistere a molte tentazioni di spreco; ma non le sarebbe mai venuto in mente da sola la sua [[Imagination|immaginazione]] di concepire quell'azione come quella di piantare una [[Sword|spada]] in un enorme [[Monster|mostro]] squamoso. Nella stanza centrale del comitato si trovarono effettivamente faccia a faccia per un momento con il candidato, che entrò molto caldo e senza fiato con un cappello di seta sul retro della testa; dove probabilmente se l'era dimenticato, perché certamente non lo tolse. Era un po' vergognosa di essere sensibile a tali frivolezze; ma arrivò alla conclusione che non le sarebbe piaciuto avere un marito candidato al Parlamento.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_08" data-title="Tales of the Long Bow — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt"></span>
@@ -8731,6 +8775,102 @@ on the sign-board of the inn.
 dramatic fashion.  "We will go into battle under the banner
 of the Blue Boar."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Che diavolo è tutta questa follia infernale?" chiese. "Chi ha la dannata audacia di dire ai Hardy che non possono allevare maiali? Guarda, il [[Time|momento]] è arrivato in cui dobbiamo far saltare tutto questo genere di cose. Sto per fare qualcosa di disperato."
+
+«Avete fatto cose abbastanza disperate questa mattina»,
+disse Hood. «Vi consiglio di fare un pranzo altrettanto disperato.
+Sedetevi, caro amico, e non continuate a camminare su e giù in quel modo».
+
+"No, ma senti qui..."
+
+Pierce fu interrotto da Joan Hardy che apparve silenziosamente al suo fianco e disse modestamente agli altri: «C'è un signore qui che chiede se gli è permesso parlarvi».
+
+Il gentiluomo in questione stava un po' indietro in una posizione che era cortese ma così rigida e immobile da quasi irritare i nervi.
+Era vestito con una versione così completa e corretta dell'abbigliamento leggero inglese per le vacanze, che erano sicuri fosse un forestiero. 
+Ma la loro immaginazione vagò invano sul Continente nel tentativo di immaginare che tipo di straniero potesse essere.
+Per l'immobilità del suo volto quasi lunare, con una sfumatura leggermente biliosa, avrebbe anche potuto essere un cinese. 
+Ma quando parlò, riuscirono subito a individuare l'accento straniero.
+
+«Mi dispiace molto interrompervi, signori», disse «ma questa giovane signora dice che voi siete autorevolissimi esperti accademici sui luoghi di interesse di quest'area. Io mi sono aggirato in giro cercando di trovare le tracce di un paio di antichità, ma non sembro capire come farlo. Se vorreste essere così gentili da mettermi al corrente sugli stili architettonici principali e sui punti storici di questa regione, vi sarei molto grato».
+
+# Mentre si riprendevano lentamente dalla prima sorpresa, aggiunse pazientemente:
+
+"Mi chiamo Enoch B. Oates, e sono abbastanza [[Well|noto]] nel Michigan,
+ma ho comprato una piccola proprietà qui vicino; ho dato un'occhiata a questo
+piccolo pianeta e mi sono convinto che il posto più sicuro e luminoso
+per un uomo con qualche soldo è quello di un signorotto nel vostro bellissimo
+paesaggio feudale.  Quindi, prima riesco a conoscere gli edifici medievali più
+suggestivi, meglio è."
+
+In Hilary Pierce lo stupore aveva lasciato il posto a un'ardente esaltazione che sfiorava l'estasi.
+
+"Edifici medievali! Stili architettonici!" esclamò con entusiasmo.
+"Siete venuto nel negozio giusto, signor Oates. Vi mostrerò un edificio antico,
+un edificio sacro, in uno stile architettonico di tale [[Sublime|sublime]]
+antichità che vorrete portarlo via in Michigan, come hanno
+tentato di fare con l'Abbazia di Glastonbury. Avrete il privilegio di vedere
+una istituzione storica prima di morire o prima che tutta la [[history|storia]] sia dimenticata."
+
+Stava camminando verso l'angolo del piccolo [[Garden|giardino]] della cucina attaccato all'albergo, agitando il braccio con gesti selvaggi di incoraggiamento; e l'americano lo seguiva con la stessa rigidità cortese, sembrando stranamente un'autentica macchina.
+
+«Guardate il nostro stile architettonico prima che scompaia»,
+gridò Pierce drammaticamente, indicando la porcilaia, che sembrava piuttosto un rudere di assi inclinate e rotte appese insieme in modo precario, anche se nella pratica era abbastanza funzionale.
+«Questo, il più inequivocabilmente maturo di tutti gli edifici medievali,
+potrebbe presto essere solo un [[Memory|ricordo]]. Ma quando questo edificio cadrà l'Inghilterra
+cadrà e il mondo tremolerà per lo shock della fine.»
+
+L'americano aveva quello che lui stesso avrebbe potuto descrivere come un volto da poker; era impossibile scoprire se le sue affermazioni indicassero l'estremo della [[innocence|innocenza]] o dell'ironia.
+
+"E direbbe", chiese, "che questo monumento è un esempio dell'architettura medievale o gotica?"
+
+"Non lo definirei propriamente perpendicolare", rispose Pierce, "ma non c'è alcun [[Doubt|dubbio]] che sia inglese antico".
+
+«Direste che è antico, comunque?» osservò il signor Oates.
+
+"Ho ogni ragione di credere", affermò Pierce solennemente,
+"che Gurth il Porcaro abbia fatto uso di questo identico edificio.
+Non ho alcun [[Doubt|dubbio]] che sia in realtà molto più antico. Le migliori autorità
+ritengono che il Figliol Prodigo vi si sia fermato per qualche [[Time|tempo]], e i maiali--
+quei nobili e tanto calunniati [[Animals|animali]]--gli abbiano dato consigli così eccellenti
+che egli è tornato dalla sua famiglia. E ora, signor Oates, dicono
+che tutto quel magnifico patrimonio verrà spazzato via. Ma non sarà.
+Non ci sottometteremo così facilmente a tutti i vandali e i volgari
+tiranni che vorrebbero abbattere in tal modo i nostri templi e i nostri luoghi sacri.
+Il porcile risorgerà in una magnifica [[Resurrection|resurrezione]]--
+porcili più grandi, porcili più imponenti, copriranno ancora la terra; le torri
+e le cupole di porcili più statuari e ideali, negli stili architettonici più sorprendenti,
+proclameranno nuovamente la vittoria del santo suino sui suoi oppressori sacrileghi."
+
+"E nel frattempo," disse il colonnello Crane in tono asciutto,
+"credo che sarebbe molto meglio se il signor Oates cominciasse con la chiesa giù lungo il [[River|fiume]]. 
+Ha delle fondamenta normanne davvero magnifiche e tracce di mattoni romani. 
+Anche il vicario conosce bene la sua chiesa, e darebbe al signor Oates
+informazioni molto più affidabili delle sue."
+
+Poco dopo, quando il signor Oates se ne fu andato per la sua strada,
+il colonnello rimproverò in modo brusco il suo giovane amico.
+
+«Cattiva educazione», disse «prendere in giro uno straniero che chiede informazioni».
+
+Ma Pierce si voltò verso di lui con lo stesso calore sul volto.
+
+«Ma non stavo scherzando. Ero completamente serio».
+
+Lo fissarono con sguardo fermo e lui rise leggermente ma continuò con lo stesso [[Fire|furore]].
+
+"Simbolico forse ma serio", disse. "Potrei sembrare di aver parlato un po' in modo folle, ma lasciatemi dire che è giunto il [[Time|momento]] di essere folli.
+Siamo stati tutti troppo mansueti. Intendo davvero, tanto quanto ho mai voluto dire qualcosa,
+di combattere per la [[Resurrection|resurrezione]] e il ritorno del maiale;
+e tornerà ancora come un cinghiale che dilanierà i cacciatori."
+
+Alzò gli occhi e il suo sguardo si posò sulla forma araldica blu
+sulla insegna della locanda.
+
+"Ecco il nostro vessillo di legno!", esclamò, indicando con la stessa gestualità drammatica.
+"Andremo in battaglia sotto lo stendardo del Cinghiale Azzurro".
 
 
 
@@ -10469,6 +10609,69 @@ like that of night; a sublime and even starry background."
 "Starry yourself," said Crane indignantly.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Tornerà con la testa rasata, immagino», disse White speranzoso.
+«Immagino che farsi radere il capo sia alla moda nella migliore società degli indiani rossi?»
+
+«Allora sta lavorando da quelle parti delle isole del Pacifico meridionale», disse Hood.
+«Là non scalpellano la gente, li fanno solo bollire nelle pentole».
+
+«Non poteva certo tornare sbronzo», disse White pensieroso.
+«Ti sembra, Owen, che non staremmo parlando di queste sciocchezze se non avessimo una strana fiducia nel fatto che un tipo come Crane saprà cavarsela?»
+
+"Sì", disse Hood con serietà, "ho una convinzione fondamentale e ben radicata che Crane ricomparirà presto in perfette condizioni. Ma è vero che potrebbe avere un aspetto piuttosto strano dopo essersi ~fantee~ per tutto quel tempo."
+
+Divenne una specie di passatempo al Circolo dei Lunatici competere nelle congetture sulle sembianze che avrebbe assunto il più pazzo tra i loro pazzi, tornando dopo essere stato per tanto tempo lontano dalla civiltà.
+E si fecero grandi preparativi come per una sorta di notte di Valpurga dell'assurdità quando alla fine si seppe che stava davvero ritornando. Hood aveva ricevuto occasionalmente lettere da lui, piene di strane mitologie, e poi una rapida successione di telegrammi da luoghi sempre più vicini a casa, culminanti nell'annuncio che sarebbe apparso al circolo quella sera.
+Erano circa cinque minuti prima dell'ora di cena quando un forte bussare alla porta annunciò il suo arrivo.
+
+«Suonate tutti i gong e i tamburi», gridò Wilding White.
+«Il Gran Mumbo-Jumbo arriva cavalcando l'incubo».
+
+«Faremmo meglio a tirar fuori il trono del Re dei Maniaci», disse Hood ridendo. «Potremmo averne bisogno alla fine» e si voltò verso la grande poltrona imbottita che stava ancora in cima al tavolo.
+
+Mentre faceva così James Crane entrò nella stanza. Era vestito con abiti da sera molto ordinati e ben tagliati, non troppo alla moda e un po' formali. I suoi capelli erano divisi su un lato e i baffi erano tagliati piuttosto corti; si sedette con un sorriso piacevole e iniziò a parlare del tempo.
+
+Non gli fu però consentito di limitare la conversazione al tempo atmosferico.
+Egli era riuscito certamente a dare ai suoi vecchi amici l'unica sorpresa che non si aspettavano davvero;
+ma erano troppo vecchi amici perché il loro amico potesse nasconder loro il significato di un tale cambiamento.  E
+fu in quella serata festiva che Crane spiegò la sua posizione;
+una posizione che mantenne nella maggior parte delle cose da allora in poi,
+e che è la fondazione originale della vicenda che segue.
+
+«Ho vissuto con gli uomini che chiamiamo selvaggi in tutto il mondo»,
+disse semplicemente, «e ho scoperto una verità su di loro.
+E vi dico, amici miei, potete parlare di indipendenza e
+di espressione individuale finché non ne potete più. Ma io ho sempre trovato,
+ovunque andassi, che l'uomo in cui si poteva davvero fidarsi per mantenere la parola,
+per combattere e lavorare per la sua famiglia, era colui che faceva una danza di guerra
+davanti alla luna dove la luna veniva adorata, e indossava un anello al naso dove gli anelli al naso erano usati. Ho avuto molta divertimento,
+e non interferirò con chiunque altro lo voglia avere.
+Ma credo di aver visto ciò che è la vera essenza dell'umanità, e
+sono tornato alla mia tribù».
+
+Questo fu il primo atto del dramma che si concluse con la notevole comparsa e scomparsa di Mr. Enoch Oates, ed è stato necessario raccontarlo brevemente prima di passare al secondo atto. Da allora Crane aveva conservato sia i suoi eccentrici amici che le sue più formali abitudini. E molti tra i nuovi membri del club non lo avevano mai conosciuto se non come il Colonnello, l'anziano gentiluomo militare la cui severa combinazione di abiti neri e bianchi e la sua rigida cortesia nei piccoli dettagli formavano l'unica cornice di netto contrasto a quella bohémien multicolore. Uno di questi era Hilary Pierce, il giovane aviatore; e per quanto gli piacesse il Colonnello, non lo capiva del tutto. Non aveva mai conosciuto il vecchio soldato nella sua gioventù vulcanica, come invece Hood e White, e quindi non sapeva quanta di quella fiamma rimanesse sotto la roccia o le nevi. La singolare faccenda del cappello, che è stata raccontata altrove al troppo paziente lettore, lo sorprese più di quanto avesse fatto con gli uomini più anziani, che sapevano benissimo che il Colonnello non era così vecchio come sembrava. E l'impressione aumentò con tutti gli incidenti che un fanatico amore per la verità ha costretto lo scrivente a raccontare nello stesso contesto; l'incidente del fiume e dei maiali e dell'animale domestico di Mr. Wilding White, leggermente più grande. Si parlò di rinominare il Manicomio come la Lega dell'Arco Lungo, e di commemorarne le imprese in un rituale permanente. Il Colonnello fu indotto a portare una corona di cavolo nelle occasioni ufficiali, e Pierce fu seriamente invitato ad accompagnarsi ai suoi maiali per cenare al club.
+
+«Potresti facilmente portare un piccolo maiale nella tua grande tasca», disse Hood.
+«Mi chiedo spesso perché la gente non abbia i maiali come animali domestici».
+
+«Un gatto nel sacco, infatti», disse Pierce. «Bene, fintanto che avete il tatto di evitare l'indelicatezza di servire del maiale per cena quella sera, immagino potrei portare il mio porcellino in tasca».
+
+«White troverebbe piuttosto scomodo portare l'elefante in tasca», osservò il colonnello.
+
+Pierce lo guardò e provò di nuovo la sensazione di incongruità nel vedere il cavolo cerimoniale che adornava la sua testa relativamente venerabile.
+Il colonnello si era appena sposato ed era ringiovanito in modo quasi spavaldo.  In qualche modo al giovane filosofo sembrò mancasse qualcosa, e sospirò. Fu allora che fece l'osservazione
+che è il cardine di questa precisa sebbene laboriosa aneddoto.
+
+«Da quando il colonnello si è mangiato il cappello», disse «il manicomio non ha più un contesto.»
+
+«Maleducata la tua audacia», disse il colonnello allegramente, «intendi chiamarmi uno sfondo in faccia?»
+
+«Uno sfondo scuro», disse Pierce con tono rassicurante. «Non prendetevela se dico uno sfondo scuro. Intendo un grande e misterioso sfondo come quello della notte, uno sfondo sublime e addirittura stellato».
+
+«Fatti stellare tu stesso», disse Crane con sdegno.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="Tales of the Long Bow — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
@@ -10601,6 +10804,83 @@ so I could get ahead with turning it into the goods.  So I started
 in right away and got there at the first go off with an increase
 of seven hundred and fifty-one thousand dollars."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Fu su quel sfondo di antica notte», continuò il giovane sognante,
+«che le forme fantastiche e i colori ardenti del nostro carnevale potevano veramente essere visti.
+Finché veniva qui con la sua giacca nera e i suoi bellissimi modi da società, c'era un contrasto alle nostre follie. 
+Eravamo eccentrici, ma lui era il nostro centro. Non si può essere eccentrici senza un centro».
+
+«Credo che Hilary abbia perfettamente ragione», disse Owen Hood con serietà.
+«Penso che abbiamo commesso un grande errore. Non avremmo dovuto impazzire tutti insieme. Avremmo dovuto farlo a turno. Allora io avrei potuto scandalizzarmi del suo comportamento di lunedì, mercoledì e venerdì, e lui si sarebbe scandalizzato del mio comportamento di martedì, giovedì e sabato. Ma non c'è alcun valore morale nell'impazzire quando nessuno è scandalizzato. Se Crane smette di scandalizzarsi, che cosa dovremo fare?»
+
+«So cosa vogliamo», esordì Pierce con entusiasmo.
+
+«E io pure», interruppe Hood «vogliamo un uomo sano di mente».
+
+«Non è così facile trovarli al giorno d'oggi», disse il vecchio soldato.
+«Pensi di mettere un annuncio?»
+
+«Intendo un uomo stupido», spiegò Owen Hood. «Intendo un uomo che è convenzionale in tutto e per tutto, non un ipocrita come Crane. Intendo dire che voglio un uomo solido, serio, d'affari, un uomo di testa dura, pratico negli affari, a cui sono affidati vasti interessi commerciali. In una parola, voglio uno sciocco; qualche bello, rotondo, omogeneo sciocco, in cui la sua faccia immacolata, come in uno specchio tondo, tutte le nostre fantasie possano davvero riflettersi e rinnovarsi. Voglio un uomo molto di successo, un uomo molto ricco, un uomo...»
+
+«Lo so! Lo so!» gridò il giovane Pierce, quasi agitando le braccia.
+«Enoch Oates!»
+
+«Chi è Enoch Oates?» chiese White.
+
+«Gli uomini al potere nel mondo sono così poco conosciuti?» chiese Hood.
+«Enoch Oates è il Porco, e quasi tutto il resto; Enoch Oates sta trasformando la civiltà in una vasta macchina per salsicce. Non vi ho mai raccontato come Hilary gli sia incappato nel corso di quella faccenda dei maiali?»
+
+«È proprio l'uomo che vi serve», esclamò Hilary Pierce con entusiasmo.
+«Lo conosco e credo di poterlo convincere. Essendo un milionario,
+è completamente ignorante. Essendo americano, è completamente serio.
+Ha proprio quel tipo di coscienza negativa non conformista della Nuova
+Inghilterra che bilancia il guadagno positivo dei soldi di New York. Se vogliamo
+sorprendere qualcuno lo sorprenderemo lui. Invitiamo Enoch Oates a cena».
+
+«Non voglio che si facciano scherzi ai miei ospiti», disse il colonnello.
+
+«Certo che no», rispose Hood. «Ne sarà solo troppo felice di prenderla sul serio. Avete mai conosciuto un americano che non gli piacesse vedere le Attrazioni? E se non sapete di essere un'Attrazione con quel cavolo in testa, è ora che un turista americano ve lo insegni».
+
+«Inoltre c'è una differenza», disse Pierce «non chiederei mai
+a un tipo come quel dottore, Horace Hunter...»
+
+«Sir Horace Hunter», mormorò Hood con riverenza.
+
+"Non glielo chiederei, perché lo ritengo davvero un furbo e uno snob,
+e il mio invito potrebbe essere interpretato solo come un insulto. Ma Oates non è
+un uomo che odio, né è odioso. Questa è la parte curiosa.
+È un tipo semplice e sincero, secondo i suoi criteri,
+che sono piuttosto limitati. È naturalmente un ladro e un brigante,
+ma non lo sa. Lo sto invitando perché è diverso;
+ma immagino che non gli dispiaccia affatto essere diverso. Non c'è niente di male
+a offrire a un uomo una buona cena e lasciarlo fare da sfondo senza
+che se ne accorga."
+
+Quando il signor Enoch Oates, nel dovuto tempo, accettò l'invito e si presentò al club, molti furono ricordati di quella precedente occasione in cui una figura rigida e convenzionale in abito da sera era apparsa per la prima volta come un rimprovero ai festeggiamenti. Ma nonostante la rigida somiglianza di quei costumi bianchi e neri, c'era molta differenza tra il vecchio sfondo e il nuovo sfondo. I buoni modi di Crane erano di quel genere casuale che è piuttosto peculiare degli inglesi e segna un'aristocrazia a suo agio in sella. Curiosamente, se l'americano aveva un punto in comune con un nobile continentale di antica discendenza (che sua figlia avrebbe potuto sposare da un giorno all'altro), era che entrambi sarebbero stati un po' più sulla difensiva, vivendo nel mezzo della democrazia. Il signor Oates fu perfettamente educato, ma c'era qualcosa di un po' rigido in lui. Camminò verso la sua sedia piuttosto rigidamente e si sedette piuttosto pesantemente. Era un uomo potente e imponente con un grande volto giallastro, un po' suggestivo di un corpulento indiano rosso. Aveva uno sguardo ruminante e una maniera altrettanto ruminante di masticare un sigaro spento. Questi erano segni che avrebbero potuto benissimo andare insieme a un abitudine al silenzio. Ma non fu così.
+
+La conversazione del signor Oates non era brillante, ma era continua.
+Pierce e i suoi amici avevano iniziato con l'idea di sventolare le loro
+prodezze davanti a lui, come bambole danzanti davanti a un bambino; gli
+avevano raccontato qualcosa dell'affare del colonnello e il suo cavolo,
+del capitano e i suoi maiali, del pastore e la sua elefante;
+ma ben presto si accorsero che l'ascoltatore non era venuto lì solo
+per ascoltare.  Cosa pensasse delle loro buffonate romantiche
+sarebbe stato difficile da dire; probabilmente non le capiva,
+forse non le sentiva nemmeno.  Comunque, il suo monologo
+continuava.  Era un oratore lento.  Si ritrovarono a
+rivedere molto di quello che avevano sentito sulla vivacità e lo stile e la
+fretta del parlare americano.  Parlava senza fretta né imbarazzo,
+con gli occhi fissi nel vuoto, e più che altro soddisfaceva le speranze del signor Pierce
+di qualcuno che avrebbe parlato di questioni commerciali.  Il suo discorso
+era un mite torrente di fatti e cifre, soprattutto cifre.
+Infatti lo sfondo stava facendo tutto il possibile per contribuire al
+richiesto sottofondo della vita commerciale comune.  Lo sfondo
+stava giustificando tutte le loro speranze che sarebbe stato pratico e prosaico.
+Solo che lo sfondo aveva piuttosto l'aria di essere diventato il primo piano.
+
+«Quando mi proposero l'affare, capii subito che era quello giusto», stava dicendo il signor Oates. «Vidi che avevo trovato qualcosa di meglio del mio vecchio giro d'affari regolamentare di ottantacinquemila dollari per ogni filiale. Calcolai che avrei risparmiato centoventimila dollari a lungo termine smantellando l'attrezzatura obsoleta, anche se mi sarebbe costato altri trentamila dollari in nuove opere, dove avrei ottenuto la materia prima per un centesimo. Capii subito che quello era il punto su cui concentrarmi; che avevo solo la possibilità di vendere qualcosa che non avevo bisogno di comprare; qualcosa che poteva essere quasi regalato come i vecchi fiammiferi usati. Pensai che sarebbe stato molto meglio lasciare agli altri il compito di allevare il bestiame e vendermi i loro scarti per quasi niente, così avrei potuto procedere a trasformarli in merci. Così mi misi subito all'opera e riuscii al primo tentativo con un aumento di settecentocinquantunomila dollari».
 
 
 
@@ -13405,6 +13685,78 @@ the scarecrow still wore the hat that he had sacrificed; the cabbages
 still looked green and solid like the cabbage he had once dug up,
 digging up so much along with it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Poi accadde qualcosa che nemmeno coloro che lo videro e sopravvissero poterono descrivere. Gli alberi scuri sembrarono crescere fino a raddoppiare la loro altezza come in un incubo. Nel crepuscolo, tutto il bosco sembrò sollevarsi dalla terra come uno stormo di uccelli e poi rovesciarsi a mezz'aria per venire incontro agli invasori come una rabbiosa onda. Fu questa la visione confusa e vertiginosa che videro; ma molti di loro, almeno, non ne videro molto altro in seguito. Contemporaneamente alla rotazione di questa ruota di alberi agitati, sembrò che le rocce piovenssero dal cielo; travi e pietre e dardi e proiettili di ogni genere, schiacciando la forza in avanzata come sotto un marciapiede prodotto da una pioggia di selci. Si afferma che alcuni dei contadini esperti nella caccia, al servizio dell'Arco Lungo, avessero escogitato di adattare un albero come una gigantesca catapulta; calcolando come piegare i rami e talvolta anche i tronchi fino al punto di rottura, ottenendo così una enorme e vivace elasticità con il loro rilascio. Se questa storia è vera, essa rappresenta certamente un epilogo appropriato alla carriera dell'Arco Lungo e un adempimento piuttosto curioso della visionaria fanfaronata del Parroco White, quando disse che gli archi sarebbero stati abbastanza grandi per i giganti e che il fabbricante degli archi era Dio.»
+
+«Sì», interruppe l'agitato White, «e sapete cosa mi ha detto quando gliel'ho detto per la prima volta?»
+
+«Chi ha detto cosa quando lei ha detto che cosa?» chiese pazientemente Hood.
+
+«Intendo quel tale Hunter», rispose il clero, «quel dottore di società laccato diventato politico. Sapete cosa ha detto quando gli ho comunicato che avremmo ottenuto i nostri archi da Dio?»
+
+Owen Hood si fermò nel gesto di accendere un sigaro.
+
+"Sì", disse con amarezza, "credo di poterle dire esattamente cosa ha detto.
+L'ho osservato di tanto in tanto per venti anni. Scommetto che ha cominciato dicendo: «Non pretendo di essere un uomo religioso»."
+
+«Esatto, proprio esatto», gridò il chierico saltando sulla sedia in modo gioioso, «è esattamente così che ha cominciato. "Non pretendo di essere un uomo religioso, ma spero di avere un po' di riverenza e buon gusto. Non trascino la religione nella politica". E io dissi: "No, non credo lo faccia"».
+
+Un attimo dopo, saltò come diremmo in una nuova direzione.
+"E questo mi ricorda per cosa sono venuto," esclamò. "Enoch Oates,
+il tuo amico americano, trascina la religione nella politica alla grande; solo che è
+una religione piuttosto all'americana. Sta parlando di un'Unione delle
+Nazioni Europee e vuole presentarvi un [[Prophet|profeta]] lituano.
+Sembra che questo partito lituano abbia dato inizio a un movimento per una
+Repubblica Universale dei Contadini o Stato Mondiale degli Operai della Terra;
+ma al momento non è arrivato oltre la Lituania. Ma sembra
+propenso ad aggiungere l'Inghilterra lungo il cammino, dopo l'inatteso [[success|successo]]
+del partito agrario inglese."
+
+«A che serve parlarmi di uno Stato Mondiale», brontolò Hood.
+«Non ho forse detto che preferivo un'Eptarchia?»
+
+"Non capite?" interruppe Hilary Pierce con entusiasmo.
+"Cosa c'entriamo noi con le repubbliche internazionali?
+Possiamo sconvolgere l'Inghilterra se ci piace; ma è l'Inghilterra
+che ci piace, in qualsiasi modo sia.  Perché, i nostri stessi nomi e frasi,
+le stesse scommesse e battute con cui tutto è cominciato,
+non saranno mai tradotti.  Ci vuole un Inglese per mangiarsi il cappello;
+non ho mai sentito di uno Spagnolo che minacci di mangiarsi il suo sombrero,
+o di un Cinese che si morda la treccia.  Potete solo mettere
+sul [[Fire|fuoco]] il Tamigi; non potete mettere sul [[Fire|fuoco]]
+il Tevere o il Gange, perché l'abitudine del parlare non è mai stata sentita.
+A che serve parlare di elefanti bianchi in paesi
+dove sono solo elefanti bianchi?  Andate a dire a un Francese,
+‘Pour mon chateau, je le trouve un elephant blanc'
+e lui manderà due alienisti parigini a guardarvi seriamente,
+come uno che dice che la sua automobile è una giraffa verde.
+Non ha senso dire ai maiali cecoslovacchi di volare,
+o alle mucche jugoslave di saltare sulla [[Moon|luna]].  Perché, il povero
+lituano sarebbe disorientato fino alla [[Madness|mattia]] dal nostro
+stesso nome.  Non c'è ragione di supporre che lui e i suoi
+concittadini parlino di un arciere quando intendono un bugiardo.
+Parliamo di storie esagerate, ma una storia esagerata può voler dire una storia vera in lituano colloquiale."
+
+«Le storie stravaganti sono talvolta vere, [[Hope|spero]]», disse il colonnello Crane,
+«e la gente non ci crede. Ma la gente dirà che quella dei grandi alberi che lanciano dardi e pietre è una storia davvero incredibile.
+Temo che finirà per diventare un po' uno scherzo».
+
+"Tutte le nostre battaglie sono cominciate come scherzi e finiranno come scherzi",
+disse Owen Hood, fissando il fumo del suo sigaro mentre si snodava verso il cielo in arabeschi grigi e argentati. "Rimarranno solo come leggende vagamente ridicole, se rimarranno; potranno passare un'ora o due o riempire una pagina vuota; e anche l'uomo che le racconta non le prenderà sul serio. Tutto finirà in fumo come il fumo che sto guardando; in vortici e disegni sottosopra che fluttuano per un momento nell'aria. E [[Wonder|mi chiedo]] quanti, che forse sorridono o sbadigliano ascoltandole, si renderanno conto che dove c'è fumo c'è [[Fire|fuoco]]."
+
+Ci fu un [[Silence|silenzio]]; poi il colonnello Crane si alzò, figura solitaria nei suoi abiti severi e formali, e salutò gravemente la padrona di casa.
+Con la luce del pomeriggio che declinava sapeva che sua moglie,
+che era una [[Artist|artista]] [[Well|nota]], avrebbe abbandonato il suo lavoro in studio
+e lui sempre attendeva con impazienza un discorso con lei prima di cena,
+che spesso era una funzione più sociale.  Tuttavia, mentre si
+avvicinava alla sua vecchia [[Home|casa]] un capriccio lo indusse a ritardare l'incontro
+di qualche minuto e a fare il giro del suo vecchio orto,
+dove il suo vecchio servitore Archer era ancora appoggiato su una vanga,
+come ai giorni prima del Diluvio.
+
+Così rimase per un momento in mezzo a un mondo che cambiava, esattamente come era rimasto quella lontana mattina di [[Sunday|domenica]] all'inizio di tutte queste cose. L'idolo del Mare del Sud stava ancora all'angolo; il fantoccio indossava ancora il cappello che lui aveva sacrificato; i cavoli sembravano ancora verdi e solidi come il cavolo che una volta aveva dissotterrato, portando alla luce così tante altre cose insieme a esso.
 
 
 

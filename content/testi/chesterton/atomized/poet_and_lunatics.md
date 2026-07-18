@@ -8688,7 +8688,7 @@ Sapete qualcosa su questo professore russo?"
 Nei vecchi tempi è evaso da una [[Prison|prigione]] siberiana facendo saltare il muro con una bomba di sua costruzione; è una storia davvero emozionante, e deve essere almeno un uomo di [[Courage|coraggio]].
 Ha scritto un grande libro intitolato _La psicologia della libertà_, credo;
 e Laura è molto entusiasta delle sue idee. È una cosa piuttosto indescrivibile in generale; lei e io ci vogliamo molto bene, e non penso che mi scambi per uno [[Fool|stupido]], e non penso di essere uno [[Fool|stupido]].
-Ma ogni volta che ci siamo incontrati ultimamente è stato letteralmente come un incontro su una strada maestra, quando due persone vanno in direzioni opposte.
+Ma ogni volta che ci siamo incontrati ultimamente è stato letteralmente come un incontro su una [[Road|strada]] maestra, quando due persone vanno in direzioni opposte.
 E credo di sapere cosa sia; lei va sempre verso l'esterno, e io vado sempre verso l'interno. Più vedo il mondo, più uomini incontro o libri leggo o domande rispondo, più torno con convinzione rinnovata a quei luoghi dove sono nato o ho giocato da bambino, restringendo i miei cerchi come un uccello che torna al suo nido.
 Questo mi sembra il fine di tutti i viaggi, e specialmente del più ampio dei viaggi... [[Home|tornare a casa]]. Ma lei ha un'altra idea in mente.
 Non è solo che dice che quella vecchia [[house|casa]] di mattoni marroni è come una [[Prison|prigione]], o che le colline sono come mura che la chiudono; ammetto che le cose possano diventare piuttosto noiose in un posto del genere. C'è anche una teoria, credo presa dal suo amico psicologo.

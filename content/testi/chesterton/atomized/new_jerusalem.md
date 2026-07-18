@@ -15451,7 +15451,7 @@ I Francescani non hanno osato essere riverenti; hanno solo osato essere allegri.
 
 Immediatamente sopra questo piccolo [[Garden|giardino]], che ombreggia e quasi sovrasta, si erge un sontuoso edificio dorato con cupole dorate e minareti che scintillano al sole, riempiendo una posizione splendida con uno sfarzo quasi sfrontato; è la chiesa russa costruita sopra la parte superiore del [[Garden|giardino]], appartenente ai Greci Ortodossi. Anche qui molti viaggiatori occidentali saranno turbati e penseranno che quell'edificio dorato assomigli troppo a un palazzo delle fate in una pantomima. Ma anche qui io divergerò da loro, sebbene forse meno energicamente. Potrebbe essere che il piacere sia più infantile che infantile; ma posso immaginare un [[Child|bambino]] che batte le mani alla semplice vista di quelle grandi cupole simili a bolle d'oro contro il cielo blu. È un po' come il Palazzo di Aladino, ma ha un posto nell'arte così come Aladino ha un posto nella letteratura; specialmente perché è letteratura orientale. Quei saggi missionari in Cina che non avevano paura di raffigurare i Dodici Apostoli nel costume dei cinesi avrebbero potuto costruire una tale chiesa in una terra di moschee scintillanti. E poiché si dice che il russo abbia in sé qualcosa del [[Child|bambino]] e qualcosa dell'orientale, uno stile del genere può essere del tutto sincero e avere persino una certa semplicità nella sua splendidezza. È genuino nel suo genere; è stato costruito per coloro che lo apprezzano; e coloro che non lo apprezzano possono guardare altrove. Questo tipo di cosa può essere chiamato volgare, ma non è ciò che io chiamo mercenario. Ciò che io chiamo veramente mercenario si trova ancora più in alto sulla [[Hill|collina]]; svettante verso il cielo e dominando tutte le valli.
 
-La natura della differenza, credo, merita di essere notata.
+La [[Nature|natura]] della differenza, credo, merita di essere notata.
 L'Ospizio Tedesco, che serviva come una sorta di palazzo per l'
 Imperatore Tedesco, è un edificio molto grande con una torre molto alta,
 progettato, credo, con grande efficienza, solidità e comfort,
@@ -17992,6 +17992,94 @@ many of them [[Hope|hope]] to make their ancient wilderness blossom like the [[R
 They at least would still stand among the great prophets of Israel,
 and none the less though they prophesied in vain.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In breve la [[Fear|paura]] degli ebrei in Palestina, ragionevole o irragionevole,
+è una cosa che deve essere risolta con la ragione. È inutile per chi è impopolare
+rispondere vantandosi, specialmente vantandosi proprio della qualità
+che lo rende impopolare. Ma credo che si possa risolvere con la ragione,
+o almeno metterla alla prova con la ragione; e i test valutarli con attenzione.
+Il principio è ancora quello sopra esposto: i test non devono
+insistere semplicemente sulle virtù che gli ebrei dimostrano, ma piuttosto
+affrontare le particolari virtù di cui generalmente si accusa loro
+di non dare prova. È necessario capirlo più a fondo
+di quanto sia generalmente compreso, e specialmente meglio di come
+venga solitamente espresso nel linguaggio della controversia alla moda.
+Perché la questione coinvolge l'intero [[success|successo]] o fallimento del sionismo.
+Molti dei sionisti lo sanno; ma io piuttosto [[Doubt|dubito]] che molti degli
+anti-sionisti sappiano che loro lo sanno. E alcune delle frasi
+dei sionisti, come quelle che ho notato, troppo spesso tendono
+a produrre l'impressione di ignorare quando non sono ignoranti.
+Non sono ignoranti; e nella pratica non ignorano;
+anche quando un'abitudine intellettuale li fa sembrare teoricamente ignari.
+Chiunque abbia visto un insediamento rurale ebraico, come Rishon,
+non può [[Doubt|dubitare]] che alcuni ebrei siano sinceramente pervasi dalla visione
+di sedere sotto la propria vite e fico, e anche della lezione che ne consegue:
+che è prima necessario far crescere il fico e la vite.
+
+La vera prova del sionismo può sembrare una prova al contrario.
+Non avrà successo per il numero di successi, ma piuttosto
+per il numero degli insuccessi, o per quello che il mondo (e certamente
+non da ultimo il mondo ebraico) ha generalmente chiamato insuccessi.
+Sarà messa alla prova non dal fatto che gli Ebrei possano scalare la cima
+della scala, ma dal fatto che gli Ebrei possano rimanere in [[Bottom|fondo]];
+non dal fatto che abbiano cento modi di diventare importanti,
+ma dal fatto che abbiano qualche abilità nell'arte di rimanere insignificanti.
+Si nota spesso che l'Ebreo intelligente può salire a posizioni
+di potere e fiducia al di fuori d'Israele, come Witte in [[Russia]] o Rufus Isaacs
+in Inghilterra.  Penso sia generalmente negativo per il loro paese adottivo;
+ma comunque non è positivo per il problema particolare del
+loro paese. La Palestina non può avere una popolazione di Primi Ministri
+e Capi Giudici; e se coloro che governano e giudicano non sono Ebrei,
+allora non abbiamo istituito un commonwealth ma solo un'oligarchia.
+Si dice ancora che gli antichi Ebrei trasformassero i loro nemici
+in taglialegna e attingitori di [[Water|acqua]].  Gli Ebrei moderni devono
+trasformarsi in taglialegna e attingitori di [[Water|acqua]]. Se non possono farlo,
+non possono trasformarsi in cittadini, ma solo in una specie di burocrati stranieri, la più pericolosa
+e la più minacciata di tutte.  Dunque uno stato ebraico non sarà un [[success|successo]]
+quando gli Ebrei saranno di successo, o anche quando gli Ebrei saranno uomini di Stato.
+Sarà un [[success|successo]] quando gli Ebrei saranno spazzini, quando gli Ebrei saranno spazzacamini,
+quando saranno scaricatori e scavatori di fosse e facchini e manovali. Quando lo sionista potrà indicare con orgoglio un operaio ebreo che _non_ è
+salito nel mondo, un giardiniere subalterno che non si sta ora godendo la vita
+come giardiniere capo, uno zotico che è ancora uno zotico, o anche un
+idiota del villaggio abbastanza idiota da rimanere nel suo villaggio,
+allora sì il mondo verrà a suonare le trombe e sollevare
+le teste delle porte eterne; perché Dio avrà fatto cessare
+la cattività di Sion.
+
+Gli sionisti di cui sono personalmente convinto della sincerità,
+e dell'intelligenza dei quali chiunque sarebbe convinto, mi hanno detto
+che ci sono davvero luoghi come Rishon dove si vede qualcosa che assomiglia a
+un principio di questo spirito: l'[[Love|amore]] del contadino per la sua terra.
+Una signora, anche nel manifestare la propria convinzione in proposito, lo ha definito "questo carattere così poco ebraico". Era perfettamente [[Well|bene]] consapevole sia della necessità di questo sentimento nella terra ebraica che della sua mancanza nella razza ebrea. In breve era [[Well|bene]] consapevole della [[Truth|verità]] di quel test apparentemente capovolto
+che ho suggerito; quello cioè se gli uomini sono degni di essere servi.
+Quando un ebreo umoristico ed umano accetta così il test, e si aspetta onestamente che il popolo ebraico lo superi, allora ritengo che la pretesa
+sia davvero molto seria, e non da mettere facilmente da parte.
+Penso infatti che sia una responsabilità molto grave sotto le
+circostanze scartarla del tutto. Il nostro unico rimprovero
+contro l'ebreo è che egli non coltiva la terra né lavora con la vanga;
+è davvero duro rifiutargli qualcosa se dice veramente: "Datemi
+una terra e io la coltiverò; datemi una vanga e io la userò."
+Il nostro unico motivo per diffidare di lui è che non può realmente [[Love|amare]]
+nessuna delle terre in cui si aggira; sembra piuttosto indefendibile essere
+sordi a lui se dice veramente: "Datemi una terra e io la [[Love|amerò]]."
+Gli darei certamente una terra o qualche parte della terra,
+(in quale senso generale cercherò di suggerire più avanti) purché
+il suo comportamento su di essa fosse osservato e messo alla prova secondo i principi
+che ho proposto. Se chiede la vanga deve usare la vanga,
+e non semplicemente impiegare la vanga, nel senso di assumere mezza dozzina
+di uomini per usarla. Se chiede la terra deve coltivare la terra;
+cioè deve appartenere alla terra e non semplicemente far sì che la terra
+gli appartenga. Deve avere la semplicità, e quello che molti chiamano
+la stupidità del contadino. Non solo deve chiamare una vanga
+vanga, ma considerarla come tale e non come un'occasione di guadagno.
+Per una vera [[conversion|conversione]] l'uomo urbano e moderno deve essere non
+solo sulla terra, ma della terra, e libero dal nostro trucco urbano
+di inventare la parola sporco per la [[Dust|polvere]] a cui torneremo.
+Deve lavarsi nel fango, perché possa essere pulito.
+
+Quanto tutto ciò possa realmente accadere è molto difficile da scoprire per chiunque, specialmente per un visitatore occasionale, nella presente crisi. Si ammette che ci sia molta manodopera araba e siriana impiegata; e questo di per sé lascerebbe in essere tutto il pericolo dell'ebreo come mero capitalista. Gli ebrei spiegano ciò dicendo tuttavia che gli arabi lavorano per uno stipendio più basso, e che ciò è necessariamente una grande [[Temptation|tentazione]] per i coloni in difficoltà. In questo possono agire naturalmente come coloni, ma non è meno chiaro che non stanno ancora agendo letteralmente come operai. Potrebbe non essere colpa loro se non si dimostrano contadini; ma non è meno chiaro che questa situazione di per sé non li dimostra contadini. Per quanto riguarda ciò, resta ancora da decidere definitivamente se un ebreo sarà un lavoratore agricolo, se è un lavoratore agricolo decentemente pagato. D'altra parte, i leader di questi esperimenti locali, se non hanno ancora mostrato il materialismo superiore dei contadini, non mostrano certamente il materialismo inferiore dei capitalisti. Non ci può essere [[Doubt|dubbio]] dello spirito patriottico e persino poetico con cui molti di loro [[Hope|sperano]] di far fiorire la loro antica terra desolata come la [[Rose|rosa]]. Essi almeno starebbero ancora tra i grandi profeti d'Israele, e non meno sebbene abbiano profetizzato invano.
 
 
 

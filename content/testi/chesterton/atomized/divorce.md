@@ -3236,6 +3236,87 @@ The expression as applied to those dealing with changing crowds
 of children is a graceful and legitimate flourish of speech.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+V
+
+LA STORIA DELLA FAMIGLIA
+
+L'istituzione più antica dell'uomo ha un'autorità che può sembrare selvaggia quanto l'anarchia.
+[[Alone|Essa sola]] tra tutte le istituzioni del genere inizia con una spontanea attrazione; e si può dire, strettamente e non sentimentalmente,
+che sia fondata sull'[[Love|amore]] anziché sulla [[Fear|paura]]. Il tentativo di paragonarla alle istituzioni coercitive che complicano la
+successiva [[history|storia]] ha portato a infinite illogicità nei tempi successivi. È unica quanto universale.
+Non c'è nulla in nessun'altra relazione sociale che sia anche solo lontanamente paragonabile all'attrazione reciproca dei sessi.
+Per aver trascurato questo semplice punto, il mondo moderno è caduto
+in cento follie. L'idea di una rivolta generale delle donne contro gli uomini è stata proclamata con bandiere e processioni,
+come se fosse la rivolta dei vassalli contro i loro signori, degli schiavi africani contro chi li sfrutta,
+dei polacchi contro i prussiani o degli irlandesi contro gli inglesi;
+come se davvero credessimo nella favolosa nazione delle Amazzoni. L'idea altrettanto filosofica di una rivolta generale
+degli uomini contro le donne è stata messa in un [[Romance|romanzo]] da Sir Walter Besant, e in un libro sociologico dal signor Belfort Bax.
+Ma al primo contatto con questa [[Truth|verità]] di un'attrazione primordiale,
+tutti questi paragoni crollano e si vede che sono comici. Un prussiano non sente fin dall'inizio
+che può essere felice solo se trascorre i suoi giorni e le sue notti con un polacco.
+Un inglese non pensa che la sua [[house|casa]] sia vuota e desolata a meno che non contenga per caso un irlandese. Un bianco
+non sogna nella sua giovinezza romantica la perfetta [[Beauty|bellezza]] di un nero.
+Un magnate delle ferrovie raramente scrive [[Poems|poesie]] sulla personale fascinazione di un facchino. Tutte le altre rivolte
+contro tutte le altre relazioni sono ragionevoli e persino inevitabili, perché quelle relazioni si fondano originariamente solo su forza o [[Self|interesse]] personale.
+La forza può abolire ciò che la forza ha stabilito; l'[[Self|interesse]] personale
+può terminare un contratto quando è stato dettato dall'[[Self|interesse]] personale. Ma l'[[Love|amore]] tra uomo e donna non è un istituto che può essere abolito,
+né un contratto che può essere terminato. È qualcosa di più antico di tutti gli
+istituti o i contratti, e qualcosa che li sopravviverà sicuramente.
+Tutte le altre rivolte sono reali, perché rimane la possibilità che le cose possano essere distrutte,
+o almeno divise. Puoi abolire i capitalisti; ma non puoi abolire gli uomini.
+I prussiani possono uscire dalla Polonia o i negri possono essere rimpatriati in Africa;
+ma un uomo e una donna devono rimanere insieme in un modo o nell'altro;
+e devono imparare a sopportarsi in qualche modo.
+
+Queste sono [[Truth|verità]] molto semplici; ecco perché oggi nessuno sembra prestarvi alcuna particolare attenzione; e la [[Truth|verità]] che segue è altrettanto ovvia. Non c'è disputa sullo scopo della [[Nature|Natura]] nel creare una tale attrazione.
+Sarebbe più intelligente chiamarla lo scopo di Dio;
+perché la [[Nature|Natura]] non può avere uno scopo a meno che Dio non sia dietro di essa.
+Parlare dello scopo della [[Nature|Natura]] è fare un tentativo vano per evitare
+di essere antropomorfi, limitandosi ad essere femministi. È credere
+in una dea perché si è troppo scettici per credere in un dio.
+Ma questa è una controversia che può essere tenuta separata dalla questione,
+se ci accontentiamo di dire che il valore vitale alla fine
+trovato in questa attrazione è, naturalmente, il rinnovamento della razza stessa.
+Il [[Child|bambino]] è la spiegazione del padre e della madre e il fatto
+che sia un [[Child|bambino]] umano è la spiegazione dei legami umani antichi che collegano il padre e la madre. Più il [[Child|bambino]] è umano, cioè meno bestiale,
+più i legami sono legittimi e duraturi.
+Lungi dallo sciogliere il vincolo, qualsiasi progresso nella cultura o nelle scienze tende logicamente ad allentarlo.
+Più cose ci sono da imparare per il [[Child|bambino]], più a lungo deve
+rimanere alla scuola naturale per apprenderle; e più a lungo i suoi
+insegnanti devono almeno rimandare la dissoluzione della loro partnership.
+Questa verità elementare è oggi nascosta in enormi masse di lavoro vicario,
+indiretto e artificiale, con la fallacia fondamentale di cui mi occuperò tra un momento. Qui parlo della posizione primaria
+del gruppo umano, come si è mantenuta attraverso età inimmaginabili di civiltà nascenti ed evanescenti; spesso incapace di delegare alcun lavoro,
+sempre incapace di delegarne tutto. In questo, lo ripeto, sarà sempre
+necessario che i due insegnanti rimangano insieme, in proporzione
+a ciò che hanno da insegnare. Uno dei mostri informi del mare,
+che si stacca semplicemente dalla sua prole e galleggia via,
+potrebbe allontanarsi verso un tribunale [[divorce|divorzista]] sottomarino, o un club avanzato
+fondato sul libero [[Love|amore]] per i pesci. La bestia marina potrebbe farlo,
+proprio perché la prole della bestia marina non ha bisogno di fare nulla;
+perché non deve imparare la polca o la tabella pitagorica.
+Tutte queste sono verità banali ma sono anche verità, e verità che
+torneranno; perché l'attuale groviglio di sostituti semi-ufficiali è
+non solo una soluzione temporanea, ma una che non è abbastanza grande da colmare il vuoto.
+Se le persone non possono occuparsi dei propri affari, non può essere possibile
+renderlo economico pagare loro per occuparsi degli affari altrui;
+e ancor meno per prendersi cura dei bambini altrui. È semplicemente buttare via una forza naturale e poi pagare per una forza artificiale;
+come se un uomo annaffiasse una pianta con un tubo mentre tiene sollevato
+un ombrello per proteggerla dalla pioggia. Tutto si basa realmente
+su un'illusione plutocratica di un approvvigionamento infinito di servi.
+Quando proponiamo qualsiasi altro sistema come "carriera per le donne", stiamo in realtà
+proponendo che un numero infinito di loro diventi servitori,
+di tipo plutocratico o burocratico. In definitiva, stiamo sostenendo
+che una donna non dovrebbe essere madre del proprio bambino, ma tata
+del bambino di qualcun altro. Ma non funzionerà, nemmeno sulla carta.
+Non possiamo tutti vivere lavando i panni gli uni degli altri,
+specialmente sotto forma di grembiuli. In ultima analisi,
+le uniche persone che possono o vogliono dare cure individuali
+a ciascuno dei bambini sono i loro genitori. L'espressione applicata a coloro che si occupano di folle mutevoli
+di bambini è un tocco elegante e legittimo del discorso.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="The Superstition of Divorce — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>

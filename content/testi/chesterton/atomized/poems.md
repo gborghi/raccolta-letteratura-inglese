@@ -4674,19 +4674,19 @@ UNA PAROLA
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RICONCILIAZIONE DEL CRISTIANESIMO: UNA ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
-LA TERRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
 
-IL NUOVO LIBERO PENSIATORE  
+IL NUOVO LIBERO PENSATORE  
 
-IN MEMORIA DI P.D.  
+IN MEMORIAM P.D.  
 
-[[Sonnet|SONETTO]] CON I COMPLIMENTI DELLA STAGIONE  
+[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
 UN [[Song|CANTO]] DI SPADE
 
@@ -4694,13 +4694,13 @@ UN [[Song|CANTO]] DI SCONFITTA
 
 [[Sonnet|SONETTO]]  
 
-L'AFRICA  
+AFRICA  
 
-IL GUERRIERO MORTO [[Hero|EROE]]  
+Il MORTO [[Hero|EROE]]  
 
 UN'ECO ELETTORALE  
 
-LA [[Song|CANZONE]] DELLE RUOTE  
+IL [[Song|CANTO]] DELLE RUOTE  
 
 IL POPOLO SEGRETO  
 
@@ -6914,355 +6914,355 @@ Il dardo del cuneo penetrò in essa, il gemito dei carri di legname,
 
 il risuonare dei chiodi ribaditi, lo stridere dei pialli;  
 
-Il martellare sui tetti al mattino, il fragore dell'officina attiva;  
+Il martellare sui tetti al mattino, il fragore operoso dell'officina;  
 
-Il sibilo delle trucioli si disperdeva lontano lungo il pavimento ventoso;  
+Il sibilo dei trucioli ammucchiati fondi sul pavimento ventoso;  
 
-Il canto mormorato del lavoratore abbronzato dal calore, il ronzio del valore umano...  
+Il sommesso [[Song|canto]] del lavoratore brunito dal fuoco, il ronzio dell'umano valore--  
 
-Tra tutto il frastuono dei mestieri risuonò la parola sonora.  
+Mescolata a tutto il rumore dei mestieri, la parola squillante andò innanzi.  
 
-Il fruscio delle reti si fondeva con esso, il grattare della sabbia e dei gusci,  
+Il tonfo delle reti vi passò dentro, lo stridere di sabbia e conchiglia,  
 
-Il cozzare dell’amo della barca, lo scricchiolio dei remi, le grida di comprare e vendere,  
+Il cozzo del gancio da barca, l'urto dei remi, le grida del comprare e vendere,  
 
-Il frullio delle banchine che si staccano dalla terra, la tela che crepita liberamente,  
+Il guizzare dei banchi tratti a riva, la tela che crepita libera,  
 
-E attraverso tutte le varie note e grida, il ruggito del mare,  
+E fra tutte le varie note e grida, il ruggito del mare,  
 
-Il rumore di vite piccole e coraggiose, di vite bisognose ed elevate;  
+Il rumore di vite piccole e prodi, di vite bisognose e alte;  
 
-Nel raccogliere tutti i travagli della terra, la parola vivente passò oltre.  
+Raccogliendo tutti i travagli della terra, la parola viva passò.  
 
-I giganteschi peccati della Terra si inchinarono davanti ad essa, nell'immensa eclissi dell'Impero,  
+I giganteschi peccati della terra le si piegarono, nell'immensa eclissi dell'Impero,  
 
-Quando l'oscurità si posò sopra i troni, con sette tuoni sulle sue labbra,  
+Quando la tenebra sedeva sopra i troni, sette tuoni sulle labbra,  
 
-Entrò in essa la sciagura delle città, il fragore della caduta degli idoli,  
+Il dolore delle città vi entrò, il fragore degli idoli caduti,  
 
-Il grido dei Cesari immondi squarciava l'aria nelle loro sfacciate sale,  
+L'urlo dei Cesari immondi pugnalati in alto nelle sale di bronzo,  
 
-I cappucci opachi e rochi degli uomini nudi, il mondo che stringe la cintura,  
+Le fioche rauche Fiumane di uomini nudi, la cinghia dei regni del mondo che si spezza,  
 
-Le trombe dell'[[Apocalypse|Apocalisse]], le tenebre della terra:  
+Le trombe dell'[[Apocalypse]], la tenebra della terra:  
 
-La collera che infranse la lampada eterna e nascose l'eterna [[Hill|collina]],  
+L'ira che infranse la lampada eterna e nascose l'eterno [[Hill|colle]],  
 
-Mentre si preparava la distruzione del mondo, la parola continuò a diffondersi...  
+Carica della distruzione d'un mondo, la parola procedeva ancora--  
 
-La fiammata delle credenze vi si riversò dentro, il sibilo di orribili fuochi,  
+La vampa dei credi vi passò dentro, il sibilo di fuochi orrendi,  
 
-La lancia sfrenata, la [[Cross|croce]] scarlatta, la camicia di pelo e le spine,  
+La lancia a capofitto, la scarlatta [[Cross|croce]], il cilicio e i rovi,  
 
-Il fragoroso canto dei fratelli chiusi nel chiostro, la [[Song|canzone]] del campione errante,  
+Il canto tonante dei fratelli claustrali, il [[Song|canto]] del campione errante,  
 
-Il cambiamento delle corone e dei troni, l'ingarbugliarsi dei forti.  
+Il mutare di corone e troni, il groviglio dei forti.  
 
-La rovinosa caduta di cresta e [[Crown|corona]] e scudo e [[Cross|croce]] e copricapo,  
+Il crollo fragoroso di cimiero e [[Crown|corona]] e scudo e [[Cross|croce]] e piviale,  
 
-Lo strappo delle vistose frivolezze di [[Time|tempo]], la piaga del principe e del papa,  
+Lo strappo dei fronzoli del [[Time|tempo]], la rovina di principe e papa,  
 
-Il regno di milioni stracciati uniti per strappare un debito esoso,  
+Il regno di milioni cenciosi uniti a strappare un debito gravoso,  
 
-Forte con il ruggito dalle molte gole, la parola continuò ad avanzare.  
+Alta del ruggito di mille gole, la parola avanzava ancora.  
 
-La [[Song|canzone]] delle ruote si fondeva con esso, il ruggito e il fumo  
+Il [[Song|canto]] delle ruote vi passò dentro, il fragore e il fumo  
 
-Il [[Riddle|enigma]] del bisogno e dello stipendio, le nebbie che bruciano e soffocano.  
+L'[[Riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
 
-La rottura delle cinghie d'oro, i bisogni che strisciano e si gonfiano.  
+Lo spezzarsi delle cinghie d'oro, i bisogni che strisciano e gonfiano.  
 
-La speranza che rafforza, la luce abbagliante, il vangelo assordante, [[Hope|speranza]].  
+La [[Hope|speranza]] che rinvigorisce, la luce che abbaglia, l'evangelo assordante,  
 
-Attraverso regni morti e imperi dannati, attraverso cambiamenti senza fine,  
+Per regni morti e imperi dannati, per mutamenti senza posa,  
 
-Con terremoto e caos nacque e crebbe la [[Rose|rosa]]: e la parola fu “Pace”.  
+Con terremoto, caos, nata e nutrita, [[Rose|sorse]],--e la parola fu "Pace."  
 
 V  
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RICONCILIAZIONE DEL CRISTIANESIMO: UNA ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
-"UN PROGETTO DI LEGGE CHE HA SCOSSESSE LA [[Conscience|coscienza]] DELLA NOSTRA  
+"UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[Conscience|COSCIENZA]] DI  
 
-"OGNI COMUNITÀ CRISTIANA IN EUROPA". —  
+OGNI COMUNITÀ CRISTIANA D'EUROPA."--  
 
-_Sig. F.E. Smith_, SUL PROGETTO DI LEGGE PER LA SEPARAZIONE DEL GALLES.  
+_Mr. F.E. Smith_, SUL WELSH DISESTABLISHMENT BILL.  
 
-Stanno aggrappati alle loro croci?  
+Si aggrappano alle loro croci,  
 
 F.E. [[smith|Smith]],  
 
-Dove la flotta di barche bretoni si dondola,  
+Dove beccheggia la flotta bretone,  
 
-Sono loro, [[smith|Smith]]?  
+Lo fanno, [[smith|Smith]]?  
 
-Digiunano, camminano a piedi nudi, sanguinano,  
+Forse, digiunando, arrancando, sanguinando,  
 
-Aspettate le notizie da questa nostra [[City|città]]?  
+Attendono notizie da questa nostra [[City|città]]?  
 
-Gemendo «Questa è la seconda lettura!»  
+Gemendo "Ecco la Seconda Lettura!"  
 
-Sibilando «C'è ancora chi si impegna»  
+Sibilando "C'è ancora la Commissione"  
 
 Se la voce di Cecil vacilla,  
 
-Se l'argomento di McKenna ha senso,  
+Se l'argomento di McKenna ha midollo,  
 
 Tremano per i loro altari?  
 
 Lo fanno, [[smith|Smith]]?  
 
-I contadini russi circondano il loro papa  
+I contadini russi attorno al loro pope  
 
-Accovacciato, [[smith|Smith]],  
+Stretti, [[smith|Smith]],  
 
-Sentite parlare di tutto questo, io [[Hope|spero]].  
+Ne sanno tutto, io [[Hope|spero]],  
 
-Non è così, [[smith|Smith]]?  
+Non è vero, [[smith|Smith]]?  
 
-Nei villaggi di montagna gli abiti  
+Nei borghi montani che rivestono  
 
-Picchi oltre i confini del Caucaso,  
+Vette oltre le barriere caucasiche,  
 
-Dove l'Establishment non significa nulla  
+Dove Establishment non significa nulla  
 
-E non hanno mai sentito parlare del Galles,  
+E non hanno mai sentito nominare Wales,  
 
-Lo leggono tutto su Hansard?  
+Leggono tutto questo su Hansard  
 
-Con un presepe per leggerlo...  
+Con un sussidio per decifrarlo--  
 
-"Decime gallese: risposta del dottor [[Clifford]],"  
+"Decime Gallesi: Dr. [[Clifford]] Confutato,"  
 
 Davvero, [[smith|Smith]]?  
 
-Nelle terre dove vivevano i cristiani,  
+Nelle terre dove i cristiani furono,  
 
 F.E. [[smith|Smith]],  
 
-Nelle piccole terre scoperte,  
+Nelle piccole terre spogliate,  
 
-[[smith|Smith]], o [[smith|Smith]]!  
+[[smith|Smith]], O [[smith|Smith]]!  
 
-Dove le bande turche sono all'opera,  
+Dove le bande turche s'affaccendano,  
 
-E il nome dei Tories è benedetto  
+E il nome Tory è benedetto  
 
-Da quando acclamarono la [[Cross|croce]] di Dizzy  
+Da quando salutarono la [[Cross]] di Dizzy  
 
-Sui vessilli dell'Occidente!  
+Sulle bandiere venute dall'Ovest!  
 
-Gli uomini non la ritengono nemmeno lontanamente così dura se  
+Gli uomini non la trovano poi tanto dura se  
 
-[[Islam]] brucia i loro parenti e amici,  
+L'[[Islam]] brucia i loro cari e congiunti,  
 
 Poiché un curato vive a Cardiff  
 
 Salvato da [[smith|Smith]].  
 
-Devo ammettere che sarebbe di grande aiuto,  
+Gran conforto, devo ammettere,  
 
-Consolami, [[smith|Smith]],  
+Mi daresti, [[smith|Smith]],  
 
-Se lasciassi questo tema [[Alone|da parte]],  
+Se questo tema lo lasciassi [[Alone|stare]],  
 
 Santo [[smith|Smith]]!  
 
-Per la vostra causa legale o civile  
+Per la tua causa legale o civile  
 
-Combattete [[Well|bene]] e ricevete la vostra paga;  
+Combatti [[Well|bene]] e prendi la parcella;  
 
 Per il tuo Dio o sogno o diavolo  
 
-Risponderete, ma non a me.  
+Risponderai, ma non a me.  
 
-Parlate delle panche e dei campanili  
+Parla pure di banchi e campanili  
 
-E il denaro che ne consegue!  
+E del Denaro che vi va appresso!  
 
-Ma le anime dei popoli cristiani...  
+Ma le anime dei popoli cristiani....  
 
---Butta via tutto, [[smith|Smith]]!  
+--Piantala, [[smith|Smith]]!  
 
-IL RIBELLE: O VERSI PER UN UOMO DI STATO  
+IL RIVOLUZIONARIO: OVVERO VERSI A UN UOMO DI STATO  
 
-"NON SONO MAI STATO Fermo a guardare mentre avveniva una rivoluzione  
+"NON SONO MAI RIMASTO A GUARDARE MENTRE UNA RIVOLUZIONE  
 
-"STAVA ACCADENDO". -- _Discorso del Venerabile Walter_  
+ERA IN CORSO."--_Discorso del Rt. Hon. Walter  
 
-Lungo_  
+Long_.  
 
-Quando la [[Death|morte]] era sui tuoi tamburi, [[democracy|democrazia]],  
+Quando la [[Death]] era sui tuoi tamburi, [[democracy|Democrazia]],  
 
 E con un solo impeto di schiavi il mondo fu libero,  
 
-In quell'alta [[Dawn|alba]] che i Re non dimenticheranno mai,  
+In quell'alta [[Dawn|alba]] che i Re non scorderanno,  
 
-C'era un vuoto e Walter non era ancora nato.  
+V'era un vuoto e Walter ancora non era.  
 
-Attraverso la Versailles saccheggiata, a Valmy nella mischia,  
+Per Versailles saccheggiata, a Valmy nella mischia,  
 
-In qualche modo se la cavarono senza di lui;  
+Fecero senza di lui in qualche modo;  
 
-La Cristianità rossa attraversò tutto il territorio senza di lui [[Cross|croce]].  
+La rossa Cristianità tutta senza Walter [[Cross|attraversano]],  
 
-E nella loro furia a malapena sentono la perdita...  
+E nella loro furia appena avvertono la perdita....  
 
-La Repubblica svanisce; flebile come la tromba di Orlando,  
+Svanisce la Repubblica; fioca come il corno di Roland,  
 
-Le sue trombe ci scherniscono con un sacro disprezzo...  
+Le sue trombe ci scherniscono con sacro sdegno....  
 
-Poi cadde il [[Silence|silenzio]]; e nacque il signor Long.  
+Poi cadde il [[Silence|silenzio]]; e nacque Mr. Long.  
 
-Dalle prime ore nella sua costosa culla  
+Dalle sue prime ore nella costosa culla  
 
-Non vide mai abbattere il più minuscolo visconte.  
+Mai vide fucilare il più minuscolo visconte.  
 
-Per accontentare il capriccio dei suoi ricchi genitori  
+In ossequio al capriccio dei ricchi genitori  
 
-I massacri più selvaggi gli furono risparmiati.  
+I massacri più selvaggi gli furono celati.  
 
 Le guerre che tinsero di rosso Pall Mall e Brompton  
 
-Passò inoffensivo sopra quella testa inconsapevole:  
+Passarono innocue su quell'unica testa ignara:  
 
-Per tutto ciò che il piccolo Long poteva capire  
+Per quanto il piccolo Long potesse capire  
 
-I ricchi potrebbero ancora essere i governanti della terra.  
+I ricchi potevano ancora reggere il paese.  
 
-Invano le pie arti della genitorialità,  
+Vane sono le pie arti dei genitori,  
 
-La Rivoluzione fallita gli ribolliva nel [[Blood|sangue]];  
+La Rivoluzione frustrata gli ribolliva nel [[Blood|sangue]];  
 
-Fino al giorno (il bambino [[unborn|non nato]] se ne pentirà)  
+Finché un giorno (il bimbo [[unborn]] lo piangerà)  
 
-La Costituzione lo annoiava e lui la uccise.  
+La Costituzione lo annoiò ed egli la uccise.  
 
-Se fossi saggio e buono e ricco e forte —  
+Fossi io saggio e buono e ricco e forte--  
 
-Pensiero affettuoso e irriverente, se fossi Walter Long...  
+Folle, empio pensiero, fossi io Walter Long--  
 
-Se potessi vendere l'[[Water|acqua]] come oro fuso,  
+Potessi l'[[Water|acqua]] vendere come oro fuso,  
 
-E fai che gli adulti facciano come si dice loro di fare,  
+E far fare agli adulti ciò che si comanda,  
 
-Se sopra campi privati e distese così vaste  
+Se su campi privati e lande vaste  
 
-Come una [[City|città]] greca per la quale morirono degli eroi,  
+Quanto una [[City|città]] greca per cui morirono eroi,  
 
-Ero il proprietario delle case e degli uomini che vi abitavano...  
+Possedessi le case e gli uomini dentro--  
 
 Se tutto ciò pendesse da un sottile filo d'abitudine  
 
-Non rivoluzionerei un coniglio.  
+Non rivoluzionerei nemmeno un coniglio.  
 
-Mi terrei stretti tutti i miei doni e le mie glorie,  
+Me ne starei ben saldo con tutti i miei doni e glorie,  
 
-E anche predicare ai tory non convertiti,  
+E predicherei perfino ai Tory non convertiti,  
 
 Che il sistema fisso che la nostra terra eredita,  
 
 Visto da un certo punto di vista, ha i suoi meriti.  
 
-Io difenderei le leggi come un qualsiasi radicale,  
+Custodirei le leggi come un qualunque Radicale,  
 
-E conservate ogni precedente, per quanto piccolo,  
+E serberei ogni precedente, per quanto piccolo,  
 
-Per quanto sottili, nebbiosi, polverosi, onirici,  
+Per quanto sottile, nebbioso, polveroso, sognante,  
 
-Per evitare che qualcuno possa per caso guardarmi e vedermi;  
+Che l'uomo per caso non mi guardi e mi veda;  
 
-Perché gli uomini non chiedano quale pazzo mi abbia fatto signore  
+Che gli uomini non chiedano quale folle mi fece signore  
 
-Di aratri inglesi e della [[Sword|spada]] inglese;  
+Dei vomeri inglesi e della [[Sword|spada]] inglese;  
 
-Perché gli uomini non si accorgano di quanto sia sonnolento il cenno del capo  
+Che gli uomini non notino quanto sonnolento è il cenno  
 
-Che perfora le terribili immagini di Dio!  
+Che addestra le tremende immagini di Dio!  
 
-Walter, sii saggio! evita ciò che è selvaggio e nuovo,  
+Walter, sii saggio! evita il selvaggio e il nuovo,  
 
-La Costituzione è il gioco per voi.  
+La Costituzione è il gioco che fa per te.  
 
-Vattene, Valter, e bada! Non disprezzare la folla che si raduna  
+Walter, bada! non sprezzare la folla che si aduna  
 
-Soffre, eppure non può soffrire un torto,  
+Essa soffre, ma non può patire il torto,  
 
-Soffre, eppure non può soffrire a lungo.  
+Essa soffre, ma non può soffrire Long.  
 
-E se lo spingi a infrangere queste grigie regole,  
+E se la sproni a infrangere queste grigie regole,  
 
-Per pochi spiccioli assicuratevi di non svegliarvi  
+Per pochi spiccioli, bada a non destare  
 
-[[Death|Morte]] e lo splendore del cappello scarlatto,  
+La [[Death]] e lo splendore del berretto scarlatto,  
 
-Boston e Valmy, Yorktown e Jemmapes,  
+Boston e Valmy, Yorktown e Jemmappes,  
 
-[[Freedom|Libertà]] armata, la cavalcata e la rotta,  
+La [[Freedom]] in armi, le cavalcate e le rotte,  
 
-Il tuono dei capitani e le grida,  
+Il tuono dei capitani e il clamore,  
 
-Tutto quel tumulto perduto che non hai condiviso — E  
+Tutto quel perduto tumulto che non condividesti--E  
 
-quando arriverà quella rivolta... ci sarai anche tu.  
+quando quel tumulto verrà--tu _ci_ sarai.  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
-Il Lord Lilac lo trovò piuttosto spregevole  
+Lord Lilac trovava alquanto indegno  
 
-Che Shakespeare sia del tutto  
+Che Shakespeare fosse del tutto  
 
-E per questo motivo entrò in un Comitato  
+E perciò entrò in un Comitato  
 
-Con diversi ragazzi fuori dalla [[City|città]].  
+Con parecchi tizi venuti dalla [[City|città]].  
 
 E Shorter e Sir Herbert Tree,  
 
-Il signor barone di Rothschild e il signor barone di Rosebery  
+Lord Rothschild e Lord Rosebery  
 
 E F.C.G. e Comyns Carr,  
 
-Due duchi e una stella drammatica,  
+Due duchi e una stella del teatro,  
 
-Anche un ecclesiastico ora defunto;  
+E anche un ecclesiastico ora defunto;  
 
-E mentre il vanitoso mondo correva incurante  
+E mentre il vano mondo correva noncurante  
 
-Ignorando il nome eroico —  
+Ignaro del nome eroico--  
 
-Le anime più nutrite dalla fiamma di Shakespeare  
+Le anime più nutrite della fiamma di Shakespeare  
 
-Ancora sedeva invitta in un cerchio,  
+Sedevano ancora invitte in cerchio,  
 
-Ricordandolo come se fosse qualcosa di straordinario.  
+Ricordandolo a più non posso.  
 
-Il Lord Lilac non rimase a lungo.  
+Lord Lilac non rimase a lungo.  
 
-Il Lord Lilac non tornò più.  
+Lord Lilac non tornò più.  
 
-Accese dolcemente una sigaretta  
+Accese piano una sigaretta  
 
-E cercò qualche altro gruppo sociale  
+E cercò qualche altro circolo mondano  
 
-Dove, in altri nodi o anelli,  
+Dove, in altri nodi o cerchie,  
 
 La gente faceva cose colte,  
 
---Il vivario umano della signorina Zwilt  
+--Il Vivarium Umanitario di Miss Zwilt  
 
-—Gli omini che dipingono sulla gomma  
+--Gli omini che dipingono su gomma  
 
---La squisita Ragazza Gorilla...  
+--La squisita Ragazza Gorilla....  
 
-A volte, in questo vortice vertiginoso  
+Egli talvolta, in questo vortice frivolo  
 
-(non essendo veramente malvagi nel profondo),  
+(Non essendo in fondo davvero cattivo),  
 
-Ricordò Shakespeare con un sussulto —  
+Ricordava Shakespeare con un sussulto--  
 
-Ma non con quella grande costanza  
+Ma non con quella gran costanza  
 
 Di Clement Shorter, Herbert Tree,  
 
@@ -7270,223 +7270,223 @@ Lord Rosebery e Comyns Carr
 
 E tutti gli altri nomi che ci sono;  
 
-Chi si aggrappò come le chiostrine al posto,  
+Che stavano attaccati al posto come patelle,  
 
-Perché non dimenticassero, perché non dimenticassero.  
+Per non scordare, per non scordare.  
 
-Il Lord Lilac era fatto di una pasta più leggera;  
+Lord Lilac era di stoffa più lieve;  
 
-Il Lord Lilac ne aveva avuto abbastanza.  
+Lord Lilac ne aveva avuto abbastanza.  
 
-LA TERRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
 
-[[Jones]] aveva un cane; il cane aveva una catena;  
+[[Jones]] aveva un cane; esso una catena;  
 
-Non indossato spesso, non causando [[Pain|dolore]];  
+Non spesso portata, senza dar [[Pain|pena]];  
 
-Ma poiché l'I.K.L. aveva approvato  
+Ma, poiché la I.K.L. aveva approvato  
 
-Il loro “Atto dei Cugini Scatenati” finalmente,  
+Il loro "Unleashed Cousins Act" finalmente,  
 
 Gli ispettori portarono via la catena;  
 
-Allora il cane abbaiò un “evviva”!  
+Al che il canide abbaiò "urrà"!  
 
-A questo punto, naturalmente, la S.P.U.  
+Al che, naturalmente, la S.P.U.  
 
-(Cui progetto di legge per gli automobilisti nervosi era stato approvato),  
+(Il cui Nervous Motorists' Bill era passato),  
 
-Fu costretto a affidare il cane alle cure di qualcun altro  
+Fu costretta a denunciare il cane  
 
-Per essere in libertà condizionata e rumorosa.  
+Per essere Udibilmente a Piede Libero.  
 
-Nessuno, direte voi, era ora irritato,  
+Nessuno, direte, era ormai molestato,  
 
-Salvo forse [[Jones]], il cortile era deserto.  
+Salvo forse [[Jones]]--il cortile era vuoto.  
 
-Ma c'era qualcosa nel contratto di locazione  
+Ma essendoci qualcosa nel contratto  
 
-Sui «segnali d'allarme per aiutare la polizia»,  
+Su "allarmi in aiuto alla polizia,"  
 
-L'U.S.U. annesse il cantiere navale  
+La U.S.U. annesse il cortile  
 
-Per non avere guardie sufficienti  
+Per mancanza di sufficienti guardie  
 
 Ora se c'è una condizione  
 
-I C.C.P. insistono molto sul  
+Su cui la C.C.P. è irremovibile  
 
-È che ogni [[house|casa]] si acquista  
+È che ogni [[house]] che si compra  
 
-Deve avere un cortile per l'esercizio fisico;  
+Deve avere un cortile per l'esercizio;  
 
-Così [[Jones]], come inquilino, era inadatto.  
+Così [[Jones]], come inquilino, era inidoneo.  
 
-Lo stato della sua salute ne era la prova.  
+Il suo stato di salute ne era la prova.  
 
-Due medici dell'Università Tecnologica di Texas  
+Due dottori della T.T.U.  
 
-Gli disse che le sue gambe erano deboli per il lungo disuso,  
+Gli dissero che le gambe per lungo disuso,  
 
-Erano atrofizzati; e dicendo «Così  
+Erano atrofizzate; e dicendo "Così  
 
-Dall'alto gradino al più alto saliamo  
+Di gradino in gradino più alto andiamo  
 
-Finché tutto sarà Nuovo e Vero»,  
+Finché tutto sia Nuovo e Vero,"  
 
 Gli tagliarono le gambe e si ritirarono.  
 
-Conoscete le opinioni della E.T.S.T.  
+Sapete che le vedute della E.T.S.T.  
 
-Sono più forti dei T.T.U.:  
+Sono più forti di quelle della T.T.U.:  
 
-E presto (come si suol dire) spiegò le ali  
+E presto (per così dire) presero il volo  
 
-Canto le Armi, non l’Uomo.  
+Le Braccia, benché non l'Uomo, io canto.  
 
 Vederlo seduto lì senza arti  
 
-Era più di quanto il K.K. potesse sopportare  
+Era più di quanto la K.K. potesse reggere  
 
-"Con [[Mercy|misericordia]] [[Silence|silenzio]] con tutta [[Speed|celerità]]  
+"Per [[Mercy|pietà]] [[Silence|zittite]] con ogni [[Speed|prontezza]]  
 
-Quella bocca non ha mani per nutrirla;  
+Quella bocca che non ha mani per nutrirla;  
 
 Quale crudele sentimentale,  
 
-O [[Jones]], ti condannerei all'esistenza...  
+O [[Jones]], ti condannerebbe a esistere--  
 
-Ancora aggrappati all'egoistico Sé?  
+Aggrappato ancora all'egoistica Individualità?  
 
-Debole! Un tale ragionamento potrebbe sconvolgere  
+Debole! Tale ragionare potrebbe rovesciare  
 
-La legge sulle pompe e l'accumulo  
+Il Pump Act, e l'accumulo  
 
 Di tutta la legislazione costruttiva;  
 
-Costruiamoci un po' di più...  
+Lascia che ti costruiamo un poco--"  
 
 La testa cadde quando fu colpita:  
 
-Allora le parole si alzarono e un onesto [[Doubt|dubbio]].  
+Allora sorsero parole e onesto [[Doubt|dubbio]],  
 
-E quattro Commissioni si riunirono intorno  
+E quattro Commissioni sedettero a discutere  
 
-Che fosse il fendente che lo lasciò morto  
+Se il fendente che lo lasciò morto  
 
-Tagliate via il suo [[Body|corpo]] o la sua testa.  
+Gli mozzò il [[Body|corpo]] o la testa.  
 
-Uno scrittore sull'Isola di Wight  
+Un autore nell'Isle of Wight  
 
-Osservato con evidente delizia  
+Osservò con non celato diletto  
 
 Una terra di antica e giusta fama  
 
-Dove la [[Freedom|Libertà]] si allargava lentamente  
+Dove la [[Freedom]] lenta si allargava  
 
-Da precedente a precedente...  
+Di Precedente in Precedente....  
 
 E questo, credo, era ciò che intendeva.  
 
-IL NUOVO LIBERO PENSIATORE  
+IL NUOVO LIBERO PENSATORE  
 
-Giovanni Sporco, che era basso e grassoccio  
+John Grubby, che era basso e tarchiato  
 
-E turbato dal [[Doubt|dubbio]] religioso,  
+E afflitto da [[Doubt|dubbio]] religioso,  
 
-Rifiutato all'età di circa tre anni  
+Rifiutò verso i tre anni  
 
-Sedersi sulle ginocchia del curato;  
+Di sedersi sul ginocchio del curato;  
 
-(Poiché così deve infuriare l'eterna contesa  
+(Ché così l'eterna contesa deve infuriare  
 
 Tra lo spirito del tempo  
 
-E il dogma, che, come è [[Well|noto]].  
+E il Dogma, che, com'è [[Well|ben]] noto.  
 
-Odiano semplicemente di essere superati).  
+Detesta semplicemente d'essere superato).  
 
 Grubby, la giovane idea che germoglia,  
 
-Ha superato le epoche come vecchie scarpe;  
+Superò le età come vecchi stivali;  
 
-Pur essendo ancora, a prima vista, piccolo,  
+Mentre ancora, a ogni apparenza, piccolo,  
 
-Non vorrebbe affatto miracoli;  
+Non volle Miracoli affatto;  
 
 E poco prima dei dieci anni  
 
-Rifiutò fermamente il libero arbitrio agli uomini.  
+Negò fermamente agli uomini il Libero Arbitrio.  
 
-Gli altari vacillarono, i pollai tremarono,  
+Gli altari vacillarono, i cieli tremarono,  
 
 Proprio come aveva letto nel libro;  
 
-Scagliato fuori dalla sua [[house|casa]], il giovane partì  
+Scagliato dalla sua [[house]] uscì il giovane  
 
-[[Alone|Solo]] con le tempeste e la [[Truth|Verità]],  
+[[Alone]] con le tempeste e la [[Truth]],  
 
-Fino alla lontana [[City|città]] e fioca  
+Su verso la lontana [[City|città]] e fosca  
 
-Dove suo papà gli aveva comprato  
+Dove il suo papà gli aveva comprato  
 
-Una società tra Chepe e Deer  
+Una partecipazione in Chepe and Deer  
 
-Vale, diciamo, milleduecento sterline l'anno.  
+Del valore, diciamo, di milleduecento sterline l'anno.  
 
 Ma era risoluto. Lord Brute  
 
-Lo aveva trovato utile; e il Lord Saccheggia,  
+Lo aveva trovato utile; e Lord Loot,  
 
-Con cui pochissimi altri uomini agirebbero,  
+Con cui pochi altri avrebbero trattato,  
 
-Apprezzava la sua prontezza e tatto;  
+Ne apprezzava prontezza e tatto;  
 
-Nemmeno la filantropia lo fece mai...  
+Mai nemmeno la filantropia  
 
-Arricchisci un uomo più rapidamente:  
+Arricchì un uomo più in fretta:  
 
-Fu lui a fermare lo sciopero del carbone,  
+Fu lui a fermare lo Sciopero del Carbone,  
 
-Poiché bambini affamati laceravano la sua [[Soul|anima]];  
+Ché i bimbi affamati gli straziavano l'[[Soul|anima]];  
 
-Per porre fine alla loro miseria lì e subito  
+Per finire la loro miseria lì e subito  
 
-Ha riempito le miniere di cinesi —  
+Riempì le miniere di cinesi--  
 
-Seduto in quella [[house|Casa]] che ha abbattuto i Re,  
+Sedette in quella [[house|Camera]] che spezzò i Re,  
 
-E votarono per tutte le sorti di cose --  
+E votò per ogni sorta di cose--  
 
-E le [[Rose|rose]] da Sottosegretario a Segretario.  
+E [[Rose|salì]] da Sotto-Segr. a Segr.  
 
-Alcuni brontolavano. Brontoloni che davano meno  
+Alcuni brontolarono. Ringhiosi che davano meno  
 
-Più generoso è il culto del [[success|successo]],  
+Che generoso culto al [[success]],  
 
-I piccoli stampatori di Dundee  
+I piccoli tipografi di Dundee  
 
-Chi ha preso dieci anni per bestemmia,  
+Che presero dieci anni per blasfemia,  
 
-(Abbia pure perdonato loro sette)  
+(Benché li abbia lasciati andare con sette)  
 
-Rispettatelo un po' meno del cielo.  
+Lo rispettano un po' meno del cielo.  
 
-Non importa. Questo ancora può essere detto:  
+Non importa. Questo si può ancora dire:  
 
-Mai al timore [[Supernatural|soprannaturale]],  
+Mai a [[Supernatural|soprannaturale]] terrore,  
 
-Mai a divinità invisibile,  
+Mai a deità invisibile,  
 
-Sir John Grubby si inchinò?  
+Piegò Sir John Grubby il ginocchio;  
 
-Non ho mai sognato l'inferno o la collera  
+Mai sogno d'inferno o d'ira  
 
-Distogliete il visconte Sporco dal suo cammino;  
+Distolse il Visconte Grubby dal suo cammino;  
 
-Né fu corrotto da una beatitudine leggendaria  
+Né fu corrotto da favolosa beatitudine  
 
-Inginocchiarsi a qualsiasi mondo tranne questo.  
+A inginocchiarsi ad altro mondo che questo.  
 
 Il curato vive a Camden Town,  
 
@@ -7496,113 +7496,113 @@ E ancora attraverso il deserto degli anni
 
 John Grubby, nella [[house|Camera]] dei Pari,  
 
-Volto che si prendono cura, fieri e liberi,  
+Affronta quel curato, fiero e libero,  
 
-E mai si siede sulle sue ginocchia.  
+E mai si siede sul suo ginocchio.  
 
-IN MEMORIA DI P.D.  
+IN MEMORIAM P.D.  
 
-NIZZA, 30 GENNAIO 1914.  
+NICE, 30 GENNAIO 1914.  
 
-Se qualcuno si è accoccolato nella culla di un'isola  
+Se alcuno, rannicchiato in una culla d'isola  
 
-Del conforto, possano farti offerte,  
+Di agi, può farti offerte,  
 
-Chi nel giorno di ogni negazione soffiò  
+Tu che nel giorno d'ogni diniego soffiasti  
 
-Un corno che squilla nell'oscurità del mondo,  
+Una tromba attraverso il buio del mondo,  
 
-Una mano inglese toccherebbe il tuo sudario, fiduciosa  
+Una mano inglese toccherebbe il tuo sudario, fidando  
 
-Che quella [[Truth|verità]] sia di nuovo raccontata nella lingua inglese.  
+Che la [[Truth|verità]] sia detta ancora in lingua inglese.  
 
-E anche noi possiamo ancora mettere in pratica ciò che predicano,  
+E anche noi ancora potremo praticare ciò che predichiamo,  
 
-Anche se stesse esercitandosi nel colpo di baionetta.  
+Fosse pure praticare il colpo di baionetta.  
 
-Tagliando quel gigantesco collo da sabbia a sabbia,  
+Tagliare quel collo gigante da sabbia a sabbia,  
 
-Da un mare all'altro; era una piccola cosa  
+Da mare a mare; era poca cosa  
 
-Accanto al tuo improvviso grido e al fendente di sciabola  
+Accanto al tuo grido improvviso e al roteare di sciabola  
 
-Che tagliò la gola ai ladri di ogni terra.  
+Che tagliò la gola ai ladri in ogni terra.  
 
-Non badare se i mezzosangue deridono la tua spada spezzata:  
+Non curarti se i mezzi ingegni deridono la tua lama spezzata:  
 
-Mammone nostro padrone fa tutto male.  
+Mammona nostro padrone fa male ogni cosa.  
 
-Sei il [[Fool|Matto]] che ha caricato contro un mulino a vento. Tuttavia,  
+Tu sei il [[Fool]] che caricò un mulino a vento. Eppure,  
 
-Il mugnaio è un furfante e aveva paura.  
+Il Mugnaio è un Furfante; ed ebbe paura.  
 
-Mettete giù la vostra [[Sword|spada]]. La rovina riconoscerà la sua.  
+Deponi la tua [[Sword|spada]]. La Rovina riconoscerà i suoi.  
 
-Che ogni piccolo statista semini il suo debole grano saraceno,  
+Lascia che ogni piccolo statista semini la sua fiacca avena selvatica,  
 
-O girare la sua giacca per decorarla,  
+O rivolti la giubba per decorare la giubba,  
 
-O prendi il trono e perisci col trono.  
+O prenda il trono e perisca per il trono.  
 
-Mettete giù la vostra [[Sword|spada]]. E lasciate che il bianco [[Flag|stendardo]] svanisca  
+Deponi la tua [[Sword|spada]]. E lascia che la Bianca [[Flag]] sbiadisca  
 
-In grigio; e lascia che la bandiera rossa [[Flag|svanisca]] in rosa,  
+In grigio; e che la Rossa [[Flag]] sbiadisca in rosa,  
 
-Per questi che salgono e salgono; e non possono affondare  
+Per questi che salgono e salgono; e non sanno affondare  
 
-Così profondi come la [[Death|morte]] e l'[[Honour|onore]], Déroulède.  
+Così a fondo come [[Death|morte]] e [[Honour|onore]], Déroulède.  
 
-[[Sonnet|SONETTO]] CON I COMPLIMENTI DELLA STAGIONE  
+[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
-AD UN CAPOPARTITO MOLTO DA COMPLIMENTARE  
+A UN CAPO POPOLARE DA CONGRATULARSI MOLTO  
 
-SULLA PREVENZIONE DI UNO SCIOPERO A NATALE.  
+PER AVER EVITATO UNO SCIOPERO A NATALE.  
 
-Vi conosco. Saluterete la grande liberazione,  
+Ti conosco. Saluterai l'immenso scampato pericolo,  
 
-Dicendo il fodero di mille spade,  
+Dicendo che il rinfoderare di mille spade,  
 
-Nel [[Silence|silenzio]] e nell'ingiustizia, il [[Well|bene]] si accorda  
+In [[Silence|silenzio]] e ingiustizia, [[Well|ben]] s'accorda  
 
-Con le [[Bells|campane]] di Natale. E voi li ricoprirete d'oro con il grasso  
+Con le [[Bells|campane]] di Natale. E indorerai di grasso  
 
-I giornali, i datori di lavoro, la polizia,  
+I giornali, i padroni, la polizia,  
 
-E vomitate il vuoto delle vostre parole ventose  
+E vomiterai nel vuoto le tue parole ventose  
 
-Al tuo nuovo [[Christ|Cristo]], che non porta nessuna frusta di corde  
+Al tuo Nuovo [[Christ]]; che non porta frusta di corde  
 
-Per coloro che commerciano nelle colombe della pace.  
+Per quelli che trafficano nelle colombe della pace.  
 
-La festa degli amici, l'albero dai frutti di candela,  
+La festa degli amici, l'albero dai frutti di candele,  
 
 Non ho mancato di [[Honour|onorare]]. E dico  
 
 Sarebbe meglio per uomini come noi,  
 
-E saremo più vicini a Betlemme se ci sdraiamo  
+E saremmo più vicini a Bethlehem, se giacessimo  
 
-Uccisi a colpi di fucile sulle nevi scarlatte per la libertà,  
+Uccisi a fucilate su nevi scarlatte per la libertà,  
 
-Morto alla luce del giorno nel giorno di Natale.  
+Morti nella luce del giorno di Natale.  
 
 UN [[Song|CANTO]] DI SPADE
 
-"UN BRANCO DI BESTIE ENTRÒ IN UN BORGO CHIAMATO  
+"UNA MANDRIA DI BESTIAME ENTRÒ IN UN VILLAGGIO CHIAMATO  
 
-SPADE E FURONO FERMATI DAGLI INSORTI». --- _Giornale quotidiano_.  
+SWORDS, E FU FERMATA DAI RIVOLTOSI."---_Daily Paper_.  
 
 Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
 si narra, per una nuova rinomanza,
 
-Come affrontiamo le corna del bestiame e come  
+Come tenemmo le corna del bestiame, e come  
 
-Ora afferreremo le corna del diavolo  
+Terremo ora le corna del diavolo  
 
-Prima che il signore della campana, con la corna sulla fronte,  
+Prima che il signore dell'inferno, col corno in fronte,  
 
-È incoronato nella città di Dublino  
+Sia incoronato nella città di Dublin  
 
 Luce a Oriente e luce a Occidente,
 
@@ -7624,7 +7624,7 @@ noi sappiamo dove splende viva la vergogna; sappiamo
 
 voi, che essi colpiscono, voi loro nemico,
 
-Signori del salario illegale e basso.  
+Signori del salario iniquo e vile.  
 
 questa è la vostra paga legittima.
 
@@ -7634,13 +7634,13 @@ che non osaste nominare a parole;
 
 tanto nera beffa era la moneta d'argento
 
-Che il tuo stesso discorso tremò per la vergogna di  
+Che la vostra stessa voce tremò per la vergogna  
 
 e il codardo era palese come una vacca percossa
 
 quando il bestiame si smarrì a Swords.
 
-La [[Wheel|ruota]] del tormento delle mogli girava  
+La [[Wheel|ruota]] del tormento delle mogli girò  
 
 per spezzare la fratellanza degli uomini;
 
@@ -7648,7 +7648,7 @@ deste il buon [[Blood|sangue]] irlandese a ungere
 
 i randelli dei nemici della vostra patria;
 
-Avete visto l'uomo coraggioso piegarsi fino alle ginocchia:  
+Vedeste l'uomo prode battuto in ginocchio:  
 
 e vedeste che era cosa buona.
 
@@ -7656,7 +7656,7 @@ La fune dei ricchi è lunga, lunga--
 
 la più lunga fra le corde del boia;
 
-Ma i re e la folla stanno tenendo il loro branzino,  
+Ma i re e le folle trattengono il respiro,  
 
 in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
@@ -7664,11 +7664,11 @@ là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
 tra il bestiame e Swords.
 
-Forse i signori che assumono e prestano,  
+Forse i signori che assoldano e prestano,  
 
 i più vili fra tutti i signori degli uomini,
 
-Che vendono la loro gente come bestiame al mercato.  
+Che vendono i propri simili come vacche a una fiera.  
 
 non troveranno là un solo capo del loro bestiame;
 
@@ -7678,267 +7678,267 @@ volti di uomini--e Spade.
 
 E il nome splendente e terribile,  
 
-La più severa di tutte le parole dell'uomo,  
+La più severa fra le parole dell'uomo,  
 
-Eppure segna quel luogo da cercare o evitare,  
+Segna ancora quel luogo da cercare o fuggire,  
 
-Nelle strade dove corrono le bestie che lottano —  
+Nelle strade dove corre il bestiame in lotta--  
 
 Erba e un [[Silence|silenzio]] di giudizio compiuto  
 
-Nel luogo chiamato Spade.  
+Nel luogo che è chiamato Swords.  
 
 UN [[Song|CANTO]] DI SCONFITTA  
 
-Le righe si spezzano e i cannoni affondano,  
+La linea si spezza e i cannoni affondano,  
 
-I signori e i servi cavalcano la pianura;  
+I signori e i lacchè cavalcano la piana;  
 
-Respiro profondamente l'[[Dawn|alba]] e il tuono,  
+Traggo profondi respiri di [[Dawn|alba]] e tuono,  
 
-E tutto il mio cuore ringiovanisce di nuovo.  
+E tutto il mio cuore torna giovane.  
 
-Poiché i nostri capi dissero «Fatto», e io non lo ritennei tale;  
+Ché i nostri Capi dissero "Fatto," e io non lo credetti;  
 
-I nostri veggenti dissero «Pace», e non fu pace;  
+I nostri Veggenti dissero "Pace," e pace non era;  
 
-La terra diventerà sempre peggiore finché gli uomini non la redimeranno,  
+La terra peggiorerà finché gli uomini non la redimano,  
 
-E guerre più malvage prima che tutte le guerre cessino.  
+E guerre più malvagie, prima che ogni guerra cessi.  
 
-Ma le vecchie bandiere vacillano e i vecchi tamburi risuonano.  
+Ma le vecchie bandiere ondeggiano e i vecchi tamburi rullano.  
 
-Come una volta nella mia vita pulsarono e vacillarono;  
+Come un tempo nella mia vita pulsarono e ondeggiarono;  
 
 Ho ritrovato la mia giovinezza nella battaglia perduta,  
 
-Ho trovato il mio cuore sul [[Battlefield|campo di battaglia]].  
+Ho ritrovato il mio cuore sul [[Battlefield|campo di battaglia]].  
 
-Per noi che combattiamo finché il mondo sarà libero,  
+Ché noi che combattiamo finché il mondo sia libero,  
 
-Non siamo a nostro agio nella vittoria:  
+Non stiamo comodi nella vittoria:  
 
 Ci conosciamo da troppo tempo, fratello mio,  
 
-E ci siamo battuti l'uno contro l'altro, il mondo e noi.  
+E ci siamo combattuti, il mondo e noi.  
 
-E sogno i giorni in cui il lavoro era disordinato,  
+E sogno i giorni in cui il lavoro era scarso,  
 
 E raro nelle nostre tasche il segno della zecca,  
 
 Quando eravamo arrabbiati e poveri e felici,  
 
-E orgogliosi di vedere i nostri nomi stampati.  
+E fieri di vedere i nostri nomi in stampa.  
 
-Perché così essi conquistarono e così noi fummo dispersi,  
+Ché così vinsero e così ci disperdemmo,  
 
-Quando il Diavolo cavalcava e i suoi [[dogs|cani]] annusavano l'oro,  
+Quando il Diavolo cavalcò e i suoi [[dogs]] fiutarono l'oro,  
 
 E la pace di un popolo innocuo fu infranta;  
 
-Quando avevo vent'anni e qualche anno in più.  
+Quando avevo vent'anni e qualcosa.  
 
-Quando gli uomini meticci che le classi di mercato  
+Quando gli uomini bastardi che il mercato classifica  
 
-Avevano mani viscide sul bastone d'Inghilterra,  
+Avevano mani viscide sulla verga di England,  
 
-E con la [[Sword|spada]] in mano sulle gole dell'Africa  
+E [[Sword|spada]] in pugno sui valichi d'Afric  
 
 La sua ultima Repubblica gridò a Dio.  
 
-Per gli uomini che nessun signore può comprare o vendere,  
+Ché gli uomini che nessun signore può comprare o vendere,  
 
-Non stanno comodi quando tutto va [[Well|bene]].  
+Non seggono tranquilli quando tutto va [[Well|bene]].  
 
-Si sono detti l'un l'altro ciò che nulla può soffocare,  
+Si son detti l'un l'altro ciò che nulla può soffocare,  
 
-Si sono viste, le nostre anime e l'inferno.  
+Si sono visti l'un l'altro, le nostre anime e l'inferno.  
 
-È tutto come un tempo; lo stesso vuoto fragore.  
+Tutto è come un tempo; il vuoto clangore.  
 
-Il Nulla scarabocchiato su una pagina alta cinque piedi,  
+Il Nulla scarabocchiato su una pagina di cinque piedi,  
 
-Il mercante ambulante che, beffandosi della santa ira,  
+Il mercante che, schernendo l'ira santa,  
 
-Dipinge con dolore il suo volto di rabbia.  
+Faticosamente si dipinge il volto di rabbia.  
 
-E la [[Faith|fede]] dei poveri è debole e parziale,  
+E la [[Faith|fede]] dei poveri è fioca e parziale,  
 
 E l'[[Pride|orgoglio]] dei ricchi è tutto in vendita,  
 
-E i messaggeri scelti del Maresciallo d'Inghilterra  
+E gli araldi eletti del Maresciallo di England  
 
-Sono gli uomini-sandwich del «Daily Mail».  
+Sono gli uomini-sandwich del "Daily Mail."  
 
-E i tirchi che non osano donare sono saziati,  
+E gli spilorci che non osano dare sono satolli,  
 
 E i deboli che non osano fallire sono forti,  
 
-Così mentre la [[City|Città]] del Lavoro viene distrutta,  
+Così mentre la [[City]] della Fatica è sventrata,  
 
-Siedo in sella e canto la mia [[Song|canzone]].  
+Io sto in sella e canto il mio [[Song|canto]].  
 
-Per noi che combattiamo finché il mondo sarà libero,  
+Ché noi che combattiamo finché il mondo sia libero,  
 
-Non abbiamo alcun conforto nella vittoria;  
+Non abbiamo conforto nella vittoria;  
 
-Ci siamo letti l'un l'altro come [[Cain|Caino]] ha letto suo fratello,  
+Ci siamo letti l'un l'altro come [[Cain]] suo fratello,  
 
-Ci conosciamo a vicenda, questi schiavi e noi.  
+Ci conosciamo, questi schiavi e noi.  
 
 [[Sonnet|SONETTO]]  
 
-QUANDO UN PROPRIETARIO TERRIERO VIENE ACCUSATO (INGIUSTAMENTE, PER  
+NELL'UDIRE UN PROPRIETARIO ACCUSATO (FALSAMENTE, PER  
 
-(TUTTO QUELLO CHE IL BARDO PUÒ DIRE) DI TRASCURARE UNO DEI  
+QUANTO IL BARDO POSSA DIRE) DI TRASCURARE UNO DEI  
 
-# Numerosi cavalli bianchi che erano o non erano  
+NUMEROSI CAVALLI BIANCHI CHE ERANO O NON ERANO  
 
-CONNESSO A ALFREDO IL GRANDE  
+LEGATI AD ALFRED THE GREAT  
 
-Se avete ripulito il vostro prato da [[Leaves|foglie]] e lumache,  
+Se hai ripulito il tuo prato di [[Leaves|foglie]] e lumache,  
 
-Se avete detto al vostro valletto, anche con giuramenti,  
+Se hai detto al tuo valletto, magari con giuramenti,  
 
-Una volta alla settimana o giù di lì, per spazzolare i vestiti.  
+Una volta a settimana o giù di lì, di spazzolarti gli abiti.  
 
-Se avete osato lavarvi i denti o le unghie,  
+Se hai osato pulirti i denti, o le unghie,  
 
-Mentre il [[Horse|Cavallo]] sul monte sacro fallisce —  
+Mentre il [[Horse]] sul monte santo vien meno--  
 
-Poi Dio promette ad Alfredo la sua terra  
+Allora Dio che Alfred alla sua terra fidanza  
 
-Invia loro urlando tutto ciò che l'[[Honour|onore]] aborre,  
+Mandi su di te urlante tutto ciò che l'[[Honour|onore]] aborre,  
 
-Sferzate di frusta, Hounsditch, debiti e "Daily Mail".  
+Frustate, Hounsditch, debiti, e _Daily Mails_.  
 
-Non sapete neppure conservare? Per se davvero  
+Non sai nemmeno conservare? Ché se davvero  
 
-Il bianco [[Horse|Cavallo]] svanisce; poi la lotta si avvicina furtiva  
+Il Bianco [[Horse]] sbiadisce; allora più vicina striscia la battaglia  
 
-Quando avremo spazzato il volto dell'Inghilterra fino a renderlo bianco,  
+Quando strofineremo bianco il volto di England,  
 
-Sradicando uomini come voi come si sradica una pianta infestante,  
+Strappando uomini come te come erbaccia,  
 
-E scagliarli ben oltre una freccia scoccata dritta  
+E li scaglieremo lontano oltre un dardo scoccato dritto  
 
-Quando il Wessex andò in battaglia per la fede.  
+Quando il Wessex andò in battaglia per il credo.  
 
-L'AFRICA  
+AFRICA  
 
-Un popolo sonnacchioso, senza sacerdoti né re,  
+Un popolo sonnolento, senza preti né re,  
 
-Qui si dice che abbiano sognato di spingerci verso il mare:  
+Sognò qui, si dice, di spingerci al mare:  
 
-Oh, guidiamoci da soli! Perché siamo liberi  
+O spingiamoci da soli! Perché è libero  
 
-E odore di [[Honour|onore]] e di cose inglesi.  
+E sa di [[Honour|onore]] e di cose inglesi.  
 
-Come siamo arrivati a litigare accanto a queste amare sorgenti?  
+Come giungemmo a rissare presso queste amare sorgenti,  
 
-Noi del Nord? -- due gentili nazioni -- noi?  
+Noi del Nord?--due nazioni benevole--noi?  
 
-Anche se i dadi tintinnano e la moneta squilla chiara,  
+Benché i dadi crepitino e la moneta chiara tintinni,  
 
-Qui non c'è posto per gli uomini viventi.  
+Qui non è luogo dove stiano uomini vivi.  
 
-Lasciate loro l'oro per cui hanno lavorato e lamentato.  
+Lasciate loro l'oro per cui faticarono e piagnucolarono,  
 
-Che quelli che non hanno patria in nessun luogo...  
+Che quelli che non hanno nazione in alcun luogo  
 
-Sii nativo qui, e grasso e pieno di pane;  
+Siano nativi qui, e grassi e sazi di pane;  
 
-Ma noi, i cui peccati furono umani, ci ritireremo  
+Ma noi, i cui peccati furono umani, lasceremo  
 
-La terra di [[Blood|sangue]] e lascia che questi avvoltoi rimangano lì,  
+La terra del [[Blood|sangue]], e lasceremo là questi avvoltoi,  
 
-Felici senza rumore, nutrendosi dei morti.  
+Silenziosamente felici, a pascersi dei morti.  
 
-IL GUERRIERO MORTO [[Hero|EROE]]  
+Il MORTO [[Hero|EROE]]  
 
-Non ti abbiamo mai visto, come i nostri padri,  
+Noi non ti vedemmo mai, come i nostri padri,  
 
-Per chi il tuo volto era il volto della [[Freedom|Libertà]],  
+Per i quali il tuo volto era il volto della [[Freedom]],  
 
-Né sanno a che servono nastri e fili d'ufficio  
+Né sappiamo quali nastri d'ufficio e fili  
 
-Con tali forti corde possono intrecciarsi;  
+Con corde sì forti possano intrecciarsi;  
 
-Non sappiamo se gli uomini di stato allora  
+Non sappiamo se gli statisti d'allora  
 
-Erano fatti come quelli che vediamo,  
+Fossero foggiati come la razza che vediamo,  
 
-Sappiamo che non è sotto il tuo sguardo  
+Sappiamo che non sotto il tuo sguardo  
 
-L'Inghilterra ha riso della Libertà?  
+Rise England della Libertà.  
 
-Sì, questa è l'unica cosa che si sa di voi,  
+Sì, questa sola cosa si sa di te,  
 
 Sappiamo che non prima che tu fossi muto,  
 
-Non finché il tuo corso non fu tuonato attraverso,  
+Non prima che il tuo corso fosse tuonato fino in fondo,  
 
-Mammon vide forse il suo regno giungere?  
+Vide Mammona giungere il suo regno.  
 
-Le [[songs|canzoni]] del furto, le spade di noleggio,  
+I [[songs]] del furto, le spade a nolo,  
 
-I commessi che impazzivano, i soldati che correvano  
+I chierici che vaneggiarono, le truppe che corsero  
 
 L'impero del [[Desire|desiderio]] del mondo,  
 
-La [[Dance|danza]] di tutta la sporcizia ebbe inizio.  
+La [[Dance|danza]] di tutto il sudiciume cominciò.  
 
-Gli uomini felici e gioiellati extraterrestri  
+I felici uomini stranieri ingioiellati  
 
-Funzionò allora come un piccolo lievito;  
+Operavano allora solo come un poco di lievito;  
 
-Da qualche palazzo più modesto allora  
+Da qualche più modesto palazzo allora  
 
-L'[[Soul|anima]] di Dives puzzava fino al Cielo.  
+La [[Soul]] di Dives puzzava fino al Cielo.  
 
-Ma quando pianificarono con balbuzie e ghigno  
+Ma quando tramarono con blesa voce e sogghigno  
 
-La loro attenta guerra contro i deboli,  
+La loro guerra accurata contro i deboli,  
 
-Colpirono il tuo [[Body|corpo]] sulla sua bara,  
+Colpirono il tuo [[Body|corpo]] sulla bara,  
 
-Per la certezza che non avresti potuto parlare.  
+Per esser certi che non potessi parlare.  
 
 Un [[Hero|eroe]] nel [[Desert|deserto]] morì;  
 
-Gli uomini gridarono che i santi lo dovessero seppellire.  
+Gridarono gli uomini che i santi lo seppellissero.  
 
-E intorno alla [[Grave|tomba]] dovrebbero vegliare e cavalcare,  
+E attorno alla [[Grave|tomba]] vegliasse e cavalcasse,  
 
-Una cavalleria di cherubini.  
+Una cavalleria di Cherubini.  
 
-Dio disse: «C'è un posto migliore,  
+Dio disse: "C'è un luogo migliore,  
 
 Un trofeo più nobile e più alto;  
 
-Le bestie che fuggivano davanti al suo volto  
+Le bestie che fuggirono dinanzi al suo volto  
 
-Verrà a fare i suoi funerali.  
+Verranno a fare il suo funerale.  
 
-"I potenti vermi del vuoto  
+"I possenti vermi del vuoto  
 
-Che li nascondeva dal suo arco teso,  
+Che si celarono al suo arco teso,  
 
-Strisceranno fuori dalle caverne pieni di gioia,  
+Strisceranno dalle caverne esultanti,  
 
-Sciacallo e serpe e corvo mangia-carogne.  
+Sciacallo e serpe e cornacchia da carogne.  
 
-E appollaiato sopra le uova dell'avvoltoio,  
+E appollaiata sopra le uova dell'avvoltoio,  
 
-Rovesciato sulla sua mostruosa testa,  
+Capovolta sul suo capo orrendo,  
 
-Una scimmia dal volto blu agiterà le sue gambe  
+Una scimmia dalla faccia blu agiterà le zampe  
 
-Per dire al mondo che è morto».  
+Per dire al mondo che egli è morto."  
 
-UN'ECO DALLE ELEZIONI 1906  
+UN'ECO ELETTORALE 1906  
 
-Questa è la loro tromba matura e arrotondata,  
+Questa è la loro tromba matura e piena,  
 
 Hanno bruciato il grano e raccolto la pula,  
 
@@ -7946,141 +7946,141 @@ E noi che li abbiamo combattuti, noi che li abbiamo osservati,
 
 Non abbiamo almeno motivo di ridere?  
 
-Non mai così bassi almeno inciampammo —  
+Mai così in basso almeno inciampammo--  
 
-Siamo stati morti ma non così morti  
+Morti siamo stati ma non così morti  
 
-Come coloro che vivono della vita che hanno sperperato,  
+Come questi che vivono della vita che sperperarono,  
 
-Come coloro che bevono il [[Blood|sangue]] che hanno versato.  
+Come questi che bevono del [[Blood|sangue]] che versarono.  
 
-Non abbiamo mai vantato la cosa in cui abbiamo sbagliato,  
+Mai ci vantammo della cosa che sbagliammo,  
 
-Non abbiamo mai perseguitato la cosa che fallisce,  
+Mai Ostentammo la cosa che fallisce,  
 
-Non ci siamo mai tirati indietro davanti alla risata vivente,  
+Mai ci ritraemmo dal riso dei vivi,  
 
-Urlare ai morti che non raccontano storie,  
+Per ululare ai morti che non raccontano storie,  
 
-Era un altro dito almeno che indicava  
+Fu un altro dito almeno che additò  
 
-I nostri uomini sprecati o le nostre borse svuotate,  
+I nostri uomini sprecati o le nostre borse vuotate,  
 
-Non siamo noi a suonare la tromba  
+Non fummo noi a suonare la tromba  
 
-Di fronte al trionfo di rovine e stracci.  
+Davanti al trionfo di rottami e stracci.  
 
-Non temete questi, hanno fatto il loro patto, [[Fear|paura]].  
+Non abbiate [[Fear]] di costoro, hanno fatto il loro patto,  
 
-Hanno contato il costo dell'ultimo dei raid,  
+Hanno contato il costo dell'ultima delle razzie,  
 
-Hanno impegnato le loro vite nelle cose che non vivono,  
+Hanno puntato le vite su cose che non vivono,  
 
-Hanno bruciato la loro [[house|casa]] per un [[Fire|fuoco]] che svanisce.  
+Hanno bruciato la loro [[house]] per un [[Fire|fuoco]] che svanisce.  
 
-Cinque anni fa avremmo potuto temerli,  
+Cinque anni fa e avremmo potuto temerli,  
 
-Sono stato picchiato dal codardo e istruito dall'asino;  
+Bastonati dal codardo e istruiti dal somaro;  
 
-La [[Truth|verità]] può durare e essere raccontata e ripetuta.  
+La [[Truth]] può durare ed esser detta e riecheggiata,  
 
-Ma una bugia può essere giovane solo una volta.  
+Ma una menzogna non può esser giovane che una volta.  
 
-Cinque anni fa avremmo potuto temerli;  
+Cinque anni fa e avremmo potuto temerli;  
 
-Ora che sollevano la fronte coronata d'alloro,  
+Ora, quando levano la fronte laureata,  
 
-Nulla salirà dalle nostre schiere radunate  
+Nulla si leverà dalle nostre schiere adunate  
 
-Ma una risata come un tuono. Ora li conosciamo.  
+Se non una risata come tuono. Li conosciamo ora.  
 
-LA [[Song|CANZONE]] DELLE RUOTE  
+IL [[Song|CANTO]] DELLE RUOTE  
 
-SCRITTO VENERDÌ E SABATO DI AGOSTO DEL 1911.  
+SCRITTO DURANTE UN VENERDÌ E UN SABATO DELL'AGOSTO 1911.  
 
-Il [[King|Re]] Dives stava aspettando nel suo [[Garden|giardino]] tutto [[Alone|solo]].  
+[[King]] Dives attendeva nel suo [[Garden|giardino]] tutto [[Alone|solo]],  
 
-Dove i suoi [[Flowers|fiori]] sono fatti di ferro e gli alberi sono fatti di pietra,  
+Dove i suoi [[Flowers|fiori]] son fatti di ferro e i suoi alberi di pietra,  
 
-E le sue arnie sono piene di tuono e il [[Lightning|fulmine]] balza e uccide,  
+E i suoi alveari son pieni di tuono e il [[Lightning|lampo]] balza e uccide,  
 
-Perché i mulini di Dio macinano lentamente; e lavora con altri mulini.  
+Ché i mulini di Dio macinano lenti; e lui lavora con altri mulini.  
 
-Dives trovò un potente [[Silence|silenzio]] e gli mancò il battito e lo scatto.  
+Dives trovò un possente [[Silence|silenzio]]; e gli mancò il pulsare e il balzo,  
 
-Il rumore di tutte le creature senza sonno che cantano per farlo [[Sleep|dormire]].  
+Il rumore di tutte le creature insonni che lo cantavano nel [[Sleep|sonno]].  
 
-E disse: «Una vite è caduta -- o un bullone si è spostato --  
+E disse: "Una vite è caduta--o un bullone è scivolato via--  
 
-"Qualche piccola cosa è cambiata"; e le piccole cose risposero:  
+Qualche piccola cosa s'è spostata": e le piccole cose risposero:  
 
-«Chiamate le ruote, padrone, chiamate le ruote;  
+"Invoca le ruote, padrone, invoca le ruote;  
 
-Ci riposiamo, maestro, scoprendo come ci si sente,  
+Noi ci riposiamo, padrone, per scoprire che effetto fa,  
 
-Stretta la legge del mio e tuo: il furto sempre evitiamo—  
+Severa la legge del tuo e del mio: il furto sempre fuggiamo--  
 
-Tutte le ruote sono tue, maestro: di' alle ruote di girare!  
+Tutte le ruote son tue, padrone--di' alle ruote di correre!  
 
-Sì, le Ruote sono dei potenti... allora metteteli in moto!  
+Sì, le Ruote sono dèi possenti--mettile in moto allora!  
 
-Siamo solo uomini, padrone, hai mai sentito parlare di uomini?  
+Noi siamo solo uomini, padrone, hai mai sentito degli uomini?  
 
-“Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro respiro.”  
+"Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro respiro.  
 
-Dio per vuoti onori solo diede loro la [[Death|morte]] e il disprezzo della [[Death|morte]],  
+Dio per vuoti onori diede loro solo [[Death|morte]] e sprezzo della [[Death|morte]],  
 
-E cammini su vermi come tappeto e calpesti una pietra che strilla—  
+E tu cammini sui vermi come tappeto e calpesti una pietra che stride--  
 
-Solo che Dio, che li ha fatti vermi, non li ha fatti ruote.  
+Solo, Dio che li fece vermi non li fece ruote.  
 
-L'uomo chiuderà il suo cuore contro di voi e non troverete la [[spring|primavera]].  
+L'uomo chiuderà il suo cuore contro di te e tu non troverai la [[spring]].  
 
-L'uomo che vuole ciò che non desidera, la cosa intollerabile...  
+L'uomo che vuole la cosa che non desidera, la cosa intollerabile--  
 
-Quando preferirà il suo ventre vuoto alla tua testa vuota  
+Quando gli piacerà il suo ventre vuoto più della tua testa vuota  
 
-La terra e il cielo sono muti davanti a lui: è più forte dei morti.  
+Terra e cielo son muti davanti a lui: è più forte dei morti.  
 
-«Chiamate le ruote, padrone, chiamate le ruote,  
+"Invoca le ruote, padrone, invoca le ruote,  
 
-L'acciaio è sotto la tua mano, la pietra sotto i tuoi piedi,  
+Acciaio sotto la tua mano, pietra sotto i tuoi talloni,  
 
-L'acciaio non riderà mai ad alta voce, udendo ciò che abbiamo udito,  
+L'acciaio non riderà mai forte, udendo ciò che udimmo,  
 
-La pietra non si spezzerà mai il cuore, impazzita per una [[Hope|speranza]] rimandata—  
+La pietra non si spezzerà mai il cuore, folle di [[Hope|speranza]] differita--  
 
-Uomini di tatto che arbitrano, riforme lente che guariscono -- [[Reform|riforma]]  
+Uomini di tatto che arbitrano, lenta [[Reform|riforma]] che risana--  
 
-Salva il grasso puzzolente, padrone, salvalo per le ruote.  
+Serba il grasso fetido, padrone, serbalo per le ruote.  
 
-“[[King|Re]] Dives nel [[Garden|giardino]], non abbiamo nulla da dare o da tenere...  
+"[[King]] Dives nel [[Garden|giardino]], noi non abbiamo nulla da dare o tenere--  
 
-(Anche mentre il bambino prendeva vita i bastoni marci venivano venduti.)  
+(Mentre ancora il bimbo veniva alla vita i legni marci eran venduti.)  
 
-Il selvaggio conosce una caverna e i contadini coltivano un appezzamento,  
+Il selvaggio conosce una caverna e i contadini serbano un campo,  
 
-Di tutte le cose che gli uomini hanno avuto — ebbene, noi non le abbiamo più.  
+Di tutte le cose che gli uomini ebbero--ecco! noi non le abbiamo.  
 
-Nemmeno un pezzetto di terra dove le formiche potessero deporre le uova —  
+Non un brandello di terra dove le formiche possano deporre le uova--  
 
-Solo questo povero grumo di terra che cammina su due gambe —  
+Solo questo povero grumo di terra che cammina sulle gambe--  
 
-Solo questa povera dimora errante, solo questi due alberi ambulanti.  
+Solo questa povera magione errante, solo questi due alberi che camminano.  
 
-Solo mani e cuori e stomaci -- che cosa c'entrate voi con questi?  
+Solo mani e cuori e stomaci--che hai tu a che fare con questi?  
 
-Avete motori grandi e lucidi, alti oltre la comprensione dei nostri padri,  
+Tu hai macchine grandi e brunite, alte oltre il sapere dei nostri padri,  
 
-Perché dovreste fare la pace e commerciare con gente così debole come gli uomini?  
+Perché dovresti far pace e commercio con gente fiacca come gli uomini?  
 
-«Chiamate le ruote, padrone, chiamate le ruote,  
+"Invoca le ruote, padrone, invoca le ruote,  
 
-Sono sordi ai demagoghi, sordi agli appelli rozzi;  
+Sono sorde ai demagoghi, sorde ai rozzi appelli;  
 
-Sono le nostre mani davvero nostre, maestro? -- come i medici [[Doubt|dubitan]]o!  
+Son nostre le nostre mani, padrone?--come ne [[Doubt|dubitano]] i dottori!  
 
-Le nostre gambe sono nostre, maestro? Le ruote possono correre senza...  
+Son nostre le nostre gambe, padrone? le ruote corrono senza--  
 
 Prova che le punte sono delicate--capiranno.  
 
@@ -8632,37 +8632,37 @@ quando il vecchio integro [[Pickwick|Pickwick]] camminava
 
 fra gli uomini spezzati.  
 
-Eppure colui che [[Dreams|sogna]] e vaga  
+Pure colui che [[Dreams|sogna]] e vaga  
 
-Attraverso il suo stesso aspetto fatato,  
+Per la propria aria fatata,  
 
 Sa che la strada è una [[Prison|prigione]],  
 
-Sa che le porte ci sono:  
+Sa che i cancelli sono là:  
 
-Eppure colui che disprezza o combatte  
+Pure colui che sdegna o lotta  
 
 Vede, spaventoso e lontano.  
 
-Tutto ciò che lasciano dei ribelli  
+Tutto ciò che dei ribelli lasciano  
 
-Marcisca in alto su Temple Bar.  
+Marcire in alto su Temple Bar.  
 
-Tutto ciò che ho amato e odiato,  
+Tutto ciò che amai e odiai,  
 
-Tutto ciò che evitavo e conoscevo,  
+Tutto ciò che fuggii e conobbi,  
 
-Schiudono la vasta battaglia [[Lightning|fulgore]],  
+Si schiara in ampio [[Lightning|lampo]] di battaglia,  
 
-Dove loro, e io, e voi,  
+Dove loro, e io, e tu,  
 
-Alza in alto la barricata che si frantuma  
+Leviamo alta la barricata che spezza  
 
 Le barriere della strada,  
 
-E gridate a coloro che si ritraggono all'interno,  
+E gridiamo a quelli che si rannicchiano dentro,  
 
-I prigionieri della flotta.  
+I Prigionieri della Fleet.  
 
 UN [[Song|CANTO]] DEL SIDRO  
 
@@ -8670,137 +8670,137 @@ _To J.S.M._
 
 ESTRATTO DA UN [[Romance|ROMANZO]] CHE NON È ANCORA  
 
-SCITTO E PROBABILMENTE NON LO SARÀ MAI PIÙ.  
+SCRITTO E PROBABILMENTE MAI LO SARÀ.  
 
-Il vino che bevono nel Paradiso  
+Il vino che bevono in Paradiso  
 
-Le fanno nella Alta Lorena;  
+Lo fanno in Haute Lorraine;  
 
-Dio lo fece ardere dal terreno  
+Dio lo trasse ardente dalla zolla  
 
-Essere un segno e una bacchetta di segnalazione  
+Perché fosse un segno e una verga di segnale  
 
-Che coloro che bevono il [[Blood|sangue]] di Dio  
+Che quelli che bevono il [[Blood|sangue]] di Dio  
 
-Non avrà più sete mai.  
+Non avranno mai più sete.  
 
-Il vino che essi lodano nel Paradiso  
+Il vino che lodano in Paradiso  
 
-Le fanno a Ponterey,  
+Lo fanno a Ponterey,  
 
-Il vino porpora del Paradiso,  
+Il vino purpureo del Paradiso,  
 
-Ma noi abbiamo di meglio al prezzo;  
+Ma noi ne abbiamo di meglio a quel prezzo;  
 
-È il vino che lodano nel Paradiso,  
+È vino ciò che lodano in Paradiso,  
 
-È sidro quello per cui pregano.  
+È sidro ciò che pregano.  
 
 Il vino che vogliono in Paradiso  
 
-Li trovano a Capo del Pigrone,  
+Lo trovano a Plodder's End,  
 
 Il vino di mele di Hereford,  
 
-Di Hafod [[Hill|Collina]] e Hereford,  
+Di Hafod [[Hill]] e Hereford,  
 
-Dove i boschi scendevano fino a Hereford,  
+Dove i boschi scendevano a Hereford,  
 
-E lì avevo un amico.  
+E là avevo un amico.  
 
-I piedi morbidi dei beati vanno  
+I piedi lievi dei beati vanno  
 
-Nelle morbide valli occidentali,  
+Nelle dolci valli d'occidente,  
 
-La [[Road|strada]] che i santi silenziosi concedono,  
+La [[Road|strada]] che i santi silenziosi accordano,  
 
-La [[Road|strada]] dal Paradiso a Hereford,  
+La [[Road|strada]] dal Cielo a Hereford,  
 
 Dove il bosco di meli di Hereford  
 
-Arriva fino al Galles.  
+Va per tutta la via fino a Wales.  
 
 L'ULTIMO [[Hero|EROE]]  
 
-Il [[Wind|vento]] soffiò da Bergen dall'alba al giorno,  
+Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
-A una ventina di miglia di distanza c'era un ammasso di alberi rovinati e torri cadute,  
+Vi fu strage d'alberi e caduta di torri a venti miglia di distanza,  
 
-E vado alla deriva come una foglia livida davanti alla sua marea,  
+E trascinato come livida foglia vado innanzi alla sua marea,  
 
-Sputati fuori da [[house|casa]] e stalla, privi di [[Flag|bandiera]] e sposa.  
+Sputato fuor di [[house]] e stalla, spogliato di [[Flag|bandiera]] e sposa.  
 
-I cieli si curvano sopra la mia testa, gridando come guerre di serafini.  
+I cieli si curvano sul mio capo, urlanti come guerre di serafini.  
 
-Con piogge che potrebbero spegnere il sole e spazzare dal cielo le [[Stars|stelle]],  
+Con piogge che potrebbero spegnere il sole e nettare il cielo di [[Stars|stelle]],  
 
-Piogge come la caduta di mari distrutti da mondi segreti sopra di noi,  
+Piogge come il crollo di mari in rovina da mondi segreti lassù,  
 
-Il ruggito delle piogge di Dio è udito solo dall'[[Love|amore]] solitario.  
+Il ruggito delle piogge di Dio nessuno se non i solitari lo [[Love|ama]].  
 
-Festeggiate nella mia sala, o nemici, e mangiate e bevete fino all'ultima goccia,  
+Banchettate nella mia sala, o nemici, e mangiate e bevete e scolate,  
 
-Non hai mai amato il sole nel cielo come io ho amato la pioggia.  
+Mai amaste il sole in cielo come io ho amato la pioggia.  
 
-La sorte della battaglia cambia - così sia per tutte le battaglie;  
+La sorte della battaglia muta--così sia ogni battaglia;  
 
-Ho rubato loro mia moglie, e loro l'hanno rubata di nuovo a me.  
+Rubai a loro la mia sposa, essi me la rubarono di ritorno.  
 
-La vidi uscire dalla sua sala dal tetto rosso, cavalcai e la vidi sorgere  
+La strappai dalla sua sala dal tetto rosso, cavalcai e vidi sorgere  
 
-Più bella dei viventi [[Flowers|fiori]], l'odio nei suoi occhi.  
+Più bello dei vivi [[Flowers|fiori]] l'odio nei suoi occhi.  
 
-Non mi ha mai amato, non si è mai piegata, non è mai stata meno divina;  
+Mai mi amò, mai si piegò, mai fu meno divina;  
 
-Il tramonto non mi ha mai amato; il [[Wind|vento]] non è mai stato mio.  
+Il tramonto mai mi amò; il [[Wind|vento]] non fu mai mio.  
 
-Non fu nulla il fatto che ella stesse imperiale nella duresse?  
+Fu forse nulla che ella stesse imperiale in prigionia?  
 
-Il [[Silence|silenzio]] stesso si fece più dolce con il fruscio del suo vestito.  
+Il [[Silence]] stesso reso più dolce dal frusciare della sua veste.  
 
-O voi che svuotate il calice della vita, o voi che portate la [[Crown|corona]],  
+O voi che scolate la coppa della vita, o voi che portate la [[Crown|corona]],  
 
-Non hai mai amato il sorriso di una donna come io ho amato la sua espressione corrucciata.  
+Mai amaste il sorriso di donna come io ho amato il suo cipiglio.  
 
-Il [[Wind|vento]] soffiò da Bergen dall'alba al giorno,  
+Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
-Cavalcano e corrono con cinquanta lance per frantumare e sbarrarmi la strada,  
+Cavalcano e corrono con cinquanta lance per rompere e sbarrarmi la via,  
 
-Non morirò [[Alone|solo]], [[Alone|solo]], ma imparentato con tutti i poteri.  
+Non morirò [[Alone|solo]], [[Alone|solo]], ma parente di tutte le potenze.  
 
-Allegro come il sole antico e combattivo come i [[Flowers|fiori]].  
+Allegro come il sole antico e combattendo come i [[Flowers|fiori]].  
 
-Quanto è bianco il loro acciaio, quanto sono luminosi i loro occhi! Io [[Love|amo]] ogni furfante sorridente.  
+Com'è bianco il loro acciaio, come brillano i loro occhi! Io [[Love|amo]] ogni ridente furfante.  
 
-Gridate forte e dategli il benvenuto al banchetto dei coraggiosi.  
+Gridate alto e dategli il benvenuto al banchetto dei prodi.  
 
-Sì, li benedirò mentre si piegano e [[Love|amerò]] loro dove giacciono.  
+Sì, li benedirò mentre si piegano e li [[Love|amerò]] dove giacciono,  
 
-Quando sulla loro testa la [[Sword|spada]] che io brandisco cade frantumandosi dal cielo.  
+Quando sui loro crani la [[Sword|spada]] che rotea cala frantumandosi dal cielo.  
 
-L'ora in cui la [[Death|morte]] è come una luce e il [[Blood|sangue]] è come una [[Rose|rosa]], —  
+L'ora in cui la [[Death|morte]] è come una luce e il [[Blood|sangue]] è come una [[Rose|rosa]],--  
 
-Non avete mai amato i vostri amici, miei cari, come io amerò i miei nemici.  
+Mai amaste i vostri amici, amici miei, come io [[Love|amerò]] i miei nemici.  
 
-Sapete che cosa la terra perderà stasera, quali ricchi e innumerevoli doni, [[Night|oggi]]?  
+Sapete che cosa la terra perderà questa [[Night|notte]], quali ricchi prestiti mai contati,  
 
-Quale pesante oro di racconti non detti seppellite insieme alle mie ossa?  
+Quale greve oro di storie non narrate seppellite con le mie ossa?  
 
-I miei amori nei prati profondi e ombrosi, le mie navi che navigavano tranquille,  
+I miei amori in prati fondi e foschi, le mie navi all'ancora tranquille,  
 
-Scompigliando il piumaggio porpora di mari strani e segreti.  
+Arruffando il piumaggio purpureo di mari strani e segreti.  
 
-Vedere questa bella terra come mi è stata data [[Alone|solo]] a me,  
+Vedere questa bella terra com'è a me [[Alone|solo]] fu dato,  
 
-Il colpo che mi spacca la fronte [[Night|stasera]] spaccherà il cupo del cielo.  
+Il colpo che mi spezza la fronte questa [[Night|notte]] spezzerà la volta del cielo.  
 
-I cieli che ho visto, gli alberi che ho visto dopo nessun occhio li vedrà più.  
+I cieli che vidi, gli alberi che vidi dopo nessun occhio vedrà.  
 
-Stasera muoio la [[Death|morte]] di Dio; le [[Stars|stelle]] moriranno con me:  
+Questa [[Night|notte]] muoio della [[Death|morte]] di Dio; le [[Stars|stelle]] morranno con me:  
 
-Un suono disperderà tutte le lance e spezzerà il respiro della tromba:  
+Un solo suono fenderà tutte le lance e spezzerà il fiato della tromba:  
 
-Non hai mai riso in tutta la tua vita come riderò io nella [[Death|morte]].  
+Mai rideste in tutta la vita come io riderò nella [[Death|morte]].  
 
 VII
 
@@ -8808,303 +8808,303 @@ BALLATE
 
 BALLADE D'UNE GRANDE DAME  
 
-Il cielo ti perdonerà il Ponte all'[[Dawn|alba]].  
+Il Cielo ti perdonerà il Bridge all'[[Dawn|alba]],  
 
-Gli abiti che indossate... o non indossate...  
+Gli abiti che porti--o non porti--  
 
-E il salto della rana delle signore sul prato  
+E la Cavallina delle Dame sul prato  
 
-E coloranti e droghe, e piccoli bicchieri.  
+E tinture e droghe, e _petits verres._  
 
-Le vostre cose malvagie si scioglieranno nell'aria...  
+Le tue cose viziose si scioglieranno nell'aria ...  
 
-... Ma per le Cose Virtuose che fate,  
+... Ma per le Cose Virtuose che fai,  
 
-L'Opera Giusta, la Preoccupazione Pubblica,  
+L'Opera Retta, la Cura Pubblica,  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
-Perché non potevate neppure sbadigliare  
+Perché non sapesti nemmeno sbadigliare  
 
-Quando i vostri Comitati vorranno preparare  
+Quando i tuoi Comitati preparavano  
 
-Estrarre i denti ai poveri,  
+Di far cavare i denti ai poveri,  
 
-O spoglia i bassifondi dei Capelli Umani;  
+O spogliare i tuguri di Capelli Umani;  
 
-Perché un dottor Otto Maehr  
+Perché un Dottor Otto Maehr  
 
-Parlò di «un pugno di segregati» —  
+Parlò di "pochi segregati"--  
 
-E tu sedevi sorridendo sulla tua sedia —  
+E tu sedevi sorridente sulla tua sedia--  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
-Anche se i tuoi peccati gridavano a Padre Vaughan,  
+Benché i tuoi peccati gridassero a---Father Vaughan,  
 
-Questi disperati non potevate risparmiarli  
+Questi disperati non sapesti risparmiare  
 
-Chi rubano, senza più nulla da impegnare;  
+Che rubano, senza più nulla da impegnare;  
 
-Avete chiuso un uomo in gabbia come fosse un orso  
+Hai ingabbiato un uomo come un orso  
 
-Per sempre sotto la custodia di un carceriere  
+Per sempre in custodia d'un carceriere  
 
-Perché i suoi peccati erano più di due...  
+Perché i suoi peccati eran più di _due_ ...  
 
-... Conosco una [[house|casa]] ad Hoxton dove  
+... Conosco una [[house]] a Hoxton dove  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
-EPILOGO  
+ENVOI  
 
-Principessa, hai intrappolato un sindaco ingenuo  
+Principessa, hai adescato un ingenuo Sindaco  
 
-Incontrare alcune persone che conoscevi...  
+Perché incontrasse certa gente che conoscevi ...  
 
-Quando l'Ultimo Trombettiere squarcia l'aria  
+Quando l'Ultima Tromba squarcerà l'aria  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
 UNA BALLATA DI UN [[anti-puritan|ANTI-PURITANO]]  
 
-Parlavano del Progresso che si innalzava tutto intorno,  
+Parlavano del Progresso che s'inerpica a spirale,  
 
-Della luce e della signora Humphry Ward--  
+Della Luce e di Mrs. Humphry Ward--  
 
-Non è vero dire che ho aggrottato la fronte,  
+Non è vero dire che aggrottai la fronte,  
 
-O correvano per la stanza e ruggivano;  
+O che corsi per la stanza ruggendo;  
 
-Avrei potuto semplicemente sedermi e russare...  
+Avrei potuto semplicemente sedere e russare--  
 
-Mi alzai educatamente nel [[Rose|club]].  
+Mi [[Rose|alzai]] cortese nel club  
 
-E disse: «Mi sento un po' annoiato;  
+E dissi, "Mi sento un poco annoiato;  
 
-Qualcuno mi porterà in un pub?»  
+Qualcuno vuol portarmi a un pub?"  
 
-I più saggi del nuovo mondo si circondarono  
+I più saggi del nuovo mondo mi stavano  
 
-Io; e mi addolora doverlo scrivere  
+Intorno; e mi duole registrare  
 
-Non pensavo che le loro opinioni fossero profonde,  
+Che non trovai profonde le loro vedute,  
 
-O le loro conclusioni erano ben assicurate;  
+Né le loro conclusioni [[Well|ben]] salde;  
 
 La vita semplice non me la posso permettere,  
 
-Inoltre non mi piace il cibo—  
+E poi, non mi piace la sbobba--  
 
-Aspetto un purè e salsiccia, “segnati”--  
+Voglio purè e salsiccia, "rigata"--  
 
-Qualcuno mi porterà in un pub?  
+Qualcuno vuol portarmi a un pub?  
 
-So dove ancora si possono trovare gli Uomini,  
+So dove ancora si trovano Uomini,  
 
-Ira e concorde clamore,  
+Ira e clamoroso accordo,  
 
-E le virtù che nascono dalla terra,  
+E virtù che crescono dal suolo,  
 
-E la confraternita della birra e del pane,  
+E fratellanza di birra e mensa,  
 
-E la [[Song|canzone]] è un robusto cavo.  
+E [[Song|canto]], che è una corda robusta.  
 
-E la [[Hope|speranza]], che è un arbusto robusto,  
+E [[Hope|speranza]], che è un arbusto tenace,  
 
-E la bontà è l'ultima parola di Dio —  
+E bontà, che è l'ultima parola di Dio--  
 
-Qualcuno mi porterà in un pub?  
+Qualcuno vuol portarmi a un pub?  
 
-EPILOGO  
+ENVOI  
 
-Principe, Bayard avrebbe frantumato la sua [[Sword|spada]].  
+Principe, Bayard avrebbe spezzato la sua [[Sword|spada]]  
 
-Per vedere che tipo di cavalieri avete nominato...  
+Nel vedere la razza di cavalieri che nomini--È  
 
-che l'ultimo di loro — O Signore!  
+quello l'ultimo di loro--O Signore!  
 
-Qualcuno mi porterà in un pub?  
+Qualcuno vuol portarmi a un pub?  
 
 UNA BALLATA DI UN RECENSORE DI LIBRI  
 
-Non ho letto una pagina marcita  
+Non ho letto una pagina marcia  
 
-Di “Odio di Sesso” o del “Test Sociale”,  
+Di "Sex-Hate" o "The Social Test,"  
 
-E qui arrivano "Husks" e "Heritage"...  
+Ed ecco arrivare "Husks" e "Heritage"....  
 
-Oh Mosè, lasciaci tutti in pace!  
+O Moses, dacci tregua a tutti!  
 
-«Etica dell'Impero»!... Protesto  
+"Ethics of Empire"!... Protesto  
 
-Non taglierò nemmeno i fili,  
+Non taglierò nemmeno gli spaghi,  
 
-Leggerò "Jack Redskin sulla [[Quest|ricerca]]"  
+Leggerò "Jack Redskin alla [[Quest]]"  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
-Qualcuno desidera un'Età più Saggia  
+Qualcuno vuole un'Età più Saggia  
 
 (Vuole anche che io investa);  
 
-Qualcuno ama il Teatro Finlandese  
+A qualcuno piace la Scena Finlandese  
 
-Perché i Giullari non scherzano;  
+Perché i Giullari non fanno burle;  
 
 E grigio di [[Dust|polvere]] è il cimiero di [[Dante]],  
 
-La campana di Rabelais oscilla silenziosa;  
+La campana di Rabelais oscilla senza suono;  
 
-E i venti soffiano da ovest  
+E i venti vengono dall'ovest  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
-Signore della nostra risata e del nostro furore.  
+Signore del nostro riso e della nostra rabbia.  
 
 Guardaci oppressi dai nostri peccati!  
 
-Anch'io ho calpestato la mia eredità  
+Anch'io ho calpestato la mia eredità,  
 
-Malvagiamente stanchi del meglio.  
+Empiamente stancandomi del meglio.  
 
-Brucia dalla mia mente e dal mio petto  
+Brucia dal mio cervello e dal mio petto  
 
-# Pigrizia e la codardia che si aggrappa  
+L'accidia, e la codardia che s'aggrappa,  
 
-E rigidità e l'arresto dell'[[Soul|anima]]:  
+E la rigidezza e l'arresto dell'[[Soul|anima]]:  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
-EPILOGO  
+ENVOI  
 
-Principe, tu sei ospite e io sono invitato  
+Principe, tu sei l'oste e io l'invitato,  
 
-Perciò mi ritraggo dalle cavillosità...  
+Perciò rifuggo dai cavilli....  
 
-Ma dovrei far sopprimere quella frizzantezza  
+Ma farei sopprimere quello spumante  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
 UNA BALLATA DEL [[suicide|SUICIDIO]]  
 
-La forca nel mio [[Garden|giardino]], dicono le persone,  
+La forca nel mio [[Garden|giardino]], dice la gente,  
 
-È nuovo, ordinato e abbastanza alto.  
+È nuova e linda e adeguatamente alta.  
 
-# Allaccio il cappio con consapevolezza  
+Annodo il cappio con fare esperto  
 
-Come chi si allaccia la cravatta per un ballo;  
+Come chi si annoda la cravatta per un ballo;  
 
-Ma proprio come tutti i vicini... sul muro...  
+Ma proprio mentre tutti i vicini--sul muro--  
 
-Stanno facendo un lungo respiro per gridare «Evviva!»  
+Prendono un lungo respiro per gridare "Urrà!"  
 
-# Il capriccio più strano mi ha colpito... dopotutto  
+Il più strano capriccio m'ha colto.... Dopotutto  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
-Domani è il [[Time|giorno]] in cui riceverò la mia paga - La mia  
+Domani è il [[Time|momento]] in cui prendo la paga--La  
 
-la [[Sword|spada]] dello zio è appesa nell'atrio--  
+[[Sword|spada]] di mio zio pende nell'atrio--  
 
-Vedo una piccola nuvola tutta rosa e grigia...  
+Vedo una nuvoletta tutta rosa e grigia--  
 
-Forse la madre del rettore non verrà...  
+Forse la madre del rettore _non_ verrà in visita--  
 
-Mi sembra di aver sentito da Mr. Gall  
+Mi pare d'aver saputo da Mr. Gall  
 
-Che i funghi potessero essere cucinati in un altro modo  
+Che i funghi si possono cucinare in un altro modo--  
 
-Non ho mai letto le opere di Giovenale  
+Non ho mai letto le opere di Juvenal--  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
 Il mondo avrà un altro giorno di bucato;  
 
-I decadenti [[Decay|decadono]]; i pedanti sbiadiscono;  
+I decadenti [[Decay|decadono]]; i pedanti stancano;  
 
 E H.G. Wells ha scoperto che i bambini giocano.  
 
-E Bernard [[Shaw]] scoprì che strillano;  
+E Bernard [[Shaw]] ha scoperto che strillano;  
 
-I razionalisti stanno diventando più ragionevoli...  
+I razionalisti si fanno razionali--  
 
-E tra i boschi fitti si trova un ruscello smarrito,  
+E per boschi folti si trova un ruscello smarrito,  
 
-Così segreto che il cielo stesso sembra piccolo -  
+Così segreto che il cielo stesso sembra piccolo--  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
-EPILOGO  
+ENVOI  
 
-Principe, sento il suono della tromba di Germinal  
+Principe, odo la tromba di Germinal,  
 
-I carri armati che faticano sulla terribile strada;  
+Le carrette che arrancano su per la via terribile;  
 
-Anche oggi la tua testa reale potrebbe cadere --  
+Anche oggi la tua testa regale può cadere--  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
 UNA BALLATA DELLA PRIMA PIOGGIA  
 
-Il cielo è blu con [[Summer|estate]] e il sole,  
+Il cielo è azzurro di [[Summer|estate]] e di sole,  
 
-I boschi sono marroni come l'[[Autumn|autunno]] con il cuoio abbronzato,  
+I boschi son bruni come [[Autumn|autunno]] per l'abbronzatura,  
 
-Potrebbe anche essere i Tropici e finirla,  
+Potrebbero [[Well|ben]] essere i Tropici e farla finita,  
 
-Potrei tanto bene nascere un khan di rame;  
+Potrei [[Well|ben]] essere nato un Khan di rame;  
 
-Mi fabbrico un ventaglio orientale  
+Mi foggio un ventaglio orientale  
 
-Fatto di fatture mai pagate  
+Fatto delle fatture del tutto non quietanzate  
 
-Portato dall'uomo del ghiaccio, dormendo nel suo furgone  
+Portate dall'uomo del ghiaccio, che dorme nel furgone  
 
-(Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern).  
+(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
-Leggo i giovani filosofi per divertimento  
+Leggo i Giovani Filosofi per divertimento  
 
---Fresco come il nostro dolore per la defunta [[Queen|Regina]] Anna--  
+--Freschi come il nostro cordoglio per la defunta [[Queen]] Anne--  
 
-I dionisiaci che una pinta stordirebbe  
+I Dionisiaci che una pinta stenderebbe,  
 
-I panteisti che non hanno mai sentito parlare di Pan.  
+I Panteisti che mai sentirono di Pan.  
 
-# Ma attraverso i miei capelli correvano aghi elettrici  
+--Ma tra i miei capelli corsero aghi elettrici,  
 
-E sulla mia pagina una goccia di [[Water|acqua]] cade,  
+E sul mio libro una goccia d'[[Water|acqua]] si versa,  
 
-E ai margini del cielo iniziarono i cannoni  
+E sui lembi del cielo i cannoni cominciarono  
 
-(Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern).  
+(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
-# Campi d'Inghilterra, aridi e screpolati  
+O campi di England, crepati e secchi e bigi,  
 
-O [[Soul|anima]] d'Inghilterra, stanca delle parole e pallida! —  
+O [[Soul|anima]] di England, malata di parole, e smorta!--  
 
-Le nuvole si fanno scure; -- la pioggia è iniziata.  
+Le nubi si fanno scure;--la piena è cominciata.  
 
-# Arriva, arriva come può il santo buio  
+--Viene, viene, come sa venire la sacra tenebra,  
 
-Nero come con bandiere, divieto e contro-divieto;  
+Nera come di bandiere, ban e arriere-ban;  
 
-Una risata cadente riempie tutta la valle  
+Una risata che cade riempie tutta la valle,  
 
-Profondo come il tuono di Dio e la sete dell'uomo:  
+Fonda come il tuono di Dio e la sete dell'uomo:  
 
-(Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern).  
+(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
-EPILOGO  
+ENVOI  
 
-Principe, Principe Elettivo secondo il piano moderno  
+Principe, Principe-Elettivo alla maniera moderna  
 
-Soddisfare i desideri di tante persone,  
+Che adempi tante Volontà del Popolo,  
 
-Prendi le Cento Chiltern mentre puoi...  
+Prenditi i Chiltern Hundreds finché puoi--  
 
-Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern.
+Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills.
 
 
 
@@ -9793,19 +9793,19 @@ UNA PAROLA
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RICONCILIAZIONE DEL CRISTIANESIMO: UNA ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
-LA TERRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
 
-IL NUOVO LIBERO PENSIATORE  
+IL NUOVO LIBERO PENSATORE  
 
-IN MEMORIA DI P.D.  
+IN MEMORIAM P.D.  
 
-[[Sonnet|SONETTO]] CON I COMPLIMENTI DELLA STAGIONE  
+[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
 UN [[Song|CANTO]] DI SPADE
 
@@ -9813,13 +9813,13 @@ UN [[Song|CANTO]] DI SCONFITTA
 
 [[Sonnet|SONETTO]]  
 
-L'AFRICA  
+AFRICA  
 
-IL GUERRIERO MORTO [[Hero|EROE]]  
+Il MORTO [[Hero|EROE]]  
 
 UN'ECO ELETTORALE  
 
-LA [[Song|CANZONE]] DELLE RUOTE  
+IL [[Song|CANTO]] DELLE RUOTE  
 
 IL POPOLO SEGRETO  
 
@@ -14465,355 +14465,355 @@ That cut the throat of thieves in every land.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il martellare sui tetti al mattino, il fragore dell'officina attiva;  
+Il martellare sui tetti al mattino, il fragore operoso dell'officina;  
 
-Il sibilo delle trucioli si disperdeva lontano lungo il pavimento ventoso;  
+Il sibilo dei trucioli ammucchiati fondi sul pavimento ventoso;  
 
-Il canto mormorato del lavoratore abbronzato dal calore, il ronzio del valore umano...  
+Il sommesso [[Song|canto]] del lavoratore brunito dal fuoco, il ronzio dell'umano valore--  
 
-Tra tutto il frastuono dei mestieri risuonò la parola sonora.  
+Mescolata a tutto il rumore dei mestieri, la parola squillante andò innanzi.  
 
-Il fruscio delle reti si fondeva con esso, il grattare della sabbia e dei gusci,  
+Il tonfo delle reti vi passò dentro, lo stridere di sabbia e conchiglia,  
 
-Il cozzare dell’amo della barca, lo scricchiolio dei remi, le grida di comprare e vendere,  
+Il cozzo del gancio da barca, l'urto dei remi, le grida del comprare e vendere,  
 
-Il frullio delle banchine che si staccano dalla terra, la tela che crepita liberamente,  
+Il guizzare dei banchi tratti a riva, la tela che crepita libera,  
 
-E attraverso tutte le varie note e grida, il ruggito del mare,  
+E fra tutte le varie note e grida, il ruggito del mare,  
 
-Il rumore di vite piccole e coraggiose, di vite bisognose ed elevate;  
+Il rumore di vite piccole e prodi, di vite bisognose e alte;  
 
-Nel raccogliere tutti i travagli della terra, la parola vivente passò oltre.  
+Raccogliendo tutti i travagli della terra, la parola viva passò.  
 
-I giganteschi peccati della Terra si inchinarono davanti ad essa, nell'immensa eclissi dell'Impero,  
+I giganteschi peccati della terra le si piegarono, nell'immensa eclissi dell'Impero,  
 
-Quando l'oscurità si posò sopra i troni, con sette tuoni sulle sue labbra,  
+Quando la tenebra sedeva sopra i troni, sette tuoni sulle labbra,  
 
-Entrò in essa la sciagura delle città, il fragore della caduta degli idoli,  
+Il dolore delle città vi entrò, il fragore degli idoli caduti,  
 
-Il grido dei Cesari immondi squarciava l'aria nelle loro sfacciate sale,  
+L'urlo dei Cesari immondi pugnalati in alto nelle sale di bronzo,  
 
-I cappucci opachi e rochi degli uomini nudi, il mondo che stringe la cintura,  
+Le fioche rauche Fiumane di uomini nudi, la cinghia dei regni del mondo che si spezza,  
 
-Le trombe dell'[[Apocalypse|Apocalisse]], le tenebre della terra:  
+Le trombe dell'[[Apocalypse]], la tenebra della terra:  
 
-La collera che infranse la lampada eterna e nascose l'eterna [[Hill|collina]],  
+L'ira che infranse la lampada eterna e nascose l'eterno [[Hill|colle]],  
 
-Mentre si preparava la distruzione del mondo, la parola continuò a diffondersi...  
+Carica della distruzione d'un mondo, la parola procedeva ancora--  
 
-La fiammata delle credenze vi si riversò dentro, il sibilo di orribili fuochi,  
+La vampa dei credi vi passò dentro, il sibilo di fuochi orrendi,  
 
-La lancia sfrenata, la [[Cross|croce]] scarlatta, la camicia di pelo e le spine,  
+La lancia a capofitto, la scarlatta [[Cross|croce]], il cilicio e i rovi,  
 
-Il fragoroso canto dei fratelli chiusi nel chiostro, la [[Song|canzone]] del campione errante,  
+Il canto tonante dei fratelli claustrali, il [[Song|canto]] del campione errante,  
 
-Il cambiamento delle corone e dei troni, l'ingarbugliarsi dei forti.  
+Il mutare di corone e troni, il groviglio dei forti.  
 
-La rovinosa caduta di cresta e [[Crown|corona]] e scudo e [[Cross|croce]] e copricapo,  
+Il crollo fragoroso di cimiero e [[Crown|corona]] e scudo e [[Cross|croce]] e piviale,  
 
-Lo strappo delle vistose frivolezze di [[Time|tempo]], la piaga del principe e del papa,  
+Lo strappo dei fronzoli del [[Time|tempo]], la rovina di principe e papa,  
 
-Il regno di milioni stracciati uniti per strappare un debito esoso,  
+Il regno di milioni cenciosi uniti a strappare un debito gravoso,  
 
-Forte con il ruggito dalle molte gole, la parola continuò ad avanzare.  
+Alta del ruggito di mille gole, la parola avanzava ancora.  
 
-La [[Song|canzone]] delle ruote si fondeva con esso, il ruggito e il fumo  
+Il [[Song|canto]] delle ruote vi passò dentro, il fragore e il fumo  
 
-Il [[Riddle|enigma]] del bisogno e dello stipendio, le nebbie che bruciano e soffocano.  
+L'[[Riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
 
-La rottura delle cinghie d'oro, i bisogni che strisciano e si gonfiano.  
+Lo spezzarsi delle cinghie d'oro, i bisogni che strisciano e gonfiano.  
 
-La speranza che rafforza, la luce abbagliante, il vangelo assordante, [[Hope|speranza]].  
+La [[Hope|speranza]] che rinvigorisce, la luce che abbaglia, l'evangelo assordante,  
 
-Attraverso regni morti e imperi dannati, attraverso cambiamenti senza fine,  
+Per regni morti e imperi dannati, per mutamenti senza posa,  
 
-Con terremoto e caos nacque e crebbe la [[Rose|rosa]]: e la parola fu “Pace”.  
+Con terremoto, caos, nata e nutrita, [[Rose|sorse]],--e la parola fu "Pace."  
 
 V  
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RICONCILIAZIONE DEL CRISTIANESIMO: UNA ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
-"UN PROGETTO DI LEGGE CHE HA SCOSSESSE LA [[Conscience|coscienza]] DELLA NOSTRA  
+"UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[Conscience|COSCIENZA]] DI  
 
-"OGNI COMUNITÀ CRISTIANA IN EUROPA". —  
+OGNI COMUNITÀ CRISTIANA D'EUROPA."--  
 
-_Sig. F.E. Smith_, SUL PROGETTO DI LEGGE PER LA SEPARAZIONE DEL GALLES.  
+_Mr. F.E. Smith_, SUL WELSH DISESTABLISHMENT BILL.  
 
-Stanno aggrappati alle loro croci?  
+Si aggrappano alle loro croci,  
 
 F.E. [[smith|Smith]],  
 
-Dove la flotta di barche bretoni si dondola,  
+Dove beccheggia la flotta bretone,  
 
-Sono loro, [[smith|Smith]]?  
+Lo fanno, [[smith|Smith]]?  
 
-Digiunano, camminano a piedi nudi, sanguinano,  
+Forse, digiunando, arrancando, sanguinando,  
 
-Aspettate le notizie da questa nostra [[City|città]]?  
+Attendono notizie da questa nostra [[City|città]]?  
 
-Gemendo «Questa è la seconda lettura!»  
+Gemendo "Ecco la Seconda Lettura!"  
 
-Sibilando «C'è ancora chi si impegna»  
+Sibilando "C'è ancora la Commissione"  
 
 Se la voce di Cecil vacilla,  
 
-Se l'argomento di McKenna ha senso,  
+Se l'argomento di McKenna ha midollo,  
 
 Tremano per i loro altari?  
 
 Lo fanno, [[smith|Smith]]?  
 
-I contadini russi circondano il loro papa  
+I contadini russi attorno al loro pope  
 
-Accovacciato, [[smith|Smith]],  
+Stretti, [[smith|Smith]],  
 
-Sentite parlare di tutto questo, io [[Hope|spero]].  
+Ne sanno tutto, io [[Hope|spero]],  
 
-Non è così, [[smith|Smith]]?  
+Non è vero, [[smith|Smith]]?  
 
-Nei villaggi di montagna gli abiti  
+Nei borghi montani che rivestono  
 
-Picchi oltre i confini del Caucaso,  
+Vette oltre le barriere caucasiche,  
 
-Dove l'Establishment non significa nulla  
+Dove Establishment non significa nulla  
 
-E non hanno mai sentito parlare del Galles,  
+E non hanno mai sentito nominare Wales,  
 
-Lo leggono tutto su Hansard?  
+Leggono tutto questo su Hansard  
 
-Con un presepe per leggerlo...  
+Con un sussidio per decifrarlo--  
 
-"Decime gallese: risposta del dottor [[Clifford]],"  
+"Decime Gallesi: Dr. [[Clifford]] Confutato,"  
 
 Davvero, [[smith|Smith]]?  
 
-Nelle terre dove vivevano i cristiani,  
+Nelle terre dove i cristiani furono,  
 
 F.E. [[smith|Smith]],  
 
-Nelle piccole terre scoperte,  
+Nelle piccole terre spogliate,  
 
-[[smith|Smith]], o [[smith|Smith]]!  
+[[smith|Smith]], O [[smith|Smith]]!  
 
-Dove le bande turche sono all'opera,  
+Dove le bande turche s'affaccendano,  
 
-E il nome dei Tories è benedetto  
+E il nome Tory è benedetto  
 
-Da quando acclamarono la [[Cross|croce]] di Dizzy  
+Da quando salutarono la [[Cross]] di Dizzy  
 
-Sui vessilli dell'Occidente!  
+Sulle bandiere venute dall'Ovest!  
 
-Gli uomini non la ritengono nemmeno lontanamente così dura se  
+Gli uomini non la trovano poi tanto dura se  
 
-[[Islam]] brucia i loro parenti e amici,  
+L'[[Islam]] brucia i loro cari e congiunti,  
 
 Poiché un curato vive a Cardiff  
 
 Salvato da [[smith|Smith]].  
 
-Devo ammettere che sarebbe di grande aiuto,  
+Gran conforto, devo ammettere,  
 
-Consolami, [[smith|Smith]],  
+Mi daresti, [[smith|Smith]],  
 
-Se lasciassi questo tema [[Alone|da parte]],  
+Se questo tema lo lasciassi [[Alone|stare]],  
 
 Santo [[smith|Smith]]!  
 
-Per la vostra causa legale o civile  
+Per la tua causa legale o civile  
 
-Combattete [[Well|bene]] e ricevete la vostra paga;  
+Combatti [[Well|bene]] e prendi la parcella;  
 
 Per il tuo Dio o sogno o diavolo  
 
-Risponderete, ma non a me.  
+Risponderai, ma non a me.  
 
-Parlate delle panche e dei campanili  
+Parla pure di banchi e campanili  
 
-E il denaro che ne consegue!  
+E del Denaro che vi va appresso!  
 
-Ma le anime dei popoli cristiani...  
+Ma le anime dei popoli cristiani....  
 
---Butta via tutto, [[smith|Smith]]!  
+--Piantala, [[smith|Smith]]!  
 
-IL RIBELLE: O VERSI PER UN UOMO DI STATO  
+IL RIVOLUZIONARIO: OVVERO VERSI A UN UOMO DI STATO  
 
-"NON SONO MAI STATO Fermo a guardare mentre avveniva una rivoluzione  
+"NON SONO MAI RIMASTO A GUARDARE MENTRE UNA RIVOLUZIONE  
 
-"STAVA ACCADENDO". -- _Discorso del Venerabile Walter_  
+ERA IN CORSO."--_Discorso del Rt. Hon. Walter  
 
-Lungo_  
+Long_.  
 
-Quando la [[Death|morte]] era sui tuoi tamburi, [[democracy|democrazia]],  
+Quando la [[Death]] era sui tuoi tamburi, [[democracy|Democrazia]],  
 
 E con un solo impeto di schiavi il mondo fu libero,  
 
-In quell'alta [[Dawn|alba]] che i Re non dimenticheranno mai,  
+In quell'alta [[Dawn|alba]] che i Re non scorderanno,  
 
-C'era un vuoto e Walter non era ancora nato.  
+V'era un vuoto e Walter ancora non era.  
 
-Attraverso la Versailles saccheggiata, a Valmy nella mischia,  
+Per Versailles saccheggiata, a Valmy nella mischia,  
 
-In qualche modo se la cavarono senza di lui;  
+Fecero senza di lui in qualche modo;  
 
-La Cristianità rossa attraversò tutto il territorio senza di lui [[Cross|croce]].  
+La rossa Cristianità tutta senza Walter [[Cross|attraversano]],  
 
-E nella loro furia a malapena sentono la perdita...  
+E nella loro furia appena avvertono la perdita....  
 
-La Repubblica svanisce; flebile come la tromba di Orlando,  
+Svanisce la Repubblica; fioca come il corno di Roland,  
 
-Le sue trombe ci scherniscono con un sacro disprezzo...  
+Le sue trombe ci scherniscono con sacro sdegno....  
 
-Poi cadde il [[Silence|silenzio]]; e nacque il signor Long.  
+Poi cadde il [[Silence|silenzio]]; e nacque Mr. Long.  
 
-Dalle prime ore nella sua costosa culla  
+Dalle sue prime ore nella costosa culla  
 
-Non vide mai abbattere il più minuscolo visconte.  
+Mai vide fucilare il più minuscolo visconte.  
 
-Per accontentare il capriccio dei suoi ricchi genitori  
+In ossequio al capriccio dei ricchi genitori  
 
-I massacri più selvaggi gli furono risparmiati.  
+I massacri più selvaggi gli furono celati.  
 
 Le guerre che tinsero di rosso Pall Mall e Brompton  
 
-Passò inoffensivo sopra quella testa inconsapevole:  
+Passarono innocue su quell'unica testa ignara:  
 
-Per tutto ciò che il piccolo Long poteva capire  
+Per quanto il piccolo Long potesse capire  
 
-I ricchi potrebbero ancora essere i governanti della terra.  
+I ricchi potevano ancora reggere il paese.  
 
-Invano le pie arti della genitorialità,  
+Vane sono le pie arti dei genitori,  
 
-La Rivoluzione fallita gli ribolliva nel [[Blood|sangue]];  
+La Rivoluzione frustrata gli ribolliva nel [[Blood|sangue]];  
 
-Fino al giorno (il bambino [[unborn|non nato]] se ne pentirà)  
+Finché un giorno (il bimbo [[unborn]] lo piangerà)  
 
-La Costituzione lo annoiava e lui la uccise.  
+La Costituzione lo annoiò ed egli la uccise.  
 
-Se fossi saggio e buono e ricco e forte —  
+Fossi io saggio e buono e ricco e forte--  
 
-Pensiero affettuoso e irriverente, se fossi Walter Long...  
+Folle, empio pensiero, fossi io Walter Long--  
 
-Se potessi vendere l'[[Water|acqua]] come oro fuso,  
+Potessi l'[[Water|acqua]] vendere come oro fuso,  
 
-E fai che gli adulti facciano come si dice loro di fare,  
+E far fare agli adulti ciò che si comanda,  
 
-Se sopra campi privati e distese così vaste  
+Se su campi privati e lande vaste  
 
-Come una [[City|città]] greca per la quale morirono degli eroi,  
+Quanto una [[City|città]] greca per cui morirono eroi,  
 
-Ero il proprietario delle case e degli uomini che vi abitavano...  
+Possedessi le case e gli uomini dentro--  
 
 Se tutto ciò pendesse da un sottile filo d'abitudine  
 
-Non rivoluzionerei un coniglio.  
+Non rivoluzionerei nemmeno un coniglio.  
 
-Mi terrei stretti tutti i miei doni e le mie glorie,  
+Me ne starei ben saldo con tutti i miei doni e glorie,  
 
-E anche predicare ai tory non convertiti,  
+E predicherei perfino ai Tory non convertiti,  
 
 Che il sistema fisso che la nostra terra eredita,  
 
 Visto da un certo punto di vista, ha i suoi meriti.  
 
-Io difenderei le leggi come un qualsiasi radicale,  
+Custodirei le leggi come un qualunque Radicale,  
 
-E conservate ogni precedente, per quanto piccolo,  
+E serberei ogni precedente, per quanto piccolo,  
 
-Per quanto sottili, nebbiosi, polverosi, onirici,  
+Per quanto sottile, nebbioso, polveroso, sognante,  
 
-Per evitare che qualcuno possa per caso guardarmi e vedermi;  
+Che l'uomo per caso non mi guardi e mi veda;  
 
-Perché gli uomini non chiedano quale pazzo mi abbia fatto signore  
+Che gli uomini non chiedano quale folle mi fece signore  
 
-Di aratri inglesi e della [[Sword|spada]] inglese;  
+Dei vomeri inglesi e della [[Sword|spada]] inglese;  
 
-Perché gli uomini non si accorgano di quanto sia sonnolento il cenno del capo  
+Che gli uomini non notino quanto sonnolento è il cenno  
 
-Che perfora le terribili immagini di Dio!  
+Che addestra le tremende immagini di Dio!  
 
-Walter, sii saggio! evita ciò che è selvaggio e nuovo,  
+Walter, sii saggio! evita il selvaggio e il nuovo,  
 
-La Costituzione è il gioco per voi.  
+La Costituzione è il gioco che fa per te.  
 
-Vattene, Valter, e bada! Non disprezzare la folla che si raduna  
+Walter, bada! non sprezzare la folla che si aduna  
 
-Soffre, eppure non può soffrire un torto,  
+Essa soffre, ma non può patire il torto,  
 
-Soffre, eppure non può soffrire a lungo.  
+Essa soffre, ma non può soffrire Long.  
 
-E se lo spingi a infrangere queste grigie regole,  
+E se la sproni a infrangere queste grigie regole,  
 
-Per pochi spiccioli assicuratevi di non svegliarvi  
+Per pochi spiccioli, bada a non destare  
 
-[[Death|Morte]] e lo splendore del cappello scarlatto,  
+La [[Death]] e lo splendore del berretto scarlatto,  
 
-Boston e Valmy, Yorktown e Jemmapes,  
+Boston e Valmy, Yorktown e Jemmappes,  
 
-[[Freedom|Libertà]] armata, la cavalcata e la rotta,  
+La [[Freedom]] in armi, le cavalcate e le rotte,  
 
-Il tuono dei capitani e le grida,  
+Il tuono dei capitani e il clamore,  
 
-Tutto quel tumulto perduto che non hai condiviso — E  
+Tutto quel perduto tumulto che non condividesti--E  
 
-quando arriverà quella rivolta... ci sarai anche tu.  
+quando quel tumulto verrà--tu _ci_ sarai.  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
-Il Lord Lilac lo trovò piuttosto spregevole  
+Lord Lilac trovava alquanto indegno  
 
-Che Shakespeare sia del tutto  
+Che Shakespeare fosse del tutto  
 
-E per questo motivo entrò in un Comitato  
+E perciò entrò in un Comitato  
 
-Con diversi ragazzi fuori dalla [[City|città]].  
+Con parecchi tizi venuti dalla [[City|città]].  
 
 E Shorter e Sir Herbert Tree,  
 
-Il signor barone di Rothschild e il signor barone di Rosebery  
+Lord Rothschild e Lord Rosebery  
 
 E F.C.G. e Comyns Carr,  
 
-Due duchi e una stella drammatica,  
+Due duchi e una stella del teatro,  
 
-Anche un ecclesiastico ora defunto;  
+E anche un ecclesiastico ora defunto;  
 
-E mentre il vanitoso mondo correva incurante  
+E mentre il vano mondo correva noncurante  
 
-Ignorando il nome eroico —  
+Ignaro del nome eroico--  
 
-Le anime più nutrite dalla fiamma di Shakespeare  
+Le anime più nutrite della fiamma di Shakespeare  
 
-Ancora sedeva invitta in un cerchio,  
+Sedevano ancora invitte in cerchio,  
 
-Ricordandolo come se fosse qualcosa di straordinario.  
+Ricordandolo a più non posso.  
 
-Il Lord Lilac non rimase a lungo.  
+Lord Lilac non rimase a lungo.  
 
-Il Lord Lilac non tornò più.  
+Lord Lilac non tornò più.  
 
-Accese dolcemente una sigaretta  
+Accese piano una sigaretta  
 
-E cercò qualche altro gruppo sociale  
+E cercò qualche altro circolo mondano  
 
-Dove, in altri nodi o anelli,  
+Dove, in altri nodi o cerchie,  
 
 La gente faceva cose colte,  
 
---Il vivario umano della signorina Zwilt  
+--Il Vivarium Umanitario di Miss Zwilt  
 
-—Gli omini che dipingono sulla gomma  
+--Gli omini che dipingono su gomma  
 
---La squisita Ragazza Gorilla...  
+--La squisita Ragazza Gorilla....  
 
-A volte, in questo vortice vertiginoso  
+Egli talvolta, in questo vortice frivolo  
 
-(non essendo veramente malvagi nel profondo),  
+(Non essendo in fondo davvero cattivo),  
 
-Ricordò Shakespeare con un sussulto —  
+Ricordava Shakespeare con un sussulto--  
 
-Ma non con quella grande costanza  
+Ma non con quella gran costanza  
 
 Di Clement Shorter, Herbert Tree,  
 
@@ -14821,223 +14821,223 @@ Lord Rosebery e Comyns Carr
 
 E tutti gli altri nomi che ci sono;  
 
-Chi si aggrappò come le chiostrine al posto,  
+Che stavano attaccati al posto come patelle,  
 
-Perché non dimenticassero, perché non dimenticassero.  
+Per non scordare, per non scordare.  
 
-Il Lord Lilac era fatto di una pasta più leggera;  
+Lord Lilac era di stoffa più lieve;  
 
-Il Lord Lilac ne aveva avuto abbastanza.  
+Lord Lilac ne aveva avuto abbastanza.  
 
-LA TERRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
 
-[[Jones]] aveva un cane; il cane aveva una catena;  
+[[Jones]] aveva un cane; esso una catena;  
 
-Non indossato spesso, non causando [[Pain|dolore]];  
+Non spesso portata, senza dar [[Pain|pena]];  
 
-Ma poiché l'I.K.L. aveva approvato  
+Ma, poiché la I.K.L. aveva approvato  
 
-Il loro “Atto dei Cugini Scatenati” finalmente,  
+Il loro "Unleashed Cousins Act" finalmente,  
 
 Gli ispettori portarono via la catena;  
 
-Allora il cane abbaiò un “evviva”!  
+Al che il canide abbaiò "urrà"!  
 
-A questo punto, naturalmente, la S.P.U.  
+Al che, naturalmente, la S.P.U.  
 
-(Cui progetto di legge per gli automobilisti nervosi era stato approvato),  
+(Il cui Nervous Motorists' Bill era passato),  
 
-Fu costretto a affidare il cane alle cure di qualcun altro  
+Fu costretta a denunciare il cane  
 
-Per essere in libertà condizionata e rumorosa.  
+Per essere Udibilmente a Piede Libero.  
 
-Nessuno, direte voi, era ora irritato,  
+Nessuno, direte, era ormai molestato,  
 
-Salvo forse [[Jones]], il cortile era deserto.  
+Salvo forse [[Jones]]--il cortile era vuoto.  
 
-Ma c'era qualcosa nel contratto di locazione  
+Ma essendoci qualcosa nel contratto  
 
-Sui «segnali d'allarme per aiutare la polizia»,  
+Su "allarmi in aiuto alla polizia,"  
 
-L'U.S.U. annesse il cantiere navale  
+La U.S.U. annesse il cortile  
 
-Per non avere guardie sufficienti  
+Per mancanza di sufficienti guardie  
 
 Ora se c'è una condizione  
 
-I C.C.P. insistono molto sul  
+Su cui la C.C.P. è irremovibile  
 
-È che ogni [[house|casa]] si acquista  
+È che ogni [[house]] che si compra  
 
-Deve avere un cortile per l'esercizio fisico;  
+Deve avere un cortile per l'esercizio;  
 
-Così [[Jones]], come inquilino, era inadatto.  
+Così [[Jones]], come inquilino, era inidoneo.  
 
-Lo stato della sua salute ne era la prova.  
+Il suo stato di salute ne era la prova.  
 
-Due medici dell'Università Tecnologica di Texas  
+Due dottori della T.T.U.  
 
-Gli disse che le sue gambe erano deboli per il lungo disuso,  
+Gli dissero che le gambe per lungo disuso,  
 
-Erano atrofizzati; e dicendo «Così  
+Erano atrofizzate; e dicendo "Così  
 
-Dall'alto gradino al più alto saliamo  
+Di gradino in gradino più alto andiamo  
 
-Finché tutto sarà Nuovo e Vero»,  
+Finché tutto sia Nuovo e Vero,"  
 
 Gli tagliarono le gambe e si ritirarono.  
 
-Conoscete le opinioni della E.T.S.T.  
+Sapete che le vedute della E.T.S.T.  
 
-Sono più forti dei T.T.U.:  
+Sono più forti di quelle della T.T.U.:  
 
-E presto (come si suol dire) spiegò le ali  
+E presto (per così dire) presero il volo  
 
-Canto le Armi, non l’Uomo.  
+Le Braccia, benché non l'Uomo, io canto.  
 
 Vederlo seduto lì senza arti  
 
-Era più di quanto il K.K. potesse sopportare  
+Era più di quanto la K.K. potesse reggere  
 
-"Con [[Mercy|misericordia]] [[Silence|silenzio]] con tutta [[Speed|celerità]]  
+"Per [[Mercy|pietà]] [[Silence|zittite]] con ogni [[Speed|prontezza]]  
 
-Quella bocca non ha mani per nutrirla;  
+Quella bocca che non ha mani per nutrirla;  
 
 Quale crudele sentimentale,  
 
-O [[Jones]], ti condannerei all'esistenza...  
+O [[Jones]], ti condannerebbe a esistere--  
 
-Ancora aggrappati all'egoistico Sé?  
+Aggrappato ancora all'egoistica Individualità?  
 
-Debole! Un tale ragionamento potrebbe sconvolgere  
+Debole! Tale ragionare potrebbe rovesciare  
 
-La legge sulle pompe e l'accumulo  
+Il Pump Act, e l'accumulo  
 
 Di tutta la legislazione costruttiva;  
 
-Costruiamoci un po' di più...  
+Lascia che ti costruiamo un poco--"  
 
 La testa cadde quando fu colpita:  
 
-Allora le parole si alzarono e un onesto [[Doubt|dubbio]].  
+Allora sorsero parole e onesto [[Doubt|dubbio]],  
 
-E quattro Commissioni si riunirono intorno  
+E quattro Commissioni sedettero a discutere  
 
-Che fosse il fendente che lo lasciò morto  
+Se il fendente che lo lasciò morto  
 
-Tagliate via il suo [[Body|corpo]] o la sua testa.  
+Gli mozzò il [[Body|corpo]] o la testa.  
 
-Uno scrittore sull'Isola di Wight  
+Un autore nell'Isle of Wight  
 
-Osservato con evidente delizia  
+Osservò con non celato diletto  
 
 Una terra di antica e giusta fama  
 
-Dove la [[Freedom|Libertà]] si allargava lentamente  
+Dove la [[Freedom]] lenta si allargava  
 
-Da precedente a precedente...  
+Di Precedente in Precedente....  
 
 E questo, credo, era ciò che intendeva.  
 
-IL NUOVO LIBERO PENSIATORE  
+IL NUOVO LIBERO PENSATORE  
 
-Giovanni Sporco, che era basso e grassoccio  
+John Grubby, che era basso e tarchiato  
 
-E turbato dal [[Doubt|dubbio]] religioso,  
+E afflitto da [[Doubt|dubbio]] religioso,  
 
-Rifiutato all'età di circa tre anni  
+Rifiutò verso i tre anni  
 
-Sedersi sulle ginocchia del curato;  
+Di sedersi sul ginocchio del curato;  
 
-(Poiché così deve infuriare l'eterna contesa  
+(Ché così l'eterna contesa deve infuriare  
 
 Tra lo spirito del tempo  
 
-E il dogma, che, come è [[Well|noto]].  
+E il Dogma, che, com'è [[Well|ben]] noto.  
 
-Odiano semplicemente di essere superati).  
+Detesta semplicemente d'essere superato).  
 
 Grubby, la giovane idea che germoglia,  
 
-Ha superato le epoche come vecchie scarpe;  
+Superò le età come vecchi stivali;  
 
-Pur essendo ancora, a prima vista, piccolo,  
+Mentre ancora, a ogni apparenza, piccolo,  
 
-Non vorrebbe affatto miracoli;  
+Non volle Miracoli affatto;  
 
 E poco prima dei dieci anni  
 
-Rifiutò fermamente il libero arbitrio agli uomini.  
+Negò fermamente agli uomini il Libero Arbitrio.  
 
-Gli altari vacillarono, i pollai tremarono,  
+Gli altari vacillarono, i cieli tremarono,  
 
 Proprio come aveva letto nel libro;  
 
-Scagliato fuori dalla sua [[house|casa]], il giovane partì  
+Scagliato dalla sua [[house]] uscì il giovane  
 
-[[Alone|Solo]] con le tempeste e la [[Truth|Verità]],  
+[[Alone]] con le tempeste e la [[Truth]],  
 
-Fino alla lontana [[City|città]] e fioca  
+Su verso la lontana [[City|città]] e fosca  
 
-Dove suo papà gli aveva comprato  
+Dove il suo papà gli aveva comprato  
 
-Una società tra Chepe e Deer  
+Una partecipazione in Chepe and Deer  
 
-Vale, diciamo, milleduecento sterline l'anno.  
+Del valore, diciamo, di milleduecento sterline l'anno.  
 
 Ma era risoluto. Lord Brute  
 
-Lo aveva trovato utile; e il Lord Saccheggia,  
+Lo aveva trovato utile; e Lord Loot,  
 
-Con cui pochissimi altri uomini agirebbero,  
+Con cui pochi altri avrebbero trattato,  
 
-Apprezzava la sua prontezza e tatto;  
+Ne apprezzava prontezza e tatto;  
 
-Nemmeno la filantropia lo fece mai...  
+Mai nemmeno la filantropia  
 
-Arricchisci un uomo più rapidamente:  
+Arricchì un uomo più in fretta:  
 
-Fu lui a fermare lo sciopero del carbone,  
+Fu lui a fermare lo Sciopero del Carbone,  
 
-Poiché bambini affamati laceravano la sua [[Soul|anima]];  
+Ché i bimbi affamati gli straziavano l'[[Soul|anima]];  
 
-Per porre fine alla loro miseria lì e subito  
+Per finire la loro miseria lì e subito  
 
-Ha riempito le miniere di cinesi —  
+Riempì le miniere di cinesi--  
 
-Seduto in quella [[house|Casa]] che ha abbattuto i Re,  
+Sedette in quella [[house|Camera]] che spezzò i Re,  
 
-E votarono per tutte le sorti di cose --  
+E votò per ogni sorta di cose--  
 
-E le [[Rose|rose]] da Sottosegretario a Segretario.  
+E [[Rose|salì]] da Sotto-Segr. a Segr.  
 
-Alcuni brontolavano. Brontoloni che davano meno  
+Alcuni brontolarono. Ringhiosi che davano meno  
 
-Più generoso è il culto del [[success|successo]],  
+Che generoso culto al [[success]],  
 
-I piccoli stampatori di Dundee  
+I piccoli tipografi di Dundee  
 
-Chi ha preso dieci anni per bestemmia,  
+Che presero dieci anni per blasfemia,  
 
-(Abbia pure perdonato loro sette)  
+(Benché li abbia lasciati andare con sette)  
 
-Rispettatelo un po' meno del cielo.  
+Lo rispettano un po' meno del cielo.  
 
-Non importa. Questo ancora può essere detto:  
+Non importa. Questo si può ancora dire:  
 
-Mai al timore [[Supernatural|soprannaturale]],  
+Mai a [[Supernatural|soprannaturale]] terrore,  
 
-Mai a divinità invisibile,  
+Mai a deità invisibile,  
 
-Sir John Grubby si inchinò?  
+Piegò Sir John Grubby il ginocchio;  
 
-Non ho mai sognato l'inferno o la collera  
+Mai sogno d'inferno o d'ira  
 
-Distogliete il visconte Sporco dal suo cammino;  
+Distolse il Visconte Grubby dal suo cammino;  
 
-Né fu corrotto da una beatitudine leggendaria  
+Né fu corrotto da favolosa beatitudine  
 
-Inginocchiarsi a qualsiasi mondo tranne questo.  
+A inginocchiarsi ad altro mondo che questo.  
 
 Il curato vive a Camden Town,  
 
@@ -15047,37 +15047,37 @@ E ancora attraverso il deserto degli anni
 
 John Grubby, nella [[house|Camera]] dei Pari,  
 
-Volto che si prendono cura, fieri e liberi,  
+Affronta quel curato, fiero e libero,  
 
-E mai si siede sulle sue ginocchia.  
+E mai si siede sul suo ginocchio.  
 
-IN MEMORIA DI P.D.  
+IN MEMORIAM P.D.  
 
-NIZZA, 30 GENNAIO 1914.  
+NICE, 30 GENNAIO 1914.  
 
-Se qualcuno si è accoccolato nella culla di un'isola  
+Se alcuno, rannicchiato in una culla d'isola  
 
-Del conforto, possano farti offerte,  
+Di agi, può farti offerte,  
 
-Chi nel giorno di ogni negazione soffiò  
+Tu che nel giorno d'ogni diniego soffiasti  
 
-Un corno che squilla nell'oscurità del mondo,  
+Una tromba attraverso il buio del mondo,  
 
-Una mano inglese toccherebbe il tuo sudario, fiduciosa  
+Una mano inglese toccherebbe il tuo sudario, fidando  
 
-Che quella [[Truth|verità]] sia di nuovo raccontata nella lingua inglese.  
+Che la [[Truth|verità]] sia detta ancora in lingua inglese.  
 
-E anche noi possiamo ancora mettere in pratica ciò che predicano,  
+E anche noi ancora potremo praticare ciò che predichiamo,  
 
-Anche se stesse esercitandosi nel colpo di baionetta.  
+Fosse pure praticare il colpo di baionetta.  
 
-Tagliando quel gigantesco collo da sabbia a sabbia,  
+Tagliare quel collo gigante da sabbia a sabbia,  
 
-Da un mare all'altro; era una piccola cosa  
+Da mare a mare; era poca cosa  
 
-Accanto al tuo improvviso grido e al fendente di sciabola  
+Accanto al tuo grido improvviso e al roteare di sciabola  
 
-Che tagliò la gola ai ladri di ogni terra.
+Che tagliò la gola ai ladri in ogni terra.
 
 
 
@@ -15641,81 +15641,81 @@ Are our legs our own, master? wheels can run without--
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non badare se i mezzosangue deridono la tua spada spezzata:  
+Non curarti se i mezzi ingegni deridono la tua lama spezzata:  
 
-Mammone nostro padrone fa tutto male.  
+Mammona nostro padrone fa male ogni cosa.  
 
-Sei il [[Fool|Matto]] che ha caricato contro un mulino a vento. Tuttavia,  
+Tu sei il [[Fool]] che caricò un mulino a vento. Eppure,  
 
-Il mugnaio è un furfante e aveva paura.  
+Il Mugnaio è un Furfante; ed ebbe paura.  
 
-Mettete giù la vostra [[Sword|spada]]. La rovina riconoscerà la sua.  
+Deponi la tua [[Sword|spada]]. La Rovina riconoscerà i suoi.  
 
-Che ogni piccolo statista semini il suo debole grano saraceno,  
+Lascia che ogni piccolo statista semini la sua fiacca avena selvatica,  
 
-O girare la sua giacca per decorarla,  
+O rivolti la giubba per decorare la giubba,  
 
-O prendi il trono e perisci col trono.  
+O prenda il trono e perisca per il trono.  
 
-Mettete giù la vostra [[Sword|spada]]. E lasciate che il bianco [[Flag|stendardo]] svanisca  
+Deponi la tua [[Sword|spada]]. E lascia che la Bianca [[Flag]] sbiadisca  
 
-In grigio; e lascia che la bandiera rossa [[Flag|svanisca]] in rosa,  
+In grigio; e che la Rossa [[Flag]] sbiadisca in rosa,  
 
-Per questi che salgono e salgono; e non possono affondare  
+Per questi che salgono e salgono; e non sanno affondare  
 
-Così profondi come la [[Death|morte]] e l'[[Honour|onore]], Déroulède.  
+Così a fondo come [[Death|morte]] e [[Honour|onore]], Déroulède.  
 
-[[Sonnet|SONETTO]] CON I COMPLIMENTI DELLA STAGIONE  
+[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
-AD UN CAPOPARTITO MOLTO DA COMPLIMENTARE  
+A UN CAPO POPOLARE DA CONGRATULARSI MOLTO  
 
-SULLA PREVENZIONE DI UNO SCIOPERO A NATALE.  
+PER AVER EVITATO UNO SCIOPERO A NATALE.  
 
-Vi conosco. Saluterete la grande liberazione,  
+Ti conosco. Saluterai l'immenso scampato pericolo,  
 
-Dicendo il fodero di mille spade,  
+Dicendo che il rinfoderare di mille spade,  
 
-Nel [[Silence|silenzio]] e nell'ingiustizia, il [[Well|bene]] si accorda  
+In [[Silence|silenzio]] e ingiustizia, [[Well|ben]] s'accorda  
 
-Con le [[Bells|campane]] di Natale. E voi li ricoprirete d'oro con il grasso  
+Con le [[Bells|campane]] di Natale. E indorerai di grasso  
 
-I giornali, i datori di lavoro, la polizia,  
+I giornali, i padroni, la polizia,  
 
-E vomitate il vuoto delle vostre parole ventose  
+E vomiterai nel vuoto le tue parole ventose  
 
-Al tuo nuovo [[Christ|Cristo]], che non porta nessuna frusta di corde  
+Al tuo Nuovo [[Christ]]; che non porta frusta di corde  
 
-Per coloro che commerciano nelle colombe della pace.  
+Per quelli che trafficano nelle colombe della pace.  
 
-La festa degli amici, l'albero dai frutti di candela,  
+La festa degli amici, l'albero dai frutti di candele,  
 
 Non ho mancato di [[Honour|onorare]]. E dico  
 
 Sarebbe meglio per uomini come noi,  
 
-E saremo più vicini a Betlemme se ci sdraiamo  
+E saremmo più vicini a Bethlehem, se giacessimo  
 
-Uccisi a colpi di fucile sulle nevi scarlatte per la libertà,  
+Uccisi a fucilate su nevi scarlatte per la libertà,  
 
-Morto alla luce del giorno nel giorno di Natale.  
+Morti nella luce del giorno di Natale.  
 
 UN [[Song|CANTO]] DI SPADE
 
-"UN BRANCO DI BESTIE ENTRÒ IN UN BORGO CHIAMATO  
+"UNA MANDRIA DI BESTIAME ENTRÒ IN UN VILLAGGIO CHIAMATO  
 
-SPADE E FURONO FERMATI DAGLI INSORTI». --- _Giornale quotidiano_.  
+SWORDS, E FU FERMATA DAI RIVOLTOSI."---_Daily Paper_.  
 
 Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
 si narra, per una nuova rinomanza,
 
-Come affrontiamo le corna del bestiame e come  
+Come tenemmo le corna del bestiame, e come  
 
-Ora afferreremo le corna del diavolo  
+Terremo ora le corna del diavolo  
 
-Prima che il signore della campana, con la corna sulla fronte,  
+Prima che il signore dell'inferno, col corno in fronte,  
 
-È incoronato nella città di Dublino  
+Sia incoronato nella città di Dublin  
 
 Luce a Oriente e luce a Occidente,
 
@@ -15737,7 +15737,7 @@ noi sappiamo dove splende viva la vergogna; sappiamo
 
 voi, che essi colpiscono, voi loro nemico,
 
-Signori del salario illegale e basso.  
+Signori del salario iniquo e vile.  
 
 questa è la vostra paga legittima.
 
@@ -15747,13 +15747,13 @@ che non osaste nominare a parole;
 
 tanto nera beffa era la moneta d'argento
 
-Che il tuo stesso discorso tremò per la vergogna di  
+Che la vostra stessa voce tremò per la vergogna  
 
 e il codardo era palese come una vacca percossa
 
 quando il bestiame si smarrì a Swords.
 
-La [[Wheel|ruota]] del tormento delle mogli girava  
+La [[Wheel|ruota]] del tormento delle mogli girò  
 
 per spezzare la fratellanza degli uomini;
 
@@ -15761,7 +15761,7 @@ deste il buon [[Blood|sangue]] irlandese a ungere
 
 i randelli dei nemici della vostra patria;
 
-Avete visto l'uomo coraggioso piegarsi fino alle ginocchia:  
+Vedeste l'uomo prode battuto in ginocchio:  
 
 e vedeste che era cosa buona.
 
@@ -15769,7 +15769,7 @@ La fune dei ricchi è lunga, lunga--
 
 la più lunga fra le corde del boia;
 
-Ma i re e la folla stanno tenendo il loro branzino,  
+Ma i re e le folle trattengono il respiro,  
 
 in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
@@ -15777,11 +15777,11 @@ là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
 tra il bestiame e Swords.
 
-Forse i signori che assumono e prestano,  
+Forse i signori che assoldano e prestano,  
 
 i più vili fra tutti i signori degli uomini,
 
-Che vendono la loro gente come bestiame al mercato.  
+Che vendono i propri simili come vacche a una fiera.  
 
 non troveranno là un solo capo del loro bestiame;
 
@@ -15791,267 +15791,267 @@ volti di uomini--e Spade.
 
 E il nome splendente e terribile,  
 
-La più severa di tutte le parole dell'uomo,  
+La più severa fra le parole dell'uomo,  
 
-Eppure segna quel luogo da cercare o evitare,  
+Segna ancora quel luogo da cercare o fuggire,  
 
-Nelle strade dove corrono le bestie che lottano —  
+Nelle strade dove corre il bestiame in lotta--  
 
 Erba e un [[Silence|silenzio]] di giudizio compiuto  
 
-Nel luogo chiamato Spade.  
+Nel luogo che è chiamato Swords.  
 
 UN [[Song|CANTO]] DI SCONFITTA  
 
-Le righe si spezzano e i cannoni affondano,  
+La linea si spezza e i cannoni affondano,  
 
-I signori e i servi cavalcano la pianura;  
+I signori e i lacchè cavalcano la piana;  
 
-Respiro profondamente l'[[Dawn|alba]] e il tuono,  
+Traggo profondi respiri di [[Dawn|alba]] e tuono,  
 
-E tutto il mio cuore ringiovanisce di nuovo.  
+E tutto il mio cuore torna giovane.  
 
-Poiché i nostri capi dissero «Fatto», e io non lo ritennei tale;  
+Ché i nostri Capi dissero "Fatto," e io non lo credetti;  
 
-I nostri veggenti dissero «Pace», e non fu pace;  
+I nostri Veggenti dissero "Pace," e pace non era;  
 
-La terra diventerà sempre peggiore finché gli uomini non la redimeranno,  
+La terra peggiorerà finché gli uomini non la redimano,  
 
-E guerre più malvage prima che tutte le guerre cessino.  
+E guerre più malvagie, prima che ogni guerra cessi.  
 
-Ma le vecchie bandiere vacillano e i vecchi tamburi risuonano.  
+Ma le vecchie bandiere ondeggiano e i vecchi tamburi rullano.  
 
-Come una volta nella mia vita pulsarono e vacillarono;  
+Come un tempo nella mia vita pulsarono e ondeggiarono;  
 
 Ho ritrovato la mia giovinezza nella battaglia perduta,  
 
-Ho trovato il mio cuore sul [[Battlefield|campo di battaglia]].  
+Ho ritrovato il mio cuore sul [[Battlefield|campo di battaglia]].  
 
-Per noi che combattiamo finché il mondo sarà libero,  
+Ché noi che combattiamo finché il mondo sia libero,  
 
-Non siamo a nostro agio nella vittoria:  
+Non stiamo comodi nella vittoria:  
 
 Ci conosciamo da troppo tempo, fratello mio,  
 
-E ci siamo battuti l'uno contro l'altro, il mondo e noi.  
+E ci siamo combattuti, il mondo e noi.  
 
-E sogno i giorni in cui il lavoro era disordinato,  
+E sogno i giorni in cui il lavoro era scarso,  
 
 E raro nelle nostre tasche il segno della zecca,  
 
 Quando eravamo arrabbiati e poveri e felici,  
 
-E orgogliosi di vedere i nostri nomi stampati.  
+E fieri di vedere i nostri nomi in stampa.  
 
-Perché così essi conquistarono e così noi fummo dispersi,  
+Ché così vinsero e così ci disperdemmo,  
 
-Quando il Diavolo cavalcava e i suoi [[dogs|cani]] annusavano l'oro,  
+Quando il Diavolo cavalcò e i suoi [[dogs]] fiutarono l'oro,  
 
 E la pace di un popolo innocuo fu infranta;  
 
-Quando avevo vent'anni e qualche anno in più.  
+Quando avevo vent'anni e qualcosa.  
 
-Quando gli uomini meticci che le classi di mercato  
+Quando gli uomini bastardi che il mercato classifica  
 
-Avevano mani viscide sul bastone d'Inghilterra,  
+Avevano mani viscide sulla verga di England,  
 
-E con la [[Sword|spada]] in mano sulle gole dell'Africa  
+E [[Sword|spada]] in pugno sui valichi d'Afric  
 
 La sua ultima Repubblica gridò a Dio.  
 
-Per gli uomini che nessun signore può comprare o vendere,  
+Ché gli uomini che nessun signore può comprare o vendere,  
 
-Non stanno comodi quando tutto va [[Well|bene]].  
+Non seggono tranquilli quando tutto va [[Well|bene]].  
 
-Si sono detti l'un l'altro ciò che nulla può soffocare,  
+Si son detti l'un l'altro ciò che nulla può soffocare,  
 
-Si sono viste, le nostre anime e l'inferno.  
+Si sono visti l'un l'altro, le nostre anime e l'inferno.  
 
-È tutto come un tempo; lo stesso vuoto fragore.  
+Tutto è come un tempo; il vuoto clangore.  
 
-Il Nulla scarabocchiato su una pagina alta cinque piedi,  
+Il Nulla scarabocchiato su una pagina di cinque piedi,  
 
-Il mercante ambulante che, beffandosi della santa ira,  
+Il mercante che, schernendo l'ira santa,  
 
-Dipinge con dolore il suo volto di rabbia.  
+Faticosamente si dipinge il volto di rabbia.  
 
-E la [[Faith|fede]] dei poveri è debole e parziale,  
+E la [[Faith|fede]] dei poveri è fioca e parziale,  
 
 E l'[[Pride|orgoglio]] dei ricchi è tutto in vendita,  
 
-E i messaggeri scelti del Maresciallo d'Inghilterra  
+E gli araldi eletti del Maresciallo di England  
 
-Sono gli uomini-sandwich del «Daily Mail».  
+Sono gli uomini-sandwich del "Daily Mail."  
 
-E i tirchi che non osano donare sono saziati,  
+E gli spilorci che non osano dare sono satolli,  
 
 E i deboli che non osano fallire sono forti,  
 
-Così mentre la [[City|Città]] del Lavoro viene distrutta,  
+Così mentre la [[City]] della Fatica è sventrata,  
 
-Siedo in sella e canto la mia [[Song|canzone]].  
+Io sto in sella e canto il mio [[Song|canto]].  
 
-Per noi che combattiamo finché il mondo sarà libero,  
+Ché noi che combattiamo finché il mondo sia libero,  
 
-Non abbiamo alcun conforto nella vittoria;  
+Non abbiamo conforto nella vittoria;  
 
-Ci siamo letti l'un l'altro come [[Cain|Caino]] ha letto suo fratello,  
+Ci siamo letti l'un l'altro come [[Cain]] suo fratello,  
 
-Ci conosciamo a vicenda, questi schiavi e noi.  
+Ci conosciamo, questi schiavi e noi.  
 
 [[Sonnet|SONETTO]]  
 
-QUANDO UN PROPRIETARIO TERRIERO VIENE ACCUSATO (INGIUSTAMENTE, PER  
+NELL'UDIRE UN PROPRIETARIO ACCUSATO (FALSAMENTE, PER  
 
-(TUTTO QUELLO CHE IL BARDO PUÒ DIRE) DI TRASCURARE UNO DEI  
+QUANTO IL BARDO POSSA DIRE) DI TRASCURARE UNO DEI  
 
-# Numerosi cavalli bianchi che erano o non erano  
+NUMEROSI CAVALLI BIANCHI CHE ERANO O NON ERANO  
 
-CONNESSO A ALFREDO IL GRANDE  
+LEGATI AD ALFRED THE GREAT  
 
-Se avete ripulito il vostro prato da [[Leaves|foglie]] e lumache,  
+Se hai ripulito il tuo prato di [[Leaves|foglie]] e lumache,  
 
-Se avete detto al vostro valletto, anche con giuramenti,  
+Se hai detto al tuo valletto, magari con giuramenti,  
 
-Una volta alla settimana o giù di lì, per spazzolare i vestiti.  
+Una volta a settimana o giù di lì, di spazzolarti gli abiti.  
 
-Se avete osato lavarvi i denti o le unghie,  
+Se hai osato pulirti i denti, o le unghie,  
 
-Mentre il [[Horse|Cavallo]] sul monte sacro fallisce —  
+Mentre il [[Horse]] sul monte santo vien meno--  
 
-Poi Dio promette ad Alfredo la sua terra  
+Allora Dio che Alfred alla sua terra fidanza  
 
-Invia loro urlando tutto ciò che l'[[Honour|onore]] aborre,  
+Mandi su di te urlante tutto ciò che l'[[Honour|onore]] aborre,  
 
-Sferzate di frusta, Hounsditch, debiti e "Daily Mail".  
+Frustate, Hounsditch, debiti, e _Daily Mails_.  
 
-Non sapete neppure conservare? Per se davvero  
+Non sai nemmeno conservare? Ché se davvero  
 
-Il bianco [[Horse|Cavallo]] svanisce; poi la lotta si avvicina furtiva  
+Il Bianco [[Horse]] sbiadisce; allora più vicina striscia la battaglia  
 
-Quando avremo spazzato il volto dell'Inghilterra fino a renderlo bianco,  
+Quando strofineremo bianco il volto di England,  
 
-Sradicando uomini come voi come si sradica una pianta infestante,  
+Strappando uomini come te come erbaccia,  
 
-E scagliarli ben oltre una freccia scoccata dritta  
+E li scaglieremo lontano oltre un dardo scoccato dritto  
 
-Quando il Wessex andò in battaglia per la fede.  
+Quando il Wessex andò in battaglia per il credo.  
 
-L'AFRICA  
+AFRICA  
 
-Un popolo sonnacchioso, senza sacerdoti né re,  
+Un popolo sonnolento, senza preti né re,  
 
-Qui si dice che abbiano sognato di spingerci verso il mare:  
+Sognò qui, si dice, di spingerci al mare:  
 
-Oh, guidiamoci da soli! Perché siamo liberi  
+O spingiamoci da soli! Perché è libero  
 
-E odore di [[Honour|onore]] e di cose inglesi.  
+E sa di [[Honour|onore]] e di cose inglesi.  
 
-Come siamo arrivati a litigare accanto a queste amare sorgenti?  
+Come giungemmo a rissare presso queste amare sorgenti,  
 
-Noi del Nord? -- due gentili nazioni -- noi?  
+Noi del Nord?--due nazioni benevole--noi?  
 
-Anche se i dadi tintinnano e la moneta squilla chiara,  
+Benché i dadi crepitino e la moneta chiara tintinni,  
 
-Qui non c'è posto per gli uomini viventi.  
+Qui non è luogo dove stiano uomini vivi.  
 
-Lasciate loro l'oro per cui hanno lavorato e lamentato.  
+Lasciate loro l'oro per cui faticarono e piagnucolarono,  
 
-Che quelli che non hanno patria in nessun luogo...  
+Che quelli che non hanno nazione in alcun luogo  
 
-Sii nativo qui, e grasso e pieno di pane;  
+Siano nativi qui, e grassi e sazi di pane;  
 
-Ma noi, i cui peccati furono umani, ci ritireremo  
+Ma noi, i cui peccati furono umani, lasceremo  
 
-La terra di [[Blood|sangue]] e lascia che questi avvoltoi rimangano lì,  
+La terra del [[Blood|sangue]], e lasceremo là questi avvoltoi,  
 
-Felici senza rumore, nutrendosi dei morti.  
+Silenziosamente felici, a pascersi dei morti.  
 
-IL GUERRIERO MORTO [[Hero|EROE]]  
+Il MORTO [[Hero|EROE]]  
 
-Non ti abbiamo mai visto, come i nostri padri,  
+Noi non ti vedemmo mai, come i nostri padri,  
 
-Per chi il tuo volto era il volto della [[Freedom|Libertà]],  
+Per i quali il tuo volto era il volto della [[Freedom]],  
 
-Né sanno a che servono nastri e fili d'ufficio  
+Né sappiamo quali nastri d'ufficio e fili  
 
-Con tali forti corde possono intrecciarsi;  
+Con corde sì forti possano intrecciarsi;  
 
-Non sappiamo se gli uomini di stato allora  
+Non sappiamo se gli statisti d'allora  
 
-Erano fatti come quelli che vediamo,  
+Fossero foggiati come la razza che vediamo,  
 
-Sappiamo che non è sotto il tuo sguardo  
+Sappiamo che non sotto il tuo sguardo  
 
-L'Inghilterra ha riso della Libertà?  
+Rise England della Libertà.  
 
-Sì, questa è l'unica cosa che si sa di voi,  
+Sì, questa sola cosa si sa di te,  
 
 Sappiamo che non prima che tu fossi muto,  
 
-Non finché il tuo corso non fu tuonato attraverso,  
+Non prima che il tuo corso fosse tuonato fino in fondo,  
 
-Mammon vide forse il suo regno giungere?  
+Vide Mammona giungere il suo regno.  
 
-Le [[songs|canzoni]] del furto, le spade di noleggio,  
+I [[songs]] del furto, le spade a nolo,  
 
-I commessi che impazzivano, i soldati che correvano  
+I chierici che vaneggiarono, le truppe che corsero  
 
 L'impero del [[Desire|desiderio]] del mondo,  
 
-La [[Dance|danza]] di tutta la sporcizia ebbe inizio.  
+La [[Dance|danza]] di tutto il sudiciume cominciò.  
 
-Gli uomini felici e gioiellati extraterrestri  
+I felici uomini stranieri ingioiellati  
 
-Funzionò allora come un piccolo lievito;  
+Operavano allora solo come un poco di lievito;  
 
-Da qualche palazzo più modesto allora  
+Da qualche più modesto palazzo allora  
 
-L'[[Soul|anima]] di Dives puzzava fino al Cielo.  
+La [[Soul]] di Dives puzzava fino al Cielo.  
 
-Ma quando pianificarono con balbuzie e ghigno  
+Ma quando tramarono con blesa voce e sogghigno  
 
-La loro attenta guerra contro i deboli,  
+La loro guerra accurata contro i deboli,  
 
-Colpirono il tuo [[Body|corpo]] sulla sua bara,  
+Colpirono il tuo [[Body|corpo]] sulla bara,  
 
-Per la certezza che non avresti potuto parlare.  
+Per esser certi che non potessi parlare.  
 
 Un [[Hero|eroe]] nel [[Desert|deserto]] morì;  
 
-Gli uomini gridarono che i santi lo dovessero seppellire.  
+Gridarono gli uomini che i santi lo seppellissero.  
 
-E intorno alla [[Grave|tomba]] dovrebbero vegliare e cavalcare,  
+E attorno alla [[Grave|tomba]] vegliasse e cavalcasse,  
 
-Una cavalleria di cherubini.  
+Una cavalleria di Cherubini.  
 
-Dio disse: «C'è un posto migliore,  
+Dio disse: "C'è un luogo migliore,  
 
 Un trofeo più nobile e più alto;  
 
-Le bestie che fuggivano davanti al suo volto  
+Le bestie che fuggirono dinanzi al suo volto  
 
-Verrà a fare i suoi funerali.  
+Verranno a fare il suo funerale.  
 
-"I potenti vermi del vuoto  
+"I possenti vermi del vuoto  
 
-Che li nascondeva dal suo arco teso,  
+Che si celarono al suo arco teso,  
 
-Strisceranno fuori dalle caverne pieni di gioia,  
+Strisceranno dalle caverne esultanti,  
 
-Sciacallo e serpe e corvo mangia-carogne.  
+Sciacallo e serpe e cornacchia da carogne.  
 
-E appollaiato sopra le uova dell'avvoltoio,  
+E appollaiata sopra le uova dell'avvoltoio,  
 
-Rovesciato sulla sua mostruosa testa,  
+Capovolta sul suo capo orrendo,  
 
-Una scimmia dal volto blu agiterà le sue gambe  
+Una scimmia dalla faccia blu agiterà le zampe  
 
-Per dire al mondo che è morto».  
+Per dire al mondo che egli è morto."  
 
-UN'ECO DALLE ELEZIONI 1906  
+UN'ECO ELETTORALE 1906  
 
-Questa è la loro tromba matura e arrotondata,  
+Questa è la loro tromba matura e piena,  
 
 Hanno bruciato il grano e raccolto la pula,  
 
@@ -16059,141 +16059,141 @@ E noi che li abbiamo combattuti, noi che li abbiamo osservati,
 
 Non abbiamo almeno motivo di ridere?  
 
-Non mai così bassi almeno inciampammo —  
+Mai così in basso almeno inciampammo--  
 
-Siamo stati morti ma non così morti  
+Morti siamo stati ma non così morti  
 
-Come coloro che vivono della vita che hanno sperperato,  
+Come questi che vivono della vita che sperperarono,  
 
-Come coloro che bevono il [[Blood|sangue]] che hanno versato.  
+Come questi che bevono del [[Blood|sangue]] che versarono.  
 
-Non abbiamo mai vantato la cosa in cui abbiamo sbagliato,  
+Mai ci vantammo della cosa che sbagliammo,  
 
-Non abbiamo mai perseguitato la cosa che fallisce,  
+Mai Ostentammo la cosa che fallisce,  
 
-Non ci siamo mai tirati indietro davanti alla risata vivente,  
+Mai ci ritraemmo dal riso dei vivi,  
 
-Urlare ai morti che non raccontano storie,  
+Per ululare ai morti che non raccontano storie,  
 
-Era un altro dito almeno che indicava  
+Fu un altro dito almeno che additò  
 
-I nostri uomini sprecati o le nostre borse svuotate,  
+I nostri uomini sprecati o le nostre borse vuotate,  
 
-Non siamo noi a suonare la tromba  
+Non fummo noi a suonare la tromba  
 
-Di fronte al trionfo di rovine e stracci.  
+Davanti al trionfo di rottami e stracci.  
 
-Non temete questi, hanno fatto il loro patto, [[Fear|paura]].  
+Non abbiate [[Fear]] di costoro, hanno fatto il loro patto,  
 
-Hanno contato il costo dell'ultimo dei raid,  
+Hanno contato il costo dell'ultima delle razzie,  
 
-Hanno impegnato le loro vite nelle cose che non vivono,  
+Hanno puntato le vite su cose che non vivono,  
 
-Hanno bruciato la loro [[house|casa]] per un [[Fire|fuoco]] che svanisce.  
+Hanno bruciato la loro [[house]] per un [[Fire|fuoco]] che svanisce.  
 
-Cinque anni fa avremmo potuto temerli,  
+Cinque anni fa e avremmo potuto temerli,  
 
-Sono stato picchiato dal codardo e istruito dall'asino;  
+Bastonati dal codardo e istruiti dal somaro;  
 
-La [[Truth|verità]] può durare e essere raccontata e ripetuta.  
+La [[Truth]] può durare ed esser detta e riecheggiata,  
 
-Ma una bugia può essere giovane solo una volta.  
+Ma una menzogna non può esser giovane che una volta.  
 
-Cinque anni fa avremmo potuto temerli;  
+Cinque anni fa e avremmo potuto temerli;  
 
-Ora che sollevano la fronte coronata d'alloro,  
+Ora, quando levano la fronte laureata,  
 
-Nulla salirà dalle nostre schiere radunate  
+Nulla si leverà dalle nostre schiere adunate  
 
-Ma una risata come un tuono. Ora li conosciamo.  
+Se non una risata come tuono. Li conosciamo ora.  
 
-LA [[Song|CANZONE]] DELLE RUOTE  
+IL [[Song|CANTO]] DELLE RUOTE  
 
-SCRITTO VENERDÌ E SABATO DI AGOSTO DEL 1911.  
+SCRITTO DURANTE UN VENERDÌ E UN SABATO DELL'AGOSTO 1911.  
 
-Il [[King|Re]] Dives stava aspettando nel suo [[Garden|giardino]] tutto [[Alone|solo]].  
+[[King]] Dives attendeva nel suo [[Garden|giardino]] tutto [[Alone|solo]],  
 
-Dove i suoi [[Flowers|fiori]] sono fatti di ferro e gli alberi sono fatti di pietra,  
+Dove i suoi [[Flowers|fiori]] son fatti di ferro e i suoi alberi di pietra,  
 
-E le sue arnie sono piene di tuono e il [[Lightning|fulmine]] balza e uccide,  
+E i suoi alveari son pieni di tuono e il [[Lightning|lampo]] balza e uccide,  
 
-Perché i mulini di Dio macinano lentamente; e lavora con altri mulini.  
+Ché i mulini di Dio macinano lenti; e lui lavora con altri mulini.  
 
-Dives trovò un potente [[Silence|silenzio]] e gli mancò il battito e lo scatto.  
+Dives trovò un possente [[Silence|silenzio]]; e gli mancò il pulsare e il balzo,  
 
-Il rumore di tutte le creature senza sonno che cantano per farlo [[Sleep|dormire]].  
+Il rumore di tutte le creature insonni che lo cantavano nel [[Sleep|sonno]].  
 
-E disse: «Una vite è caduta -- o un bullone si è spostato --  
+E disse: "Una vite è caduta--o un bullone è scivolato via--  
 
-"Qualche piccola cosa è cambiata"; e le piccole cose risposero:  
+Qualche piccola cosa s'è spostata": e le piccole cose risposero:  
 
-«Chiamate le ruote, padrone, chiamate le ruote;  
+"Invoca le ruote, padrone, invoca le ruote;  
 
-Ci riposiamo, maestro, scoprendo come ci si sente,  
+Noi ci riposiamo, padrone, per scoprire che effetto fa,  
 
-Stretta la legge del mio e tuo: il furto sempre evitiamo—  
+Severa la legge del tuo e del mio: il furto sempre fuggiamo--  
 
-Tutte le ruote sono tue, maestro: di' alle ruote di girare!  
+Tutte le ruote son tue, padrone--di' alle ruote di correre!  
 
-Sì, le Ruote sono dei potenti... allora metteteli in moto!  
+Sì, le Ruote sono dèi possenti--mettile in moto allora!  
 
-Siamo solo uomini, padrone, hai mai sentito parlare di uomini?  
+Noi siamo solo uomini, padrone, hai mai sentito degli uomini?  
 
-“Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro respiro.”  
+"Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro respiro.  
 
-Dio per vuoti onori solo diede loro la [[Death|morte]] e il disprezzo della [[Death|morte]],  
+Dio per vuoti onori diede loro solo [[Death|morte]] e sprezzo della [[Death|morte]],  
 
-E cammini su vermi come tappeto e calpesti una pietra che strilla—  
+E tu cammini sui vermi come tappeto e calpesti una pietra che stride--  
 
-Solo che Dio, che li ha fatti vermi, non li ha fatti ruote.  
+Solo, Dio che li fece vermi non li fece ruote.  
 
-L'uomo chiuderà il suo cuore contro di voi e non troverete la [[spring|primavera]].  
+L'uomo chiuderà il suo cuore contro di te e tu non troverai la [[spring]].  
 
-L'uomo che vuole ciò che non desidera, la cosa intollerabile...  
+L'uomo che vuole la cosa che non desidera, la cosa intollerabile--  
 
-Quando preferirà il suo ventre vuoto alla tua testa vuota  
+Quando gli piacerà il suo ventre vuoto più della tua testa vuota  
 
-La terra e il cielo sono muti davanti a lui: è più forte dei morti.  
+Terra e cielo son muti davanti a lui: è più forte dei morti.  
 
-«Chiamate le ruote, padrone, chiamate le ruote,  
+"Invoca le ruote, padrone, invoca le ruote,  
 
-L'acciaio è sotto la tua mano, la pietra sotto i tuoi piedi,  
+Acciaio sotto la tua mano, pietra sotto i tuoi talloni,  
 
-L'acciaio non riderà mai ad alta voce, udendo ciò che abbiamo udito,  
+L'acciaio non riderà mai forte, udendo ciò che udimmo,  
 
-La pietra non si spezzerà mai il cuore, impazzita per una [[Hope|speranza]] rimandata—  
+La pietra non si spezzerà mai il cuore, folle di [[Hope|speranza]] differita--  
 
-Uomini di tatto che arbitrano, riforme lente che guariscono -- [[Reform|riforma]]  
+Uomini di tatto che arbitrano, lenta [[Reform|riforma]] che risana--  
 
-Salva il grasso puzzolente, padrone, salvalo per le ruote.  
+Serba il grasso fetido, padrone, serbalo per le ruote.  
 
-“[[King|Re]] Dives nel [[Garden|giardino]], non abbiamo nulla da dare o da tenere...  
+"[[King]] Dives nel [[Garden|giardino]], noi non abbiamo nulla da dare o tenere--  
 
-(Anche mentre il bambino prendeva vita i bastoni marci venivano venduti.)  
+(Mentre ancora il bimbo veniva alla vita i legni marci eran venduti.)  
 
-Il selvaggio conosce una caverna e i contadini coltivano un appezzamento,  
+Il selvaggio conosce una caverna e i contadini serbano un campo,  
 
-Di tutte le cose che gli uomini hanno avuto — ebbene, noi non le abbiamo più.  
+Di tutte le cose che gli uomini ebbero--ecco! noi non le abbiamo.  
 
-Nemmeno un pezzetto di terra dove le formiche potessero deporre le uova —  
+Non un brandello di terra dove le formiche possano deporre le uova--  
 
-Solo questo povero grumo di terra che cammina su due gambe —  
+Solo questo povero grumo di terra che cammina sulle gambe--  
 
-Solo questa povera dimora errante, solo questi due alberi ambulanti.  
+Solo questa povera magione errante, solo questi due alberi che camminano.  
 
-Solo mani e cuori e stomaci -- che cosa c'entrate voi con questi?  
+Solo mani e cuori e stomaci--che hai tu a che fare con questi?  
 
-Avete motori grandi e lucidi, alti oltre la comprensione dei nostri padri,  
+Tu hai macchine grandi e brunite, alte oltre il sapere dei nostri padri,  
 
-Perché dovreste fare la pace e commerciare con gente così debole come gli uomini?  
+Perché dovresti far pace e commercio con gente fiacca come gli uomini?  
 
-«Chiamate le ruote, padrone, chiamate le ruote,  
+"Invoca le ruote, padrone, invoca le ruote,  
 
-Sono sordi ai demagoghi, sordi agli appelli rozzi;  
+Sono sorde ai demagoghi, sorde ai rozzi appelli;  
 
-Sono le nostre mani davvero nostre, maestro? -- come i medici [[Doubt|dubitan]]o!  
+Son nostre le nostre mani, padrone?--come ne [[Doubt|dubitano]] i dottori!  
 
-Le nostre gambe sono nostre, maestro? Le ruote possono correre senza...
+Son nostre le nostre gambe, padrone? le ruote corrono senza--
 
 
 
@@ -17785,37 +17785,37 @@ A [[Storm|storm]] is coming on the Chiltern Hills.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Eppure colui che [[Dreams|sogna]] e vaga  
+Pure colui che [[Dreams|sogna]] e vaga  
 
-Attraverso il suo stesso aspetto fatato,  
+Per la propria aria fatata,  
 
 Sa che la strada è una [[Prison|prigione]],  
 
-Sa che le porte ci sono:  
+Sa che i cancelli sono là:  
 
-Eppure colui che disprezza o combatte  
+Pure colui che sdegna o lotta  
 
 Vede, spaventoso e lontano.  
 
-Tutto ciò che lasciano dei ribelli  
+Tutto ciò che dei ribelli lasciano  
 
-Marcisca in alto su Temple Bar.  
+Marcire in alto su Temple Bar.  
 
-Tutto ciò che ho amato e odiato,  
+Tutto ciò che amai e odiai,  
 
-Tutto ciò che evitavo e conoscevo,  
+Tutto ciò che fuggii e conobbi,  
 
-Schiudono la vasta battaglia [[Lightning|fulgore]],  
+Si schiara in ampio [[Lightning|lampo]] di battaglia,  
 
-Dove loro, e io, e voi,  
+Dove loro, e io, e tu,  
 
-Alza in alto la barricata che si frantuma  
+Leviamo alta la barricata che spezza  
 
 Le barriere della strada,  
 
-E gridate a coloro che si ritraggono all'interno,  
+E gridiamo a quelli che si rannicchiano dentro,  
 
-I prigionieri della flotta.  
+I Prigionieri della Fleet.  
 
 UN [[Song|CANTO]] DEL SIDRO  
 
@@ -17823,137 +17823,137 @@ _To J.S.M._
 
 ESTRATTO DA UN [[Romance|ROMANZO]] CHE NON È ANCORA  
 
-SCITTO E PROBABILMENTE NON LO SARÀ MAI PIÙ.  
+SCRITTO E PROBABILMENTE MAI LO SARÀ.  
 
-Il vino che bevono nel Paradiso  
+Il vino che bevono in Paradiso  
 
-Le fanno nella Alta Lorena;  
+Lo fanno in Haute Lorraine;  
 
-Dio lo fece ardere dal terreno  
+Dio lo trasse ardente dalla zolla  
 
-Essere un segno e una bacchetta di segnalazione  
+Perché fosse un segno e una verga di segnale  
 
-Che coloro che bevono il [[Blood|sangue]] di Dio  
+Che quelli che bevono il [[Blood|sangue]] di Dio  
 
-Non avrà più sete mai.  
+Non avranno mai più sete.  
 
-Il vino che essi lodano nel Paradiso  
+Il vino che lodano in Paradiso  
 
-Le fanno a Ponterey,  
+Lo fanno a Ponterey,  
 
-Il vino porpora del Paradiso,  
+Il vino purpureo del Paradiso,  
 
-Ma noi abbiamo di meglio al prezzo;  
+Ma noi ne abbiamo di meglio a quel prezzo;  
 
-È il vino che lodano nel Paradiso,  
+È vino ciò che lodano in Paradiso,  
 
-È sidro quello per cui pregano.  
+È sidro ciò che pregano.  
 
 Il vino che vogliono in Paradiso  
 
-Li trovano a Capo del Pigrone,  
+Lo trovano a Plodder's End,  
 
 Il vino di mele di Hereford,  
 
-Di Hafod [[Hill|Collina]] e Hereford,  
+Di Hafod [[Hill]] e Hereford,  
 
-Dove i boschi scendevano fino a Hereford,  
+Dove i boschi scendevano a Hereford,  
 
-E lì avevo un amico.  
+E là avevo un amico.  
 
-I piedi morbidi dei beati vanno  
+I piedi lievi dei beati vanno  
 
-Nelle morbide valli occidentali,  
+Nelle dolci valli d'occidente,  
 
-La [[Road|strada]] che i santi silenziosi concedono,  
+La [[Road|strada]] che i santi silenziosi accordano,  
 
-La [[Road|strada]] dal Paradiso a Hereford,  
+La [[Road|strada]] dal Cielo a Hereford,  
 
 Dove il bosco di meli di Hereford  
 
-Arriva fino al Galles.  
+Va per tutta la via fino a Wales.  
 
 L'ULTIMO [[Hero|EROE]]  
 
-Il [[Wind|vento]] soffiò da Bergen dall'alba al giorno,  
+Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
-A una ventina di miglia di distanza c'era un ammasso di alberi rovinati e torri cadute,  
+Vi fu strage d'alberi e caduta di torri a venti miglia di distanza,  
 
-E vado alla deriva come una foglia livida davanti alla sua marea,  
+E trascinato come livida foglia vado innanzi alla sua marea,  
 
-Sputati fuori da [[house|casa]] e stalla, privi di [[Flag|bandiera]] e sposa.  
+Sputato fuor di [[house]] e stalla, spogliato di [[Flag|bandiera]] e sposa.  
 
-I cieli si curvano sopra la mia testa, gridando come guerre di serafini.  
+I cieli si curvano sul mio capo, urlanti come guerre di serafini.  
 
-Con piogge che potrebbero spegnere il sole e spazzare dal cielo le [[Stars|stelle]],  
+Con piogge che potrebbero spegnere il sole e nettare il cielo di [[Stars|stelle]],  
 
-Piogge come la caduta di mari distrutti da mondi segreti sopra di noi,  
+Piogge come il crollo di mari in rovina da mondi segreti lassù,  
 
-Il ruggito delle piogge di Dio è udito solo dall'[[Love|amore]] solitario.  
+Il ruggito delle piogge di Dio nessuno se non i solitari lo [[Love|ama]].  
 
-Festeggiate nella mia sala, o nemici, e mangiate e bevete fino all'ultima goccia,  
+Banchettate nella mia sala, o nemici, e mangiate e bevete e scolate,  
 
-Non hai mai amato il sole nel cielo come io ho amato la pioggia.  
+Mai amaste il sole in cielo come io ho amato la pioggia.  
 
-La sorte della battaglia cambia - così sia per tutte le battaglie;  
+La sorte della battaglia muta--così sia ogni battaglia;  
 
-Ho rubato loro mia moglie, e loro l'hanno rubata di nuovo a me.  
+Rubai a loro la mia sposa, essi me la rubarono di ritorno.  
 
-La vidi uscire dalla sua sala dal tetto rosso, cavalcai e la vidi sorgere  
+La strappai dalla sua sala dal tetto rosso, cavalcai e vidi sorgere  
 
-Più bella dei viventi [[Flowers|fiori]], l'odio nei suoi occhi.  
+Più bello dei vivi [[Flowers|fiori]] l'odio nei suoi occhi.  
 
-Non mi ha mai amato, non si è mai piegata, non è mai stata meno divina;  
+Mai mi amò, mai si piegò, mai fu meno divina;  
 
-Il tramonto non mi ha mai amato; il [[Wind|vento]] non è mai stato mio.  
+Il tramonto mai mi amò; il [[Wind|vento]] non fu mai mio.  
 
-Non fu nulla il fatto che ella stesse imperiale nella duresse?  
+Fu forse nulla che ella stesse imperiale in prigionia?  
 
-Il [[Silence|silenzio]] stesso si fece più dolce con il fruscio del suo vestito.  
+Il [[Silence]] stesso reso più dolce dal frusciare della sua veste.  
 
-O voi che svuotate il calice della vita, o voi che portate la [[Crown|corona]],  
+O voi che scolate la coppa della vita, o voi che portate la [[Crown|corona]],  
 
-Non hai mai amato il sorriso di una donna come io ho amato la sua espressione corrucciata.  
+Mai amaste il sorriso di donna come io ho amato il suo cipiglio.  
 
-Il [[Wind|vento]] soffiò da Bergen dall'alba al giorno,  
+Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
-Cavalcano e corrono con cinquanta lance per frantumare e sbarrarmi la strada,  
+Cavalcano e corrono con cinquanta lance per rompere e sbarrarmi la via,  
 
-Non morirò [[Alone|solo]], [[Alone|solo]], ma imparentato con tutti i poteri.  
+Non morirò [[Alone|solo]], [[Alone|solo]], ma parente di tutte le potenze.  
 
-Allegro come il sole antico e combattivo come i [[Flowers|fiori]].  
+Allegro come il sole antico e combattendo come i [[Flowers|fiori]].  
 
-Quanto è bianco il loro acciaio, quanto sono luminosi i loro occhi! Io [[Love|amo]] ogni furfante sorridente.  
+Com'è bianco il loro acciaio, come brillano i loro occhi! Io [[Love|amo]] ogni ridente furfante.  
 
-Gridate forte e dategli il benvenuto al banchetto dei coraggiosi.  
+Gridate alto e dategli il benvenuto al banchetto dei prodi.  
 
-Sì, li benedirò mentre si piegano e [[Love|amerò]] loro dove giacciono.  
+Sì, li benedirò mentre si piegano e li [[Love|amerò]] dove giacciono,  
 
-Quando sulla loro testa la [[Sword|spada]] che io brandisco cade frantumandosi dal cielo.  
+Quando sui loro crani la [[Sword|spada]] che rotea cala frantumandosi dal cielo.  
 
-L'ora in cui la [[Death|morte]] è come una luce e il [[Blood|sangue]] è come una [[Rose|rosa]], —  
+L'ora in cui la [[Death|morte]] è come una luce e il [[Blood|sangue]] è come una [[Rose|rosa]],--  
 
-Non avete mai amato i vostri amici, miei cari, come io amerò i miei nemici.  
+Mai amaste i vostri amici, amici miei, come io [[Love|amerò]] i miei nemici.  
 
-Sapete che cosa la terra perderà stasera, quali ricchi e innumerevoli doni, [[Night|oggi]]?  
+Sapete che cosa la terra perderà questa [[Night|notte]], quali ricchi prestiti mai contati,  
 
-Quale pesante oro di racconti non detti seppellite insieme alle mie ossa?  
+Quale greve oro di storie non narrate seppellite con le mie ossa?  
 
-I miei amori nei prati profondi e ombrosi, le mie navi che navigavano tranquille,  
+I miei amori in prati fondi e foschi, le mie navi all'ancora tranquille,  
 
-Scompigliando il piumaggio porpora di mari strani e segreti.  
+Arruffando il piumaggio purpureo di mari strani e segreti.  
 
-Vedere questa bella terra come mi è stata data [[Alone|solo]] a me,  
+Vedere questa bella terra com'è a me [[Alone|solo]] fu dato,  
 
-Il colpo che mi spacca la fronte [[Night|stasera]] spaccherà il cupo del cielo.  
+Il colpo che mi spezza la fronte questa [[Night|notte]] spezzerà la volta del cielo.  
 
-I cieli che ho visto, gli alberi che ho visto dopo nessun occhio li vedrà più.  
+I cieli che vidi, gli alberi che vidi dopo nessun occhio vedrà.  
 
-Stasera muoio la [[Death|morte]] di Dio; le [[Stars|stelle]] moriranno con me:  
+Questa [[Night|notte]] muoio della [[Death|morte]] di Dio; le [[Stars|stelle]] morranno con me:  
 
-Un suono disperderà tutte le lance e spezzerà il respiro della tromba:  
+Un solo suono fenderà tutte le lance e spezzerà il fiato della tromba:  
 
-Non hai mai riso in tutta la tua vita come riderò io nella [[Death|morte]].  
+Mai rideste in tutta la vita come io riderò nella [[Death|morte]].  
 
 VII
 
@@ -17961,300 +17961,300 @@ BALLATE
 
 BALLADE D'UNE GRANDE DAME  
 
-Il cielo ti perdonerà il Ponte all'[[Dawn|alba]].  
+Il Cielo ti perdonerà il Bridge all'[[Dawn|alba]],  
 
-Gli abiti che indossate... o non indossate...  
+Gli abiti che porti--o non porti--  
 
-E il salto della rana delle signore sul prato  
+E la Cavallina delle Dame sul prato  
 
-E coloranti e droghe, e piccoli bicchieri.  
+E tinture e droghe, e _petits verres._  
 
-Le vostre cose malvagie si scioglieranno nell'aria...  
+Le tue cose viziose si scioglieranno nell'aria ...  
 
-... Ma per le Cose Virtuose che fate,  
+... Ma per le Cose Virtuose che fai,  
 
-L'Opera Giusta, la Preoccupazione Pubblica,  
+L'Opera Retta, la Cura Pubblica,  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
-Perché non potevate neppure sbadigliare  
+Perché non sapesti nemmeno sbadigliare  
 
-Quando i vostri Comitati vorranno preparare  
+Quando i tuoi Comitati preparavano  
 
-Estrarre i denti ai poveri,  
+Di far cavare i denti ai poveri,  
 
-O spoglia i bassifondi dei Capelli Umani;  
+O spogliare i tuguri di Capelli Umani;  
 
-Perché un dottor Otto Maehr  
+Perché un Dottor Otto Maehr  
 
-Parlò di «un pugno di segregati» —  
+Parlò di "pochi segregati"--  
 
-E tu sedevi sorridendo sulla tua sedia —  
+E tu sedevi sorridente sulla tua sedia--  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
-Anche se i tuoi peccati gridavano a Padre Vaughan,  
+Benché i tuoi peccati gridassero a---Father Vaughan,  
 
-Questi disperati non potevate risparmiarli  
+Questi disperati non sapesti risparmiare  
 
-Chi rubano, senza più nulla da impegnare;  
+Che rubano, senza più nulla da impegnare;  
 
-Avete chiuso un uomo in gabbia come fosse un orso  
+Hai ingabbiato un uomo come un orso  
 
-Per sempre sotto la custodia di un carceriere  
+Per sempre in custodia d'un carceriere  
 
-Perché i suoi peccati erano più di due...  
+Perché i suoi peccati eran più di _due_ ...  
 
-... Conosco una [[house|casa]] ad Hoxton dove  
+... Conosco una [[house]] a Hoxton dove  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
-EPILOGO  
+ENVOI  
 
-Principessa, hai intrappolato un sindaco ingenuo  
+Principessa, hai adescato un ingenuo Sindaco  
 
-Incontrare alcune persone che conoscevi...  
+Perché incontrasse certa gente che conoscevi ...  
 
-Quando l'Ultimo Trombettiere squarcia l'aria  
+Quando l'Ultima Tromba squarcerà l'aria  
 
-Non vi sarà perdonato.  
+Non ti sarà perdonato.  
 
 UNA BALLATA DI UN [[anti-puritan|ANTI-PURITANO]]  
 
-Parlavano del Progresso che si innalzava tutto intorno,  
+Parlavano del Progresso che s'inerpica a spirale,  
 
-Della luce e della signora Humphry Ward--  
+Della Luce e di Mrs. Humphry Ward--  
 
-Non è vero dire che ho aggrottato la fronte,  
+Non è vero dire che aggrottai la fronte,  
 
-O correvano per la stanza e ruggivano;  
+O che corsi per la stanza ruggendo;  
 
-Avrei potuto semplicemente sedermi e russare...  
+Avrei potuto semplicemente sedere e russare--  
 
-Mi alzai educatamente nel [[Rose|club]].  
+Mi [[Rose|alzai]] cortese nel club  
 
-E disse: «Mi sento un po' annoiato;  
+E dissi, "Mi sento un poco annoiato;  
 
-Qualcuno mi porterà in un pub?»  
+Qualcuno vuol portarmi a un pub?"  
 
-I più saggi del nuovo mondo si circondarono  
+I più saggi del nuovo mondo mi stavano  
 
-Io; e mi addolora doverlo scrivere  
+Intorno; e mi duole registrare  
 
-Non pensavo che le loro opinioni fossero profonde,  
+Che non trovai profonde le loro vedute,  
 
-O le loro conclusioni erano ben assicurate;  
+Né le loro conclusioni [[Well|ben]] salde;  
 
 La vita semplice non me la posso permettere,  
 
-Inoltre non mi piace il cibo—  
+E poi, non mi piace la sbobba--  
 
-Aspetto un purè e salsiccia, “segnati”--  
+Voglio purè e salsiccia, "rigata"--  
 
-Qualcuno mi porterà in un pub?  
+Qualcuno vuol portarmi a un pub?  
 
-So dove ancora si possono trovare gli Uomini,  
+So dove ancora si trovano Uomini,  
 
-Ira e concorde clamore,  
+Ira e clamoroso accordo,  
 
-E le virtù che nascono dalla terra,  
+E virtù che crescono dal suolo,  
 
-E la confraternita della birra e del pane,  
+E fratellanza di birra e mensa,  
 
-E la [[Song|canzone]] è un robusto cavo.  
+E [[Song|canto]], che è una corda robusta.  
 
-E la [[Hope|speranza]], che è un arbusto robusto,  
+E [[Hope|speranza]], che è un arbusto tenace,  
 
-E la bontà è l'ultima parola di Dio —  
+E bontà, che è l'ultima parola di Dio--  
 
-Qualcuno mi porterà in un pub?  
+Qualcuno vuol portarmi a un pub?  
 
-EPILOGO  
+ENVOI  
 
-Principe, Bayard avrebbe frantumato la sua [[Sword|spada]].  
+Principe, Bayard avrebbe spezzato la sua [[Sword|spada]]  
 
-Per vedere che tipo di cavalieri avete nominato...  
+Nel vedere la razza di cavalieri che nomini--È  
 
-che l'ultimo di loro — O Signore!  
+quello l'ultimo di loro--O Signore!  
 
-Qualcuno mi porterà in un pub?  
+Qualcuno vuol portarmi a un pub?  
 
 UNA BALLATA DI UN RECENSORE DI LIBRI  
 
-Non ho letto una pagina marcita  
+Non ho letto una pagina marcia  
 
-Di “Odio di Sesso” o del “Test Sociale”,  
+Di "Sex-Hate" o "The Social Test,"  
 
-E qui arrivano "Husks" e "Heritage"...  
+Ed ecco arrivare "Husks" e "Heritage"....  
 
-Oh Mosè, lasciaci tutti in pace!  
+O Moses, dacci tregua a tutti!  
 
-«Etica dell'Impero»!... Protesto  
+"Ethics of Empire"!... Protesto  
 
-Non taglierò nemmeno i fili,  
+Non taglierò nemmeno gli spaghi,  
 
-Leggerò "Jack Redskin sulla [[Quest|ricerca]]"  
+Leggerò "Jack Redskin alla [[Quest]]"  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
-Qualcuno desidera un'Età più Saggia  
+Qualcuno vuole un'Età più Saggia  
 
 (Vuole anche che io investa);  
 
-Qualcuno ama il Teatro Finlandese  
+A qualcuno piace la Scena Finlandese  
 
-Perché i Giullari non scherzano;  
+Perché i Giullari non fanno burle;  
 
 E grigio di [[Dust|polvere]] è il cimiero di [[Dante]],  
 
-La campana di Rabelais oscilla silenziosa;  
+La campana di Rabelais oscilla senza suono;  
 
-E i venti soffiano da ovest  
+E i venti vengono dall'ovest  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
-Signore della nostra risata e del nostro furore.  
+Signore del nostro riso e della nostra rabbia.  
 
 Guardaci oppressi dai nostri peccati!  
 
-Anch'io ho calpestato la mia eredità  
+Anch'io ho calpestato la mia eredità,  
 
-Malvagiamente stanchi del meglio.  
+Empiamente stancandomi del meglio.  
 
-Brucia dalla mia mente e dal mio petto  
+Brucia dal mio cervello e dal mio petto  
 
-# Pigrizia e la codardia che si aggrappa  
+L'accidia, e la codardia che s'aggrappa,  
 
-E rigidità e l'arresto dell'[[Soul|anima]]:  
+E la rigidezza e l'arresto dell'[[Soul|anima]]:  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
-EPILOGO  
+ENVOI  
 
-Principe, tu sei ospite e io sono invitato  
+Principe, tu sei l'oste e io l'invitato,  
 
-Perciò mi ritraggo dalle cavillosità...  
+Perciò rifuggo dai cavilli....  
 
-Ma dovrei far sopprimere quella frizzantezza  
+Ma farei sopprimere quello spumante  
 
-E nutri il mio cervello con cose migliori.  
+E nutrirò il mio cervello di cose migliori.  
 
 UNA BALLATA DEL [[suicide|SUICIDIO]]  
 
-La forca nel mio [[Garden|giardino]], dicono le persone,  
+La forca nel mio [[Garden|giardino]], dice la gente,  
 
-È nuovo, ordinato e abbastanza alto.  
+È nuova e linda e adeguatamente alta.  
 
-# Allaccio il cappio con consapevolezza  
+Annodo il cappio con fare esperto  
 
-Come chi si allaccia la cravatta per un ballo;  
+Come chi si annoda la cravatta per un ballo;  
 
-Ma proprio come tutti i vicini... sul muro...  
+Ma proprio mentre tutti i vicini--sul muro--  
 
-Stanno facendo un lungo respiro per gridare «Evviva!»  
+Prendono un lungo respiro per gridare "Urrà!"  
 
-# Il capriccio più strano mi ha colpito... dopotutto  
+Il più strano capriccio m'ha colto.... Dopotutto  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
-Domani è il [[Time|giorno]] in cui riceverò la mia paga - La mia  
+Domani è il [[Time|momento]] in cui prendo la paga--La  
 
-la [[Sword|spada]] dello zio è appesa nell'atrio--  
+[[Sword|spada]] di mio zio pende nell'atrio--  
 
-Vedo una piccola nuvola tutta rosa e grigia...  
+Vedo una nuvoletta tutta rosa e grigia--  
 
-Forse la madre del rettore non verrà...  
+Forse la madre del rettore _non_ verrà in visita--  
 
-Mi sembra di aver sentito da Mr. Gall  
+Mi pare d'aver saputo da Mr. Gall  
 
-Che i funghi potessero essere cucinati in un altro modo  
+Che i funghi si possono cucinare in un altro modo--  
 
-Non ho mai letto le opere di Giovenale  
+Non ho mai letto le opere di Juvenal--  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
 Il mondo avrà un altro giorno di bucato;  
 
-I decadenti [[Decay|decadono]]; i pedanti sbiadiscono;  
+I decadenti [[Decay|decadono]]; i pedanti stancano;  
 
 E H.G. Wells ha scoperto che i bambini giocano.  
 
-E Bernard [[Shaw]] scoprì che strillano;  
+E Bernard [[Shaw]] ha scoperto che strillano;  
 
-I razionalisti stanno diventando più ragionevoli...  
+I razionalisti si fanno razionali--  
 
-E tra i boschi fitti si trova un ruscello smarrito,  
+E per boschi folti si trova un ruscello smarrito,  
 
-Così segreto che il cielo stesso sembra piccolo -  
+Così segreto che il cielo stesso sembra piccolo--  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
-EPILOGO  
+ENVOI  
 
-Principe, sento il suono della tromba di Germinal  
+Principe, odo la tromba di Germinal,  
 
-I carri armati che faticano sulla terribile strada;  
+Le carrette che arrancano su per la via terribile;  
 
-Anche oggi la tua testa reale potrebbe cadere --  
+Anche oggi la tua testa regale può cadere--  
 
-Penso che oggi non mi impiccherò.  
+Credo che non mi impiccherò oggi.  
 
 UNA BALLATA DELLA PRIMA PIOGGIA  
 
-Il cielo è blu con [[Summer|estate]] e il sole,  
+Il cielo è azzurro di [[Summer|estate]] e di sole,  
 
-I boschi sono marroni come l'[[Autumn|autunno]] con il cuoio abbronzato,  
+I boschi son bruni come [[Autumn|autunno]] per l'abbronzatura,  
 
-Potrebbe anche essere i Tropici e finirla,  
+Potrebbero [[Well|ben]] essere i Tropici e farla finita,  
 
-Potrei tanto bene nascere un khan di rame;  
+Potrei [[Well|ben]] essere nato un Khan di rame;  
 
-Mi fabbrico un ventaglio orientale  
+Mi foggio un ventaglio orientale  
 
-Fatto di fatture mai pagate  
+Fatto delle fatture del tutto non quietanzate  
 
-Portato dall'uomo del ghiaccio, dormendo nel suo furgone  
+Portate dall'uomo del ghiaccio, che dorme nel furgone  
 
-(Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern).  
+(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
-Leggo i giovani filosofi per divertimento  
+Leggo i Giovani Filosofi per divertimento  
 
---Fresco come il nostro dolore per la defunta [[Queen|Regina]] Anna--  
+--Freschi come il nostro cordoglio per la defunta [[Queen]] Anne--  
 
-I dionisiaci che una pinta stordirebbe  
+I Dionisiaci che una pinta stenderebbe,  
 
-I panteisti che non hanno mai sentito parlare di Pan.  
+I Panteisti che mai sentirono di Pan.  
 
-# Ma attraverso i miei capelli correvano aghi elettrici  
+--Ma tra i miei capelli corsero aghi elettrici,  
 
-E sulla mia pagina una goccia di [[Water|acqua]] cade,  
+E sul mio libro una goccia d'[[Water|acqua]] si versa,  
 
-E ai margini del cielo iniziarono i cannoni  
+E sui lembi del cielo i cannoni cominciarono  
 
-(Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern).  
+(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
-# Campi d'Inghilterra, aridi e screpolati  
+O campi di England, crepati e secchi e bigi,  
 
-O [[Soul|anima]] d'Inghilterra, stanca delle parole e pallida! —  
+O [[Soul|anima]] di England, malata di parole, e smorta!--  
 
-Le nuvole si fanno scure; -- la pioggia è iniziata.  
+Le nubi si fanno scure;--la piena è cominciata.  
 
-# Arriva, arriva come può il santo buio  
+--Viene, viene, come sa venire la sacra tenebra,  
 
-Nero come con bandiere, divieto e contro-divieto;  
+Nera come di bandiere, ban e arriere-ban;  
 
-Una risata cadente riempie tutta la valle  
+Una risata che cade riempie tutta la valle,  
 
-Profondo come il tuono di Dio e la sete dell'uomo:  
+Fonda come il tuono di Dio e la sete dell'uomo:  
 
-(Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern).  
+(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
-EPILOGO  
+ENVOI  
 
-Principe, Principe Elettivo secondo il piano moderno  
+Principe, Principe-Elettivo alla maniera moderna  
 
-Soddisfare i desideri di tante persone,  
+Che adempi tante Volontà del Popolo,  
 
-Prendi le Cento Chiltern mentre puoi...  
+Prenditi i Chiltern Hundreds finché puoi--  
 
-Una [[Storm|tempesta]] sta arrivando sulle colline di Chiltern.
+Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills.

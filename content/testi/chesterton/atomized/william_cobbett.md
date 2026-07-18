@@ -8455,6 +8455,75 @@ To a more detached mind there might seem something of symmetry and balance
 in thus simultaneously letting out black people and locking up white.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+
+ULTIMI GIORNI E [[Death|morte]]
+
+Un semplice abbozzo della carriera di Cobbett è stato interrotto qui per il bene di due studi sulla sua personalità letteraria.
+Quell'abbozzo lo lasciava in Inghilterra dopo il suo secondo ritorno dagli Stati Uniti. Il [[Time|tempo]] del suo ritorno fu ampiamente
+il [[Time|tempo]] del suo trionfo; nonostante, o piuttosto a causa dell'ora tumultuosa in cui tornò. In questo periodo ricevette tutti i più alti complimenti che avrebbe mai potuto ricevere. Fu salutato come un liberatore democratico,
+non solo dai suoi naturali seguaci tra i braccianti delle contee meridionali, ma anche dal cupo e crescente potere dei sindacati del Midlands e del Nord. Gli fu dato un grande banchetto pubblico e brindato con enorme entusiasmo.
+Fu invitato, in molti tempi e luoghi durante questi ultimi anni,
+a candidarsi al Parlamento. Fu infine eletto al Parlamento.
+Se il [[Reform|Governo]] delle [[government|riforme]] fosse stato davvero un [[Reform|governo]] di [[government|riforma]],
+avrebbe potuto essere ministro o ricevere qualsiasi [[Honour|onore]]
+che il [[government|governo]] popolare avrebbe potuto concedere. In ogni caso, ricevette,
+in questo suo [[Time|tempo]] di [[Honour|gloria]], l'ultimo di tutti questi onori.
+Fu perseguitato dal [[government|governo]] per sedizione.
+
+Ma l'uomo al banco degli imputati era una persona molto diversa dal contadino conservatore smarrito e deluso che un tempo si era trovato distratto tra la condanna che incombeva sulla sua fattoria e quella che gravava sul suo paese.
+Stava in piedi come uno risorto dai morti.
+Era una [[Revenge|vendetta]] incarnata e storica che aveva rinnovato la propria giovinezza
+come l'aquila. Era molto più giovane di quando era giovane.
+Se fu sciocco da parte dei politici processarlo alla prima occasione,
+c'è qualcosa della [[Madness|follia]] che caratterizza la collera degli dèi nella loro ripetizione dello stesso errore dopo tanto tempo.
+Erano così stupidi da tentare di renderlo responsabile
+per i Luddisti che distruggevano le macchine.  Non aveva avuto, naturalmente,
+la minima difficoltà a dimostrare che in realtà aveva scritto ai Luddisti chiedendo loro di non distruggere le macchine.
+Poteva e ha chiamato Brougham come testimone per provare che il suo
+appello era stato effettivamente usato dalla parte della legge e dell'ordine.
+Ma Cobbett non era tipo da limitarsi alla difensiva,
+con un'apertura così favorevole a un contrattacco. Ha fatto a pezzi
+il loro ridicolo caso contro di lui; poi ha preso un respiro profondo
+nei suoi grandi polmoni, e hanno ascoltato il suo caso contro di loro.
+Si è lasciato andare; si potrebbe dire che si sia dato alla macchia.
+Tribunali e funzionari hanno fatto l'esperienza sorprendente di quale
+tipo di rabbia elementare fosse vissuto tra loro.
+Ha intimidito i giudici intimidatori; ha preso in giro gli spaventapasseri della barra;
+ha sollevato la giuria contro di loro come una folla;
+era il momento più importante della sua vita.  Almeno per una volta poteva far
+capire agli uomini che aveva [[Well|ragione]] ad essere arrabbiato; e lo ha fatto.
+Ha sputato fuori il suo appassionato disprezzo per tutto quel mondo freddo
+e codardo che si era messo in cerca di tendergli trappole, nel timore
+che da qualche parte potesse far trapelare la [[Truth|verità]].  Ha dato il nome giusto
+a tutta quella bassezza senza fondo nelle classi agiate,
+che avrebbe distrutto un uomo per la sua simpatia verso i poveri.
+Ha spazzato via tutte le ridicole rilevanze di se aveva detto questo o quello su un'elezione o un [[Union|sindacato]],
+e ha attaccato la cosa che i suoi nemici stavano realmente attaccando.
+Li ha accusati della loro accusa.  Li ha incriminati
+per aver incriminato un uomo per avere il cuore degli oppressi.
+Ha detto loro perché lo odiavano; e mostrato loro il volto
+della loro stessa [[Fear|paura]].  Non era perché fosse chiassoso
+o incoerente o grossolano o imprudente; anche se lo era.
+Non era perché si arrabbiava o faceva discorsi infuocati o facesse rumore.
+Era a causa di quelli silenziosi per i quali lui faceva rumore;
+per gli incapaci per cui si scatenava e gli impotenti per cui si infuriava.
+Era il suo [[Love|amore]] per i poveri che lo rendeva orribile ai suoi nemici;
+e in quell'ora li ha fatti nutrire dei pieni orrori che un tale
+[[Love|amore]] rivela.  Quando ebbe finito di scuotere il [[Court|tribunale]] della giustizia
+con la sua voce, tutto intorno a lui sembrava rimpicciolito e silenzioso;
+la giuria lo assolse quasi meccanicamente, e lasciò il [[Court|tribunale]],
+se non senza una macchia sul suo carattere, almeno con un sorriso
+sul volto più largo del cupo sorriso che portava durante la sua
+condanna a Newgate.  Avrebbe potuto essere smontato dopo
+una passeggiata festiva lungo le colline, davanti ad una onesta locanda
+della sua giovinezza.  E infatti aveva fatto la stessa cosa;
+si era divertito.
+
+Quell'ora sul banco degli imputati fu il momento supremo della sua vita; e sebbene in un certo senso fosse seguita da più [[success|successo]] e popolarità di quanta ne avesse avuto fino ad allora, non si avvicinò mai più alla propria visione del trionfo. Si identificò sempre più con il grande movimento contro i collegi elettorali corrotti, che culminò (o collassò) con la grande Legge del 1830. Il movimento per la [[Reform|riforma]] lo unì a molti che erano stati una volta suoi amici e a molti che sarebbero sempre stati i suoi nemici. Ma il movimento per la [[Reform|riforma]] era molto diverso dal disegno di legge sulla [[Reform|riforma]]. Cobbett visse abbastanza da vedere la [[Reform|riforma]], ma non la [[Reform|riforma]] che aveva desiderato di vedere. Sedette al Parlamento, ma non in quel Parlamento dove avrebbe voluto sedere. L'atmosfera che odiava più di tutte, più di qualsiasi fumo della distruzione o qualsiasi odore di [[Decay|decadimento]], l'atmosfera dei Whig, era quella che prevaleva nel nuovo Parlamento e nel nuovo Ministero. Se osservò con un ghigno troppo aspro il suo primo atto di emancipare i negri con una enorme tangente ai negrieri, possiamo immaginare (o non riuscire a immaginare) come considerasse il suo secondo atto, che fu quello di completare ed estendere la più crudele politica dei Tudor contro i poveri vagabondi, approvando la Nuova Legge sui Poveri e rinchiudendoli in prigioni chiamate case di lavoro. Per una mente più distaccata ci potrebbe sembrare che vi fosse qualcosa di simmetrico ed equilibrato nel lasciare liberi contemporaneamente i neri e chiudere a chiave i bianchi.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="William Cobbett — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>

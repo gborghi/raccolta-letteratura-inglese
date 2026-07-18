@@ -5646,6 +5646,114 @@ this method will ever make the French mystery story what the war
 itself has been--a French masterpiece; Gesta Dei per Francos.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La domesticità dei detective
+
+MI sono appena divertito con l'ultima storia sensazionale dell'autore de La stanza gialla, che era probabilmente il miglior racconto [[Detective|poliziesco]] del nostro [[Time|tempo]], a parte l'amabile [[Novel|romanzo]] di Mr. Bentley,
+L'ultimo caso di Trent. Il nome dell'autore de La stanza gialla
+è Gaston Leroux; ho talvolta pensato se sia
+il nom de plume alternativo dello scrittore chiamato Maurice Leblanc
+che ci dà le storie su Arsène Lupin, il gentiluomo ladro.
+Ci sarebbe qualcosa di molto simmetrico nell'inversione per cui
+il signore rosso scrive sempre di un [[Detective|investigatore]], e il signore bianco
+scrive sempre di un criminale. Ma non ho alcuna seria
+ragione di supporre che la combinazione rossa e bianca sia altro
+che una coincidenza; e i racconti sono di due tipi piuttosto diversi.
+Quelli del Gaston Rosso sono più strettamente del tipo della storia mistero,
+nel senso di risolvere un singolo e centrale mistero.
+Quelli del Maurice Bianco sono più propriamente storie d'avventura,
+nel senso di risolvere una rapida successione di difficoltà immediate.
+Questo è insito nella posizione dell'[[Hero|eroe]]; l'[[Detective|investigatore]] è
+sempre fuori dall'evento, mentre il criminale è dentro l'evento.
+Alcuni lo esprimerebbero dicendo che il poliziotto è sempre
+fuori dalla [[house|casa]] quando il ladro è dentro la [[house|casa]].
+Ma c'è una qualità molto francese che entrambi questi scrittori francesi condividono, anche quando la loro scrittura è ben lontana dal loro meglio.
+È uno spirito di definizione che non è facile da definire.
+Dire che è scientifico suggerirà solo che è lento.
+È molto più vero dire che è militare; cioè, è qualcosa
+che deve essere sia scientifico che rapido. Può essere visto in uomini francesi molto maggiori, rispetto a uomini ancora più grandi che non erano
+francesi. Jules Verne e H.G. Wells, per esempio,
+hanno scritto entrambi fiabe di scienza; Mr. Wells ha una mente molto più ampia
+e un interesse per la vita; ma gli manca spesso un potere che
+Jules Verne possiede in modo supremo--il potere di andare al dunque.
+Verne è molto francese nella sua rigida rilevanza; Wells è molto inglese
+nella sua ricca irrilevanza. È lì tanto inglese quanto Dickens, i cui migliori
+passaggi nelle storie sono le interruzioni, e persino i tappabuchi.
+In un racconto veramente francese non ci sono interruzioni; ogni parola,
+per quanto noiosa, è deliberata o diretta verso la fine.
+Il confronto potrebbe essere portato più indietro tra i classici.
+Il [[Romance|romanzo]] di Dumas può sembrare una semplice rivolta di spade e piume;
+viene spesso descritto come un semplice divertimento nell'avventura e nella varietà;
+la [[Madness|pazzia]] del [[Romance|romanzo]]. Ma non è una semplice rivolta, bensì
+una rivoluzione militare, e persino una rivoluzione disciplinata;
+certamente, una molto [[French Revolution|francese rivoluzione]]. Non è un semplice festoso divertimento,
+ma un sontuoso e elaborato banchetto pianificato da un grande cuoco;
+un cuoco molto francese. Scott era un uomo più grande di Dumas; ed un
+romanziere migliore sulla nota degli umori seri dell'umanità.
+Ma non era un narratore così grande, perché aveva meno
+di qualcosa che può essere chiamato solo la strategia del soldato.
+I tre moschettieri avanzano come un esercito; con i loro tre servi
+e il loro unico alleato, marciando, manovrando, dispiegandosi, ruotando in
+posizioni e quasi facendo schemi. Sono sempre presenti
+dove il loro autore li vuole; il che non è vero di tutti
+i personaggi di tutti i romanzieri. Dumas, e non Scott, avrebbe dovuto
+scrivere la vita di Napoleone; Dumas era molto più vicino a Napoleone,
+nel fatto che c'era un metodo molto enfatico nella sua [[Madness|pazzia]].
+Nessuno ha mai chiamato pazzo Scott; e certamente nessuno potrebbe mai chiamare
+lui metodico. Era incapace della cospirazione che portò via il generale Monk in una scatola quanto Dumas era incapace dell'imprecazione di Meg Merrilies o della benedizione di Di Vernon. Ma c'è
+eternamente presente nel francese qualcosa che può veramente essere chiamato
+presenza di spirito. Essere un [[artist|artista]] non è essere distratti,
+per quanto innocue o felici possano essere le vacanze della mente.
+L'arte è avere l'intelletto e tutti i suoi strumenti sul posto
+e pronti ad andare al dunque; come quando, solo un po' di tempo fa,
+un grande [[artist|artista]] si fermò sulle rive della Marna e salvò il mondo
+con un gesto di vivente [[logic|logica]]--il colpo di [[Sword|spada]] del latino.
+
+Ma sebbene la strategia della storia francese sia affine alla strategia con cui l'esercito francese ha sempre influenzato le grandi questioni dell'umanità, [[Doubt|dubito]] che una tale storia debba occuparsi di tali questioni. Ho menzionato all'inizio l'ultimo [[Romance|romanzo]] giallo di Gaston Leroux perché credo di sapere perché non è neanche lontanamente così buono come il suo primo romanzo giallo. La [[Truth|verità]] è che esistono due tipi di romanzo sensazionale tra i quali sembrano oscillare i nostri più sfrenati sostenitori del sensazionalismo; e credo che generalmente siano al meglio quando trattano il primo tipo, e al peggio quando si occupano del secondo. Per comodità di simbolo, posso chiamarli rispettivamente il [[Romance|romanzo]] della Stanza Gialla e il [[Romance|romanzo]] del Pericolo Giallo. Potremmo dire che la grande storia del [[Detective|detective]] si occupa di piccole cose; mentre la piccola o sciocca storia del [[Detective|detective]] generalmente tratta di grandi cose. Tratta di diplomatici diabolici che si muovono tra Vienna e [[Paris|Parigi]] e Pietrogrado; di vasti complotti cosmopoliti che si ramificano in tutte le cantine d'Europa; o, peggio e più diffuso di tutti, di società segrete occulte e mistiche dalla Cina o dal Tibet; il vasto e vago terrorismo orientale che per comodità chiamo qui il Pericolo Giallo.
+
+D'altra parte, la buona storia del [[Detective|investigatore]] è nella sua [[Nature|natura]]
+una buona storia domestica. È intrisa del sentimento che la [[house|casa]] di un inglese sia il suo [[Castle|castello]]; anche se, come altri castelli,
+è teatro di poche torture o assassinii tranquilli.
+In altre parole, riguarda un recinto, un piano
+o problema posto entro certi limiti definiti. E qui sta il motivo
+per cui la prima storia dello scrittore francese è stata modello per tutti tali autori;
+e dove avrebbe dovuto essere, ma non lo è stato, modello per lui stesso.
+Il punto sul La Stanza Gialla è che era una stanza; cioè,
+era un contenitore, come il contenitore in cui Dumas rapì il generale Monk.
+Lo scrittore si occupò del quadrato o della piazza che la signora Battle amava;
+il piano stesso del problema sembrava un problema
+del Quarto Libro di Euclide. Egli mise quattro uomini sui quattro lati
+di uno spazio e fu commesso un omicidio nel mezzo di loro;
+a prima vista, nonostante loro; in realtà, da parte di uno di loro.
+Ora un romanziere sensazionale del tipo più cosmopolita avrebbe potuto,
+naturalmente, riempire la storia con una folla di maghi cinesi
+che avevano il potere di camminare attraverso i muri di mattoni, o di mesmeristi indiani che potevano uccidere un uomo semplicemente meditando su di lui
+sulle vette dell'Himalaya; o semplicemente da una cosa così umana e banale come una società segreta di spie tedesche che aveva creato un labirinto
+di tunnel segreti sotto tutte le case private del mondo.
+Queste possibilità romantiche sono infinite; e perché lo sono
+sono in realtà non romantiche. Il vero [[Romance|romanzo]] dell'indagine opera verso l'interno, verso gli dei domestici, anche se sono
+demoni domestici. Una delle migliori storie di Sherlock Holmes
+si basa interamente su un punto banale della gestione domestica:
+la fornitura di curry per la cena in famiglia. Il curry è,
+credo, collegato con l'Oriente; e avrebbe potuto essere usato come scusa per infinite finte occultismi e torture orientali.
+L'autore avrebbe potuto introdurre un milione di cuochi gialli per [[Poison|avvelenare]]
+un condimento giallo. Ma l'autore conosceva molto meglio il suo mestiere;
+e non lasciò che ciò che viene chiamato infinito, e dovrebbe piuttosto
+essere chiamata anarchia, invadesse la tranquilla reclusione della [[Home|casa]] del criminale britannico. Non lasciò che la [[logic|logica]] della Stanza Gialla
+venisse distrutta dalla [[philosophy|filosofia]] del Pericolo Giallo.
+Ecco perché deploro il fatto che l'ingegnoso architetto francese
+della Stanza Gialla originale sembri aver compiuto un passo esterno
+in questa direzione; non, in effetti, verso le pianure del Tibet,
+ma verso le pianure a malapena meno barbare della [[Germany|Germania]].
+Il suo ultimo libro, Rouletabille Chez Krupp, riguarda la fabbricazione
+di un siluro abbastanza grande da distruggere una città; e un oggetto
+di quella dimensione può essere una sensazione, ma non rimarrà a lungo un segreto.
+Può essere inevitabile che un patriota francese scriva ora
+anche le sue storie di [[Detective|investigatori]] sulla guerra; ma non credo
+che questo metodo renderà mai la storia del mistero francese ciò che la guerra
+stessa è stata--un capolavoro francese; Gesta Dei per Francos.
+
 
 
 <span class="atom-split" data-atom="story_06_george_meredith" data-title="The Uses of Diversity — George Meredith" data-chapter="George Meredith" data-kind="story"></span>
@@ -5903,6 +6011,57 @@ If the Irishman speaks to us, we are sure to misunderstand him.
 But if we hear the Irishman talking to himself, it may begin
 to [[Dawn|dawn]] on us that he is a man.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Irlandese
+
+L'altro giorno sono andato a vedere le opere irlandesi, recitate di recente da veri irlandesi - contadini e gente povera - sotto l'ispirazione della Lady Gregory e del signor W.B. Yeats. Oltre all'eccellenza dell'interpretazione e al merito astratto delle opere (entrambi notevoli), è emerso lo strano ed ironico interesse che è stato fonte di tanta allegria, peccato e dolore: l'interesse degli irlandesi per l'Inghilterra. Dato che abbiamo peccato creando il tipo dell'irlandese da palcoscenico, è giusto che tutti noi siamo rimproverati da irlandesi sul palco. Abbiamo visto tutti qualche evidente inglese interpretare un Paddy. Forse era una giusta punizione vedere un evidente Paddy recitare la parte comica e spregevole di un gentiluomo inglese. Ne ho visti entrambi, e posso mettere la mano sul cuore (anche se la mia conoscenza della fisiologia è incerta sulla sua posizione) e dichiarare che il gentiluomo inglese irlandese era una figura ancora più meschina e servile del servo irlandese inglese. Il tipo comico dell'irlandese nelle opere inglesi aveva almeno il merito di essere ritenuto un tipo di [[Courage|coraggio]] caotico. Il tipo comico dell'inglese nelle opere irlandesi era rappresentato non solo come uno [[Fool|stupido]], ma come uno [[Fool|stupido]] nervoso; un prigione frivolo e spasmodico, che non poteva essere amato né per la sua forza né per la sua debolezza. Ma tutto questo illustra solo il fatto fondamentale che entrambe le visioni nazionali sono sbagliate; entrambe le versioni sono distorsioni. L'irlandese allegra e l'inglese prigione sono allo stesso modo semplici miti generati da un fraintendimento.
+Saremmo più vicini alla [[Truth|verità]] se parlassimo di
+l'inglese allegra e dell'irlandese prigione.
+Ma anche questo sarebbe sbagliato.
+
+A meno che le persone non siano vicine nell'[[Soul|anima]], è meglio che non lo siano nel quartiere. La [[Bible|Bibbia]] ci dice di [[Love|amare]] il nostro prossimo, e anche di [[Love|amare]] i nostri nemici; probabilmente perché sono generalmente le stesse persone... E c'è una vera ragione umana per questo. Pensi a un uomo lontano semplicemente come a un uomo; cioè, lo pensi nel modo giusto. Supponiamo che io ti dica all'improvviso: "Fammi il favore di meditare sull'[[Soul|anima]] dell'uomo che vive al 351 di High Street, Islington". Forse (ora che ci penso) sei tu l'uomo che vive al 351 di High Street, Islington. In tal caso sostituisci un altro indirizzo sconosciuto e prosegui questo sport intellettuale. Ora probabilmente avrai ragione in linea generale riguardo all'uomo di Islington che non hai mai visto né sentito nominare, perché comincerai dalla parte giusta - la parte umana. L'uomo di Islington è almeno un uomo. L'[[Soul|anima]] dell'uomo di Islington è certamente un'[[Soul|anima]]. Anche lui è stato sconcertato e arricchito dalla giovinezza; anche lui è stato torturato ed inebriato dall'[[Love|amore]]; anche lui ha dei dubbi sublimi riguardo alla [[Death|morte]]. Puoi pensare all'[[Soul|anima]] di quell'uomo senza nome che è un semplice numero a Islington High Street. Ma non pensi all'[[Soul|anima]] del tuo vicino di casa. Lui non è un uomo; lui è un ambiente. È l'abbaiare di un cane; è il rumore di una pianola; è una disputa riguardo a un muro divisorio; sono scarichi che sono peggiori dei tuoi, o rose che sono migliori delle tue. Ora, tutte queste sono le parti sbagliate di un uomo; e un uomo, come molte altre cose in questo mondo, come la frusta a nove code, ha un gran numero di estremità sbagliate, e solo una giusta. Questi accessori sono tutti code, per così dire. Un cane è una specie di coda riccia di un uomo; un sostituto di ciò che l'uomo perse tragicamente in uno stadio precoce dell'evoluzione. E sebbene io preferirei personalmente andarmene in giro trainando dietro di me un cane piuttosto che tirare una pianola o rimorchiare un [[Rose|rosa]]-[[Garden|giardino]], tuttavia si tratta di questione di gusto, e sono tutti simili appendici o cose dipendenti dall'uomo. Ma oltre alle sue venti code, ogni uomo ha realmente una testa, un centro di [[Identity|identità]], un'[[Soul|anima]]. E la testa di un uomo è ancora più difficile da trovare di quella di un Skye terrier, perché l'uomo ha novecentonovantanove estremità sbagliate invece di una. Non si tratta di afferrare la scrofa per l'orecchio giusto; si tratta di afferrare il riccio per lo spino giusto, l'uccello per la piuma giusta, la foresta per la foglia giusta. Se non abbiamo mai conosciuto la foresta sapremo almeno che è una foresta, una cosa cresciuta grandiosamente dalla terra; ci renderemo conto delle radici che faticano nell'oscurità terrestre, dei tronchi innalzati nel crepuscolo boschivo.
+
+Ma trovare la foresta significa trovare il suo orlo.
+Avvicinarsisi dall'esterno è vedere solo il suo contorno accidentale,
+frastagliato contro il cielo. È avvicinarsi abbastanza da essere superficiali.
+L'uomo lontano, quindi, può rappresentare l'umanità; la gloria
+della nascita o la dignità della [[Death|morte]]. Ma è difficile che
+il signor Brown di [[house|casa]] accanto (con cui avete litigato per le edere)
+possa rappresentare queste cose in un atteggiamento simbolico soddisfacente.
+Non sentite la gloria della sua nascita; siete più propensi
+ad alludere con calore alla sua ignominia. Non soffermatevi,
+nelle serate violacee e argentee, sulla dignità e la quiete
+della sua [[Death|morte]]; se ci pensate, piuttosto come improvvisa.
+E lo stesso vale per la separazione storica e la vicinanza.
+Aspetto la stessa [[Death|morte]] di un cinese; salvo una o due
+torture cinesi, forse. Ricordo la mia infanzia come quella di un
+antico fenicio; a meno che non fosse uno di quegli speciali
+bambini della scuola [[Sunday|domenicale]] passati attraverso il
+[[Fire|fuoco]] per Moloch. Ma queste paure lontane o antiche sembrano
+solo attaccate alla vita: non ne fanno parte.
+Le madri babilonesi (per quanto cedessero all'etichetta) probabilmente amavano
+i loro figli; e i cinesi senza dubbio riverivano i loro morti.
+È ben diverso quando due popoli sono abbastanza vicini da fraintendere
+tutti gli atti e i gesti della vita quotidiana.
+È ben diverso quando il fornaio battista di Islington pensa
+all'infanzia irlandese, trascorsa tra preti papisti e fate impossibili.
+È ben diverso quando lo scacciamucchio di Tipperary pensa alla
+[[Death|morte]] irlandese, che spesso arriva in villaggi morenti, in colonie lontane,
+in prigioni inglesi o su forche inglesi. Lì [[Childhood|infanzia]] e
+[[Death|morte]] hanno perso tutte le loro qualità riconciliatrici; i dettagli stessi
+non uniscono, ma dividono. Perciò Inghilterra e Irlanda vedono
+i fatti dell'altra senza indovinare il significato dei fatti.
+Per esempio, possiamo vedere che una casalinga irlandese è disattenta.
+Ma ci illudiamo che sia perché è distratta;
+mentre al contrario è concentrata --
+sulla religione, o sulla cospirazione, o sul tè. Potete chiamarla inefficiente,
+ma certamente non potete chiamarla debole. Allo stesso modo,
+gli irlandesi vedono che l'inglese è asociale;
+non vedono la ragione, che è il suo romanticismo.
+
+Questo mi sembra il vero valore di schizzi nazionali così vividi come quelli di Lady Gregory e del signor Synge che ho visto la scorsa settimana. Ecco un caso in cui il semplice realismo accidentale, la cosa scritta sul posto, la "fetta di vita", può, per una volta tanto, fare qualcosa di buono. Tutti i segnali, tutte le bandiere, tutti gli esterni dichiarativi dell'Irlanda siamo quasi certi di fraintendere. Se l'irlandese ci parla, siamo sicuri di non capirlo. Ma se sentiamo l'irlandese parlare da solo, può cominciare a [[Dawn|spuntare]] in noi la consapevolezza che è un uomo.
 
 
 
@@ -6532,6 +6691,122 @@ But I am very certain that Judge Parry would be found among the few,
 among the very few, who amid all the insolence of our inconsistencies
 have never lost that rare and even awful thing, the respect of the poor.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'illegalità degli avvocati
+
+IL GIUDICE PARRY è uno di quegli uomini che hanno fatto [[Mountains|montagne]] di bene semplicemente per il fatto di essere vivi; mentre molti giudici si comportano come se fossero già morti, non dico ... ma il Giudice Parry potrebbe fraintendere un uso improprio dell'immaginario teologico. È in parte anticlericale; cosa che sembra uno spreco di talento in un paese dove non c'è clericalismo.
+Nel suo ultimo libro, Law and the Woman, trovo molto con cui non sono d'accordo, eppure nulla che non sia piacevole. Non solo dice tutto con un [[Humour|umorismo]] disarmante e candore; ma anche in errore non perde mai di vista il fatto importante: che le relazioni sessuali non dipendono dall'azione eccezionale della legge, ma dall'azione normale del credo e delle consuetudini.
+[[Alone|Solo]] tra gli avvocati egli capisce che i poveri vivono di risate come se fossero fiabe; e possono essere studiati più scientificamente nelle finzioni di Jacobs che nei fatti dei Webb. Potrei spingere la visione oltre il suo punto su alcuni aspetti; come quando deduce lo schiavismo delle donne da alcune storie sulla vendita delle mogli.
+Senza dubbio ha ragione nei dettagli; ma la rima che cita per provare il suo punto quasi potrebbe essere detta confutarlo. Cita una ballata allegra su un uomo che cercò di vendere sua moglie con un laccio al collo e, non riuscendoci, tentò di impiccarsi nel laccio piuttosto che continuare a vivere con lei.
+Ovviamente questa è semplicemente la [[Fable|favola]] della cavalla grigia; e non significa che l'uomo governasse sua moglie, ma piuttosto che fosse lei a governarlo.
+Non sono d'accordo sul [[divorce|divorzio]]; ma non intendo discuterne qui, né di alcun altro problema tra i sessi. Questo in parte perché dovrei cominciare parlando della [[Nature|natura]] di un voto, e mi sembrerebbe parlare a un giudice della [[Nature|natura]] di un giuramento, e potrebbe quasi essere disprezzo per il [[Court|tribunale]]. Ma spero sia più per la ragione più virile che voglio discutere di qualcos'altro.
+
+Penso che questo delizioso libro potrebbe davvero trarre in inganno
+con una visione del progresso che semplifica eccessivamente la [[history|storia]]:
+la visione secondo cui "i pensieri degli uomini si allargano col processo
+dei soli"--un processo monotono che non può nemmeno allargarsi da sé.
+Egli inizia la sua storia della soggezione delle donne dalla storia della [[Bible|Bibbia]]
+di Adamo ed Eva.  Poi procede subito a citare, non la [[Bible|Bibbia]],
+ma John [[Milton]], e dice che è quasi esattamente nella forma "in
+cui l'uomo medievale era solito spiegare alla donna medievale
+che cosa fosse veramente".  Ora, qualunque cosa fosse [[Milton]],
+non era medievale.  Era, secondo la sua opinione e in una reale
+benché relativa [[Truth|verità]], altamente moderno e razionalistico.
+E avrebbe considerato il suo punto di vista piuttosto disprezzante
+della donna come parte della sua emancipazione dal medioevo.
+Probabilmente la stessa identica attitudine lo portò ad approvare il [[divorce|divorzio]];
+e fa la differenza tra il posto della donna nel suo [[Epic|poema epico]]
+e quello in [[Dante]]. Su entrambi i lati di quel portale gotico
+del Medioevo da cui era emerso (come avrebbe detto lui) alla luce del giorno,
+c'erano due statue simboliche di donne, almeno di uguale importanza nello schema.
+Una rappresentava la donna debole per mezzo della quale [[Satan|Satana]] era entrato nel mondo;
+l'altra la donna forte per mezzo della quale Dio era entrato nel mondo.
+[[Milton]] e i suoi Puritani hanno deliberatamente distrutto e cancellato
+l'immagine della buona donna e accuratamente conservato quella cattiva,
+per farne un rimprovero permanente alla femminilità.  Ma senza dubbio
+pensavano che il loro iconoclastismo anti-femminista fosse un grande passo in avanti;
+e il fatto illustra quanto sia stato stranamente tortuoso e persino
+arretrato il cammino chiamato progresso.
+Né è difficile scoprire, anche nel racconto dello scrittore,
+da dove questo iconoclastismo anti-femminista traesse la sua forza;
+che certamente non era solo dal Libro della Genesi.
+Il giudice Parry dice, forse in modo discutibile, che i rozzi
+Sassoni avevano più riguardo legale per le donne dei Romani.
+Ma ammettendo per amore di discussione che i pagani Romani
+dessero uno status basso alla donna, non possono certamente averlo preso
+né dalle Scritture Ebraiche né dalla Chiesa medievale.
+Se si chiede dove l'abbiano preso, probabilmente troverà anche da dove
+l'abbia preso [[Milton]].  La [[Truth|verità]] è che c'era un elemento di brutalità intellettuale nel [[Renaissance|Rinascimento]]
+e nel risveglio del mondo pagano.
+Il culto stesso del potere e della ragione si incarnava in una preferenza
+per il sesso che si supponeva superiore in essi.  Nuove tirannie
+come pure nuove libertà erano incoraggiate dal Nuovo Sapere;
+e Cervantes stava ridendo dell'avventuriero irrealistico che immaginava
+di liberare i prigionieri, proprio nel [[Time|tempo]] in cui Hawkins,
+il vero avventuriero, conduceva per la prima volta negri in [[Chains|catene]].
+
+Questi [[Chains|catene]] potrebbero essere presto ricollegati nella catena del mio stesso ragionamento: qui uso la questione solo per mostrare il pericolo di fidarsi di ogni moda etica che si presenta. C'è un punto su cui divergerei rispettosamente e seriamente dal giudice Parry; e questo non riguarda le leggi sulle donne, ma piuttosto la legge stessa. Nell'esaltare la sentenza nel caso Jackson, nonostante la sua irregolarità tecnica, egli parla di un bellissimo esempio della nostra giurisprudenza e dice: "Ma questo è uno degli attributi sani e salutari del nostro sistema giudiziario. Arriva un punto di rottura in cui un grande giudice riconosce che le precedenti sentenze nei libri sono obsolete, e ciò che deve essere dichiarato è la giustizia del caso secondo l'attuale standard di rettitudine umana." Ora è certamente chiaro come il sole che questa dottrina rende un piccolo numero di signori anziani molto ricchi in parrucca assoluti tiranni su tutto lo stato. L'imperatore della Cina era tenuto a dichiarare la giustizia del caso. Il sultano delle Indie doveva giudicare secondo l'attuale standard di rettitudine umana. Se i giudici non sono vincolati dalla legge, da cosa sono vincolati, che ogni autocrate sulla terra non ha rivendicato di essere vincolato?
+
+Ora c'è certamente un caso a favore di un [[government|governo]] personale e arbitrario;
+e come ci sono buoni sultani, così ci sono buoni giudici.
+Non avrei paura di comparire davanti al Giudice Parry
+(se posso permettermi di immaginarmi [[Innocent|innocente]]) anche se fosse
+circondato da giannizzeri in un divano segreto, o pronunciando
+sentenze sotto una quercia in una foresta selvaggia e preistorica.
+Non mi importerebbe che abbia il potere di scorticarmi o bollirmi nell'olio;
+perché sono sicuro che "riconoscerebbe che questi precedenti sono obsoleti"
+e non lo farebbe.  Ma non è affatto vero che la fiducia
+che avrei nel Giudice Parry si estenderebbe a qualsiasi giudice
+che parli di precedenti obsoleti e di giustizia umana.
+Tutt'altro, anzi.  Gli do fiducia perché spesso
+prende le parti del più debole. Non darei fiducia a un uomo
+che prende sempre le parti dell'opinione che per caso è
+la dominante. Ha capito, per esempio, il caso dei "Pro-Boeri";
+ma nel periodo di [[Time|maficking]] una dozzina di grandi giudici avrebbero forzato
+qualsiasi legge per fare un caso contro i Pro-Boeri. Il femminismo era alla moda
+e potrebbe aver prodotto alcuni atti di giustizia; ma anche l'imperialismo era
+alla moda e poteva aver prodotto qualsiasi atto di ingiustizia.
+Supponiamo che ci sia una vecchia legge secondo cui certi prigionieri
+possono essere torturati per ottenere prove; ma i giudici la ignorano,
+e il Giudice Parry è soddisfatto.  Ma ci sono tre ragioni molto importanti
+per cui non dovrebbe esserlo.  Primo, incoraggia
+i legislatori a essere pigri e lasciare una cattiva legge che dovrebbero abrogare.
+Secondo, la lasciano così che può essere riaffilata in qualche
+reazione o panico contro persone particolari, che verranno torturate.
+E terzo, e più importante di tutti, lo stesso giudice che ha detto
+che i prigionieri non devono essere torturati per ottenere prove potrebbe dire un bel
+mattino che i prigionieri possono essere vivisezionati per indagini scientifiche;
+e potrebbe avere la stessa ragione per dire l'una e l'altra cosa,
+la semplice ragione che questo tipo di discorsi è alla moda nel suo ambiente.
+E l'ambiente è molto ristretto e molto ricco; ci occupiamo rigorosamente
+della moda e non neppure, in senso ampio, dell'opinione pubblica.
+Gli standard di quel mondo sono spesso speciali e talvolta
+piuttosto segreti.  Il Giudice Parry cita persino un "[[Paradox|paradosso]]"
+del Lord Reading nel senso che persone come lui dovrebbero
+amministrare la giustizia e non la legge.  La legge è ristretta e nazionale,
+e potrebbe portare un Ministro britannico a guardare oltre il
+Parlamento britannico come luogo appropriato per dire la [[Truth|verità]].
+Ma la giustizia, essendo internazionale e osservando il mondo da
+Cina al Perù, percepisce senza difficoltà l'ufficio di quel
+singolo giornale parigino che ha il diritto di insistere
+per una spiegazione.
+
+Ma il punto vitale è questo: il giudice Parry cita l'esempio di una sentenza in cui Mansfield, ignorando certi precedenti remoti e sopravvivenze pittoresche, dichiarò che non possono esserci schiavi in Inghilterra. Mi dispiace dover menzionare un tale dettaglio, ma il fatto è che lo stesso giudice ora sta dichiarando nello stesso modo che possono esserci schiavi in Inghilterra. Un magistrato ha proibito agli uomini di lasciare un datore di lavoro, anche se il contratto era palesemente terminato.
+I tribunali pratici stanno ignorando il precedente obsoleto e remoto di qualche uomo, lontano nella nebbia del medioevo, che si dice abbia stipulato un contratto libero con una creatura più ricca. Stanno trascurando le sopravvivenze pittoresche nel nostro linguaggio, per cui la mano che tiene lo strumento è descritta come "sua" mano.
+Il nostro vivace linguaggio moderno chiama l'uomo stesso una mano; semplicemente una delle molte mani del suo padrone briareo.
+"C'è un punto di rottura"; ed è la libertà che si rompe.
+
+Non voglio [[debate|discutere]] se i milioni silenziosi approvino questo giudizio o gli altri,
+liberali o servili, femministi o antifemministi, che il Giudice Parry cita,
+ma lascio la questione alla sua equa considerazione.
+Perché se quei milioni silenziosi parlassero, immagino che ci sorprenderebbero
+in molte cose, ma soprattutto nello scoprire quanto poco pensano di noi tutti,
+giudici, avvocati, letterati e quant'altro.
+Ma sono certo che il Giudice Parry si troverebbe tra i pochi,
+tra i veri pochi, che in mezzo a tutta l'insolenza delle nostre incongruenze
+non hanno mai perso quella cosa rara e persino terribile, il rispetto dei poveri.
 
 
 
@@ -7863,6 +8138,41 @@ outside who could have put on a red dressing-gown and made us feel
 in the presence of the most terrible of the Tudor statesmen.
 The modern method is to sell Shakespeare for thirty pieces of silver.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I calici d'argento
+
+Si diceva che nella sontuosa rappresentazione di Enrico VIII al Teatro del Sua Maestà le urne e i calici del banchetto fossero stati appositamente fatti in vero argento massiccio, nello stile del sedicesimo secolo. Questo letteralismo bombastico è almeno molto alla moda nelle nostre moderne rappresentazioni teatrali. Il signor [[Vincent Crummles]] lo considerava un magnifico esempio di scrupolosità da parte di un attore il fatto che si dipingesse tutto nero per interpretare [[Othello|Otello]]. Ma l'ideale del signor Crummles è ben lontano dalla teorica scrupolosità del defunto Sir Herbert Tree, che avrebbe considerato la pittura nera su tutto il corpo come un mero trucco, compromesso e vernice. Sir Herbert Tree, immagino, chiamerebbe un vero negro per interpretare [[Othello|Otello]]; e forse anche un vero ebreo per interpretare [[Shylock]] -- sebbene in quest'ultimo caso, data la situazione attuale del teatro inglese, potrebbe essere più facile. Il rigido principio dei calici d'argento sarebbe un po' più arduo e sgradevole se applicato, diciamo, alle Mille e una notte, se il direttore del Teatro del Sua Maestà presentasse Aladino e dovesse mettere in scena non un vero negro ma cento veri negri che portano cento cesti di enormi e autentici gioielli. Di fronte a questa proposta anche Sir Herbert potrebbe tornare a una più semplice [[philosophy|filosofia]] del dramma. Perché il principio in sé non ammette limiti. Se si accetta che ciò che sembra argento dietro i riflettori è meglio perché è davvero argento, non c'è ragione per cui non debbano seguire le evoluzioni più stravaganti. I preti in [[Henry VIII|Enrico VIII]] potrebbero essere ordinati appositamente nel camerino prima di entrare in scena. Anzi, se si arriva a questo punto, la testa del [[Buckingham|duca di Buckingham]] potrebbe davvero essere tagliata; come nei buoni vecchi tempi che Swinburne deplora, prima che un misticismo emascolato allontanasse la vera [[Death|morte]] dall'arena. Potremmo ristabilire non solo lo sfarzo ma anche il sangue dell'anfiteatro. Se calici veri, perché non vino vero? E se vino vero, perché non [[Blood|sangue]] vero?
+
+Né questa è una deduzione illegittima o irrilevante.
+Questa e cento altre fantasie potrebbero seguire se solo ammettessimo il primo principio che dobbiamo realizzare sul palcoscenico non solamente la [[Beauty|bellezza]] dell'argento, ma anche il suo valore.
+La famosa frase di Shakespeare secondo cui l'arte dovrebbe tenere lo [[Mirror|specchio]] davanti alla [[Nature|natura]] è sempre interpretata come del tutto realistica; in realtà è idealistica e simbolica -- almeno, rispetto al realismo di Sua Maestà. L'arte è uno [[Mirror|specchio]] non perché è uguale all'oggetto, ma perché è diversa.
+Uno [[Mirror|specchio]] seleziona tanto quanto l'arte; dà la luce delle fiamme, ma non il loro calore; il colore dei [[Flowers|fiori]], ma non il loro profumo; i volti delle donne, ma non le loro voci; le proporzioni degli agenti di cambio, ma non la loro solidità.
+Uno [[Mirror|specchio]] è una visione delle cose, non un modello funzionante.
+E l'argento visto in uno [[Mirror|specchio]] non è in vendita.
+
+Ma i risultati pratici della cosa sono peggiori dei suoi più estremi
+risultati teorici. Questa stravaganza araba nell'arredamento e nella decorazione di uno spettacolo ha un grave svantaggio pratico:
+restringe il numero degli esperimenti, li confina a una piccola classe agiata,
+e rende quelli che vengono fatti eccezionali, erratici e non rappresentativi
+di alcuna attività drammatica generale. Uno o due lavori insensatamente costosi non dimostrano nulla sullo stato generale dell'arte in un paese.
+Per fare il parallelo con uno spettacolo forse meno dignitoso di quello del Sir Herbert Tree, ultimamente negli [[america|Stati Uniti]] c'è stata una mostra non dissimile da un conflitto nell'anfiteatro,
+e per la quale la direzione ha effettivamente procurato un vero negro.
+Il negro è riuscito a battere l'uomo bianco, e sia prima che dopo questo evento
+la gente andava in giro parlando selvaggiamente del "campione dell'Uomo Bianco" e del "rappresentante della Razza Nera".
+Si supponeva che tutti gli uomini neri avessero trionfato su tutti gli uomini bianchi in una sorta di misterioso Armageddon perché uno specialista aveva incontrato un altro specialista
+e gli aveva versato il suo vino o dato un pugno allo stomaco.
+
+Ora, è ovvio che questi due pugili professionisti erano stati scelti e addestrati in modo così particolare - la produzione di uomini del genere è un'operazione così elaborata, artificiosa e costosa - che il risultato non dimostra nulla sulla condizione generale degli uomini bianchi o neri. Se ci si interessa a eroi o mostri è ovvio che possono nascere in qualsiasi luogo. Se prendeste i due uomini più alti del mondo, uno potrebbe essere nato in Corea e l'altro a Camberwell, ma questo non farebbe di Camberwell una terra di giganti ereditando il [[Blood|sangue]] di Anak. Se prendeste gli due uomini più magri del mondo, uno potrebbe essere un parigino e l'altro un indiano d'America. E se scegliete i due pugili più sviluppati scientificamente, non è sorprendente che uno sia bianco e l'altro nero. Esperimenti di una natura così particolare e profusa hanno il carattere di mostruosità, come tulipani neri o rose blu. È assurdo farli rappresentare razze e cause che non rappresentano. Potreste altrettanto [[Well|bene]] dire che la Donna Barbuta in una fiera rappresenta l'avanzata maschile della donna moderna; oppure che tutta Europa tremava sotto gli eserciti uniti dell'Asia, a causa della cooperazione dei Gemelli Siamesi.
+
+Così la tendenza plutocratica di spettacoli come Enrico VIII è quella di impedire piuttosto che incarnare qualsiasi movimento di [[Imagination|immaginazione]] storica o teatrale. Se lo standard della spesa viene fissato così in alto per consuetudine, il numero dei concorrenti dovrà necessariamente essere piccolo e probabilmente sarà di un tipo ristretto e insoddisfacente. Invece che la [[history|storia]] inglese e la letteratura inglese siano a buon mercato come la carta stagnola, saranno costose come l'argenteria. La cultura nazionale, invece di essere diffusa ovunque come foglia d'oro, si indurirà in pochi costosi grumi d'oro - e sarà conservata in pochissime tasche.
+Il mondo moderno è pieno di cose che sono teoricamente aperte e popolari ma praticamente private e persino corrotte. In teoria qualsiasi maniscalco può essere scelto per parlare a nome dei suoi concittadini tra i Comuni inglesi. Nella pratica potrebbe dover spendere mille sterline per farsi eleggere - una somma che molti maniscalchi non hanno la fortuna di avere da parte. In teoria dovrebbe essere possibile per qualsiasi attore moderatamente riuscito con una concezione sincera e interessante di Wolsey mettere in scena quella concezione. Nella pratica sembra che dovrà chiedersi non se è intelligente quanto Wolsey, ma se è ricco quanto lui.
+Deve riflettere, non se può entrare nell'[[Soul|anima]] di Wolsey, ma se può pagare i servi di Wolsey, acquistare la sua argenteria e possedere i suoi palazzi.
+
+Ora, le persone con i soldi di Wolsey e quelle con la mente di Wolsey sono entrambe rare; e anche in lui la mente veniva prima dei soldi.
+La possibilità che si combinino una seconda [[Time|volta]] è manifestamente piccola e sempre più rara. Il risultato sarà ovviamente che migliaia e milioni verranno spesi per un attore sbagliato, inadatto e poco convincente; e tutto il [[Time|tempo]] potrebbe esserci fuori un uomo che avrebbe potuto indossare una veste rossa e farci sentire davanti al più terribile degli uomini di stato Tudor.
+Il metodo moderno è vendere Shakespeare per trenta pezzi d'argento.
 
 
 
@@ -10147,6 +10457,76 @@ when it was almost as dangerous to be a doctor as to be a mad dog.
 Another advantage would be that, coming fresh to his historical problem,
 the writer might even read a little [[history]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sui romanzi storici
+
+È molto facile, naturalmente, sorridere di quelle storie scolastiche come i romanzi del signor Henty, in cui lo stesso giovane gentiluomo inglese e moderno proveniente da Rugby o Harrow ricompare più e più volte come un Giovane Greco, un Giovane Cartaginese, un Giovane Scandinavo, un Giovane Gallo, un Giovane Visigoto, un Giovane Antico Britannico, e quasi tutto tranne che un Giovane Nero. Ma il signor Henty aveva i meriti della sua industriosità e fecondità; e uno di questi era che riusciva a portare l'[[Imagination|immaginazione]] di un ragazzo in molte e varie parti della [[history|storia]] umana, per quanto convenzionale potesse essere la figura che seguiva attraverso di esse. Il ragazzo inglese non scoprirà tanto sulla [[Soul|anima]] di Cartagine dal Giovane Cartaginese quanto un [[Lover|amante]] delle lettere può fare da Salammbo; ma almeno saprà che Cartagine fu conquistata, e questo è (per vari motivi) una buona cosa per gli inglesi da sapere. E da quando il periodo Henty i nostri romanzi storici sono caduti con terribile monotonia in due o tre solchi. Potremmo quasi dire che a un uomo non è permesso scrivere un [[Historical Novel|romanzo storico]] se non su quattro diversi periodi storici, su sei diversi personaggi storici; e anche riguardo a questi non gli è permesso prendere nessun punto di vista tranne quello preso dagli altri romanzi sullo stesso argomento. Ora, considerando le innumerevoli milioni di cose meravigliose, divertenti, uniche e pittoresche che si sono accavallate l'una sull'altra attraverso tutti i nostri incredibili tremila anni di [[history|storia]] europea, questa situazione è tanto bizantina e arretrata quanto se nessun pittore di paesaggi avesse mai dipinto altro che un larice, o come se nessuno dei nostri scultori potesse modellare nient'altro che la gamba sinistra.
+
+Potete scrivere un [[Novel|romanzo]] ambientato nel [[Time|tempo]] di Enrico di Navarra: anzi,
+si potrebbe quasi dire che dovete scrivere un [[Novel|romanzo]] ambientato nel [[Time|tempo]]
+di Enrico di Navarra. Se vi cimentate nella scrittura di romanzi storici
+in generale, qualcuno - l'editore o il fattorino - vi costringe a farlo.
+In questo [[Novel|romanzo]], gli Ugonotti devono essere gentiluomini coraggiosi,
+con un pizzico di spavalderia; anche i cattolici devono essere
+gentiluomini coraggiosi, con una punta di astuzia. Tutte le importanti questioni politiche
+devono essere risolte tramite duelli combattuti con lunghe rapiere presso locande ai bordi della strada.
+Dovete schierarvi da una parte del contendere; ma anche in questo non dovete
+avanzare nessuna delle accuse che un personaggio dell'epoca avrebbe potuto davvero muovere. Ad esempio, la [[Court|Corte]] deve essere
+perennemente impegnata a tramare per pugnalare l'Ugonotto spavaldo:
+ma non dovete insistere sul fatto che l'Ugonotto era un Puritano e che
+la sua obiezione alla [[Court|Corte]] sarebbe stata in gran parte il fatto che si trattava di una [[Renaissance|Rinascimentale]] [[Court|Corte]].
+Non dovete, per quanto delicatamente, introdurre quella presenza di fiorita
+sensualità pagana e indecoro principesco che sentiamo in Brantôme o nei Racconti della [[Queen|Regina]] di Navarra. I Latini devono limitarsi all'assassinio. Non ci deve essere nessun popolo a [[Paris|Parigi]],
+anche se fu il popolo di [[Paris|Parigi]] che, per bene o per male, cambiò
+il corso intero della [[history|storia]]. Si possono introdurre personaggi come Sully;
+ma i loro talenti devono essere completamente assorbiti nel servire il Principe
+nei suoi affari di [[Love|amore]] personali e nei suoi duelli nelle locande. Soprattutto,
+proprio nel bel mezzo delle Guerre di Religione, nessuno deve sembrare avere un'idea chiara di cosa sia la propria religione.
+
+Potete anche scrivere un [[Novel|romanzo]] ambientato nel [[Time|periodo]] di Richelieu.
+Ma deve essere governato dagli stessi principi.
+Richelieu deve essere un nemico sinistro ma magnanimo dell'[[Hero|eroe]].
+Deve cercare di uccidere l'[[Hero|eroe]], e fallire in modo inspiegabile.
+A questo punto della scrittura dei romanzi storici, è
+importante essere imitatori di Dumas. Ci sono critici che
+sostengono che gran parte delle opere di Dumas siano state scritte da imitatori di Dumas.
+Questa è un'esagerazione; ma, nel peggiore dei casi, erano buoni imitatori.
+Ci sono capitoli nella tripla storia dei Moschettieri
+di cui posso solo dire che, se non fossero stati scritti da lui,
+avrebbe potuto assumere cuori e menti [[Well|così]] come mani.
+Ma il mio avvertimento al giovane scrittore di romanzi storici del tutto inutili è questo:  Non deve uscire dalla Francia,
+o trattare quel paese diversamente da un elfico mondo isolato.
+Non deve portar via il Generale Monk in una scatola. Pensate quale terribile
+errore sarebbe stato dal punto di vista puritano inglese--se d'Artagnan avesse portato via per errore il Generale Cromwell!
+Tutto ciò accadde nel [[Time|periodo]] di Mazzarino e non di Richelieu,
+ma il principio si rivelerà affidabile. Il principio è
+che né Richelieu né chicchessia dovrebbe mostrare il minimo
+interesse per il futuro della Francia.
+
+Potete scrivere un [[Novel|romanzo]] sulla [[French Revolution|Rivoluzione Francese]].
+Potete farlo a testa in giù, come dicono i gioviali criminali abituali.
+I principi essenziali di questo tipo di [[Novel|romanzo]] sono:  (1) Che la popolazione
+di [[Paris|Parigi]] dal 1790 al 1794 non ha mai fatto pasti, né si è seduta
+in un caffè. Si sono tenuti in piedi per strada tutta la [[Night|notte]] e tutto il giorno,
+sufficientemente sostenuti dalla vista del [[Blood|Sangue]], specialmente dal Sangue Blu [[Blood|sangue]].
+(2) Tutti i poteri durante il Terrore erano nelle mani dell'esecutore pubblico
+e di Robespierre; e queste persone erano soggette a bruschi
+cambiamenti d'umore, e frequentemente riscattavano la loro abitudine di uccidere
+le persone senza motivo apparente lasciandole andare all'ultimo momento,
+senza un motivo apparente neanche in questo caso.  (3) Gli aristocratici sono di due tipi:
+il molto malvagio e il del tutto irreprensibile; e tutti e due sono sempre
+di bell'aspetto. Entrambi sembrano preferire piuttosto di essere ghigliottinati.
+(4) Cose come l'invasione della Francia, l'idea di una Repubblica,
+l'influenza di Rousseau, la prossima bancarotta nazionale,
+il lavoro di Carnot con gli eserciti, la politica di Pitt, la politica
+dell'Austria, l'abitudine radicata di proteggere i propri beni
+contro gli stranieri e la presenza di persone che portano armi
+alla Battaglia di Valmy--tutte queste cose non hanno nulla a che fare con
+la [[French Revolution|Rivoluzione Francese]], e dovrebbero essere omesse.
+
+Ora, considerando il numero di pittoresche lotte che ci sono state nel mondo, mi sembra che questi argomenti potrebbero essere messi da parte. Non è stato scritto quasi nulla, per esempio, sulle altre Guerre di Religione, quelle che accompagnarono la costruzione dell'Europa cattolica, piuttosto che il suo smembramento. Ci fu l'invasione iconoclasta in [[Italy|Italia]], che si conclude con l'entrata di Carlo Magno. Non è stato scritto quasi nulla su rivolte diverse da quelle parigine; le numerose rivolte di Edimburgo, specialmente in quei pochi giorni quando era quasi altrettanto pericoloso essere un medico che essere un cane rabbioso. Un altro vantaggio sarebbe che, affrontando il suo problema storico con occhio fresco, lo scrittore potrebbe persino leggere un po' di [[history|storia]].
 
 
 

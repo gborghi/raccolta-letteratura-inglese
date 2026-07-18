@@ -482,6 +482,61 @@ In no case will a college ever teach the important things.
 He has learnt them right or wrong, and he has learnt them all [[Alone|alone]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cosa va bene nel mondo
+
+Il titolo eccellente sopra non è di mia invenzione.
+Mi fu suggerito dal Direttore di questo giornale (T.P.'s Weekly),
+e accettai di completare il compito, in parte per il piacere
+che ho sempre provato per il giornale stesso e in parte perché mi dà
+l'occasione di raccontare una storia egocentrica, che può
+illuminare il pubblico sull'origine generale di titoli del genere.
+
+Ho sempre sentito parlare della brutalità degli editori e di come schiaccino
+e oscurino l'autore; ma la mia lamentela è stata sempre che lo spingono
+avanti troppo.  Non dirò che, lungi dal fare
+troppo poco dell'autore, ne fanno troppo; questa frase
+è capace di un'interpretazione finanziaria oscura che non intendo.
+Ma dico che le personalità prominenti del mondo letterario
+sono in gran parte creazioni dei loro editori, per quanto non siano
+soltanto creazioni delle loro mogli.  Ecco un piccolo episodio
+della mia esistenza.  Progettavo di scrivere una sorta di [[Essay|saggio]],
+diviso in sezioni, su un particolare punto d'errore politico.
+Questa fallacia, benché a prima vista piccola e scolastica, mi sembrava
+il vero errore nella maggior parte delle opere sociologiche moderne.
+In breve, l'idea che le cose che sono state provate si siano rivelate insufficienti.  Il mio scopo era di far notare che nelle complicazioni
+della pratica ciò è falso; che un vecchio espediente può essere la cosa migliore
+per una nuova situazione; che il suo principio può essere utile anche se
+la sua pratica è stata abbandonata; e così via.  Perciò, sostenevo,
+dovremmo cercare il miglior metodo, l'ideale, sia che si trovi
+nel futuro o nel passato.  Immaginavo questo libro come un trattato filosofico modesto,
+di colore sobrio, senza capitoli,
+ma con la pagina occasionalmente interrotta da titoli di sezione sul lato.
+Proponevo di chiamare la mia analisi di un errore radicale 'Cosa non va',
+nel senso di dove sta l'errore nel nostro calcolo logico.
+Ma avevo editori molto capaci e comprensivi, la cui unica
+debolezza era che ritenevano il mio infelice monologo molto più
+importante di quanto lo considerassi io.  Per una confusione di estasi (che per mia colpa non sono riuscito a controllare) il titolo fu cambiato
+nel feroce suono di tromba apocalittico 'Cosa Non Va Nel Mondo'.
+Fu diviso in tre brevi, accaniti capitoli, come proclami
+in una rivolta francese.  Fu aggiunto un enorme ritratto mio che sembrava un parrucchiere depresso, e l'intera pubblicazione
+aveva in qualche modo assunto la violenza e l'immediatezza di una bomba.
+Sia chiaro che non biasimo gli editori per questo
+neanche un po'.  Avrei potuto fermarli se mi fossi occupato dei miei affari, ma è uscito dalle loro anime belle e ardenti.
+Lo menziono semplicemente come esempio dell'errore riguardo agli editori.
+Vengono sempre rappresentati come freddi e sprezzanti mercanti,
+che cercano di tenere gli scrittori in secondo piano.  Ahimè (come Wordsworth
+dice così splendidamente), ahimè! l'entusiasmo degli editori mi ha spesso lasciato in lutto.
+
+Nel complesso, sono piuttosto incline ad approvare questo metodo per cui l'editore o il curatore inventa il titolo mentre l'autore scrive le considerazioni al riguardo. Un uomo di larghe vedute dovrebbe essere in grado di scrivere su qualsiasi argomento. Un uomo veramente libero dovrebbe essere capace di scrivere su commissione. Alcuni dei più grandi libri del mondo - [[Pickwick]], per esempio - sono stati scritti per soddisfare uno schema in parte delineato da un editore.
+Ma ho riunito questi due casi di titoli che mi sono venuti dall'esterno solo perché illustrano la necessità di una qualche riformulazione in tali casi. Infatti, quando si arriva all'attuazione, questi due titoli risultano allo stesso tempo troppo complessi e troppo semplici.
+Non avrei mai sognato di annunciare come mia personale scoperta ciò che non va nel mondo. Ciò che non va nel mondo è il diavolo, e ciò che va bene in esso è Dio; la razza umana continuerà a viaggiare per qualche altro milione di anni tra mille confusione e [[Reform|riforme]], e quando soccomberà all'ultima freddo o caldo, sarà ancora entro i limiti di quella definizione molto semplice. Ma in un'epoca che si è confusa con frasi come "ottimista" e "pessimista", è necessario distinguere lungo linee più delicate.
+Una delle cose più strane nell'uso della parola "ottimista" è che ora viene usata costantemente per il futuro. La [[house|casa]] dell'uomo non viene criticata come una [[house|casa]], ma come un genere di roulotte; non per quello che è, ma per dove sta andando.
+Nessuno è più vitalmente e temerariamente ultraterreno di quei moderni progressisti che non credono in un altro mondo.
+
+Ora, per quel che ne so io, non credo che il mondo stia migliorando in molti aspetti vitali. In alcuni di essi, penso, il fatto sarebbe difficile da contestare. L'unico elemento perfettamente soddisfacente nella crisi attuale è che tutte le profezie si sono rivelate fallaci. Almeno le persone che hanno chiaramente dimostrato di aver torto sono quelle che erano assolutamente sicure di avere ragione. Questa è sempre una circostanza gratificante. Ora, perché mai tutte queste profezie dei saggi si sono rivelate vanificate e perché il destino degli uomini ha preso un corso così decisivo e diverso? È a causa del fatto molto semplice che la razza umana è composta da milioni di esseri bipedi e abbastanza allegri, ragionevolmente infelici, che non leggono mai libri e certamente non sentono parlare di alcuna previsione scientifica. Se agiscono in opposizione allo schema che la scienza ha previsto per loro, devono essere perdonati. Peccano nell'ignoranza. Non hanno idea di star evitando ciò che era davvero inevitabile. Ma, in effetti, le frasi usate in modo vago a proposito di quella massa oscura dell'umanità sono un po' fuorvianti. Dire della maggior parte degli esseri umani che non è istruita è come dire di un cacciatore pellerossa che non ha ancora preso la laurea. Ha ottenuto molte altre cose. E così, parlando sinceramente, non esistono uomini non istruiti. Possono sfuggire agli esami banali, ma non ai tremendi esami dell'esistenza. La dipendenza dell'infanzia, il godimento degli [[Animals|animali]], l'[[Love|amore]] per la donna e la [[Fear|paura]] della [[Death|morte]] -- queste sono più spaventose e più fisse di tutte le forme concepibili del coltivamento della mente. È inutile lamentarsi che scuole e college siano banali. In nessun caso un college insegnerà mai le cose importanti. Le ha imparate giuste o sbagliate, ma le ha imparate tutte [[Alone|da solo]].
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="What is Right With the World (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

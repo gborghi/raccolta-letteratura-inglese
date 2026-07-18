@@ -8709,6 +8709,77 @@ will be easy.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora si può facilmente dimostrare che la cosa che chiamiamo aristocrazia in Europa non è affatto un'aristocrazia per origine e spirito. Non è un sistema di gradi spirituali e distinzioni come, ad esempio, il sistema delle caste dell'India o anche come l'antica distinzione greca tra uomini liberi e schiavi. È semplicemente i resti di un'organizzazione militare, creata in parte per sostenere l'impero romano morente, in parte per fermare e vendicare il terribile assalto dell'[[Islam]]. La parola duca significa semplicemente colonnello, proprio come la parola imperatore significa semplicemente comandante in capo. Tutto il racconto è contenuto nel singolo titolo dei Conti del Sacro Romano Impero, che significa semplicemente ufficiali nell'esercito europeo contro il contemporaneo Pericolo Giallo. Ora, in un esercito nessuno [[Dreams|sogna]] mai di supporre che la differenza di rango rappresenti una differenza di realtà morale. Nessuno dice mai riguardo a un reggimento: "Il vostro maggiore è molto umoristico ed energico; il vostro colonnello, naturalmente, deve essere ancora più umoristico e ancor più energico". Nessuno dice mai, riferendo una conversazione in mensa: "Il tenente [[Jones]] era molto arguto, ma era naturalmente inferiore al capitano [[smith|Smith]]. L'essenza di un esercito è l'idea di uguaglianza non ufficiale alla base di disuguaglianze ufficiali. Il colonnello non viene obbedito perché è l'uomo migliore, ma perché è il colonnello. Probabilmente questo era lo spirito del sistema dei duchi e conti quando emerse per la prima volta dallo spirito militare e dalle necessità militari di Roma. Con il declino di queste necessità ha gradualmente smesso di avere significato come organizzazione militare, ed è diventato infestato da una plutocrazia impura. Anche ora non è un'aristocrazia spirituale - non è così male. È semplicemente un esercito senza nemico - alloggiato sul popolo.
+
+L'uomo ha quindi un aspetto sia di specialista che cameratesco;
+e il caso del militarismo non è l'unico caso di tale
+sottomissione specialistica.  Anche il maniscalco e il sarto, come [[Well|pure]] il soldato
+e il marinaio, richiedono una certa rigidità e rapidità d'azione:
+almeno, se il maniscalco non è organizzato questo è in gran parte il motivo per cui non lavora su scala ampia.  Il maniscalco e il sarto spesso rappresentano
+le due razze nomadi dell'Europa: lo zingaro e l'ebreo; ma [[Alone|solo]] l'ebreo ha influenza perché [[Alone|solo]] lui accetta una certa disciplina.
+L'uomo, diciamo, ha due lati, il lato specialista dove deve
+esserci subordinazione, e il lato sociale dove deve esserci uguaglianza.
+C'è un [[Truth|fondamento]] nel detto che dieci sarti fanno un uomo;
+ma dobbiamo ricordare anche che dieci poeti laureati o dieci astronomi reali
+fanno anch'essi un uomo.  Dieci milioni di commercianti fanno l'uomo stesso;
+ma l'umanità consiste in commercianti quando non parlano bottega.
+Ora il pericolo peculiare del nostro [[Time|tempo]], che io chiamo, per amore di discussione,
+Imperialismo o Cesareismo, è l'eclissi completa della [[Comradeship|camerataggine]]
+e dell'uguaglianza da parte dello specialismo e del dominio.
+
+Esistono solo due tipi di struttura sociale concepibili: il [[government|governo]] personale e il [[government|governo]] impersonale. Se i miei amici anarchici non vogliono regole, avranno governanti. Preferire il [[government|governo]] personale, con la sua tattica e flessibilità, si chiama realismo. Preferire il [[government|governo]] impersonale, con i suoi dogmi e definizioni, si chiama repubblicanesimo. Opporsi in modo aperto sia ai re che alle credenze si chiama sciocchezza; almeno non conosco una parola più filosofica per indicarla. Si può essere guidati dall'astuzia o dalla presenza di spirito di un governante, oppure dall'uguaglianza e dalla giustizia accertata di una regola; ma bisogna avere l'uno o l'altra, altrimenti non si è una nazione, ma un brutto pasticcio. Ora gli uomini nella loro veste di uguaglianza e [[debate|dibattito]] adorano l'idea delle regole; le sviluppano e complicano enormemente in eccesso. Un uomo trova molte più norme e definizioni nel suo club, dove ci sono regole, che nella sua [[Home|casa]], dove c'è un governante. Un'assemblea deliberativa, la [[house|Camera]] dei Comuni, per esempio, porta questa farsa al punto di una metodica [[Madness|pazzia]]. L'intero sistema è rigido e irragionevole; come la [[Court|corte]] reale in Lewis Carroll. Si penserebbe che il presidente parlasse; quindi resta per lo più in silenzio. Si penserebbe che un uomo si toglierebbe il cappello per fermarsi e lo indosserebbe per andarsene; quindi si toglie il cappello per uscire e lo indossa per rimanere. I nomi sono proibiti, e un uomo deve chiamare suo padre "il mio onorevole amico deputato per Birmingham Ovest". Queste sono forse fantasie di [[Decay|decadimento]]: ma fondamentalmente rispondono a un appetito maschile. Gli uomini sentono che le regole, anche se irrazionali, sono universali; gli uomini sentono che la legge è uguale, anche quando non è equa. C'è una giustizia selvaggia in questa cosa - come c'è nel lancio di una moneta.
+
+Anche questa volta è gravemente sfortunato che quando i critici attaccano casi come quello della Camera dei Comuni, lo facciano sempre su punti (forse i pochi) in cui la Camera ha ragione.
+Denunciano la [[house|Camera]] come il luogo delle chiacchiere e si lamentano del fatto che sprecano [[Time|tempo]] in labirinti verbosi. Ora, questo è proprio uno degli aspetti in cui i Comuni sono effettivamente simili alla gente comune. Se essi [[Love|amano]] il tempo libero e lunghi [[debate|dibattiti]], è perché tutti gli uomini [[Love|amano]] farlo; che rappresentino veramente l'Inghilterra. Lì, il Parlamento si avvicina alle virtù virili della taverna.
+
+La vera [[Truth|verità]] è quella delineata nella sezione introduttoria,
+quando abbiamo parlato del senso di [[Home|casa]] e proprietà, come ora parliamo
+del senso di consiglio e comunità. Tutti gli uomini amano naturalmente
+l'idea di tempo libero, risate, discussioni forti ed eguali;
+ma c'è uno spettro nella nostra sala. Siamo consapevoli
+della torreggiante sfida moderna chiamata specializzazione
+o concorrenza sleale: il Business. Il business non ha nulla
+a che fare con il tempo libero; il business non vuole saperne di [[Love|camaraderie]];
+il business finge di non avere pazienza per tutte le finzioni legali e gli ostacoli fantastici
+con cui la [[Comradeship|camaraderia]] protegge il suo ideale egualitario. Il milionario moderno,
+quando si dedica al compito piacevole e tipico di licenziare suo padre,
+certamente non lo chiamerà l'onorevole impiegato della [[Comradeship|strada]] del Laburnum, Brixton.
+Perciò è sorta nella vita moderna una moda letteraria che si dedica al [[Road|romanzo]] degli affari,
+ai grandi semidei dell'[[Romance|avidità]] e alla fiaba della finanza. Questa filosofia popolare
+è del tutto dispotica e antidemocratica; questa moda è il fiore di quel cesarismo contro cui sono
+preoccupato di protestare. L'ideale milionario è forte nel possesso di un cervello d'acciaio.
+Il fatto che il vero milionario sia piuttosto più spesso forte nel possesso di una testa di legno,
+non cambia lo spirito e la tendenza dell'idolatria. L'argomento essenziale è "Gli specialisti devono essere
+despoti; gli uomini devono essere specialisti. Non si può avere uguaglianza in una fabbrica di sapone;
+quindi non si può avere da nessuna parte. Non si può avere [[Greed|camaraderia]] in un angolo del grano;
+quindi non si può avere affatto. Dobbiamo avere la civiltà commerciale;
+dunque dobbiamo distruggere la [[philosophy|democrazia]]." So che i plutocrati hanno
+raramente sufficiente fantasia per elevarsi a tali esempi come il sapone o il grano.
+Di solito si limitano, con una squisita freschezza di mente,
+a un paragone tra lo stato e una [[Comradeship|nave]]. Un autore antidemocratico ha osservato che non gli piacerebbe
+navigare su una [[Ship|nave]] in cui il mozzo avesse voto uguale al capitano.
+Si potrebbe facilmente obiettare che molte navi (la Victoria, per esempio) affondarono perché un ammiraglio diede un ordine che un
+mozzo poteva vedere essere sbagliato. Ma questa è una risposta dialettica;
+l'errore essenziale è sia più profondo che più semplice. Il fatto elementare
+è che siamo tutti nati in uno stato; non siamo tutti nati su una [[Democracy|nave]];
+come alcuni dei nostri grandi banchieri britannici. Una [[Ship|nave]] rimane ancora
+un esperimento specialistico, come un campanile o un [[Ship|velivolo]]:
+in tali pericoli peculiari la necessità di prontezza costituisce la necessità
+di autocrazia. Ma viviamo e moriamo nella [[Ship|nave]] dello stato;
+e se non possiamo trovare [[Ship|libertà]], cameratismo e l'elemento popolare
+nello stato, non lo troveremo affatto. E la dottrina moderna
+del dispotismo commerciale significa che non lo troveremo affatto.
+Le nostre attività specialistiche nel loro stato altamente civilizzato non possono
+(dice) essere gestite senza tutta la brutale faccenda di comandare e licenziare, "troppo vecchio a quaranta" e tutto il resto della sporcizia.
+E devono essere gestite, quindi chiamiamo Cesare. Nessuno tranne
+il Superuomo potrebbe scendere a fare un lavoro così sporco.
+
+Ora (per ribadire il mio titolo) questo è ciò che non va. Questa è l'enorme eresia moderna di modificare l'[[Soul|anima]] umana per adattarla alle sue condizioni, anziché modificare le condizioni umane per adattarle all'[[Soul|anima]] umana. Se la produzione del sapone è davvero incompatibile con la fratellanza, tanto peggio per il sapone e non per la fratellanza. Se la civiltà non può davvero andare d'accordo con la [[Democracy|democrazia]], tanto peggio per la civiltà e non per la [[Democracy|democrazia]]. Certo, sarebbe molto meglio tornare ai comuni rurali, se sono veramente comuni. Certo, sarebbe meglio fare a meno del sapone piuttosto che della società. Certamente, sacrificheremmo tutti i nostri fili, ruote, sistemi, specializzazioni, scienza fisica e finanza frenetica per mezz'ora di felicità come quella che spesso ci è capitata con i compagni in una taverna comune. Non dico che il sacrificio sarà necessario; dico solo che sarà facile.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="whats wrong — Part 3 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
@@ -9449,6 +9520,104 @@ they were freakish, but they were not false.  A lady may or may
 not be as red as she is painted, but plainly she was not so black
 as she was patched.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché riguarda l'astuzia femminile contro lo spreco maschile,
+così riguarda la dignità femminile contro il chiasso maschile.
+La donna ha un'idea fissa e molto [[Well|ben]] fondata che se
+non insiste sul buon comportamento nessun altro lo farà.
+I bambini non sono sempre forti nel punto della dignità,
+e gli uomini adulti sono del tutto sgradevoli.  È vero che
+ci sono molti uomini molto cortesi, ma nessuno di cui abbia mai sentito
+parlare che non fosse affascinante con le donne o non le obbedisse.
+Ma in effetti l'ideale femminile della dignità, come l'ideale
+femminile dell'astuzia, è più profondo e può essere facilmente frainteso.
+Riposa infine su una forte idea di isolamento spirituale;
+la stessa che rende le donne religiose.  Non amano essere
+fuse; non gradiscono né cercano la folla.  Quella qualità anonima
+che abbiamo notato nella conversazione del club sarebbe comune
+impertinenza in un caso di signore.  Ricordo una signora
+artista e appassionata che mi chiedeva nel suo grande salotto verde se
+credevo nell'[[Comradeship|camaraderie]] tra i sessi, e perché no.
+Ero costretto a offrire la risposta ovvia e sincera:
+"Perché se dovessi trattarti per due minuti come un compagno
+tu mi caccerebbe fuori di [[house|casa]]."  L'unica regola certa su
+questo argomento è sempre trattare la donna e mai le donne.
+"Donne" è una parola sperperata; l'ho usata ripetutamente in
+questo capitolo; ma ha sempre un suono da mascalzone.  Puzza
+di cinismo edonistico orientale.  Ogni donna è una [[Queen|regina]] prigioniera.
+Ma ogni folla di donne è solo un harem sfuggito al controllo.
+
+Non sto esprimendo qui le mie opinioni personali, ma quelle di quasi tutte le donne che ho conosciuto. È del tutto ingiusto dire che una donna odia le altre donne singolarmente; ma credo sarebbe del tutto vero dire che le detesta in un mucchio confuso. E questo non è perché disprezza il proprio sesso, ma perché lo rispetta; e rispetta soprattutto quella santità e separazione di ogni individuo che si rappresenta nei modi con l'idea della dignità e nella morale con l'idea della castità.
+
+* * *
+
+V
+
+Il freddo di Chloe
+
+Si sente molto parlare dell'errore umano che accetta ciò che è falso e ciò che è reale. Ma vale la pena ricordare che con le cose non familiari spesso scambiamo ciò che è reale per ciò che è falso.
+È vero che un ragazzo molto giovane può pensare che la parrucca di un'attrice sia i suoi capelli. Ma è altrettanto vero che un [[Child|bambino]] ancora più piccolo può chiamare i capelli di un negro la sua parrucca.
+Proprio perché il selvaggio lanoso è remoto e barbarico sembra essere innaturalmente ordinato e pulito. Tutti devono aver notato la stessa cosa nel colore fisso e quasi offensivo
+di tutte le cose non familiari, gli uccelli tropicali [[Birds|uccelli]] e i fiori tropicali.
+Gli uccelli tropicali [[Birds|uccelli]] sembrano giocattoli che fissano da un negozio di giocattoli. I fiori tropicali [[Flowers|fiori]]
+semplicemente sembrano fiori artificiali [[Flowers|fiori]], come cose tagliate fuori dalla cera.
+Questa è una questione profonda, e, penso, non sconnessa dalla divinità;
+ma comunque è la [[Truth|verità]] che quando vediamo le cose per la prima
+[[Time|volta]] sentiamo istantaneamente che sono creazioni fittizie;
+sentiamo il dito di Dio. È solo quando siamo completamente abituati
+a loro e i nostri cinque sensi sono stanchi, che li vediamo come selvaggi
+e senza scopo; come le cime degli alberi informi o la nuvola mutevole.
+È il disegno nella [[Nature|Natura]] che ci colpisce per primo; il senso
+delle croci e delle confusioni in quel disegno arriva
+solo dopo attraverso l'esperienza e una monotonia quasi inquietante.
+Se un uomo vedesse le [[Stars|stelle]] all'improvviso per caso penserebbe
+che sono festose e artificiali come un fuoco d'artificio.
+Parliamo della follia di dipingere il giglio; ma se vedessimo
+il giglio senza preavviso penseremmo che è stato dipinto.
+Parliamo del diavolo non essendo così nero come è dipinto;
+ma quella stessa frase è una testimonianza dell'imparentamento tra
+ciò che viene chiamato vivido e ciò che viene chiamato artificiale.
+Se il saggio moderno avesse solo uno sguardo di erba e cielo,
+direbbe che l'erba non è così verde come è dipinta;
+che il cielo non è così blu come è dipinto. Se si potesse vedere
+l'intero universo all'improvviso, sembrerebbe un giocattolo dai colori vivaci,
+proprio come il calao sudamericano sembra un giocattolo dai colori vivaci.
+E così sono--entrambi, voglio dire.
+
+Ma non era di questo aspetto dell'aria sorprendente e artificiosa che circonda tutti gli oggetti strani che volevo parlare.
+Volevo semplicemente, come guida alla [[history|storia]], dire che non dovremmo stupirci se le cose realizzate in stili lontani dal nostro ci sembrano artificiali;
+dovremmo convincerci che nove volte su dieci
+queste cose sono nello stato più puro e quasi indecente di onestà.
+Sentirete parlare degli uomini del classicismo gelido di Corneille
+o delle pomposità incipriate del diciottesimo secolo,
+ma tutte queste frasi sono molto superficiali.  Non è mai esistita un'epoca artificiale.  Non c'è mai stato un'età della ragione.
+Gli uomini sono sempre stati uomini e le donne donne:  e i loro due generosi appetiti
+sono sempre stati l'espressione della passione e la narrazione della [[Truth|verità]].
+Possiamo vedere qualcosa di rigido e strano nel loro modo di esprimersi,
+proprio come i nostri discendenti vedranno qualcosa di rigido e strano
+nella nostra più grossolana [[Sketch|bozza]] di quartiere o nel nostro più nudo dramma patologico.
+Ma gli uomini non hanno mai parlato d'altro che di cose importanti;
+e la prossima forza della femminilità che dobbiamo considerare può
+essere meglio considerata forse in qualche vecchio volume polveroso di versi
+di una persona di qualità.
+
+Del diciottesimo secolo si parla come del periodo dell'artificialità,
+almeno nelle apparenze; ma in realtà su questo potremmo discutere.
+Nel linguaggio moderno si usa il termine artificialità per indicare indefinitamente una sorta di inganno;
+ma il diciottesimo secolo era troppo artificioso per ingannare.
+Coltivava quell'arte più completa che non nasconde l'artificio.
+Le sue mode e i suoi costumi rivelavano positivamente la [[Nature|natura]] permettendo l'artificio;
+come in quel caso evidente di una toelettatura che imbiancava ogni capo
+con lo stesso argento. Sarebbe fantasioso chiamare questo un pittoresco [[Humility|umiltà]]
+che nascondesse la giovinezza; ma, almeno, non era uno con il malvagio [[Pride|orgoglio]]
+che nasconde la vecchiaia. Sotto le mode del diciottesimo secolo
+le persone non fingevano di essere tutte giovani,
+ma erano d'accordo nel sembrare vecchie.
+Lo stesso vale per le più strane e innaturali delle loro mode;
+erano eccentriche, ma non false. Una signora poteva o meno essere rossa come dipinta,
+ma chiaramente non era così nera come imbellettata.
 
 
 
@@ -11969,6 +12138,93 @@ that does not look down at the [[Insects|insects]], but looks up at the [[Insect
 that asks us essentially to bow down and worship beetles,
 like ancient Egyptians.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARTE QUINTA
+
+LA [[Home|CASA]] DELL'UOMO
+
+* * *
+
+I
+
+L'impero degli insetti
+
+Un mio amico conservatore colto mostrò un giorno grande turbamento perché in un momento di allegria chiamai una volta [[Edmund]] Burke un ateo. Non c'è bisogno che dica che l'osservazione mancava di precisione biografica; era proprio questo lo scopo.
+Burke non era certamente un ateo nella sua teoria cosmica cosciente, sebbene non avesse una fiammante e speciale [[Faith|fede]] in Dio come Robespierre. Tuttavia, l'osservazione faceva riferimento a una [[Truth|verità]] che qui è pertinente ripetere. Intendo dire che nella disputa sulla [[French Revolution|Rivoluzione Francese]], Burke rappresentava l'atteggiamento e il modo di argomentare atei, così come Robespierre rappresentava quello teista.
+La Rivoluzione faceva appello all'idea di una giustizia astratta ed eterna, al di là di ogni costume locale o convenienza. Se esistono comandi di Dio, allora devono esserci diritti dell'uomo.
+Qui Burke fece la sua brillante diversione; non attaccò la dottrina di Robespierre con l'antica dottrina medievale del jus divinum (che, come la dottrina di Robespierre, era teistica), ma la attaccò con l'argomento moderno della relatività scientifica; in breve, l'argomento dell'evoluzione. Suggerì che l'umanità fosse ovunque modellata o adattata al suo ambiente e alle sue istituzioni; in pratica, che ogni popolo ottenesse praticamente non solo il [[Tyrant|tiranno]] che meritava, ma il [[Tyrant|tiranno]] che avrebbe dovuto avere.
+"Non so nulla dei diritti dell'uomo", disse, "ma so qualcosa dei diritti degli inglesi". Ecco l'ateo essenziale. Il suo argomento è che abbiamo ottenuto una certa protezione per caso naturale e crescita; e perché dovremmo pretese di pensare oltre, come se fossimo immagini di Dio! Nasce sotto una [[house|Camera]] dei Lord, così come gli [[Birds|uccelli]] nascono sotto una [[house|casa]] di [[Leaves|foglie]]; viviamo sotto una monarchia come i negri vivono sotto un sole tropicale; non è colpa loro se sono schiavi, e non è nostra se siamo snob. Così, molto prima che Darwin desse il suo grande colpo alla [[Democracy|democrazia]], l'essenza dell'argomento darwiniano era già stato avanzato contro la [[French Revolution|Rivoluzione Francese]]. L'uomo, disse in effetti Burke, deve adattarsi a tutto, come un animale; non deve cercare di cambiare tutto, come un angelo.
+L'ultimo debole grido del pio, grazioso, mezzo artificiale ottimismo e deismo del diciottesimo secolo giunse nella voce di Sterne, che diceva: "Dio tempera il [[Wind|vento]] al [[Lamb|agnello]] tosato."
+E Burke, l'evoluzionista di ferro, rispose essenzialmente:
+"No; Dio tempera l'[[Lamb|agnello]] tosato al [[Wind|vento]]." È l'[[Lamb|agnello]] che deve adattarsi. Cioè, o muore o diventa un particolare tipo di [[Lamb|agnello]] che ama stare in corrente d'aria.
+
+L'istinto popolare inconscio contro il darwinismo non era un semplice
+sdegno per la nozione [[Grotesque|grottesca]] di andare a trovare il proprio nonno in una gabbia
+al Regent's Park. Gli uomini si abbandonano all'alcool, ai scherzi e ad altre cose
+[[Grotesque|grottesche]]; non gli dà molto fastidio fare i porci, e non gliene importerebbe nulla se facessero dei loro antenati degli animali.
+L'istinto reale era molto più profondo e molto più valido.
+Era questo: che quando si comincia a pensare all'uomo come una cosa mutevole
+e modificabile, è sempre facile per i forti e gli astuti
+modellarlo in nuove forme per ogni sorta di scopi innaturali.
+L'istinto popolare vede in tali sviluppi la possibilità
+di schiene curve sotto il peso o arti
+contorti per svolgere un compito. Ha una congettura ben [[Well|fond]]ata che
+qualunque cosa sia fatta rapidamente e sistematicamente sarà fatta soprattutto
+da una classe di successo e quasi esclusivamente nei suoi interessi.
+Ha quindi la visione di ibridi disumani ed esperimenti semiumani
+molto nello stile dell'"Isola del dottor Moreau" di Wells. Il ricco
+potrebbe arrivare a far crescere una tribù di nani per i suoi fantini,
+e una tribù di giganti per i portieri. I cocchieri potrebbero nascere
+con le gambe arcuate e i sarti con le gambe [[Cross|incroci]]ate; i profumieri potrebbero avere il naso lungo
+e largo, e un atteggiamento rannicchiato come quello dei cani da fiuto;
+e i degustatori professionisti di vino potrebbero avere l'orribile espressione
+di chi assaggia il vino stampata sul volto fin dall'infanzia.
+Qualunque immagine selvaggia si impieghi, non può tenere il passo con il panico
+della fantasia umana quando suppone che il tipo fisso
+chiamato uomo possa cambiare. Se qualche milionario vuole delle braccia,
+qualche portiere deve far crescere dieci braccia come un polpo; se vuole le gambe,
+un ragazzo messaggero dovrà andarsene con cento zampette che trotterellano come un centopiedi.
+Nello [[Mirror|specchio]] distorto dell'ipotesi, cioè dell'ignoto,
+gli uomini possono scorgere vagamente tali forme mostruose e malvagie; gli uomini diventano tutti occhi
+o tutte dita, senza lasciare altro che un solo narice o un solo orecchio.
+Questo è il [[nightmare|incubo]] con cui la mera nozione di adattamento
+ci minaccia. Questo è l'[[nightmare|incubo]] che non è poi così lontano
+dalla realtà.
+
+Si dirà che neppure il più sfrenato evoluzionista pretende davvero
+che diventiamo in qualche modo non umani o imitiamo un altro animale.
+Mi scusi, ma è esattamente ciò che non solo i più sfrenati
+evoluzionisti chiedono, ma anche alcuni dei più moderati.
+Nell'[[history|storia]] recente si è levato in alto un culto importante che promette
+di essere la religione del futuro -- il che significa la religione
+di quelle poche persone deboli di mente che vivranno nel futuro. È tipico
+del nostro [[Time|tempo]] dover cercare il suo dio attraverso un microscopio;
+e il nostro [[Time|tempo]] ha segnato una definitiva adorazione dell'[[Insects|insetto]].
+Come la maggior parte delle cose che chiamiamo nuove, naturalmente non è affatto
+nuova come idea; è solo nuova come idolatria. Virgilio prendeva sul serio le [[Bees|api]]
+ma dubito che avrebbe allevato le [[Doubt|api]] con la stessa cura con cui scriveva
+di loro. Il saggio [[King|re]] disse al pigro di osservare la formica,
+un'occupazione affascinante -- per un pigro. Ma nel nostro [[Time|tempo]]
+è apparso un tono molto diverso, e più di un grande uomo,
+oltre a innumerevoli uomini intelligenti, hanno seriamente suggerito
+nel nostro [[Time|tempo]] che dovremmo studiare l'insetto perché siamo suoi inferiori.
+I vecchi moralisti prendevano semplicemente le virtù dell'uomo e le distribuivano
+in modo abbastanza decorativo e arbitrario tra gli [[Animals|animali]].
+La formica era un simbolo quasi araldico di industriosità, come il [[Lion|leone]]
+era di [[Courage|coraggio]], o, per quel che ne sappiamo, il pellicano di [[Charity|carità]].
+Ma se i medievali fossero stati convinti che un [[Lion|leone]] non era coraggioso,
+avrebbero abbandonato il [[Lion|leone]] e mantenuto il [[Courage|coraggio]]; se il pellicano
+non è caritatevole, avrebbero detto, tanto peggio per il pellicano.
+I vecchi moralisti, dico, permettevano alla formica di far rispettare e tipificare
+la [[morality|moralità]] dell'uomo; non le hanno mai permesso di sconvolgerla.
+Usavano la formica per l'industria come il lucherino per la puntualità;
+guardavano in alto verso gli agitati [[Birds|uccelli]] e in basso verso i gattonanti
+[[Insects|insetti]] per una lezione semplice. Ma abbiamo vissuto abbastanza a lungo da vedere una setta
+che non guarda in basso agli [[Insects|insetti]], ma li guarda dall'alto,
+che ci chiede essenzialmente di inchinarci e adorare i coleotteri,
+come gli antichi Egizi.
 
 
 

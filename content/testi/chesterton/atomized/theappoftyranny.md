@@ -5034,7 +5034,7 @@ La più lontana di tutte le differenze: quella delle razze remote e non correlat
 
 Chi raramente si sono visti in faccia e mai toccati l'un l'altro
 
-sangue]] altrui. Qui troviamo ancora lo stesso immutabile principio prussiano.
+[[Blood|sangue]] altrui. Qui troviamo ancora lo stesso immutabile principio prussiano.
 
 Qualsiasi europeo potrebbe provare una genuina [[Fear|paura]] del Pericolo Giallo; e molti
 
@@ -5590,7 +5590,7 @@ Questo vitale [[Romance|romanzo]] di [[Russia|Rusia]], questa rivoluzione contro
 
 in pura verità: non solo dall'attività quasi sovrumana della [[Russia]] durante
 
-la lotta, ma anche (cosa molto più rara nella storia umana) da parte sua
+la lotta, ma anche (cosa molto più rara nella [[history|storia]] umana) da parte sua
 
 # un comportamento coerente da allora. È l'unica grande nazione che ha...
 
@@ -7438,7 +7438,7 @@ Era chiamato il gigante russo o irlandese o cinese
 
 Il gigante ottentotto era in pericolo di essere rapito e imprigionato in un...
 
-Uniforme prussiana. È lo stesso tipo meschino di follia che sta agendo nei
+Uniforme prussiana. È lo stesso tipo meschino di [[Madness|follia]] che sta agendo nei
 
 I professori prussiani come quello che ho citato non possono andare oltre.
 
@@ -8662,7 +8662,7 @@ Niente se non nelle cattive copie della Grecia e di Roma, e i prussiani sarebber
 
 Seguire piuttosto che i dettagli del loro futuro, su cui siamo
 
-naturalmente non così bene informati. Bene, ogni cupola che costruiscono, ogni pilastro
+naturalmente non così [[Well|bene]] informati. [[Well|Bene]], ogni cupola che costruiscono, ogni pilastro
 
 # hanno eretto ogni piedistallo per epigrafe o pannello per decorazione, ogni
 
@@ -8782,7 +8782,7 @@ Per la pienezza della vostra [[Faith|fede]] e persino per la pienezza del vostro
 
 Ricordate Roma, avete guadagnato il diritto di evitare che tutte le nostre dispute siano...
 
-spegneva quella sete nell'acqua così fredda del nord. Ma non è eccessivo dire
+spegneva quella sete nell'[[Water|acqua]] così fredda del nord. Ma non è eccessivo dire
 
 Né la religione al suo peggio né il repubblicanesimo al suo peggio mai
 

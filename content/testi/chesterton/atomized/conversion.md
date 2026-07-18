@@ -3622,6 +3622,101 @@ phases are over, a larger [[Truth|truth]] begins to come into sight;
 it is much too large to describe and we will proceed to describe it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Questa nota sulle fasi della [[conversion|conversione]] è necessariamente molto negativa e inadeguata.
+C'è nell'ultimo secondo di [[Time|tempo]] o nel pelo di spazio, prima che il ferro salti verso la calamita,
+un abisso pieno di tutte le forze insondabili dell'universo. Lo spazio
+tra fare e non fare una cosa del genere è così piccolo e così vasto.
+Qui è possibile solo dare i motivi per il cattolicesimo, non la causa del cattolicesimo.
+Ho cercato di suggerire qui alcuni degli
+schiarimenti ed esperienze che gradualmente insegnano a coloro che sono stati
+insegnati a pensare male della Chiesa a cominciare a pensar[[Well|bene]] di lei.
+Che qualcosa descritto come così cattivo si riveli essere così buono
+è in sé un processo piuttosto sorprendente, con un sapore di qualcosa
+di sensazionale e strano. Venire per maledire e rimanere a benedire,
+venire per deridere e rimanere a pregare, è sempre gradito nello spirito
+della [[Wonder|meraviglia]] e nel calore di un bene inaspettato.
+
+Ma è una cosa concludere che il cattolicesimo sia buono e un'altra concludere che abbia ragione. È una cosa concludere che ha ragione e un'altra concludere che ha sempre ragione. Non avevo mai creduto alla tradizione secondo cui fosse diabolico; presto ero arrivato a [[Doubt|dubitare]] dell'idea che fosse disumano, ma questo mi avrebbe lasciato solo la deduzione ovvia che fosse umano. È un passo considerevole da questa alla deduzione che sia divino. Quando giungiamo a questa convinzione di autorità divina, giungiamo all'argomento più misterioso dell'aiuto divino. In altre parole, giungiamo all'idea insondabile della grazia e del dono della [[Faith|fede]]; e non ho la minima intenzione di tentare di sondarla. È una questione teologica di estrema complessità; ed è una cosa sentirla come un fatto e un'altra definirla come una [[Truth|verità]]. Uno o due punti sulle disposizioni preliminari che preparano la mente ad essa sono tutto ciò che qui va indicato. Per cominciare, c'è un senso in cui i bigotti più neri sono davvero i migliori filosofi. La Chiesa è veramente come l'Anticristo nel senso che è altrettanto unica quanto [[Christ|Cristo]]. In effetti, se non fosse [[Christ|Cristo]] probabilmente sarebbe Anticristo; ma certamente non è Mosè o Maometto o Buddha o Platone o Pitagora. Più vediamo dell'umanità, più simpatizziamo con l'umanità, più vedremo che quando è semplicemente umana è semplicemente pagana; e i nomi dei suoi particolari dèi locali o profeti tribali o saggi altamente rispettabili sono una questione secondaria rispetto a quel carattere umano e pagano. Nel vecchio paganesimo dell'Europa, nel paganesimo esistente in Asia, ci sono stati dèi e sacerdoti e profeti e saggi di ogni sorta; ma non un'altra istituzione di questo tipo. I culti pagani muoiono molto lentamente; non ritornano molto rapidamente. Non fanno il genere di pretese che si fa in una crisi; e poi ripetono la stessa pretesa ancora e ancora a ogni crisi dopo l'altra per tutta la [[history|storia]] della terra. Tutto ciò che le persone [[Fear|temono]] nella Chiesa, tutto ciò che odiano in essa, tutto contro cui induriscono maggiormente i loro cuori e a volte (uno è tentato di dire) addensano le loro teste, tutto ciò che ha fatto trattare consapevolmente e inconsapevolmente la [[Catholic Church|Chiesa Cattolica]] come un pericolo, è la prova che qui c'è qualcosa che non possiamo guardare con languida distacco, come potremmo guardare gli Ovambo danzare alla nuova [[Moon|luna]] o i Cinesi bruciare carta in templi di porcellana. Il Cinese e il turista possono andare d'accordo a meraviglia su una base di reciproco disprezzo. Ma nel duello tra la Chiesa e il mondo non c'è uno scudo del genere fatto di disprezzo. La Chiesa non acconsentirà a disprezzare l'[[Soul|anima]] di un coolie o anche quella di un turista; e la misura della [[Madness|pazzia]] con cui gli uomini la odiano è solo il loro vano tentativo di disprezzarla.
+
+Un altro elemento, molto più profondo e delicato e difficile da descrivere,
+è la connessione immediata di ciò che è più terribile e arcaico con ciò che è più intimo e individuale.
+È un miracolo in sé che qualcosa di così enorme e storico per data e disegno
+sia così fresco nei sentimenti. È come se un uomo trovasse il proprio salotto e caminetto nel cuore
+della Grande Piramide. È come se la bambola preferita di un [[Child|bambino]]
+si rivelasse essere l'immagine sacra più antica del mondo,
+adorata in Caldea o a Ninive. È come se una ragazza
+a cui un uomo fece [[Love|corte]] in un [[Garden|giardino]] fosse anche, in qualche modo oscuro e [[Double|doppio]],
+una statua che sta per sempre su una piazza.
+Proprio qui entrano tutte quelle cose che erano considerate
+debolezze come pienezza di forza. Tutto ciò che gli uomini chiamavano sentimentale nella religione cattolica romana,
+i suoi ricordi, i suoi piccoli [[Flowers|fiori]] e quasi volgari cianfrusaglie,
+le sue figure con gesti misericordiosi e occhi gentili, il suo patetismo
+popolare dichiarato e tutto ciò che Matthew Arnold intendeva per [[Christianity|cristianesimo]]
+con le sue "[[Tears|lacrime]] di sollievo" -- tutto questo è un segno di sensibilità e
+vivida vitalità in qualcosa di così vasto, stabilito e sistematico.
+Non c'è nulla di paragonabile a questo calore, come nel calore del Natale,
+tra antiche colline incanutite da tali nevi dell'antichità.
+Può rivolgersi persino a Dio Onnipotente con diminutivi.
+In tutti i suoi vari paramenti porta il suo Sacro Cuore
+sul braccio. Ma per coloro che sanno che è piena
+di queste vivaci affezioni, come piccole fiamme danzanti,
+c'è qualcosa di quasi soddisfazione ironica nella nuda
+e primitiva grandezza della cosa, come un qualche [[Monster|mostro]] preistorico;
+nelle sue guglie e mitre come le corna di giganteschi branchi o i suoi
+colossali elementi angolari come i quattro piedi di un elefante.
+Sarebbe facile scrivere uno studio puramente artistico degli strani
+esteriori della religione romana, che la farebbero sembrare
+così rozza e ultraterrena come le religioni azteca o africana. Sarebbe facile parlarne
+come se fosse davvero una sorta di mammut o [[Monster|elefante mostro]],
+più antico dell'Era Glaciale,
+che svetta sull'Età della Pietra; le sue stesse linee tracciate, sembrerebbe,
+negli terremoti o frane di qualche creazione più antica,
+i suoi organi e la sua struttura esterna imparentati con modelli non registrati
+di vegetazione, aria e luce -- il residuo finale di un mondo perduto.
+Ma il [[Monster|mostro]] preistorico è negli Zoo e non nel Museo di [[history|Storia]] Naturale. L'animale estinto è ancora vivo.
+E qualsiasi cosa straniera e sconosciuta nella sua forma accentua
+la sorprendente naturalezza e familiarità della sua mente, come se la [[The Sphinx|Sfinge]]
+iniziasse improvvisamente a parlare degli argomenti dell'ora.
+Il super-elefante non è solo un animale addomesticato ma un animaletto;
+e un giovane [[Child|bambino]] lo guiderà.
+
+Questa antitesi tra tutto ciò che è formidabile e remoto e tutto
+ciò che è personalmente rilevante e realisticamente tenero è un'altra di
+quelle impressioni convergenti che si incontrano nel momento della convinzione.
+Ma di tutte queste cose, che si avvicinano maggiormente alla reale
+transizione del dono della [[Faith|fede]], è molto più difficile scrivere rispetto
+ai preliminari razionalistici e storici dell'indagine.
+È solo con quelle disposizioni preliminari verso la [[Truth|verità]]
+che pretendo di occuparmi qui. Nei capitoli che seguono propongo
+di toccare due delle più ampie considerazioni di questa classe,
+non perché siano in sé stesse più grandi di molti altri
+aspetti immensi di un tema così potente, ma perché capita
+che si bilancino a vicenda e formano una sorta di antitesi molto tipica
+di tutta la [[Truth|verità]] cattolica. Nel primo dei due capitoli
+proverò a indicare come sia che quando lodiamo la Chiesa
+per la sua [[Greatness|grandezza]] non intendiamo semplicemente la sua ampiezza ma,
+in un senso piuttosto notevole e unico, la sua universalità.
+Intendiamo il suo potere di essere cosmo e contenere altre cose.
+E nel secondo capitolo indicherò ciò che può sembrare
+disturbare questa [[Truth|verità]] ma in realtà la bilancia. Intendo il fatto
+che apprezziamo la Chiesa perché è una Chiesa Militante;
+e talvolta anche perché milita contro di noi.
+È qualcosa di più del cosmo, nel senso di [[Nature|natura]] completata
+o [[Nature|natura]] umana completata. Dimostra di essere qualcosa in più a volte avendo ragione dove loro hanno torto.
+Questi due aspetti devono essere considerati separatamente, sebbene si uniscano
+per formare la piena convinzione che arriva appena prima della [[conversion|conversione]].
+Ma in questo capitolo ho semplicemente annotato alcuni punti
+o stadi della [[conversion|conversione]] considerata come un processo pratico;
+e specialmente quei tre stadi attraverso i quali molti un
+protestante o agnostico devono essere passati. Molti, guardandosi indietro
+con allegria ora, non si offenderanno se chiamo il primo,
+paternalisticamente la Chiesa; e il secondo, scoprire la Chiesa;
+e il terzo, scappare dalla Chiesa. Quando queste tre
+fasi sono finite, una più ampia [[Truth|verità]] comincia a entrare in vista;
+è troppo grande per essere descritta e procederemo a descriverla.
+
 
 
 <span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_01" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 1)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt"></span>

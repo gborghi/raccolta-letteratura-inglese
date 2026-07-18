@@ -12413,6 +12413,82 @@ but it seems to me, on the side of religious thought, to be the very
 essence of formlessness.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IL NUOVO LUTERO
+
+SEMPLICE che ci sia un movimento o qualcosa del genere di natura religiosa;
+che, essendo stato fondato da un luterano di razza tedesca e origine americana,
+si collega naturalmente al nome di [[Oxford]].
+Alcune persone dicono che si chiama il Movimento del Gruppo di [[Oxford]].
+Altre persone sembrano essere inutilmente allarmate,
+per timore che venga identificato dagli storici con il Movimento di [[Oxford]].
+Vorrei suggerire, in uno spirito amichevole, che dovrebbe essere chiamato
+il Movimento della Strada di [[Oxford]]. La [[Oxford]] Street contiene effettivamente
+il nome della città universitaria, che sembra essere tutto ciò che è richiesto;
+e allo stesso [[Time|tempo]], è lontana da [[Oxford]].
+Penso che l'atmosfera lì sarebbe più congrua e confortevole; e in qualche modo sento che il signor Gordon Selfridge,
+essendo nei paraggi, sarebbe più veramente comprensivo
+e spiritualmente utile del Rettore di Balliol.
+
+Quando avevo fatto qualche battuta del genere ricevetti una lettera di protesta contro ciò che avevo scritto sul movimento del gruppo Buchman.
+La lettera era scritta in un tono afflitto e quasi patetico, esprimendo rammarico per il fatto che io dovessi svalutare qualsiasi cosa riportasse gli uomini alla realtà della religione; e avrei almeno dovuto assicurare all'autore di non essere insensibile a un tale appello.
+In questo come in molti altri casi, la religione è trattata in modo curioso, distinta dalla politica o dall'etica o dall'economia.
+Nessuno dice che poiché tutti i partiti politici possono presumibilmente contenere molti [[Well|ben]]-pensanti per il bene pubblico, quindi non dovremmo opporci al Comunismo né attaccare il Capitalismo, né esprimere la nostra fiducia o sfiducia nel Fascismo. Le strade che conducono a diverse soluzioni sociali sono riconosciute come divergenti.
+È solo per i sentieri verso l'inferno e il paradiso che basta dire che sono pavimentati di buone intenzioni.
+Lasciatemi dire subito che simpatizzo con tutti i peccatori che cercano una tale via d'uscita; anche con quell'aristocrazia spirituale piuttosto esclusiva e arrogante che scrive sopra le sue porte: "Solo per Peccatori".
+Simpatizzo con loro, non quanto simpatizzo con quei pescatori ignoranti che cantano inni in una vecchia cappella squallida in un villaggio di pescatori del Devonshire; non proprio tanto quanto simpatizzo con un gruppo di [[rolling|rotolanti]] Santi Rotolanti per terra nei dintorni di Dayton, Tennessee, per evitare la maledizione dell'Evolutionismo; e neanche la metà di quanto simpatizzo con i fakiri musulmani che ululano nel [[Desert|deserto]] scuotendo le loro splendide lance e morendo sulle baionette britanniche. Ma simpatizzo con tutte queste persone, poiché sono tutti alla ricerca di Dio.
+E sono sufficientemente ortodosso da sapere che, in qualche modo mistico al di là della nostra comprensione, è vero che cercare significa trovare.
+
+Ma se il mio corrispondente o chiunque altro desidera sapere perché io preferisco piuttosto i seguaci del Mullah Pazzo a quelli di Herr Buchman, lo troverà perfettamente riassunto in un'intervista e articolo apparsi sul News-Chronicle con titolo enorme: "Visione di una nuova [[Reformation|riforma]]: la [[Hope|speranza]] del Leader del Gruppo dalla [[Germany|Germania]]."
+Lo troverà squisitamente ed esattamente concentrato, come nella cristallizzazione di un gioiello, in queste parole; leggetele; rileggetele; ponderatele. Esse contengono l'intera sostanza dell'argomento.
+"Questi Gruppisti pensano su larga scala. I canadesi, per esempio, non solo hanno prenotato il Chateau Frontenac per una [[house|festa]] in casa di 3.000 persone a Quebec l'anno prossimo, ma hanno già noleggiato un transatlantico della C.P.R. per portare il loro contingente in Inghilterra per la prossima [[Oxford]] [[house|festa]] in casa."
+
+Questo, come noterete, è pensare su larga scala. Per menti rozze e rustiche, distributiste, non sembrerebbe che sia pensiero affatto.
+Ci sono stati un numero infinito di settari e fanatici puritani che hanno davvero pensato; alcuni hanno pensato e ripensato fino a impazzire. Ma direi che la [[Sanity|sanità]] e solidità del Movimento Gruppo erano al sicuro da qualsiasi pericolo del genere.
+Si tratta di capire se la religione può pensare troppo alla pompa e alla grandezza, oppure se deve vantarsi di avere pompa senza pensare affatto. C'è un caso reale da fare sia a favore che contro la fase più pagana del Papato, che ha riempito Roma di trofei che avrebbero potuto rappresentare i trionfi di Traiano o Augusto.
+Ma ci vuole qualche riflessione per costruire anche un tempio pagano o erigere un monumento imperialistico. La cupola che Michelangelo fece culminare San Pietro non è solo una grande cupola, ma è stata fatta da un uomo che pensava su larga scala.
+Anzi, avrebbe potuto essere meno grande se fosse stata più grande. Sollevarla un po' più in alto nell'aria restringe la curva; allargarla un po' appiattisce la curva.
+Questo è ciò che si intende per pensare e soprattutto per pensare su larga scala. Comunque sia, è un'operazione piuttosto diversa dal comprare il battello a vapore di qualcun altro o assicurarsi tutti i letti in albergo di qualcun altro.
+
+Infine, che cosa diremo alla luce (o al crepuscolo) di tutto questo,
+dell'enorme pretesa fatta con lettere così grandi da coprire un intero paragrafo di questo [[Essay|saggio]]; la "Visione di una nuova [[Reformation|Riforma]]: la [[Hope|Speranza]] del Capogruppo dalla [[Germany|Germania]]?" Possiamo dire
+innanzitutto che qui, come in ogni singola cosa che ho letto
+sul Movimento dei Gruppi, come in ogni pagina e paragrafo del libro
+chiamato For Sinners Only, c'è un'ambiguità straordinaria.
+Che cosa si intende per una nuova [[Reformation|Riforma]]?  Che cosa deve essere riformato?
+È forse possibile che sia la [[Reformation|Riforma]] stessa a dover essere riformata?
+E, per coloro che hanno il pedante gusto di guardare alla struttura
+delle parole che scrivono o dicono, in quale forma deve essere riformata?
+Può essere nella vecchia forma originale?  Certamente in tutto questo non c'è
+traccia né contorno di alcuna nuova forma.  O forse per una Nuova [[Reformation|Riforma]]
+si intende una ripetizione della [[Reformation|Riforma]]?  Vuol dire un'estensione
+della [[Reformation|Riforma]]?  Vuol dire che dobbiamo aspettarci qualcuno
+che sia più luterano di Lutero?  Suppongo che la vera dottrina
+del grande Riformatore potrebbe essere spinta oltre il punto in cui lui l'ha portata.
+È molto difficile immaginare una dottrina che possa rendere l'uomo
+più vile, descrivere la [[Nature|natura]] umana come più disperatamente impotente,
+annerire la ragione e la volontà dell'uomo con un [[Despair|disperazione]] più assolutamente senza fondo
+e senza speranza di quanto non abbia fatto la vera dottrina di Lutero.  Ma è possibile
+che ci siano profondità sotto le profondità e che sia possibile dannare la dignità di Adamo più completamente di quanto l'abbia dannata Lutero.
+È questo ciò che si intende per una Nuova [[Reformation|Riforma]]?  Questa è l'unica [[Reformation|riforma]]
+che avrebbe la minima somiglianza con la vecchia [[Reformation|Riforma]].
+Ma questa è proprio la difficoltà; e questo è il punto cruciale.
+Non posso accusare i Buchmaniti di ripetere il pessimismo luterano.
+Non posso accusarli di ribellarsi contro il pessimismo luterano.
+Il linguaggio che usano è così vago, sciatto e giornalistico,
+che potrebbe voler dire sia che la Nuova [[Reformation|Riforma]] dovrà restaurare
+o rovesciare Lutero.  Tutto ciò di cui sono sicuri è che verrà dalla [[Germany|Germania]], come Lutero-- o come Hitler.  C'è una certa intelligenza, che alcuni chiamerebbero impudenza,
+nel dire in questo momento che la Visione di una Nuova [[Reformation|Riforma]]
+è necessariamente una [[Hope|Speranza]] dalla [[Germany|Germania]].  È divertente leggerlo
+proprio nel momento in cui anche i filo-tedeschi hanno cominciato a pensare
+che la [[Germany|Germania]] sia senza speranza.  Comunque, il leader religioso in questione
+è benvenuto, per quanto mi riguarda, con qualsiasi Nuova [[Reformation|Riforma]] che metta
+la Swastika al di sopra della [[Cross|Croce]] e insegni agli uomini a essere prima dei tedeschi molto arroganti
+prima di permettere loro di essere cristiani molto scusanti.
+Tutto ciò può essere una [[Reformation|riforma]] nel senso di una nuova forma;
+ma mi sembra, dal punto di vista del pensiero religioso, l'essenza stessa della forma informe.
+
 
 
 <span class="atom-split" data-atom="story_20_the_new_luther--part_02" data-title="Well And Shallows — The New Luther (part 2)" data-chapter="The New Luther" data-kind="excerpt"></span>

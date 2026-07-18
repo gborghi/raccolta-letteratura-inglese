@@ -8164,6 +8164,176 @@ England. Of those aristocrats, the Old Guard of the eighteenth century,
 many denied God, many defended Bonaparte, and nearly all sneered at the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'aristocrazia brillante dei Whig: viveva sulla leggenda di Trafalgar;
+
+La sensazione che l'isolamento fosse indipendenza; la sensazione che le anomalie siano...
+
+# allegri come le barzellette di famiglia; la sensazione generale che i vecchi marinai siano il sale della terra
+
+della terra. Vive ancora in alcune vecchie [[songs|canzoni]] su Nelson o Waterloo,
+
+che sono molto più pomposi e molto più sinceri del cockney
+
+# La sicumera delle ultime canzoni jingoistiche. Ma è difficile collegarla a De Quincey
+
+Con esso; o, per la verità, con qualsiasi altra cosa. Anche De Quincey lo avrebbe sicuramente...
+
+Sarei stato un uomo più felice e quasi certamente migliore se fossi riuscito
+
+Ubriachi di toddy con Wilson, invece di diventare calmi e lucidi (come lui
+
+# Descrive se stesso sull'oppio e senza compagnia se non un libro di tedesco
+
+Metafisica. Ma difficilmente avrebbe rivelato quelle meravigliose vedute
+
+e prospettive della prosa che gli permettono di essere chiamato il primo e
+
+I più potenti tra i decadenti: quelle frasi che si allungano come...
+
+corridoi da [[nightmare|incubo]], o si innalzano sempre più in alto come impossibili orientali
+
+Pagode. Era un tipo morboso e molto meno morale di Burns; infatti, quando
+
+# Burns confessò l'eccesso ma non lo difese. Eppure ha gettato un'ombra gigantesca
+
+La [[Shadow|ombra]] sulla nostra letteratura era certamente un genio come Poe. Anche lui
+
+aveva l'[[Humour|umorismo]], che Poe non aveva. E se qualcuno ancora risentito per il
+
+Punture di spillo di Wilde o Whistler, vuole condannarli per plagio
+
+I loro epigrammi «arte per l'arte» - troverà la maggior parte di ciò che dissero
+
+meglio ne "L'omicidio come una delle belle arti".
+
+Un grande uomo rimane di questo gruppo più anziano, che ha fatto il loro ultimo lavoro solo
+
+Sotto Vittoria: conosceva la maggior parte dei membri, ma non ne faceva parte
+
+In senso collettivo. Era un uomo povero e malato, con
+
+[[Blood|sangue]] scozzese e una forte, sebbene forse solo ereditata, contesa con
+
+il vecchio calvinismo; di nome Thomas Hood. La [[Poverty|povertà]] e la malattia lo costrinsero
+
+# alle fatiche di un buffone instancabile e alla rivolta contro la malinconia
+
+La religione lo spinse a indirizzare il suo ingegno, ogni volta che poteva, nella direzione di...
+
+Una difesa di vedute più felici e umane. Nell'ampia gamma che
+
+# Includeva Omero e Shakespeare: fu l'ultimo grande uomo che davvero...
+
+# utilizzò il gioco di parole. I suoi giochi di parole non erano tutti buoni (né lo erano quelli di Shakespeare)
+
+Ma i migliori erano una forma d'arte forte e fresca. Il gioco di parole è
+
+Si dice che abbia due significati, ma con Hood ce ne sono tre
+
+significati, poiché c'era anche la [[Truth|verità]] astratta che sarebbe stata
+
+Là senza alcun gioco di parole. Il gioco di parole di Hood è sottovalutato, come l'ingegno
+
+Di Voltaire, da chi dimentica che le parole di Voltaire non erano
+
+# spilli, ma spade. Nella migliore vena di Hood la precisione verbale non fa che conferire
+
+la [[Satire|satira]] o il disprezzo un alone di definitività come quello conferito dalla rima.
+
+La rima va d'accordo con la ragione, poiché lo scopo di entrambe è riunire le cose
+
+Alla fine: la tragica necessità di giochi di parole ha reso rigido e duro Hood
+
+genio; così che c'è sempre una specie di [[Shadow|ombra]] di quella acutezza
+
+attraverso tutti i suoi seri [[Poems|poemi]], cadendo come l'[[Shadow|ombra]] di una [[Sword|spada]].
+
+"Cucire contemporaneamente con un filo [[Double|doppio]] una veste funebre e una camicia" — "Noi
+
+Pensava che stesse morendo quando dormiva e dormisse quando morì» - «Oh Dio,
+
+che il pane sia così caro e la carne e il [[Blood|sangue]] così a buon mercato» - nessuno può
+
+Non notare in questi una certa disciplina combattiva di frase, un
+
+la compattezza e la precisione che erano state ben addestrate in versi come “A
+
+"La palla di cannone gli ha mozzato le gambe, così ha deposto le armi". In Francia lui
+
+Sarebbe stato un grande epigrammista come Hugo; in Inghilterra è un...
+
+giocatore di parole.
+
+In questo gruppo che ho chiamato liberamente non c'era nulla
+
+Gli eccentrici che disturbano l'idea generale della loro generazione
+
+Parte del tramonto dei grandi poeti rivoluzionari. Questo fascino che svanisce
+
+# influenzò l'Inghilterra in modo sentimentale e, fino a un certo punto, snobistico
+
+Direzione: far sentire gli uomini che i grandi signori con lunghi riccioli e baffi...
+
+# Erano naturalmente gli spiritosi che guidavano il mondo, ma influenzò anche l'Inghilterra
+
+Negativamente e per reazione; perché associava uomini come Byron con...
+
+superiorità, ma non con [[success|successo]]. Le classi medie inglesi furono condotte
+
+Diffidare della poesia quasi quanto la ammiravano. Non potevano
+
+Credere che sia la visione da un lato o la violenza dall'altro possano
+
+Siate sempre pratici. Erano sordi al grande avvertimento di Hugo: "Voi
+
+# Dicono che il poeta sia tra le nuvole, ma anche il fulmine lo è. Ideali
+
+# si sono esauriti nel vuoto; l'Inghilterra vittoriana, molto imprudentemente,
+
+Non avrebbe più nulla a che fare con gli idealisti in politica. E questo, principalmente,
+
+Perché intorno a questi grandi poeti c'era un giovane e splendido...
+
+Sterilità: poiché lo sciacallo panteista fu infine travolto
+
+onda del mondo, o Byron affondò nella [[Death|morte]] mentre sguainava la [[Sword|spada]] per
+
+Ellade.
+
+La svolta principale dell'Inghilterra del diciannovesimo secolo avvenne circa all'[[Time|epoca]]
+
+quando un valletto alla [[house|Holland House]] aprì una porta e annunciò «Mr.
+
+# Macaulay: la sua popolarità letteraria era rappresentativa e lo era
+
+# meritato; ma la sua presenza tra le grandi famiglie whig segna un...
+
+# Epoca. Era figlio di uno dei primi "amici del negro", il cui
+
+L'industria onesta e la filantropia furono offuscate da una religione tetra
+
+La sicurezza che quasi fa pensare che amassero il negro per...
+
+Colore, e avrebbe distolto lo sguardo da uomini rossi o gialli come inutili
+
+# Gaudioso. Ma il suo spirito e la sua politica (uniti a quel modo di lasciar cadere le cose)
+
+Principi puritani ma conservazione del tono puritano che caratterizzava la sua classe
+
+e generazione), lo elevò in una sfera completamente opposta a
+
+Quello da cui proveniva. Questo mondo whig era esclusivo, ma non lo era
+
+stretto. Era molto difficile per un [[Outsider|esterno]] entrarci, ma se ci riusciva
+
+# Entrò in un'atmosfera molto più libera di qualsiasi altra
+
+L'Inghilterra degli aristocratici, la Vecchia Guardia del XVIII secolo
+
+Molti negarono Dio, molti difesero Napoleone e quasi tutti derisero il...
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="Victorian Age — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
@@ -10763,6 +10933,178 @@ seems to have contemplated a melting away of the doctrines of the Church
 
 and even of the meaning of the words: but he thought a certain need in
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esteti, al di là dei meriti puramente poetici di uomini come Rossetti e
+
+Swinburne: come lui e altri, inizialmente cercò di utilizzare il medievale
+
+La tradizione senza fidarsi di essa. Queste persone volevano vedere il paganesimo
+
+attraverso il [[Christianity|cristianesimo]]: perché comportava l'intrattenimento occasionale di
+
+vedendo attraverso la stessa [[Christianity|cristianità]]. Non solo cercarono di essere in tutti
+
+età contemporaneamente (che è un'[[Ambition|aspirazione]] molto ragionevole, sebbene non frequente
+
+# si resero conto), ma volevano essere ovunque contemporaneamente: il che è
+
+assurdità. Swinburne cerca di mettere in discussione la [[philosophy|filosofia]] del [[Christianity|Cristianesimo]] in
+
+i metri di un canto natalizio: e [[Dante|Rossetti]] cerca di scrivere come se fosse [[carol|un canto natalizio]].
+
+# Se fosse stata Christina Rossetti. Senza dubbio il quasi riuscito apice di
+
+# Questo tentativo è il superbo passaggio di Pater sulla Gioconda; in cui egli
+
+cerca di renderla al contempo un mistero del bene e un mistero del male.
+
+La [[philosophy|filosofia]] è falsa; anzi, evidentemente falsa, perché oggi non porta alcun frutto.
+
+Non è mai esistita una donna, nemmeno Eva stessa nell'istante della [[Temptation|tentazione]],
+
+chi potrebbe sorridere lo stesso sorriso della madre di [[Helen|Elena]] e della madre di
+
+Maria. Ma è il punto più alto di quell'enorme tentativo di un
+
+l'imparzialità raggiunta attraverso l'arte: e nessun altro semplice [[artist|artista]] è mai [[Rose|salito]] così in alto.
+
+alto di nuovo.
+
+A parte questo ramo ruskiniano attraverso il pre-raffaellismo in ciò che
+
+Si chiamava Estetismo, i resti dell'ispirazione di Carlyle riempiono un...
+
+# una parte molto grande nella vita vittoriana, ma non così grande rigorosamente
+
+Nella letteratura vittoriana: Charles Kingsley, un grande pubblicista
+
+Predicatore popolare; un romanziere popolare; e (almeno in due casi) un uomo molto
+
+# Buon romanziere. I suoi "Bambini d'acqua" sono davvero una fresca e fragorosa stravaganza;
+
+come una vacanza al mare - una vacanza in cui si parla di [[history|storia]] naturale
+
+senza prendere sul serio. Alcune delle [[songs|canzoni]] in questo e altri suoi
+
+le opere sono canzoni molto vere: in particolare, “Quando il mondo è giovane, ragazzo,”
+
+che si avvicina molto a essere l'unica vera difesa del [[Marriage|matrimonio]] nel
+
+# Controversie del XIX secolo. Ma anche ammettendo tutto ciò,
+
+Nessuno classificherà seriamente Kingsley, nel vero senso letterario, tra i
+
+Il livello di Carlyle o Ruskin, Tennyson o Browning, Dickens o...
+
+Thackeray: e se un posto del genere non può essere dato a lui, può essere dato
+
+ancora meno al suo amico vivace e piacevole, Tom Hughes, il cui
+
+La personalità fluttua verso la sincerità del "Boy's Own Paper"; oppure
+
+Il suo profondo e suggestivo amico metafisico Maurice, che galleggia piuttosto
+
+Verso "The Hibbert Journal". L'influenza morale e sociale di queste...
+
+# Cose da non dimenticare: ma escono dal dominio delle lettere.
+
+La voce di Carlyle non si sente più nelle lettere fino all'arrivo di...
+
+Kipling e Henley.
+
+Un altro nome di grande importanza dovrebbe apparire qui, perché non può
+
+# Apparire molto appropriatamente altrove: l'uomo non apparteneva quasi alla
+
+Stessa scuola di Ruskin e Carlyle, ma combatté molte delle loro battaglie
+
+Era ancora più concentrato sul loro compito principale: quello di condannare
+
+L'Inghilterra liberale borghese di presunzione e provincialismo. Intendo dire,
+
+Naturalmente, Matthew Arnold. Contro la "libertà" di Mill e Carlyle
+
+con "forza" e la "[[Nature|natura]]" di Ruskin, ha creato una nuova presenza ed entità
+
+Quello che chiamava "cultura", il gioco disinteressato della mente attraverso
+
+La selezione dei migliori libri e autori, anche se un po' eleganti.
+
+Nelle sue parole era senza dubbio serio e animato da spirito pubblico nelle intenzioni.
+
+A volte parlava di cultura quasi come se fosse un uomo, o almeno una...
+
+La Chiesa (perché una chiesa ha una specie di personalità): alcuni potrebbero sospettare che...
+
+La cultura era un uomo di nome Matthew Arnold. Ma Arnold non era...
+
+Non solo giusto ma estremamente prezioso. Se abbiamo detto che Carlyle era un uomo
+
+Quello che vedeva le cose; possiamo aggiungere che Arnold era soprattutto prezioso come uomo
+
+chi sapeva le cose. [[Well|Beh]], dato che era dotato intellettualmente, il suo potere proveniva
+
+Più per informazione che per intelligenza. Semplicemente gli è capitato di conoscere certe cose.
+
+Cose che Carlyle non sapeva, che Kingsley non sapeva, che Huxley
+
+E Herbert Spencer non lo sapeva: che l'Inghilterra non lo sapesse. Lui lo sapeva.
+
+L'Inghilterra era parte dell'Europa, ma non così importante come un tempo
+
+La mattina dopo Waterloo. Sapeva che l'Inghilterra era allora (come lo è ora)
+
+Uno Stato oligarchico e che molte grandi nazioni non lo sono. Egli sapeva
+
+che una vera [[Democracy|democrazia]] non ha bisogno di vivere e non vive in quel perpetuo
+
+Panicca per l'uso dei poteri dello Stato da parte di persone come
+
+# Spencer e Cobden: conosceva un minimo razionale di cultura e senso comune
+
+La cortesia poteva e poteva esistere in grandi democrazie. Egli sapeva
+
+la [[Catholic Church|Chiesa Cattolica]] era stata nella [[history|storia]] «la Chiesa della moltitudine»:
+
+Sapeva che non era una setta. Sapeva che i grandi proprietari terrieri non sono più di...
+
+Parte della legge economica più dei capisquadra: sapeva che i piccoli proprietari...
+
+# Poteva e prosperava. Non era tanto il filosofo quanto l'uomo di...
+
+Il mondo: ci ha ricordato che l'Europa era una società mentre Ruskin era
+
+trattandola come una galleria d'arte. Era una specie di corriere mandato dal Cielo.
+
+Il suo attacco frontale all'ottimismo volgare e cupo vittoriano
+
+L'utilità può essere riassunta nella splendida frase con cui chiedeva
+
+# L'inglese: qual era l'utilità di un treno che li portava velocemente da...
+
+Da Islington a Camberwell, se li avesse portati solo "da un luogo triste e
+
+Vita non liberale a Islington e una vita tetra e non liberale a
+
+«Camberwell?»
+
+Il suo atteggiamento verso quel grande enigma religioso intorno al quale ruotano tutte queste grandi...
+
+Gli uomini erano raggruppati come in un anello, era individuale e decisamente curioso. Lui
+
+sembra aver creduto in una «Chiesa storica», cioè qualcosa
+
+Organizzazione consolidata con cerimonie e libri sacri, ecc., potrebbe
+
+# conservato per sempre come un contenitore spirituale
+
+Le idee dell'epoca, qualunque esse siano. Egli chiaramente
+
+sembra aver contemplato una dissoluzione delle dottrine della Chiesa
+
+e anche del significato delle parole: ma pensava che ci fosse un certo bisogno in
 
 
 

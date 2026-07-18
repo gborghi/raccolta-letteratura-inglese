@@ -6623,6 +6623,52 @@ deduced from Darwinism than in the one verbal picture of "having
 your monkey up."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma il [[cheese|formaggio]] ha un'altra qualità, che è anche la vera [[Soul|anima]] della [[Song|canzone]]. Una volta, nel tentativo di tenere conferenze in diversi luoghi contemporaneamente, feci un [[Journey|viaggio]] eccentrico attraverso l'Inghilterra, un [[Journey|viaggio]] così irregolare e persino illogico che mi costrinse a pranzare per quattro giorni consecutivi in quattro locande sulla strada in quattro contee diverse. In ogni locanda non avevano altro che pane e [[cheese|formaggio]]; né riesco a immaginare perché un uomo dovrebbe volere più di pane e [[cheese|formaggio]], se può averne abbastanza. In ogni locanda il [[cheese|formaggio]] era buono; ed in ogni locanda era diverso. C'era un nobile [[cheese|formaggio]] di Wensleydale nello Yorkshire, un [[cheese|formaggio]] del Cheshire nel Cheshire, e così via.
+Ora, è proprio qui che la vera civiltà poetica si distingue da quella meschina e meccanica civiltà che ci tiene tutti in schiavitù. Le cattive usanze sono universali e rigide, come il moderno militarismo. Le buone usanze sono universali e variegate, come la cavalleria nativa e l'[[Self|auto]]-difesa. Sia la civiltà buona che quella cattiva ci coprono come un baldacchino, e ci proteggono da tutto ciò che è al di fuori.
+Ma una buona civiltà si estende su di noi liberamente come un albero, variando e cedendo perché è viva. Una cattiva civiltà si erge e sporge sopra di noi come un ombrello: artificiale, matematica nella forma; non solo universale, ma uniforme.
+Così è per il contrasto tra le sostanze che variano e quelle che sono uguali ovunque penetrino. Per una saggia sentenza del cielo agli uomini fu comandato di mangiare [[cheese|formaggio]], ma non lo stesso [[cheese|formaggio]]. Essendo veramente universale, varia da valle in valle.
+Ma se, per esempio, confrontiamo il [[cheese|formaggio]] con il sapone (quella sostanza tanto inferiore), vedremo che il sapone tende sempre più ad essere semplicemente il Sapone di [[smith|Smith]] o il Sapone di Brown, inviato automaticamente in tutto il mondo. Se gli Indiani d'America hanno del sapone è il Sapone di [[smith|Smith]]. Se il Gran Lama ha del sapone è il Sapone di Brown. Non c'è nulla di sottilmente e stranamente buddista, nulla di teneramente tibetano nel suo sapone.
+Immagino che il Gran Lama non mangi [[cheese|formaggio]] (non ne è degno), ma se lo fa probabilmente è un [[cheese|formaggio]] locale, che ha una vera relazione con la sua vita e prospettiva. I fiammiferi di sicurezza, i cibi in scatola, le medicine brevettate vengono inviate in tutto il mondo; ma non sono prodotte in tutto il mondo. Pertanto in esse c'è una mera [[Identity|identità]] morta, mai quel morbido gioco di lieve variazione che esiste nelle cose
+prodotte ovunque dal suolo, nel latte delle mucche,
+o nei frutti del frutteto. Puoi ottenere un whisky e soda in ogni avamposto dell'Impero: ecco perché tanti costruttori di imperi impazziscono. Ma non stai assaggiando o toccando alcun ambiente, come nella sidra del Devonshire o negli acini del Reno.
+Non ti stai avvicinando alla [[Nature|Natura]] in uno dei suoi miriadi di sfumature d'umore,
+come nell'atto sacro di mangiare [[cheese|formaggio]].
+
+Quando ebbi compiuto il mio pellegrinaggio nei quattro pub lungo la strada raggiunsi una delle grandi città del nord, e lì mi recai, con grande rapidità e completa incoerenza, a un ristorante grande ed elaborato, dove sapevo di poter trovare molte altre cose oltre al pane e [[cheese|formaggio]]. Potevo avere anche quello, comunque; o almeno me lo aspettavo; ma fui bruscamente ricordato che ero entrato a Babilonia e avevo lasciato l'Inghilterra alle spalle. Il cameriere mi portò [[cheese|formaggio]], infatti, ma [[cheese|formaggio]] tagliato in pezzi piccolissimi; ed è il terribile fatto che, invece di pane cristiano, mi portò biscotti. Biscotti -- a uno che aveva mangiato il [[cheese|formaggio]] di quattro grandi campagne! Biscotti -- a uno che aveva riprovato per sé la santità dell'antico matrimonio tra [[cheese|formaggio]] e pane!
+Mi rivolsi al cameriere in termini calorosi e commoventi. Gli chiesi chi fosse lui da separare coloro che l'Umanità aveva unito. Gli chiesi se non sentisse, come [[artist|artista]], che una sostanza solida ma cedevole come il [[cheese|formaggio]] andasse naturalmente con una sostanza solida e cedevole come il pane; mangiarlo su dei biscotti è come mangiarlo su delle lavagne. Gli chiesi se, quando diceva le sue preghiere, fosse così superbo da pregare per i suoi biscotti quotidiani. Mi fece in generale capire che stava solo obbedendo a un costume della Società Moderna.
+Ho quindi deciso di alzare la mia voce, non contro il cameriere, ma contro la Società Moderna, per questo enorme e senza precedenti torto moderno.
+
+-/-
+
+La città rossa
+
+QUANDO un uomo dice che la [[democracy|democrazia]] è falsa perché la maggior parte delle persone sono stupide,
+ci sono diversi approcci che il filosofo può seguire.
+Il più ovvio è colpirlo con forza e precisione sulla punta esatta del naso. Ma se hai dei dubbi (moralmente o fisicamente)
+su questo approccio, puoi procedere a impiegare la Ragione, che in questo caso ha tutta la selvaggia solidità di un pugno.
+È stupido dire che "la maggior parte delle persone" sono stupide. È come
+dire "la maggior parte delle persone è alta", quando è ovvio che "alto"
+può solo significare più alto della maggior parte delle persone. È assurdo denunciare
+la maggioranza dell'umanità come al di sotto della media dell'umanità.
+
+Se l'uomo dovesse essere colpito sul naso e stordito con la [[logic|logica]], e se rimanesse ancora freddo, si apre una terza via: condurlo per mano (lui stesso a metà disposto) verso un prato soleggiato eppure segreto e chiedergli chi abbia dato i nomi ai comuni [[Flowers|fiori]] selvatici. Erano persone ordinarie, per quanto ne sappia qualcuno, che diedero a un fiore il nome di Stella di Betlemme e ad un altro fiore molto più comune l'immensa denominazione dell'Occhio del Giorno. Se vi attaccate alla nozione snobistica che la gente comune sia prosaica, chiedete a qualsiasi persona comune i nomi locali dei [[Flowers|fiori]], nomi che variano non solo da contea a contea, ma anche da valle a valle.
+
+* * * * *
+
+Ma, curiosamente, il caso è molto più forte di così.
+Si dirà che questa poesia è peculiare della popolazione rurale,
+e che le opache democrazie delle nostre città moderne l'hanno almeno persa.
+Per qualche straordinaria ragione non l'hanno persa.  Il gergo ordinario di [[London|Londra]]
+è pieno di battute argute dette da nessuno in particolare.
+È vero, la credenza delle nostre crudeli città non è così sana e giusta come la credenza
+della vecchia campagna; ma le persone sono altrettanto intelligenti nel dare
+nomi ai loro peccati nella [[City|città]] come nel dare nomi alle loro gioie
+nella solitudine.  Non si potrebbe riassumere meglio la [[Christianity|Cristianità]] che chiamando un piccolo fiore bianco insignificante "La Stella di Betlemme."
+Ma poi, ancora una volta, non si potrebbe riassumere meglio la [[philosophy|filosofia]]
+dedotta dal darwinismo che nell'unica immagine verbale del "tenersi il proprio scimpanzé."
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_11" data-title="alarms and discursions — Chapter 3 (part 11)" data-chapter="Chapter 03" data-kind="excerpt"></span>
@@ -7783,6 +7829,82 @@ But on a grey day the larkspur looks like fallen heaven; the red
 daisies are really the red lost eyes of day; and the sunflower
 is the vice-regent of the sun.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+SUPPONGO che, considerando nel suo complesso questa [[Summer|estate]], la gente non la definirà un momento adatto a lodare il clima inglese.
+Ma per quanto mi riguarda continuerò a lodare il clima inglese fino alla morte --
+anche se morrò per colpa del clima inglese. Non esiste tempo migliore dell'[[Time|tempo]] inglese. Anzi, in un senso reale non c'è tempo da nessuna parte tranne che in Inghilterra. In Francia avete molto sole e qualche pioggia; in [[Italy|Italia]] venti caldi e freddi; in Scozia e Irlanda piove, più o meno intensamente;
+in [[america|America]] avete inferni di caldo e freddo, e nei Tropici colpi di sole alternati a fulmini. Ma tutto questo lo avete su scala ampia
+e brutale, e vi rassegnate al contentamento o alla [[Despair|disperazione]]. Solo nel nostro paese romantico si ha la cosa rigorosamente romantica chiamata Tempo; bello e mutevole come una donna.
+I grandi pittori del paesaggio inglese (trascurati oggi come tutto ciò che è inglese) hanno questa saliente distinzione: il [[Hero|tempo]] non è l'atmosfera dei loro quadri; è il soggetto dei loro quadri.
+Dipingono ritratti del Tempo. Il Tempo ha posato per Constable.
+Il Tempo ha posato per Turner, e che posa era!
+Questo non si può dire veramente dei più grandi modelli o rivali continentali di questi artisti. Poussin e Claude dipingevano oggetti,
+città antiche o pastori arcadici perfetti attraverso un mezzo chiaro del clima. Ma nei pittori inglesi il Tempo è l'[[Hero|eroe]]; in Turner un eroe da Adelphi, che schernisce, lampeggia e combatte,
+melodrammatico ma veramente magnifico. Il clima inglese,
+un protagonista alto e terribile, avvolto nella pioggia e nel tuono e nella [[Snow|neve]]
+e nella luce del sole, riempie tutta la tela e tutto il primo piano.
+Ammetto la superiorità di molte altre cose francesi oltre all'arte francese.
+Ma non cederò di un pollice sulla superiorità del tempo inglese e
+della pittura del tempo. Perché i francesi non hanno nemmeno una parola per il Tempo:
+e devi chiedere del tempo in francese come se stessi chiedendo l'[[Time|ora]] in inglese.
+
+Allora, ancora una volta, la varietà del clima dovrebbe sempre andare di pari passo con la stabilità dell'abitazione.
+Il tempo nel [[Desert|deserto]] è monotono; e come naturale conseguenza,
+gli Arabi vagano sperando che da qualche parte sia diverso.
+Ma la [[house|casa]] degli inglesi non è solo il loro [[Castle|castello]]; è il loro [[Castle|castello]] di fate.
+Nuvole e colori di ogni variato [[Dawn|alba]] e tramonto lo toccano e lo trasformano in continuazione
+dall'argilla all'oro, o dall'oro allavorio.
+C'è una linea di bosco oltre un angolo del mio [[Garden|giardino]]
+che è letteralmente diversa in ciascuno dei trecentosessantacinque giorni.
+A volte sembra vicina come una siepe,
+e a volte lontana come una nuvola serale fioca e infuocata.
+Lo stesso principio (tra parentesi) si applica al difficile problema
+delle mogli. La variabilità è una delle virtù di una donna.
+Evita la cruda esigenza della poligamia. Finché avete
+una buona moglie, siete sicuri di avere un harem spirituale.
+
+Ora, tra le eresie che si dicono in proposito c'è l'abitudine di chiamare un giorno grigio un giorno "privo di colore". Il grigio è un colore e può essere un colore molto potente e piacevole. C'è anche uno stile offensivo nel parlare di "un giorno grigio uguale a tutti gli altri." Si potrebbe [[Well|altrettanto]] bene parlare di un albero verde uguale a tutti gli altri.
+Un cielo nuvoloso grigio è davvero una copertura tra noi e il sole; lo stesso vale per un albero verde, se si vuole. Ma gli ombrelli grigi differiscono tanto quanto quelli verdi nel loro stile e forma, nella loro tonalità e inclinazione.
+Un giorno può essere grigio come l'acciaio, e un altro grigio come il piumaggio della colomba. Uno può sembrare grigio come la mortale [[Frost|gelata]], e un altro grigio
+come il fumo di cucine solide. Niente potrebbe sembrare più lontano del [[Doubt|dubbio]] del grigio e della decisione del rosso.
+Eppure, il grigio e il rosso possono mescolarsi, come fanno nelle nuvole mattutine:
+e anche in una sorta di pietra calda e affumicata con cui costruiscono i piccoli
+paesi nel west country. In quei paesi persino le case che sono interamente grigie hanno un bagliore; come se i loro focolari segreti fossero tali fornaci di ospitalità da trasfondere debolmente le pareti, come mura di nuvole.
+E vagando in quelle parti occidentali trovai davvero una segnaletica
+che indicava un ripido sentiero tortuoso verso un paese chiamato Clouds.
+Non salii fino a lì; temevo che o il paese non fosse all'altezza del nome, o io non fossi all'altezza del paese.
+Comunque sia, i piccoli villaggi di pietra grigia calda hanno una cordialità
+che non viene raggiunta da tutto l'artistico rosso dei sobborghi;
+come se fosse meglio scaldarsi le mani tra le ceneri di Glastonbury che tra le fiamme dipinte di Croydon.
+
+Ancora una volta, i nemici del grigio (quegli uomini astuti, audaci e malintenzionati)
+amano avanzare l'argomento che i colori soffrono con il tempo grigio,
+e che è necessaria una forte luce solare per tutte le tonalità
+del cielo e della terra. Anche qui ci sono due parole da dire;
+ed è essenziale distinguere. È vero che il sole è necessario
+per lucidare e far sbocciare i colori terziari e dubbiosi;
+il colore del torba, della zuppa di piselli, degli schizzi impressionisti,
+dei cappotti di velluto marrone, delle olive, delle [[Garden|lame]] grigie e blu,
+del colorito dei vegetariani, delle tonalità delle rocce vulcaniche,
+del cioccolato, del cacao, del fango, della fuliggine, dello slime, delle vecchie scarpe;
+le delicate sfumature di questi hanno bisogno della luce solare per far emergere
+il tenue [[Beauty|bellezza]] che spesso aderisce a loro. Ma se avete un
+sano gusto negro in fatto di colore, se riempite il vostro [[Garden|giardino]] di papaveri
+e gerani, se dipingete la vostra [[house|casa]] di blu cielo e scarlatto,
+se indossate, diciamo, un cappello a cilindro dorato e un frac cremisi,
+non solo sarete visibili anche nel giorno più grigio, ma noterete
+che il vostro costume e l'ambiente producono un certo effetto singolare.
+Scoprirete, voglio dire, che i colori ricchi appaiono in realtà più
+luminosi in una giornata grigia, perché si vedono su uno sfondo scuro
+e sembrano ardere di un lustro proprio. Su uno sfondo scuro tutti i [[Flowers|fiori]] assomigliano a fuochi d'artificio.
+C'è qualcosa di strano in loro, allo stesso tempo vivido e segreto,
+come [[Flowers|fiori]] tracciati nel [[Fire|fuoco]] nell'[[Garden|orto]] fantasmale di una [[Witch|strega]].
+Un cielo blu brillante è necessariamente il punto luce dell'immagine;
+e la sua luminosità uccide tutti i [[Flowers|fiori]] blu brillanti.
+Ma in una giornata grigia, il delphinium sembra un pezzo di cielo caduto; le margherite rosse sono davvero gli occhi rossi persi del giorno;
+e il girasole è il viceré del sole.
 
 
 
@@ -8987,6 +9109,76 @@ was avenging himself by imitating man.  If so, he showed that high
 order of intellect which is attributed to angels in the mediaeval books,
 though not always (perhaps) in the mediaeval pictures.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * * * *
+
+Fu per questo che la vecchia e il suo [[donkey|asino]]
+ci colpirono prima di tutto quando li vedemmo da dietro come un'unica nera [[Grotesque|grottesca]].
+In seguito ho avuto l'occasione di vedere la vecchia, il carretto
+e l'[[donkey|asino]] bene in controluce e nella loro intera lunghezza.
+Ho visto la vecchia e l'[[donkey|asino]] _passant_, come potrebbero essere apparsi araldicamente sullo scudo di una famiglia eroica.
+Ho visto la vecchia e l'[[donkey|asino]] dignitosi, decorativi e piatti,
+come se avessero marciato attraverso i marmi di Elgin. Visti così
+sotto una luce uguale, non c'era nulla di particolarmente brutto in loro;
+il carretto era lungo e sufficientemente comodo; l'[[donkey|asino]]
+era stolido e sufficientemente rispettabile; la vecchia era magra ma
+sufficientemente forte, e persino sorridente in modo aspro e rustico.
+Ma visti da dietro sembravano un'unica nera mostruosa bestia;
+le orecchie dell'[[donkey|asino]] scuro sembravano ali terribili, e la alta
+schiena scura della donna, eretta come un albero, sembrava crescere più
+e più alta fino a quando si sarebbe quasi potuto urlare.
+
+Poi passammo accanto a lei con un fragore assordante come quello di un treno, e fuggimmo lontano da lei oltre la sommità della [[Hill|collina]] fino alla [[Home|casa]] del mio amico.
+
+Ci fermammo solo il tempo necessario affinché il mio amico riempisse l'auto con un certo tipo di attrezzatura per picnic, e così ripartimmo, come accadde, per la stessa strada da cui eravamo venuti. Così avvenne che scendemmo di nuovo a tutta velocità su quella breve, ripida [[Hill|collina]] prima che la povera vecchia e il suo [[donkey|asino]] fossero riusciti ad arrampicarsi fino in cima; e vedendoli sotto una luce diversa, li vidi molto diversamente. Neri contro il sole, sembravano comici; ma luminosi contro il verde del bosco e le nuvole grigie, non erano comici ma tragici; perché ci sono molte cose che sembrano fantastiche al crepuscolo, mentre alla luce del sole sono tristi. Vidi che aveva un grande volto magro, una maschera di antico [[Honour|onore]] e [[Endurance|resistenza]], con occhi spalancati affilati a due punti luminosi, come se cercassero quella piccola [[Hope|speranza]] all'orizzonte della vita umana. Vidi anche che il suo carretto conteneva delle carote.
+
+«Non ti senti, parlando in generale, una bestia», chiesi al mio amico,
+«quando vai così facilmente e così velocemente?» Perché eravamo passati a tutta birra tanto che la folle carrozza doveva aver vibrato in ogni suo pezzo.
+
+Il mio amico era un uomo buono e disse: «Sì. Ma non credo che le farebbe bene se rallentassi».
+
+“No”, acconsentii dopo aver riflettuto, “forse l’unica gioia che possiamo darle o a chiunque altro è sparire dalla loro vista il più presto possibile”.
+
+Il mio amico si avvalse di questo consiglio con generosità;
+sentivo che fuggivamo per salvare la vita, soffocati da una [[Fear|paura]] terribile,
+dopo aver commesso qualche atroce crimine.  In [[Truth|realtà]], non resta
+che una sola differenza tra il segreto delle due classi sociali:
+i poveri si nascondono nell'oscurità e i ricchi si nascondono nella distanza.
+Entrambi si nascondono.
+
+* * * * *
+
+Mentre precipitavamo come una barca perduta oltre una cateratta in un vortice di strade bianche lontane sotto di noi, scorsi in lontananza un puntino nero che si muoveva come un insetto. Guardai ancora: a malapena potevo crederci. Era la vecchia signora con il suo lento e vecchio [[donkey|asino]], che continuava ad affaticarsi lungo la [[Road|strada]] principale. Chiesi al mio amico di rallentare, ma quando disse della macchina: "Lei vuole andare", capii che per lui era finita. Perché quando hai chiamato una cosa femmina le hai ceduto completamente.
+Superammo la vecchia con uno scossone che doveva aver fatto tremare la terra: se la sua testa non girava e il suo cuore non vacillava, non so di cosa fossero fatti. E quando ci eravamo allontanati pericolosamente nel buio che si addensava, respingendo i villaggi alle nostre spalle, improvvisamente gridai: "Ma che asini siamo! È Lei quella coraggiosa - lei e l'[[donkey|asino]]. Noi siamo al sicuro; siamo artiglieria e corazza di piatto: e lei ci affronta con legnetti da fiammiferi e una lumaca! Se fossi invecchiato in una valle tranquilla, e la gente avesse cominciato a sparare proiettili grandi come taxi contro di te nel tuo settantesimo anno, non saltaresti? E lei non ha mai mosso un ciglio. Oh! Andiamo molto veloci e lontano, senza [[Doubt|dubbio]] -"
+
+Mentre parlavo si udì un rumore strano e il mio amico, invece di proseguire veloce,
+cominciò a rallentare molto; poi si fermò; poi scese.
+Poi disse: «E ho lasciato la Stepney indietro».
+
+Le falene grigie uscirono dal bosco e le [[Stars|stelle]] gialle vennero fuori per [[Crown|incoronarla]], mentre il mio amico, con la lucidità della [[Despair|disperazione]], mi spiegava (su solide basi scientifiche, naturalmente) che nulla sarebbe stato di alcun bene.  Dovevamo [[Sleep|dormire]] la [[Night|notte]] nella strada, salvo nel caso molto improbabile che qualcuno passasse per portare un messaggio a qualche città.  Due volte pensai di sentire qualche piccolo rumore di tale avvicinamento, e svanì come il [[Wind|vento]] tra gli alberi, e l'autista era già addormentato quando lo udii rinnovarsi e mi resi conto che qualcosa si stava certamente avvicinando.  Corsi su per la [[Road|strada]]--e là c'era.  Sì, Era--e Lei.
+Era venuta tre volte, una volta comica, una tragica e una eroica.
+E quando tornò era come se fosse in perdono per un puro compito di prosaica
+pietà e sollievo.  Lo dico sul serio.  Non voglio che ridiate.
+Non è la prima [[Time|volta]] che un [[donkey|asino]] sia stato accolto seriamente,
+né uno che cavalca un [[donkey|asino]] con rispetto.
+
+-/-
+
+La [[Wheel|Ruota]]
+
+In una chiesa tranquilla e rustica ma abbastanza famosa nel mio quartiere c'è una [[Window|vitraia]] che si suppone rappresenti un Angelo su una Bicicletta.
+Rappresenta senza dubbio e in modo indiscutibile un giovane nudo seduto
+su una [[Wheel|ruota]]; ma la [[Wheel|ruota]] è abbastanza complicata e il giovane (suppongo) abbastanza santo da giustificare questa descrizione.
+È un'opera dal disegno florido rinascimentale, e appartiene al periodo fortemente pagano che introdusse ogni sorta di oggetti nell'ornamentazione:
+personalmente posso credere più alla bicicletta che all'angelo.
+Si dice che gli uomini imitino ora gli angeli; nelle loro macchine volanti,
+cioè: non in nessun altro aspetto, per quanto ne so. Forse dunque
+l'angelo sulla bicicletta (se è un angelo e se è una bicicletta)
+si stava vendicando imitando l'uomo. Se così fosse, ha dimostrato quel alto
+ordine di intelligenza che viene attribuito agli angeli nei libri medievali,
+ma non sempre (forse) nelle immagini medievali.
 
 
 

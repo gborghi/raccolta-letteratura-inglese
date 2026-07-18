@@ -7828,6 +7828,82 @@ What could they do against a race of gods and a republic of kings;
 not verbally but veritably the New World?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'UUMANESIMO È UNA RELIGIONE?
+
+Ho appena finito di leggere il libro del signor Norman Foerster su "American Criticism"; e [[Hope|spero]] che non sia mancanza di rispetto verso la maggior parte del libro, una serie di studi molto riflessivi sui pensatori americani, se dico che l'intera questione è nell'ultimo capitolo; il quale propone un certo problema o sfida al pensiero moderno.
+È il problema di sapere se quello che chiama Umanesimo possa soddisfare l'umanità. Sui suoi altri argomenti si potrebbe parlare per sempre.
+Di solito dice la cosa giusta; a volte dice l'ultima parola, in quel stile suggestivo o provocatorio che spinge qualcuno
+a dire una parola di più. Nella mia personale valutazione dei suoi soggetti, Whitman sarebbe molto più grande e Lowell molto più piccolo.
+Su Emerson sembra sia sensibile e giusto; ed Emerson certamente aveva distinzione; ma proprio quel tipo secco di distinzione verso il quale io
+avrei sempre paura di essere ingiusto. Un puritano cercò di fare il pagano;
+e riuscì a diventare un pagano che esitava sul fatto che dovesse andare a vedere una ragazza ballare. Ma tutte queste cose sono stimolanti,
+ma secondarie rispetto alla questione sulla quale prenderò la libertà
+di attaccarmi separatamente e di tentare di rispondere seriamente.
+[[Fear|Temo]] che rispondere seriamente debba significare rispondere personalmente.
+La domanda è veramente se l'Umanesimo possa svolgere tutte le funzioni
+della religione; e non posso fare a meno di considerarlo in relazione alla mia stessa religione.
+È [[Alone|solo]] giusto dire che l'Umanesimo è del tutto diverso dall'[[Humanitarianism|umanitarismo]]. Significa, come spiegato qui, qualcosa di simile a questo.
+La scienza e l'organizzazione moderne sono in un certo senso troppo naturali.
+Ci conducono come le bestie lungo linee di eredità o destino tribale;
+attaccano l'uomo alla terra come una pianta invece di liberarlo,
+anche come un uccello, figuriamoci come un angelo. La loro ultima psicologia
+è addirittura inferiore al livello della vita. Ciò che è subcosciente è subumano e,
+per così dire, sotterraneo: o qualcosa di meno che terreno.
+Questa lotta per la cultura è soprattutto una lotta per la coscienza:
+ciò che alcuni chiamerebbero [[Self|auto]]-coscienza: ma comunque contro
+il semplice subconscio. Abbiamo bisogno di un raduno delle cose veramente UMANE;
+la volontà che è morale, la [[Memory|memoria]] che è tradizione, la cultura che è
+l'astuzia mentale dei nostri padri. Tuttavia, il mio primo dovere è quello di
+rispondere alla domanda postami; e devo risponderla negativamente.
+
+Non credo che l'Umanesimo possa essere un sostituto completo per il Superumanesimo.
+Non ci credo a causa di una certa [[Truth|verità]] così concreta da poter essere chiamata un fatto.
+So che sembra molto simile a qualcosa che è stato spesso detto
+nell'[[Apologetics|apologetica]] convenzionale o superficiale. Ma non intendo questo in quel senso vago;
+lungi dall'ereditarlo come una convenzione, ho piuttosto recentemente scontrato con esso come una scoperta.
+L'ho realizzato relativamente tardi nella vita e mi sono reso conto che è
+davvero tutta la storia e il morale della mia stessa esistenza. Ma anche pochi anni fa,
+quando la maggior parte delle mie opinioni morali e religiose erano già abbastanza formate, non l'avrei visto così nitidamente e chiaramente; come lo vedo ora.
+
+Il fatto è questo: il mondo moderno, con i suoi movimenti moderni,
+sta vivendo del suo capitale cattolico. Sta usando e consumando
+le verità che gli rimangono dal vecchio tesoro della Cristianità;
+inclusa, naturalmente, molte verità note all'antichità pagana
+ma cristallizzate nella Cristianità. Ma NON sta realmente iniziando
+nuovi entusiasmi propri. La novità è questione di nomi
+ed etichette, come la pubblicità moderna; quasi in ogni altro modo
+la novità è semplicemente negativa. Non sta iniziando cose nuove
+che può davvero portare avanti lontano nel futuro. Al contrario,
+sta raccogliendo vecchie cose che non può affatto portare avanti.
+Perché questi sono i due segni degli ideali morali moderni. Primo, che furono
+presi in prestito o strappati dalle mani antiche o medievali.
+Secondo, che appassiscono molto rapidamente nelle mani moderne.
+Questo è, molto brevemente, la tesi che sostengo; e così avviene
+che il libro chiamato CRITICA AMERICANA potrebbe quasi essere stato
+pensato come un testo per provare il mio punto.
+
+Comincerò con un esempio particolare di cui il libro tratta anch'esso. La mia giovinezza fu riempita, come da un'alba, dal bagliore sanguigno di Walt Whitman. Egli mi sembrava qualcosa come una folla trasformata in un gigante, o come Adamo, il Primo Uomo. Mi emozionavo nel sentire parlare di qualcuno che aveva sentito parlare di qualcun altro che lo aveva visto per strada; era come se [[Christ|Cristo]] fosse ancora vivo. Non mi importava se la sua poesia non metrica fosse una forma saggia o no, tanto quanto non mi importasse se un vero Vangelo di Gesù fosse scarabocchiato su pergamena o pietra. Non avevo mai avuto il minimo accenno del male che alcuni nemici gli hanno attribuito; se c'era, non era lì per me. Quello che salutavo era una nuova uguaglianza, che non era un livellamento noioso ma un sollevamento entusiasta; un'esultazione urlante nel semplice fatto che gli uomini fossero uomini. Gli uomini veri erano più grandi degli dei irreali;
+e ciascuno rimaneva tanto mistico e maestoso quanto un dio, mentre diventava tanto franco e confortante quanto un compagno. Il punto può essere espresso nel modo più compatto in una delle frasi stesse di Whitman; egli dice da qualche parte che i vecchi artisti dipingevano folle, nelle quali una testa aveva un alone di luce dorata;
+"ma io dipingo centinaia di teste, ma non dipingo nessuna testa senza il suo
+alone di luce dorata." Una gloria doveva attorniare gli uomini come tali; un culto reciproco doveva assumere la forma di cameratismo;
+e anche l'ultimo e più basso degli uomini doveva essere incluso in questo cameratismo;
+un negro gobbo, mezzo scemo, con un occhio e manie omicide,
+non doveva essere dipinto senza il suo alone di luce dorata.
+Questo potrebbe sembrare solo l'espansione finale di un movimento iniziato un secolo prima con Rousseau e i Rivoluzionari; ed ero stato educato a credere, e credevo che quel movimento fosse l'inizio
+di cose più grandi e migliori. Ma questi erano [[songs|canti]] prima dell'alba;
+e non c'è paragone tra anche l'alba e il sole.
+Whitman era fraternità in pieno giorno, mostrando infinite varietà
+di creature radiose e meravigliose, tanto più sacre per essere solide.
+Shelley aveva adorato l'Uomo, ma Whitman adorava gli Uomini. Ogni volto umano,
+ogni tratto umano, era materia di poesia mistica, che illuminava
+come torce casuali, finora, un volto qua e là nella folla.
+Un [[King|re]] era un uomo trattato come tutti gli uomini dovrebbero essere trattati.
+Un dio era un uomo adorato come tutti gli uomini dovrebbero essere adorati.
+Cosa potevano fare contro una razza di dei e una repubblica di re;
+non verbalmente ma veramente il Nuovo Mondo?
+
 
 
 <span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_02" data-title="The Thing — Is HUMANISM A RELIGION? (part 2)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
@@ -7955,6 +8031,108 @@ And it seemed unanswerable, not in the least because it is unanswerable,
 but because even decadent Christians dared not give the answer.
 Mr. H. L. Mencken will always be happy to oblige with the answer.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Well|Ecco]] ... ecco cosa dice il signor Foerster sulla posizione attuale del fondatore del nuovo mondo della [[democracy|democrazia]]:  «La nostra scienza attuale offre pochi argomenti a sostegno di una 'dignità intrinseca dell'uomo' o della sua 'perfezionabilità'.
+È perfettamente possibile che la scienza del futuro ci allontani dalla [[democracy|democrazia]] verso qualche forma di aristocrazia.
+Le aspettative millenarie su cui Whitman ha costruito la scienza e la [[democracy|democrazia]], ora siamo [[Well|benissimo]] consapevoli che poggiavano su basi insicure.... La
+perfezione della [[Nature|natura]], la bontà naturale dell'uomo, 'l'orgoglio dell'uomo in se stesso', bilanciati con un [[Pride|umanitarismo]] emotivo -- questi sono gli elementi di una struttura solo leggermente colorata di modernità.
+La sua politica, la sua etica, la sua religione appartengono al passato,
+anche quella facile 'religiosità' che sperava avrebbe pervaso
+e completato l'opera della scienza e della [[Humanitarianism|democrazia]].... Per quanto riguarda i punti essenziali della sua profezia, Whitman, dobbiamo concludere, è stato smentito
+dagli eventi».  Questo è un'affermazione molto moderata ed equilibrata;
+sarebbe facile trovare la stessa cosa in una dichiarazione molto più feroce.
+Ecco un'osservazione monumentale del signor H.L. Mencken: «Loro (intende certi
+pensatori liberali o ex-liberali) si sono resi conto che i moroni
+che hanno sudato per salvare non vogliono essere salvati, e non lo meritano».  Questo è il Nuovo Spirito, se c'è un qualche Nuovo Spirito.
+«Farò città invincibili, con le braccia intorno al collo l'una dell'altra», gridava Walt Whitman, «per [[democracy|amore]] dei compagni,
+per l'[[Love|amore]] che dura tutta la vita dei compagni».  Mi piace pensare alla faccia
+del signor Mencken di Baltimora, se qualche compagno occasionale da Pittsburgh
+cercasse di renderlo invincibile mettendogli un braccio intorno al collo.
+Ma l'idea è morta per persone molto meno feroci del signor Mencken.
+È morta in un uomo come Aldous Huxley, che si lamentava recentemente della
+romanticheria «gratuita» dell'antica visione repubblicana della [[Love|natura]] umana.
+È morta nel più umano e umoristico dei nostri critici recenti.
+È morta in tanti uomini saggi e buoni di oggi, che non posso fare a meno
+di chiedermi se, nelle condizioni moderne della sua prediletta "scienza",
+non sarebbe morta anche nel signor Whitman.
+
+Non è morto in me. Rimane reale per me, non per alcun merito mio,
+ma perché questa idea mistica, sebbene si sia evaporata
+come umore, esiste ancora come credo. Sono perfettamente disposto ad affermare,
+con la stessa fermezza con cui avrei affermato in giovinezza, che il negro gobbo
+e mezzo scemo è decorato con un nimbo di luce dorata.
+La [[Truth|verità]] è che il quadro selvaggio di Whitman, o quello che lui pensava
+fosse un quadro selvaggio, è in realtà un quadro molto antico e ortodosso.
+Ci sono, infatti, qualsiasi numero di vecchi dipinti
+in cui intere folle sono incoronate da aureole, per indicare
+che hanno tutte raggiunto la Beatitudine. Ma per i cattolici è
+un dogma fondamentale della [[Faith|Fede]] che tutti gli esseri umani, senza alcuna
+eccezione, sono stati creati appositamente, modellati e diretti
+come frecce lucenti, con l'obiettivo di raggiungere il bersaglio della Beatitudine.
+È vero che le frecce sono piumate con la libera volontà, e quindi
+proiettano l'[[Shadow|ombra]] di tutte le tragiche possibilità della libera volontà;
+e che la Chiesa (che è stata a conoscenza per secoli anche di quel lato più oscuro
+della [[Truth|verità]], appena scoperto dai nuovi scettici)
+attira anche l'attenzione sull'oscurità di quella potenziale [[Tragedy|tragedia]].
+Ma ciò non fa alcuna differenza per la gloria della potenziale gloria. In un certo senso ne è persino parte;
+poiché la [[Freedom|libertà]] è essa stessa una gloria. In quel senso indosserebbero ancora le loro aureole anche all'inferno.
+
+Ma il punto è che chiunque creda che tutti questi esseri
+siano stati creati per essere beati e che moltitudini di loro siano probabilmente [[Well|bene]] avviate verso la beatitudine,
+ha davvero una solida ragione filosofica per considerarli tutte creature radiose e meravigliose,
+o per vedere tutti i loro volti circondati da aureole.  Quella convinzione rende
+ogni volto umano, ogni tratto del viso, materia di poesia mistica.
+Ma non è affatto come la poesia moderna.  La poesia più moderna della modernità
+non è la poesia dell'accoglienza, ma del rifiuto, o meglio,
+della repulsione.  Lo spirito che anima le opere più recenti potrebbe essere
+chiamato una furia di schizzinosità.  Il nuovo uomo di lettere non ottiene
+il suo effetto dicendo che per lui un negro gobbo ha un'aura.
+Ottiene il suo effetto dicendo che, proprio mentre stava per abbracciare
+finalmente la più bella delle donne, è stato nauseato da una pallina
+sopra il sopracciglio o da una macchia di grasso sul pollice sinistro.
+Whitman cercò di dimostrare che le cose sporche erano in realtà pulite,
+come quando glorificava il letame come la matrice della purezza dell'erba.
+I suoi seguaci nella [[Free Verse|versificazione libera]] cercano di dimostrare che le cose
+pulite sono in realtà sporche; suggeriscono qualcosa di lebbroso e ripugnante
+nell'ispessimento bianco del latte, o qualcosa di pungente
+e pestilenziale nella crescita inspiegabile dei peli.
+In breve, l'intero umore è cambiato, per quanto riguarda la poesia.
+Ma non è cambiato per quanto riguarda la teologia; e questo è l'argomento
+per avere una teologia immutabile.  La teologia cattolica non ha nulla
+a che fare con la [[democracy|democrazia]], né a favore né contro, nel senso di un meccanismo
+di voto o di una critica ai privilegi politici particolari.
+Non si impegna a sostenere ciò che Whitman disse per la [[democracy|democrazia]],
+o anche ciò che Jefferson o [[Lincoln]] dissero per la [[democracy|democrazia]].
+Ma è assolutamente impegnata a contraddire ciò che il signor Mencken
+dice contro la [[democracy|democrazia]].  Ci saranno persecuzioni di Diocleziano,
+ci saranno [[Crusades|crociate]] domenicane, ci sarà lo strappo di ogni pace e compromesso religioso,
+o anche la fine della civiltà e del mondo, prima che la [[Catholic Church|Chiesa Cattolica]]
+ammetta che un solo deficiente, o un solo uomo, "non valga la pena di essere salvato".
+
+Ho quindi scoperto nella mia mezza età questo curioso fatto sulla lezione della mia vita, e su quella di tutta la mia generazione. Siamo cresciuti tutti con una convinzione comune, accesa dalle fiamme del genio letterario di Rousseau, Shelley, Victor Hugo, trovando il suo ultimo scoppio e incendio nell'universalismo di Walt Whitman. E abbiamo dato per scontato che anche i nostri discendenti l'avrebbero data per scontata.
+Ho detto che la scoperta della fratellanza sembrava come la scoperta della piena luce del giorno; qualcosa di cui gli uomini non potessero mai stancarsi. Eppure, anche nella mia breve vita, gli uomini se ne sono già stancati.
+Non possiamo più fare appello all'[[Love|amore]] per l'uguaglianza come un'EMOZIONE.
+Non possiamo più aprire un nuovo libro di [[Poems|poesie]], e aspettarci che sia sulla [[Love|vita]] lunga dell'amore tra compagni, o "[[Love|Amor]], la Repubblica amata,
+che si nutre di [[Freedom|libertà]] e vive." Ci rendiamo conto che nella maggior parte
+degli uomini è morto, perché era un umore e non una dottrina.
+E iniziamo a [[Wonder|meravigliarci]] troppo tardi, nel saggio stile degli anziani,
+come avremmo mai potuto aspettarci che durasse come umore, se non era
+abbastanza forte da durare come dottrina. E iniziamo anche a renderci conto
+che tutta la vera forza che c'era in esso, che è l'unica forza
+che rimane in esso, era la forza originale della dottrina.
+Ciò che è realmente accaduto è stato questo: gli uomini del diciottesimo secolo,
+molti di loro in una giusta impazienza verso i preti corrotti e cinici,
+si sono rivoltati contro quei preti e hanno detto in effetti, "[[Well|Beh]], immagino
+che vi chiamiate cristiani; quindi non potete realmente NEGARE
+che gli uomini siano fratelli o che sia nostro dovere aiutare i poveri."
+La stessa fiducia della loro sfida, la stessa nota squillante
+nella voce rivoluzionaria, proveniva dal fatto che i reazionari cristiani erano in una posizione falsa come cristiani.
+La richiesta democratica ha vinto perché sembrava irrefutabile.
+E sembrava irrefutabile, non per nulla perché lo è,
+ma perché anche i cristiani decadenti non osavano dare la risposta.
+Il signor H. L. Mencken sarà sempre felice di acconsentire con la risposta.
 
 
 
@@ -10442,6 +10620,38 @@ to be first and to be forgotten.
 -/-
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma intendo il commento qui in un senso piuttosto più ampio; e in un senso più ampio è un caso ancora più forte.  Intendo dire che se prendiamo la storia di Santa Giovanna come test, la cosa veramente notevole non è tanto la lentezza della Chiesa nell'apprezzarla, quanto la lentezza di tutti gli altri.  Il mondo, specialmente gli uomini più saggi del mondo, furono straordinariamente tardi nel rendersi conto di quale cosa notevole fosse accaduta; molto più tardi dei piuttosto rigidi funzionari religiosi del quindicesimo secolo.  Quella rigidità della religione del quindicesimo secolo fu ben presto infranta, in parte da forze buone e in parte da forze cattive.  Comparativamente poco dopo che le ceneri di Santa Giovanna furono gettate nella Senna, abbastanza presto dopo la Riabilitazione, la [[Renaissance|Rinascita]] era davvero cominciata.  Poco dopo quella la [[Reformation|Riforma]] era cominciata.  La [[Renaissance|Rinascita]] produsse un certo numero di vedute ampie e liberali su ogni sorta di cose.  La [[Reformation|Riforma]] produsse innumerevoli vedute ristrette, divise tra tutte le sorta di sette.  Ma almeno c'erano molte differenze e punti di vista variati, molti dei quali ormai allentati da qualsiasi cosa che potesse essere stata restrittiva nella disciplina medievale. La ragione umana e l'[[Imagination|immaginazione]], lasciate a se stesse, avrebbero almeno potuto fare altrettanto di Jeanne d'Arc quanto di John Huss.  Di fatto, la ragione umana e l'[[Imagination|immaginazione]], lasciate a se stesse, fecero straordinariamente poco di lei.  Umanesimo e [[Humanitarianism|Umanitarismo]] e, in senso generale, l'Umanità, non riabilitarono davvero Giovanna fino a circa cinquecento anni dopo che la Chiesa lo aveva fatto.
+
+La [[history|storia]] di ciò che grandi uomini hanno detto su questa grande donna è una storia molto triste. Il più grande uomo di tutti, Shakespeare, ha un'infelice preminenza per i suoi insulari insulti in ENRICO VI. Ma la cosa continuò a lungo dopo Shakespeare; e fu molto peggio nelle persone che avevano molte meno scuse di Shakespeare. Voltaire era francese; era un grande francese; professava ammirazione per molti eroi francesi; certamente professava di essere un riformatore e un amico della [[Freedom|libertà]]; molto certamente avrebbe potuto cogliere qualsiasi errore giudiziario medievale che si potesse trasformare in anticlericale. Quello che Voltaire scrisse su Santa Giovanna sarà più decoroso passarlo sotto [[Silence|silenzio]]. Ma è la stessa cosa lungo tutta la linea; è la stessa molto tempo dopo nel razionalistico [[history|periodo storico]] di Voltaire. Byron, con tutti i suoi difetti, aveva una sensibilità per ciò che era splendido ed eroico, specialmente nella questione delle nazioni che lottavano per essere libere. Era molto meno insulare di qualsiasi altro poeta inglese; aveva molta più comprensione della Francia e del Continente; ed è ancora compreso e ammirato là. Chiamò Santa Giovanna d'Arco una sgualdrina fanatica. Questo era il tono generale della cultura umana, della [[history|storia]] come insegnata e discorsa nell'età della ragione. Il signor Belloc ha notato che, così forte era questa pressione sociale secolare, che anche un cattolico, quando desiderava essere moderato, come Lingard, era più o meno scettico, non certo sulla [[morality|moralità]], ma certamente sulla missione miracolosa di Santa Giovanna. È vero che Schiller fu simpatico, sebbene sentimentale--e quindi fuori dal coro. Ma non fu fino quasi alla fine del diciannovesimo secolo, pienamente all'inizio del ventesimo secolo, che uomini comuni di genio si svegliarono al riconoscimento di una delle donne più straordinarie di genio nella [[history|storia]] del mondo. Uno dei primi veri tentativi popolari di riabilitazione razionalista venne, di tutte le persone al mondo, da Mark Twain. La sua idea del Medioevo era tanto provinciale quanto lo Yankee alla [[Court|Corte]] di [[King Arthur|Re Artù]]; ma va dato atto a questo genio piuttosto grezzo, della tarda cultura di un nuovo paese, che colse la fiamma dal rogo di Rouen, che tanti scettici colti avevano trovato freddo. Poi venne un opuscolo paternalistico da Anatole France; che io per uno trovo piuttosto più insultante dei versi oscene di Voltaire. Poi venne l'ultimo grande tentativo; sbagliato in molti modi nella sua tesi, ma vistosamente energico e sincero--la pièce su Santa Giovanna. Nel complesso, nessuno può dire che umanisti e razionalisti siano stati molto precoci sul campo. Questa eroina ha dovuto aspettare circa cinque secoli per Bernard [[Shaw]].
+
+Ora, in questo confronto, nessuno può dire che la Chiesa
+ne esca molto male rispetto al mondo.
+La [[Truth|verità]] è che l'apologia ecclesiastica nei confronti della martire arrivò così presto che tutti se n'erano già dimenticati da tempo,
+ben prima che il resto del mondo cominciasse a considerare la questione.
+E anche se ho preso qui il caso particolare di Santa Giovanna
+d'Arco, credo che qualcosa dello stesso genere potrebbe essere rintracciato
+attraverso molti altri casi nella [[history|storia]] umana.
+
+È vero di coloro che hanno dato ai Gesuiti una cattiva reputazione e li hanno impiccati; e l'impiccagione non era sempre metaforica. La versione semplificata è dire che i Gesuiti, specialmente nella loro veste di Casuisti, soffrirono quasi interamente per essere stati duecento anni prima del [[Time|loro tempo]]. Provarono a iniziare con cautela ciò che ora sta sorgendo dappertutto intorno a noi in modo caotico; tutto ciò che è implicato nel parlare di romanzi e drammi problematici. In altre parole, riconobbero che ci sono davvero problemi nella condotta morale; non problemi sul fatto se la legge morale debba essere obbedita, ma problemi su come in un caso particolare la legge morale si applichi realmente. Ma non furono ricordati come pionieri che avevano cominciato a porre le domande di Ibsen e Hardy e [[Shaw]]. Furono ricordati solo come cattivi cospiratori che non avevano sempre creduto nel Diritto Divino dei Re. Pionierarono abbastanza presto da essere esecrati da una generazione precedente; ma troppo presto per essere ringraziati da una generazione successiva. I Protestanti hanno sostenuto con entusiasmo Pascal contro di loro, senza prendersi la briga di scoprire che molte delle cose che Pascal denunciava sono cose che qualsiasi uomo moderno difenderebbe. Per esempio, Pascal accusò i famigerati Gesuiti di dire che una ragazza potesse in alcune condizioni sposarsi contro il volere dei suoi genitori. I Gesuiti avrebbero avuto tutti i romanzi moderni, lasciando [[Alone|da parte]] i romanzi problematici, dalla loro parte. Ma erano troppo presto sul campo per avere qualcuno dalla loro parte. Inoltre, desideravano inserire queste eccezioni nella regola morale; i Moderni che lo fecero due secoli dopo non produssero alcuna regola, ma un groviglio di eccezioni.
+
+Ecco ancora un altro esempio che mi viene in mente al momento.
+Molti hanno raccontato a lungo la lenta fatica con cui
+l'idea di giustizia verso gli aborigeni, i pellerossa o simili razze,
+ha fatto progressi passo dopo passo insieme all'avanzare delle moderne idee umanitarie.
+In una [[history|storia]] del genere Penn, il grande Quacchero, appare come un fondatore primordiale
+e padre della repubblica; e fu indubbiamente tra i primi sul campo,
+nel campo puritano. Ma Las Casas, l'apostolo degli indiani, navigò in una [[Ship|nave]] con Cristoforo [[Columbus|Colombo]].
+Sarebbe difficile essere arrivati prima di lui nel campo americano.
+Dedico la sua vita a battersi per i diritti dei selvaggi; ma lo fece
+in un [[Time|periodo]] in cui nessuno al nord avrebbe ascoltato una storia del genere
+su un santo della Spagna. In questo e in molti altri esempi, credo
+che la vera [[history|storia]] dei pionieri cattolici sia stata la stessa:
+arrivare per primi ed essere dimenticati.
+
+-/-
+
 
 
 <span class="atom-split" data-atom="story_11_protestantism_a_problem_novel_novel" data-title="The Thing — PROTESTANTISM:  A PROBLEM NOVEL" data-chapter="PROTESTANTISM A PROBLEM Novel NOVEL" data-kind="story"></span>
@@ -12695,6 +12905,70 @@ Catholic can offer them.  But I would rather take any other example
 than my own unimportant opinions.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SUL [[Courage|CORAGGIO]] E SULL'INDIPENDENZA
+
+QUANDO ci siamo costretti e provocati sulla nostra ostinazione nel dire la Messa in una lingua morta, siamo tentati di rispondere ai nostri interrogatori dicendo loro che apparentemente non sono degni di fiducia con una lingua viva. Quando consideriamo ciò che hanno fatto con la nobile lingua inglese, a confronto dell'inglese del [[prayer|Libro]] delle Preghiere Anglicano, figuriamoci il latino della Messa, sentiamo che il loro sviluppo può [[Well|benissimo]] essere chiamato degenerato.
+
+La lingua chiamata morta non può mai essere definita degenerata.
+Sicuramente anche loro potrebbero capire il nostro rifugiarci in essa,
+quando (nel volgare) la parola "immacolato" è applicata solo ai polsini dei snob; o "unzione" significa non
+l'Estrema Unzione, ma solo rettitudine untuosa.  Non serve notare
+ancora una volta come le qualità morali abbiano perso la loro qualità mistica;
+e con essa tutta la loro dignità e delicatezza e spontaneo
+appello spirituale.  La [[Charity|carità]], che era il cuore infuocato del mondo,
+è diventata un nome per una patronage avara e pomposa dei poveri,
+che in questo [[Time|tempo]] si traduce generalmente nello schiavizzare i poveri.
+
+Ma ci sono esempi più sottili di questa degenerazione in termini ideali.
+E un esempio ancora peggiore, credo, del banalizzare la parola
+[[Charity|CARITÀ]] è il nuovo banalizzare giornalistico della parola [[Courage|CORAGGIO]].
+
+Chiunque viva nel completo lusso e nella sicurezza e scelga di scrivere una commedia o un [[Novel|romanzo]] che provochi un certo fermento e uno scambio di complimenti a Chelsea e Chiswick, e un lieve brivido a Streatham e Surbiton, viene descritto come "audace", anche se nessuno al mondo sa quale pericolo egli osa affrontare. Parlo, naturalmente, dei pericoli terreni; o dell'unica specie di pericoli in cui crede. Essere adulato esageratamente da tutti coloro che si considerano illuminati e piuttosto debolmente rimproverato da chiunque egli ritenga antiquato e morto, non sembra un pericolo così spaventoso da giustificare che uno venga guardato come un eroico guerriero e martire militante perché ha avuto la forza di sopportarlo.
+
+Il critico teatrale di un giornale [[Sunday|domenicale]], qualche tempo fa,
+si è scatenato in una frenesia d'ammirazione per il "[[Courage|coraggio]]"
+di una certa triste e squallida pièce, perché rappresentava
+un soldato che delirava come una donna isterica contro la crudeltà
+di coloro che si aspettavano da lui che difendesse la patria. Può essere
+divertente che il suo concetto di [[Courage|coraggio]] sia una difesa della codardia.
+Ma è il genere di difesa che abbiamo sentito diecimila volte
+durante la reazione dopo la guerra; e il [[Courage|coraggio]] necessario
+per esprimerla è esattamente lo stesso del [[Courage|coraggio]] necessario per esprimere qualsiasi
+altra citazione logora dal canto e dalla convenzione del momento:
+come le banalità sull'assurdità del [[Marriage|matrimonio]] o sulla personalità simpatica di Giuda Iscariota. Queste cose sono diventate piuttosto comuni;
+ma continuano a pretendere d'essere coraggiose. Così i soldati falsi si
+sono visti sfoggiare l'uniforme quando la guerra era finita.
+
+La [[Catholic Church|Chiesa Cattolica]], come custode di tutti i valori, custodisce anche il valore delle parole. I suoi figli non cadranno, lo [[Hope|spero]], in questa follia convenzionale e comoda. Non dobbiamo fingere che oggi ai cattolici sia richiesto di mostrare qualcosa che si possa chiamare [[Courage|coraggio]], secondo il metro dei cattolici di altri tempi. Occorreva un certo [[Courage|coraggio]] per essere cattolici quando ciò comportava la netta avversione che quasi tutti noi proviamo a essere messi sulla ruota o squartati con un coltello. Occorreva un certo [[Courage|coraggio]] quando esisteva solo una possibilità intermittente di essere lacerati da una folla. Anche questo, la nostra sottile psicologia umana lo guarda con qualche disgusto.
+
+Ma spero che non proviamo alcun disgusto per il fatto di trovarci dalla parte opposta a quella del Vescovo Barnes o per essere guardati con allarme e sospetto da Jix. Queste cose sono quasi piaceri intellettuali. In effetti, comportano davvero una certa [[Temptation|tentazione]] verso l'[[Pride|orgoglio]] intellettuale. Preghiamo di essere liberati da esso; e speriamo che non siamo lasciati del tutto senza occasioni per il [[Courage|coraggio]]. Ma la maggior parte di esse sarà presente nella vita privata e in altri aspetti pratici della vita pubblica; nel resistere al [[Pain|dolore]] o alla passione, o sfidando la minaccia economica e la tirannia del nostro [[Time|tempo]]. Ma non facciamo gli sciocchi come i razionalisti e i realisti, atteggiandoci a martiri che non sono mai stati martirizzati o sfidando tiranni morti da duecento anni.
+
+Ma sebbene il nome di questa virtù sia stato volgarizzato a tal punto che è difficile usarlo anche dove è esatto, figuriamoci dove in ogni caso è eccessivo, c'è una qualità in qualche modo analoga che il mondo moderno loda altrettanto rumorosamente e ha perso quasi più completamente.
+Mettendo da parte il senso stretto di un [[Courage|coraggio]] cattolico, al mondo dovrebbe essere detto qualcosa sull'indipendenza intellettuale cattolica.
+È, naturalmente, l'unica qualità che il mondo suppone abbiano perso i Cattolici. È anche, in questo momento, l'unica qualità che i Cattolici percepiscono che tutto il mondo ha perso.
+Il mondo moderno ha molti segni, buoni come [[Well|altresì]] cattivi; ma di gran lunga la cosa più moderna in esso è l'abbandono della ragione individuale, a favore
+di colpi di mano giornalistici e suggestioni e psicologia di massa e produzione di massa.
+La [[Faith|Fede]] Cattolica, che preserva sempre la virtù non convenzionale,
+in questo momento è [[Alone|sola]] a sostenere l'intelletto indipendente dell'uomo.
+
+I nostri critici, nel condannarci, ragionano sempre in circolo.
+Dicono del medioevo che tutti gli uomini erano ristretti di vedute. Quando scoprono
+che molti di loro avevano invece una visione molto ampia, insistono sul fatto che quegli uomini devono essere stati
+in rivolta non solo contro il medioevo ma anche contro il cattolicesimo.
+Nessun cattolico era intelligente; perché quando lo erano,
+non potevano davvero essere cattolici. Questo ragionamento circolare
+appare con una lieve differenza nella questione del pensiero indipendente oggi. Consiste nell'estendere a tutto il cattolicesimo
+ciò che in realtà sono le idee indipendenti di diversi cattolici.
+Si parte dall'assumere (quello che ci è stato detto) che Roma reprime rigidamente
+qualsiasi varietà e quindi i cattolici romani non differiscono mai su nulla.
+Poi, se uno di loro propone una visione interessante, dicono che Roma deve
+averla imposta a lui e quindi a tutti gli altri cattolici romani.
+Io stesso ho avanzato diverse proposte economiche e politiche,
+per le quali non avrei mai sognato di rivendicare nulla più del fatto che un cattolico fedele può offrirle. Ma preferirei prendere qualsiasi altro esempio
+piuttosto che le mie opinioni senza importanza.
+
 
 
 <span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_02" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 2)" data-chapter="ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt"></span>
@@ -12970,6 +13244,78 @@ even if it is the only place in the world that is provincial.
 Rome must be barbaric; if all the barbarians of the earth are called
 up to sack the [[City|city]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'INDUO SETTENTRIONALE
+
+Non posso, come fanno alcuni, trovare nell'evoluzionismo di cinquant'anni fa e nel ruolo di persecutore protestante di ottant'anni fa del dottor Barnes un vescovo davvero entusiasmante.
+Le sue opinioni sono abbastanza stantie; ma ammetto che i suoi argomenti siano talvolta divertenti.
+
+Così egli raggiunse l'ultimo limite della follia con una frase che pronunciò nel corso di un'esposizione sulla pretesa imposizione del folklore mediterraneo alle nazioni nordiche, qualunque cosa ciò voglia dire. Aggiunse bruscamente che la metafisica indiana e cinese è oggi molto più importante della nostra. Ma soprattutto egli fece l'affermazione culminante per cui Roma è così marchiata come provinciale. Ciò sembra suggerire alla mente educativa la costruzione di un compito d'esame in conoscenze generali elementari. Potrebbe essere qualcosa del genere:
+
+1. Da quale lingua deriva la parola “provinciale”?
+
+2. A quali province si riferiva generalmente?
+
+3. Se Atene, Antiochia, Roma e Gerusalemme erano città di provincia, qual era la loro [[City|città]] metropolitana?
+
+4. Quali sono le ragioni per cui si può supporre che Birmingham occupasse questa posizione metropolitana fin dai tempi più antichi?
+
+5. Fornisci un breve resoconto della conquista dell'Europa meridionale e del Vicino Oriente da parte degli Imperatori di Birmingham.
+
+6. A che data il papato ha [[Rebel|ribellato]] contro la diocesi di Birmingham?
+
+7. Spiegate il vecchio proverbio: «Tutte le strade portano a Birmingham».
+
+8. Discutete la seguente osservazione: «Le persone più affascinantemente nordiche che conosco sono quei cari cinesi».
+
+9. Perché il folklore degli Indiani è molto più ragionevole di quello dei Romani?
+
+10. Quando il Vescovo di Birmingham farà un tour nelle Province?
+
+Le risposte devono essere inviate prima del momento dello smantellamento della Chiesa d'Inghilterra e ai sacerdoti è vietato fornire la loro astuta assistenza ai candidati.
+
+In verità non so trovare altro modo di trattare con serietà anche solo apparente una simile osservazione straordinaria.
+Era resa ancora più straordinaria, naturalmente, dalle ulteriori considerazioni sull'argomento dei cinesi e degli indiani.
+Ora conosciamo tutto dell'uomo nordico, almeno per quanto si possa sapere di una persona che non esiste. Sappiamo, ad esempio,
+che fino all'[[Autumn|autunno]] del 1914 era solito essere chiamato l'uomo teutonico.
+Il decano Inge in quei giorni lo amava moltissimo; addirittura più di quanto non lo ami ora. Una volta citò abbondantemente, e ancora
+di tanto in tanto cita, quel grande e glorioso patriota inglese, il signor Houston Stewart Chamberlain.
+
+Abbiamo ben capito che tutti gli uomini nordici erano come dei, con lunghi
+capelli dorati e una statura gigantesca; e questo rendeva ancora più piacevole
+renderci conto che noi stessi eravamo uomini nordici. Sfortunatamente, i tedeschi
+erano ancora più nordici, giganteschi e belli da guardare;
+lo dicevano loro; e dovevano saperlo. Il povero teutone era un po'
+impopolare per cinque anni circa; ma ora sta tornando fuori a sentire
+il sole, come i re dopo la caduta di Napoleone nel poema della signora Browning.
+Come molte altre persone, cambiò il suo nome durante la guerra.
+Ora è completamente nordico e non affatto teutonico. E, dato che è,
+e sempre è stato, tutta la sua professione nella vita lodare se stesso
+ed esaltare la virtù dell'[[Pride|orgoglio]], così sottovalutata dai cristiani,
+è perfettamente naturale che disprezzi i "Dagos"
+e parli della cultura inferiore delle razze minori senza legge.
+È naturale che insista sul fatto che tutti gli spagnoli sono toreri codardi
+e tutti gli italiani lussuosi suonatori di organo. Si può
+aspettarsi che puntualmente segnali l'incompetenza pigra
+di Napoleone e il languore impotente di Mussolini.
+
+Eravamo abituati a tutto questo; era ciò che ci aspettavamo dall'uomo nordico;
+perché nessuno si è mai aspettato che un uomo nordico affrontasse i fatti davanti ai suoi occhi,
+o imparasse qualcosa anche dalla propria esperienza.
+Pensavamo di averlo tutto chiaro e completo, come una reciproca comprensione;
+c'era l'uomo nordico che era nobile perché protestante
+e aveva capelli chiari; e c'era il cattolico del sud che era
+una specie di animale inferiore, perché scuro di carnagione e superstizioso.
+Ma perché gli indiani? O venerabile padre in Dio e mite pastore delle anime,
+perché gli indiani?
+
+Perché ora ci viene detto di imparare da persone che hanno i capelli ancora meno chiari e sono ancora più lontane dal Circolo Polare Artico? Non sono forse una razza inferiore, conquistata dall'imperialismo sconvolgente di Birmingham? Non sono forse una specie minore senza legge? Dobbiamo andare in Asia per sfuggire al folklore e alla [[Magic|magia]]? Gli amati indiani non mostrano mai nessuno degli errori che deturpano i deplorabili romani? Se i latini sono idolatri, gli indiani non hanno mai avuto idoli? Se l'Europa meridionale è legata alla mitologia, l'Asia meridionale è forse un mondo di pura ragione che non è mai stato deturpato da un mito?
+
+La spiegazione, l'unica che io possa suggerire, è quella che ho già proposto ed è racchiusa in una semplice parola: la [[Despair|disperazione]]. Tutti sanno che quando una campagna militare comincia a fallire ogni comandante delle forze sconfitte cade inevitabilmente e anche perdonabilmente nella [[Temptation|tentazione]] di abbassare gli standard di idoneità militare e reclutare soldati da qualsiasi parte, indipendentemente dalla loro qualità come militari. Questo è accaduto più volte anche tra le razze bianche; qualcosa di simile succede costantemente nelle relazioni con le altre razze. Così sia gli olandesi che gli inglesi nel conflitto sudafricano sono stati continuamente tentati di utilizzare i nativi non solo per il lavoro ma [[Well|anche]] per la guerra. La Francia è stata criticata per aver fatto affidamento su truppe scure; anche se io non ho mai capito perché dovrebbe essere biasimata da noi, che abbiamo reclutato truppe scure in tutto l'Impero britannico.
+
+Comunque sia, è un processo a cui i capitani sconfitti o imbarazzati si affidano regolarmente ma spesso con riluttanza. È un parallelo molto preciso alla sconfitta del Vescovo di Birmingham e al suo grido di aiuto agli indiani. Ha raggiunto la posizione in cui accetterà rinforzi da qualsiasi parte tranne che da Roma. Roma deve essere provinciale; anche se è l'unico posto al mondo che lo è. Roma deve essere barbarica; se tutti i barbari della terra sono chiamati a saccheggiare la [[City|città]].
 
 
 
@@ -15532,6 +15878,53 @@ Most of them by this [[Time|time]] cannot amuse themselves; they are too used
 to being amused.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lo spirito del Natale
+
+Ho intrapreso piuttosto temerariamente di scrivere dello Spirito del Natale;
+e presenta una difficoltà preliminare su cui devo essere sincero.
+Oggi la gente è molto curiosa nel modo in cui parla
+dello "spirito" di una cosa.  C'è, per esempio,
+un particolare tipo di presuntuoso che ci fa sempre la predica sul fatto di avere
+lo spirito del vero [[Christianity|cristianesimo]], a parte tutti i nomi e le forme.
+Per quanto posso capire, intende proprio il contrario di quello che dice.
+Intende che dobbiamo continuare ad usare i nomi "Cristiano"
+e "[[Christianity|cristianesimo]]", e così via, per qualcosa in cui è proprio
+lo spirito a non essere cristiano; qualcosa che è una sorta di
+combinazione dell'ottimismo infondato di un ateo americano
+con il pacifismo di un mite indù.  Allo stesso modo, leggiamo
+molto sullo Spirito del Natale nel giornalismo moderno
+o nel commercio; ma in realtà è una sorta di inversione dello stesso tipo.
+Lungi dal preservare l'essenziale senza le apparenze, si tratta piuttosto di
+preservare le apparenze dove non possono esserci gli elementi essenziali.
+Significa prendere due semplici sostanze materiali, come il vischio e l'agrifoglio,
+e spargerle dappertutto su enormi e senza fissa dimora hotel cosmopoliti
+o intorno alle colonne doriche di club impersonali pieni di vecchi signori
+jaded e cinici; o in qualsiasi altro posto dove lo spirito vero del Natale è meno probabile che sia.  Ma c'è anche
+un altro modo in cui la complessità commerciale moderna erode il cuore
+della cosa, lasciando intatta solo la sua crosta dipinta.
+E questo è il sistema molto elaborato di dipendenza dall'acquisto e dalla vendita,
+e quindi dal trambusto; e l'effettivo
+trascurare le nuove cose che potrebbero essere fatte con il vecchio Natale.
+
+Normalmente, se qualcosa fosse normale al giorno d'oggi, sembrerebbe un luogo comune dire che il Natale è stato una festa familiare. Ma ora è possibile (come ho avuto la fortuna o sfortuna di scoprire) guadagnarsi una reputazione per [[Paradox|paradosso]] semplicemente continuando a dire che i luoghi comuni sono veri. In questo caso, ovviamente, il motivo, l'unico motivo ragionevole, era religioso. Era legato a una famiglia felice perché consacrata alla Sacra Famiglia. Ma è perfettamente vero che molti uomini vedevano il fatto senza sentire particolarmente la ragione. Quando diciamo che la radice era religiosa, non intendiamo dire che [[Sam Weller]] fosse concentrato sui valori teologici quando disse al Ragazzo Grassottello di "mettere un po' di Natale" in qualche oggetto, probabilmente commestibile. Non intendiamo dire che il Ragazzo Grassottello sia entrato in trance di contemplazione mistica come un monaco che vede una visione. Non intendiamo nemmeno dire che [[Bob Cratchit]] difendesse la cioccolata calda dicendo che stava solo guardando il vino quando era giallo; o che [[Tiny Tim]] citasse Timoteo. Vogliamo solo dire che loro, incluso il loro autore, avrebbero confessato umilmente e sinceramente che c'era qualcuno storicamente assai anteriore a Mr. Scrooge, che si potrebbe chiamare il Fondatore della Festa. Ma in ogni caso, quale che fosse la ragione, tutti sarebbero stati d'accordo sul risultato. La festa di Mr. Wardle era incentrata sulla famiglia di Mr. Wardle; e non meno perché le ombre romantiche di Mr. Winkle e Mr. Snodgrass minacciavano di romperla per la formazione di altre famiglie.
+
+La stagione di Natale è domestica; e per questo motivo la maggior parte delle persone si prepara ad essa lottando negli autobus, stando in fila, correndo sui treni, affollandosi disperatamente nelle taverne chiedendosi quando o se riusciranno mai a tornare [[Home|a casa]]. Non so se alcuni di loro scompaiano per sempre nel reparto giocattoli o semplicemente si sdraino e muoiano nelle camere da tè; ma dal loro aspetto, è piuttosto probabile. Proprio prima della grande festa della [[Home|casa]] l'intera popolazione sembra essere diventata senza fissa dimora. È il trionfo supremo della civiltà industriale che, nelle enormi città che sembrano avere troppe case, c'è una sperduta carenza di alloggi. Per un lungo [[Time|periodo]] passato grandi numeri dei nostri poveri sono diventati praticamente nomadi. Confessiamo persino il fatto; perché parliamo di alcuni di loro come Arabi delle strade. Ma questa istituzione domestica, nella sua attuale fase ironica, è andata oltre tale normalità anormale. La festa della famiglia trasforma i ricchi così [[Well|come]] i poveri in vagabondi. Sono così sparsi nel labirinto sconcertante del nostro traffico e commercio che a volte non riescono nemmeno ad arrivare alla camere da tè; sarebbe indiscreto, naturalmente, menzionare la taverna. Hanno difficoltà a stiparsi nei loro hotel, figuriamoci a separarsi per raggiungere le loro case. Intendo dire l'esatto contrario dell'irriverenza quando dico che il loro unico punto di somiglianza con la famiglia archetipica del Natale è che non c'è posto per loro all'osteria.
+
+Ora il Natale è costruito su un bel e intenzionale [[Paradox|paradosso]];
+che la nascita del senzatetto debba essere celebrata in ogni [[Home|casa]].
+Ma l'altro tipo di [[Paradox|paradosso]] non è intenzionale ed è certamente
+non bello. È già abbastanza brutto che non possiamo del tutto
+disfare la [[Tragedy|tragedia]] della [[Poverty|povertà]].  È già abbastanza brutto che la nascita
+del senzatetto, celebrata presso il focolare e l'altare, a volte
+sincronizzi con la [[Death|morte]] del senzatetto negli ospizi e nelle baraccopoli.
+Ma non dobbiamo rallegrarci di questo universale inquietudine portato su
+ricchi e poveri allo stesso modo; e mi sembra che in questa materia abbiamo bisogno
+di una [[Reform|riforma]] del Natale moderno.
+
+Ecco ora un altro lampo brillante di [[Paradox|paradosso]], osservando che il Natale cade in [[Winter|inverno]].  Cioè, non è solo una festa dedicata alla vita domestica, ma è stata collocata appositamente nelle condizioni in cui è più scomodo correre di qua e di là e più naturale fermarsi a [[Home|casa]].  Ma sotto le complicate condizioni delle convenzioni e dei comfort moderni, nasce questo tipo di [[Paradox|paradosso]] molto più pratico e molto più spiacevole. Le persone devono correre di qua e di là per alcune settimane, anche solo per rimanere a [[Home|casa]] per qualche ora.  Ora l'idea vecchia e sana di tali feste d'[[Winter|inverno]] era questa: che le persone, chiuse dentro e assediate dal tempo, venivano costrette a fare affidamento sulle proprie risorse; o, in altre parole, avevano la possibilità di dimostrare se c'era qualcosa in loro.  Non è certo che la reputazione dei nostri più alla moda cercatori di piacere moderni sopravvivrebbe alla prova.  Si farebbero delle terribili rivelazioni su alcuni brillanti favoriti della società, se venissero tagliati fuori dalla possibilità di usare macchine e denaro. Sono abituati a far fare tutto per loro; e anche quando vanno alle ultime mode di balli americani, sembra che siano soprattutto i musicisti neri a [[Dance|ballare]].  Ma comunque, in media sulla sana umanità, credo che il taglio di tutte queste connessioni meccaniche avrebbe un effetto completamente vivificante e risvegliante. Attualmente sono sempre accusati di divertirsi soltanto; ma non stanno facendo nulla di così nobile o degno della loro dignità umana.  La maggior parte di loro a questa [[Time|ora]] non riesce più a divertirsi; sono troppo abituati ad essere intrattenuti.
+
 
 
 <span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_02" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 2)" data-chapter="THE SPIRIT OF CHRISTMAS" data-kind="excerpt"></span>
@@ -15619,3 +16012,13 @@ and one day when men seek for all that is buried in themselves,
 and discover, where she is indeed hidden, behind locked gates
 and shuttered windows, and doors thrice barred and bolted,
 the spirit of liberty.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Natale potrebbe essere creativo. Ci viene detto, anche da coloro che lo lodano di più, che è soprattutto prezioso per mantenere vive le antiche usanze o i giochi d'altri tempi. È davvero prezioso per entrambi questi ammirevoli scopi. Ma nel senso di cui sto parlando ora potrebbe essere possibile ribaltare nuovamente la [[Truth|verità]]. Non sono tanto le cose vecchie quanto quelle nuove che un vero Natale potrebbe creare. Potrebbe, per esempio, creare nuovi giochi, se le persone fossero davvero costrette a inventarli da sole. Molti dei più antichi giochi iniziarono con l'uso di semplici strumenti o mobili. Così i termini stessi del tennis furono fondati sulla struttura del vecchio cortile della locanda. Si dice che anche i paletti del cricket fossero originariamente solo le tre gambe dello sgabello per mungere. Ora potremmo inventare nuove cose di questo genere, se ricordassimo chi è la madre dell'invenzione. Quanto sarebbe piacevole iniziare un gioco in cui si segnasse tanto colpendo il portaparapiglio o il carrello della cena, o anche i padroni di casa; naturalmente con un proiettile di qualche materiale morbido.
+I bambini che hanno la fortuna di essere lasciati [[Alone|soli]] nella nursery inventano non solo interi giochi, ma intere drammi e storie della loro vita; inventano lingue segrete; creano famiglie immaginarie; si danno da fare con laboriose riviste familiari. Questo è il tipo di spirito creativo che vogliamo nel mondo moderno; lo vogliamo sia nel senso di desiderarlo che nel senso di mancarne.
+Se il Natale potesse diventare più domestico, invece che meno, credo che ci sarebbe un enorme aumento dello spirito natalizio autentico;
+lo spirito del [[Child|Bambino]]. Ma indulgendo a questo sogno dobbiamo ancora una volta ribaltare la convenzione corrente nella forma di un [[Paradox|paradosso]]. È vero in un certo senso che il Natale è il [[Time|tempo]] in cui le porte dovrebbero essere aperte. Ma io vorrei che a Natale, o almeno poco prima del Natale, le porte fossero chiuse; e allora il mondo vedrà cosa siamo capaci di fare.
+
+Non posso fare a meno di ricordare, con un certo sorriso, che su una pagina precedente e più controversa di questo libro ho menzionato una signora che rabbrividiva al pensiero delle cose perpetrate dai miei correligionari dietro porte chiuse. Ma il mio [[Memory|ricordo]] di ciò è ammorbidito dalla distanza e dall'argomento attuale, e mi sento tutto fuorché polemico. [[Hope|Spero]] che quella signora, e tutti i suoi modi di pensare, possano avere anche loro la saggezza di chiudere le loro porte; e scoprire che solo quando tutte le porte sono chiuse si troverà al loro interno la cosa migliore. Se sono Puritani, la cui religione è basata solo sulla [[Bible|Bibbia]], facciano sì che sia davvero una [[Bible|Bibbia]] di famiglia. Se sono Pagani, che non possono accettare nulla se non il banchetto invernale, facciano almeno in modo che sia un banchetto di famiglia. La discordia o il disagio lamentati dai critici moderni nella riunione di famiglia non sono dovuti al fatto che quel [[Fire|fuoco]] focale mistico sia stato lasciato acceso, ma al fatto che sia stato lasciato spegnersi. È perché frammenti freddi di una cosa un tempo viva sono goffamente ammassati insieme; questo non è un argomento contro il far vivere la cosa. I giocattoli di Natale sono appesi in modo incongruo davanti a zii pesanti e pagani che vorrebbero giocare a golf. Ma ciò non cambia il fatto che potrebbero diventare molto più brillanti e intelligenti se sapessero come giocare con i giocattoli; e sono orribili noiosi riguardo al golf. La loro ottusità è solo l'ultimo prodotto letale del progresso meccanico degli sport organizzati e professionali, in quel mondo rigido di routine fuori dalla [[Home|casa]]. Quando erano bambini, dietro porte chiuse nella [[Home|casa]], è probabile che quasi tutti avessero [[Dreams|sogni]] ad occhi aperti e drammi non scritti che appartenevano loro tanto quanto [[Hamlet|Amleto]] apparteneva a Shakespeare o [[Pickwick]] a Dickens. Quanto sarebbe più emozionante se lo zio Henry, invece di descrivere in dettaglio tutti i colpi con cui avrebbe dovuto uscire dalla buca, dicesse francamente che è stato in un viaggio fino alla fine del mondo e ha appena catturato il Grande Serpente Marino. Quanto sarebbe più veramente intellettuale la conversazione dello zio William se, invece di raccontarci a quale punto ha ridotto il suo handicap, potesse ancora dire con convinzione che è [[King|Re]] delle Isole del Canguro o Capo dei Pellirosse Rango Dango. Queste cose, proiettate dall'interno, erano in quasi tutti gli spiriti umani; e non è normale che l'ispirazione di esse sia così completamente schiacciata dalle cose esterne. Non si pensi neanche per un momento che anch'io sia tra i tiranni della terra, che imporrebbero i miei gusti o costringerebbero tutti gli altri bambini a giocare ai miei giochi. Non ho alcun dispetto per il gioco del golf; è un gioco ammirevole. Ho giocato; o meglio, ho giocato al golf, che generalmente è considerato l'opposto. Permettiamo pure ai golfisti di giocare a golf e anche agli organizzatori di organizzare, se la loro unica concezione di un organo è qualcosa come un organo a manovella. Che giochino a golf giorno dopo giorno; che giochino a golf per trecentosessantaquattro giorni e notti [[Well|altrettanto]], con palline immerse in vernice luminosa, da inseguire al buio. Ma che ci sia una [[Night|notte]] quando le cose diventano luminose dall'interno: e un giorno quando gli uomini cercano tutto ciò che è sepolto in loro stessi, e scoprono, dove è davvero nascosta, dietro porte chiuse a chiave e finestre oscurate, e porte triplamente sbarrate e assicurate, lo spirito della libertà.

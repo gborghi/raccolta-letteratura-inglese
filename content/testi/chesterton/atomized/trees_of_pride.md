@@ -3005,6 +3005,79 @@ The honest patronage in Vane's hospitality was something which made
 Paynter feel he was, after all, an [[Exile|exile]] in England.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"C'è una leggenda stupida", disse il signorotto Vane in tono burbero,
+"ma salga nel [[Garden|giardino]]; voglio presentarle mia figlia".
+
+Quando però raggiunsero il piccolo tavolo sotto l'albero,
+la giovane donna apparentemente immobile si era allontanata dopo tutto,
+e ci volle un po' di [[Time|tempo]] prima che la ritrovassero.
+Si era alzata, sebbene con languore, e aveva vagato lentamente lungo il sentiero superiore
+del [[Garden|giardino]] a terrazza guardando verso il basso sul sentiero inferiore dove si snodava più vicino alla massa principale del piccolo bosco accanto al mare.
+
+Il suo languore non era debolezza ma piuttosto una pienezza di vita,
+come quella di un [[Child|bambino]] mezzo sveglio; sembrava stiracchiarsi e godersi
+tutto senza notare nulla. Passò accanto al bosco, nella grigia
+confusione del quale un solo sentiero bianco scompariva in un buco nero.
+Lungo questa parte della terrazza correva qualcosa di simile a un basso bastione
+o ringhiera, avvolta da [[Flowers|fiori]] a intervalli; e lei si chinò
+sopra di essa, guardando giù verso un altro scorcio del mare che brillava dietro
+il gruppo di alberi, e su un altro sentiero irregolare che scendeva
+verso il molo e la casetta del barcaiolo sulla spiaggia.
+
+Mentre fissava con occhi assonnati, vide che una strana figura stava salendo il sentiero molto attivamente, apparentemente proveniente dalla casa del pescatore; così attivamente che un momento dopo uscì tra gli alberi e si fermò sul sentiero proprio sotto di lei. Non era solo una figura sconosciuta per lei, ma anche piuttosto strana in sé. Era quella di un uomo ancora giovane, e che sembrava in qualche modo più giovane dei suoi vestiti, i quali non erano solo logori ma antiquati; abiti comuni quanto a tessuto, ma indossati in maniera insolita. Indossava quello che presumibilmente era un impermeabile leggero, forse perché proveniva dal mare; ma era tenuto alla gola da un solo bottone e pendeva, maniche comprese, più come un mantello che come un cappotto. Si appoggiava una mano ossuta su un bastone nero; sotto l'[[Shadow|ombra]] del suo largo cappello i suoi capelli neri cadevano in ciuffi qua e là. Il suo volto, scuro ma piuttosto bello di per sé, aveva qualcosa che poteva essere un sorriso leggermente imbarazzato, ma sembrava troppo simile a una smorfia.
+
+Che quell'apparizione fosse un vagabondo o un intruso, oppure un amico di qualche pescatore o boscaiolo, Barbara Vane non era in grado di indovinare. L'uomo si tolse il cappello, sempre con quel suo sorriso immutato e piuttosto sinistro, e disse cortesemente: «Mi scusi. Il padrone mi ha chiesto di venire a farle visita». Qui vide Martin, il boscaiolo, che stava avanzando lungo il sentiero, diradando gli alberi già radi; e lo sconosciuto fece un saluto familiare con un dito.
+
+La ragazza non sapeva cosa dire. «Siete venuto... siete venuto per tagliare la legna?» chiese infine.
+
+«Vorrei essere un uomo così onesto», rispose lo sconosciuto.
+«Martin è, credo, un lontano cugino di mio; noi gente della Cornovaglia qui intorno siamo quasi tutti imparentati, sapete; ma io non taglio la legna. Non taglio nulla, tranne forse i capperi. Sono, per così dire, un giullare.»
+
+«Un cosa?» chiese Barbara.
+
+"Un menestrello, diciamo?" rispose il nuovo arrivato e la guardò più attentamente. Durante un piuttosto strano [[Silence|silenzio]] i loro occhi si posarono l'uno sull'altra. Quello che lei vide è già stato notato, anche se da parte sua, almeno, non fu affatto compreso. Quello che lui vide fu una donna decisamente bella con un volto statuario e capelli che brillavano al sole come un elmo di rame.
+
+«Sapete», continuò, «che in questo vecchio posto, centinaia di anni fa, un giullare potrebbe davvero essere stato dove sono io ora e una dama potrebbe davvero aver guardato oltre quel muro e gli avrebbe gettato dei soldi?»
+
+"Vuoi dei soldi?", chiese, completamente disorientata.
+
+«[[Well|Beh]],» disse lentamente lo sconosciuto «forse nel senso di non averne, ma temo che ora non ci sia posto per un menestrello, se non per un negro-menestrello. Devo scusarmi per non essermi nero in faccia.»
+
+Rise un po' nel suo smarrimento e disse: «[[Well|Beh]], non credo proprio che tu debba farlo».
+
+«Pensate che gli indigeni qui siano già abbastanza scuri», osservò con calma.
+«Dopotutto siamo noi i nativi e veniamo trattati come tali.»
+
+Lei lanciò qualche osservazione disperata sul tempo o sui paesaggi,
+e si chiese cosa sarebbe successo dopo.
+
+«Il panorama è certamente bello», acconsentì nello stesso modo enigmatico, «ma c'è una cosa sola che mi lascia perplesso».
+
+Mentre ella stava in [[Silence|silenzio]] egli sollevò lentamente il suo bastone nero come un lungo dito nero e lo puntò verso gli alberi pavonesi sopra la foresta. E una strana sensazione di disagio cadde sulla ragazza, come se con quel semplice gesto stesse compiendo un atto distruttivo e potesse mandare una maledizione sul [[Garden|giardino]].
+
+Il teso e quasi doloroso [[Silence|silenzio]] fu rotto dalla voce del Squire Vane,
+forte anche quando era ancora lontana.
+
+«Non riuscivamo a capire dove fossi finita, Barbara», disse.
+«Questo è il mio amico, il signor Cyprian Paynter».  Un attimo dopo
+vide lo sconosciuto e si fermò, un po' perplesso.  Fu solo
+il signor Cyprian Paynter stesso a essere all'altezza della situazione.
+Aveva visto mesi prima un ritratto del nuovo poeta di Cornovaglia su una
+rivista letteraria americana e si trovò, con sua sorpresa,
+a fare le presentazioni invece che ad esserne oggetto.
+
+«Ma, signor Squaiross,» disse con grande stupore «non conoscete il signor Treherne? Certo credevo che fosse un vicino di casa».
+
+«Sono felice di vederla, signor Treherne», disse il Squire,
+riprendendo i suoi modi con una certa confusione cordiale.
+«Sono così contento che sia potuto venire. Questo è il signor Paynter... mia figlia»,
+e, voltandosi con un certo imbarazzo esuberante, fece strada
+verso il tavolo sotto l'albero.
+
+Cyprian Paynter lo seguì, meditando interiormente su un enigma che aveva sorpreso persino la sua esperienza. L'americano, se intellettualmente era un [[aristocrat|aristocratico]], socialmente e inconsciamente rimaneva comunque un democratico. Non gli era mai passato per la mente che il poeta dovesse considerarsi fortunato di conoscere lo squires e non viceversa. La sincera protezione nell'ospitalità di Vane era qualcosa che faceva sentire Paynter, dopotutto, un [[Exile|esiliato]] in Inghilterra.
+
 
 
 <span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_04" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 4)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
@@ -3242,6 +3315,58 @@ gratifying her own curiosity.
 "I should probably surprise you," said Treherne gravely, "more by
 what I don't believe than by what I do."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Ex Africa», disse l'avvocato, sorridendo. «Proviene da un paese di cannibali. Penso che sia il tocco della vernice nera, quella sensazione [[nightmare|incubo]]sa di non sapere se l'[[Hero|eroe]] è una pianta o un uomo o un diavolo. Non la provi a volte in 'Zio Remus'?»
+
+"È vero," disse Paynter. "Assolutamente vero." E guardò l'avvocato con un nuovo interesse.
+L'avvocato, che era stato presentato come il signor Ashe, era una di quelle persone che meritano più attenzione di quanta la maggior parte della gente si renda conto quando le guarda. Se Napoleone fosse stato rosso di capelli e avesse concentrato tutti i suoi poteri con un curioso contentamento sulle piccole cause di una provincia, avrebbe potuto avere un aspetto molto simile; la testa dai capelli rossi era pesante e possente; la figura nei suoi abiti scuri e tranquilli era relativamente insignificante, come quella di Napoleone. Sembrava più a suo agio nella società del Squire rispetto al dottore, che, sebbene gentiluomo, era timido e una mera [[Shadow|ombra]] del fratello professionale.
+
+"Come giustamente diciate," osservò Paynter, "la storia sembra intessuta di elementi piuttosto barbarici, probabilmente neri. In origine, però, credo che ci fosse in realtà una storia agiografica su un eremita, anche se alcuni dei critici più accreditati sostengono che San Securis non sia mai esistito e fosse solo un'[[Allegory|allegoria]] dell'arboricoltura, dato che il suo nome è in latino "ascia".
+
+"Oh, se si arriva a questo punto," osservò il poeta Treherne, "si potrebbe [[Well|altrettanto]] bene dire che il signorotto Vane non esiste e che è solo un'[[Allegory|allegoria]] per una girandola." Qualcosa di troppo freddo in questa battuta fece corrugare le sopracciglia rosse dell'avvocato. Egli guardò attraverso il tavolo e incontrò il sorriso alquanto ambiguo del poeta.
+
+“Capisco bene, signor Treherne”, chiese Ashe, “che lei sostenga le pretese miracolose di San Securis in questo caso? Lei crede forse nei boschi ambulanti?”
+
+«Vedo gli uomini come alberi che camminano», rispose il poeta «come l'uomo guarito dalla cecità nel Vangelo. A proposito, capisco bene che lei sostenga le pretese miracolose di quel... taumaturgo?»
+
+Paynter intervenne con prontezza e cortesia: «Ora, questo sembra un affascinante pezzo di psicologia. Voi vedete gli uomini come alberi?»
+
+«Poiché non riesco a immaginare perché gli uomini dovrebbero camminare,
+non riesco a immaginare perché gli alberi non dovrebbero farlo» rispose Treherne.
+
+«Ovviamente è la [[Nature|natura]] dell'organismo», intervenne l'ospite medico, il dottor Burton Brown, «è necessaria nel tipo stesso di struttura vegetale.»
+
+"In altre parole, un albero resta fermo nel fango dalla fine di un anno alla fine dell'altro", rispose Treherne. "Così come voi rimanete nella vostra stanza di consultazione dalle dieci alle undici ogni giorno. E non credete che una fata, sbirciando per un attimo dalla [[Window|finestra]] dopo essere appena saltata sulla [[Moon|luna]] e aver giocato a siepe di more con le Pleiadi, penserebbe che voi siate una struttura vegetale, e che stare fermi sia la [[Nature|natura]] dell'organismo?"
+
+«Non credo negli spiritelli», disse il dottore con un certo rigido distacco, perché l'argumentum ad hominem stava diventando troppo frequente. Una sorda ira subconscia sembrava emanare dal poeta scuro.
+
+«[[Well|Beh]], spero di no, dottore», cominciò il Squire nel suo tono forte e amichevole, poi si fermò vedendo che l'attenzione dell'altro era catturata. Il silenzioso maggiordomo che serviva gli ospiti era apparso alle spalle della sedia del dottore e stava dicendo qualcosa nei toni bassi e uniformi del [[Well|bene]]-educato domestico. Era un esemplare così impeccabile di quel tipo da non far notare agli altri, almeno all'inizio, che anche lui ripeteva il ritratto scuro, per quanto verniciato, tanto comune in questa particolare famiglia di Celti Cornish. Il suo volto era giallastro e addirittura giallo, i capelli neri indaco. Si chiamava Miles. Alcuni si sentivano oppressi dal tipo tribale in questo piccolo angolo d'Inghilterra. Sentivano come se tutti quei volti scuri fossero le maschere di una società segreta.
+
+Il dottore si [[Rose|alzò]] con un mezzo scusa. "Devo chiedere perdono per aver disturbato questa piacevole compagnia; sono chiamato via dal dovere. Per favore, non fate muovere nessuno. Dobbiamo essere pronti a queste cose, sapete. Forse il signor Treherne ammetterà che le mie abitudini non sono così vegetali, dopotutto." Con questa frecciata partiana, alla quale ci fu qualche risatina, si allontanò molto rapidamente attraverso il prato soleggiato fino a dove la [[Road|strada]] scendeva verso il villaggio.
+
+«È molto buono tra i poveri», disse la ragazza con onorevole serietà.
+
+"Un brav'uomo", convenne il Squire. "Dov'è Miles? Vuole un sigaro,
+signor Treherne?" E si alzò da tavola; gli altri lo seguirono e il gruppo si disperse sul prato.
+
+«Uomo straordinario, Treherne», disse l'americano al legale in tono colloquiale.
+
+«“Rilevante è la parola”», acconsentì Ashe piuttosto severamente. «Ma non credo che farò alcuna osservazione su di lui».
+
+Il Squire, troppo impaziente per aspettare il Miles dal viso giallo, si era ritirato in casa per i sigari e Barbara si trovò ancora una volta accoppiata con il poeta mentre fluttuava lungo la terrazza del [[Garden|giardino]]; ma questa [[Time|volta]], abbastanza simbolicamente, sullo stesso livello di prato. Il signor Treherne sembrava meno eccentrico dopo essersi tolto il suo curioso mantello e appariva una figura più tranquilla e casuale.
+
+«Non intendevo essere scortese con te poco fa», disse bruscamente.
+
+"E questo è il peggio," rispose l'uomo di lettere, "perché ho una gran paura che io abbia voluto essere scortese con voi. Quando alzai lo sguardo e vi vidi lassù qualcosa mi salì dentro che era in tutte le rivoluzioni della [[history|storia]]. Oh, c'era anche ammirazione! Forse c'era idolatria in tutti gli iconoclasti."
+
+Sembrava avere il potere di arrivare a una conversazione piuttosto intima in un solo balzo silenzioso e felino, come aveva scalato la ripida [[Road|strada]], e questo le faceva sentire che era pericoloso, forse senza scrupoli. Cambiò bruscamente argomento, non senza un movimento verso il soddisfacimento della propria curiosità.
+
+"Cosa intendevi con tutto quel discorso sugli alberi che camminano?", chiese lei. "Non dirmi che credi davvero in un albero [[Magic|magico]] che mangia [[Birds|uccelli]]!".
+
+«Probabilmente vi sorprenderei», disse Treherne con serietà,
+«più per ciò in cui non credo che per ciò in cui credo».
 
 
 

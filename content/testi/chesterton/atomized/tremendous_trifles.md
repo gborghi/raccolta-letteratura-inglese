@@ -7531,6 +7531,77 @@ France has always been at the point of dissolution.
 She has found the only method of [[Immortality|immortality]].  She dies daily.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IX
+
+Nella Piazza della Bastiglia
+
+Il primo maggio ero seduto fuori da un caffè nella Place de la Bastille a [[Paris|Parigi]] fissando la colonna esultante, coronata con una figura caprioleggiante, che si erge nel luogo in cui il popolo distrusse una [[Prison|prigione]] e pose fine a un'epoca. La cosa è un curioso esempio di quanto sia simbolica la gran parte della [[history|storia]] umana. Per mero fatto materiale, la Bastiglia quando fu presa non era una terribile [[Prison|prigione]]; a malapena era una [[Prison|prigione]]. Ma era un simbolo, e il popolo agisce sempre con sicura istintività per i simboli; come nel caso del cinese alle ultime elezioni generali o del cappello del Presidente Kruger nelle precedenti. Il loro senso poetico è perfetto. Il cinese con la sua treccia non è una battuta frivola. Incarna con precisione compatta esattamente ciò che il popolo risente nella politica africana: l'[[Grotesque|grottesca]] [[Nature|natura]] aliena del potere della ricchezza, il fatto che i soldi non abbiano radici, che non siano un potere naturale e familiare ma una sorta di [[Magic|magia]] aerea e malvagia che evoca mostri dai confini della terra. Il popolo odia il proprietario delle miniere che può far volare un cinese dall'altra parte del mare esattamente come odiava lo stregone in grado di far apparire un drago volante nell'aria. Fu la stessa cosa con il cappello di Kruger. Il suo cappello (quell'amabile cappello) non era solo uno scherzo. Simboleggiava, e simboleggiava estremamente [[Well|bene]], esattamente ciò che in quel momento la nostra gente guardava con impazienza e veleno: la semplicità repubblicana vecchio stile e squallida, l'inelegante dignità del borghese e i pesanti luoghi comuni della [[morality|moralità]] politica. No; il popolo a volte sbaglia sul versante pratico della politica; non sbaglia mai su quello artistico.
+
+. . . . .
+
+Così fu certamente con la Bastiglia. La distruzione della Bastiglia non fu una [[Reform|riforma]]; fu qualcosa di più importante di una [[Reform|riforma]]. Fu un'iconoclastia; fu l'abbattimento di un'immagine scolpita nella pietra. Il popolo vedeva quell'edificio come un gigante che li fissava con venti occhi, e lo attaccò come se fosse una statua scolpita. Perché tra tutte le forme in cui quella immensa illusione chiamata materialismo può terrorizzare l'[[Soul|anima]], forse le più opprimenti sono i grandi edifici. L'uomo si sente come un moscerino, un incidente, nella cosa che ha lui stesso creato. Occorre uno sforzo violento dello spirito per ricordare che l'uomo ha fatto questa cosa confondente e che l'uomo potrebbe disfarla. Per questo il semplice atto del popolo stracciato in strada di prendere e distruggere un enorme edificio pubblico ha un significato spirituale, rituale, ben al di là dei suoi immediati risultati politici. È un servizio religioso. Se per esempio i socialisti fossero abbastanza numerosi o coraggiosi da catturare e distruggere la Banca d'Inghilterra, si potrebbe discutere all'infinito sull'inutilità dell'atto e su come in realtà non tocca la radice del problema economico nel modo corretto. Ma l'umanità non lo dimenticherebbe mai. Cambierebbe il mondo.
+
+L'architettura è un ottimo test della vera forza di una società,
+perché le cose più preziose in uno stato umano sono quelle irrevocabili:
+il [[Marriage|matrimonio]], per esempio.
+E l'architettura si avvicina più di qualsiasi altra arte
+all'essere irrevocabile, perché è così difficile sbarazzarsene.
+Puoi girare un quadro con la faccia contro il muro; sarebbe un
+fastidio girare quella [[Cathedral|cattedrale]] romana con la faccia contro il muro.
+Puoi strappare una poesia a pezzi; è solo in momenti di
+emozione molto sincera che si distrugge un municipio.
+Un edificio è affine al dogma; è insolente, come un dogma.
+Che sia o no permanente, rivendica la permanenza come un dogma.
+La gente chiede perché non abbiamo un'architettura tipica del mondo moderno,
+come l'impressionismo nella pittura.  Non è ovvio
+che è perché non abbiamo abbastanza dogmi; non riusciamo a sopportare di vedere
+qualcosa nel cielo che sia solido e duraturo, qualcosa nel
+cielo che non cambi come le nuvole del cielo.
+Ma insieme a questa decisione che implica la creazione di un edificio,
+ce n'è una del tutto simile nell'incarico più piacevole
+di distruggerlo.  Le due cose vanno necessariamente insieme.
+In pochi luoghi sono stati eretti tanti bei palazzi pubblici
+come qui a [[Paris|Parigi]], e in pochi luoghi ne sono stati distrutti tanti.
+Quando la gente ha finalmente preso l'orribile abitudine di conservare
+gli edifici, ha perso l'abitudine di costruirli.
+E a [[London|Londra]] ci si mescola, per così dire, le [[Tears|lacrime]] perché se ne demoliscono così pochi.
+
+. . . . .
+
+Mentre sedevo fissando la colonna della Bastiglia,
+dedicata alla Libertà e alla Gloria, da un angolo
+della piazza (che come tante altre del genere era al tempo stesso
+affollata e tranquilla) uscì una fila improvvisa e silenziosa di cavalieri.
+I loro abiti erano di un blu spento, semplici e prosaici,
+ma il sole accese a [[Fire|fuoco]] l'ottone e l'acciaio dei loro elmi;
+e i loro elmi erano intagliati come quelli dei Romani.
+Li avevo visti in coppia o in gruppi di tre abbastanza spesso prima d'allora.
+Ne avevo visto molti in immagini che faticavano tra le nevi
+di Friedland o ruggivano attorno alle piazze a Waterloo.
+Ma ora venivano fila dopo fila, come un'invasione,
+e qualcosa nel loro numero, o nella luce serale che illuminava
+i loro volti e i loro elmi, o qualcosa nella [[spring|reverie]]
+in cui si erano immersi, mi spinse ad alzarmi in piedi
+e gridare: "I soldati francesi!" Eccoli lì, gli uomini piccoli
+con i volti bruni che avevano così spesso cavalcato attraverso le capitali
+d'Europa con la stessa disinvoltura con cui ora cavalcavano nella loro.
+E quando guardai oltre la piazza vidi che gli altri due angoli
+erano intasati di blu e rosso; occupati da piccoli gruppi di fanteria.
+La [[City|città]] era guarnita come contro una rivoluzione.
+
+Naturalmente avevo sentito parlare dello sciopero, soprattutto da un fornaio.
+Disse che non avrebbe "Chomer". Gli chiesi: "Qu'est-ce que c'est que le chome?" Rispose: "Ils ne veulent pas travailler." Dissi: "Ni moi non plus," e lui pensò che fossi un proletario collettivista con coscienza di classe. Tutto ciò era curioso, e la vera morale della storia non è facile da cogliere per noi come nazione, perché i nostri stessi difetti sono così profondamente e pericolosamente nella direzione opposta.
+Per me, come inglese (personalmente immerso nell'ottimismo inglese e nel disprezzo inglese per la severità), tutta la faccenda sembrava un gran trambusto per nulla. Sembrava di schierare uno dei migliori eserciti d'Europa contro gente comune che cammina per strada.
+La cavalleria ci ha caricato una o due volte, più o meno inoffensivamente.
+Ma, naturalmente, è difficile dire fino a che punto in tali critiche si assume che il popolo francese sia (quando non lo è) altrettanto docile quanto quello inglese. Ma la [[Truth|verità]] più profonda della questione vibrava, per così dire, attraverso tutta quella rumorosa [[Night|notte]]. Questa gente ha
+una naturale capacità di sentirsi alla vigilia di qualcosa: del Massacro di San Bartolomeo o della Rivoluzione o della Comune o del Giorno del Giudizio.
+È questo senso di crisi che rende la Francia eternamente giovane.
+È in perpetuo smantellamento e ricostruzione, come quando abbatté la [[Prison|prigione]] e eresse il monumento nella Place de La Bastille.
+La Francia è sempre stata sull'orlo della dissoluzione.
+Ha trovato l'unico metodo di [[Immortality|immortalità]]. Muore ogni giorno.
+
 
 
 <span class="atom-split" data-atom="chapter_11" data-title="Tremendous Trifles — Chapter 10" data-chapter="Chapter 11" data-kind="chapter"></span>
@@ -8530,6 +8601,122 @@ aside her weddin' ring!"
 I stood and listened for more, but my friend went away.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XIII
+
+Il dickensiano
+
+Era un uomo tranquillo, vestito di scuro con un grande cappello di paglia stropicciato;
+c'era qualcosa di quasi militare nei suoi baffi e nelle basette,
+ma aveva una postura tutt'altro che militaresca e uno sguardo molto sognante.
+Stava fissando con interesse, seppur malinconico, il gruppo,
+si potrebbe dire l'intreccio, di piccole imbarcazioni che si facevano più fitte
+mentre la nostra barca da piacere avanzava lentamente verso il porto di Yarmouth.
+Una barca che entra in questo porto, come tutti sanno, non lo fa
+davanti alla città come un forestiero, ma gira intorno
+dietro di essa come un traditore che attacca la città alle spalle.
+Il passaggio del [[River|fiume]] sembra quasi troppo stretto per il traffico,
+e di conseguenza le navi più grandi appaiono colossali. Mentre passavamo
+sotto una [[Ship|nave]] di legno dalla Norvegia, che sembrava ostruire i cieli
+come una [[Cathedral|cattedrale]], l'uomo con il cappello di paglia indicò una strana figura di prua in legno
+scolpita a forma di donna e disse, come se stesse continuando
+una conversazione: "Perché hanno smesso di metterle?
+Non facevano del male a nessuno?".
+
+Risposi con una certa leggerezza che la moglie del capitano era gelosa;
+ma nel mio cuore sapevo che quell'uomo aveva colpito un tasto profondo.
+C'è stato qualcosa nella nostra civiltà più recente che è
+misteriosamente ostile a simboli così sani e umani.
+
+«Odiano tutto ciò che è umano e grazioso», continuò, ripetendo esattamente i miei pensieri. «Credo abbiano distrutto tutte le allegre vecchie teste di prua con gli ascia e si siano divertiti a farlo».
+
+«Come il signor Quilp», risposi «quando picchiò l'ammiraglio di legno con lo scacciamosche».
+
+Tutto il suo volto divenne improvvisamente vivo e per la prima [[Time|volta]] si erse in piedi e mi fissò.
+
+«Venite a Yarmouth per questo?» chiese.
+
+«A che scopo?»
+
+«Per Dickens», rispose e tamburellò con il piede sul ponte.
+
+«No», risposi io «vengo per divertimento, anche se è più o meno la stessa cosa».
+
+«Vengo sempre», rispose tranquillamente, «per trovare la barca di Peggotty.
+Non c'è.»
+
+E quando lo disse capii perfettamente cosa intendesse.
+
+Ci sono due Yarmouth: ne sono sicuro ci sono addirittura duecento per chi vi abita. Io stesso non ho mai finito di elencare tutte le Battersea. Ma ce ne sono due per lo straniero e il turista; la parte povera, che è dignitosa, e quella prospera, che è selvaggiamente volgare. Il mio nuovo amico frequentava la prima come un [[Ghost|fantasma]]; della seconda faceva solo vaghe allusioni.
+
+"Ora il posto è molto rovinato... sapete, i turisti",
+diceva senza disprezzo ma con semplice tristezza.
+Era l'unico accenno che faceva all'enorme località balneare
+che si estendeva lungo la costa, più luminosa del sole,
+più assordante del mare. Ma dietro, fuori portata
+di quel baccano, ci sono vicoli così stretti da sembrare
+ingressi segreti verso un luogo nascosto e tranquillo.
+Ci sono piazze così piene di [[Silence|silenzio]] che entrarvi è come tuffarsi in una pozza. In quei posti
+l'uomo ed io camminavamo avanti e indietro parlando di Dickens, o meglio,
+facendo ciò che fanno tutti i veri dickensiani: recitandoci a memoria lunghi passaggi
+che entrambi conoscevamo già molto [[Well|bene]]. Eravamo davvero nell'atmosfera dell'Inghilterra più antica.
+Ci superavano pescatori che avrebbero potuto [[Well|ben]] essere personaggi come Peggotty; entrammo in un negozio di curiosità polveroso e
+comprammo tampone per pipa intagliati a forma dei personaggi del [[Pickwick]]. La sera si stava abbattendo su tutti gli edifici
+con quel lento oro che sembra impregnare tutto quando entrammo in chiesa.
+
+Nell'oscurità crescente della chiesa, il mio sguardo si posò sulle vetrate colorate che in quella limpida sera dorata ardevano con tutta la passione e l'araldica più feroce ed estatica dell'arte cristiana. Alla fine dissi al mio compagno:
+
+«Vedi quell'angelo laggiù? Penso che debba rappresentare l'angelo al sepolcro.»
+
+Vide che ero in qualche modo singolarmente commosso e alzò le sopracciglia.
+
+«Probabilmente», disse «che cosa c'è di strano in questo?»
+
+Dopo una pausa dissi: «Ti ricordi cosa disse l'angelo al sepolcro?»
+
+«Non particolarmente», rispose; «ma dove stai andando così di fretta?»
+
+Lo feci uscire rapidamente dalla piazza silenziosa, passando per le case dei pescatori, verso la costa, mentre lui continuava a chiedermi indignato dove stessimo andando.
+
+«Vado» dissi «a mettere monetine nelle macchinette automatiche sulla spiaggia. Vado ad ascoltare i negri. Mi farò scattare una fotografia. Beviamo ginger-beer direttamente dalla bottiglia originale. Comprerò delle cartoline illustrate. Vorrei proprio un barcone. Sono pronto a sentire la concertina, e se non fosse per le lacune della mia [[Education|educazione]] sarei pronto anche a suonarla.
+Sono disposto a cavalcare un [[donkey|asino]]; cioè, se l'[[donkey|asino]] è d'accordo. Sono disposto a fare l'[[donkey|asino]]; perché tutto questo mi fu ordinato dall'angelo nella vetrata di [[Window|vetro]].»
+
+«In realtà penso», disse il dickensiano, «che sarebbe meglio affidare voi alle cure dei vostri parenti.»
+
+"Signore", risposi, "ci sono certi scrittori a cui l'umanità deve molto,
+il cui talento è però di un tipo così timido o delicato o retrospettivo che facciamo [[Well|bene]] ad associarlo con certi luoghi pittoreschi
+o certe associazioni in via di estinzione.  Non sarebbe innaturale
+cercare lo spirito di Horace Walpole a Strawberry [[Hill]],
+o anche l'ombra di Thackeray nella vecchia Kensington.
+Ma non dobbiamo essere antiquari con Dickens, perché Dickens
+non è un'antichità.  Dickens guarda non all'indietro, ma in avanti;
+potrebbe guardare le nostre folle moderne con [[Satire|satira]], o con furore,
+ma gli piacerebbe guardarle.  Potrebbe flagellare la nostra [[democracy|democrazia]],
+ma sarebbe perché, da democratico, ne chiedeva molto.
+Non vogliamo che tutti i suoi libri siano rilegati sotto il titolo
+di 'Il vecchio negozio di curiosità.'  Piuttosto li vorremmo
+tutti rilegati sotto il titolo di '[[Great Expectations|Grandi speranze]].'
+Ovunque ci sia l'umanità, lui vorrebbe che la affrontassimo e ne facessimo
+qualcosa, la [[Swallow|inghiottissimo]] con un santo cannibalismo,
+e la assimilassimo con la digestione di un gigante.
+Dobbiamo prendere questi turisti come li avrebbe presi lui,
+e strappare loro la loro [[Tragedy|tragedia]] e la loro commedia.
+Vi ricordate ora cosa disse l'angelo al sepolcro?
+'Perché cercate tra i morti colui che vive?  Non è qui;
+è risorto.'"
+
+Con ciò uscimmo improvvisamente sulla vasta distesa di sabbia,
+che era nera per i gruppi e le masse della nostra [[democracy|democrazia]] ridanciana e del tutto disperata. E il tramonto, che ora era nella sua gloria finale,
+getò lontano su tutti loro un rossore e uno scintillio come la gigantesca
+luce di fuoco di Dickens. In quella strana luce serale ogni figura
+sembrava allo stesso tempo [[Grotesque|grottesca]] e attraente, come se avesse una storia da raccontare.
+Sentii una bambina (che veniva soffocata da un'altra bambina)
+dire a mo' di giustificazione: "Mia cognata ha quattro anelli
+oltre all'anello nuziale!"
+
+Restai in piedi e ascoltai ancora, ma il mio amico se ne andò.
+
 
 
 <span class="atom-split" data-atom="chapter_15" data-title="Tremendous Trifles — Chapter 14" data-chapter="Chapter 15" data-kind="chapter"></span>
@@ -9518,6 +9705,133 @@ never heard of a red angel.  But you have heard of a blue devil.
 That is exactly what I mean.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XVII
+
+L'Angelo Rosso
+
+Scopro che ci sono davvero esseri umani che pensano
+che le fiabe siano dannose per i bambini. Non parlo dell'uomo
+con la cravatta verde, perché non lo posso mai considerare veramente umano.
+Ma una signora mi ha scritto una lettera seria dicendo che le fiabe
+non dovrebbero essere insegnate ai bambini anche se sono vere.
+Dice che è crudele raccontare fiabe ai bambini, perché li spaventano. 
+Potreste altrettanto [[Well|bene]] dire che è crudele dare alle ragazze romanzi sentimentali perché le fanno piangere.
+Tutto questo genere di discorsi si basa su quel completo dimenticare
+di cosa sia fatto un [[Child|bambino]], che è stata la solida base
+di così tanti piani educativi. Se tenete lontani dai bambini i mostri e gli gnomi,
+se li inventeranno da soli.
+Un piccolo [[Child|bambino]] al buio può inventare più inferni di Swedenborg.
+Un piccolo [[Child|bambino]] può immaginare mostri troppo grandi e neri
+per entrare in qualsiasi quadro, e dare loro nomi troppo ultraterreni
+e cacofonici per essere mai usciti dalle grida di un pazzo.
+Il [[Child|bambino]], innanzitutto, di solito ama gli orrori, e continua a concederseli anche quando non li ama più.
+C'è esattamente la stessa difficoltà nel dire dove inizi il puro
+[[Pain|dolore]] nel suo caso, come c'è nel nostro quando camminiamo di nostra
+libera volontà nella camera della tortura di una grande [[Tragedy|tragedia]].
+La [[Fear|paura]] non viene dalle fiabe; la [[Fear|paura]] viene dall'
+universo dell'[[Soul|anima]].
+
+. . . . .
+
+La timidezza del [[Child|bambino]] o dello sciamano è assolutamente ragionevole;
+sono allarmati da questo mondo, perché questo mondo è un luogo molto
+allarmante. Non amano stare [[Alone|soli]] perché è veramente
+un'idea terribile essere [[Alone|solitari]]. I barbari [[Fear|temono]]
+l'ignoto per la stessa ragione per cui gli agnostici lo adorano:
+perché è un fatto. Le fiabe, quindi, non sono responsabili
+di produrre nei bambini la [[Fear|paura]], o alcuna delle forme della [[Fear|paura]];
+le fiabe non danno al [[Child|bambino]] l'idea del male o dell'orrido;
+questa è già nel [[Child|bambino]] perché è già nel mondo.
+Le fiabe non danno al [[Child|bambino]] la sua prima idea di spauracchio.
+Ciò che le fiabe danno al [[Child|bambino]] è la sua prima chiara idea
+della possibile sconfitta dello spauracchio. Il bambino ha conosciuto
+il drago intimamente fin da quando aveva un'[[Imagination|immaginazione]].
+Ciò che la fiaba gli fornisce è un San Giorgio per
+uccidere il drago.
+
+Esattamente quello che fa la fiaba è questo: abitua lui,
+con una serie di immagini chiare, all'idea che queste terrors illimitate abbiano un limite, che questi nemici senza forma abbiano dei nemici nei cavalieri di Dio, che ci sia qualcosa nell'universo più mistico del buio e più forte della [[Fear|paura]].
+Quando ero un [[Child|bambino]] ho fissato il buio fino a quando l'intera massa nera si è trasformata in un gigante negro alto quanto il cielo.
+Se c'era una stella nel cielo, lo rendeva solo un Ciclope.
+Ma le fiabe hanno ristabilito la mia salute mentale, perché il giorno dopo ho letto
+un resoconto autentico di come un gigante negro con un occhio, di dimensioni del tutto uguali, fosse stato sconfitto da un ragazzino come me
+(di esperienza simile e persino di status sociale più basso)
+con l'aiuto di una [[Sword|spada]], alcuni indovinelli difficili e un cuore coraggioso.
+A volte il mare di [[Night|notte]] sembrava tanto terribile quanto qualsiasi drago.
+Ma poi ho conosciuto molti figli minori e piccoli
+marinai per i quali un drago o due erano semplici come il mare.
+
+Prendete la più orribile delle fiabe dei Grimm per episodi e immagini,
+la squisita storia del "Ragazzo che non sapeva cosa fosse il brivido", e capirete
+cosa intendo. In quella storia ci sono alcuni colpi di scena vividi.
+Mi ricordo in particolare le gambe di un uomo che caddero giù per la [[Water|canna fumaria]]
+da sole, e si misero a camminare per la stanza finché non furono raggiunte
+dalla testa e dal [[Body|corpo]] mozzati che caddero dalla stessa canna fumaria dopo di loro.
+È molto ben fatto. Ma il punto della storia e il punto
+dei sentimenti del lettore non è che queste cose siano spaventose,
+ma il fatto, assai più sorprendente, che l'[[Hero|eroe]] non ne fosse spaventato.
+La cosa più terribile di tutte queste meraviglie terribili era la sua stessa mancanza
+di [[Fear|paura]]. Dava pacche sulle spalle ai fantasmi e chiedeva ai diavoli
+di bere vino con lui; molte [[Time|volte]] nella mia giovinezza, quando soffocato da qualche
+malattia moderna, ho pregato per avere una [[Double|doppia]] dose del suo spirito.
+Se non avete letto la fine della sua storia, andate a leggerla;
+è la cosa più saggia del mondo. L'[[Hero|eroe]] imparò infine
+a provare brivido prendendosi una moglie che gli versò un secchio di [[Water|acqua]]
+fredda addosso. In quella sola frase c'è più vero significato del [[Marriage|matrimonio]]
+che in tutti i libri sul sesso che coprono l'Europa e l'[[america|America]].
+
+. . . . .
+
+Ai quattro angoli del letto di un [[Child|bambino]] stanno Perseo e Orlando, Sigurd e San Giorgio.
+Se ritirate la guardia degli eroi non lo state rendendo razionale; lo lasciate solo a combattere i demoni [[Alone|da solo]]. I demoni,
+purtroppo, li abbiamo sempre creduti. L'elemento di speranza nell'universo è stato negato e riaffermato continuamente nei tempi moderni;
+ma l'elemento disperato non è mai stato negato neanche per un momento.
+Come ho detto a "H. N. B." (che saluto augurandogli un Buon Natale nel suo senso più superstizioso), la sola cosa in cui le persone moderne credono davvero
+è la dannazione. Il più grande dei poeti puramente moderni ha riassunto l'atteggiamento veramente moderno in quella bella linea Agnostica:
+
+"Potrebbe esserci il Cielo; deve esserci l'Inferno".
+
+La visione cupa dell'universo è stata una tradizione continua; e i nuovi tipi di indagine o congettura spirituale cominciano tutti col essere cupi. Un po' di tempo fa gli uomini non credevano negli spiriti. Ora stanno iniziando, piuttosto lentamente, a credere in spiriti piuttosto lenti.
+
+. . . . .
+
+Alcuni obiettavano allo spiritismo, ai colpi sul tavolo e a cose del genere,
+perché erano indecorosi, perché i [[Ghosts|fantasmi]] facevano battute o
+ballavano il valzer con i tavoli da pranzo. Io non condivido affatto questa obiezione.
+Vorrei che gli spiriti fossero più grotteschi di quanto siano.  Che facciano più battute e migliori,
+sarebbe la mia proposta.
+Perché quasi tutto lo spiritismo del nostro [[Time|tempo]], nella misura in cui è nuovo,
+è solenne e triste. Alcuni dei dèi pagani erano senza legge, alcuni
+dei santi cristiani erano un po' troppo seri; ma gli spiriti dello spiritualismo moderno
+sono sia senza legge che seri--una combinazione disgustosa.  Gli spiriti
+particolarmente contemporanei non sono solo diavoli, sono diavoli neri.
+Questo è, in primo e ultimo luogo, il vero valore del Natale; nella misura
+in cui la mitologia rimane tale, essa è una specie di mitologia felice.
+Personalmente, ovviamente, credo nel Babbo Natale; ma è la stagione
+del [[Forgiveness|perdono]], e perdonerò agli altri se non fanno lo stesso.
+Ma se c'è qualcuno che non comprende il difetto del nostro
+mondo che io sto civilizzando, gli consiglierei, per esempio,
+di leggere una storia di Henry James intitolata "Il giro di vite."
+È una delle cose più potenti mai scritte e è una
+delle cose su cui [[Doubt|dubito]] maggiormente se sarebbe dovuta essere
+scritta affatto.  Descrive due bambini [[Innocent|innocenti]] che gradualmente
+diventano onniscienti e mezzo scemi sotto l'influenza dei
+foul [[Ghosts|fantasmi]] di un stalliere e una governante. Come dicevo, io [[Doubt|dubito]] se
+Henry James avrebbe dovuto pubblicarla (no, non è indecente,
+non compratela; è una questione spirituale), ma trovo la questione
+tanto dubbiosa che darò a quell'uomo veramente grande un'occasione.
+Approverò la cosa tanto quanto l'ammiro se scriverà
+un altro racconto altrettanto potente su due bambini e Babbo Natale.
+Se non lo farà, o non può, allora la conclusione è chiara; possiamo
+affrontare con forza il mistero cupo, ma non quello felice;
+non siamo razionalisti, ma diavolisti.
+
+. . . . .
+
+Ho pensato vagamente a tutto questo fissando un grande [[Fire|fuoco]] rosso che si erge nella stanza come un grande angelo rosso. Ma forse non avete mai sentito parlare di un angelo rosso. Ma avrete sentito parlare del diavolo blu. È esattamente quello che intendo.
+
 
 
 <span class="atom-split" data-atom="chapter_19" data-title="Tremendous Trifles — Chapter 18" data-chapter="Chapter 19" data-kind="chapter"></span>
@@ -9650,6 +9964,44 @@ I would give them the greater attention if I were not pretty
 [[Well|well]] convinced that the theories will have disappeared a long
 [[Time|time]] before the Belfry.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XVIII
+
+La Torre
+
+Mi sono fermato dove tutti si sono fermati, di fronte alla grande Torre del Campanile di Bruges, e ho pensato, come tutti hanno pensato (anche se forse non detto), che è costruita in sfida a tutte le decenze dell'architettura. È fatta con una deliberata sproporzione per ottenere l'unico effetto sorprendente dell'altezza. È una chiesa su trampoli.
+Ma questo tipo di deformità [[Sublime|sublime]] è caratteristico di tutta la fantasia e l'energia di queste città fiamminghe. La Fiandra ha i paesaggi più piatti e prosaici, ma gli edifici più violenti ed eccessivi. Qui la [[Nature|Natura]] è domata; è la civiltà che è indomabile.
+Qui i campi sono piatti come una piazza lastricata; ma, d'altra parte, le strade e i tetti sono tumultuosi come una foresta in un grande [[Wind|vento]]. Le acque del bosco e del prato scorrono lisce e mansuete
+come se fossero nelle tubature dell'[[Water|acqua]] di [[London|Londra]]. Ma il pozzo parrocchiale è intagliato con tutte le creature uscite dal deserto.
+Parte di questo è vero, naturalmente, per tutta l'arte. Parliamo di [[Animals|animali]] selvaggi, ma l'animale più selvaggio è l'uomo. Ci sono suoni nella musica che sono più antichi e terribili del grido della bestia più strana alla [[Night|notte]]. E così anche ci sono edifici che sono informi nella loro forza,
+sembrando sollevarsi lentamente come mostri dal fango primordiale, e ci sono guglie che sembrano volare su improvvisamente come un uccello spaventato.
+
+. . . . .
+
+Questa ferocia anche nella pietra è l'espressione dello spirito speciale dell'umanità. Tutte le bestie dei campi sono rispettabili; solo l'uomo si è scatenato. Tutti gli [[Animals|animali]] sono [[Animals|animali]] domestici; solo l'uomo non lo è mai. Tutti gli [[Animals|animali]] sono [[Animals|animali]] addomesticati; solo noi siamo selvaggi. E senza dubbio, anche se questa strana energia è comune a tutta l'arte umana, essa caratterizza in genere anche l'arte cristiana tra le arti del mondo. Questo è ciò che la gente intende davvero quando dice che il [[Christianity|cristianesimo]] è barbarico e nato nell'ignoranza. Come fatto storico, non lo è; nacque nel periodo più equamente civilizzato che il mondo abbia mai visto.
+
+Ma è vero che c'è qualcosa in essa che rompe il contorno della [[Beauty|bellezza]] perfetta e convenzionale, qualcosa che punteggia di rabbia gli occhi ciechi dell'[[Apollo]] e incita a una carica di cavalleria i cavalli dei Marmi Elgin. Il [[Christianity|cristianesimo]] è selvaggio, nel senso che è primordiale; in esso c'è un tocco dell'[[Hymn|inno]] del negro. Ricordo una [[debate|discussione]] in cui avevo lodato la musica militante nei rituali, e qualcuno mi ha chiesto se potessi immaginare il [[Christ|Cristo]] che cammina per strada davanti a un'orchestra di ottoni. Ho detto che potevo immaginarlo con la massima facilità; perché il [[Christ|Cristo]] approvava decisamente una naturale rumorosità in un grande momento. Quando i bambini delle strade gridavano troppo forte, certi discepoli pedanti cominciavano a rimproverarli in nome del buon gusto. Egli disse: "Se questi taceranno, le pietre stesse grideranno". Con queste parole Egli evocò tutta la ricchezza della creazione artistica che è stata fondata su questo credo. Con quelle parole fondò l'architettura gotica. Perché in una città come questa, che sembra essere cresciuta gotica come un bosco fa crescere le [[Leaves|foglie]], ovunque e comunque, qualsiasi mattonella o modanatura può essere scolpita in un volto urlante. La facciata di vasti edifici è affollata di bocche aperte, angeli che lodano Dio, o diavoli che Lo sfidano. Anche la roccia stessa viene contorta e torturata, fino a sembrare che gridi. Il miracolo è compiuto; le pietre stesse grideranno.
+
+Ma sebbene questa furiosa fantasia sia certamente una specialità degli uomini tra le creature e dell'arte cristiana tra le arti, è ancora più notevole nell'arte dei Paesi Bassi. Tutti gli edifici gotici sono pieni di cose stravaganti nei dettagli; ma questa è una cosa stravagante nel disegno. Tutti i templi cristiani degni di nota hanno [[gargoyles|gargouille]]; ma il Campanile di Bruges è una gargouille. È un animale dal collo innaturalmente lungo, come una giraffa. La stessa impressione di esagerazione viene imposta alla mente ad ogni angolo di una città fiamminga. E se qualcuno chiede: "Perché le persone di questi paesi piatti hanno istintivamente eretto questi monumenti tumultuosi e torreggianti?" l'unica risposta che si può dare è: "Perché erano le persone di questi paesi piatti." Se qualcuno chiede: "Perché gli uomini di Bruges hanno sacrificato l'architettura e tutto al senso delle altezze vertiginose e divine?" possiamo solo rispondere: "Perché [[Nature|Natura]] non li ha incoraggiati a farlo."
+
+. . . . .
+
+Mentre fisso il campanile, penso con una specie di sorriso ad alcuni dei miei amici a [[London|Londra]] che sono assolutamente sicuri di come i bambini si svilupperanno se gli si dà quello che chiamano "l'ambiente giusto".
+È una cosa complicata, l'ambiente, perché a volte funziona in modo positivo e a volte negativo, e più spesso tra i due.
+Un ambiente bello può far sì che un [[Child|bambino]] [[Love|ami]] la [[Beauty|bellezza]];
+può renderlo annoiato dalla [[Beauty|bellezza]]; molto probabilmente i due effetti
+si mescoleranno e si neutralizzeranno a vicenda.  Molto probabilmente,
+l'ambiente non farà quasi alcuna differenza.
+Nello stile scientifico della [[history|storia]] (che era di moda di recente, ed è ancora convenzionale) avevamo sempre un elenco di paesi
+che dovevano le loro caratteristiche alle loro condizioni fisiche.
+
+Si dice che gli spagnoli siano appassionati perché il loro paese è caldo; i scandinavi avventurosi perché il loro paese è freddo; gli inglesi marinari perché sono isolani; i svizzeri liberi perché sono montanari. È tutto molto bello a modo suo. Solo che, purtroppo, sono sicurissimo di poter fare una lista altrettanto lunga con argomentazioni esattamente opposte e in aperto contrasto con l'influenza del loro ambiente geografico.
+Così gli spagnoli hanno scoperto più continenti dei scandinavi perché il loro clima caldo li scoraggiava dall'impegnarsi. Così gli olandesi hanno combattuto per la loro [[Freedom|libertà]] con altrettanto coraggio quanto i svizzeri, perché gli olandesi non hanno [[Mountains|montagne]]. Così la Grecia e Roma pagane e molti popoli del Mediterraneo hanno particolarmente odiato il mare proprio perché avevano a che fare col più bel mare possibile, il mare più facile da gestire. Potrei allungare la lista all'infinito.
+Ma per quanto lunga fosse, due esempi vi spiccherebbero certamente come preminenti e indiscutibili. Il primo è che gli svizzeri, che vivono sotto precipizi sbalorditivi e guglie di [[Snow|neve]] eterna, non hanno prodotto alcuna arte o letteratura ed sono di gran lunga il popolo più mondano, sensato e pratico d'Europa. L'altro è che i belgi, che vivono in un paese come un tappeto, per una forza interiore hanno voluto innalzare le loro torri fino a sfiorare le [[Stars|stelle]].
+
+Poiché è quindi piuttosto dubbio che una persona si metta appositamente dalla parte del suo ambiente o appositamente contro il suo ambiente, non posso consolarmi con il pensiero che le moderne discussioni sull'ambiente abbiano un grande valore pratico. Ma credo che non scriverò più su queste teorie moderne, ma continuerò a guardare il Campanile di Bruges. Ci presterei maggiore attenzione se non fossi [[Well|abbastanza]] convinto che le teorie saranno scomparse da un lungo [[Time|periodo]] prima del Campanile.
 
 
 
@@ -9810,6 +10162,136 @@ of English Krugers gave the same vote.  And thus Kruger was
 pulled down and the dark-faced men in the photograph reigned
 in his stead.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XIX
+
+Come ho incontrato il presidente
+
+Alcuni anni fa, quando c'era una piccola guerra in corso nel Sud Africa
+e un grande trambusto in Inghilterra, quando non era affatto così popolare
+e conveniente essere filo-boeri come lo è ora, ricordo di aver fatto
+un brillante suggerimento ai miei amici e alleati filo-boeri, che non fu,
+mi duole dirlo, accolto con la serietà che meritava.
+Suggerii che un gruppo di giovani devoti e nobili, compresi noi stessi,
+dovesse esprimere il nostro senso del pathos della sorte
+del Presidente e della Repubblica facendoci crescere barbe da Kruger sotto i nostri menti.
+Immaginavo quanto bruscamente questa decorazione avrebbe alterato l'aspetto
+di John Morley; quanto sarebbe stato sorprendente mentre emergeva dal
+mento di Lloyd-George. Ma i giovani, i miei amici,
+su cui insistetti più particolarmente, uomini il cui nome è in molti casi
+familiare ai lettori di questo giornale -- per esempio quello di Masterman,
+e Conrad Noel -- loro, sentivo, essendo giovani e belli,
+avrebbero reso ancora più giustizia alla barba da Kruger, e passeggiando
+per strada con quella non avrebbero potuto mancare di attirare l'attenzione.
+La barba sarebbe stata una sorta di contrapposizione al cappello di Rhodes.
+Una contrapposizione appropriata; perché il potere rhodesiano in Africa
+è solo una cosa esterna, messa sopra come un cappello;
+il potere e la tradizione olandese sono cose radicate e crescenti
+come una barba; l'abbiamo rasata, e sta ricrescendo.
+La barba da Kruger avrebbe rappresentato il [[Time|tempo]] e i processi naturali.
+Non puoi farti crescere la barba in un momento di passione.
+
+. . . . .
+
+Dopo aver fatto questa proposta ai miei amici mi affrettai ad uscire dalla città.
+Mi recai in un luogo del West Country dove poco dopo si svolse
+un'elezione, alla quale mi divertii molto facendo campagna per
+il candidato liberale. La cosa straordinaria fu che vinse.
+A volte rimango sveglio di [[Night|notte]] e medito su quel mistero;
+ma non dobbiamo soffermarci ora su questo. L'incidente piuttosto singolare
+che mi accadde allora, e che alcuni eventi recenti hanno
+richiamato alla mia memoria, avvenne mentre la campagna era ancora in corso.
+Era una giornata calda e azzurra, e il tiepido sole, che si posava ovunque
+sui cespugli alti e sulle colline basse, faceva sbocciare in un certo senso
+in un rigoglio denso quella qualità UMANA del paesaggio che,
+per quanto ne so, esiste solo in Inghilterra; quella sensazione come se
+gli arbusti e le strade fossero umani, e avessero gentilezza come gli uomini;
+come se l'albero fosse un buon gigante con una gamba di legno;
+come se la stessa linea delle palizzate fosse una fila di gnomi di buon umore.
+Da un lato della bianca, strisciante [[Road|strada]] si vedeva una bassa [[Hill|collina]]
+solo poco più alta del muro, dall'altro la terra
+scendeva in una valle che si apriva verso le Mendip Hills.
+La [[Road|strada]] era molto irregolare, perché ogni vera [[Road|strada]] inglese esiste
+per condurre uno a una [[Dance|danza]]; e cosa potrebbe essere più bella
+e benefica di una [[Dance|danza]]? A un brusco giro la imboccai
+su un basso edificio bianco, con porte scure e finestre oscurate da persiane,
+evidentemente non abitato e appena nel senso ordinario abitabile--
+una cosa più simile a una rimessa che a una [[house|casa]] di qualsiasi altro tipo.
+Reso ozioso dal caldo, mi fermai, e tirando fuori un pezzo di [[chalk|gesso]] rosso
+dalla tasca, iniziai a disegnare senza meta sulla porta sul retro--
+disegnando folletti e il signor Chamberlain, e infine l'idealista
+nazionalista con la barba alla Kruger. I materiali non permettevano
+di rendere delicatamente la sua nobile e nazionale espansione del volto (stoica eppure speranzosa,
+piena di [[Tears|lacrime]] per l'uomo, eppure con un elemento di [[Humour|umorismo]]); ma il cappello fu ben riuscito.
+Proprio mentre stavo aggiungendo i tocchi finali alla fantasia sul Kruger,
+rimasi paralizzato dal terrore. La porta nera,
+che non pensavo fosse altro che il coperchio di una scatola vuota,
+iniziò ad aprirsi lentamente, spinta dall'interno da una mano umana.
+Ed ecco che il Presidente Kruger stesso uscì alla luce del sole!
+
+Aveva lo sguardo un po' più mite di quello dei suoi ritratti,
+e non indossava quella sciarpa cerimoniale che solitamente,
+in tali immagini, gli pendeva sul corpo massiccio.
+Ma c'era il cappello che aveva riempito l'Impero di tanto allarme;
+c'erano i vestiti scuri e scomodi, c'era il volto pesante e potente;
+e soprattutto, c'era la barba di Kruger che avevo cercato di evocare
+(se mi è permesso usare questo verbo) sotto le sembianze del signor Masterman.
+Non so se avesse con sé l'ombrello o no, ero troppo scosso emotivamente
+per osservarlo; non aveva i leoni di pietra con sé, né la signora Kruger;
+e cosa facesse in quel capanno buio non riesco a immaginare,
+ma suppongo che stesse opprimendo un Outlander.
+
+Confesso di essere rimasto sorpreso nel incontrare il presidente Kruger
+in Somersetshire durante la guerra. Non avevo idea che si trovasse
+nei paraggi. Ma una sorpresa ancora più sconcertante mi attendeva.
+Il signor Kruger mi osservò per alcuni istanti con un occhio grigio dubbioso,
+e poi mi rivolse la parola con un forte accento del Somersetshire.
+Un curioso brivido freddo mi attraversò nel sentire quella voce inappropriata
+provenire da quella forma familiare. Era come se aveste incontrato un cinese,
+con codino e giacca gialla, e lui avesse cominciato a parlare scozzese.
+Ma il momento successivo, naturalmente, compresi la situazione.
+Avevamo molto sottovalutato i Boeri supponendo che l'[[Education|educazione]] boera
+fosse incompleta. Nel perseguire il suo spietato complotto contro la nostra isola [[Home|patria]],
+il terribile presidente aveva imparato non solo l'inglese, ma tutti i dialetti in un batter d'occhio per conquistare
+un mercante del Lancashire o sedurre un fuciliere di Northumberland.
+Nessun [[Doubt|dubbio]], se glielo avessi chiesto, questo robusto vecchio signore avrebbe potuto
+sputare fuori Sussex, Essex, Norfolk, Suffolk e così via,
+come le melodie in un organo a canne. Non potevo non [[Wonder|meravigliarmi]] se i nostri semplici,
+veri milionari tedeschi cedessero davanti a una scaltrezza così intrisa
+di cultura come questa.
+
+. . . . .
+
+E ora arrivo alla terza e più grande sorpresa di tutte quelle che questo strano vecchio mi ha dato.
+Quando mi chiese, abbastanza asciutto, ma non senza una certa costante cortesia tipica della gente del paese all'antica,
+cosa volessi e cosa stessi facendo, gli esposi i fatti del caso,
+spiegandogli la mia missione politica e le qualità quasi angeliche
+del candidato liberale.  A quel punto, questo vecchio si trasformò improvvisamente alla luce del sole in un diavolo d'ira.
+Ci volle qualche [[Time|tempo]] prima che potessi capire una parola di quello che diceva,
+ma la parola che continuava a ripetersi era "Kruger",
+e veniva immancabilmente accompagnata da una raffica di termini violenti.
+Ero forse per il vecchio Kruger, ero?  Venivo da lui e volevo che mi aiutasse
+il vecchio Kruger?  Avrei dovuto vergognarmi, lo ero... e qui divenne nuovamente oscuro. 
+L'unica cosa che rese chiarissima fu che non avrebbe fatto nulla per Kruger.
+
+«Ma voi siete Kruger», mi sfuggì dalle labbra, in un'esplosione naturale di ragionevolezza. «Voi siete Kruger, vero?»
+
+Dopo questo mio [[Innocent|innocente]] grido del cuore, pensai dapprima che ci sarebbe stata una rissa e ricordai con rammarico che il Presidente in gioventù aveva avuto l'abitudine di uccidere leoni. Ma in realtà cominciai a pensare che mi fossi sbagliato e che non fosse affatto il Presidente. C'era una sincerità sconcertante nella rabbia con cui dichiarava di essere il contadino Bowles, e tutti lo sapevano. Alla fine lo calmai e ci separammo alla porta della sua fattoria, dove mi lasciò con qualche parola di religione, che sollevò nuovamente i miei sospetti sulla sua [[Identity|identità]]. Nella sala da tè a cui tornai c'era un giornale illustrato con una foto del Presidente Kruger, e lui e il contadino Bowles erano simili come due gocce d'acqua. C'era anche la foto di un gruppo di leader stranieri, e i loro volti, beffardi e trionfanti, forse erano stati oscurati in modo eccessivo dalla fotografia, ma mi sembravano i volti di un popolo lontano e ostile.
+
+Rividi il vecchio quella [[Night|notte]] burrascosa del voto,
+quando sfrecciò lungo le nostre linee liberali su un carretto in fiamme
+con i nastri blu dei conservatori, perché era un uomo che portava ovunque i suoi colori. Era sera e la calda luce occidentale illuminava i capelli grigi e i tratti massicci di quel buon vecchio.
+Sapevo come si sa una verità sensata che se broker spagnoli e tedeschi avessero invaso la sua fattoria o il suo paese
+li avrebbe combattuti per sempre, non con ferocia da irlandese,
+ma con il coraggio ponderoso [[Courage|coraggio]] e l'astuzia pesante del Boer.
+Sapevo che era così senza vederlo, tanto quanto sapevo senza averlo visto
+che quando entrò nella cabina elettorale mise la sua [[Cross|croce]] accanto al nome conservatore. Poi uscì di nuovo,
+avendo espresso il suo voto e assomigliando più che mai a Kruger.
+E alla stessa ora, nello stesso [[Night|night]], migliaia e migliaia
+di inglesi come Kruger diedero lo stesso voto. E così Kruger fu
+abbattuto e gli uomini dal volto scuro nella fotografia regnarono al suo posto.
 
 
 
@@ -13281,6 +13763,147 @@ a mob to rise.
 
 "I understand it now," he cried, "you will never die."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXXVII
+
+Il negozio di [[Ghosts|fantasmi]]
+
+Quasi tutte le cose migliori e più preziose dell'universo si possono avere per mezzo penny.
+Faccio un'eccezione, naturalmente, per il sole, la [[Moon|luna]], la terra, gli uomini,
+le [[Stars|stelle]], i temporali e simili bagattelle. Si possono ottenere gratis.
+Faccio anche un'altra eccezione per una cosa che non mi è permesso menzionare in questo articolo
+e il cui prezzo minimo è di un penny mezzo. Ma il principio generale appare subito evidente.
+Nella strada dietro di me, ad esempio, si può fare un giro su un tram elettrico per mezzo penny.
+Essere su un tram elettrico equivale a essere su un [[Castle|castello]] volante in una fiaba.
+Si possono ottenere parecchie caramelle colorate per mezzo penny. Si può anche avere la possibilità
+di leggere questo articolo per mezzo penny; insieme, naturalmente, ad altre cose irrilevanti.
+
+Ma se volete vedere quale vasta e sconcertante varietà di cose preziose si possono ottenere per un mezzo penny l'una, dovreste fare come facevo io la [[Night|scorsa]] notte. Stavo incollando il naso contro il vetro di un negozio di giocattoli molto piccolo e debolmente illuminato in una delle strade più grigie e squallide di Battersea. Ma fioco come era quel quadrato di luce, era pieno (come mi disse una [[Child|bambina]]) di tutti i colori che Dio abbia mai creato. Quei giocattoli dei poveri erano come i bambini che li compravano; erano tutti sporchi, ma erano tutti luminosi. Per quanto mi riguarda, ritengo la luminosità più importante della pulizia; poiché la prima è dell'[[Soul|anima]], e la seconda del [[Body|corpo]]. Dovete scusarmi; sono un democratico; so di essere fuori moda nel mondo moderno.
+
+. . . . .
+
+Mentre guardavo quel palazzo di meraviglie pigmee, gli omnibus verdi,
+gli elefanti blu, le bambole nere e le arche di Noè rosse, devo essere caduto in una specie di trance innaturale.
+Quella vetrina illuminata divenne come il palcoscenico brillantemente illuminato
+quando si sta guardando una [[Comedy|commedia]] dai colori vivaci.
+Dimenticai le case grigie e la gente sudicia alle mie spalle, così come si dimenticano i corridoi bui e le folle indistinte in un teatro.
+Sembrava che gli oggetti dietro il vetro fossero piccoli non perché erano giocattoli, ma perché erano oggetti lontani.
+L'omnibus verde era davvero un omnibus verde, un omnibus verde di Bayswater,
+che passava attraverso qualche enorme [[Desert|deserto]] sulla sua solita strada per Bayswater.
+L'elefante blu non era più blu di vernice; era blu
+per la distanza. La bambola nera era davvero un negro in risalto contro
+il fogliame tropicale appassionato nella terra dove ogni erba è fiammeggiante
+e solo l'uomo è nero. L'arca di Noè rossa era davvero l'enorme
+[[Ship|nave]] della salvezza terrena che naviga sul mare gonfio di pioggia,
+rossa nella prima mattina di [[Hope|speranza]].
+
+Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di [[Sanity|sanità]] alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[Soul|anima]].
+
+Per scuotermi da questa sensazione pericolosa e sognante sono entrato nel negozio
+e ho cercato di comprare dei soldatini di legno.  L'uomo del negozio era molto vecchio
+e malandato, con i capelli bianchi confusi che gli coprivano la testa e metà
+del viso, capelli così sbalorditivamente bianchi da sembrare quasi artificiali.
+Eppure, sebbene fosse senile e persino malato, non c'era nulla di [[Suffering|sofferenza]]
+nei suoi occhi; sembrava piuttosto che stesse gradualmente addormentandosi
+in un [[Decay|declino]] non del tutto ostile.  Mi ha dato i soldatini di legno,
+ma quando ho posato il denaro lui all'inizio non sembrava vederlo;
+poi lo ha fissato debolmente, e poi l'ha spinto debolmente via.
+
+«No, no», disse vagamente. «Non l'ho mai fatto. Non l'ho mai fatto.
+Qui siamo piuttosto vecchio stile».
+
+«Non prendere denaro», risposi «mi sembra più una moda insolitamente nuova che antica.»
+
+«Non l'ho mai fatto», disse il vecchio, sbattendo le palpebre e soffiandosi il naso,
+«Ho sempre dato regali. Sono troppo vecchio per smettere».
+
+«Buon Dio!» dissi «Cosa vuoi dire? Ma potresti essere Babbo Natale».
+
+«Sono Babbo Natale», disse scusandosi e si soffiò di nuovo il naso.
+
+Le lampade non potevano essere ancora accese nella strada esterna.
+In ogni caso, non riuscivo a vedere nulla contro l'oscurità se non la [[Window|vetrina]] luminosa. Non c'erano suoni di passi o voci per la strada;
+avrei potuto vagare in un mondo nuovo e senza sole.
+Ma qualcosa aveva reciso i legami del senso comune, e non potevo
+provare nemmeno sorpresa se non con sonnolenza. Qualcosa mi fece dire:
+"Sembri malato, Babbo Natale."
+
+«Sto morendo», disse.
+
+Non parlai e fu lui a riprendere la parola.
+
+"Tutte le nuove persone hanno lasciato il mio negozio. Non riesco a capirlo.
+Sembra che questi scienziati e innovatori abbiano delle obiezioni nei miei confronti su basi così curiose e inconsistenti.
+Dicono che io dia alle persone superstizioni e le renda troppo visionarie;
+dicono che io dia loro salsicce e le renda troppo volgari.
+Dicono che le mie parti celesti sono troppo celesti; dicono che le mie parti terrene
+sono troppo terrene; non so cosa vogliono, di sicuro.
+Come possono le cose celesti essere troppo celesti o quelle terrene
+troppo terrene? Come si può essere troppo buoni o troppo allegri?
+Non capisco. Ma [[Well|capisco]] una cosa abbastanza bene.
+Queste persone moderne sono vive e io sono morto."
+
+"Sarai anche morto," risposi.  "Dovresti saperlo tu.
+Ma quanto a ciò che fanno loro, non chiamarlo vivere."
+
+. . . . .
+
+Cadde improvvisamente tra noi un [[Silence|silenzio]] che io in qualche modo mi aspettavo non sarebbe stato interrotto.
+Ma non era durato più di pochi secondi quando, nel completo silenzio, udii distintamente dei passi molto rapidi avvicinarsi lungo la strada.
+Un attimo dopo una figura si gettò dentro il negozio e rimase inquadrata nell'ingresso. Indossava un grande cappello bianco inclinato all'indietro come per impazienza; aveva stretti pantaloni neri vecchio stile, una cravatta vistosa di vecchio gusto e un panciotto, oltre a un fantastico abito d'altri tempi.
+Aveva grandi occhi spalancati e luminosi come quelli di un attore che colpisce l'attenzione; aveva un viso pallido ed esitante e una frangia di barba.
+Diede uno sguardo al negozio e al vecchio che sembrò letteralmente un lampo, e pronunciò un'esclamazione da uomo completamente sbigottito.
+
+"Santo cielo!" gridò; "non può essere lei!  Non è lei!
+Ero venuto a chiedere dov'era la sua [[Grave|tomba]]."
+
+"Non sono ancora morto, signor Dickens," disse il vecchio gentiluomo, con un
+debole sorriso; "ma sto morendo," si affrettò ad aggiungere per rassicurarlo.
+
+"Ma, diamine, lei stava morendo già ai miei [[Time|tempi]]," disse il signor Charles Dickens
+con vivacità; "e non è invecchiato di un giorno."
+
+"Mi sento così da molto [[Time|tempo]]," disse Babbo Natale.
+
+Il signor Dickens si voltò e sporse la testa dalla porta
+nel buio.
+
+"Dick," ruggì a squarciagola; "è ancora vivo."
+
+. . . . .
+
+Un'altra [[Shadow|ombra]] oscurò lo stipite della porta e un gentiluomo molto più grande e vigoroso con una parrucca enorme entrò, agitando il suo viso arrossato con un cappello militare alla moda di [[Queen|regina]] Anna.
+Teneva la testa ben ritratta come un soldato, e il suo volto accaldato aveva persino un'aria di arroganza che veniva improvvisamente contraddetta dai suoi occhi, che erano letteralmente umili come quelli di un cane. La sua [[Sword|spada]] fece molto rumore, come se il negozio fosse troppo piccolo per essa.
+
+"In verità," disse Sir [[Richard]] Steele, "è cosa quanto mai prodigiosa,
+giacché quell'uomo stava morendo quando scrissi di Sir Roger de Coverley
+e del suo giorno di Natale."
+
+I miei sensi si facevano più fiochi e la stanza più buia.
+Pareva riempirsi di nuovi venuti.
+
+"È sempre stato chiaro," disse un uomo robusto che portava la testa con umorismo e ostinazione leggermente piegata da una parte - credo fosse Ben Jonson - "è sempre stato chiaro, consule Jacobo, sotto il nostro [[King|Re]] Giacomo e sua defunta Maestà, che tali buone e cordiali usanze erano ammalate e destinate a scomparire dal mondo.
+Questa barba grigia non era certamente più vigorosa quando la conobbi di quanto lo sia ora."
+
+E mi parve anche di udire un uomo vestito di verde, come [[Robin Hood]],
+dire in un francese normanno un po' confuso: "Ma io vidi quell'uomo morire."
+
+"Mi sento così da molto [[Time|tempo]]," disse Babbo Natale,
+di nuovo nel suo modo fievole.
+
+Il signor Charles Dickens d'improvviso si sporse verso di lui.
+
+"Da quando?" chiese.  "Da quando è nato?"
+
+"Sì," disse il vecchio, e sprofondò tremante in una sedia.
+"Sono sempre stato morente."
+
+Il signor Dickens si tolse il cappello con un ampio gesto come chi chiama
+una folla a insorgere.
+
+«Ora capisco», esclamò «non morirai mai».
 
 
 

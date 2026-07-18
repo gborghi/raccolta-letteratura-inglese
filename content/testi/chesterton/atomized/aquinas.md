@@ -8799,6 +8799,67 @@ or mere practical assumptions; but things attested by the Authority
 of the Senses, which is from God.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VI
+
+L'approccio al tomismo
+
+Il fatto che il tomismo sia la [[philosophy|filosofia]] del senso comune è di per sé una questione di buon senso. Eppure richiede qualche spiegazione, perché abbiamo preso tali questioni in un senso molto insolito da troppo tempo. Per il bene o per il male, l'Europa dalla [[Reformation|Riforma]], e specialmente l'Inghilterra dalla [[Reformation|Riforma]], è stata in un senso peculiare la [[Home|casa]] del [[Paradox|paradosso]]. Intendo nel senso molto particolare che il [[Paradox|paradosso]] era a [[Home|casa]], e che gli uomini erano a [[Home|casa]] con esso. L'esempio più comune è l'orgoglio degli inglesi di essere pratici perché non sono logici. Per un antico greco o per un cinese, ciò sembrerebbe esattamente come dire che i commessi di [[London|Londra]] eccellono nel fare somme sui loro registri perché non sono precisi nell'aritmetica. Ma il punto non è che sia un [[Paradox|paradosso]]; è che il paradosso è diventato ortodossia; che gli uomini si riposano in un [[Paradox|paradosso]] con la stessa placidità di una banalità. Non è che l'uomo pratico cammini a testa in giù, cosa che può essere talvolta uno stimolante esercizio ginnico seppur sorprendente; è che si riposi sulla testa; e addirittura dorma sulla testa. Questo è un punto importante, perché l'uso del [[Paradox|paradosso]] è quello di svegliare la mente. Prendete un buon [[Paradox|paradosso]], come quello di [[Oliver]] Wendell Holmes: "Dateci i lussi della vita e ci passeremo delle necessità". È divertente e quindi attirante; ha un bel tono di sfida; contiene una vera sebbene romantica [[Truth|verità]]. Fa parte del gioco che sia formulato quasi come una contraddizione in termini. Ma la maggior parte della gente concorderebbe sul fatto che ci sarebbe un notevole pericolo nel basare l'intero sistema sociale sull'idea che le necessità non sono necessarie; così come alcuni hanno basato tutta la Costituzione britannica sull'idea che il nonsense alla fine si risolve sempre in senso comune. Eppure, anche qui, si potrebbe dire che l'esempio odioso si è diffuso, e che il moderno sistema industriale dice davvero: "Dateci i lussi come il sapone di catrame di carbone, e ci passeremo delle necessità come il grano".
+
+Tanto è familiare; ma ciò che non si realizza ancora nemmeno ora è che
+non solo la politica pratica, ma anche le filosofie astratte
+del mondo moderno hanno avuto questa strana torsione.  Da quando il mondo
+moderno iniziò nel sedicesimo secolo, il sistema di [[philosophy|filosofia]] di nessuno ha realmente corrisposto al senso della realtà di tutti:
+a ciò che, se lasciati a sé stessi, gli uomini comuni chiamerebbero buon senso.
+Ognuno è partito con un [[Paradox|paradosso]]:  un punto di vista peculiare che richiedeva
+il sacrificio di quello che avrebbero definito un punto di vista sano.
+Questa è l'unica cosa comune a Hobbes e Hegel, a Kant e Bergson,
+a Berkeley e William James.  Un uomo doveva credere in qualcosa
+in cui nessun uomo normale crederrebbe, se gli fosse stato proposto all'improvviso
+nella sua semplicità; come che la legge è al di sopra del diritto, o il diritto è al di fuori della ragione,
+o le cose sono solo come noi le pensiamo, o tutto è relativo
+a una realtà che non c'è.  Il filosofo moderno sostiene,
+come un certo tipo di truffatore, che se gli concedessimo questo,
+il resto sarebbe facile; sistemerà il mondo, se gli sarà permesso
+di dare questa torsione alla mente.
+
+Si capirà che in queste questioni parlo come un [[Fool|pazzo]];
+o, come direbbero i nostri cugini democratici, uno scemo; comunque come un uomo
+qualunque; e l'unico scopo di questo capitolo è dimostrare
+che la [[philosophy|filosofia]] tomista è più vicina della maggior parte delle filosofie alla
+mente dell'uomo qualunque. Non sono, come il Padre D'Arcy,
+cui l'ammiro per il libro su San Tommaso che mi ha illuminato su molti problemi,
+un filosofo preparato, esperto nella tecnica del mestiere.
+Ma [[Hope|spero]] che il Padre D'Arcy mi perdonerà se prendo un esempio
+dal suo libro, che illustra perfettamente ciò che intendo.  Lui, essendo un
+filosofo preparato, è naturalmente abituato a sopportare i filosofi.
+Inoltre, essendo un prete esperto, è naturalmente avvezzo non solo
+a soffrire volentieri gli stolti, ma (ciò che talvolta è ancora più difficile) a soffrire
+volentieri le persone intelligenti.  Soprattutto, la sua vasta conoscenza della metafisica
+lo ha reso paziente con le persone intelligenti quando si abbandonano alla follia.
+La conseguenza è che può scrivere con calma e persino con dolcezza
+frasi come queste.  "Si può individuare una certa somiglianza
+tra lo scopo e il metodo di San Tommaso e quelli di Hegel.
+Ci sono, tuttavia, anche notevoli differenze. Per San Tommaso è
+impossibile che le contraddizioni esistano insieme, e ancora
+realtà e intelligibilità corrispondono, ma una cosa deve prima essere,
+per essere intelligibile."
+
+Si può perdonare l'uomo della strada se aggiunge che la
+"differenza notevole" gli sembra essere che San Tommaso era sano di mente
+e Hegel pazzo. Lo scemo rifiuta di ammettere che Hegel possa sia esistere che non esistere; o che sia possibile capire Hegel, se non c'è un Hegel da capire. Eppure il Padre D'Arcy menziona questo [[Paradox|paradosso]] hegeliano come se fosse pane per i suoi denti;
+e naturalmente lo è, se il suo mestiere è leggere tutti i filosofi moderni
+con la stessa attenzione e simpatia con cui li ha letti lui.
+E questo è ciò che intendo quando dico che tutta la [[philosophy|filosofia]] moderna inizia
+con un ostacolo. Non sembra esagerato dire che c'è una contorsione nel sostenere che i contrari non sono incompatibili;
+o che una cosa possa "essere" intelligibile e nello stesso tempo non "essere" affatto.
+
+Contro tutto questo la [[philosophy|filosofia]] di San Tommaso si fonda sulla convinzione universale e comune che le uova sono uova.
+Il hegeliano può dire che un uovo è in realtà una gallina, perché fa parte di un processo infinito del Divenire; il berkeleiano può sostenere che le uova strapazzate esistono solo come esiste [[A Dream|un sogno]]; dato che è altrettanto facile chiamare il sogno la causa delle uova quanto le uova la causa del sogno;
+il pragmatico può credere di ottenere il meglio dalle uova strapazzate dimenticando che un tempo erano uova, e ricordandosi solo dello strapazzo. Ma nessun discepolo di San Tommaso ha bisogno di confondere le idee per friggere a dovere le sue uova; non deve mettere la testa in una posizione particolare guardando le uova, o strizzando gli occhi davanti alle uova,
+o chiudendo l'altro occhio per vedere una nuova semplificazione delle uova. Il tomista si trova nella piena luce del giorno della fratellanza degli uomini, nella loro comune consapevolezza che le uova non sono galline o [[Dreams|sogni]] o semplici ipotesi pratiche; ma cose attestate dall'Autorità dei Sensi, che proviene da Dio.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="St. Thomas Aquinas — Chapter 6 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>

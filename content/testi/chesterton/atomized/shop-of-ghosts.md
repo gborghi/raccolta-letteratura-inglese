@@ -327,6 +327,83 @@ not feel even surprise except sleepily.  Something made me say,
 I did not speak, and it was he who spoke again.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il negozio di [[Ghosts|fantasmi]]
+
+G. K. Chesterton
+
+La bottega dei [[Ghosts|fantasmi]] fu pubblicata per la prima volta sul Daily News di [[London|Londra]]. In seguito venne raccolta nel libro di saggi Tremendous Trifles.
+
+Quasi tutte le cose migliori e più preziose dell'universo si possono avere per mezzo penny.
+Faccio un'eccezione, naturalmente, per il sole, la [[Moon|luna]], la terra, gli uomini,
+le [[Stars|stelle]], i temporali e simili bagattelle. Si possono ottenere gratis.
+Faccio anche un'altra eccezione per una cosa che non mi è permesso menzionare in questo articolo
+e il cui prezzo minimo è di un penny mezzo. Ma il principio generale appare subito evidente.
+Nella strada dietro di me, ad esempio, si può fare un giro su un tram elettrico per mezzo penny.
+Essere su un tram elettrico equivale a essere su un [[Castle|castello]] volante in una fiaba.
+Si possono ottenere parecchie caramelle colorate per mezzo penny. Si può anche avere la possibilità
+di leggere questo articolo per mezzo penny; insieme, naturalmente, ad altre cose irrilevanti.
+
+Ma se volete vedere quale vasta e sconcertante varietà di cose preziose si possono ottenere al prezzo di mezzo penny l'una, dovreste fare come facevo io la [[Night|scorsa notte]].  Stavo incollando il naso contro il vetro di un negozio di giocattoli molto piccolo e debolmente illuminato in una delle strade più grigie e squallide di Battersea.  Ma fioco come era quel quadrato di luce, era pieno (come mi disse una [[Child|bambina]]) di tutti i colori che Dio abbia mai creato.  Quei giocattoli dei poveri erano come i bambini che li compravano; erano tutti sporchi; ma erano tutti luminosi.
+Per quanto mi riguarda, ritengo la luminosità più importante della pulizia;
+poiché la prima è dell'[[Soul|anima]], e la seconda del [[Body|corpo]].
+Dovete scusarmi; sono un democratico; so di essere fuori moda
+nel mondo moderno.
+
+Mentre guardavo quel palazzo di meraviglie pigmee, gli omnibus verdi,
+gli elefanti blu, le bambole nere e le arche di Noè rosse, devo essere caduto in una specie di trance innaturale.
+Quella vetrina illuminata divenne come il palcoscenico brillantemente illuminato
+quando si sta guardando una [[Comedy|commedia]] dai colori vivaci.
+Dimenticai le case grigie e la gente sudicia alle mie spalle, così come si
+dimenticano i corridoi bui e le folle indistinte in un teatro.
+Sembrava che gli oggetti dietro il vetro fossero piccoli,
+non perché erano giocattoli, ma perché erano oggetti lontani.
+L'omnibus verde era davvero un omnibus verde, un omnibus verde
+di Bayswater, che passava attraverso qualche enorme [[Desert|deserto]] sulla sua
+strada ordinaria verso Bayswater. L'elefante blu non era più
+blu di vernice; era blu per la distanza. La bambola nera
+era davvero un negro in risalto contro il fogliame tropicale appassionato
+nella terra dove ogni erba è fiammeggiante e solo l'uomo è nero.
+L'arca di Noè rossa era davvero la enorme [[Ship|nave]] della salvezza terrena
+che naviga sul mare gonfio di pioggia, rosso nella prima
+mattina di [[Hope|speranza]].
+
+Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di [[Sanity|sanità]] alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[Soul|anima]].
+
+Per scuotermi da questa sensazione pericolosa e sognante sono entrato nel negozio
+e ho cercato di comprare dei soldatini di legno.  L'uomo del negozio era molto vecchio
+e malandato, con i capelli bianchi confusi che gli coprivano la testa e metà
+del viso, capelli così sbalorditivamente bianchi da sembrare quasi artificiali.
+Eppure, sebbene fosse senile e persino malato, non c'era nulla di [[Suffering|sofferenza]]
+nei suoi occhi; sembrava piuttosto che stesse gradualmente addormentandosi
+in un [[Decay|declino]] non del tutto ostile.  Mi ha dato i soldatini di legno,
+ma quando ho posato il denaro lui all'inizio non sembrava vederlo;
+poi lo ha fissato debolmente, e poi l'ha spinto debolmente via.
+
+«No, no», disse vagamente. «Non l'ho mai fatto. Non l'ho mai fatto.
+Qui siamo piuttosto vecchio stile».
+
+«Non prendere denaro», risposi «mi sembra più una moda insolitamente nuova che antica.»
+
+«Non l'ho mai fatto», disse il vecchio, sbattendo le palpebre e soffiandosi il naso,
+«Ho sempre dato regali. Sono troppo vecchio per smettere».
+
+«Buon Dio!» dissi «Cosa vuoi dire? Ma potresti essere Babbo Natale».
+
+«Sono Babbo Natale», disse scusandosi e si soffiò di nuovo il naso.
+
+Le lampade non potevano essere ancora accese nella strada esterna.
+In ogni caso, non riuscivo a vedere nulla contro l'oscurità se non la [[Window|vetrina]] luminosa. Non c'erano suoni di passi o voci per la strada;
+avrei potuto vagare in un mondo nuovo e senza sole.
+Ma qualcosa aveva reciso i legami del senso comune, e non potevo
+provare nemmeno sorpresa se non con sonnolenza. Qualcosa mi fece dire:
+"Sembri malato, Babbo Natale."
+
+«Sto morendo», disse.
+
+Non parlai e fu lui a riprendere la parola.
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="shop-of-ghosts (part 2)" data-chapter="part 02" data-kind="excerpt"></span>

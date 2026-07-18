@@ -10180,7 +10180,7 @@ ma si annoiava con la [[history|storia]]; specialmente l'antica [[history|storia
 Non gliene faccio una colpa; mi domando solo perché un uomo annoiato
 dalla [[history|storia]] dovrebbe prendersi infinita briga per visitare i luoghi storici.
 Era palesemente uno di quelli che pensano che tutte quelle cose siano accadute
-tanto tempo fa che non possono fare molta differenza ora.
+tanto [[Time|tempo]] fa che non possono fare molta differenza ora.
 Ma mi era improvvisamente venuto in mente che questo esempio piuttosto remoto
 potesse davvero, forse, fare una grande differenza adesso.
 Ho cercato di dirglielo; e deve essersi fatto l'impressione

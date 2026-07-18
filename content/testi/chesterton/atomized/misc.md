@@ -5330,6 +5330,86 @@ and whether the hurting of moral as of material nerves is a tocsin
 and a warning of [[Nature|nature]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LA SUFFRAGISTA
+
+Giustamente o non giustamente, è certo che un uomo sia liberale che cavalleresco può e spesso sente una sensazione di disagio e diffidenza verso quelle donne politiche che chiamiamo suffragette. Come la maggior parte dei sentimenti popolari, generalmente viene espresso in modo errato anche quando è giustamente percepito. Una parte di esso può essere espressa brevemente così: quando una donna alza i pugni contro un uomo si mette nell'unica posizione in cui lui non ha paura di lei. Può aver paura delle sue parole e ancora più del suo [[Silence|silenzio]]; ma la forza gli ricorda un'arma arrugginita ma molto reale della quale si è vergognato. Ma queste sintesi rozze non sono mai del tutto accurate in qualsiasi questione relativa agli istinti. Perché le cose che sono più semplici finché non vengono messe in discussione diventano inevitabilmente le più sottili una volta che lo sono: è ciò a cui Joubert si riferiva, immagino, quando disse: "Non è difficile credere in Dio se non lo si definisce." Quando i cattivi istinti del vecchio Foulon lo spinsero a dire dei poveri: "Che mangino erba", i buoni e cristiani istinti dei poveri li portarono ad impiccarlo su un lampione con la bocca piena di quella vegetazione. Ma se un moderno [[vegetarian|vegetariano]] [[aristocrat|aristocratico]] dovesse dire ai poveri: "Ma perché non vi piace l'erba?", le loro intelligenze sarebbero molto più impegnate a trovare una risposta altrettanto appropriata. E questa questione delle funzioni dei sessi è innanzitutto una questione degli istinti; il sesso e la respirazione sono circa le uniche due cose che generalmente funzionano meglio quando ci si preoccupa di esse meno possibile. È per questo, immagino, che lo stesso secolo sofisticato che ha avvelenato il mondo con il femminismo lo sta anche inquinando con gli Esercizi Respiratori. Ci tuffiamo subito in una foresta di false analogie e di cattive [[history|storie]] balorde; mentre quasi qualsiasi uomo o donna lasciati a se stessi saprebbero almeno che il sesso è del tutto diverso da qualsiasi altra cosa nel mondo.
+
+Non esiste alcun tipo di paragone possibile tra una lite fra uomo e donna (per quanto la donna possa avere ragione) e le altre liti fra schiavo e padrone, ricco e povero o patriota e invasore con cui i suffragisti [[deluge|inondano]] ogni giorno. La differenza è chiara come il [[Noon|mezzogiorno]]; questi altri gruppi estranei non venivano mai a contatto se prima non entravano in collisione. Razze e classi sociali nacquero con la battaglia, anche se poi si fusero nell'amicizia. Ma il primo fatto riguardante i sessi è che si piacciono l'un l'altro. Si cercano: e per quanto spaventosi siano i peccati e le sofferenze che spesso derivano dalla loro unione, non furono queste cose a farli incontrare.
+È assolutamente sbalorditivo notare come gli scrittori e i parolai moderni perdano di vista questo fatto così evidente, vasto e travolgente: si direbbe che la donna sia una vittima e nient'altro. Secondo questa versione ideale, la donna emancipata è stata, età dopo età, messa fuori combattimento con un'ascia di pietra. Ma in realtà non esiste alcun fatto a dimostrare che la donna ideale e emancipata sia mai stata messa fuori combattimento; se non il fatto che è stupida. E questo potrebbe essere avvenuto in tanti altri modi. La vera donna responsabile non è mai stata stupida, e chiunque volesse metterla fuori gioco farebbe bene (come i ragazzi di strada) a colpire e scappare via. È alla fine idiota paragonare questa partecipazione preistorica con qualsiasi regalità o ribellione. Le vere regalità vogliono schiacciare le ribellioni. I veri ribelli vogliono distruggere i re. I sessi non possono desiderare di abolirsi a vicenda; e se permettiamo loro un qualsiasi tipo di opposizione permanente, essa affonderà in qualcosa di basso come un sistema dei partiti.
+
+Il [[Marriage|matrimonio]], dunque, è radicato in un'aborigena [[unity|unità]]
+di istinti; non potete paragonarlo, neppure nelle sue discordie,
+con le semplici collisioni di istituzioni separate.
+Potreste paragonarlo all'emancipazione dei negri dai piantatori
+se fosse vero che un uomo bianco nella prima giovinezza sognasse sempre
+la [[Beauty|bellezza]] astratta di un uomo nero. Potreste paragonarlo
+alla rivolta degli inquilini contro il proprietario terriero se fosse vero
+che i giovani proprietari scrivessero sonetti a inquilini invisibili.
+Potreste paragonarlo alla politica bellicosa dei Feniani, se
+fosse vero che ogni normale irlandese volesse un inglese
+per venire ad abitare con lui. Ma poiché sappiamo che non ci sono
+istinti in nessuna di queste direzioni, queste analogie non sono
+solo false ma false sul fatto cardinale. Non parlo
+del comfort o del merito comparativo di queste cose diverse:
+dico che sono diverse. Può darsi che l'[[Love|amore]] trasformato in odio
+sia terribilmente comune nelle questioni sessuali: può darsi che l'odio trasformatosi
+in [[Love|amore]] non sia raro nelle rivalità di razza o classe.
+Ma qualsiasi [[philosophy|filosofia]] sui sessi che inizi con qualcosa
+che non sia l'attrazione reciproca dei sessi, inizia con un errore;
+e tutti i suoi paragoni storici sono tanto irrilevanti quanto
+impertinenti come giochi di parole.
+
+Ma smascherare una negazione così fredda degli istinti è facile:
+esprimerli o anche solo accennarne l'espressione è molto difficile.
+Gli istinti sono profondamente legati a ciò che gli intellettuali chiamano
+"stile" nella letteratura, o la gente più volgare chiama "stile" nell'abbigliamento.
+Sono fortemente interessati al modo in cui si fa una cosa, oltre che alla possibilità
+di farla: e gli elementi più profondi della loro attrazione o repulsione
+possono spesso essere trasmessi solo attraverso esempi casuali o immagini improvvise.
+Quando Danton si difendeva davanti al tribunale giacobino,
+parlava così forte che la sua voce era udibile dall'altra parte della Senna,
+in strade lontane sull'altro lato del [[River|fiume]].
+Doveva aver ruggito come un toro di Basan. Eppure nessuno di noi
+penserebbe a quel prodigio se non come a qualcosa di poetico e appropriato.
+Nessuno di noi sentirebbe istintivamente che Danton fosse meno uomo,
+o addirittura meno gentiluomo, per aver parlato così in un'ora del genere.
+Ma supponiamo che avessimo saputo che Maria Antonietta, quando fu processata
+davanti allo stesso tribunale, aveva ululato tanto da essere udita fino al
+Faubourg St. Germain: [[Well|beh]], lo lascio agli istinti, se ne sono rimasti.
+Non è sbagliato urlare. Non è nemmeno giusto.
+È semplicemente una questione dell'impressione immediata sull'artista
+e persino sulla parte animale dell'umanità, se il rumore fosse udito all'improvviso
+come uno sparo.
+
+Forse l'analisi verbale più vicina all'istinto si può trovare nei gesti dell'oratore che si rivolge alla folla. Perché il vero oratore deve sempre essere un demagogo: anche se la massa è una piccola massa, come il comitato francese o la [[house|Camera]] dei Lord inglese. E "demagogo", nel buon senso greco, non significa colui che compiace il popolo, ma colui che lo guida: e se fate attenzione, vedrete che tutti i gesti istintivi dell'oratoria sono gesti di leadership militare; indicando al popolo un percorso o incitandolo a una avanzata. Notate quella lunga scivolata del braccio attraverso il [[Body|corpo]] e verso l'esterno, che i grandi oratori usano naturalmente e gli oratori volgari artificialmente. È quasi lo stesso gesto dell'estrarre una [[Sword|spada]].
+
+Il punto non è che le donne siano indegne di votare; 
+non è nemmeno che il voto sia indegno delle donne. È che
+il voto è indegno degli uomini, finché rimane solo un voto;
+e non ha in sé nulla di quel militarismo antico della [[democracy|democrazia]].
+L'unica folla con cui vale la pena parlare è quella pronta a andare
+da qualche parte e fare qualcosa; l'unico demagogo che vale la pena ascoltare è colui che
+può indicare qualcosa da fare:  e, se indica con una [[Sword|spada]],
+la sentirà solo familiare e utile come un dito allungato.
+Ora, salvo alcune eccezioni mistiche che confermano la regola,
+questi non sono i gesti, e quindi nemmeno gli istinti, delle donne.
+Nessun uomo onesto disprezza la donna pubblica. Può solo dispiacergli
+la donna politica; una cosa del tutto diversa. L'istinto
+non ha nulla a che fare con il [[Desire|desiderio]] di tenere le donne velate o prigioniere:
+se tale [[Desire|desiderio]] esiste. Un marito sarebbe felice se sua moglie
+indossasse una [[Crown|corona]] d'oro e proclamasse leggi da un trono di marmo;
+o se pronunciasse oracoli dal tripode di una sacerdotessa;
+o se potesse camminare in mistico maternità davanti alla processione
+di qualche grande ordine religioso. Ma che lei debba stare su un
+palco nella stessa altezza in cui sta lui; inclinandosi in avanti
+un po' più del dovuto e tenendo la bocca aperta un po'
+più a lungo e più larga di quanto sia dignitoso--[[Well|bene]], qui scrivo solo sui
+fatti della naturale [[history|storia]]; e il fatto è che è questo, e non pubblicità o importanza, a ferire. Spetta al mondo moderno giudicare se tali istinti siano davvero segnali di pericolo;
+e se il danneggiamento dei nervi morali come di quelli materiali sia un tocsin
+e un avvertimento della [[Nature|natura]].
+
 
 
 <span class="atom-split" data-atom="story_02_the_poet_and_the_cheese_cheese" data-title="A Miscellany of Men — THE POET AND THE CHEESE" data-chapter="THE POET AND THE cheese CHEESE" data-kind="story"></span>
@@ -7657,6 +7737,83 @@ to a brass band in a big [[London]] hotel.  For [[Birds|birds]] of a feather
 flock together, but [[Birds|birds]] of the white feather most of all.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IL SETTARIO DELLA SOCIETÀ
+
+Un credo fisso è assolutamente indispensabile alla [[Freedom|libertà]].
+Perché mentre gli uomini sono e dovrebbero essere vari, deve esserci una qualche comunicazione tra loro se vogliono trarre piacere dalla loro varietà. E una formula intellettuale è l'unica cosa che può creare una comunicazione che non dipenda da semplice [[Blood|sangue]], classe o simpatia capricciosa.
+Se tutti partiamo dall'accordo che il sole e la [[Moon|luna]] esistono, possiamo parlare delle nostre diverse visioni di essi. L'uomo dallo sguardo forte può vantarsi di vedere il sole come un cerchio perfetto. L'uomo miope può dire (o se è impressionista, vantarsi) che vede la [[Moon|luna]] come una macchia d'argento.
+L'uomo daltonico può rallegrarsi del trucco fatato che gli permette di vivere sotto un sole verde e una [[Moon|luna]] blu. Ma se si afferma che non c'è altro che una macchia argentea nell'occhio dell'uno o un cerchio luminoso (come un monocolo) in quello dell'altro, allora nessuno dei due è libero, perché ciascuno è rinchiuso nella cella di un universo separato.
+
+Ma, infatti, una sorte ancora peggiore, considerata praticamente,
+deriva dal diniego della formula intellettuale originaria.
+Non solo l'individuo diventa ristretto, ma diffonde
+la ristrettezza nel mondo come una nuvola; fa sì che la ristrettezza
+aumenti e si moltiplichi come una pianta infestante.  Perché ciò che accade è questo:
+che tutte le persone miope si riuniscono e costruiscono una [[City|città]]
+chiamata Miopia, dove danno per scontata la miopia e dipingono
+quadri miopi e perseguono politiche molto miope.
+Nel frattempo tutti gli uomini che possono fissare il sole si riuniscono
+sulla Pianura di Salisbury e non fanno altro che fissare il sole;
+e tutti gli uomini che vedono una [[Moon|luna]] blu si uniscono e
+asseriscono la [[Moon|luna]] blu, non una volta ogni [[Moon|luna]] blu, ma incessantemente.
+Così invece di un piccolo gruppo vario, avete enormi
+gruppi monotoni.  Invece della libertà del dogma, avete
+la tirannia del gusto.
+
+A parte l'[[Allegory|allegoria]], esempi di ciò che intendo verranno in mente a tutti;
+forse il più ovvio è il Socialismo.  Il Socialismo significa la proprietà,
+da parte dell'organo del [[government|governo]] (qualunque esso sia), di tutte le cose necessarie
+alla produzione. Se un uomo si dichiara socialista in questo senso,
+può essere qualsiasi tipo di uomo voglia essere in ogni altro senso:
+un bookmaker, un Mahatma, un mondain, un arcivescovo, uno zingaro di Margate.
+Senza richiamare al momento socialisti lucidi in tutte queste
+capacità, è ovvio che un socialista lucido (cioè,
+un socialista con una dottrina) può essere un soldato, come il signor Blatchford,
+o un Don, come il signor Ball, o un facchino di Bath come il signor Meeke,
+o un ecclesiastico come il signor Conrad Noel, o un artigiano d'arte
+come il defunto signor William Morris.
+
+Ma alcune persone si definiscono socialisti e non vogliono essere vincolate da quello che chiamano un dogma ristretto; dicono che il socialismo significa molto, molto di più; tutto ciò che è elevato, tutto ciò che è libero, tutto ciò che è, ecc., ecc. Ora osservate la loro terribile sorte: diventano del tutto inadatti a essere commercianti o soldati o preti o qualsiasi altra cosa umana colpita dalla sventura, ma diventano un tipo particolare di persona che è sempre uguale. Quando si scopre che il socialismo non significa una formula economica ristretta, si scopre anche che il socialismo significa indossare un tipo particolare di abiti, leggere un tipo particolare di libri, appendere un tipo particolare di quadri e nella maggior parte dei casi persino mangiare un tipo particolare di cibo. Perché gli uomini devono riconoscersi in qualche modo. Questi uomini non si conosceranno per un principio, come i concittadini. Non possono conoscere l'altro per odore, come [[dogs|cani]]. Così devono fare affidamento sul colore generale; sul fatto che un uomo del loro tipo avrà una moglie in verde pallido e il "Trionfo del Lavoro" di Walter Crane appeso nell'atrio.
+
+Ci sono, naturalmente, molti altri esempi; la società moderna è infatti quasi interamente composta da queste grandi macchie monocromatiche. Così io, per uno, rimpiango il superamento dell'antica [[unity|unità]] puritana fondata sulla teologia ma che abbracciava tutti i tipi da [[Milton]] al [[grocer|droghiere]], con quella più recente [[unity|unità]] puritana basata piuttosto su certe abitudini sociali, certe nozioni comuni, sia permissive che proibitive, in relazione a particolari piaceri sociali.
+
+Così io, per uno, mi rammarico che (se si deve avere un'aristocrazia)
+non sia rimasta una logica fondata sulla scienza dell'araldica;
+una cosa che afferma e difende la teoria tutt'altro che insostenibile
+che il test è la genealogia fisica; invece di essere, come ora,
+una mera [[Machine|macchina]] di Eton e [[Oxford]] per verniciare chiunque sia abbastanza ricco
+con una vernice monotona.
+
+E lo è soprattutto nel caso della religione. Finché si ha un credo, che tutti i membri di un certo gruppo credono o dovrebbero credere, allora quel gruppo sarà composto dalle vecchie figure ricorrenti della [[history|storia]] religiosa, a cui il credo può appellarsi e giudicare; il santo, l'ipocrita, il litigioso, il fratello debole. Queste persone si fanno del bene a vicenda; o si uniscono tutte insieme per fare del bene all'ipocrita, con colpi pesanti e ripetuti. Ma una volta spezzato il vincolo della dottrina che [[Alone|sola]] tiene unite queste persone, ciascuna graviterà verso la propria specie al di fuori del gruppo. Gli ipocriti si riuniranno tutti e si chiameranno santi; i santi si perderanno in un [[Desert|deserto]] e si definiranno fratelli deboli; i fratelli deboli diventeranno sempre più deboli in un'atmosfera generale di imbecillità; e il litigioso andrà a cercare qualcun altro con cui bisticciare.
+
+Questo è accaduto in larga misura alla religione inglese moderna;
+sono stato in molte chiese, cappelle e sale dove un [[Pride|orgoglio]] sicuro di essersi lasciati alle spalle i credi era accompagnato da una paralizzante incapacità di andare oltre le parole d'ordine. Ma ovunque appaia la falsità essa deriva dal trascurare la stessa [[Truth|verità]]: che gli uomini dovrebbero essere d'accordo su un principio, affinché possano dissentire su tutto il resto; che Dio ha dato agli uomini una legge affinché potessero trasformarla in libertà.
+
+C'era molto più senso nelle vecchie persone che dicevano
+che una moglie e un marito avrebbero dovuto avere la stessa religione
+più di quanto ce ne sia in tutto il contemporaneo scorrere sulle sorelle
+anime e spiriti affini e aure dello stesso colore.
+Di fatto, più i sessi sono in violento contrasto meno è probabile che siano in violenta collisione.
+Più i loro temperamenti sono incompatibili meglio è.
+Ovviamente l'[[Soul|anima]] di una moglie non può essere un'anima [[Soul|sorella]].
+È molto raro che sia anche solo cugina di primo grado.  Ci sono pochissimi matrimoni con gusti e temperamenti identici; generalmente sono infelici.  Ma avere la stessa teoria fondamentale, pensare la stessa cosa una virtù, se la si pratica o la si trascura,
+pensare la stessa cosa un peccato, se lo si punisce o lo si perdoni
+o ci si ride sopra, nell'estremo limite chiamare la stessa cosa
+dovere e la stessa cosa disonore--questo è veramente necessario
+per un [[Marriage|matrimonio]] tollerabilmente felice; ed è molto meglio rappresentato
+da una religione comune che non da affinità e aure.
+E ciò che vale per la famiglia vale anche per la nazione.
+Una nazione con una religione di base sarà tollerante.  Una nazione senza
+religione sarà bigotta.  Infine, il peggior effetto di tutti è questo:
+che quando gli uomini si riuniscono per professare un credo, vengono
+coraggiosamente, anche se è per nascondersi in catacombe e caverne.
+Ma quando si riuniscono in una cricca vengono furtivamente,
+evitando ogni cambiamento o disaccordo, anche se è per cenare
+con banda musicale in un grande albergo di [[London|Londra]].  Perché gli [[Birds|uccelli]] dello stesso piumaggio
+stanno insieme, ma soprattutto quelli del piumaggio bianco.
+
 
 
 <span class="atom-split" data-atom="story_18_the_fool_fool" data-title="A Miscellany of Men — THE FOOL" data-chapter="THE Fool FOOL" data-kind="story"></span>
@@ -9228,6 +9385,63 @@ albino or a prize-fighter or an imbecile or an American.  These are
 the realities by which the people really recognise each other.
 They are almost always left out of the inquiry.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL FOTOGRAFO FALSO
+
+Quando, come di recente, si verificano eventi che sembrano (almeno all'immaginazione) mettere alla prova se non addirittura vacillare la forza del [[government|governo]] ufficiale, è divertente chiedersi qual è la vera debolezza della civiltà, specialmente della nostra, quando si confronta con l'unico uomo senza legge. Mi sono ricordato di una debolezza questa mattina mentre rovistavo in un vecchio cassetto pieno di fotografie.
+
+Questa debolezza della civiltà si esprime meglio dicendo che essa tiene più alla scienza che alla [[Truth|verità]]. Si vanta dei suoi "metodi" più che dei risultati; è soddisfatta dalla precisione, dalla disciplina, da buone comunicazioni, piuttosto che dal senso della realtà. Ma ci sono falsità precise così come fatti precisi. La disciplina può significare solo cento uomini che commettono lo stesso errore nello stesso minuto. E le buone comunicazioni possono in pratica essere molto simili a quelle cattive comunicazioni che si dice corrompano i buoni costumi. In generale, abbiamo raggiunto un'età "scientifica", che vuole sapere se il treno è nell'[[Time|orario]], ma non se il treno è in stazione. Ne prendo un esempio nelle nostre indagini di polizia a cui mi è capitato di imbattermi: il caso della fotografia.
+
+Alcuni anni fa un poeta di notevole genio scomparve tragicamente,
+e le autorità o i giornali diffusero una sua fotografia,
+perché potesse essere identificato.  La fotografia, come la ricordo io,
+raffigurava o suggeriva un uomo bello, altero e piuttosto pallido
+con il capo gettato all'indietro, con lineamenti lunghi ed eleganti,
+capelli sottili e incolori e un leggero pizzo, e benché trasmettesse
+soltanto la testa e le spalle, una netta impressione di altezza.
+Se mi fossi basato su quella fotografia avrei cercato un uomo alto, militaresco ma apatico,
+con un profilo piuttosto simile a quello del Duca di Connaught.
+
+Solo che, per caso, conoscevo personalmente il poeta; l'avevo visto molte volte e aveva un aspetto che nessuno avrebbe potuto dimenticare, anche solo vistolo una volta. Aveva i tratti di quegli scozzesi del Westland scuri e appassionati, che prima di Burns e dopo hanno donato al mondo molti occhi così scuri e tante emozioni altrettanto oscure.
+Ma in lui il tratto inequivocabile, gaelico o comunque sia,
+era accentuato quasi fino alla stranezza; e sembrava una sorta di elfo scuro. Era piccolo, con una grande testa e un mezzaluna
+di capelli neri come la pece che gli circondavano il retro di una vasta cupola di calvizie.
+Sotto agli occhi le sue guance avevano un colore così acceso
+che sembrava dipinto di scarlatto; tre ciuffi neri,
+due sul labbro superiore e uno sotto quello inferiore, sembravano ritoccare il volto con i baffi feroci del Mefistofele. I suoi occhi avevano quella "pazzia [[Madness|danzante]]" che Stevenson vide negli occhi gaelici di Alan Breck; ma a volte distorceva l'espressione incastrando un mostruoso monocolo in uno di essi.
+Un uomo più inequivocabile sarebbe stato difficile da trovare.
+Avreste potuto riconoscerlo tra qualsiasi folla, purché non aveste visto la sua fotografia.
+
+Ma in questo ritratto scientifico di lui venti cause,
+accidentali e convenzionali, si erano combinate per cancellarlo
+del tutto. I limiti della fotografia vietavano la forte
+e quasi melodrammatica colorazione delle guance e delle sopracciglia.
+L'incidente dell'illuminazione aveva tolto quasi tutta l'oscurità
+ai capelli, facendolo sembrare quasi un uomo biondo.
+Il quadro e il limite delle spalle lo facevano apparire
+un uomo grande; e la noia devastante di farsi fotografare
+quando si vuole scrivere poesie lo faceva sembrare un uomo pigro.
+Tenendo la testa all'indietro, come le persone fanno quando vengono fotografate
+(o fucilate), ma come lui certamente non l'avrebbe mai tenuta normalmente,
+nascondeva accidentalmente il cranio calvo che dominava la sua figura esile.
+Ecco un ritratto a orologeria, iniziato e finito da un
+pulsante e una scatola di prodotti chimici, dal quale ogni caratteristica sporgente è stata omessa più delicatamente e abilmente
+di quanto avrebbero potuto farlo i lusingatori più namby-pamby,
+dipingendo con i colori più deboli a [[Water|acquerello]], su un'avorio levigato.
+
+Per caso possiedo un libro di caricature del signor Max Beerbohm,
+una delle quali ritrae il sfortunato poeta in questione.
+Dire che lo rappresenta come uno gnomo assolutamente incredibile è esprimere
+in linguaggio debole e inadeguato la licenza delle sue linee disordinate.
+Le autorità pensavano fosse rigorosamente sicuro e scientifico
+distribuire la fotografia del poeta. Mi avrebbero rinchiuso
+in un manicomio se gli avessi chiesto di distribuire la caricatura di Max.
+Ma la caricatura sarebbe stata molto più probabile a trovare l'uomo.
+
+Questo è un piccolo ma esatto simbolo del fallimento della civiltà scientifica. È così soddisfatta di sapere che ha una fotografia di un uomo, che non si chiede mai se ne abbia un ritratto. Così dichiarazioni, apparentemente molto dettagliate, hanno lampeggiato lungo i fili del mondo da quando ero ragazzo. Ci fu detto che in qualche scontro poliziotti boeri avevano sparato a un inglese, un suddito britannico, un cittadino inglese. Dopo [[Time|molto]] tempo fummo informati piuttosto casualmente che il cittadino inglese era completamente nero. [[Well|Beh]], non fa differenza per la questione morale; gli uomini di colore dovrebbero essere uccisi secondo i medesimi principi etici degli uomini bianchi. Ma induce a diffidare delle comunicazioni scientifiche che hanno permesso una così sorprendente alterazione della fotografia. Mi dispiace che ci siamo procurati un negativo fotografico in cui un uomo di colore risultava bianco.
+In seguito fummo informati che un inglese aveva combattuto per i boeri contro la propria [[Flag|bandiera]], il che sarebbe stata una cosa disgustosa. Più tardi si ammise che era irlandese; il che è esattamente diverso come se fosse stato polacco. Il buon senso, con tutti i fatti davanti a sé, vede che nero non è bianco e che una nazione che non ha mai ceduto ha diritto all'indipendenza morale. Ma perché così raramente ha tutti i fatti davanti a sé? Perché le grandi caratteristiche aggressive, come il colore scuro o la collera celtica, vengono sempre omesse in tali comunicazioni ufficiali, come furono omessi nella fotografia? Il mio amico poeta aveva capelli neri come un africano e occhi fieri come un irlandese; perché la nostra civiltà omette tutti e quattro i fatti? L'errore è quello di tralasciare l'elemento che colpisce, che potrebbe davvero fermare il criminale. Essa suona prima la nota glaciale della scienza, richiedendo un uomo "di altezza superiore alla media, con barba rasata e baffi grigi", eccetera, che potrebbe essere Mr Balfour o Sir Redvers Buller. Non coglie il primo fatto dell'impressione, come ad esempio che un uomo è ovviamente un marinaio o un ebreo o un ubriacone o un gentiluomo o uno di colore o un albino o un pugile o un imbecille o un americano. Queste sono le realtà con cui la gente si riconosce davvero a vicenda. Vengono quasi sempre omesse dall'indagine.
 
 
 
