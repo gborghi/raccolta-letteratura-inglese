@@ -1,6 +1,7 @@
 import fs from "fs"
 import path from "path"
 import zlib from "node:zlib"
+import { pathToFileURL } from "node:url"
 
 // Merge per-atom search entries (frag -> {title, work, text}) into a
 // contentIndex-shaped object (slug -> {title, content, tags, links, slug}).
@@ -37,4 +38,6 @@ function main() {
   )
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) main()
+// cross-platform main-guard: `file://${argv[1]}` breaks on Windows (backslashes,
+// drive-letter slash) — pathToFileURL normalizes both to the same file: URL.
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) main()
