@@ -1153,6 +1153,15 @@ ul.tags {
   .ar-shell.toc-open .ar-toc { transform: none; }
 }
 
+// ---- .center grid pin (always-on) ----
+// base.scss only pins `.center > article` to grid-area:grid-center, not .center
+// itself. When the left sidebar column collapses to 0-width (reading-page hidden,
+// or left-collapsed), unpinned .center auto-places into that freed column and
+// shrinks, leaving dead space. Pin it unconditionally so this can't regress in any
+// state; the two conditional pins below (inside body.reading-page and
+// body.left-collapsed) become redundant but are left in place, harmless.
+#quartz-body > .center { grid-area: grid-center; min-width: 0; }
+
 // ---- reading page: collapse the global Explorer/search left sidebar ----
 // The reader already carries its own work-nav (ar-toc), so on a reading page the
 // site's left sidebar is redundant. Collapse its grid column and hide it by
