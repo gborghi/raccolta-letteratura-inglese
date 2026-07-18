@@ -939,6 +939,12 @@ async function main() {
       // the string "true", not the JS boolean.
       rec._subwork = data.subwork === true || data.subwork === "true"
       rec._source = typeof data.source === "string" ? data.source.replace(/\\/g, "/") : ""
+      // Filename basename, kept for the subwork href-resolver below: wikilinks
+      // to a work (e.g. a concept note's "## Works" list) target the filename,
+      // which is what got registered into titleToHref just below — not
+      // necessarily rec.title (frontmatter "title" can be a shorter display
+      // name, as with "Sonnet 18 (Shakespeare).md" -> title "Sonnet 18").
+      rec._base = base
       let n = 0
       for (const [prefix, field] of AXES) {
         const vals = tags
@@ -1006,7 +1012,12 @@ async function main() {
     rec.href = frag
     rec.readHref = frag
     rec.parentWork = atomMeta.get(frag)?.work || ""
-    titleToHref.set(rec.title, frag)
+    // Re-key on the same string(s) originally registered for this work (base
+    // filename, plus rec.title if it differs) so wikilinks anywhere — concept
+    // notes' "## Works" lists included — resolve to the new fragment instead
+    // of the stale pre-subwork href.
+    titleToHref.set(rec._base, frag)
+    if (rec.title !== rec._base) titleToHref.set(rec.title, frag)
   }
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
@@ -1129,6 +1140,16 @@ async function main() {
       }
     }
 
+    // Page-less sub-work nodes (see PASS 2 resolver above): the note's href is
+    // already the SPA fragment of its source atom, so no content/works page
+    // should be emitted for it — conceptIndex population above (from
+    // titleToHref, which already carries the resolved fragment) still ran
+    // unconditionally, so back-links survive even though the page does not.
+    // Hand-rolled frontmatter parser stores scalars as strings, so
+    // "subwork: true" arrives as the string "true", not the JS boolean.
+    const isSubwork = data.subwork === true || data.subwork === "true"
+    if (isSubwork) continue
+
     // Lowercase the output path (v5 link-case fix): pages emit at the file path,
     // and our hrefs are lowercased in sluggify(), so the files must be lowercase too.
     const dest = path.join(CONTENT, rel.toLowerCase())
@@ -1163,7 +1184,7 @@ async function main() {
   const worksOut = works
     .filter((r) => !r._drop)
     .map((r) => {
-      const { _subwork, _source, _drop, ...clean } = r
+      const { _subwork, _source, _drop, _base, ...clean } = r
       return clean
     })
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
