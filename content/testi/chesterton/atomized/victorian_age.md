@@ -15528,6 +15528,208 @@ an opportunist, a formalist. But remember also that he was really a
 humorist; and may still be laughing at you.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+come fanno molti campioni. Ho pochi [[Doubt|dubbi]] che, quando San Giorgio ebbe ucciso
+
+il drago, avesse una gran paura della principessa. Ma di certo nessuno
+
+di questi due vitali entusiasmi toccava il problema vittoriano. Il
+
+disastro degli inglesi moderni non è che non siano celtici, ma che
+
+non siano inglesi. La [[Tragedy|tragedia]] della donna moderna non è che non le sia
+
+consentito di seguire l'uomo, ma che lo segua in modo troppo servile.
+
+Questo Meredith consapevole e teorizzante non si avvicinò molto al suo problema
+
+ed è certamente lontano miglia dal nostro. Ma l'altro Meredith era un
+
+creatore; il che significa un dio. Di lui è vero ciò che è vero di un uomo tanto
+
+diverso come Dickens: che tutto ciò che se ne può dire è che è
+
+colmo di cose buone. Un lettore che apra uno dei suoi libri si sente come uno
+
+scolaro che apre un cesto di leccornie che sa essere costato, in qualche modo, cento
+
+sterline. Può esserne più sconcertato che da un cesto ordinario; ma
+
+ne ricava l'impressione di una vera ricchezza di pensiero; ed è questo ciò che
+
+si ricava davvero da simili tripudi di felicità come _Evan Harrington_ o
+
+_Harry Richmond_. La sua [[philosophy|filosofia]] può essere sterile, ma egli non lo era. E il
+
+sentimento principale tra coloro che lo apprezzano è il semplice desiderio che più persone
+
+potessero apprezzarlo anch'esse.
+
+Concludo qui su Hardy e Meredith; perché questo separarsi delle strade verso
+
+l'ottimismo dichiarato e il pessimismo dichiarato fu davvero la fine della
+
+pace vittoriana. Vi sono molti altri uomini, quasi altrettanto grandi, sui quali potrei
+
+indugiare con diletto: su Shorthouse, per esempio, che per un verso si accompagna a
+
+Mrs. Browning o a Coventry Patmore. Intendo dire che ha una cultura ampia,
+
+che da alcuni è detta una religione angusta. Quando pensiamo a cosa sono stati persino i
+
+migliori romanzi sui cavalieri (scritti da uomini come Scott o
+
+Stevenson), è una cosa meravigliosa che l'autore di _John Inglesant_
+
+abbia potuto scrivere un [[Romance|romanzo]] cavalleresco in cui dimenticava Cromwell ma
+
+ricordava Hobbes. Ma Shorthouse è fuori dal periodo, nella narrativa,
+
+nello stesso modo in cui Francis Thompson ne è fuori nella poesia.
+
+Non accettava le fondamenta vittoriane. Sapeva troppo.
+
+C'è un'altra questione che conviene considerare qui, sia pure
+
+brevemente: essa illustra l'estrema difficoltà di trattare gli
+
+inglesi vittoriani in un libro come questo, a causa della loro eccentricità;
+
+non di opinioni, ma di carattere e di forma artistica. Vi sono parecchi
+
+grandi vittoriani che non rientrano in nessuna delle ovvie categorie che
+
+impiego; perché non rientrano in nulla, a stento nel mondo
+
+stesso. Là dove la [[Germany|Germania]] o l'[[Italy|Italia]] alleggerirebbero la monotonia dell'umanità
+
+tributando serio rispetto a un [[artist|artista]], o a uno studioso, o a un guerriero
+
+patriottico, o a un sacerdote... fu sempre istinto degli inglesi farlo
+
+additando un Tipo. Il dottor Johnson è sbiadito come poeta o come
+
+critico, ma sopravvive come Tipo. Cobbett è trascurato
+
+(purtroppo) come pubblicista e pamphlettista, ma è ricordato come
+
+un Tipo. Ora, queste persone continuarono a spuntare per tutto il
+
+[[Time|tempo]] vittoriano; e ciascuno sta talmente per conto proprio che concluderò queste pagine
+
+con il profondo sospetto di aver dimenticato di menzionare un Tipo
+
+di dimensioni gigantesche. Forse il miglior esempio di simili eccentrici è
+
+George Borrow; che simpatizzava con i nomadi senza fortuna come gli zingari
+
+mentre tutti gli altri simpatizzavano con i nomadi di successo come gli ebrei;
+
+che aveva un genio simile al [[Wind|vento]] di ponente per il risveglio di amicizie selvagge e
+
+casuali e per il richiamo e l'attrazione delle strade. Ma se George
+
+Borrow debba andare nella sezione dedicata ai filosofi, o nella
+
+sezione dedicata ai romanzieri, o nella sezione dedicata ai bugiardi, nessun
+
+altro l'ha mai saputo, ammesso che lo sapesse lui.
+
+Ma il caso più forte di questa capacità vittoriana di essere bruscamente
+
+originali in un angolo si può trovare in due cose: la letteratura destinata
+
+puramente ai bambini e la letteratura destinata puramente al divertimento. È vero
+
+che queste due cose tanto vittoriane spesso si fondevano l'una nell'altra (come
+
+era il modo delle cose vittoriane), ma non a sufficienza da rendere sicuro
+
+accorparle insieme senza distinzione. Così vi fu George
+
+Macdonald, uno scozzese di genio autentico quanto quello di Carlyle; sapeva scrivere
+
+fiabe che facevano di ogni esperienza una fiaba. Sapeva dare la
+
+reale sensazione che ognuno tenesse il capo di un filo fatato che alla fine doveva
+
+condurlo in Paradiso. Era una sorta di calvinismo ottimista. Ma
+
+fiabe davvero tanto significative erano accidenti del genio. Dell'
+
+età vittoriana nel suo insieme è vero dire che scoprì davvero una cosa
+
+nuova; una cosa chiamata Nonsense. Si può dubitare che questa cosa sia stata
+
+davvero inventata per dilettare i bambini. Piuttosto fu inventata da persone
+
+anziane che cercavano di provare la loro prima [[Childhood|infanzia]], e talvolta riuscivano
+
+solo a provare la seconda. Ma qualunque altra cosa fosse, era
+
+inglese ed era individuale. Lewis Carroll concesse una vacanza alla matematica:
+
+portò la [[logic|logica]] nelle terre selvagge dell'illogicità. Edward Lear, un
+
+buffone più ricco, più romantico e perciò più autenticamente vittoriano,
+
+perfezionò l'esperimento. Ma più lo studiamo, più, credo,
+
+concluderemo che esso poggiava su qualcosa di più reale e profondo nei
+
+vittoriani perfino del loro giusto e squisito apprezzamento dei
+
+bambini. Proveniva dal profondo senso dell'[[Humour|umorismo]] vittoriano.
+
+Può sembrare, poiché di [[Time|tempo]] in [[Time|tempo]] ho usato le uniche possibili
+
+espressioni adatte al caso, che io voglia far apparire l'inglese vittoriano come
+
+uno zuccone, il che significa un buffone inconsapevole. A tutto ciò c'è una
+
+risposta definitiva: che egli era anche un buffone consapevole... e per giunta un buffone
+
+di successo. Era un umorista; e uno dei migliori umoristi d'Europa. Ciò
+
+che Goethe non aveva mai insegnato ai tedeschi, Byron riuscì a insegnarlo agli
+
+inglesi... il dovere di non prenderlo sul serio. Il forte e sagace
+
+[[Humour|umorismo]] vittoriano appare in ogni sferzata di matita di Charles Keene;
+
+in ogni ispirazione goliardica di Calverley o di «Q.» o di J. K. S. Essi
+
+avevano largamente dimenticato tanto l'arte quanto le armi: ma gli dèi avevano lasciato loro
+
+il riso.
+
+Ma la prova definitiva che i vittoriani erano vivi grazie a questo riso, si
+
+può trovare nel fatto che seppero governare e dominare per un momento persino il
+
+cosmopolita teatro moderno. Riuscirono a mettere in scena «The Bab
+
+Ballads». Trasformare un nome privato in un epiteto pubblico è cosa
+
+concessa a pochi: ma la parola «gilbertiano» durerà probabilmente più a lungo
+
+del nome Gilbert.
+
+Significava un vero talento vittoriano; quello di esplodere inaspettatamente e
+
+quasi, a quanto pareva, involontariamente. Gilbert faceva buone battute a
+
+migliaia; ma non fece mai (nei suoi giorni migliori) la battuta che ci si
+
+sarebbe potuti aspettare da lui. Questo è l'ultimo tratto essenziale del
+
+vittoriano. Ridete di lui come di un uomo limitato, un moralista, un conformista,
+
+un opportunista, un formalista. Ma ricordate anche che egli era davvero un
+
+umorista; e potrebbe ancora ridere di voi.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Victorian Age — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>

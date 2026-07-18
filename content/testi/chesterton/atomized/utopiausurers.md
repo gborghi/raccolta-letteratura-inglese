@@ -5782,15 +5782,15 @@ La Tirannia del Cattivo Giornalismo
 
 La Poesia della Rivoluzione
 
-UN [[Song|CANTO]] DI SPADE  
+UN [[Song|CANTO]] DI SPADE
 
 "Una mandria di bestiame entrò in un villaggio chiamato Swords;
 
 e fu fermata dai rivoltosi."--Foglio quotidiano.
 
-Nel luogo detto Swords sulla [[Road|strada]] irlandese  
+Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
-Si racconta per nuova fama  
+si narra, per una nuova rinomanza,
 
 come tenemmo le corna del bestiame, e come
 
@@ -5800,77 +5800,77 @@ prima che il signore d'inferno, col corno sulla fronte,
 
 sia incoronato nella città di Dublino.
 
-Luce a Oriente e luce a Occidente,  
+Luce a Oriente e luce a Occidente,
 
-E luce sui signori crudeli,  
+e luce sui signori crudeli,
 
-Sulle anime che d'un tratto tutti conobbero,  
+sulle anime che a un tratto ogni uomo conobbe,
 
-E la verde [[Flag|bandiera]] volò e la rossa [[Flag|bandiera]] volò,  
+e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
 
-E più d'una [[Wheel|ruota]] del mondo si fermò, anch'essa,  
+e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
 
-Quando il bestiame fu fermato a Swords.  
+quando il bestiame fu fermato a Swords.
 
-Siano peccatori o meno che santi  
+Siano pure peccatori o meno che santi
 
-Quelli che colpiscono in strada per rabbia,  
+coloro che percuotono in strada per rabbia,
 
-Sappiamo dove la vergogna brilla chiara; conosciamo  
+noi sappiamo dove splende viva la vergogna; sappiamo
 
-Voi che essi colpiscono, voi loro nemici,  
+voi, che essi colpiscono, voi loro nemico,
 
 signori del salario iniquo e vile,
 
-Questo è il vostro legittimo salario.  
+questa è la vostra paga legittima.
 
-Avete stretto un [[Child|bimbo]] a un prezzo di tortura  
+Spremeste un [[Child|bambino]] a un prezzo di tortura
 
-Che non osaste nominare a parole;  
+che non osaste nominare a parole;
 
-Sì nero scherzo era la moneta d'argento  
+tanto nera beffa era la moneta d'argento
 
 che il vostro stesso dire tremò per la vergogna,
 
-E il codardo fu palese come una vacca colpita  
+e il codardo era palese come una vacca percossa
 
-Quando il bestiame si è sbandato a Swords.  
+quando il bestiame si smarrì a Swords.
 
 La [[Wheel|ruota]] del torrente delle mogli girò
 
-Per spezzare la fratellanza degli uomini;  
+per spezzare la fratellanza degli uomini;
 
-Deste il buon [[Blood|sangue]] irlandese a ungere  
+deste il buon [[Blood|sangue]] irlandese a ungere
 
-I randelli dei nemici del vostro paese;  
+i randelli dei nemici della vostra patria;
 
 vedeste l'uomo valoroso battuto in ginocchio:
 
-E vedeste che era cosa buona.  
+e vedeste che era cosa buona.
 
-La corda dei ricchi è lunga e lunga--  
+La fune dei ricchi è lunga, lunga--
 
-La più lunga delle corde di boia;  
+la più lunga fra le corde del boia;
 
 ma i re e le folle trattengono il fiato,
 
-In una gigantesca [[Shadow|ombra]] su tutto ciò che sta sotto  
+in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
-Dove Dio sta reggendo le bilance della [[Death]]  
+là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
-Tra il bestiame e Swords.  
+tra il bestiame e Swords.
 
 Forse i signori che assoldano e prestano,
 
-I più bassi fra i signori degli uomini,  
+i più vili fra tutti i signori degli uomini,
 
 che vendono i loro simili come armenti a una fiera,
 
-Non vi troveranno capo del loro bestiame;  
+non troveranno là un solo capo del loro bestiame;
 
-Ma volti d'uomini dove era il bestiame:  
+ma volti di uomini dove c'era bestiame:
 
-Volti d'uomini--e Swords.  
+volti di uomini--e Spade.
 
 UTOPIA DEGLI USURAI
 
@@ -6495,6 +6495,232 @@ becoming [[Court|court]] poets, under kings that have taken no oath, nor led us
 
 into any battle.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+II. Lettere e i nuovi laureati
+
+In questi articoli prendo solo due o tre esempi del primo e
+
+fondamentale fatto del nostro [[Time|tempo]]. Intendo il fatto che i capitalisti della
+
+nostra comunità ne stanno diventando, del tutto apertamente, i re. Nel mio ultimo (e
+
+primo) articolo, presi il caso dell'Arte e della pubblicità. Feci notare
+
+che l'Arte deve per forza peggiorare — semplicemente perché la pubblicità va
+
+migliorando. A quei tempi Millais si degnava di lavorare per il sapone Pears. Oggigiorno
+
+credo davvero che sarebbe Pears a degnarsi di Millais. Ma qui
+
+mi volgo a un'arte che conosco meglio, quella del giornalismo. Solo che nel mio caso
+
+l'arte rasenta l'assenza d'arte.
+
+La grande difficoltà con gli inglesi sta nell'assenza di qualcosa
+
+che si potrebbe chiamare [[Imagination|immaginazione]] democratica. Ci riesce facile concepire un
+
+individuo, ma assai difficile concepire che le grandi masse constano di
+
+individui. Il nostro sistema è stato aristocratico: nel senso particolare che
+
+vi sono solo pochi attori sulla scena. E lo sfondo è tenuto
+
+del tutto al buio, benché sia in realtà una calca di volti. L'[[Home|Autogoverno]] tendeva a
+
+essere non tanto gli irlandesi quanto il Grande Vecchio. La Guerra Boera tendeva a
+
+essere non tanto il Sudafrica quanto semplicemente «Joe». Ed è il divertente ma
+
+penoso fatto che ogni categoria di leadership politica, man mano che viene
+
+alla ribalta a sua volta, cattura i raggi di questo isolante riflettore;
+
+e diventa una piccola aristocrazia. Di certo nessuno ha il male aristocratico
+
+così grave come il Partito Laburista. Al recente Congresso, la vera
+
+differenza tra Larkin e i leader laburisti inglesi non stava tanto
+
+in qualcosa di giusto o sbagliato in ciò che diceva, quanto in qualcosa di elementare
+
+e persino mistico nel modo in cui evocava una folla. Ma dev'essere chiaro,
+
+persino a chi concorda con la politica più ufficiale, che per il signor
+
+Havelock Wilson la questione principale era il signor Havelock Wilson; e che
+
+il signor Sexton badava soprattutto alla dignità e ai delicati sentimenti del signor
+
+Sexton. Si potrà dire che fossero sensibili come aristocratici, o imbronciati
+
+come bambini; il punto è che il sentimento era personale. Ma Larkin, come
+
+Danton, non solo parla come diecimila uomini che parlano, ma possiede anche
+
+un po' della noncuranza del colosso di Arcis; «Que mon nom soit
+
+flétri, que la France soit libre.»
+
+Una [[Dance|Danza]] della degradazione
+
+Inutile dire che questo rispetto delle persone ha trascinato tutti gli
+
+altri partiti in una [[Dance|danza]] di degradazione. Roviniamo il Sudafrica perché
+
+sarebbe un affronto a Lord Gladstone salvare il Sudafrica. Abbiamo un cattivo
+
+esercito, perché sarebbe uno smacco per Lord Haldane avere un buon esercito.
+
+E a nessun Tory è permesso dire «Marconi» per [[Fear|paura]] che il signor George dica
+
+«Kynoch». Ma questo curioso elemento personale, con la sua spaventosa mancanza di
+
+patriottismo, è comparso in una forma nuova e curiosa in un altro ambito
+
+della vita; l'ambito della letteratura, e specialmente della letteratura periodica.
+
+E la forma che assume è il prossimo esempio che darò del modo in cui
+
+i capitalisti ora appaiono, sempre più apertamente, come
+
+i padroni e i principi della comunità.
+
+Prenderò un esempio vittoriano per segnare il mutamento; come feci nel
+
+caso della pubblicità di «Bubbles». Si diceva, nella mia [[Childhood|infanzia]], da
+
+parte del genere di Tory più apoplettico e attempato, che W. E. Gladstone fosse
+
+liberista solo perché aveva una partecipazione nei vini esteri di Gilbey.
+
+Questo, senza [[Doubt|dubbio]], era una sciocchezza; ma conteneva un oscuro significato simbolico, o
+
+principalmente profetico, una [[Truth|verità]] in sé. Era vero, in una certa misura anche allora,
+
+ed è stato sempre più vero da allora, che l'uomo di Stato era spesso un
+
+alleato del venditore; e rappresentava non solo una nazione di bottegai,
+
+ma una bottega in particolare. Ma ai [[Time|tempi]] di Gladstone, anche se questo era vero,
+
+non era mai tutta la [[Truth|verità]]; e nessuno avrebbe tollerato che fosse la
+
+[[Truth|verità]] ammessa. Il politico non era soltanto un eloquente e persuasivo
+
+piazzista in giro per conto di certi uomini d'affari; era costretto a mescolare persino la sua
+
+corruzione con qualche intelligibile ideale e regola di condotta. E la
+
+prova di ciò è questa: che almeno era l'uomo di Stato a campeggiare
+
+grande agli occhi del pubblico; e il suo finanziatore restava interamente sullo
+
+sfondo. I vecchi gentiluomini potevano soffocare sul loro porto, con la morale
+
+certezza che il Primo Ministro avesse azioni in una ditta di vinai. Ma
+
+il vecchio gentiluomo sarebbe morto sul colpo se il vinaio fosse
+
+stato reso davvero importante quanto il Primo Ministro. Se fosse stato
+
+Sir Walter Gilbey che Disraeli denunciava, o che Punch caricaturava; se
+
+i colletti preferiti di Sir Walter Gilbey (del cui disegno sono
+
+all'oscuro) fossero cresciuti grandi come le ali di un arcangelo; se
+
+a Sir Walter Gilbey fosse stato attribuito il merito di aver abbattuto la
+
+Quercia Britannica con la sua piccola accetta; se, presso il Temple e le
+
+Corti di Giustizia, la nostra vista fosse colpita da una maestosa statua di un
+
+vinaio; o se la zelante dama conservatrice che lanciò un
+
+biscotto di pan di zenzero contro il Premier lo avesse indirizzato verso il vinaio
+
+invece, lo shock per l'Inghilterra vittoriana sarebbe stato assai grande
+
+davvero.
+
+Aureole per i datori di lavoro
+
+Ora qualcosa di molto simile sta accadendo; il semplice datore di lavoro facoltoso
+
+comincia ad avere non solo il potere ma un po' della gloria. Ho
+
+visto di recente in parecchie riviste, e riviste di alto livello, la
+
+comparsa di un nuovo tipo di articolo. Uomini di lettere vengono ingaggiati per
+
+lodare personalmente un grande uomo d'affari, come un tempo si lodava un [[King|re]]. Essi
+
+non solo trovano ragioni politiche per i disegni commerciali — cosa che
+
+fanno già da qualche [[Time|tempo]] — ma trovano anche difese morali per gli
+
+intriganti del commercio. Descrivono il cervello d'acciaio del capitalista e il
+
+cuore d'oro in un modo che gli inglesi finora hanno perlomeno avuto
+
+l'abitudine di riservare a figure romantiche come Garibaldi o Gordon. In
+
+un'eccellente rivista il signor T. P. O'Connor, che, quando vuole, sa scrivere
+
+di lettere da vero uomo di lettere, ha alcune pagine sfarzose in lode di
+
+Sir Joseph Lyons — l'uomo che gestisce quelle sale da tè. Egli, per inciso,
+
+vi ha inserito un delizioso passo sulle belle anime possedute
+
+da certe persone chiamate Salmon e Gluckstein. Credo che mi piaccia di più il
+
+passo in cui diceva che le affascinanti doti mondane di Lyons
+
+comprendevano un talento nell'«imitare un ebreo». L'articolo è accompagnato da
+
+un grande e alquanto sogghignante ritratto di quel bottegaio, che rende
+
+il numero da salotto in questione particolarmente sbalorditivo. Un altro uomo
+
+di lettere, che di certo dovrebbe saperne di più, scrisse in un altro giornale un pezzo
+
+di culto dell'[[Hero|eroe]] a proposito del signor Selfridge. Senza [[Doubt|dubbio]] la moda si diffonderà,
+
+e l'arte delle parole, così levigata e affilata da Ruskin o da Meredith,
+
+sarà perfezionata ancor di più per esplorare il labirintico cuore di
+
+Harrod; o per paragonare il semplice stoicismo di Marshall al santo
+
+fascino di Snelgrove.
+
+Ogni uomo può essere lodato — e giustamente lodato. Se non fa altro che stare su due
+
+gambe, fa qualcosa che una mucca non sa fare. Se un uomo ricco riesce a
+
+stare su due gambe per un [[Time|tempo]] ragionevole, lo si chiama [[Self|auto]]controllo. Se
+
+ha una gamba sola, lo si chiama (con una certa [[Truth|verità]]) [[Self-Sacrifice|abnegazione]]. Io
+
+potrei dire qualcosa di bello (e di vero) su ogni uomo che abbia mai incontrato.
+
+Perciò, non [[Doubt|dubito]] che potrei trovare qualcosa di bello su Lyons o su
+
+Selfridge, se lo cercassi. Ma non lo farò. Il primo postino o
+
+cocchiere che capiti mi fornirà esattamente lo stesso cervello d'acciaio e cuore
+
+d'oro di questi sfortunati uomini fortunati. Ma davvero mi indigna che tutta l'età
+
+del mecenatismo venga fatta rivivere sotto mecenati tanto assurdi; e che tutti i poeti
+
+diventino poeti di [[Court|corte]], sotto re che non hanno prestato alcun giuramento, né ci hanno condotto
+
+in alcuna battaglia.
 
 
 
@@ -12750,6 +12976,180 @@ have expected countries so modern and so industrial to do. But in
 England and Belgium there is Capitalism mixed up with a great many other
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+che venissimo eletti o respinti su una maggioranza meccanica come
+
+chiunque altro; senza che nessuno si sognasse di leggere un discorso elettorale più di
+
+quanto legga la pubblicità di un rigeneratore di capelli.
+
+Tirannia e copricapo
+
+Ma c'è un altro e più sottile modo in cui possiamo mancare il bersaglio;
+
+ed è questo: non serbando un mortale [[Silence|silenzio]] al riguardo, ma essendo appena
+
+abbastanza arguti da enunciarlo in modo errato. Così, alcuni giornali ufficiali
+
+liberali hanno quasi portato il loro [[Courage|coraggio]] al punto critico riguardo al
+
+bestiale colpo di Stato in Sudafrica. Hanno portato il loro
+
+[[Courage|coraggio]] al punto critico; e lì si è impuntato. Non riesce ad andare
+
+oltre; perché ha mancato il punto principale. I liberali moderni compiono
+
+i loro fiacchi tentativi di attaccare l'introduzione della [[Slavery|schiavitù]] in Sud
+
+Africa da parte degli olandesi e degli ebrei, con un'elusione assai tipica del fatto
+
+vitale. Il fatto vitale è semplicemente la [[Slavery|schiavitù]]. La maggior parte di questi olandesi si è
+
+sempre sentita padrona di schiavi. La maggior parte di questi ebrei si è sempre sentita come
+
+schiava. Ora che sono in cima, hanno una particolare e curiosa
+
+specie di sfrontatezza, che si conosce solo tra gli schiavi. Ma i
+
+giornalisti liberali faranno del loro meglio per suggerire che il torto
+
+sudafricano consistesse in ciò che chiamano Legge Marziale. Ossia, che vi sia
+
+qualcosa di particolarmente malvagio nel fatto che uomini compiano un atto di crudeltà in cachi
+
+o in vermiglio, ma non se lo compiono in blu scuro con bottoni di peltro.
+
+Il [[Tyrant|tiranno]] che porta un colbacco o un berretto da fatica è abominevole; il [[Tyrant|tiranno]]
+
+che porta una parrucca di crine di cavallo è scusabile. Essere giudicati dai soldati è
+
+l'inferno; ma essere giudicati dagli avvocati è il paradiso.
+
+Ora il punto non va mancato in questo modo. Ciò che è sbagliato nella
+
+tirannia in Africa non è che sia gestita da soldati. Sarebbe altrettanto
+
+grave, o peggio, se fosse gestita da poliziotti. Ciò che è sbagliato è che,
+
+per la prima [[Time|volta]] dai tempi pagani, uomini privati sono costretti a
+
+lavorare per un uomo privato. Gli uomini vengono puniti con la [[Imprisonment|prigionia]] o l'[[Exile|esilio]]
+
+per aver rifiutato di accettare un impiego. Il fatto che Botha sappia cavalcare un [[Horse|cavallo]],
+
+o [[Fire|sparare]] con un fucile, lo rende migliore, anziché peggiore, di un uomo come
+
+Sidney Webb o Philip Snowden, che tentano la stessa [[Slavery|schiavitù]] con metodi assai meno
+
+virili. Il Partito Liberale cercherà di deviare l'intera discussione
+
+verso una su ciò che chiamano militarismo. Ma i termini stessi della politica
+
+moderna lo smentiscono. Poiché, quando parliamo di veri ribelli contro il
+
+sistema presente, li chiamiamo Militanti. E nessuno ve ne sarà nello
+
+Stato Servile.
+
+DI NUOVO LO STATO SERVILE
+
+Ho letto l'altro giorno, in una citazione da un giornale tedesco, l'assai
+
+caratteristica osservazione che la [[Germany|Germania]], avendo annesso il Belgio, avrebbe presto
+
+ristabilito il suo commercio e la sua prosperità, e che, in particolare,
+
+si stavano già prendendo accordi per introdurre nella nuova
+
+provincia le leggi tedesche per la protezione dei lavoratori.
+
+Mi accontento pienamente di quel paragrafo ai fini di qualsiasi
+
+controversia su ciò che si chiama atrocità tedesca. Se uomini che conosco non mi
+
+avessero detto di aver visto con i propri occhi un neonato infilzato con la baionetta; se i
+
+più rispettabili profughi non recassero con sé storie di casolari in fiamme
+
+— sì, e [[Well|anche]] di contadini bruciati; se i medici non
+
+riferissero ciò che riferiscono sulle condizioni delle ragazze negli ospedali;
+
+se non vi fossero fatti; se non vi fossero fotografie, quella sola frase che ho
+
+citato basterebbe pienamente a convincermi che i prussiani
+
+sono tiranni; tiranni in un senso peculiare e quasi folle che li rende
+
+preminenti fra i principi malvagi della terra. Il primo e
+
+più impressionante tratto è una stupidità che si eleva a una sorta di spettrale
+
+[[innocence|innocenza]]. La protezione dei lavoratori! Alcuni lavoratori, forse, avrebbero
+
+voglia di essere protetti dagli shrapnel; alcuni sarebbero lieti di aprire
+
+un ombrello che riparasse dalle cose che cadono dal gentile
+
+Zeppelin nel cielo sul luogo sottostante. Alcuni di questi scontenti
+
+proletari hanno assunto la stessa posizione del loro capo Vandervelde, e
+
+sono ora energicamente impegnati a proteggere se stessi lungo la linea
+
+dell'Yser; e sono lieto di dire non del tutto senza [[success|successo]]. È
+
+probabile che quasi tutti i lavoratori belgi, nel
+
+complesso, preferirebbero essere protetti da bombe, sciabole, città in fiamme,
+
+fame, tortura e il tradimento di re malvagi. Insomma, è
+
+probabile — è quantomeno possibile, per quanto empia sia l'idea — che
+
+preferirebbero essere protetti dai tedeschi e da tutto ciò che rappresentano.
+
+Ma se a un lavoratore belga si dice che non dev'essere protetto dai
+
+tedeschi, bensì proprio protetto dai tedeschi, credo che gli si possa
+
+perdonare di restare a bocca aperta. Il suo primo impulso, immagino, sarà di chiedere:
+
+«Da chi? C'è forse gente peggiore in arrivo?»
+
+Ma a parte l'infernale ironia di questa idea umanitaria, la questione
+
+che essa solleva è davvero di solida importanza per chi ha una politica
+
+più o meno simile alla nostra. C'è un punto assai urgente in quella
+
+domanda: «Da chi verrebbero protetti i lavoratori belgi dalle
+
+leggi tedesche?» E se la seguiamo, saremo in grado di analizzare
+
+qualcosa di quel [[Poison|veleno]] — in gran parte un [[Poison|veleno]] prussiano — che da tempo
+
+opera nella nostra stessa comunità, a schiavizzazione del debole
+
+e a segreto rafforzamento del forte. Poiché gli eserciti prussiani
+
+sono, in modo preminente, l'avanguardia dello Stato Servile. Lo dico
+
+scientificamente, e del tutto a prescindere dalla passione o persino dalla preferenza.
+
+Non nutro illusioni né sul Belgio né sull'Inghilterra. Entrambi sono stati
+
+macchiati dalla fuliggine del Capitalismo e accecati dal fumo della mera
+
+[[Ambition|ambizione]] coloniale; entrambi sono stati colti in svantaggio in tale
+
+sudiciume e disordine moderno; entrambi ne sono usciti assai meglio di quanto mi
+
+sarei aspettato da paesi così moderni e così industriali. Ma in
+
+Inghilterra e in Belgio il Capitalismo è mescolato a molte altre
+
 
 
 <span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_14" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 14)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
@@ -15413,6 +15813,182 @@ was fought about a symbol, a badge, a thing attended with no kind of
 
 practical results, like the flags for which men allow themselves to fall
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+stemmi e arazzi, se solo il volgo profano non li avesse ricoperti
+
+di pubblicità di Sapolio e del Sunlight Soap. Ma la pubblicità non
+
+viene dai molti illetterati. Viene dai pochi raffinati.
+
+Avete mai sentito di una folla insorta per tappezzare il Municipio con
+
+proclami a favore del Sapolio? Avete mai visto un pover'uomo cencioso
+
+disegnare e dipingere faticosamente un quadro sul muro a favore
+
+del Sunlight Soap — semplicemente per [[Love|amore]] dell'opera? È un'assurdità; coloro che
+
+ricoprono i nostri muri pubblici di brutte immagini sono quegli stessi pochi eletti che
+
+ricoprono i propri muri privati di quadri squisiti e costosi. La
+
+volgarizzazione della vita moderna è venuta dalla classe dirigente; dalla
+
+classe altamente istruita. La maggior parte di chi ha manifesti a Camberwell
+
+ha titoli nobiliari a Westminster. Ma l'esempio più forte di tutti è quello
+
+che è rimasto ininterrotto fino a poco fa, e in gran parte ancora prevale; la
+
+spettrale monotonia della Stampa.
+
+Poi viene quell'altra leggenda; l'idea che uomini come i padroni dei
+
+Trust dei giornali «diano al popolo ciò che vuole». Ebbene, è proprio lo
+
+scopo e la definizione di un Trust il dare al popolo ciò che esso
+
+sceglie. Ai vecchi tempi, quando i Parlamenti in Inghilterra erano liberi,
+
+si scoprì che a un cortigiano era concesso vendere tutta la seta, e
+
+a un altro vendere tutto il vino dolce. Un membro della [[house|Camera]] dei Comuni
+
+chiese con umorismo a chi fosse concesso vendere tutto il pane. Davvero tremo
+
+a pensare che cosa avrebbe detto quel sarcastico legislatore se lo avessero
+
+liquidato con le moderne fandonie sul «tastare il gusto del pubblico».
+
+Immaginate che il primo cortigiano avesse detto che, col suo scaltro intuito da [[Self|sé]] fatto,
+
+aveva rilevato che la gente nutriva un vago [[Desire|desiderio]] di seta; e
+
+persino un profondo, oscuro [[Desire|desiderio]] umano di pagarla tanto alla iarda! Immaginate
+
+che il secondo cortigiano avesse detto di aver, col suo rude intelletto,
+
+scoperto un generale [[Desire|desiderio]] di vino: e che la gente comprava il suo vino
+
+al suo prezzo — quando non poteva comprarne altro! Immaginate che un terzo cortigiano si fosse
+
+alzato di scatto e avesse detto che la gente comprava sempre il suo pane quando non
+
+riusciva a trovarne altrove.
+
+[[Well|Ebbene]], è un parallelo perfetto. «Dopo il pane, il bisogno del popolo
+
+è la conoscenza», disse Danton. La conoscenza è ora un monopolio, e giunge
+
+ai cittadini in rivoli esili e selezionati, esattamente come il pane
+
+potrebbe giungere a una [[City|città]] assediata. Gli uomini devono voler sapere ciò che
+
+accade, chiunque abbia il privilegio di riferirglielo. Devono ascoltare
+
+il messaggero, anche se è un bugiardo. Devono ascoltare il bugiardo,
+
+anche se è un noioso. Il giornalista ufficiale, da qualche [[Time|tempo]] a questa parte, è
+
+stato tanto un noioso quanto un bugiardo; ma era impossibile, fino a poco fa,
+
+trascurare del tutto i suoi fogli di notizie. Di recente la Stampa capitalista
+
+ha davvero cominciato a essere trascurata; perché il suo cattivo giornalismo era
+
+soverchiante e spaventoso. Di recente abbiamo davvero cominciato a scoprire che
+
+il capitalismo non sa scrivere, così come non sa combattere, o pregare, o sposarsi, o
+
+fare una battuta, o compiere qualsiasi altra afflitta azione umana. Ma questa scoperta
+
+è stata piuttosto recente. Il giornale capitalista non fu mai davvero
+
+non letto finché non fu davvero illeggibile.
+
+Se conservate la servile superstizione che la Stampa, così com'è gestita dai
+
+capitalisti, sia popolare (in un senso qualsiasi tranne quello in cui l'[[Water|acqua]] sporca
+
+in un [[Desert|deserto]] è popolare), considerate il caso dei solenni articoli in
+
+lode degli uomini che possiedono i giornali — uomini del tipo di Cadbury o
+
+Harmsworth, uomini del tipo del piccolo club di milionari. Avete
+
+mai sentito un uomo qualunque su un tram o un treno parlare del
+
+luminoso e geniale sorriso di Carnegie o della semplice, disinvolta ospitalità di Rothschild? Avete
+
+mai sentito un cittadino comune chiedere quale fosse l'opinione di Sir Joseph
+
+Lyons sulle speranze e i timori di questa, la nostra terra natia? Questi pochi
+
+uomini gretti pubblicano giornali per lodare se stessi. Non potreste
+
+convincere un povero intelligente a lodare l'[[Soul|anima]] di un milionario, se non a
+
+pagamento, più di quanto potreste convincerlo a vendere il sapone di un milionario, se non a
+
+pagamento. E ripeto che, benché vi siano altri aspetti della questione
+
+della nuova incursione plutocratica, uno dei più importanti è quella puramente giornalistica:
+
+la [[Jealousy|gelosia]]. La Stampa Gialla è cattivo giornalismo: e desidera impedire la
+
+comparsa del buon giornalismo.
+
+Non c'è membro medio del pubblico che non preferirebbe veder
+
+discutere Lloyd George per ciò che è, un gallese di genio e di ideali,
+
+stranamente affascinato dalla cattiva moda e dalla cattiva finanza, piuttosto che
+
+discusso per ciò che né lui né alcun altro fu mai, un perfetto
+
+democratico o un demagogo del tutto detestabile. Non c'è lettore di un
+
+quotidiano che non proverebbe più interesse — e più rispetto — per Sir
+
+Rufus Isaacs come uomo che è stato agente di cambio, che come uomo che
+
+si dà il caso sia Procuratore Generale. Non c'è uomo della strada che non sia
+
+più interessato agli investimenti di Lloyd George che alla sua Campagna per la Terra.
+
+Non c'è uomo della strada che non saprebbe capire (e apprezzare)
+
+Rufus Isaacs come ebreo meglio di quanto possa mai apprezzarlo come uomo di Stato
+
+britannico. Non c'è giornalista sano di mente al mondo che direbbe che il
+
+resoconto ufficiale dei Marconi sarebbe migliore «materia» del vero
+
+resoconto che giornali come questo hanno tirato fuori. Abbiamo commesso un
+
+delitto contro il proprietario del giornale che egli non perdonerà mai. Facciamo
+
+notare che i suoi giornali sono noiosi. E ci proponiamo di stampare giornali
+
+che siano interessanti.
+
+LA POESIA DELLA RIVOLUZIONE
+
+Chiunque, tranne un capitalista coerente e soddisfatto, il quale dev'essere
+
+qualcosa di assai vicino a un satanista, deve rallegrarsi dello spirito e del
+
+[[success|successo]] della Battaglia degli Autobus. Ma una cosa di essa che
+
+mi piace in modo particolare è che fu combattuta, almeno sotto un
+
+aspetto, su un punto che lo [[Fool|sciocco]] plutocrate definisce poco pratico. Fu
+
+combattuta per un simbolo, un distintivo, una cosa che non comporta alcun genere di
+
+risultati pratici, come le bandiere per cui gli uomini si lasciano cadere
 
 
 

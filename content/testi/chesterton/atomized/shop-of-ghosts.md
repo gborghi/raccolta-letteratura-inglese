@@ -331,7 +331,7 @@ I did not speak, and it was he who spoke again.
 
 Il negozio di [[Ghosts|fantasmi]]
 
-G. K. Chesterton  
+G. K. Chesterton
 
 La bottega dei [[Ghosts|fantasmi]] fu pubblicata per la prima volta sul Daily News di [[London|Londra]]. In seguito venne raccolta nel libro di saggi Tremendous Trifles.
 

@@ -262,6 +262,34 @@ seeing less and less of the significance of the sky or the stones.
 * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I DODICI UOMINI
+
+G.K. Chesterton
+
+Da «Tremendous Trifles» (1909)
+
+L'altro giorno, mentre meditavo sulla [[morality|moralità]] e sul signor H. Pitt, fui, per così dire, ghermito e messo in un banco di giuria a giudicare la gente. Il ghermirmi richiese alcune settimane, ma a me parve qualcosa d'improvviso e arbitrario. Fui messo in quel banco perché abitavo a Battersea, e il mio nome cominciava con la C. Guardandomi attorno, vidi che erano stati convocati e si trovavano presenti nel [[Court|tribunale]] intere folle e processioni di uomini, tutti abitanti di Battersea, e tutti con un nome che cominciava con la C.
+
+Pare che convochino sempre i giurati con questo travolgente criterio alfabetico. Con un solo colpo ufficiale, per così dire, Battersea viene spogliata di tutte le sue C, e lasciata a cavarsela come può con il resto dell'alfabeto. Manca un Cumberpatch da una via, un Chizzolpop da un'altra, tre Chucksterfield da Chucksterfield [[house|House]]; i bambini reclamano a gran voce un Cadgerboy assente; la donna all'angolo della strada piange il suo Coffintop, e non vuole essere consolata. Ci sistemiamo con spensierata disinvoltura ai nostri posti (poiché siamo una razza audace e temeraria, noi C di Battersea), e ci viene somministrato un giuramento in maniera del tutto inudibile da un individuo somigliante a un chirurgo militare nella sua seconda [[Childhood|fanciullezza]]. Comprendiamo, tuttavia, che dobbiamo giudicare [[Well|bene]] e fedelmente la causa tra il nostro sovrano signore il [[King|Re]] e il prigioniero alla sbarra, nessuno dei quali si è ancora presentato.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+Proprio mentre mi chiedevo se il [[King|Re]] e il prigioniero non stessero, forse, giungendo a un amichevole accordo in qualche vicina [[house|taverna]], la testa del prigioniero spunta sopra la barriera del banco degli imputati; è accusato di rubare biciclette, ed è il ritratto vivente di un mio grande amico. Entriamo nel merito del furto delle biciclette. Giudichiamo [[Well|bene]] e fedelmente la causa tra il [[King|Re]] e il prigioniero nella faccenda delle biciclette. E giungiamo alla conclusione, dopo una breve ma ragionevole discussione, che il [[King|Re]] non è in alcun modo implicato. Passiamo poi a una donna che aveva trascurato i propri figli, e che ha l'aria di essere stata trascurata da qualcuno o da qualcosa. E io sono tra coloro che immaginano che qualcosa l'avesse trascurata.
+
+Per tutto il [[Time|tempo]] in cui l'occhio coglieva queste lievi apparenze e il cervello formulava queste lievi critiche, vi era nel cuore una pietà e un [[Fear|timore]] barbarici che gli uomini non hanno mai saputo esprimere fin dal principio, ma che sono la forza dietro metà dei [[Poems|poemi]] del mondo. Quello stato d'animo non può nemmeno essere adeguatamente suggerito, se non fiocamente con questa affermazione: che la [[Tragedy|tragedia]] è la più alta espressione dell'infinito valore della vita umana. Mai ero stato così vicino al [[Pain|dolore]]; e mai così lontano dal pessimismo. Di norma non avrei affatto parlato di queste oscure emozioni, poiché parlarne è troppo difficile; ma le menziono ora per una ragione specifica e particolare, alla cui esposizione procederò subito. Esprimo questi sentimenti perché dalla loro fornace scaturì una curiosa presa di coscienza di una [[Truth|verità]] politica o sociale. Vidi con una strana e indescrivibile chiarezza che cosa sia davvero una giuria, e perché non dobbiamo mai lasciarla andare.
+
+La tendenza della nostra epoca fino a questo [[Time|momento]] è stata costantemente verso lo specialismo e il professionismo. Tendiamo ad avere soldati addestrati perché combattono meglio, cantanti addestrati perché cantano meglio, ballerini addestrati perché [[Dance|danzano]] meglio, ridenti appositamente istruiti perché ridono meglio, e così via all'infinito. Il principio è stato applicato al diritto e alla politica da innumerevoli scrittori moderni. Molti Fabiani hanno insistito che una parte maggiore del nostro lavoro politico dovrebbe essere svolta da esperti. Molti giuristi hanno dichiarato che la giuria non addestrata dovrebbe essere del tutto soppiantata dal giudice addestrato.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Ora, se questo nostro mondo fosse davvero ciò che si dice ragionevole, non so se vi sarebbe nulla da ridire su tutto ciò. Ma il vero risultato di ogni esperienza e il vero fondamento di ogni religione è questo. Che le quattro o cinque cose che è più praticamente essenziale che un uomo conosca sono tutte quante ciò che la gente chiama paradossi. Vale a dire che, per quanto le troviamo tutti nella vita come mere semplici verità, pure non possiamo facilmente enunciarle a parole senza renderci colpevoli di apparenti contraddizioni verbali. Una di esse, per esempio, è l'inoppugnabile luogo comune che l'uomo il quale trova più piacere per sé è spesso l'uomo che meno lo va cercando. Un'altra è il [[Paradox|paradosso]] del [[Courage|coraggio]]; il fatto che il modo per evitare la [[Death|morte]] è di non averne troppa avversione. Chi è abbastanza incurante delle proprie ossa da arrampicarsi su qualche promettente scogliera sopra la marea può salvare le proprie ossa proprio grazie a quell'incuranza. Chiunque perderà la propria vita, quello stesso la salverà; affermazione del tutto pratica e prosaica.
+
+Ora, uno di questi quattro o cinque paradossi che si dovrebbero insegnare a ogni bimbo che ciarla sulle ginocchia della madre è il seguente: che quanto più un uomo guarda una cosa, tanto meno riesce a vederla, e quanto più un uomo impara una cosa, tanto meno la conosce. L'argomento fabiano dell'esperto, secondo cui l'uomo addestrato dovrebbe essere l'uomo di cui fidarsi, sarebbe assolutamente inconfutabile se fosse davvero vero che un uomo il quale studiasse una cosa e la praticasse ogni giorno ne cogliesse sempre più il significato. Ma non è così. Egli continua a coglierne sempre meno il significato. Allo stesso modo, ahimè!, tutti noi continuiamo ogni giorno, a meno di non spronarci di continuo alla gratitudine e all'[[Humility|umiltà]], a cogliere sempre meno il significato del cielo o delle pietre.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="twelve-men (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
@@ -301,14 +329,14 @@ if I remember right, by the Founder of [[Christianity]].
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ora è cosa terribile segnare un uomo per la vendetta degli uomini.
+Ora, è cosa terribile additare un uomo alla vendetta degli uomini.
 Ma è cosa a cui un uomo può abituarsi, come può abituarsi
-ad altre cose terribili; può persino abituarsi al sole.
-E la cosa orribile di tutti i funzionari legali, anche i migliori,
-di tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
-non è che siano malvagi (alcuni di loro sono buoni), non che
-siano stupidi (parecchi di loro sono assai intelligenti), è semplicemente
-che vi si sono abituati.
+ad altre cose terribili; può abituarsi persino al sole.
+E l'orribile, in tutti i funzionari della legge, anche i migliori,
+in tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
+non è che siano malvagi (alcuni sono buoni), non è che
+siano stupidi (parecchi sono assai intelligenti): è semplicemente
+che ci hanno fatto l'abitudine.
 
 A rigore, essi non vedono l'imputato al banco; tutto ciò che
 vedono è il solito uomo nel solito posto.  Non vedono

@@ -329,6 +329,69 @@ of typical advice as to how to succeed.  It is so practical;
 it [[Leaves|leaves]] so little [[Doubt|doubt]] about what should be our next step--
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La fallacia del [[success|successo]]
+
+G. K. Chesterton
+
+Estratto da TUTTE LE COSE DA TENERE PRESENTI di G.K. Chesterton, da un'edizione della John Lane Company, [[New York]], 1909.
+
+Questo testo è stato trascritto da Rob Szarka.
+--------------------------------------------------------------------------
+
+Nel nostro [[Time|tempo]] è apparsa una particolare classe di libri e articoli che io sinceramente e solennemente penso possano essere chiamati i più sciocchi mai conosciuti tra gli uomini. Sono molto più selvaggi dei romanzi cavallereschi più selvaggi e molto più noiosi del trattato religioso più noioso. Inoltre, i romanzi cavallereschi erano almeno sui cavalieri; i trattati religiosi sono sulla religione. Ma queste cose non sono su nulla; sono sul cosiddetto [[success|Successo]]. Su ogni bancarella di libri, in ogni rivista, si possono trovare opere che insegnano alle persone come avere successo. Sono libri che mostrano agli uomini come avere successo in tutto; sono scritti da uomini che non riescono nemmeno a scrivere libri.
+Per cominciare, naturalmente, non esiste una cosa chiamata [[success|Successo]]. O, se preferite dirlo così, non c'è nulla che non abbia successo. Che una cosa abbia successo significa semplicemente che esiste; un milionario ha successo nell'essere un milionario e un [[donkey|asino]] nell'essere un [[donkey|asino]]. Ogni uomo vivo ha avuto successo nel vivere; ogni uomo morto può aver avuto successo nel commettere [[suicide|suicidio]]. Ma, passando sopra alla cattiva [[logic|logica]] e alla cattiva [[philosophy|filosofia]] della frase, possiamo prenderla, come fanno questi scrittori, nel senso ordinario di [[success|successo]] nell'ottenere denaro o posizione mondana.
+Questi scrittori si propongono di dire all'uomo comune come può avere successo nel suo commercio o speculazione: come, se è un costruttore, può avere successo come costruttore; come, se è un agente di cambio, può avere successo come tale. Si propongono di mostrargli come, se è un [[grocer|droghiere]], possa diventare uno sportivo con una barca a vela; come, se è un giornalista di decima categoria, possa diventare un pari del regno; e come, se è un ebreo tedesco, possa diventare anglosassone. Questa è una proposta definita e commerciale, e penso davvero che le persone che comprano questi libri (se qualcuno li compra) abbiano il diritto morale, se non legale, di chiedere indietro i loro soldi. Nessuno oserebbe pubblicare un libro sull'elettricità che letteralmente non dica nulla sull'elettricità; nessuno oserebbe pubblicare un articolo sulla botanica che mostri che lo scrittore non sa quale estremità di una pianta cresce nella terra. Eppure il nostro mondo moderno è pieno di libri sul [[success|Successo]] e sulle persone di successo che letteralmente non contengono alcun tipo di idea, e appena un po' di senso verbale.
+
+È perfettamente ovvio che in qualsiasi onesta occupazione (come la muratura o lo scrivere libri) ci sono solo due modi (in un senso particolare) di avere successo. Uno è fare un lavoro molto buono, l'altro è imbrogliare. Entrambi sono troppo semplici per richiedere spiegazioni letterarie.
+Se partecipi al salto in alto, o salti più in alto di chiunque altro, oppure riesci a far credere che lo hai fatto.
+Se vuoi avere successo nel whist, o devi essere un buon giocatore di whist,
+oppure gioca con le carte segnate. Puoi voler un libro sul salto;
+puoi voler un libro sul whist; puoi voler un libro su
+come imbrogliare al whist. Ma non puoi volere un libro sull'[[success|successo]].
+Soprattutto, non puoi volere un libro sull'[[success|successo]] come quelli che
+ora trovi sparsi a centinaia sul mercato dei libri.
+Puoi voler saltare o giocare a carte; ma non vuoi leggere
+affermazioni vaghe nel senso che il salto è salto,
+o che le partite si vincono con i vincitori. Se questi scrittori, per esempio,
+dicessero qualcosa sull'[[success|successo]] nel salto sarebbe qualcosa
+del genere: "Il saltatore deve avere un obiettivo chiaro davanti a sé.
+Deve [[Desire|desiderare]] definitivamente di saltare più in alto degli altri uomini che sono
+nello stesso concorso. Non deve lasciare che deboli sentimenti di [[Mercy|pietà]]
+(introdotti dai disgustosi Little Englanders e Pro-Boeri)
+gli impediscano di CERCARE DI FARE DEL SUO MEGLIO. Deve ricordare che
+un concorso di salto è distintamente competitivo, e che,
+come Darwin ha gloriosamente dimostrato, I PIÙ DEBOLI VENGONO SCONFITTI."
+Questo è il tipo di cosa che direbbe il libro, e sarebbe molto utile, senza [[Doubt|dubbio]],
+se letto a voce bassa e tesa a un giovane
+proprio sul punto di fare il salto in alto. O supponiamo che nel corso
+dei suoi vagabondaggi intellettuali il filosofo del [[success|successo]] si imbattesse
+nel nostro altro caso, quello del gioco delle carte, i suoi consigli tonici sarebbero:
+"Nel giocare a carte è molto necessario evitare l'errore
+(commesso comunemente da umanitari sentimentali e fautori del libero scambio)
+di permettere al tuo avversario di vincere la partita. Devi avere coraggio e decisione
+e ANDARE A VINCE. I giorni dell'idealismo e della superstizione sono finiti.
+Viviamo in un [[Time|tempo]] di scienza e buon senso, ed è
+stato ormai definitivamente provato che in qualsiasi gioco dove due giocano
+SE UNO NON VINCE L'ALTRO VINCERÀ." È tutto molto emozionante,
+certo; ma confesso che se stessi giocando a carte preferirei
+avere qualche decente libretto che mi dicesse le regole del gioco.
+Oltre alle regole del gioco è tutta una questione di talento
+o disonestà; e mi impegno a fornire l'uno o l'altra--
+che non sta a me dire quale.
+
+Sfogliando una rivista popolare, trovo un esempio strano e divertente.
+C'è un articolo intitolato "L'istinto che rende le persone ricche".
+È decorato in prima pagina con un formidabile ritratto di Lord Rothschild.
+Esistono molti metodi definitivi, onesti e disonesti, che rendono
+le persone ricche; l'unico "istinto" che conosco che lo fa è quello
+che il [[Christianity|cristianesimo]] teologico descrive in modo grossolano come "il
+peccato dell'avarizia". Questo, tuttavia, non riguarda il punto attuale.
+Voglio citare i seguenti paragrafi squisiti come un esempio
+di consiglio tipico su come avere successo. È così pratico;
+[[Leaves|lascia]] così poco [[Doubt|dubbio]] su quale dovrebbe essere il nostro prossimo passo--
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="success (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
@@ -421,6 +484,62 @@ that they are hiding, and I have sometimes thought I heard upon
 the [[Wind|wind]] the laughter and whisper of the reeds.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il nome Vanderbilt è sinonimo di ricchezza acquisita con l'impresa moderna.
+"Cornelius", il fondatore della famiglia, fu il primo dei grandi magnati americani del commercio. Iniziò come figlio di un povero agricoltore; finì per diventare milionario venti volte.
+
+Aveva l'istinto per fare soldi. Afferrò le sue opportunità, quelle offerte dall'applicazione della macchina a vapore al traffico oceanico e dalla nascita del trasporto ferroviario negli Stati Uniti d'[[america|America]], ricchi ma sottosviluppati, e di conseguenza accumulò un immensa fortuna.
+
+Ora è ovvio che non possiamo tutti seguire esattamente le orme di questo grande re delle ferrovie. Le opportunità precise che gli si presentarono non ci si presentano. Le circostanze sono cambiate. Ma, anche se così è, tuttavia, nella nostra sfera e nelle nostre circostanze, POSSIAMO seguire i suoi metodi generali; possiamo cogliere le opportunità che ci vengono date e darci una buona possibilità di raggiungere la ricchezza.
+
+In tali strane dichiarazioni vediamo con assoluta chiarezza ciò che si trova realmente [[Bottom|al fondo]] di tutti questi articoli e libri.
+Non è semplice affarismo; non è nemmeno semplicemente cinismo.
+È misticismo; il terribile misticismo del denaro. L'autore
+di quel passaggio in realtà non aveva la più pallida idea di come Vanderbilt avesse fatto i suoi soldi, o di come chiunque altro potesse farli.
+Egli conclude infatti le sue osservazioni proponendo un qualche piano;
+ma questo non ha nulla a che vedere con Vanderbilt. Egli desiderava semplicemente
+prostrarsi davanti al mistero del milionario.
+Perché quando adoriamo veramente qualcosa, [[Love|amiamo]] non solo la sua chiarezza ma anche la sua oscurità.
+Ci esaltiamo nella sua stessa invisibilità.
+Così, per esempio, quando un uomo è [[Love|innamorato]] di una donna, prova
+particolare piacere nel fatto che le donne siano irragionevoli.
+Così ancora il poeta molto pio, celebrando il suo Creatore,
+trova piacere nel dire che Dio si muove in modo misterioso.
+Ora, l'autore del paragrafo da me citato non sembra
+aver avuto nulla a che fare con un dio e non credo
+(valutandone la estrema mancanza di praticità) che sia mai stato veramente [[Love|innamorato]] di una donna.
+Ma ciò che egli adora, Vanderbilt,
+lo tratta proprio in questo modo mistico. Egli si compiace davvero del fatto
+che il suo dio Vanderbilt gli stia tenendo un segreto.
+E riempie la sua [[Soul|anima]] con una sorta di trasporto astuto,
+un'estasi da sacerdote, nel fingere di rivelare alla moltitudine quel terribile segreto che non conosce.
+
+Parlando dell'istinto che rende le persone ricche, lo stesso autore osserva...
+
+Nei tempi antichi la sua esistenza era pienamente compresa. I Greci l'hanno immortalata nella storia di Mida, del "Tocco d'Oro". Ecco un uomo che trasformava in oro tutto ciò a cui poneva mano. La sua vita era un progresso tra le ricchezze. Da ogni cosa che gli capitava tra le mani creava il prezioso metallo. 'Una leggenda sciocca', dicevano i sapientoni dell'era vittoriana. 'Una [[Truth|verità]]', diciamo noi di oggi. Tutti conosciamo uomini del genere. Incontriamo sempre o leggiamo di persone che trasformano in oro tutto ciò a cui toccano. Il [[success|successo]] [[dogs|seguono]] i loro passi. La strada della vita li conduce senza errore verso l'alto. Non possono fallire.
+
+Sfortunatamente, tuttavia, anche Mida poteva fallire; e infatti è accaduto.  Il suo cammino non conduceva inesorabilmente verso l'alto.  Moriva di fame perché ogni volta che toccava un biscotto o un panino al prosciutto si trasformavano in oro.
+Questo era il punto cruciale della storia, anche se lo scrittore deve sottolinearlo delicatamente, scrivendo così vicino a un ritratto del Lord Rothschild.
+Le vecchie favole dell'umanità sono davvero profondamente sagge; ma non dobbiamo permettere che vengano censurate nell'interesse di Mr. Vanderbilt.
+Non dobbiamo rappresentare il [[King|Re]] Mida come un esempio di [[success|successo]]; era un fallimento di una specie insolitamente dolorosa.  Inoltre, aveva le orecchie
+di un asino.  E in più (come la maggior parte delle altre persone prominenti e facoltose)
+si sforzava di nascondere il fatto.  Fu il suo barbiere (se non ricordo male) a dover essere trattato con riservatezza
+riguardo a questa peculiarità; e invece di comportarsi
+come una persona intraprendente della scuola del "Riuscire-a-tutti-i-costi" e cercare di estorcere denaro al [[King|Re]] Mida, il barbiere se ne andò e sussurrò questo splendido
+pezzo di scandalo mondano alle canne, che lo apprezzarono enormemente.
+Si dice che le canne lo sussurrassero anche mentre i venti le facevano oscillare
+avanti e indietro.  Guardo con riverenza il ritratto del Lord Rothschild; leggo
+con riverenza delle imprese di Mr. Vanderbilt.  So che non posso trasformare tutto ciò che tocco in oro; ma poi so anche
+che non ho mai provato, avendo una preferenza per altre sostanze,
+come l'erba e il buon vino.  So che queste persone hanno certamente
+avuto successo in qualcosa; che hanno certamente superato qualcuno;
+so che sono re in un senso in cui nessun uomo è mai stato
+re prima d'ora; che creano mercati e si estendono su continenti.
+Eppure mi sembra sempre che ci sia qualche piccolo fatto domestico
+che nascondono, e a volte ho pensato di aver sentito sul
+[[Wind|vento]] la risata e il sussurro delle canne.
+
 
 
 <span class="atom-split" data-atom="part--part_03" data-title="success (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
@@ -455,7 +574,22 @@ Email: martin@gkc.org.uk
 
 <span class="qlang-split" data-lang="it"></span>
 
-Almeno, [[Hope|speriamo]] di vivere tutti abbastanza a lungo da vedere questi assurdi libri sul [[success|Successo]] ricoperti di una giusta derisione e dimenticanza. Essi non insegnano alla gente a riuscire, ma le insegnano a essere snob; diffondono una sorta di malvagia poesia della mondanità. I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]? Cento anni fa avevamo l'ideale del Garzone Diligente; ai ragazzi si diceva che con parsimonia e lavoro sarebbero tutti diventati Lord Sindaci. Era fallace, ma era virile, e conteneva un minimo di [[Truth|verità]] morale. Nella nostra società la temperanza non aiuterà un uomo povero ad arricchirsi, ma può aiutarlo a rispettare se stesso. Il buon lavoro non ne farà un uomo ricco, ma il buon lavoro può farne un buon lavoratore. Il Garzone Diligente si [[Rose|elevava]] grazie a virtù invero poche e anguste, ma pur sempre virtù. Ma che cosa diremo del vangelo predicato al nuovo Garzone Diligente; il Garzone che si eleva non per le sue virtù, ma dichiaratamente per i suoi vizi?
+Almeno, [[Hope|speriamo]] che tutti vivremo abbastanza da vedere questi assurdi
+libri sul [[success|Successo]] coperti da un giusto scherno e dall'oblio.
+Non insegnano alla gente a riuscire, ma le insegnano
+a essere snob; diffondono una sorta di malvagia poesia della mondanità.
+I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa
+diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]?
+Cent'anni fa avevamo l'ideale dell'Apprendista Operoso;
+si diceva ai ragazzi che con la parsimonia e il lavoro sarebbero tutti diventati Lord Mayor.
+Era illusorio, ma era virile, e aveva un minimo di [[Truth|verità]] morale.
+Nella nostra società, la temperanza non aiuterà un pover'uomo ad arricchirsi,
+ma può aiutarlo a rispettare sé stesso.  Il buon lavoro non lo renderà
+ricco, ma il buon lavoro può renderlo un buon lavoratore.
+L'Apprendista Operoso si [[Rose|elevò]] per virtù poche e anguste invero,
+ma pur sempre virtù.  Ma che cosa diremo del vangelo predicato
+al nuovo Apprendista Operoso; l'Apprendista che si eleva non
+per le sue virtù, ma dichiaratamente per i suoi vizi?
 
 --------------------------------------------------------------------------
 [[[Home|inizio]]] Su alle Opere di G.K.Chesterton sul Web.

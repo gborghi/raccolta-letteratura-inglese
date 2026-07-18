@@ -8125,14 +8125,14 @@ vedendo sempre meno del significato del cielo o delle pietre.
 
 . . . . .
 
-Ora è cosa terribile segnare un uomo per la vendetta degli uomini.
+Ora, è cosa terribile additare un uomo alla vendetta degli uomini.
 Ma è cosa a cui un uomo può abituarsi, come può abituarsi
-ad altre cose terribili; può persino abituarsi al sole.
-E la cosa orribile di tutti i funzionari legali, anche i migliori,
-di tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
-non è che siano malvagi (alcuni di loro sono buoni), non che
-siano stupidi (parecchi di loro sono assai intelligenti), è semplicemente
-che vi si sono abituati.
+ad altre cose terribili; può abituarsi persino al sole.
+E l'orribile, in tutti i funzionari della legge, anche i migliori,
+in tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
+non è che siano malvagi (alcuni sono buoni), non è che
+siano stupidi (parecchi sono assai intelligenti): è semplicemente
+che ci hanno fatto l'abitudine.
 
 A rigore essi non vedono il prigioniero al banco; tutto ciò che
 vedono è il solito uomo nel solito posto. Non vedono
@@ -11194,6 +11194,26 @@ able to convey with your face and your ten fingers by grinning
 and gesticulating to a German innkeeper.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+XXIV
+
+Una [[Tragedy|Tragedia]] da due soldi
+
+Le mie relazioni coi lettori di questa pagina sono state lunghe e piacevoli, ma — forse proprio per questo — sento che è giunto il [[Time|momento]] in cui dovrei confessare l'unico grande delitto della mia vita. Accadde molto [[Time|tempo]] fa; ma non è raro che un tardivo accesso di rimorso riveli simili oscuri episodi molto dopo che sono avvenuti. Non ha nulla a che vedere con le orge della Lega [[anti-puritan|Antipuritana]]. Quel [[Body|sodalizio]] è così offensivamente rispettabile che un giornale, descrivendolo l'altro giorno, definì il mio amico signor [[Edgar]] Jepson «canonico [[Edgar]] Jepson»; e si ritiene che titoli simili siano destinati a tutti noi. No; non è a proposito della condotta dell'arcivescovo Crane, del decano Chesterton, del reverendo James Douglas, di monsignor Bland, e persino di quel nobile e virile vecchio ecclesiastico, il cardinale Nesbit, che desidero (o piuttosto sono spinto dalla mia [[Conscience|coscienza]]) fare questa dichiarazione. Il delitto fu commesso in [[Solitude|solitudine]] e senza complici. Lo commisi [[Alone|solo]]. Lasciate che, con la caratteristica sete dei penitenti di sbrigare per primo il peggio della confessione, lo enunci anzitutto nella sua forma più tremenda e indifendibile. C'è in questo preciso momento in una città della [[Germany|Germania]] (a meno che non sia morto di rabbia scoprendo il torto subìto) un ristoratore al quale devo ancora due soldi. Lasciai per l'ultima volta il suo ristorante all'aperto sapendo di dovergli due soldi. Li portai via sotto il suo naso, malgrado il fatto che quel naso fosse decisamente ebraico. Non l'ho mai pagato, ed è altamente improbabile che mai lo faccia. Come poté verificarsi tale scelleratezza in una vita che è stata, in generale, priva della destrezza necessaria alla frode? La storia è la seguente — e ha una morale, benché forse non ci sia spazio per essa.
+
+. . . . .
+
+È una buona regola generale, per chi viaggia sul Continente, che il modo più facile di conversare in una lingua straniera sia parlare di [[philosophy|filosofia]]. Il genere di conversazione più difficile è parlare delle necessità comuni. La ragione è ovvia. I nomi delle necessità comuni variano completamente da nazione a nazione e sono in genere alquanto strani e bizzarri. Come potrebbe, per esempio, un francese supporre che una cassetta del carbone si chiami «scuttle»? Se ha mai visto la parola scuttle, è stato nella stampa sciovinista, dove la «politica dello scuttle», dello sgombero, si usa ogni volta che cediamo qualcosa a una piccola potenza, come i liberali, invece di cedere tutto a una grande potenza, come gli imperialisti. Quale inglese in [[Germany|Germania]] sarebbe poeta abbastanza da indovinare che i tedeschi chiamano un guanto una «scarpa da mano»? Le nazioni battezzano le loro necessità con soprannomi, per così dire. Chiamano le loro tinozze e i loro sgabelli con nomi bizzarri, elfici e quasi affettuosi, come se fossero i loro figli! Ma chiunque sia arrivato almeno all'Esercizio IV di un manualetto può discutere di cose astratte in una lingua straniera. Perché non appena riesce a mettere insieme una frase, scopre che le parole usate nelle discussioni astratte o filosofiche sono quasi le stesse in tutte le nazioni. Sono le stesse per la semplice ragione che provengono tutte dalle cose che furono le radici della nostra comune civiltà. Dal [[Christianity|Cristianesimo]], dall'Impero romano, dalla Chiesa medievale, o dalla [[French Revolution|Rivoluzione francese]]. «Nazione», «cittadino», «religione», «[[philosophy|filosofia]]», «autorità», «la Repubblica», parole come queste sono pressoché uguali in tutti i paesi che attraversiamo. Frenate, dunque, la vostra esuberante ammirazione per il giovanotto che sa disputare con sei atei francesi appena sbarcato a Dieppe. Persino io ne sono capace. Ma con ogni probabilità quello stesso giovanotto non conosce il francese per «calzascarpe». A questa generalizzazione vi sono però tre grandi eccezioni. (1) Nel caso di paesi che non sono affatto europei, e non hanno mai avuto le nostre concezioni civiche, né l'antica cultura latina. Non pretendo che l'espressione patagonica per «cittadinanza» balzi subito alla mente, o che la parola di un dayaco per «la Repubblica» mi sia stata familiare fin dalla culla. (2) Nel caso della [[Germany|Germania]], dove, benché il principio si applichi a molte parole come «nazione» e «[[philosophy|filosofia]]», non si applica in modo così generale, perché la [[Germany|Germania]] ha avuto una politica speciale e deliberata d'incoraggiare la parte puramente germanica della sua lingua. (3) Nel caso in cui non si conosca affatto la lingua, com'è di solito il mio caso.
+
+. . . . .
+
+Tale, almeno, era la mia situazione nel giorno buio in cui commisi il mio delitto. Due delle condizioni eccezionali che ho menzionato si combinavano. Passeggiavo per una città tedesca, e non sapevo il tedesco. Conoscevo, tuttavia, due o tre di quelle grandi e solenni parole che tengono insieme la nostra civiltà europea — una delle quali è «sigaro». Poiché era una giornata calda e sognante, mi sedetti a un tavolo in una specie di [[Garden|giardino]] della birra, e ordinai un sigaro e un boccale di lager. Bevvi la lager e la pagai. Fumai il sigaro, dimenticai di pagarlo, e me ne andai, contemplando estasiato il regale profilo dei [[Mountains|monti]] del Taunus. Dopo una decina di minuti, mi ricordai all'improvviso di non aver pagato il sigaro. Tornai al luogo di ristoro, e posai il denaro. Ma anche il proprietario aveva dimenticato il sigaro, e si limitò a dire cose gutturali in tono interrogativo, chiedendomi, suppongo, che cosa volessi. Dissi «sigaro», e lui mi diede un sigaro. Mentre posavo il denaro, mi sforzai di respingere il sigaro con gesti di rifiuto. Egli credette che il mio rifiuto fosse della [[Nature|natura]] di una condanna di quel particolare sigaro, e me ne portò un altro. Roteai le braccia come un mulino a vento, cercando di trasmettere, con la spazzante universalità del mio gesto, che il mio rifiuto era un rifiuto dei sigari in generale, non di quell'articolo particolare. Egli lo scambiò per l'ordinaria impazienza degli uomini comuni, e si precipitò avanti, le mani colme di sigari d'ogni sorta, insistendo perché li prendessi. Nella disperazione tentai altri generi di pantomima, ma più sigari rifiutavo, più sigari rari e preziosi venivano estratti dalle profondità e dai recessi dell'esercizio. Tentai invano di escogitare un modo per trasmettergli il fatto che avevo già avuto il sigaro. Imitai l'atto di un cittadino che fuma, spegne e getta via un sigaro. Il vigile proprietario pensò soltanto che stessi provando (come in un'estasi d'attesa) le gioie del sigaro che stava per darmi. Alla fine mi ritirai sconfitto: non voleva prendere il denaro e lasciare i sigari [[Alone|soli]]. Cosicché quel ristoratore (sul cui volto l'[[Love|amore]] per il denaro splendeva come il sole a mezzogiorno) rifiutò recisamente e fermamente di ricevere i due soldi che certamente gli dovevo; e io mi portai via quei suoi due soldi e ci gozzovigliai per mesi. [[Hope|Spero]] che nell'ultimo giorno gli angeli rivelino la [[Truth|verità]] con molta dolcezza a quell'infelice.
+
+. . . . .
+
+Questo è il resoconto vero ed esatto della Grande Frode del Sigaro, e la sua morale è questa: che la civiltà è fondata sulle astrazioni. L'idea di debito è una di quelle che non possono in alcun modo essere trasmesse con movimenti fisici, perché è un'idea astratta. E la civiltà ovviamente non sarebbe nulla senza il debito. Sicché, quando gli individui dalla testa dura che studiano la sociologia scientifica (la quale non esiste) vengono a dirvi che la civiltà è materiale o indifferente all'astratto, chiedetevi soltanto quante delle cose che compongono la nostra Società — la Legge, o i Titoli e le Azioni, o il Debito Nazionale — sareste in grado di trasmettere col vostro volto e le vostre dieci dita, facendo smorfie e gesticolando a un oste tedesco.
+
 
 
 <span class="atom-split" data-atom="chapter_26" data-title="Tremendous Trifles — Chapter 25" data-chapter="Chapter 26" data-kind="chapter"></span>
@@ -11366,6 +11386,38 @@ that windmill that stood behind the hollyhocks in the [[Garden|garden]].
 Let me pay you for . . . " Here it was, I think, that we
 were cut off.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+XXV
+
+Una corsa in carrozza attraverso la campagna
+
+Seminato chissà dove, lontano, nelle basse vallate dell'Hertfordshire, giace un villaggio di grande [[Beauty|bellezza]], e non [[Doubt|dubito]] di ammirevole virtù, ma di gusto letterario eccentrico e sbilanciato, il quale chiese a chi scrive di recarvisi la [[Sunday|domenica]] pomeriggio a tenere un discorso.
+
+Ora, era assai difficile arrivarvi la [[Sunday|domenica]] pomeriggio, a causa dello stato indescrivibile in cui sono cadute le nostre leggi e i nostri costumi nazionali riguardo al settimo giorno. Non è [[Puritanism|puritanesimo]]; è semplicemente anarchia. Avrei una certa simpatia per il sabato ebraico, se fosse un sabato ebraico, e ciò per tre ragioni: primo, che la religione è cosa intrinsecamente simpatica; secondo, che non riesco a concepire alcuna religione degna di chiamarsi tale senza un'osservanza fissa e materiale; e terzo, che la particolare osservanza dello starsene seduti senza far nulla è una che si addice al mio temperamento a pennello.
+
+Ma l'assurdità della moderna convenzione inglese è che non lascia un uomo starsene seduto; si limita a fargli perpetuamente lo sgambetto dopo averlo costretto a girovagare. Il nostro sabbatarianismo non ci proibisce di invitare un uomo di Battersea a venire a parlare nell'Hertfordshire; gli impedisce soltanto di arrivarci. Posso capire che una divinità sia adorata con gioie, con [[Flowers|fiori]] e fuochi d'artificio alla vecchia maniera europea. Posso capire che una divinità sia adorata con dolori. Ma non riesco a immaginare alcuna divinità adorata con scomodità. Che il buon musulmano vada alla Mecca, oppure se ne resti nella sua tenda, secondo il suo sentire per i simboli religiosi. Ma di certo Allah non può vedere nulla di particolarmente dignitoso nel fatto che il suo servo sia tratto in inganno dall'orario dei treni, scopra che il vecchio espresso della Mecca non è in servizio, perda la coincidenza a Bagdad, o debba attendere tre ore in una piccola stazioncina secondaria fuori Damasco.
+
+Così fu per me in quell'occasione. Scoprii che non c'era alcun servizio telegrafico per quel luogo; scoprii che c'era un solo debole filo di servizio ferroviario. Ora, se questa fosse stata l'autorità di una vera religione inglese, mi ci sarei sottomesso all'istante. Se credessi che l'impiegato del telegrafo non poteva inviare il telegramma perché in quel momento era irrigidito in un'estasi di [[prayer|preghiera]], riterrei tutti i telegrammi insignificanti al confronto. Se potessi credere che i facchini della ferrovia, appena sollevati dai loro doveri, si precipitassero con passione al più vicino luogo di culto, direi che tutte le conferenze e ogni altra cosa dovrebbero cedere il passo a una simile considerazione. Non mi lamenterei se la [[Faith|fede]] nazionale mi proibisse di prendere qualsiasi impegno di lavoro o di [[Self|auto]]espressione di sabato. Ma, così com'è, essa mi dice soltanto che assai probabilmente osserverò il sabato non osservando l'appuntamento.
+
+. . . . .
+
+Ma devo riprendere i veri particolari del mio racconto. Scoprii che in tutta quella [[Sunday|domenica]] c'era un solo treno con cui potessi anche solo avvicinarmi entro alcune ore o alcune miglia dall'ora o dal luogo. Mi recai perciò al telefono, che è uno dei miei giocattoli preferiti, e giù per il quale ho gridato molti preziosi, ma prematuramente interrotti, monologhi sull'arte e la morale. Ricordo un lieve sussulto di sorpresa quando scoprii che si poteva usare il telefono di [[Sunday|domenica]]; non mi aspettavo che fosse staccato, ma mi aspettavo che ronzasse più che nei giorni ordinari, a vantaggio della nostra religione nazionale. Attraverso questo strumento, con meno parole del solito, e con una relativa economia di [[Epigram|epigrammi]], ordinai un taxi che mi portasse alla stazione ferroviaria. Non ho una parola da dire, in generale, né contro i telefoni né contro i taxi; mi paiono due tra le più pure e poetiche creazioni della moderna civiltà scientifica. Purtroppo, quando il taxi partì, fece esattamente ciò che ha fatto la moderna civiltà scientifica: si guastò. Il risultato fu che, quando giunsi a [[King]]'s [[Cross]], il mio unico treno era partito; c'era una calma sabbatica nella stazione, una calma negli occhi dei facchini, e nel mio petto, se calma v'era, se calma alcuna, una calma [[Despair|disperazione]].
+
+Non v'era, tuttavia, gran calma di alcun genere nel mio petto quando feci per la prima volta la scoperta; e si mutò in un orrore accecante quando appresi che non potevo neppure inviare un telegramma agli organizzatori dell'incontro. Piantare in asso i miei ospiti era già abbastanza esasperante; lasciarli senza alcun avviso era semplicemente meschino. Ragionai con l'impiegato. Dissi: «Volete davvero dirmi che se mio fratello stesse morendo e mia madre si trovasse in questo posto, non potrei comunicare con lei?». Era un uomo di mente letterale e laboriosa; mi chiese se mio fratello stesse morendo. Risposi che godeva di ottima e persino offensiva salute, ma che indagavo su una questione di principio. Che cosa accadrebbe se l'Inghilterra fosse invasa, o se io [[Alone|solo]] sapessi come deviare una cometa o un terremoto. Egli scacciò queste ipotesi con lo spirito più irresponsabile, ma era del tutto certo che i telegrammi non potessero raggiungere quel particolare villaggio. Allora qualcosa esplose in me; quell'elemento dell'oltraggioso che è la madre di tutte le avventure balzò su ingovernabile, e decisi che non sarei stato un mascalzone solo perché alcuni dei miei remoti antenati erano stati calvinisti. Avrei mantenuto il mio appuntamento anche se avessi perso tutto il mio denaro e tutto il mio senno. Uscii nella quieta strada di [[London|Londra]], dove la mia quieta carrozza di [[London|Londra]] aspettava ancora il suo cliente nel freddo mattino nebbioso. Mi accomodai comodamente nella carrozza di [[London|Londra]] e dissi al vetturino [[London|londinese]] di portarmi all'altro capo dell'Hertfordshire. E lui lo fece.
+
+. . . . .
+
+Non dimenticherò quella corsa. Il tempo era incerto, e persino in un'automobile la cosa era possibile solo con un certo riguardo per il conducente, per non parlare di un lieve riguardo per la gente sulla [[Road|strada]]. Esortai il conducente a mangiare e bere qualcosa prima di partire, ma egli disse (con non so quale [[Pride|orgoglio]] di mestiere o delicato senso dell'avventura) che avrebbe preferito farlo all'arrivo — se mai fossimo arrivati. Io non ero affatto così delicato; comprai una variata scelta di pasticci di maiale in una botteguccia che era aperta (perché mai quella bottega era aperta? è tutto un mistero), e li mangiai mentre procedevamo. L'inizio fu cupo e irritante. Ero irritato, non con le persone, ma con le cose, come un bambino; con l'automobile per essersi guastata e con la [[Sunday|domenica]] per essere [[Sunday|domenica]]. E la vista dei bassifondi settentrionali dilatò e nobilitò, ma non attenuò, il mio umore tetro: Whitechapel ha una vistosità orientale nel suo squallore; Battersea e Camberwell hanno un indescrivibile fermento di [[democracy|democrazia]]; ma le zone povere di [[London|Londra]] nord... [[Well|be']], forse le vidi male sotto quel mattino cinereo e in quella sciocca commissione.
+
+Era uno di quei giorni che più d'una volta quest'anno spezzarono la ritirata dell'[[Winter|inverno]]; un giorno d'[[Winter|inverno]] che cominciò troppo tardi per essere [[spring|primavera]]. Ci eravamo già lasciati alle spalle le folle che ci ostacolavano e acceleravamo il passo attraverso una terra di confine fatta di orti e di isolate osterie, quando il grigio mostrò chiazze dorate e una buona luce cominciò a scintillare su ogni cosa. La carrozza andava sempre più veloce. La campagna aperta turbinava sempre più ampia; ma non persi la sensazione d'essere avversato e ostacolato che avevo provato negli affollati bassifondi. Anzi, la sensazione crebbe, per via della grande difficoltà di spazio e di [[Time|tempo]]. Più veloce andava l'automobile, più fiera e fitta sentivo la battaglia.
+
+L'intero paesaggio pareva caricarmi addosso — e mancarmi per un soffio. L'erba alta e lucente sfilava via come rovesci di frecce; gli alberi stessi parevano lance scagliate al mio cuore, che lo sfioravano di un capello. Al di là di una vasta, liscia vallata, vidi un faggio presso la bianca [[Road|strada]] ergersi piccolo e sfidante. Diventava sempre più grande con accecante rapidità. Mi caricava come un cavaliere in giostra, sembrava vibrarmi un colpo alla testa, e passava oltre. Talvolta, quando svoltavamo una curva della [[Road|strada]], l'effetto era ancor più tremendo. Pareva che qualche albero o mulino a vento roteasse per colpire come un boomerang. Il sole era ormai a quel [[Time|momento]] un fatto avvampante; e vidi che tutta la [[Nature|Natura]] è cavalleresca e militante. Facciamo male a cercare la pace nella [[Nature|Natura]]; dovremmo piuttosto cercarvi la specie più nobile di guerra; e vedere tutti gli alberi come verdi vessilli.
+
+. . . . .
+
+Tenni il mio discorso, arrivando proprio quando tutti stavano decidendo di andarsene. Quando la mia carrozza irruppe barcollando nella piazza del mercato, decisero, con evidente disappunto, di restare. Sulla conferenza stendo un velo. Quando tornai a [[Home|casa]] fui chiamato al telefono, e una voce dimessa espresse rammarico per il guasto dell'automobile, e disse persino qualcosa a proposito di un pagamento ragionevole. «Chi posso pagare per la mia superba esperienza? Qual è la tariffa consueta per vedere le nuvole frantumate dal sole? Qual è il prezzo di mercato di un albero azzurro sulla linea dell'orizzonte e poi accecante di bianco al sole? Fissate il vostro prezzo per quel mulino a vento che stava dietro le malvarose nel [[Garden|giardino]]. Lasciate che vi paghi per...». Fu qui, credo, che venimmo interrotti.
 
 
 
@@ -13520,8 +13572,7 @@ con troppa noncuranza."
 
 Mentre alzavo lo sguardo dubbioso il mio occhio incrociò il suo, e vi rimase fisso come il suo era fisso in uno sguardo apocalittico. Lo avevo creduto ordinario quando era entrato, salvo per il suo strano, cauto contegno; ma se le altre persone lo avessero visto allora avrebbero gridato e svuotato la sala. Non lo videro, e continuarono a fare un tramestio con le forchette, e un mormorio con la loro conversazione. Ma il volto dell'uomo era il volto di un maniaco.
 
-«Intendevate qualcosa in particolare con quell'osservazione?» chiese infine,
-e il [[Blood|sangue]] rifluì lentamente nel suo volto.
+«Intendevate qualcosa di particolare con quell'osservazione?» chiese infine, e il [[Blood|sangue]] rifluì lentamente nel suo volto.
 
 «Nulla di nulla,» risposi. «Qui non si intende nulla; rovina la digestione alla gente.»
 
@@ -13544,8 +13595,7 @@ e gli altri organi sono messi altrettanto male."
 
 «Dopo un lungo [[Silence|silenzio]] disse: "Che cosa dici che sia?"
 
-«"È Bumpton Street, naturalmente," ribattei di scatto.  "Porta
-alla Oldgate Station."
+«"È Bumpton Street, naturalmente," sbottai. "Va alla stazione di Oldgate."
 
 «"Sì," ammise gravemente; "va lì a volte. Proprio ora, però, sta andando in cielo."
 
@@ -13555,7 +13605,7 @@ alla Oldgate Station."
 
 «Guardai la lunga strada grigia, e per un istante mi parve esattamente come il lungo collo grigio di un [[Horse|cavallo]] proteso verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] tornò, e dissi: "Ma questa è tutta una sciocchezza. Le strade vanno nel luogo in cui devono andare. Una strada deve sempre andare alla sua fine."
 
-«"Perché lo pensi di una strada?" chiese, stando immobilissimo.
+«"Perché la pensi così di una strada?" chiese, standosene immobilissimo.
 
 «"Perché l'ho sempre vista fare la stessa cosa," risposi, con ragionevole ira. "Giorno dopo giorno, anno dopo anno, è sempre andata alla stazione di Oldgate; giorno dopo..."
 

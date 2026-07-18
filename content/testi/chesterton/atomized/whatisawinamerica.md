@@ -14994,7 +14994,7 @@ University Press
 
 _Indice_
 
-PAG.  
+PAGINA
 
 CHE COS'È L'[[America|AMERICA]]?                       1
 
@@ -15065,6 +15065,11 @@ THE EXTRAORDINARY AMERICAN           182
 THE REPUBLICAN IN THE RUINS          195
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LO STRAORDINARIO AMERICANO           182
+IL REPUBBLICANO TRA LE ROVINE          195
+
 
 
 <span class="atom-split" data-atom="story_08_is_the_atlantic_narrowing_208" data-title="WhatISawInAmerica — Is The Atlantic Narrowing?           208" data-chapter="Is The Atlantic Narrowing 208" data-kind="story"></span>
@@ -15074,6 +15079,12 @@ IS THE ATLANTIC NARROWING?           208
 
 [[Lincoln|LINCOLN]] AND LOST CAUSES              222
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'ATLANTICO SI STA RESTRINGENDO?           208
+
+[[Lincoln|LINCOLN]] E LE CAUSE PERDUTE              222
 
 
 
@@ -21539,7 +21550,7 @@ titoli o i moderni film o i moderni macchinari. Ciò che c'è di sbagliato
 
 nel mondo moderno è il mondo moderno; e la cura verrà da
 
-un altro.
+altrove.
 
 _Alcune città americane_
 

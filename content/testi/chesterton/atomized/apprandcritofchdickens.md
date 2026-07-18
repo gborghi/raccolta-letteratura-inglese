@@ -13754,7 +13754,7 @@ all'impressione che, via via che il ragazzo si fa più grande, queste figure si 
 
 e non risultino forse così pienamente soddisfacenti.
 
-CHRISTMAS BOOKS
+I LIBRI DI NATALE
 
 E vi è senza dubbio una certa [[unity|unità]] poetica, e una certa ironia, nel radunare
 
@@ -15834,7 +15834,7 @@ veste d'[[lovers|innamorati]] romantici, potevano essere fatti rientrare. Il sig
 
 esser lasciato fuori dalle storie d'[[Love|amore]]; perciò il signor Tupman resta fuori dal
 
-libro.
+uomo.
 
 Gran parte del mutamento fu dovuta all'ingresso del personaggio più grande
 
@@ -22528,7 +22528,7 @@ Non osiamo lasciarlo a pensare accanto al [[Fire|fuoco]], perché i pensieri di
 
 Pecksniff sarebbero troppo spaventosi.
 
-CHRISTMAS BOOKS
+I LIBRI DI NATALE
 
 Il mistero del Natale è in un certo senso identico al mistero di
 
@@ -24754,7 +24754,7 @@ scrisse solo due bozzetti fra quelli manifestamente previsti. Si può quasi
 
 dire che scrisse soltanto una brillante introduzione al libro di un altro
 
-libro.
+uomo.
 
 Eppure è proprio in tali eruzioni interrotte che si manifesta la sua [[Greatness|grandezza]].
 
@@ -32752,7 +32752,7 @@ Nel suo appello a favore dei piaceri del popolo, Dickens è rimasto
 
 Tory. I Tories disprezzano il popolo. I Radicali disprezzano i piaceri.
 
-FINE
+LA FINE
 
 +--------------------------------------------------------------+
 

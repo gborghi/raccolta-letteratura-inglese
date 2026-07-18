@@ -2767,6 +2767,34 @@ who are the latest arrivals.  It was the sort of racial type that is
 supposed to be passing, and perhaps has already passed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I. IL RACCONTO DEGLI ALBERI DEL PAVONE
+
+Lo Squire Vane era un attempato scolaretto di [[Education|educazione]] inglese ed estrazione irlandese. La sua [[Education|educazione]] inglese, in una delle grandi scuole pubbliche, aveva conservato il suo intelletto perfettamente e permanentemente allo stadio della fanciullezza. Ma la sua estrazione irlandese sconvolgeva inconsciamente in lui la debita solennità di un ex allievo, e talvolta gli restituiva la più vivace prospettiva di un monello. Aveva un'impazienza corporea che gli giocava tiri quasi contro la sua volontà, e lo aveva già reso un fallimento un po' troppo radioso nel servizio civile e diplomatico. È vero infatti che il compromesso è la chiave della politica britannica, specialmente nel realizzare un'imparzialità tra le religioni dell'India; ma il tentativo di Vane di venire incontro al musulmano a metà strada sfilandosi uno stivale alle porte della moschea fu avvertito non tanto come indice di vera imparzialità quanto come qualcosa che si poteva soltanto chiamare aggressiva indifferenza. Di nuovo, è vero che un [[aristocrat|aristocratico]] inglese difficilmente può entrare appieno nei sentimenti dell'una o dell'altra parte in una lite tra un ebreo russo e una processione ortodossa che porta reliquie; ma l'idea di Vane che la processione potesse portare [[Well|anche]] l'ebreo, egli stesso una venerabile e storica reliquia, fu fraintesa da entrambe le parti. Insomma, era un uomo che si vantava in modo particolare di non avere fronzoli addosso; con il risultato che faceva sempre cose insensate. Sembrava mettersi a testa in giù solo per dimostrare di avere la testa a posto.
+
+Aveva appena finito una robusta colazione, in compagnia della figlia, a un tavolo sotto un albero nel suo [[Garden|giardino]] presso la costa della Cornovaglia. Poiché, avendo una circolazione gloriosa, insisteva su quanti più pasti all'aperto possibile, benché la [[spring|primavera]] avesse appena sfiorato i boschi e intiepidito i mari attorno a quella meridionale estremità dell'Inghilterra. Sua figlia Barbara, una bella ragazza dai folti capelli rossi e dal volto [[Grave|grave]] come una delle statue del [[Garden|giardino]], sedeva ancora quasi immobile come una statua quando il padre si [[Rose|alzò]]. Bella figura alta in abiti chiari, coi capelli bianchi e i baffi che gli volavano all'indietro piuttosto fieramente da un volto abbastanza bonario, poiché teneva in mano il suo larghissimo cappello Panama, egli attraversò a grandi passi il [[Garden|giardino]] terrazzato, giù per alcuni gradini di pietra fiancheggiati da vecchie urne ornamentali fino a un sentiero più boscoso orlato di alberelli, e così giù per una [[Road|strada]] a zigzag che scendeva la rupe scoscesa fino alla riva, dove doveva incontrare un ospite in arrivo via mare. Uno yacht era già nella baia azzurra, ed egli poteva vedere una barca vogare verso il piccolo molo lastricato.
+
+Eppure in quella breve passeggiata tra il verde tappeto erboso e la gialla sabbia era destinato a trovare la sua testardaggine provocata a una fase non insolita che il mondo era incline a chiamare avventatezza. Il fatto era che i contadini della Cornovaglia, che componevano la sua servitù e il suo casato domestico, erano tutt'altro che gente senza fronzoli. C'era, ahimè!, una gran quantità di fronzoli in loro; con [[Ghosts|fantasmi]], streghe e tradizioni antiche come Merlino, sembravano circondarlo con un cerchio fatato di sciocchezze. Ma il cerchio [[Magic|magico]] aveva un solo centro: c'era un punto in cui la sinuosa conversazione dei villici sempre ritornava. Era un punto che sempre pungeva lo Squire fino all'esasperazione, e perfino in questa breve passeggiata sembrava incapparvi ovunque. Si fermò prima di scendere i gradini dal prato per parlare al giardiniere di rinvasare certi arbusti stranieri, e il giardiniere sembrava cupamente compiaciuto, in ogni linea del suo coriaceo volto bruno, all'occasione di far notare che si era formato una bassa opinione degli arbusti stranieri.
+
+«Vorremmo che vi sbarazzaste di ciò che avete qui, signore», osservò, scavando ostinatamente. «Niente crescerà a dovere con quelli qui.»
+
+«Arbusti!» disse lo Squire, ridendo. «Non chiamerete arbusti gli alberi del pavone, vero? Begli alberi alti... dovreste esserne fieri.»
+
+«La malerba cresce in fretta», osservò il giardiniere. «Le erbacce possono crescere come case, quando qualcuno le pianta.» Poi aggiunse: «Colui che seminò la zizzania nella [[Bible|Bibbia]], Squire.»
+
+«Oh, al diavolo la vostra...» cominciò lo Squire, e poi sostituì la parola più appropriata e allitterante «[[Bible|Bibbia]]» con la parola generica «superstizione». Egli stesso era un robusto razionalista, ma andava in chiesa per dare l'esempio ai suoi affittuari. Di che cosa, gli sarebbe stato imbarazzante dirlo.
+
+Un po' più avanti lungo il sentiero inferiore presso gli alberi incontrò un [[Woodcutter|boscaiolo]], un certo Martin, che era più esplicito, avendo più motivi di lagnanza. Sua figlia era in quel [[Time|tempo]] gravemente malata di una febbre di recente comune su quella costa, e lo Squire, che era un gentiluomo di buon cuore, in circostanze normali avrebbe fatto la tara al malumore e alla perdita delle staffe. Ma fu sul punto di perdere di nuovo le proprie quando il contadino si ostinò a collegare la sua [[Tragedy|tragedia]] con la tradizionale monomania riguardo agli alberi stranieri.
+
+«Se stesse abbastanza [[Well|bene]] la sposterei», disse il [[Woodcutter|boscaiolo]], «dato che quelli non possiamo spostarli, suppongo. Vorrei solo affondarci dentro la scure e sentirli venir giù con fracasso.»
+
+«Si direbbe che siano draghi», disse Vane.
+
+«Ed è più o meno quel che sembrano», rispose Martin. «Guardateli!»
+
+Il boscaiolo era naturalmente una figura più rude e persino più selvaggia del giardiniere. Anche il suo volto era bruno, e sembrava un'antica pergamena, ed era incorniciato da una stravagante disposizione di barba e basette corvine, che era davvero una moda di cinquant'anni fa, ma avrebbe potuto avere cinquemila anni o più. I Fenici, si sentiva, commerciando su quelle strane rive nel mattino del mondo, avrebbero potuto pettinare o arricciare o intrecciare i loro capelli nero-azzurri in qualche bizzarro disegno del genere. Poiché questa sacca di popolazione era tanto un angolo della Cornovaglia quanto la Cornovaglia è un angolo dell'Inghilterra; una razza tragica e unica, piccola e imparentata al suo interno come un clan celtico. Il clan era più antico della famiglia Vane, benché quella fosse antica come lo sono le famiglie di contea. Poiché in molte di tali parti dell'Inghilterra sono gli aristocratici gli ultimi arrivati. Era il tipo di stirpe razziale che si suppone stia scomparendo, e forse è già scomparsa.
+
 
 
 <span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_02" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 2)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
@@ -2878,6 +2906,32 @@ unholy great seaweed that don't belong to the land at all.
 It's like the--the blessed sea serpent got on shore, Squire,
 and eating everything up."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli oggetti odiosi si ergevano a un centinaio di metri dall'oratore, che verso di essi agitò la sua ascia; e nel paragone c'era qualcosa di suggestivo. Quella costa, tanto per cominciare, protesa verso il tramonto, era in sé quasi fantastica quanto una nuvola al calar del sole. Si stagliava contro lo smeraldo o l'indaco del mare in corni e falci incisi che avrebbero potuto essere l'impronta o il calco di simili serpenti crestati; e, più in basso, era trafitta e corrosa da caverne e fenditure, come per lo scavo di [[titanic|titanici]] vermi del genere. Al di sopra di questa architettura draconiana della terra pendeva, tenue come un vapore, un velo di boschi grigi; boschi che la stregoneria del mare aveva, come sempre, insieme avvizziti e deformati. A destra gli alberi si snodavano lungo la riva in un'unica fila, ciascuno tracciato in linee sottili e selvagge come una caricatura. All'altro capo della loro distesa si moltiplicavano in un ammasso di alberi gobbi, un bosco che si allargava verso uno sperone della costa alta. Era qui che appariva lo spettacolo verso cui tanti occhi e tante menti sembravano volgersi quasi automaticamente.
+
+Dal mezzo di questo bosco basso e più o meno uniforme si [[Rose|levavano]] tre fusti distinti che si slanciavano e svettavano nel cielo come un faro dalle onde o un campanile dai tetti del villaggio. Formavano un gruppo di tre colonne ravvicinate, che [[Well|bene]] potevano essere la semplice biforcazione, o piuttosto triforcazione, di un unico albero, la cui parte inferiore era perduta o affondata nel folto bosco all'intorno. Tutto in essi suggeriva qualcosa di più strano e più meridionale di qualunque cosa, persino in quell'ultima penisola della Britannia che più lontano si spinge verso la Spagna e l'Africa e le [[Stars|stelle]] del sud. Il loro fogliame coriaceo era spuntato prima della debole foschia verde-giallo che li circondava, ed era di un verde diverso e meno naturale, tinto d'azzurro, come i colori di un martin pescatore. Ma lo si sarebbe potuto immaginare come le scaglie di un drago a tre teste che torreggiava su una mandria di bestiame accalcato e in fuga.
+
+«Mi dispiace immensamente che la sua ragazza stia così male», disse Vane secco. «Ma davvero...» e discese a grandi passi impetuosi per la ripida [[Road|strada]].
+
+La barca era già ormeggiata al piccolo molo di pietra, e il barcaiolo, [[Shadow|ombra]] più giovane del [[Woodcutter|taglialegna]]—e in effetti nipote di quell'utile scontento—salutò il suo signore territoriale con la cupa formalità di famiglia. Lo Squire rispose con noncuranza e presto dimenticò ogni cosa simile nello stringere la mano al visitatore appena sbarcato. Il visitatore era un uomo lungo e sciolto, troppo magro per la sua giovane età, i cui lineamenti lunghi e fini parevano composti interamente d'osso e di nervo, e sembravano in qualche modo contrastare con i suoi capelli, che spuntavano in vividi ciuffi gialli sulle tempie incavate sotto la tesa del bianco cappello da vacanza. Era vestito con cura e gusto squisito, benché venisse diritto da un notevole viaggio per mare; e teneva in mano qualcosa che, nei suoi lunghi viaggi europei, e nei soggiorni europei ancor più lunghi, aveva quasi dimenticato di chiamare valigetta.
+
+Il signor Cyprian Paynter era un americano che viveva in [[Italy|Italia]]. Ci sarebbe stato molto altro da dire su di lui, perché era un gentiluomo assai acuto e colto; ma quei due fatti, forse, avrebbero coperto gran parte degli altri. Riempiendo la mente come un museo con la [[Wonder|meraviglia]] del Vecchio Mondo, ma tutta illuminata come da una [[Window|finestra]] dalla [[Wonder|meraviglia]] del Nuovo, aveva ereditato qualcosa dell'ineguagliabile posizione critica di Ruskin o di Pater, ed era inoltre celebre come scopritore di poeti minori. Era uno scopritore giudizioso, e non trasformava tutti i suoi poeti minori in profeti maggiori. Se le sue oche erano cigni, non erano tutti Cigni dell'Avon. Era incorso persino nel sospetto mortale di classicismo per aver dissentito dai suoi giovani amici, i Poeti Punteggisti, quando questi produssero una versificazione fatta esclusivamente di virgole e due punti. Nutriva una più umana simpatia per la fiamma moderna accesa dalle braci della mitologia celtica, e fu in realtà la recente comparsa di un poeta cornico, una sorta di parallelo ai nuovi poeti irlandesi, a condurlo in questa occasione in Cornovaglia. Era, invero, troppo [[Well|bene]] educato per lasciare che un ospite intuisse che si cercava un qualche piacere al di fuori della sua ospitalità. Aveva un invito di vecchia data da parte di Vane, che aveva conosciuto a Cipro ai tempi della sua diplomazia poco diplomatica; e Vane ignorava che i rapporti erano stati così ripresi solo dopo che il critico aveva letto Merlino e Altri Versi, di un nuovo scrittore di nome John Treherne. Né lo Squire cominciava neppure a rendersi conto della diplomazia assai più diplomatica con cui era stato indotto a invitare il bardo locale a pranzo proprio nel giorno dell'arrivo del critico americano.
+
+Il signor Paynter era ancora in piedi con la sua valigetta, fissando in un'estasi di sincera ammirazione le rupi scavate, sormontate dal bosco grigio e [[Grotesque|grottesco]], e coronate infine dai tre alberi fantastici.
+
+«È come naufragare sulla costa del paese delle fate», disse,
+
+«[[Hope|Spero]] che lei non abbia fatto molti naufragi», rispose il suo ospite sorridendo. «Immagino che Jake, qui, possa badare a lei molto [[Well|bene]].»
+
+Il signor Paynter guardò verso il barcaiolo e sorrise a sua volta. «Temo», disse, «che il nostro amico non sia entusiasta di questo paesaggio quanto lo sono io.»
+
+«Oh, gli alberi, suppongo!» disse lo Squire con stanchezza.
+
+Il barcaiolo era di mestiere un pescatore; ma poiché la sua [[house|casa]], costruita di legno nero incatramato, sorgeva proprio sulla battigia a pochi metri dal molo, in casi simili era impiegato come una sorta di traghettatore. Era un giovane grosso, dalle sopracciglia nere, di solito silenzioso, ma qualcosa parve ora pungerlo a parlare.
+
+«[[Well|Beh]], signore», disse, «tutti sanno che non è naturale. Tutti sanno che il mare avvizzisce gli alberi e li abbatte, quando non sono che alberi. Questi cosi prosperano come una gran malefica alga marina che non appartiene affatto alla terra. È come se il... il benedetto serpente di mare fosse sbarcato, Squire, e divorasse ogni cosa.»
 
 
 
@@ -3188,6 +3242,32 @@ a quiet little bit of still-life, that is."
 "What a queer, horrible story," exclaimed Barbara.  "It makes one
 feel like a cannibal."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo Squire, prevedendo il cimento di un pranzo con uno strano uomo di lettere, aveva affrontato il caso con tatto dal proprio punto di vista. La società di contea avrebbe potuto far sentire l'ospite come un pesce fuor d'[[Water|acqua]]; e, tranne il critico americano e l'avvocato e il medico locali, degne persone della classe media che ben si adattavano al quadro, l'aveva tenuto come un ritrovo di famiglia. Era vedovo, e quando il pasto fu apparecchiato sul tavolo del [[Garden|giardino]], fu Barbara a presiedere come padrona di casa. Aveva alla sua destra il nuovo poeta e ciò la metteva molto a disagio. Aveva praticamente offerto del denaro a quel fallace giullare, e ciò non rendeva più facile offrirgli il pranzo.
+
+«L'intera contrada è impazzita», annunciò lo Squire, a mo' di ultime notizie locali. «Si tratta di questa nostra infernale leggenda.»
+
+«Io colleziono leggende», disse Paynter, sorridendo.
+
+«Dovete ricordare che non ho ancora avuto occasione di collezionare la vostra. E questo», aggiunse, guardandosi intorno alla romantica costa, «è un bel teatro per qualsiasi cosa drammatica.»
+
+«Oh, è drammatica a suo modo», ammise Vane, non senza una lieve soddisfazione. «Riguarda tutta quelle cose laggiù che chiamiamo gli alberi del pavone... suppongo per il curioso colore della foglia, sapete, benché abbia sentito che emettono un suono acuto in un forte [[Wind|vento]], che si suppone somigli allo strido di un pavone; qualcosa come un bambù nella struttura botanica, forse. [[Well|Ebbene]], si suppone che quegli alberi siano stati portati dalla Barberia dal mio antenato Sir Walter Vane, uno dei patrioti o pirati elisabettiani, o come volete chiamarli. Dicono che al termine del suo ultimo viaggio gli abitanti del villaggio si raccolsero sulla spiaggia laggiù e videro la barca avvicinarsi dal mare, e i nuovi alberi si ergevano nella barca come un albero maestro, tutti festosi di [[Leaves|foglie]] fuori stagione, come verdi festoni. E mentre guardavano pensarono dapprima che la barca virasse in modo strano, e poi che non virasse affatto; e quando finalmente andò alla deriva verso la riva ogni uomo su quella barca era morto, e Sir Walter Vane, con la [[Sword|spada]] sguainata, era appoggiato al tronco dell'albero, rigido come l'albero.»
+
+«Ora, questo è piuttosto curioso», osservò Paynter pensieroso. «Vi ho detto che collezionavo leggende, e credo di potervi raccontare l'inizio della storia di cui quella è la fine, benché venga da centinaia di miglia oltre il mare.»
+
+Tamburellò meditabondo sul tavolo con le dita sottili e affusolate, come un uomo che cerca di ricordare un motivo. Aveva davvero fatto di tali favole un passatempo, e non era privo di [[Vanity|vanità]] riguardo al suo tocco artistico nel raccontarle.
+
+«Oh, raccontateci la vostra parte, vi prego!» esclamò Barbara Vane, la cui aria di solare sonnolenza sembrava in qualche vago modo esserle caduta di dosso.
+
+L'americano s'inchinò attraverso il tavolo con seria cortesia, e poi cominciò a giocherellare oziosamente con un bizzarro anello sul suo lungo dito mentre parlava.
+
+«Se scendete alla Costa di Barberia, dove l'ultimo cuneo della foresta si assottiglia tra il [[Desert|deserto]] e il grande mare senza maree, troverete gli indigeni che ancora raccontano una strana storia su un santo dei Secoli Bui. Là, sul confine crepuscolare del Continente Nero, si sentono i Secoli Bui. Ho visitato quel luogo una sola volta, benché giaccia, per così dire, di fronte alla [[City|città]] italiana dove vissi per anni, eppure stentereste a credere come lo sconvolgimento e la trasmigrazione di questo mito in qualche modo sembrassero meno folli di quanto realmente sono, col bosco risonante di leoni nella [[Night|notte]] e quella cupa rossa [[Solitude|solitudine]] oltre. Dicono che l'eremita San Securis, vivendo là tra gli alberi, giunse ad [[Love|amarli]] come compagni; poiché, benché grandi giganti dalle molte braccia come Briareo, erano le più miti e innocenti delle creature; non divoravano come i leoni, ma piuttosto aprivano le braccia a tutti i piccoli [[Birds|uccelli]]. Ed egli pregava che potessero essere sciolti di [[Time|tanto]] in [[Time|tanto]] per camminare come le altre cose. E gli alberi furono commossi dalle preghiere di Securis, come lo furono ai [[songs|canti]] di Orfeo. Gli uomini del [[Desert|deserto]] erano colpiti da lontano dalla [[Fear|paura]], vedendo il santo camminare con un boschetto ambulante, come un maestro di scuola coi suoi ragazzi. Poiché gli alberi erano così liberati a rigorose condizioni di disciplina. Dovevano tornare al suono della campana dell'eremita, e, soprattutto, imitare le bestie selvagge nel camminare solo per distruggere e nel non divorare nulla. [[Well|Ebbene]], si dice che uno degli alberi udì una voce che non era quella del santo; che nel caldo verde crepuscolo di una sera d'[[Summer|estate]] si accorse di qualcosa seduto e parlante tra i suoi rami sotto le sembianze di un grande uccello, ed era ciò che un tempo parlò da un albero sotto le sembianze di un grande serpente. Man mano che la voce cresceva tra le sue mormoranti [[Leaves|foglie]] l'albero fu lacerato da un gran [[Desire|desiderio]] di protendersi e ghermire gli [[Birds|uccelli]] che volavano innocui attorno ai loro nidi, e di farli a pezzi. Infine, il tentatore riempì la cima dell'albero dei propri [[Birds|uccelli]] d'[[Pride|orgoglio]], lo stellato corteo dei pavoni. E lo spirito del bruto vinse lo spirito dell'albero, ed esso dilaniò e divorò gli [[Birds|uccelli]] verde-azzurri finché non ne rimase una piuma, e ritornò alla quieta tribù degli alberi. Ma dicono che quando venne la [[spring|primavera]] tutti gli altri alberi misero fuori [[Leaves|foglie]], ma questo mise fuori penne di strana tinta e disegno. E da quella mostruosa assimilazione il santo conobbe il peccato, e radicò quell'unico albero alla terra con una sentenza, così che il male ricadesse su chiunque lo rimuovesse di nuovo. Questo, Squire, è l'inizio nei deserti del racconto che è finito qui, quasi in questo [[Garden|giardino]].»
+
+«E la fine è più o meno attendibile quanto l'inizio, direi», disse Vane. «Il vostro è un bel raccontino semplice per un piccolo tè; un tranquillo pezzetto di natura morta, ecco.»
+
+«Che storia strana e orribile», esclamò Barbara. «Fa sentire come un cannibale.»
 
 
 
@@ -3629,6 +3709,42 @@ he said.  "I'll do it for twopence or two thousand pounds,
 if anyone will take the bet."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II. LA SCOMMESSA DELLO SQUIRE VANE
+
+Passò più di un mese prima che la leggenda degli alberi di pavone tornasse a discutersi nella cerchia dello Squire. Accadde una sera, quando il suo estroso gusto per i pasti nel [[Garden|giardino]] raccolse la compagnia intorno allo stesso tavolo, ora rischiarato da una lampada e apparecchiato per la cena in un rilucente crepuscolo di [[spring|primavera]]. Era perfino la stessa compagnia, poiché nelle poche settimane trascorse si erano insensibilmente sempre più addentrati nelle vite l'uno dell'altro, formando un piccolo gruppo simile a un circolo. L'esteta americano era naturalmente l'agente più attivo, e la sua risolutezza nello strappare il cuore al mistero del poeta cornico lo spingeva più volte a influenzare il suo volubile ospite verso simili ritrovi. Persino il signor Ashe, l'avvocato, sembrava aver inghiottito i suoi pregiudizi mezzo scherzosi; e il dottore, benché uomo piuttosto triste e silenzioso, era socievole e premuroso. Paynter aveva perfino letto ad alta voce la poesia di Treherne, e leggeva mirabilmente; aveva anche letto altre cose, non ad alta voce, rovistando in tutto ciò che era nei dintorni, dalle guide agli epitaffi, che potesse gettare luce sulle antichità locali. E fu quella sera, quando la luce della lampada e l'ultimo chiarore del giorno avevano acceso i colori del vino e dell'argento sul tavolo sotto l'albero, che egli annunciò una nuova scoperta.
+
+«Ehi, Squire», osservò, con uno dei suoi rari americanismi, «a proposito di quei suoi alberi da spauracchio; non credo che lei conosca la metà delle storie che si raccontano qui su di essi. Pare che abbiano l'abitudine di divorare le cose. Non che io abbia obiezioni etiche a divorare le cose», proseguì, servendosi con eleganza di [[cheese|formaggio]] verde. «Ma ho, più o meno, in linea di massima, un'obiezione a divorare le persone.»
+
+«Divorare le persone!» ripeté Barbara Vane.
+
+«So che un giramondo non deve fare lo schizzinoso», replicò il signor Paynter. «Ma ripeto con fermezza: un'obiezione a divorare le persone. Gli alberi di pavone paiono aver fatto progressi dai bei giorni dell'[[innocence|innocenza]] in cui divoravano solo pavoni. Se domanda alla gente di qui—al pescatore che vive su quella spiaggia, o all'uomo che falcia proprio questo prato davanti a noi—le racconteranno storie più grosse di qualsiasi storia tropicale io le abbia portato dalla Costa di Barberia. Se domanda loro che ne fu del pescatore Peters, che si ubriacò la vigilia d'Ognissanti, le diranno che smarrì la via in quel piccolo bosco, cadde addormentato sotto gli alberi malvagi, e poi... evaporò, svanì, fu leccato via come rugiada dal sole. Se domanda loro dov'è Harry Hawke, il figlioletto della vedova, le diranno solo che è stato inghiottito; che fu sfidato ad arrampicarsi sugli alberi e a starci tutta la [[Night|notte]], e lo fece. Che cosa fecero gli alberi Dio solo lo sa; le abitudini di un orco vegetale lasciano un po' nel vago. Ma aggiungono perfino il gradevole dettaglio che un nuovo ramo appare sull'albero quando qualcuno se n'è andato in questo modo.»
+
+«Che nuova sciocchezza è questa?» esclamò Vane. «So che c'è qualche fola balorda sugli alberi che diffondono la febbre, benché ogni uomo istruito sappia perché queste epidemie ritornino di tanto in tanto. E so che dicono che si può riconoscere il loro fruscio tra gli altri alberi durante una burrasca, e oso dire che è vero. Ma nemmeno la Cornovaglia è un manicomio, e un albero che pranza con un turista di passaggio...»
+
+«[[Well|Beh]], i due racconti si conciliano abbastanza», intervenne il poeta con calma. «Se ci fosse una [[Magic|magia]] che uccidesse gli uomini quando si avvicinano, è probabile che li colpisca con la malattia quando stanno lontani. Nell'antico [[Romance|romanzo]] il drago, che divora le persone, spesso ne fulmina altre con una sorta di alito velenoso.»
+
+Ashe fissò l'oratore con costanza, per non dire con durezza.
+
+«Devo intendere», domandò, «che lei [[Swallow|manda giù]] anche gli alberi che mandano giù la gente?»
+
+Il cupo sorriso di Treherne era ancora sulla difensiva; la sua scherma irritava sempre l'altro, e non pareva privo di malizia nella faccenda.
+
+«Mandar giù è una metafora», disse, «riferita a me, se non agli alberi. E le metafore ci trasportano subito nel paese dei sogni: neppure un brutto posto. Questo [[Garden|giardino]], credo, somiglia sempre più a [[A Dream|un sogno]] in questo cantuccio tra il giorno e la [[Night|notte]], che potrebbe condurci ovunque.»
+
+Il corno giallo della [[Moon|luna]] era apparso in silenzio e come all'improvviso sopra i neri corni delle alghe, sembrando annunciare come [[Night|notte]] qualcosa che fino allora era stato sera. Una brezza [[Night|notturna]] entrò tra gli alberi e corse furtiva sul prato, e mentre essi cessavano di parlare udirono, non solo il sibilo dell'erba, ma il mare stesso muoversi e risuonare in tutte le fessure e caverne intorno a loro e sotto di loro e da ogni lato. Tutti avvertirono la nota che era stata suonata—l'americano come critico d'arte e il poeta come poeta; e lo Squire, che si credeva ribollente di un'impazienza puramente razionale, non comprendeva davvero la propria impazienza. In lui, forse più che negli altri—più certamente di quanto egli stesso sapesse—il [[Wind|vento]] del mare saliva alla testa come vino.
+
+«La credulità è una cosa curiosa», proseguì Treherne a bassa voce. «È più negativa che positiva, eppure è infinita. Centinaia di uomini eviteranno di passare sotto una scala; non sanno dove condurrà la porta della scala. Non credono davvero che Dio scaglierebbe loro un fulmine per una cosa simile. Non sanno che cosa accadrebbe, questo è appunto il punto; eppure si scansano come da un precipizio. Così la povera gente di qui può credere o non credere a qualcosa; ma tra quegli alberi di [[Night|notte]] non ci va.»
+
+«Io passo sotto una scala ogni volta che posso», esclamò Vane, con un'agitazione del tutto superflua.
+
+«Lei appartiene a un Club dei Tredici», disse il poeta. «Passa sotto una scala di venerdì per cenare in tredici a tavola, mentre tutti rovesciano il sale. Ma nemmeno lei va tra quegli alberi di [[Night|notte]].»
+
+Lo Squire Vane si alzò in piedi, i capelli d'argento fiammeggianti nel [[Wind|vento]].
+
+«Passerò tutta la [[Night|notte]] nel suo bosco da stolti e in cima ai suoi alberi da stolti», disse. «Lo farò per due soldi o per duemila sterline, se qualcuno accetta la scommessa.»
+
 
 
 <span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_02" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 2)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
@@ -3751,6 +3867,44 @@ and was gazing at them with a singular attentiveness.
 "The darkest hour has passed."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Senza attendere risposta, afferrò l'ampio cappello bianco e se lo calcò in testa con un gesto feroce, e se n'era andato a grandi falcate leonine attraverso il prato prima che chiunque al tavolo potesse muoversi.
+
+L'immobilità fu rotta da Miles, il maggiordomo, che lasciò cadere e ruppe uno dei piatti che portava. Rimase a guardare il suo padrone con il lungo mento angoloso proteso in avanti, più giallo dove coglieva la gialla luce della lampada sottostante. Il suo volto era così nettamente in [[Shadow|ombra]], ma Paynter immaginò per un istante che fosse sconvolto da una passione oltre ogni sorpresa. Ma il volto era del tutto come al solito quando si girò, e Paynter comprese che era cominciata una [[Night|notte]] di fantasie, come gli [[Cross|equivoci]] del «Sogno di una [[Night|notte]] di mezza estate».
+
+Il bosco degli strani alberi, verso cui lo Squire camminava, si stendeva così avanti sul promontorio, che alla fine quasi sovrastava il mare, da poter essere raggiunto per un solo sentiero, il quale splendeva chiaro come un nastro d'argento nel crepuscolo. Il nastro correva lungo l'orlo della scogliera, dove l'unica fila di alberi deformi gli scorreva accanto per tutto il tragitto, e infine si tuffava nella massa più fitta di alberi per un solo varco naturale, una semplice apertura nel bosco, che appariva oscura, come la bocca di un [[Lion|leone]]. Che ne fosse del sentiero all'interno non si poteva vedere, ma senza dubbio conduceva intorno alle radici nascoste dei grandi alberi centrali. Lo Squire era già a un metro o due da questo oscuro ingresso quando sua figlia si [[Rose|alzò]] dal tavolo e mosse un passo o due dietro di lui come per richiamarlo.
+
+Anche Treherne si era alzato, e stava come stordito dall'effetto della sua oziosa sfida. Quando Barbara si mosse egli parve riprendersi, e facendo un passo dietro di lei, disse qualcosa che Paynter non udì. Lo disse con noncuranza e perfino con sufficiente distacco, ma chiaramente le suggerì qualcosa alla mente; poiché, dopo un momento di riflessione, ella annuì e tornò indietro, non verso il tavolo, ma apparentemente verso la [[house|casa]]. Paynter la seguì con lo sguardo con momentanea curiosità, e quando si volse di nuovo lo Squire era svanito nel buco del bosco.
+
+«Se n'è andato», disse Treherne, con un tono di clangore definitivo, come lo sbattere di una porta.
+
+«[[Well|Ebbene]], supponiamo che l'abbia fatto?» esclamò l'avvocato, ridestato dalla voce. «Lo Squire può entrare nel proprio bosco, suppongo! Che diavolo è tutto questo scalpore, signor Paynter? Non mi dica che crede ci sia qualche pericolo in quella piantagione di stecchi.»
+
+«No, non lo credo», disse Paynter, accavallando una gamba sull'altra e accendendo un sigaro. «Ma resterò qui finché non esce.»
+
+«Benissimo», disse Ashe secco, «resterò con lei, non fosse che per vedere la fine di questa farsa.»
+
+Il dottore non disse nulla, ma anch'egli mantenne il suo posto e accettò uno dei sigari dell'americano. Se Treherne fosse stato attento alla faccenda avrebbe potuto notare, con la sua sardonica superstizione, un fatto curioso: che, mentre tutti e tre gli uomini si condannavano tacitamente a restare fuori tutta la [[Night|notte]] se necessario, tutti, per una medesima vuota omissione o dimenticanza, davano per scontato che fosse impossibile seguire il loro ospite nel bosco proprio davanti a loro. Ma Treherne, benché ancora nel [[Garden|giardino]], si era allontanato dal tavolo del [[Garden|giardino]], e passeggiava lungo l'unica fila di alberi contro il mare scuro. Essi avevano, nei loro regolari intervalli, mostrando il mare come attraverso una serie di finestre, qualcosa dell'aspetto del [[Ghost|fantasma]] o dello [[skeleton|scheletro]] di un chiostro, ed egli, gettatosi di nuovo il cappotto sul collo, come una mantella, andava avanti e indietro come il [[Ghost|fantasma]] di un monaco non troppo sano di mente.
+
+Tutti questi uomini, scettici o mistici che fossero, per il resto della loro vita ripensarono a quella [[Night|notte]] come a qualcosa di innaturale. Sedevano immobili o balzavano su di scatto, e percorrevano il grande [[Garden|giardino]] con lunghi giri, così che pareva che non ve ne fossero mai tre insieme nel medesimo [[Time|momento]], e nessuno sapeva chi sarebbe stato il suo compagno; eppure il loro vagabondare restava entro lo stesso spazio fioco e labirintico. Cadevano in brandelli di sonno inquieto; questi erano assai brevi, eppure sentivano come se l'intera seduta, il passeggiare, o l'occasionale parlare fossero stati parte di un unico sogno.
+
+Paynter si svegliò una volta, e trovò Ashe seduto di fronte a lui a un tavolo per il resto vuoto; il volto scuro nell'[[Shadow|ombra]] e il mozzicone del sigaro come il rosso occhio di un Ciclope. Finché l'avvocato non parlò, con la sua voce ferma, Paynter ne ebbe positivamente paura. Rispose a caso e annuì di nuovo; quando si svegliò di nuovo l'avvocato se n'era andato, e ciò che aveva di fronte era la fronte calva e pallida del dottore; parve d'un tratto esserci qualcosa di sinistro nel fatto familiare che portasse gli occhiali. Eppure lo svanito Ashe era svanito solo di pochi metri, poiché si volse in quell'istante e tornò passeggiando al tavolo. Con un sussulto Paynter comprese che il suo [[nightmare|incubo]] non era che un tiro del [[Sleep|sonno]] o dell'insonnia, e parlò con la sua voce naturale, ma piuttosto forte.
+
+«Così ti sei riunito a noi; dov'è Treherne?»
+
+«Oh, ancora a rotear qua e là, suppongo, come un orso polare sotto quegli alberi sulla scogliera», replicò Ashe, accennando col sigaro, «a guardare ciò che un poeta più antico (e mi perdonerà se lo giudico un po' migliore) chiamava il mare colore del vino. Ha davvero una sorta di tinta purpurea; la guardi.»
+
+Paynter guardò; vide il mare colore del vino e i fantastici alberi che lo frangiavano, ma non vide il poeta; il chiostro era già vuoto del suo monaco irrequieto.
+
+«Andato da qualche altra parte», disse, con un'inconcludenza affatto insolita per lui. «Tornerà qui tra poco. È una veglia interessante, ma una veglia perde parte della sua intensità quando non si riesce a restare svegli. Ah! Ecco Treherne; così siamo tutti riuniti, come disse il politico quando il signor Colman arrivò tardi a cena. No, il dottore se n'è andato di nuovo. Come siamo tutti irrequieti!» Il poeta si era avvicinato, i suoi passi cadevano lievi sull'erba, e li fissava con una singolare attenzione.
+
+«Sarà presto finita», disse.
+
+«Che cosa?» scattò Ashe in modo assai brusco.
+
+«La [[Night|notte]], naturalmente», replicò Treherne in modo immobile. «L'ora più buia è passata.»
+
 
 
 <span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_03" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 3)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
@@ -3868,6 +4022,40 @@ is to believe in God; for we can't help believing in devils."
 And she left them, still walking quite slowly, but in such a fashion
 that no one could go after her.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Non osservò forse qualche altro poeta minore», domandò Paynter con leggerezza, «che l'ora più buia prima dell'[[Dawn|alba]]...? Dio mio, che cos'era? Somigliava a un urlo.»
+
+«Era un urlo», replicò il poeta. «L'urlo di un pavone.»
+
+Ashe si alzò in piedi, il forte volto pallido contro i capelli rossi, e disse furioso: «Che diavolo vuol dire?»
+
+«Oh, cause perfettamente naturali, come direbbe il dottor Brown», replicò Treherne. «Non ci ha detto lo Squire che gli alberi avevano una loro nota stridula quando il [[Wind|vento]] soffiava? Il [[Wind|vento]] torna a montare dal mare; non mi [[Wonder|stupirei]] se ci fosse una [[Storm|tempesta]] prima dell'[[Dawn|alba]].»
+
+L'[[Dawn|alba]] venne infatti a poco a poco con un crescente rumore di [[Wind|vento]], e il mare purpureo cominciò a ribollire attorno alle scure rupi vulcaniche. Il primo mutamento nel cielo si manifestò soltanto nelle forme del bosco e dei fusti isolati che si facevano più scure ma più nitide; e sopra il grigio ammasso, contro un barlume di luce crescente, videro in alto la malvagia trinità degli alberi. Nelle loro lunghe linee c'era per Paynter qualcosa di vagamente serpentino e perfino spiraliforme. Poteva quasi immaginare di vederli ruotare lentamente come in una qualche [[Dance|danza]] ciclica, ma anche questa, di nuovo, non era che un'ultima illusione del paese dei sogni, poiché pochi secondi dopo era di nuovo addormentato. Nei [[Dreams|sogni]] arrancava attraverso un groviglio di storie inconcludenti, ciascuna colma dello stesso affanno e rumore di mare e di [[Wind|vento]] marino; e sopra e al di fuori di ogni altra voce il gemito degli Alberi dell'[[Pride|Orgoglio]].
+
+Quando si svegliò era pieno giorno, e un fiore di luce mattutina posava su bosco e [[Garden|giardino]] e su campi e fattorie per miglia intorno. Il relativo buon senso che la luce del giorno reca perfino agli insonni lo trasse pronto in piedi, e gli mostrò tutti i suoi compagni ritti attorno al prato in analoghi atteggiamenti d'attesa. Non c'era bisogno di chiedere che cosa aspettassero. Aspettavano di udire le esperienze notturne, comiche o banali o quali che si rivelassero, di quell'eccentrico amico, il cui esperimento (fosse per qualche subconscia [[Fear|paura]] o per qualche estro d'onore) non avevano osato interrompere. Ora seguiva ora, e ancora nulla si muoveva nel bosco tranne qualche uccello occasionale. Lo Squire, come la maggior parte degli uomini del suo tipo, era mattiniero, e non era probabile che in questo caso [[Sleep|dormisse]] fino a tardi; era assai più probabile, nell'eccitazione in cui li aveva lasciati, che non [[Sleep|dormisse]] affatto. Eppure era chiaro che doveva star dormendo, forse per qualche reazione a uno sforzo. Quando ormai il sole era alto in cielo, Ashe l'avvocato, volgendosi agli altri, parlò bruscamente e senza mezzi termini.
+
+«Andiamo nel bosco adesso?» chiese Paynter, e quasi parve esitare.
+
+«Andrò io», disse Treherne semplicemente. Poi, drizzando il capo scuro in risposta ai loro sguardi, aggiunse:
+
+«No, non disturbatevi. Non è mai il credente ad aver paura.»
+
+Per la seconda [[Time|volta]] videro un uomo salire il bianco sentiero serpeggiante e sparire nel grigio bosco intricato, ma questa [[Time|volta]] non dovettero attendere a lungo per rivederlo.
+
+Pochi minuti dopo riapparve nella soglia boschiva, e venne lentamente verso di loro attraverso l'erba. Si fermò davanti al dottore, che stava più vicino, e disse qualcosa. Fu ripetuto agli altri, e girò intorno al cerchio con sommessi gridi d'[[Incredulity|incredulità]]. Gli altri si tuffarono nel bosco e ne tornarono freneticamente, e furono visti parlare ad altri ancora che si radunavano dalla [[house|casa]]; la selvaggia telegrafia senza fili che è l'[[Education|educazione]] delle comunità di campagna la diffuse sempre più lontano prima ancora che il fatto stesso fosse pienamente compreso; e prima del calar della notte un quarto della contea sapeva che lo Squire Vane era svanito come una bolla scoppiata.
+
+Per quanto la storia strampalata fosse ripetuta ovunque, e pazientemente rimuginata, passò molto tempo prima che vi fosse anche solo l'inizio di un seguito. Nell'intervallo Paynter si era cortesemente allontanato dalla [[house|casa]] del lutto, o piuttosto degli interrogativi, ma solo fino alla locanda del villaggio; poiché Barbara Vane era lieta dell'esperienza e della comprensione del viaggiatore, oltre a quella offertale dall'avvocato e dal dottore come vecchi amici di famiglia. Persino Treherne non era scoraggiato dalle sue visite occasionali intese ad aiutare la ricerca dell'uomo scomparso. I cinque tennero molti consigli attorno al vecchio tavolo del [[Garden|giardino]], al quale l'infelice padrone di [[house|casa]] aveva cenato per l'ultima [[Time|volta]]; e Barbara portava la sua vecchia maschera di pietra, se ora era una maschera più tragica. Non aveva mostrato alcuna passione dopo il primo mattino della scoperta, quando era proruppe una volta, parlando in modo assai strano agli occhi di alcuni dei suoi ascoltatori.
+
+Era uscita lentamente dalla [[house|casa]], nella quale la sua propria o l'altrui saggezza l'aveva relegata durante la [[Night|notte]] della scommessa; ed era chiaro dal suo volto che qualcuno le aveva detto la [[Truth|verità]]; Miles, il maggiordomo, stava sui gradini dietro di lei; ed era probabilmente lui.
+
+«Non si affligga troppo, Miss Vane», disse il dottor Brown, con voce bassa e piuttosto incerta. «La ricerca nel bosco è appena cominciata. Sono convinto che troveremo... qualcosa di assai semplice.»
+
+«Il dottore ha ragione», disse Ashe, col suo tono fermo; «io stesso...»
+
+«Il dottore non ha ragione», disse la ragazza, volgendo un volto bianco sull'oratore, «io ne so di più. Il poeta ha ragione. Il poeta ha sempre ragione. Oh, lui è qui dal principio del mondo, e ha visto prodigi e terrori che ci circondano lungo il cammino, e si nascondono solo dietro un cespuglio o una pietra. Voi con la vostra medicina e la vostra scienza... ebbene, siete qui solo da poche brancolanti generazioni; e non riuscite a vincere nemmeno i vostri nemici della carne. Oh, mi perdoni, dottore, so che fa cose splendide; ma la febbre arriva nel villaggio, e la gente muore e muore malgrado tutto. E ora tocca al mio povero padre. Dio ci aiuti tutti! L'unica cosa che resta è credere in Dio; perché non possiamo fare a meno di credere nei diavoli.» E li lasciò, camminando ancora assai lentamente, ma in modo tale che nessuno poté andarle dietro.
 
 
 
@@ -4030,6 +4218,68 @@ for the connoisseur of sensations had found something to do at last;
 he was fighting for a friend.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La [[spring|primavera]] aveva già cominciato a maturare in [[Summer|estate]], e stendeva una verde tenda dall'albero sul tavolo del [[Garden|giardino]], quando il visitatore americano, sedutovi con i suoi due compagni di professione, ruppe il [[Silence|silenzio]] dicendo ciò che da tempo aveva in mente.
+
+«[[Well|Ebbene]]», disse, «suppongo che, qualunque cosa riteniamo saggio dire, tutti abbiamo cominciato a pensare a una possibile conclusione. Comunque non la si può esprimere con molta delicatezza; ma, dopotutto, c'è un lato pratico assai necessario nella faccenda. Che ne faremo degli affari del povero Vane, a prescindere da lui stesso? Suppongo che lei sappia», aggiunse, a bassa voce all'avvocato, «se abbia fatto testamento?»
+
+«Ha lasciato tutto alla figlia senza condizioni», rispose Ashe. «Ma non se ne può far nulla. Non c'è prova alcuna che sia morto.» «Nessuna prova legale?» osservò Paynter seccamente. Una ruga d'irritazione era apparsa sull'ampia fronte calva del dottor Brown; e questi fece un movimento impaziente.
+
+«Ma certo che è morto», disse. «Che senso ha tutta questa manfrina legale? Stavamo sorvegliando questo lato del bosco, non è vero? Un uomo non avrebbe potuto volar via da quelle alte rupi sul mare; poteva solo caderne. Che altro può essere se non morto?»
+
+«Parlo da avvocato», ribatté Ashe, inarcando le sopracciglia. «Non possiamo presumerne la [[Death|morte]], né tenere un'inchiesta o alcunché finché non troviamo il [[Body|corpo]] del pover'uomo, o qualche resto che ragionevolmente si possa presumere essere il suo [[Body|corpo]].»
+
+«Capisco», osservò Paynter con calma. «Lei parla da avvocato; ma non credo sia molto difficile indovinare che cosa pensa da uomo.»
+
+«Ammetto che preferirei essere un uomo anziché un avvocato», disse il dottore, piuttosto rudemente. «Non avevo idea che la legge fosse un tale asino. A che serve tenere la povera ragazza lontana dalla sua proprietà, mentre la tenuta va tutta in rovina? [[Well|Beh]], devo andare, o anche i miei pazienti andranno in rovina.»
+
+E con un saluto brusco proseguì per la sua via giù verso il villaggio.
+
+«Quell'uomo fa il suo dovere, se qualcuno lo fa», osservò Paynter. «Dobbiamo perdonargli i... dirò i modi o il modo?»
+
+«Oh, non gli serbo rancore», replicò Ashe di buon umore. «Ma sono contento che se ne sia andato, perché... [[Well|beh]], perché non voglio che sappia quanto diavolo ha ragione.» E si appoggiò allo schienale della sedia e fissò in alto il tetto di verdi [[Leaves|foglie]].
+
+«Lei è sicuro», disse Paynter, guardando il tavolo, «che lo Squire Vane sia morto?»
+
+«Più di questo», disse Ashe, fissando ancora le [[Leaves|foglie]]. «Sono sicuro di come sia morto.»
+
+«Ah!» disse l'americano, con un trarre di fiato, ed essi rimasero per un momento, l'uno a contemplare l'albero e l'altro il tavolo.
+
+«Sicuro è forse una parola troppo forte», proseguì Ashe. «Ma ci vorrà qualcosa a scuotere la mia convinzione. Non invidio l'avvocato della difesa.»
+
+«L'avvocato della difesa», ripeté Paynter, e alzò rapido lo sguardo sul suo compagno. Fu di nuovo colpito dal mento e dalla mascella napoleonici dell'uomo, come lo era stato quando avevano parlato per la prima volta della leggenda di San Securis.
+
+«Allora», cominciò, «lei non crede che gli alberi...»
+
+«Al diavolo gli alberi!» sbuffò l'avvocato. «Quella sera l'albero aveva due gambe. Ciò che il nostro amico poeta», aggiunse, con un ghigno, «chiamerebbe un albero che cammina. A proposito del nostro amico poeta, quella [[Night|notte]] lei parve sorpreso di scoprire che non stava passeggiando poeticamente in riva al mare per tutto il [[Time|tempo]], e [[Fear|temo]] di aver finto di condividere la sua ignoranza. Allora non ne ero sicuro quanto lo sono ora.»
+
+«Sicuro di che cosa?» domandò l'altro.
+
+«Tanto per cominciare», disse Ashe, «sono sicuro che il nostro amico poeta seguì Vane nel bosco quella [[Night|notte]], perché lo vidi uscirne di nuovo.»
+
+Paynter si sporse in avanti, improvvisamente pallido d'eccitazione, e batté sul tavolo di legno tanto da farlo tremare.
+
+«Signor Ashe, lei si sbaglia», esclamò. «Lei è un uomo straordinario e si sbaglia. Ha probabilmente tonnellate di prove vere e convincenti, e si sbaglia. Io conosco questo poeta; lo conosco come poeta; ed è proprio ciò che lei non conosce. So che lei pensa che le abbia dato risposte oblique, e che paresse tutto sorrisi e sguardi torvi a un tempo; ma lei non comprende il tipo. So ora perché lei non comprende gli irlandesi. A volte lei lo crede molle, a volte subdolo, a volte assassino, a volte incivile; e per tutto il [[Time|tempo]] è solo civile; fremente della sensibile ironia di chi comprende tutto ciò che lei non comprende.»
+
+«[[Well|Ebbene]]», disse Ashe secco, «vedremo chi ha ragione.»
+
+«Lo vedremo», esclamò Cyprian, e si [[Rose|alzò]] all'improvviso dal tavolo. Ogni languore dell'esteta era caduto da lui; il suo accento yankee si [[Rose|levò]] alto, come un corno di sfida, e in lui non c'era altro che il Nuovo Mondo.
+
+«Credo che indagherò io stesso su questa faccenda», disse, stirando le lunghe membra come un atleta. «Domani perlustrerò quel suo boschetto. È un po' tardi, altrimenti lo farei subito.»
+
+«Il bosco è già stato perlustrato», disse l'avvocato, alzandosi anch'egli.
+
+«Sì», biascicò l'americano. «È stato perlustrato da domestici, poliziotti, il poliziotto locale, e parecchia gente; e sa, ho l'idea che qui intorno probabilmente nessuno l'abbia perlustrato affatto.»
+
+«E lei che cosa intende farne?» chiese Ashe.
+
+«Ciò che scommetto non abbiano fatto», replicò Cyprian. «Ho intenzione di arrampicarmi su un albero.»
+
+E con una bizzarra aria di rinnovata allegria se ne andò a passo svelto verso la sua locanda.
+
+Comparve all'alba del mattino seguente davanti al Vane Arms con tutta l'aria di chi si mette in viaggio verso terre lontane. Aveva un cannocchiale a tracolla, e un grandissimo coltello da caccia allacciato con una cinghia intorno alla vita, e portato con la fredda spavalderia del coltello bowie di un cowboy. Ma a dispetto di questa semplicità da uomo dei boschi, o forse anzi proprio per essa, osservava con crescente gusto la pittoresca pianta e il profilo del villaggio antiquato, e specialmente il quadrato di legno della vecchia insegna della locanda che pendeva sopra il suo capo; uno scudo, le cui figure gli parevano un mero guazzabuglio di delfini azzurri, croci d'oro e [[Birds|uccelli]] scarlatti. I colori e gli angoli cubici di quell'asse dipinta lo dilettavano come una commedia o uno spettacolo di burattini. Rimase a fissare, a gambe divaricate, per qualche istante sui ciottoli della piccola piazza del mercato; poi diede una breve risata e cominciò a salire per le ripide vie verso l'alto parco e il [[Garden|giardino]] al di là. Dall'alto prato, sopra l'albero e il tavolo, poteva scorgere da un lato la terra distendersi oltre la [[house|casa]] in una grande pianura [[rolling|ondulata]], che sotto i limpidi contorni dell'[[Dawn|alba]] pareva punteggiata di pittoreschi particolari. I boschi qua e là sulla pianura sembravano verdi ricci, [[Grotesque|grotteschi]] quanto le incongrue bestie che si trovano inspiegabilmente a camminare negli spazi vuoti delle mappe medievali. La terra, spartita in campi colorati, richiamava l'araldica dell'insegna; anche questa era a un tempo antica e gaia. Dall'altro lato il terreno digradava verso il mare e poi risaliva fino al famoso o famigerato bosco; il quadrato di strani alberi giaceva silenziosamente inclinato sul pendio, suggerendo anch'esso, se non una mappa, almeno una veduta a volo d'uccello. Solo la triplice figura centrale degli alberi di pavone si [[Rose|levava]] netta contro il profilo del cielo; e questi si ergevano nella tranquilla luce del sole come cose quasi classiche, un tempio triangolare dei venti. Sembravano pagani in un senso più nuovo e più placido; ed egli provò una più nuova e più fanciullesca curiosità e [[Courage|coraggio]] nel consultare l'oracolo. In tutti i suoi vagabondaggi non aveva mai camminato con tanta leggerezza, perché l'intenditore di sensazioni aveva trovato finalmente qualcosa da fare; combatteva per un amico.
+
 
 
 <span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_05" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 5)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
@@ -4148,6 +4398,42 @@ out from it as an alternative way into the central space.
 But there was one especially which was unique, and which seemed to him,
 the more he studied it, to point to some essential of the mystery.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una volta, tuttavia, fu costretto a fermarsi, e proprio alla soglia del [[Garden|giardino]] degli alberi della conoscenza. Appena fuori dall'oscuro ingresso del bosco, ora velato da un fogliame più verde e più fitto, s'imbatté in una figura solitaria.
+
+Era Martin, il [[Woodcutter|taglialegna]], che guadava nella felce e si guardava attorno in un modo piuttosto smarrito. L'uomo pareva parlare tra sé.
+
+«L'ho lasciata cadere qui», stava dicendo. «Ma non ci lavorerò mai più, credo. Il dottore non mi ha lasciato raccoglierla, quando volevo raccoglierla; e ora ce l'hanno loro, come hanno preso lo Squire. Legno e ferro, legno e ferro, ma per loro divorarli è nulla.»
+
+«Suvvia!» disse Paynter con gentilezza, ricordando la sciagura domestica dell'uomo. «Miss Vane baderà che lei abbia tutto ciò di cui ha bisogno, ne sono certo. E senta, non si arrovelli su tutte quelle storie sullo Squire. C'è la benché minima traccia che gli alberi abbiano avuto a che fare con la cosa? C'è forse questo ramo in più di cui blateravano gli idioti?»
+
+In Paynter era andato crescendo il sospetto che l'uomo davanti a lui non fosse perfettamente sano di mente; eppure fu assai più sconcertato dalla [[Sanity|lucidità]] improvvisa e gelida che per un istante affiorò dagli occhi del boscaiolo, mentre rispondeva nel suo modo consueto.
+
+«[[Well|Beh]], signore, prima li aveva contati i rami?»
+
+Poi parve ricadere nel suo stato; e Paynter lo lasciò vagare ed esitare nel sottobosco; ed entrò nel bosco come uno sul cui sentiero soleggiato sia calata per un istante un'[[Shadow|ombra]].
+
+Immergendosi sotto il bosco, presto s'inoltrava per un sentiero frondoso che, persino sotto quel sole d'[[Summer|estate]], brillava solo di un crepuscolo di smeraldo, come se fosse sul fondo del mare. Si snodava in modo più incerto di quanto avesse supposto, quasi risoluto ad avvicinarsi agli alberi centrali come fossero il cuore del labirinto di Hampton [[Court]]. Per lui, comunque, erano il cuore del labirinto; li cercava così diritto come una [[Road|strada]] tortuosa poteva portarlo; e, svoltato un ultimo angolo, contemplò, per la prima [[Time|volta]], le fondamenta di quelle torri di vegetazione che finora aveva visto solo dall'alto, mentre si ergevano all'altezza della cintola nel bosco. Trovò esatto il sospetto che l'albero si diramasse da un'unica grande radice, come un candelabro; la biforcazione, per quanto macchiata e viscida di funghi verdi, era assai vicina al suolo, e offriva un primo appiglio per il piede. Vi posò il piede, e senza un lampo di esitazione salì in alto, come Gianni che s'arrampica sul fagiolo magico.
+
+Sopra di lui il verde tetto di [[Leaves|foglie]] e rami pareva sigillato come un firmamento di fogliame; ma, piegando e spezzando i rami a destra e a sinistra, si aprì lentamente un varco verso l'alto; e ebbe infine, e all'improvviso, la sensazione di emergere sulla cima del mondo. Si sentiva come se non fosse mai stato all'aria aperta prima. Mare e terra giacevano in cerchio sotto e attorno a lui, mentre sedeva a cavalcioni di un ramo dell'alto albero; fu quasi sorpreso di vedere il sole ancora relativamente basso nel cielo; come se guardasse su una terra di eterna aurora.
+
+«Silenzioso su una vetta di Darién», osservò, con voce inutilmente alta e allegra; e per quanto la pretesa, così espressa, fosse illogica, non era fuori luogo. Si sentiva davvero come un avventuriero primitivo appena giunto al Nuovo Mondo, anziché un moderno viaggiatore appena giunto da esso.
+
+«Mi [[Wonder|domando]]», proseguì, «se sono davvero il primo che abbia mai fatto irruzione in questo albero silenzioso. Pare di sì. Quelle...»
+
+Si arrestò e sedette sul ramo del tutto immobile, ma gli occhi erano rivolti a un ramo poco più in basso, e brillavano di una vigilanza, come quelli di un uomo che sorveglia un serpente.
+
+Ciò che stava guardando avrebbe potuto, a prima vista, essere un grande fungo bianco steso sul liscio e mostruoso tronco; ma non lo era.
+
+Chinandosi pericolosamente dal suo posatoio, lo staccò dal ramoscello a cui si era impigliato, e poi sedette tenendolo in mano e fissandolo. Era il bianco cappello Panama dello Squire Vane, ma sotto non c'era nessuno Squire Vane. Paynter provò un sollievo senza nome proprio nel fatto che non ci fosse.
+
+Là, nella limpida luce del sole e nell'aria del mare, per un istante tutti i terrori tropicali del suo stesso ozioso racconto lo circondarono e lo soffocarono. Pareva davvero un qualche albero demoniaco delle paludi; un serpente vegetale che si nutriva di uomini. Persino l'orrenda farsa nell'idea di digerire un uomo intero fatta eccezione per il suo cappello sembrava solo semplificare l'[[nightmare|incubo]]. E si ritrovò a fissare ottusamente una foglia dell'albero, che si dava il caso fosse rivolta verso di lui, così che le strane venature, che in parte avevano dato origine alla leggenda, somigliavano davvero un poco all'occhio nella penna di un pavone. Era come se l'albero addormentato avesse aperto un occhio su di lui.
+
+Con uno sforzo brusco si stabilizzò nella mente e nella posizione sul ramo; la ragione gli tornò, e cominciò a scendere col cappello tra i denti. Quando fu di nuovo nel mondo sotterraneo del bosco, esaminò di nuovo il cappello e con più attenzione. In un punto della [[Crown|cupola]] c'era un foro o uno strappo, che di certo non c'era quando era rimasto per l'ultima volta sul tavolo sotto l'albero del [[Garden|giardino]]. Si sedette, accese una sigaretta, e rifletté a lungo, per molto [[Time|tempo]].
+
+Un bosco, anche un piccolo bosco, non è cosa facile da perquisire minuziosamente; ma egli si munì di alcuni criteri pratici in materia. In un certo senso la densità stessa del boschetto era d'aiuto; poteva almeno vedere dove qualcuno aveva deviato dal sentiero, dalle piante spezzate e calpestate di ogni sorta. Dopo molte ore d'industriosa fatica, aveva composto una sorta di nuova mappa del luogo; e aveva stabilito oltre ogni [[Doubt|dubbio]] che qualche persona o più persone avevano così deviato, per qualche scopo, in diverse direzioni ben definite. C'era una via aperta a forza tra i cespugli, che tagliava corto attraverso un'ansa del sentiero serpeggiante; ce n'era un'altra che se ne diramava come via alternativa verso lo spazio centrale. Ma ce n'era una in particolare che era unica, e che gli sembrava, più la studiava, indicare qualcosa di essenziale nel mistero.
 
 
 
@@ -6077,6 +6363,40 @@ did he turn, and show them the pale face with the spectacles;
 and they saw that it was still smiling.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Il successivo esame che feci fu quello di Martin, il [[Woodcutter|boscaiolo]]. Su un punto almeno la sua testimonianza è molto chiara, ed è, come vedrete, largamente confermata da altri testimoni. Egli dice anzitutto che il dottore gli impedì di recuperare la sua ascia, e ciò è corroborato dal signor e dalla signora Treherne. Ma dice inoltre che il dottore ammise di avere lui stesso l'attrezzo; e anche questo trova appoggio in un'altra testimonianza, quella del giardiniere, che vide il dottore, qualche [[Time|tempo]] dopo, venire da solo e raccogliere la scure. Martin dice che il dottor Brown ripetutamente rifiutò di restituirla, adducendo ogni [[Time|volta]] qualche fantasiosa scusa. E, infine, signor Paynter, ascolteremo la testimonianza dell'ascia stessa.»
+
+Posò l'attrezzo del boscaiolo sul tavolo davanti a sé, e cominciò a strappare e svolgere il curioso involucro di lino attorno al manico.
+
+«Ammetterete che questa è una benda ben strana», disse. «Ed è proprio questa la cosa strana, che è davvero una benda. Questa roba bianca è il tipo di filacce che usano negli ospedali, tagliate a strisce così. Ma la maggior parte dei medici ne tiene un po'; e ho la testimonianza di Jake il pescatore, presso cui il dottor Brown visse per qualche [[Time|tempo]], che il dottore aveva questa utile abitudine. E, per finire», aggiunse, spianando un angolo dello straccio sul tavolo, «non è strano che sia contrassegnato T.B.B.?»
+
+L'americano fissò le iniziali rozzamente vergate a inchiostro, ma quasi non le vide. Ciò che vide, come in uno [[Mirror|specchio]] nella sua oscurata [[Memory|memoria]], fu la figura nera con i guanti neri contro il tramonto rosso [[Blood|sangue]], come l'aveva vista quando era uscito dal bosco, e che lo aveva sempre perseguitato, non sapeva perché.
+
+«Certo, capisco cosa intendete», disse, «ed è molto penoso per me, perché conoscevo e rispettavo quell'uomo. Ma di sicuro, per giunta, ciò è ben lungi dallo spiegare ogni cosa. Se è un assassino, è forse un mago? Perché l'[[Water|acqua]] del [[Well|pozzo]] evaporò tutta in una [[Night|notte]], lasciando le ossa del morto asciutte come [[Dust|polvere]]? Non è un'operazione comune negli ospedali, vero?»
+
+«Quanto all'[[Water|acqua]], la spiegazione la conosciamo», disse il [[Detective|detective]]. «Non ci arrivai subito nemmeno io, essendo un cockney; ma una breve chiacchierata con Jake e l'altro pescatore sui vecchi tempi del contrabbando mi mise le cose in chiaro. Ma ammetto che i resti disseccati lasciano ancora tutti noi perplessi. Ciononostante...»
+
+Un'[[Shadow|ombra]] cadde sul tavolo, e il suo discorso fu bruscamente troncato. Ashe stava sotto l'insegna dipinta, abbottonato severamente di nero, e col volto del giudice della forca, di cui il poeta aveva parlato, ben visibile questa [[Time|volta]] alla piena luce del sole. Dietro di lui stavano due omoni in abiti borghesi, immobilissimi; ma Paynter capì all'istante chi fossero.
+
+«Dobbiamo agire subito», disse l'avvocato. «Il dottor Burton Brown sta lasciando il villaggio.»
+
+L'alto [[Detective|detective]] balzò in piedi, e Paynter istintivamente lo imitò.
+
+«È salito dai Treherne forse per dire addio», proseguì Ashe rapidamente. «Mi dispiace, ma dobbiamo arrestarlo là in [[Garden|giardino]], se necessario. Ho tenuto la signora fuori dai piedi, credo. Ma voi»--rivolgendosi al fittizio pittore di paesaggi--«dovete salire subito e piantare quel vostro cavalletto vicino al tavolo e tenervi pronto. Noi seguiremo in silenzio, e ci porteremo dietro l'albero. Dobbiamo essere prudenti, perché è chiaro che ha [[Wind|fiutato]] la nostra presenza, altrimenti non se la darebbe a gambe.»
+
+«Non mi piace questo compito», osservò Paynter, mentre salivano verso il parco e il [[Garden|giardino]], il [[Detective|detective]] guizzando avanti.
+
+«Credete che piaccia a me?» chiese Ashe; e, in effetti, il suo volto forte e pesante appariva così solcato e vecchio che i capelli rossi sembravano innaturali, come una parrucca rossa. «Lo conosco da più tempo di voi, benché forse lo sospetti anche da più tempo [[Well|pure]].»
+
+Quando raggiunsero la sommità del pendio del [[Garden|giardino]] il [[Detective|detective]] aveva già eretto il suo cavalletto, benché una forte brezza che soffiava verso il mare facesse tremare e sbattere il suo apparato e agitasse nel [[Wind|vento]] la sua barba bionda (e falsa). Piccole nuvole arricciate come piume filavano verso il mare attraverso il paesaggio dai molti colori, che il critico d'arte americano aveva un tempo contemplato in una mattina più lieta; ma è dubbio che il pittore di paesaggi vi prestasse molta attenzione. Treherne era vagamente distinguibile sulla soglia di quella che era ora la sua [[house|casa]]; non si sarebbe avvicinato di più, perché odiava un simile dovere pubblico più amaramente di tutti gli altri. Gli altri si appostarono un poco dietro l'albero. Tra le linee di queste batterie mascherate si poteva vedere la figura nera del dottore avanzare sul verde prato, procedendo dritta come una pallottola, come aveva fatto quando portò la cattiva notizia al [[Woodcutter|boscaiolo]]. Oggi sorrideva, sotto i baffi scuri tagliati corti sul labbro superiore, benché lo immaginassero un po' pallido, e parve fermarsi un istante e scrutare attraverso gli occhiali l'[[artist|artista]].
+
+L'[[artist|artista]] si voltò dal cavalletto con un movimento naturale, e poi in un lampo aveva afferrato il dottore per il bavero della giacca.
+
+«Vi arresto...» cominciò; ma il dottor Brown si liberò con sorprendente prontezza, spiccò un balzo verso l'altro, gli strappò via la barba finta, gettandola in aria come uno di quei selvaggi fiocchi di nuvola; poi, con un selvaggio calcio, mandò il cavalletto a gambe all'aria, e fuggì come una lepre verso la riva. Persino in quell'istante abbagliante Paynter sentì che quell'accoglienza selvaggia era una novità e quasi un anticlimax; ma non ebbe [[Time|tempo]] di analizzare quando lui e l'intera muta dovettero unirsi alla caccia; perfino Treherne chiudeva la fila con rinnovata curiosità ed energia.
+
+Il fuggitivo si scontrò con uno dei poliziotti accorso a tagliargli la strada, mandandolo a ruzzolare giù per il pendio; in verità, il fuggitivo pareva animato dalla forza di una scimmia selvaggia. Superò con un balzo il bastione di [[Flowers|fiori]] su cui Barbara si era una volta chinata a guardare il suo futuro [[Lover|innamorato]], e precipitò con [[Speed|velocità]] accecante giù per il ripido sentiero su cui quel trovatore si era arrampicato. Correndo a gara col [[Wind|vento]] impetuoso, tutti si riversarono attraverso il [[Garden|giardino]] dietro di lui, giù per il sentiero, e infine sulla riva del mare presso la capanna del pescatore, e le rupi e caverne traforate che l'americano aveva ammirato quando era sbarcato per la prima volta. Il fuggiasco però non puntò verso la [[house|casa]] che aveva a lungo abitato, ma piuttosto verso il molo, come con l'intenzione di afferrare la barca o di gettarsi a nuoto. Solo quando raggiunse l'altra estremità del piccolo molo di pietra si voltò, e mostrò loro il volto pallido con gli occhiali; e videro che stava ancora sorridendo.
+
 
 
 <span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_03" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 3)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
@@ -6199,6 +6519,42 @@ His red face was, however, burnt like a sailor's, and his light
 clothes had a foreign look.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ne sono piuttosto lieto», disse Treherne, con un gran sospiro. «L'uomo è pazzo.»
+
+Nondimeno, la naturalezza della voce del dottore, quando parlò, li fece trasalire quanto un grido.
+
+«Signori», disse, «non prolungherò i vostri penosi doveri chiedendovi che cosa volete; ma vi chiederò subito un piccolo favore, che non pregiudicherà in alcun modo quei doveri. Sono sceso qui forse un po' in fretta; ma la [[Truth|verità]] è che credevo di essere in ritardo per un appuntamento.» Guardò con distacco l'orologio. «Trovo che ci sono ancora una quindicina di minuti. Volete aspettare qui con me per quel breve [[Time|tempo]]; dopodiché sarò del tutto al vostro servizio?»
+
+Vi fu un [[Silence|silenzio]] sconcertato, e poi Paynter disse: «Da parte mia, ho la sensazione che sarebbe davvero meglio assecondarlo.»
+
+«Ashe», disse il dottore, con una nuova nota di serietà, «in nome della vecchia [[Friendship|amicizia]], concedimi quest'ultima piccola indulgenza. Non farà alcuna differenza; non ho armi né mezzi di fuga; puoi perquisirmi se vuoi. So che credi di fare la cosa giusta, e so anche che la farai nel modo più leale che puoi. [[Well|Ebbene]], dopo tutto, tu ti procuri amici che ti aiutino; guarda il nostro amico con la barba, o con ciò che resta della barba. Perché non dovrei avere un amico che aiuti me? Un uomo sarà qui tra pochi minuti, uno in cui ripongo una certa fiducia; una grande autorità in queste cose. Perché no, non fosse che per curiosità, aspettare e sentire il suo parere sul caso?»
+
+«Sembra tutto un chiaro di luna», disse Ashe, «ma sulla possibilità di un po' di luce sulle cose... [[Well|beh]], dalla [[Moon|luna]]... non mi dispiace aspettare un quarto d'ora. Chi sarà mai questo amico, mi [[Wonder|domando]]; qualche [[Detective|detective]] dilettante, suppongo.»
+
+«Vi ringrazio», disse il dottore, con una certa dignità. «Credo che vi fiderete di lui dopo avergli parlato un poco. E ora», aggiunse con l'aria di distendersi amabilmente in argomenti più leggeri, «parliamo dell'omicidio.
+
+«Questo caso», disse con fare distaccato, «si rivelerà, sospetto, piuttosto singolare. C'è una combinazione molto chiara e conclusiva di indizi contro Thomas Burton Brown, altrimenti detto io stesso. Ma c'è una peculiarità in quelle prove, che forse avrete notato. Provengono tutte in ultima analisi da un'unica fonte, e per giunta piuttosto insolita. Così, il [[Woodcutter|boscaiolo]] dice che avevo la sua ascia, ma cosa glielo fa credere? Dice che gli dissi io di avere la sua ascia; che glielo dissi più e più volte. Ancora, il signor Paynter qui tirò su l'ascia dal [[Well|pozzo]]; ma come? Credo che il signor Paynter testimonierà che gli portai io l'attrezzatura per ripescarla, un'attrezzatura che forse non avrebbe mai avuto in altro modo. Curioso, non è vero? Di nuovo, l'ascia si trova avvolta in filacce che erano in mio possesso, secondo il pescatore. Ma chi mostrò le filacce al pescatore? Io. Chi le contrassegnò a grandi lettere come mie? Io. Chi le avvolse attorno al manico, prima di tutto? Io. Cosa piuttosto singolare da fare; qualcuno l'ha mai spiegata?»
+
+Le sue parole, dapprima ascoltate con penosa freddezza, cominciavano a trattenere sempre più la loro attenzione.
+
+«Poi c'è il [[Well|pozzo]] stesso», proseguì il dottore, con la stessa aria di folle calma. «Suppongo che alcuni di voi a quest'[[Time|ora]] conoscano almeno il segreto di quello. Il segreto del [[Well|pozzo]] è semplicemente che non è un [[Well|pozzo]]. È sagomato apposta in cima per sembrarlo, ma è in realtà una specie di camino che si apre dalla volta di una di quelle grotte laggiù; una [[Cave|grotta]] che si spinge nell'entroterra proprio sotto il bosco, e che di fatto È collegata da cunicoli e passaggi segreti con altre aperture a miglia e miglia di distanza. È una sorta di labirinto usato da contrabbandieri e simile gente da epoche remote. Questo spiega senza dubbio molte di quelle sparizioni di cui abbiamo sentito parlare. Ma per tornare al [[Well|pozzo]] che non è un [[Well|pozzo]], nel caso alcuni di voi ancora non lo sappiano. Quando il mare si alza molto in certe [[Seasons|stagioni]] riempie la [[Cave|grotta]] bassa, e sale perfino un poco nell'imbuto sovrastante, facendolo somigliare a un [[Well|pozzo]] più che mai. Il rumore che il signor Paynter udì era il naturale vortice di un frangente dal di fuori, e tutta l'esperienza dipendeva da qualcosa di così elementare come la marea.»
+
+La sorpresa restituì all'americano il linguaggio ordinario.
+
+«La marea!» disse. «E non ci ho nemmeno mai pensato! Immagino sia perché ho vissuto in riva al Mediterraneo.»
+
+«Il passo successivo sarà abbastanza ovvio», continuò chi parlava, «per una mente logica come quella del signor Ashe, per esempio. Se si chiede perché, pur così, la marea non avesse portato via i resti dello Squire che giacevano là fin dalla sua scomparsa, c'è una sola risposta possibile. I resti NON giacevano là fin dalla sua scomparsa. I resti erano stati messi là deliberatamente nella caverna sotto il bosco, e messi là DOPO che il signor Paynter ebbe compiuto la sua prima indagine. Furono messi là, insomma, dopo che il mare si era ritirato e la [[Cave|grotta]] era di nuovo asciutta. Ecco perché erano asciutti; molto più asciutti, naturalmente, della [[Cave|grotta]]. Chi ce li mise, mi [[Wonder|domando]]?»
+
+Fissava con gravità attraverso gli occhiali, al di sopra delle loro teste, nel vuoto, e all'improvviso sorrise.
+
+«Ah», gridò, balzando su dalla roccia con prontezza, «ecco finalmente il [[Detective|detective]] dilettante!»
+
+Ashe girò la testa sopra la spalla, e per qualche secondo non la mosse più, ma restò come col collo irrigidito. Nella scogliera proprio dietro di lui c'era una di quelle fenditure o crepe in cui essa era ovunque spaccata. Avanzando da questa verso la luce del sole, come da una porta stretta, veniva lo Squire Vane, con un ampio sorriso in volto.
+
+Il [[Wind|vento]] si scagliava dalla cima dell'alta scogliera verso il mare, passando sopra le loro teste, ed essi avevano la sensazione che tutto passasse sopra le loro teste e fuori dal loro controllo. Paynter si sentì come se la testa gli fosse stata soffiata via come un cappello. Ma nulla di questa raffica d'irragionevolezza sembrava scomporre un capello sul capo bianco dello Squire, il cui portamento, benché [[Self|borioso]] e al limite della spavalderia, pareva semmai più a suo agio che ai vecchi tempi. Il suo volto rosso era però bruciato come quello di un marinaio, e i suoi abiti chiari avevano un'aria straniera.
+
 
 
 <span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_04" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 4)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
@@ -6319,6 +6675,42 @@ It was perhaps a singular story, of which he [[Alone|alone]] had ever had
 the knowledge; and though its narration was not uninterrupted,
 it may be set forth consecutively in his own words.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«[[Well|Ebbene]], signori», disse affabile, «così questa è la fine della leggenda degli alberi del pavone. Mi spiace rovinare quel delizioso racconto da viaggiatore, signor Paynter, ma lo scherzo non poteva durare in eterno. Mi spiace mettere fine alla vostra miglior poesia, signor Treherne, ma ho pensato che tutta questa poesia stesse andando un po' troppo oltre. Così il dottor Brown e io abbiamo preparato una piccola sorpresa per voi. E devo dire, senza [[Vanity|vanità]], che avete un'aria un po' sorpresa.»
+
+«Che diavolo», chiese infine Ashe, «significa tutto questo?»
+
+Lo Squire rise piacevolmente, e persino con un po' di aria di scusa,
+
+«Temo di essere amante degli scherzi», disse, «e questo suppongo sia il mio ultimo grande scherzo. Ma voglio che capiate che lo scherzo è davvero pratico. Mi lusingo che sarà di utilità assai pratica alla causa del progresso e del buon senso, e all'uccisione di simili superstizioni ovunque. La parte migliore, lo ammetto, fu un'idea del dottore, non mia. Tutto ciò che intendevo fare era passare una [[Night|notte]] tra gli alberi, e poi ricomparire fresco come una rosa per dirvi che sciocchi eravate. Ma il dottor Brown qui mi seguì nel bosco, e facemmo una piccola chiacchierata che cambiò alquanto i miei piani. Mi disse che una scomparsa di poche ore come quella non avrebbe mai fatto piazza pulita di quelle sciocchezze; la maggior parte della gente non ne avrebbe mai nemmeno sentito parlare, e chi ne avesse sentito avrebbe detto che una [[Night|notte]] non provava nulla. Mi mostrò un modo assai migliore, che era stato provato in vari casi in cui erano stati smascherati falsi miracoli. La cosa da fare era far credere ovunque che la cosa fosse davvero un miracolo, e poi smascherarla ovunque come un falso miracolo. Non so esporre tutti gli argomenti [[Well|bene]] quanto lui, ma l'idea era questa, mi pare.»
+
+Il dottore annuì, fissando in silenzio la sabbia; e lo Squire riprese con immutato gusto.
+
+«Convenimmo che io mi sarei calato attraverso il foro nella [[Cave|grotta]], e mi sarei fatto strada per i cunicoli, dove da ragazzo giocavo spesso, fino alla stazione ferroviaria a poche miglia da qui, e là avrei preso un treno per [[London|Londra]]. Era necessario per lo scherzo, naturalmente, che io scomparissi senza lasciare tracce; così raggiunsi un porto, e trascorsi un mese o due assai piacevoli tra i miei vecchi luoghi prediletti a Cipro e nel Mediterraneo. Non c'è altro da dire di quella parte della faccenda, se non che disposi di essere di ritorno entro un certo [[Time|tempo]]; ed eccomi qui. Ma ho sentito abbastanza di ciò che è accaduto qui intorno per essere certo di aver riuscito nel gioco. Tutti in Cornovaglia e la maggior parte della gente dell'Inghilterra meridionale hanno sentito parlare dello Squire Scomparso; e migliaia di sciocchi hanno annuito con la testa su cristalli e carte dei tarocchi davanti a questa meravigliosa prova di un mondo invisibile. Scommetto che lo Squire Riapparso disperderà le loro carte e frantumerà i loro cristalli, cosicché tali sciocchezze non ricompaiano nel ventesimo secolo. Farò degli alberi del pavone lo zimbello di tutta l'Europa e l'[[america|America]].»
+
+«[[Well|Ebbene]]», disse l'avvocato, che fu il primo a rimettere in ordine le idee, «sono certo che siamo tutti fin troppo lieti di rivedervi, Squire; e capisco bene la vostra spiegazione e i vostri motivi assai naturali in questa faccenda. Ma temo di non aver ancora afferrato tutto. Ammesso che voleste sparire, era necessario mettere ossa false nella [[Cave|grotta]], così da mettere quasi un cappio al collo del dottor Brown? E chi le mise là? La cosa parrebbe assolutamente da folli; ma per quanto riesca a raccapezzarmi di qualsiasi cosa, sembra che il dottor Brown le abbia messe là lui stesso.»
+
+Il dottore alzò la testa per la prima [[Time|volta]].
+
+«Sì; ho messo io le ossa là», disse. «Credo di essere il primo figlio di Adamo ad aver mai fabbricato tutte le prove di un'accusa d'omicidio contro se stesso.»
+
+Fu la volta dello Squire di apparire sbalordito. Il vecchio gentiluomo guardò con una certa aria stralunata dall'uno all'altro.
+
+«Ossa! Accusa d'omicidio!» esclamò. «Che diavolo è tutto questo? Ossa di chi?»
+
+«Le vostre ossa, per così dire», concesse delicatamente il dottore. «Dovevo assicurarmi che foste davvero morto, e non scomparso per [[Magic|magia]].»
+
+Lo Squire a sua volta parve più disperatamente perplesso di quanto lo fosse stata tutta la schiera dei suoi amici davanti alla sua stessa bravata. «Perché no?» domandò. «Pensavo che tutto il punto fosse farla sembrare [[Magic|magia]]. Perché volevate tanto che io morissi?»
+
+Il dottor Brown aveva alzato la testa; e ora, assai lentamente, alzò la mano. Indicò col braccio teso il promontorio che sovrastava la battigia, proprio sopra l'ingresso della [[Cave|grotta]]. Era esattamente quel tratto di spiaggia dove Paynter era sbarcato per la prima volta, in quella mattina di [[spring|primavera]] in cui aveva levato lo sguardo con il suo primo fresco [[Wonder|stupore]] verso gli alberi del pavone. Ma gli alberi non c'erano più.
+
+Il fatto in sé non fu una sorpresa per loro; l'abbattimento era stato naturalmente uno dei primi dei radicali mutamenti del regime dei Treherne. Ma benché lo sapessero [[Well|bene]], l'avevano del tutto dimenticato; e il suo significato tornò su di loro all'improvviso come un segno nel cielo.
+
+«Questa è la ragione», disse il dottore. «Ho lavorato per questo per quattordici anni.»
+
+Non guardavano più lo spoglio promontorio su cui gli alberi piumati erano un tempo una vista tanto familiare; poiché avevano qualcos'altro da guardare. Chiunque avesse visto lo Squire ora avrebbe cambiato opinione su dove trovare il pazzo in quella folla. Fu chiaro in un lampo che il cambiamento era caduto su di lui come un fulmine; che egli, almeno, non aveva mai avuto la più remota idea che il racconto dello Squire Scomparso fosse stato solo un preludio a quello degli alberi scomparsi. La mezz'ora successiva fu piena dei suoi deliri e delle sue rimostranze, che gradualmente si spensero in richieste di spiegazioni e domande incoerenti ripetute più e più volte. Praticamente dovette essere messo a tacere alla fine, malgrado il rispetto di cui godeva, prima che si facesse qualcosa come uno spazio e un [[Silence|silenzio]] in cui il dottore potesse raccontare la propria storia. Era forse una storia singolare, di cui egli [[Alone|solo]] aveva mai avuto conoscenza; e benché la sua narrazione non fosse ininterrotta, la si può esporre di seguito con le sue stesse parole.
 
 
 
@@ -6488,3 +6880,30 @@ And, turning his back on them, as if automatically, he set his face
 toward the village, where for so many years he had gone his round.
 
 End of The Trees of [[Pride]], by G. K. Chesterton
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Primo, desidero che sia ben chiaro che non credo in nulla. Non do nemmeno un nome al nulla in cui credo; altrimenti sarei ateo. Non ho mai avuto in testa nemmeno un accenno di paradiso e inferno. Credo assai probabile che siamo vermi nel fango; ma per caso mi dispiace per gli altri vermi sotto la [[Wheel|ruota]]. E per caso io stesso sono una specie di verme che si rivolta quando può. Se non m'importa nulla della pietà, m'importa ancor meno della poesia. Non sono come Ashe qui, che è imbottito di criminologia, ma possiede [[Well|pure]] ogni sorta di altra cultura. Io non so nulla di cultura, tranne le colture batteriche. A volte immagino che il signor Ashe sia un critico d'arte tanto quanto il signor Paynter; solo che lui cerca i suoi eroi, o i suoi cattivi, nella vita reale. Ma io sono un uomo assai pratico; e i miei punti d'appoggio sono stati semplicemente fatti scientifici. In questo villaggio ho trovato un fatto: una febbre. Non riuscivo a classificarla; sembrava peculiare a questo angolo di costa; aveva singolari reazioni di delirio e crollo mentale. La studiai esattamente come avrei studiato uno strano caso in ospedale, e mi misi in corrispondenza e confrontai i miei appunti con altri uomini di scienza. Ma nessuno aveva nemmeno un'ipotesi di lavoro al riguardo, tranne naturalmente gli ignoranti contadini, che dicevano che gli alberi del pavone erano in qualche modo selvaggio velenosi.
+
+«[[Well|Ebbene]], gli alberi del pavone erano velenosi. Gli alberi del pavone producevano davvero la febbre. Verificai il fatto nel modo pedante e paziente che si richiede, confrontando tutti i gradi e i dettagli di un vastissimo numero di casi; e ce n'era un numero spaventoso da confrontare. Alla fine avevo scoperto la cosa come Harvey scoprì la circolazione del [[Blood|sangue]]. Chiunque stesse vicino a quelle cose ne usciva peggiorato; coloro che se la cavavano meglio erano proprio le eccezioni che confermavano la regola, persone anormalmente sane ed energiche come lo Squire e sua figlia. In altre parole, i contadini avevano ragione. Ma se metto la cosa in questi termini, qualcuno griderà: "Ma allora credete che fosse [[Supernatural|soprannaturale]]?" Di fatto, è ciò che direte tutti; ed è esattamente ciò di cui mi lamento. Immagino che centinaia di uomini siano stati lasciati morti e malattie lasciate non scoperte, per questo sospetto di superstizione, questa stupida [[Fear|paura]] della [[Fear|paura]]. Se non vedete la luce del giorno attraverso la foresta dei fatti fin dal principio, non vi avventurerete affatto nel bosco. Se non possiamo promettervi in anticipo che ci sarà quella che chiamate una spiegazione naturale, per salvare la vostra preziosa dignità dai miracoli, non ascolterete nemmeno l'inizio del semplice racconto. Supponiamo che non ci sia una spiegazione naturale! Supponiamo che ci sia, e che non la troviamo mai! Supponiamo che io non abbia la minima idea se ci sia o no! Che diavolo c'entra questo con voi, o con me, nel trattare i fatti che conosco? Il mio istinto è di pensare che ci sia; che se le mie ricerche potessero essere spinte abbastanza in là si scoprirebbe che qualche orribile [[Parody|parodia]] della febbre da fieno, qualche effetto analogo a quello del polline, spiegherebbe tutti i fatti. Non ho mai trovato la spiegazione. Ciò che ho trovato sono i fatti. E il fatto è che quegli alberi lassù in cima seminavano [[Death|morte]] a destra e a manca, con la stessa certezza che se fossero stati giganti, ritti su una [[Hill|collina]] ad abbattere uomini a frotte con una clava. Si dirà che ora non mi restava che produrre le mie prove e far rimuovere il flagello. Forse avrei potuto convincere infine il mondo scientifico, quando sempre più processioni di morti fossero passate per il villaggio verso il cimitero. Ma non dovevo convincere il mondo scientifico, bensì il Signore del Maniero. Lo Squire mi perdonerà se dico che era una cosa ben diversa. Ci provai una volta; persi la pazienza, e dissi cose che non difendo; e lasciai i pregiudizi dello Squire radicati di nuovo, come gli alberi. Mi trovai di fronte a una colossale coincidenza che era un ostacolo a tutti i miei scopi. Una cosa faceva suonare tutta la mia scienza come un'assurdità. Era la leggenda popolare.
+
+«Squire, se ci fosse una leggenda sulla febbre da fieno, voi non credereste nella febbre da fieno. Se ci fosse una storia popolare sul polline, direste che il polline è soltanto una storia popolare. Avevo contro di me qualcosa di più pesante e più disperato dell'ostilità dei dotti; avevo l'appoggio degli ignoranti. La mia [[Truth|verità]] era irrimediabilmente aggrovigliata con un racconto che gli istruiti erano decisi a considerare interamente una menzogna. Non tentai mai di spiegare di nuovo; al contrario, mi scusai, finsi una [[conversion|conversione]] alla visione del buon senso, e osservai gli eventi. E per tutto quel [[Time|tempo]] le linee di un piano più ampio, benché più tortuoso, cominciarono a farsi più chiare nella mia mente. Sapevo che Miss Vane, sposata o no al signor Treherne, come poi scoprii che era, era talmente sotto la sua influenza che il primo giorno della sua eredità sarebbe stato l'ultimo giorno degli alberi velenosi. Ma non poteva ereditare, né intervenire, finché lo Squire non fosse morto. Divenne semplicemente [[Self|auto]]-evidente, per una mente razionale, che lo Squire doveva morire. Ma desiderando essere umano [[Well|oltre]] che razionale, volevo che la sua [[Death|morte]] fosse temporanea.
+
+«Senza dubbio il mio piano fu completato da una serie di casi fortuiti, ma io ero in agguato di simili casi. Così ebbi un presentimento di come l'ascia avrebbe figurato nella vicenda quando fu scagliata per la prima volta contro gli alberi; avrebbe sorpreso il boscaiolo sapere quanto vicine fossero le nostre menti, e come io non stessi facendo altro che porre un assedio più elaborato alle torri della pestilenza. Ma quando lo Squire si precipitò spontaneamente verso ciò che metà della contrada avrebbe chiamato [[Death|morte]] certa, colsi l'occasione al volo. Lo seguii, e gli raccontai tutto ciò che lui ha raccontato a voi. Non credo che mi perdonerà mai ora, ma ciò non m'impedirà di dire che lo ammiro immensamente per essere ciò che la gente chiamerebbe un pazzo e ciò che è in realtà uno spirito sportivo. Ci vuole un vecchio gentiluomo davvero grande per fare uno scherzo in grande stile. Scese così in fretta dall'albero su cui si era arrampicato che non ebbe [[Time|tempo]] di togliere il cappello dal ramo in cui si era impigliato.
+
+«Dapprima m'accorsi di aver fatto un errore di calcolo. Pensavo che la sua scomparsa sarebbe stata presa per la sua [[Death|morte]], almeno dopo un po' di [[Time|tempo]]; ma Ashe mi disse che non poteva esserci alcuna formalità senza un cadavere. [[Fear|Temo]] di essermi un po' seccato, ma mi accinsi presto al compito di fabbricare un cadavere. Non è difficile per un medico procurarsi uno [[skeleton|scheletro]]; ne avevo uno, di fatto, ma l'energia del signor Paynter fu di un giorno troppo precoce per me, e riuscii a mettere le ossa nel [[Well|pozzo]] solo dopo che lui l'aveva già scoperto. La sua storia però mi diede un'altra occasione; notai dov'era il foro nel cappello, e feci un foro esattamente corrispondente nel cranio. La ragione per cui creai gli altri indizi potrebbe non essere così ovvia. Potrebbe non esservi ancora del tutto chiaro che non sono un demonio in forma umana. Non potevo comprovare un omicidio senza almeno suggerire un assassino, ed ero deciso che, se il delitto fosse stato ricondotto a qualcuno, dovesse esserlo a me. Perciò non mi sorprende che foste perplessi sullo scopo dello straccio attorno all'ascia, perché non aveva alcuno scopo, se non incriminare l'uomo che ce l'aveva messo. La caccia doveva finire con me, e quando si stava finalmente stringendo, lo scherzo fu troppo per me, e [[Fear|temo]] di essermi preso qualche libertà con il cavalletto e la barba del gentiluomo. Ero l'unica persona che potesse rischiarlo, essendo l'unica persona che potesse all'ultimo momento produrre lo Squire e provare che non c'era stato affatto delitto. Questa, signori, è la vera storia degli alberi del pavone; e quello spoglio picco lassù, dove il [[Wind|vento]] fischia come farebbe su un deserto, è un luogo desolato che ho faticato a creare, come molti uomini hanno faticato a costruire una [[Cathedral|cattedrale]].
+
+«Non credo che ci sia altro da dire, eppure qualcosa si muove nel mio [[Blood|sangue]] e cercherò di dirlo. Non avreste potuto fidarvi un poco di questi contadini di cui già tanto vi fidate? Questi uomini sono uomini, e qualcosa volevano dire; perfino i loro padri non erano del tutto sciocchi. Se il vostro giardiniere vi parlava degli alberi lo chiamavate pazzo, ma non progettò né piantò il vostro [[Garden|giardino]] da pazzo. Non volevate fidarvi del vostro boscaiolo riguardo a questi alberi, eppure gli affidavate tutti gli altri. Avete mai pensato a come sarebbe tutto il lavoro del mondo se i poveri fossero insensati quanto voi li credete? Ma no, restaste attaccati al vostro principio razionale. E il vostro principio razionale era che una cosa dev'essere falsa perché migliaia di uomini l'hanno trovata vera; che PERCHÉ molti occhi umani avevano visto qualcosa, quella cosa non poteva esserci.»
+
+Guardò Ashe dall'altra parte con una sorta di sfida, ma benché il [[Wind|vento]] del mare scompigliasse la rossa criniera del vecchio avvocato, la sua maschera napoleonica restava imperturbata; aveva perfino una sorta di [[Beauty|bellezza]] per la sua nuova benignità.
+
+«Sono troppo felice in questo momento nel pensare a quanto mi sia sbagliato», rispose, «per litigare con voi, dottore, sulle nostre teorie. Eppure, per rendere giustizia allo Squire [[Well|non meno]] che a me stesso, dovrei obiettare alla vostra conclusione tanto avventata. Rispetto questi contadini, rispetto la vostra stima per loro; ma le loro storie sono un'altra faccenda. Credo che farei qualsiasi cosa per loro, tranne credere loro. [[Truth|Verità]] e fantasia, dopo tutto, sono mescolate in loro, mentre nei più istruiti sono separate; e [[Doubt|dubito]] che abbiate considerato che cosa comporterebbe prendere per buona la loro parola su qualunque cosa. Metà dei [[Ghosts|fantasmi]] di coloro che morirono di febbre potrebbe camminare ormai; e per quanto buona sia questa gente, credo che potrebbe ancora bruciare una [[Witch|strega]]. No, dottore, ammetto che questa gente sia stata trattata male, ammetto che in molti modi ci sia superiore, ma non potrei ancora accettare nulla della loro testimonianza.»
+
+Il dottore s'inchinò con sufficiente gravità e rispetto, e poi, per l'ultima [[Time|volta]] quel giorno, videro il suo sorriso piuttosto sinistro.
+
+«Proprio così», disse. «Eppure mi avreste impiccato sulla loro testimonianza.»
+
+E, voltando loro le spalle, come per automatismo, rivolse il volto verso il villaggio, dove per tanti anni aveva compiuto il suo giro.
+
+Fine de Gli alberi dell'[[Pride|orgoglio]], di G. K. Chesterton

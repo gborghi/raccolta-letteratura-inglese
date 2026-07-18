@@ -7050,7 +7050,7 @@ G.K.C.
 
 Kensington.
 
-INDICE  
+INDICE
 
 Pagina
 
@@ -12264,11 +12264,11 @@ prima è che egli creda nella [[Truth|verità]] del suo messaggio; la seconda
 
 è che egli creda nell'accettabilità del suo messaggio. Fu
 
-tutta la [[Tragedy|tragedia]] di Carlyle l'aver avuto la prima e non la seconda.
+l'intera [[Tragedy|tragedia]] di Carlyle che egli avesse la prima e non la seconda.
 
-Il consueto capitale, tuttavia, che si ricava dalla presunta
+Il capitale ordinario, tuttavia, che si ricava dal presunto
 
-tetraggine di Carlyle è cosa assai meschina. Carlyle ebbe i suoi difetti, come uomo e
+cupore di Carlyle è cosa assai meschina. Carlyle aveva i suoi difetti, sia come uomo sia
 
 come scrittore, ma il tentativo di spiegare il suo vangelo in termini del suo
 
@@ -12276,35 +12276,35 @@ come scrittore, ma il tentativo di spiegare il suo vangelo in termini del suo
 
 "Sartor Resartus", sarebbe cosa assai più tollerabile di quanto sia.
 
-Le malattie non si tramutano in [[Poems|poesie]]; perfino il decadente scrive in realtà con
+Le malattie non si tramutano in [[Poems|poemi]]; persino il decadente scrive davvero con
 
-la parte sana del suo organismo. Se i difetti privati di Carlyle e
+la parte sana del suo organismo. Se i difetti privati di Carlyle e le sue
 
-le sue virtù letterarie correvano un po' sulla stessa linea, egli è solo nella
+virtù letterarie correvano in certa misura sullo stesso solco, egli è solo nella
 
-situazione d'ogni uomo; per ciascuno di noi è certo assai difficile
+situazione di ogni uomo; per ciascuno di noi è di certo assai difficile
 
 dire con precisione dove finiscano le nostre oneste opinioni e comincino le nostre personali
 
 predilezioni. Ma tentare di denunciare Carlyle come un mero selvaggio
 
-egotista non può nascere che da una pura incapacità di cogliere
+egotista non può nascere che da una pura incapacità di afferrare
 
 il vangelo di Carlyle. "Ruskin", dice un critico, "credette, malgrado tutto, davvero
 
 in Dio; Carlyle credette solo in se stesso." Questa è di certo una
 
-distinzione tra l'autore che ha compreso e l'autore che non ha
+distinzione tra l'autore che egli ha compreso e l'autore che
 
-compreso. Carlyle credeva in se stesso, ma non poteva
+non ha compreso. Carlyle credeva in sé stesso, ma non avrebbe potuto
 
-credere in se stesso più di quanto facesse Ruskin; entrambi credevano in Dio,
+credere in sé stesso più di quanto facesse Ruskin; entrambi credevano in Dio,
 
-perché sentivano che se ogni altra cosa fosse caduta in rovina e sfacelo,
+perché sentivano che se tutto il resto fosse caduto in rovina e disfacimento,
 
-essi stessi erano testimoni perenni di Dio. Dove entrambi fallirono non fu
+loro stessi restavano testimoni permanenti di Dio. Dove entrambi fallirono non fu
 
-nella fede in Dio né nella fede in se stessi; fallirono nella fede
+nella fede in Dio o nella fede in sé stessi; fallirono nella fede
 
 negli altri. Non basta a un [[Prophet|profeta]] credere nel suo
 
@@ -12312,89 +12312,89 @@ messaggio; deve credere nella sua accettabilità. [[Christ|Cristo]], san Frances
 
 Bunyan, Wesley, il signor Gladstone, Walt Whitman, uomini d'indescrivibile
 
-varietà, erano tutti simili in una certa facoltà di trattare l'uomo comune
+varietà, si somigliavano tutti in una certa facoltà di trattare l'uomo comune
 
-come loro pari, di confidare nella sua ragione e nel suo buon sentire senza [[Fear|timore]]
+come loro pari, di affidarsi alla sua ragione e al suo buon sentire senza [[Fear|timore]]
 
 e senza condiscendenza. Fu questa semplicità di fiducia, non
 
-solo in Dio, ma nell'immagine di Dio, che mancava a Carlyle.
+solo in Dio, ma nell'immagine di Dio, a mancare in Carlyle.
 
 Ma i tentativi di screditare il sentimento religioso di Carlyle devono
 
-assolutamente cadere a terra. La profonda sicurezza del senso di Carlyle
+assolutamente cadere nel nulla. La profonda sicurezza del senso che Carlyle
 
-dell'[[unity|unità]] del Cosmo è come quella di un [[Prophet|profeta]] ebreo; ed ha
+aveva dell'[[unity|unità]] del Cosmo è simile a quella di un [[Prophet|profeta]] ebreo; ed essa ha
 
 la stessa espressione che aveva nei profeti ebrei: l'[[Humour|umorismo]]. Un uomo
 
-dev'essere ben colmo di [[Faith|fede]] per scherzare sulla propria divinità. Nessun neopagano
+deve essere ben colmo di [[Faith|fede]] per scherzare sulla propria divinità. Nessun neopagano
 
 che suggerisca con delicatezza un ritorno di Dioniso, nessun vago, mezzo convertito
 
 teosofo che brancoli verso un riconoscimento di Buddha, penserebbe mai di
 
-fare battute in proposito. Ma per i profeti ebrei la loro religione
+fare battute sulla questione. Ma per i profeti ebrei la loro religione
 
 era cosa tanto solida, come una montagna o un mammut, che l'ironia del
 
-suo contatto con faccende banali e fugaci li colpiva come un colpo.
+suo contatto con faccende triviali e fugaci li colpiva come un colpo.
 
-Così fu con Carlyle. Il suo supremo contributo, tanto alla [[philosophy|filosofia]] quanto
+Così fu di Carlyle. Il suo supremo contributo, sia alla [[philosophy|filosofia]] sia alla
 
-alla letteratura, fu il suo senso del sarcasmo dell'[[Eternity|eternità]]. Altri scrittori avevano
+letteratura, fu il suo senso del sarcasmo dell'[[Eternity|eternità]]. Altri scrittori avevano
 
-visto la [[Hope|speranza]] o il terrore dei cieli, egli [[Alone|solo]] ne vide l'[[Humour|umorismo]],
+veduto la [[Hope|speranza]] o il terrore dei cieli; egli [[Alone|solo]] vide l'[[Humour|umorismo]] di
 
-altri scrittori avevano visto che poteva esservi qualcosa di elementare ed
+essi. Altri scrittori avevano visto che poteva esservi qualcosa di elementare ed
 
-eterno in un [[Song|canto]] o in uno statuto, egli [[Alone|solo]] vide che poteva esservi qualcosa
+eterno in un [[Song|canto]] o in uno statuto, egli [[Alone|solo]] vide che poteva esservi qualcosa di
 
-di elementare ed eterno in una battuta. Nessuno che l'abbia mai letto scorderà il
+elementare ed eterno in una battuta. Nessuno che l'abbia mai letto dimenticherà il
 
-passo, colmo di cupa e agnostica soddisfazione, in cui narra
+passo, colmo di cupa e agnostica soddisfazione, in cui egli narra
 
 che un cronista di [[Court|corte]] descrisse Luigi XV come "addormentatosi nel
 
 Signore." "Ci basti che si sia addormentato; che, avvolto nella fitta
 
-[[Night|notte]], sotto quale custodia non chiediamo, egli almeno non, per
+[[Night|notte]], sotto quale custodia non chiediamo, egli almeno non insulterà mai più, attraverso
 
-secoli senza fine, insulterà più il volto del sole ... e noi proseguiamo, se
+ere senza fine, il volto del sole... e noi proseguiamo, se
 
 non verso forme migliori di bestialità, almeno verso più fresche."
 
-Il supremo valore di Carlyle per la letteratura inglese fu l'essere stato il
+Il supremo valore di Carlyle per la letteratura inglese fu di essere il
 
 fondatore dell'irrazionalismo moderno; un movimento importante quanto il
 
 razionalismo moderno. Molto si dice di questi tempi sul valore o
 
-sull'inutilità della [[logic|logica]]. In sostanza, invero, la [[logic|logica]] non è tanto uno strumento
+sull'inutilità della [[logic|logica]]. In sostanza, in verità, la [[logic|logica]] non è tanto uno strumento
 
-produttivo quanto un'arma di difesa. Un uomo che edifica un sistema
+produttivo quanto un'arma di difesa. Un uomo che costruisce un sistema
 
 intellettuale deve costruire come Neemia, con la [[Sword|spada]] in una mano e la
 
 cazzuola nell'altra. L'[[Imagination|immaginazione]], la qualità costruttiva, è la
 
-cazzuola, e l'argomentazione è la [[Sword|spada]]. Un'ampia esperienza degli effettivi
+cazzuola, e l'argomentazione è la [[Sword|spada]]. Una vasta esperienza degli effettivi
 
 affari intellettuali condurrà i più alla conclusione che la [[logic|logica]]
 
-vale soprattutto come arma con cui sterminare i logici.
+è preziosa soprattutto come arma con cui sterminare i logici.
 
-Ma per quanto ciò possa esser vero in pratica, non chiarisce affatto
+Ma per quanto ciò possa essere abbastanza vero in pratica, a stento chiarisce
 
-il posto della [[logic|logica]] nelle faccende umane. La [[logic|logica]] è una [[Machine|macchina]] della mente,
+la posizione della [[logic|logica]] nelle vicende umane. La [[logic|logica]] è una [[Machine|macchina]] della mente,
 
-e se è usata onestamente dovrebbe trarne una conclusione onesta.
+e se è usata onestamente dovrebbe produrre una conclusione onesta.
 
 Quando si dice che con la [[logic|logica]] si può provare qualsiasi cosa, non si usano
 
 le parole in senso corretto. Ciò che si intende è che si può provare qualsiasi cosa con
 
-la cattiva [[logic|logica]]. Nel profondo della mistica ingratitudine dell'[[Soul|anima]] umana v'è una
+una cattiva [[logic|logica]]. Nel profondo della mistica ingratitudine dell'[[Soul|anima]] dell'uomo vi è una
 
 straordinaria tendenza a usare il nome di un organo, quando ciò che si intende
 
@@ -12404,21 +12404,21 @@ di "nervi", il che è sensato press'a poco quanto parlare di un uomo che
 
 [[Suffering|soffre]] di dieci dita. Parliamo di "fegato" e di "digestione" quando
 
-intendiamo il cedimento del fegato e l'assenza di digestione. E allo stesso
+intendiamo il cattivo funzionamento del fegato e l'assenza di digestione. E allo stesso
 
 modo parliamo dei pericoli della [[logic|logica]], quando ciò che davvero intendiamo è il
 
 pericolo della fallacia.
 
-Ma il vero punto circa la limitazione della [[logic|logica]] e il parziale
+Ma il vero punto riguardo al limite della [[logic|logica]] e al parziale
 
 rovesciamento della [[logic|logica]] da parte di scrittori come Carlyle è più profondo e alquanto
 
-diverso. La colpa della gran massa dei logici non è che essi
+diverso. Il difetto della grande massa dei logici non è che essi
 
-traggano un risultato falso, ossia, in altre parole, non siano affatto logici.
+producano un risultato falso o, in altre parole, non siano affatto logici.
 
-La loro colpa è che, per un'inevitabile abitudine psicologica, tendono a
+Il loro difetto è che, per un'inevitabile abitudine psicologica, tendono a
 
 
 
@@ -12866,77 +12866,77 @@ fine.
 
 [[tolstoy|TOLSTOJ]] E IL CULTO DELLA SEMPLICITÀ
 
-Il mondo intero muove di certo verso una grande semplicità, non
+Il mondo intero si dirige di certo verso una grande semplicità, non
 
 deliberatamente, ma piuttosto inevitabilmente. Non è una mera moda di falsa
 
 [[innocence|innocenza]], come quella degli aristocratici francesi prima della Rivoluzione,
 
-che innalzarono un altare a Pan, e che tassarono i contadini per l'enorme
+che innalzavano un altare a Pan e tassavano i contadini per l'enorme
 
 spesa che occorre per vivere la vita semplice dei
 
-contadini. La semplicità verso cui il mondo si spinge è il
+contadini. La semplicità verso cui il mondo è sospinto è il
 
-necessario esito di tutti i nostri sistemi e speculazioni e della nostra profonda
+necessario esito di tutti i nostri sistemi e le nostre speculazioni e della nostra profonda
 
 e continua contemplazione delle cose. Poiché l'universo è come
 
-ogni cosa in esso; dobbiamo guardarlo ripetutamente e abitualmente prima di
+ogni cosa che esso contiene; dobbiamo guardarlo ripetutamente e abitualmente prima di
 
 vederlo. È solo quando l'abbiamo visto per la centesima [[Time|volta]] che
 
-lo vediamo per la prima [[Time|volta]]. Più coerentemente le cose sono
+lo vediamo per la prima [[Time|volta]]. Più le cose sono coerentemente
 
-contemplate, più tendono a unificarsi e perciò a
+contemplate, più tendono a unificarsi e dunque a
 
 semplificarsi. La semplificazione di qualsiasi cosa è sempre
 
 sensazionale. Così il monoteismo è la più sensazionale delle cose: è come
 
-se fissassimo a lungo un disegno pieno di oggetti scollegati, e,
+se fissassimo a lungo un disegno pieno di oggetti sconnessi e, all'improvviso,
 
-d'un tratto, con un brivido sbalorditivo, essi si riunissero in un enorme e
+con un brivido sbalorditivo, essi si ricomponessero in un enorme e
 
 fisso volto.
 
-Pochi contesteranno che tutti i tipici movimenti del nostro [[Time|tempo]] siano
+Pochi contesteranno che tutti i movimenti tipici del nostro [[Time|tempo]] siano
 
-su questa [[Road|strada]] verso la semplificazione. Ogni sistema cerca d'esser più
+su questa [[Road|strada]] verso la semplificazione. Ogni sistema cerca di essere più
 
-fondamentale dell'altro; ciascuno cerca, in senso letterale, di
+fondamentale dell'altro; ognuno cerca, in senso letterale, di
 
 scalzare l'altro. Nell'arte, per esempio, l'antica concezione dell'uomo,
 
 classica come l'[[Apollo]] del Belvedere, è stata dapprima attaccata dal realista,
 
-che afferma come l'uomo, quale fatto di [[history|storia]] naturale, sia una creatura dai
+che afferma che l'uomo, come fatto di [[history|storia]] naturale, è una creatura dai
 
-capelli scoloriti e dal volto lentigginoso. Poi viene l'impressionista, che va
+capelli incolori e dal viso lentigginoso. Poi viene l'Impressionista, che spingendosi
 
-ancor più a fondo, e afferma che al suo occhio fisico, che [[Alone|solo]] è
+ancora più a fondo, afferma che al suo occhio fisico, il [[Alone|solo]] che sia
 
-certo, l'uomo è una creatura dai capelli purpurei e dal volto grigio. Poi viene
+certo, l'uomo è una creatura dai capelli purpurei e dal viso grigio. Poi viene
 
-il simbolista, e dice che alla sua [[Soul|anima]], che [[Alone|sola]] è certa, l'uomo è
+il Simbolista, e dice che alla sua [[Soul|anima]], la [[Alone|sola]] che sia certa, l'uomo è
 
-una creatura dai capelli verdi e dal volto azzurro. E tutti i grandi scrittori del
+una creatura dai capelli verdi e dal viso azzurro. E tutti i grandi scrittori del
 
 nostro [[Time|tempo]] rappresentano in una forma o nell'altra questo tentativo di ristabilire
 
-la comunicazione con l'elementare, o, come talora più rozzamente
+la comunicazione con l'elementare o, come talvolta si esprime più rozzamente
 
-e fallacemente si esprime, di tornare alla [[Nature|natura]]. Alcuni pensano che il
+e fallacemente, di ritornare alla [[Nature|natura]]. Alcuni pensano che il
 
-ritorno alla [[Nature|natura]] consista nel non bere vino; alcuni pensano che
+ritorno alla [[Nature|natura]] consista nel non bere vino; altri pensano che
 
-consista nel bere assai più di quanto giovi loro. Alcuni pensano
+consista nel bere assai più di quanto faccia loro bene. Alcuni pensano
 
 che il ritorno alla [[Nature|natura]] si compia forgiando le spade in
 
-vomeri; alcuni pensano che si compia mutando i vomeri in
+vomeri; altri pensano che si compia mutando i vomeri in
 
-assai inefficaci baionette del Ministero della Guerra britannico. È naturale, secondo
+baionette del tutto inefficaci del Ministero della Guerra britannico. È naturale, secondo
 
 
 
@@ -13112,27 +13112,27 @@ who is inhabiting one corner of a great and good man.
 
 <span class="qlang-split" data-lang="it"></span>
 
-il guerrafondaio, che un uomo uccida gli altri con la polvere da sparo e se stesso
+il Jingo, che un uomo uccida gli altri con la polvere da sparo e sé stesso
 
 col gin. È naturale, secondo il rivoluzionario umanitario,
 
-uccidere gli altri con la dinamite e se stesso col vegetarianismo. Sarebbe
+uccidere gli altri con la dinamite e sé stesso col vegetarianismo. Sarebbe
 
-forse un sentimento troppo scopertamente filisteo suggerire che la
+forse un sentimento troppo palesemente filisteo suggerire che la
 
-pretesa dell'uno o dell'altro di questi individui d'obbedire alla voce della [[Nature|natura]] è
+pretesa dell'uno o dell'altro di obbedire alla voce della [[Nature|natura]] è
 
-interessante quando si consideri che essi richiedono enormi volumi di
+curiosa, se consideriamo che essi richiedono enormi volumi di
 
-argomentazione paradossale per persuadere sé o chiunque altro della [[Truth|verità]]
+argomentazione paradossale per persuadere sé stessi o chiunque altro della [[Truth|verità]]
 
-delle loro conclusioni. Ma i giganti del nostro [[Time|tempo]] sono indubbiamente simili
+delle loro conclusioni. Ma i giganti del nostro [[Time|tempo]] sono senza dubbio simili
 
-nel fatto che accostano per vie assai diverse questa concezione del
+nel fatto che accostano per strade assai diverse questa concezione del
 
-ritorno alla semplicità. Ibsen torna alla [[Nature|natura]] per l'esterno angoloso del
+ritorno alla semplicità. Ibsen ritorna alla [[Nature|natura]] per l'esterno spigoloso del
 
-fatto, Maeterlinck per le eterne tendenze della [[Fable|favola]]. Whitman torna alla
+fatto, Maeterlinck per le eterne tendenze della [[Fable|favola]]. Whitman ritorna alla
 
 [[Nature|natura]] vedendo quanto può accettare, [[tolstoy|Tolstoj]] vedendo quanto può
 
@@ -13140,17 +13140,17 @@ rifiutare.
 
 Ora, questo eroico [[Desire|desiderio]] di tornare alla [[Nature|natura]] è, certo, per certi
 
-versi, piuttosto simile all'eroico [[Desire|desiderio]] d'un gattino di tornare alla propria
+versi, all'eroico [[Desire|desiderio]] di un gattino di ritornare alla propria
 
 coda. Una coda è un oggetto semplice e bello, ritmico nella curva e
 
-gradevole al tatto; ma è di certo una delle qualità minori ma
+morbido al tatto; ma è di certo una delle qualità minori ma
 
-caratteristiche d'una coda l'esser pendente di dietro. È
+caratteristiche di una coda quella di pendere dietro. È
 
 impossibile negare che perderebbe in qualche misura il suo carattere se
 
-attaccata a qualsiasi altra parte dell'anatomia. Ora, la [[Nature|natura]] è come una coda,
+attaccata a qualunque altra parte dell'anatomia. Ora, la [[Nature|natura]] è come una coda nel
 
 nel senso che è di vitale importanza, se deve adempiere al suo vero
 
@@ -13160,31 +13160,31 @@ la [[Nature|natura]], specie la nostra stessa [[Nature|natura]], faccia a faccia
 
 una bestemmia. È come la condotta d'un gatto in qualche folle fiaba, che
 
-si mettesse in viaggio con la ferma convinzione che avrebbe
+si mettesse in viaggio con la ferma convinzione di
 
-trovato la propria coda crescere come un albero nei prati in capo al
+trovare la propria coda crescere come un albero nei prati ai confini del
 
 mondo. E l'effettivo esito dei viaggi del filosofo in cerca
 
 della [[Nature|natura]], visto dal di fuori, somiglia assai alle giravolte del
 
-gattino che si rincorre la coda, sfoggiando molto entusiasmo ma poca dignità,
+gattino che insegue la coda, mostrando molto entusiasmo ma poca dignità,
 
-molto strepito e assai poca coda. La grandezza della [[Nature|natura]] sta nell'esser ella
+molto strepito e assai poca coda. La grandezza della [[Nature|natura]] è che essa è
 
-onnipotente e invisibile, nel governarci forse più quando crediamo
+onnipotente e invisibile, che forse ci governa di più quando pensiamo
 
 che ella meno ci badi. "Tu sei un Dio che ti nascondi", disse
 
 il poeta ebreo. Si può dire con ogni riverenza che è dietro le
 
-spalle dell'uomo che lo spirito della [[Nature|natura]] si cela.
+spalle di un uomo che si cela lo spirito della [[Nature|natura]].
 
-È questa considerazione a dare una certa aria di futilità perfino a
+È questa considerazione che conferisce una certa aria di futilità persino a
 
 tutte le ispirate semplicità e le tonanti verità di [[tolstoy|Tolstoj]]. Noi
 
-sentiamo che un uomo non può farsi semplice solo guerreggiando contro la
+sentiamo che un uomo non può rendersi semplice semplicemente muovendo guerra alla
 
 complessità; sentiamo, anzi, nei nostri momenti più sani, che un uomo non può
 
@@ -13206,7 +13206,7 @@ Con pavoni, scimmie e avorio,
 
 Da Tarsis fino a Tiro."
 
-Ma questo procedere non era parte della saggezza di Salomone; era
+Ma questo procedere non era parte della saggezza di Salomone; era un
 
 parte della sua follia--stavo quasi per dire della sua [[innocence|innocenza]]. [[tolstoy|Tolstoj]], sentiamo,
 

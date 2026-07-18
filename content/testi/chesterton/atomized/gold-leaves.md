@@ -43,7 +43,7 @@ When all the [[Leaves|leaves]] are gold.
 
 Foglie d'[[Leaves|Oro]]  
 
-di G.K.Chesterton  
+di G.K. Chesterton
 
 Ecco! Sono giunto all'[[Autumn|autunno]],  
 quando tutte le [[Leaves|foglie]] sono d'oro;  
@@ -99,7 +99,7 @@ When all the [[Leaves|leaves]] are gold.
 
 Foglie d'[[Leaves|Oro]]  
 
-di G.K.Chesterton  
+di G.K. Chesterton
 
 Ecco! Sono giunto all'[[Autumn|autunno]],  
 quando tutte le [[Leaves|foglie]] sono d'oro;  

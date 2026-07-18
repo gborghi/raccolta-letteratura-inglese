@@ -187,7 +187,7 @@ Illustrated [[London]] News, December 23, 1905
 
 Del [[mending|Riparare]] e del Por Fine alle Cose
 
-G. K. Chesterton  
+G. K. Chesterton
 
 ----------------------------------------------------------------------------
 

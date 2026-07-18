@@ -270,7 +270,7 @@ That upshot at the end.
 
 IL BISTICCIO
 
-di G.K.Chesterton  
+di G.K. Chesterton
 
 UN consiglio particolarmente pessimo viene costantemente dato agli scrittori moderni,
 specialmente ai teologi moderni:  che dovrebbero adattarsi

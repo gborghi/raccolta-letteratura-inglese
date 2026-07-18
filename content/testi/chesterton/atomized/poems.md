@@ -4602,7 +4602,7 @@ La locanda volante.
 
 JOHN LANE COMPANY PUBLISHERS [[New York|NEW YORK]]  
 
-INDICE  
+INDICE
 
 TRE DEDICHE  
 
@@ -4622,9 +4622,9 @@ BEATI GLI OPERATORI DI PACE
 
 LA MOGLIE DELLE FIANDRE  
 
-IL CROCIATO RITORNA DALLA PRIGIONIA  
+IL CROCIATO TORNA DALLA PRIGIONIA  
 
-[[Poems|POESIE]] D'[[Love|AMORE]]  
+[[Love|AMORE]] [[Poems|POESIE]]  
 
 GLENCOE  
 
@@ -4642,13 +4642,13 @@ IL GRANDE MINIMO
 
 IL MORTALE RISPONDE  
 
-UN [[Song|CANTO]] DI [[Marriage|NOZZE]]  
+UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
 
 BAY COMBE  
 
 [[Poems|POESIE]] RELIGIOSE  
 
-I RE MAGI  
+I MAGI  
 
 LA [[house|CASA]] DEL NATALE  
 
@@ -4668,17 +4668,17 @@ UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI
 
 LA NATIVITÀ  
 
-UN [[Child|FANCIULLO]] DELLE NEVI  
+UN [[Child|BAMBINO]] DELLE NEVI  
 
 UNA PAROLA  
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
 L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
 
@@ -4688,7 +4688,7 @@ IN MEMORIAM P.D.
 
 [[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
-UN [[Song|CANTO]] DI SPADE  
+UN [[Song|CANTO]] DI SPADE
 
 UN [[Song|CANTO]] DI SCONFITTA  
 
@@ -4696,7 +4696,7 @@ UN [[Song|CANTO]] DI SCONFITTA
 
 AFRICA  
 
-L'[[Hero|EROE]] MORTO  
+Il MORTO [[Hero|EROE]]  
 
 UN'ECO ELETTORALE  
 
@@ -4712,13 +4712,13 @@ BALLATA DEL SOLE
 
 [[Translation|TRADUZIONE]] DA DU BELLAY  
 
-L'[[unity|UNITÀ]] SUPERIORE  
+LA PIÙ ALTA [[unity|UNITÀ]]  
 
 LA VEGLIA DELLA TERRA  
 
 SULLA GIUSTA INDIGNAZIONE  
 
-QUANDO TORNAI A FLEET STREET  
+QUANDO TORNAI IN FLEET STREET  
 
 UN [[Song|CANTO]] DEL SIDRO  
 
@@ -5472,7 +5472,7 @@ Non hai parola da infrangere: né cuore da indurire.
 
 Cavalca oltre e prospera. Hai perduto i tuoi speroni.  
 
-IL CROCIATO RITORNA DALLA PRIGIONIA  
+IL CROCIATO TORNA DALLA PRIGIONIA  
 
 Sono uscito vivo dalla terra di porpora e [[Poison|veleno]] e incanto,  
 
@@ -5532,7 +5532,7 @@ finché camminerò in Inghilterra nei viottoli che mi lasciano passare.
 
 III
 
-[[Poems|POESIE]] D'[[Love|AMORE]]  
+[[Love|AMORE]] [[Poems|POESIE]]  
 
 GLENCOE  
 
@@ -5896,7 +5896,7 @@ Ma il mondo è più colmo di gloria
 
 Di quanto tu possa comprendere.»  
 
-UN [[Song|CANTO]] DI [[Marriage|NOZZE]]  
+UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
 
 Perché dovremmo curarci delle ore che lacerano  
 
@@ -6120,7 +6120,7 @@ IV
 
 [[Poems|POESIE]] RELIGIOSE  
 
-I RE MAGI  
+I MAGI  
 
 Va' con passo lieve, sotto [[Snow|neve]] o pioggia,  
 
@@ -6862,7 +6862,7 @@ Taci--come possiamo saperlo?--sapendo solo
 
 un [[Child|bambino]] è nato.  
 
-UN [[Child|FANCIULLO]] DELLE NEVI  
+UN [[Child|BAMBINO]] DELLE NEVI  
 
 Si ode un [[Hymn|inno]] quando i vetri s'appannano  
 
@@ -6982,7 +6982,7 @@ V
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 "UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[Conscience|COSCIENZA]] DI  
 
@@ -7208,7 +7208,7 @@ Tutto quel perduto tumulto che non condividesti--E
 
 quando quel tumulto verrà--tu _ci_ sarai.  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
 Lord Lilac trovava alquanto indegno  
 
@@ -7586,15 +7586,15 @@ Uccisi a fucilate su nevi scarlatte per la libertà,
 
 Morti nella luce del giorno di Natale.  
 
-UN [[Song|CANTO]] DI SPADE  
+UN [[Song|CANTO]] DI SPADE
 
 "UNA MANDRIA DI BESTIAME ENTRÒ IN UN VILLAGGIO CHIAMATO  
 
 SWORDS, E FU FERMATA DAI RIVOLTOSI."---_Daily Paper_.  
 
-Nel luogo detto Swords sulla [[Road|strada]] irlandese  
+Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
-Si racconta per nuova fama  
+si narra, per una nuova rinomanza,
 
 Come tenemmo le corna del bestiame, e come  
 
@@ -7604,77 +7604,77 @@ Prima che il signore dell'inferno, col corno in fronte,
 
 Sia incoronato nella città di Dublin  
 
-Luce a Oriente e luce a Occidente,  
+Luce a Oriente e luce a Occidente,
 
-E luce sui signori crudeli,  
+e luce sui signori crudeli,
 
-Sulle anime che d'un tratto tutti conobbero,  
+sulle anime che a un tratto ogni uomo conobbe,
 
-E la verde [[Flag|bandiera]] volò e la rossa [[Flag|bandiera]] volò,  
+e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
 
-E più d'una [[Wheel|ruota]] del mondo si fermò, anch'essa,  
+e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
 
-Quando il bestiame fu fermato a Swords.  
+quando il bestiame fu fermato a Swords.
 
-Siano peccatori o meno che santi  
+Siano pure peccatori o meno che santi
 
-Quelli che colpiscono in strada per rabbia,  
+coloro che percuotono in strada per rabbia,
 
-Sappiamo dove la vergogna brilla chiara; conosciamo  
+noi sappiamo dove splende viva la vergogna; sappiamo
 
-Voi che essi colpiscono, voi loro nemici,  
+voi, che essi colpiscono, voi loro nemico,
 
 Signori del salario iniquo e vile.  
 
-Questo è il vostro legittimo salario.  
+questa è la vostra paga legittima.
 
-Avete stretto un [[Child|bimbo]] a un prezzo di tortura  
+Spremeste un [[Child|bambino]] a un prezzo di tortura
 
-Che non osaste nominare a parole;  
+che non osaste nominare a parole;
 
-Sì nero scherzo era la moneta d'argento  
+tanto nera beffa era la moneta d'argento
 
 Che la vostra stessa voce tremò per la vergogna  
 
-E il codardo fu palese come una vacca colpita  
+e il codardo era palese come una vacca percossa
 
-Quando il bestiame si è sbandato a Swords.  
+quando il bestiame si smarrì a Swords.
 
 La [[Wheel|ruota]] del tormento delle mogli girò  
 
-Per spezzare la fratellanza degli uomini;  
+per spezzare la fratellanza degli uomini;
 
-Deste il buon [[Blood|sangue]] irlandese a ungere  
+deste il buon [[Blood|sangue]] irlandese a ungere
 
-I randelli dei nemici del vostro paese;  
+i randelli dei nemici della vostra patria;
 
 Vedeste l'uomo prode battuto in ginocchio:  
 
-E vedeste che era cosa buona.  
+e vedeste che era cosa buona.
 
-La corda dei ricchi è lunga e lunga--  
+La fune dei ricchi è lunga, lunga--
 
-La più lunga delle corde di boia;  
+la più lunga fra le corde del boia;
 
 Ma i re e le folle trattengono il respiro,  
 
-In una gigantesca [[Shadow|ombra]] su tutto ciò che sta sotto  
+in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
-Dove Dio sta reggendo le bilance della [[Death]]  
+là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
-Tra il bestiame e Swords.  
+tra il bestiame e Swords.
 
 Forse i signori che assoldano e prestano,  
 
-I più bassi fra i signori degli uomini,  
+i più vili fra tutti i signori degli uomini,
 
 Che vendono i propri simili come vacche a una fiera.  
 
-Non vi troveranno capo del loro bestiame;  
+non troveranno là un solo capo del loro bestiame;
 
-Ma volti d'uomini dove era il bestiame:  
+ma volti di uomini dove c'era bestiame:
 
-Volti d'uomini--e Swords.  
+volti di uomini--e Spade.
 
 E il nome splendente e terribile,  
 
@@ -7854,7 +7854,7 @@ La terra del [[Blood|sangue]], e lasceremo là questi avvoltoi,
 
 Silenziosamente felici, a pascersi dei morti.  
 
-L'[[Hero|EROE]] MORTO  
+Il MORTO [[Hero|EROE]]  
 
 Noi non ti vedemmo mai, come i nostri padri,  
 
@@ -8350,7 +8350,7 @@ e più di tutti i venti di tutto il mare
 
 la quieta dolcezza dell'aria angioina.  
 
-L'[[unity|UNITÀ]] SUPERIORE  
+LA PIÙ ALTA [[unity|UNITÀ]]  
 
 «Il Rev. Isaiah Bunter è scomparso nell'interno  
 
@@ -8550,7 +8550,7 @@ egli è la più dominatrice delle cose,
 
 uno schernitore delle [[Stars|stelle]].  
 
-QUANDO TORNAI A FLEET STREET  
+QUANDO TORNAI IN FLEET STREET  
 
 Quando tornai in Fleet Street,  
 
@@ -9721,7 +9721,7 @@ La locanda volante.
 
 JOHN LANE COMPANY PUBLISHERS [[New York|NEW YORK]]  
 
-INDICE  
+INDICE
 
 TRE DEDICHE  
 
@@ -9741,9 +9741,9 @@ BEATI GLI OPERATORI DI PACE
 
 LA MOGLIE DELLE FIANDRE  
 
-IL CROCIATO RITORNA DALLA PRIGIONIA  
+IL CROCIATO TORNA DALLA PRIGIONIA  
 
-[[Poems|POESIE]] D'[[Love|AMORE]]  
+[[Love|AMORE]] [[Poems|POESIE]]  
 
 GLENCOE  
 
@@ -9761,13 +9761,13 @@ IL GRANDE MINIMO
 
 IL MORTALE RISPONDE  
 
-UN [[Song|CANTO]] DI [[Marriage|NOZZE]]  
+UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
 
 BAY COMBE  
 
 [[Poems|POESIE]] RELIGIOSE  
 
-I RE MAGI  
+I MAGI  
 
 LA [[house|CASA]] DEL NATALE  
 
@@ -9787,17 +9787,17 @@ UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI
 
 LA NATIVITÀ  
 
-UN [[Child|FANCIULLO]] DELLE NEVI  
+UN [[Child|BAMBINO]] DELLE NEVI  
 
 UNA PAROLA  
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
 L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
 
@@ -9807,7 +9807,7 @@ IN MEMORIAM P.D.
 
 [[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
-UN [[Song|CANTO]] DI SPADE  
+UN [[Song|CANTO]] DI SPADE
 
 UN [[Song|CANTO]] DI SCONFITTA  
 
@@ -9815,7 +9815,7 @@ UN [[Song|CANTO]] DI SCONFITTA
 
 AFRICA  
 
-L'[[Hero|EROE]] MORTO  
+Il MORTO [[Hero|EROE]]  
 
 UN'ECO ELETTORALE  
 
@@ -9831,13 +9831,13 @@ BALLATA DEL SOLE
 
 [[Translation|TRADUZIONE]] DA DU BELLAY  
 
-L'[[unity|UNITÀ]] SUPERIORE  
+LA PIÙ ALTA [[unity|UNITÀ]]  
 
 LA VEGLIA DELLA TERRA  
 
 SULLA GIUSTA INDIGNAZIONE  
 
-QUANDO TORNAI A FLEET STREET  
+QUANDO TORNAI IN FLEET STREET  
 
 UN [[Song|CANTO]] DEL SIDRO  
 
@@ -11171,7 +11171,7 @@ Non hai parola da infrangere: né cuore da indurire.
 
 Cavalca oltre e prospera. Hai perduto i tuoi speroni.  
 
-IL CROCIATO RITORNA DALLA PRIGIONIA  
+IL CROCIATO TORNA DALLA PRIGIONIA  
 
 Sono uscito vivo dalla terra di porpora e [[Poison|veleno]] e incanto,  
 
@@ -11231,7 +11231,7 @@ finché camminerò in Inghilterra nei viottoli che mi lasciano passare.
 
 III
 
-[[Poems|POESIE]] D'[[Love|AMORE]]  
+[[Love|AMORE]] [[Poems|POESIE]]  
 
 GLENCOE  
 
@@ -12229,7 +12229,7 @@ Ma il mondo è più colmo di gloria
 
 Di quanto tu possa comprendere.»  
 
-UN [[Song|CANTO]] DI [[Marriage|NOZZE]]  
+UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
 
 Perché dovremmo curarci delle ore che lacerano  
 
@@ -12453,7 +12453,7 @@ IV
 
 [[Poems|POESIE]] RELIGIOSE  
 
-I RE MAGI  
+I MAGI  
 
 Va' con passo lieve, sotto [[Snow|neve]] o pioggia,  
 
@@ -13791,7 +13791,7 @@ Taci--come possiamo saperlo?--sapendo solo
 
 un [[Child|bambino]] è nato.  
 
-UN [[Child|FANCIULLO]] DELLE NEVI  
+UN [[Child|BAMBINO]] DELLE NEVI  
 
 Si ode un [[Hymn|inno]] quando i vetri s'appannano  
 
@@ -14533,7 +14533,7 @@ V
 
 RIME PER I TEMPI  
 
-ANTICRISTO, OVVERO LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
+ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 "UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[Conscience|COSCIENZA]] DI  
 
@@ -14759,7 +14759,7 @@ Tutto quel perduto tumulto che non condividesti--E
 
 quando quel tumulto verrà--tu _ci_ sarai.  
 
-IL MONUMENTO A SHAKESPEARE  
+IL MEMORIALE DI SHAKESPEARE  
 
 Lord Lilac trovava alquanto indegno  
 
@@ -15699,15 +15699,15 @@ Uccisi a fucilate su nevi scarlatte per la libertà,
 
 Morti nella luce del giorno di Natale.  
 
-UN [[Song|CANTO]] DI SPADE  
+UN [[Song|CANTO]] DI SPADE
 
 "UNA MANDRIA DI BESTIAME ENTRÒ IN UN VILLAGGIO CHIAMATO  
 
 SWORDS, E FU FERMATA DAI RIVOLTOSI."---_Daily Paper_.  
 
-Nel luogo detto Swords sulla [[Road|strada]] irlandese  
+Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
-Si racconta per nuova fama  
+si narra, per una nuova rinomanza,
 
 Come tenemmo le corna del bestiame, e come  
 
@@ -15717,77 +15717,77 @@ Prima che il signore dell'inferno, col corno in fronte,
 
 Sia incoronato nella città di Dublin  
 
-Luce a Oriente e luce a Occidente,  
+Luce a Oriente e luce a Occidente,
 
-E luce sui signori crudeli,  
+e luce sui signori crudeli,
 
-Sulle anime che d'un tratto tutti conobbero,  
+sulle anime che a un tratto ogni uomo conobbe,
 
-E la verde [[Flag|bandiera]] volò e la rossa [[Flag|bandiera]] volò,  
+e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
 
-E più d'una [[Wheel|ruota]] del mondo si fermò, anch'essa,  
+e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
 
-Quando il bestiame fu fermato a Swords.  
+quando il bestiame fu fermato a Swords.
 
-Siano peccatori o meno che santi  
+Siano pure peccatori o meno che santi
 
-Quelli che colpiscono in strada per rabbia,  
+coloro che percuotono in strada per rabbia,
 
-Sappiamo dove la vergogna brilla chiara; conosciamo  
+noi sappiamo dove splende viva la vergogna; sappiamo
 
-Voi che essi colpiscono, voi loro nemici,  
+voi, che essi colpiscono, voi loro nemico,
 
 Signori del salario iniquo e vile.  
 
-Questo è il vostro legittimo salario.  
+questa è la vostra paga legittima.
 
-Avete stretto un [[Child|bimbo]] a un prezzo di tortura  
+Spremeste un [[Child|bambino]] a un prezzo di tortura
 
-Che non osaste nominare a parole;  
+che non osaste nominare a parole;
 
-Sì nero scherzo era la moneta d'argento  
+tanto nera beffa era la moneta d'argento
 
 Che la vostra stessa voce tremò per la vergogna  
 
-E il codardo fu palese come una vacca colpita  
+e il codardo era palese come una vacca percossa
 
-Quando il bestiame si è sbandato a Swords.  
+quando il bestiame si smarrì a Swords.
 
 La [[Wheel|ruota]] del tormento delle mogli girò  
 
-Per spezzare la fratellanza degli uomini;  
+per spezzare la fratellanza degli uomini;
 
-Deste il buon [[Blood|sangue]] irlandese a ungere  
+deste il buon [[Blood|sangue]] irlandese a ungere
 
-I randelli dei nemici del vostro paese;  
+i randelli dei nemici della vostra patria;
 
 Vedeste l'uomo prode battuto in ginocchio:  
 
-E vedeste che era cosa buona.  
+e vedeste che era cosa buona.
 
-La corda dei ricchi è lunga e lunga--  
+La fune dei ricchi è lunga, lunga--
 
-La più lunga delle corde di boia;  
+la più lunga fra le corde del boia;
 
 Ma i re e le folle trattengono il respiro,  
 
-In una gigantesca [[Shadow|ombra]] su tutto ciò che sta sotto  
+in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
-Dove Dio sta reggendo le bilance della [[Death]]  
+là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
-Tra il bestiame e Swords.  
+tra il bestiame e Swords.
 
 Forse i signori che assoldano e prestano,  
 
-I più bassi fra i signori degli uomini,  
+i più vili fra tutti i signori degli uomini,
 
 Che vendono i propri simili come vacche a una fiera.  
 
-Non vi troveranno capo del loro bestiame;  
+non troveranno là un solo capo del loro bestiame;
 
-Ma volti d'uomini dove era il bestiame:  
+ma volti di uomini dove c'era bestiame:
 
-Volti d'uomini--e Swords.  
+volti di uomini--e Spade.
 
 E il nome splendente e terribile,  
 
@@ -15967,7 +15967,7 @@ La terra del [[Blood|sangue]], e lasceremo là questi avvoltoi,
 
 Silenziosamente felici, a pascersi dei morti.  
 
-L'[[Hero|EROE]] MORTO  
+Il MORTO [[Hero|EROE]]  
 
 Noi non ti vedemmo mai, come i nostri padri,  
 
@@ -17021,7 +17021,7 @@ e più di tutti i venti di tutto il mare
 
 la quieta dolcezza dell'aria angioina.  
 
-L'[[unity|UNITÀ]] SUPERIORE  
+LA PIÙ ALTA [[unity|UNITÀ]]  
 
 «Il Rev. Isaiah Bunter è scomparso nell'interno  
 
@@ -17221,7 +17221,7 @@ egli è la più dominatrice delle cose,
 
 uno schernitore delle [[Stars|stelle]].  
 
-QUANDO TORNAI A FLEET STREET  
+QUANDO TORNAI IN FLEET STREET  
 
 Quando tornai in Fleet Street,  
 

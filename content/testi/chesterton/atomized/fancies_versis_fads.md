@@ -6213,7 +6213,7 @@ but the principle is the right one.
 BOOK MANUFACTURERS
 RAHWAY  NEW JERSEY
 
-INDICE  
+INDICE
 
 INTRODUZIONE
 IL [[Romance|ROMANZO]] DELLA RIMA
@@ -14715,8 +14715,8 @@ Qual è l'esatta [[Nature|natura]] del piacere che io, per parte mia,
 provo nel leggere e ripetere alcuni versi siffatti, ad esempio,
 come quelli familiari:
 
-Dying put on the weeds of Dominic
-Or in Franciscan think to pass disguised.
+Morendo indossavano le vesti di Domenico,
+o pensavano di passar travestiti da francescani.
 
 Per quanto posso vedere, l'intero effetto sta in un certo inaspettato
 ordine e disposizione di parole, indipendente e distinto,
@@ -14877,8 +14877,8 @@ the shining fields of a Paradise that is not wholly lost.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Dying put on the weeds of Dominic
-Or in Franciscan think to pass disguised.
+Morendo indossavano le vesti di Domenico,
+o pensavano di passar travestiti da francescani.
 
 E la gioia esuberante che ne traggo è la cosa più vicina che io abbia mai
 conosciuto all'arte per l'arte.
@@ -15517,4 +15517,4 @@ ma non so quando ritroveremo la via del ritorno alla nostra terra.
 
 --
 
-FINE
+LA FINE

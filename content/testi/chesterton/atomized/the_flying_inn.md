@@ -11652,6 +11652,88 @@ No one else was on the platform, but just under it, rather to Joan’s surprise,
 “… at least evident,” Lord Ivywood was saying, “that one of those ancestral impossibilities is no longer impossible. The East and the West are one. The East is no longer East nor the West West; for a small isthmus has been broken, and the Atlantic and Pacific are a single sea. No man assuredly has done more of this mighty work of [[unity]] than the brilliant and distinguished philosopher to whom you will have the pleasure of listening tonight; and I profoundly wish that affairs more practical, for I will not call them more important, did not prevent my remaining to enjoy his eloquence, as I have so often enjoyed it before. Mr. Leveson has kindly consented to take my place, and I can do no more than express my deep sympathy with the aims and ideals which will be developed before you tonight. I have long been increasingly convinced that underneath a certain mask of stiffness which the Mahommedan religion has worn through certain centuries, as a somewhat similar mask has been worn by the religion of the Jews, [[Islam]] has in it the potentialities of being the most progressive of all religions; so that a century or two to come we may see the cause of peace, of science and of [[Reform|reform]] everywhere supported by [[Islam]] as it is everywhere supported by Israel. Not in vain, I think, is the symbol of that [[Faith|faith]] the Crescent, the growing thing. While other creeds carry emblems implying more or less of finality, for this great creed of [[Hope|hope]] its very imperfection is its [[Pride|pride]], and men shall walk fearlessly in new and wonderful paths, following the increasing curve which contains and holds up before them the eternal promises of the orb.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII: LA SOCIETÀ DELLE ANIME SEMPLICI
+
+Sotto un tramonto insieme più tenue e più cupo, sotto il quale il mare plumbeo assumeva un purpureo quaresimale, tinta consona alla [[Tragedy|tragedia]], Lady Joan Brett vagava di nuovo tetra lungo il lungomare. La serata era stata piovosa e minacciosa; la stagione balneare era quasi finita; ed ella era quasi [[Alone|sola]] sulla riva; ma aveva preso l'abitudine di percorrere il luogo con passo inquieto, e ciò pareva saziare una qualche fame subconscia nella sua psicologia piuttosto composita. Attraverso tutto il suo rimuginare i suoi sensi animali restavano sempre anormalmente vigili: fiutava il mare anche quando si era ritirato quasi all'orizzonte, e allo stesso modo udiva, attraverso ogni sussurro di onde o di [[Wind|vento]], il fruscìo o lo svolazzo della gonna di un'altra donna dietro di lei. C'è, sentiva, qualcosa di inconfondibile nei movimenti di una signora generalmente molto dignitosa e piuttosto lenta, che si trovi ad avere fretta.
+
+
+
+Si voltò a guardare la signora che così s'affrettava a raggiungerla; inarcò un poco le sopracciglia e le porse la mano. L'importuna le era nota come Lady Enid Wimpole, cugina di Lord Ivywood; una signora alta e aggraziata che squilibrava la propria eleganza con un abbigliamento alla moda insieme funereo e stravagante; i suoi capelli biondi erano pallidi ma folti; il volto non solo era bello e delicato nello stile aquilino, ma, considerato seriamente, era sensibile, modesto e persino patetico; tuttavia i suoi smorti occhi azzurri parevano lievemente sporgenti, con quell'espressione di fredda avidità che si vede negli occhi delle signore che pongono domande alle assemblee pubbliche.
+
+
+
+Joan Brett era ella stessa, come aveva detto, imparentata con la famiglia Ivywood; ma Lady Enid era cugina di primo grado di Ivywood, e a tutti gli effetti pratici sua sorella. Poiché teneva la [[house|casa]] per lui e per sua madre, ormai così incredibilmente vecchia che sopravviveva solo per soddisfare l'opinione convenzionale nel ruolo di muta e inutile dama di compagnia. E Ivywood non era il tipo capace di suscitare qualche attività in una vecchia signora che esercitasse quell'ufficio. Né, se è per questo, lo era Lady Enid Wimpole; pareva risplendere sul suo volto la stessa specie di buon senso inumano e distratto che risplendeva su quello del cugino.
+
+
+
+«Oh, sono così contenta d'averti raggiunta,» disse a Joan. «Lady Ivywood desidera tanto che tu venga da noi per il fine settimana o giù di lì, finché Philip è ancora qui. Ha sempre ammirato moltissimo il tuo [[Sonnet|sonetto]] su Cipro, e vuole parlarti di questa sua politica in Turchia. Naturalmente è terribilmente occupato, ma lo vedrò stasera dopo l'adunanza.»
+
+
+
+«Nessuna creatura vivente,» disse Lady Joan, con un sorriso, «lo ha mai visto se non prima o dopo un'adunanza.»
+
+
+
+«Sei un'[[Soul|Anima]] Semplice?» chiese Lady Enid, con noncuranza.
+
+
+
+«Se sono un'[[Soul|anima]] semplice?» chiese Joan, aggrottando le nere sopracciglia. «Cielo misericordioso, no! Che cosa vuoi dire?»
+
+
+
+«La loro adunanza è stasera al piccolo Universal Hall, e Philip la presiede,» spiegò l'altra signora. «È molto seccato di doversene andare presto per correre alla [[house|Camera]], ma il signor Leveson può presiedere l'ultima parte. Hanno con loro Misysra Ammon.»
+
+
+
+«Hanno la signora chi?» chiese Joan, in onesto [[Doubt|dubbio]].
+
+
+
+«Fai la beffa di tutto,» disse Lady Enid, con squallida amabilità. «È l'uomo di cui tutti parlano—lo sai [[Well|bene]] quanto me. È davvero la sua influenza ad aver creato le Anime Semplici.»
+
+
+
+«Oh!» disse Lady Joan Brett.
+
+
+
+Poi, dopo un lungo [[Silence|silenzio]], aggiunse: «Chi sono le Anime Semplici? M'interesserebbero, se solo potessi incontrarne qualcuna.» E volse il volto scuro e pensoso verso il mare purpureo che si oscurava.
+
+
+
+«Vuoi forse dire, mia cara,» chiese Lady Enid Wimpole, «che non ne hai ancora incontrata nessuna?»
+
+
+
+«No,» disse Joan, guardando l'ultima scura linea del mare. «In vita mia non ho mai incontrato che una sola [[Soul|anima]] semplice.»
+
+
+
+«Ma devi venire all'adunanza!» esclamò Lady Enid, con gelida e scintillante allegria. «Devi venire subito! Philip sarà certo eloquente su un argomento simile, e naturalmente Misysra Ammon è sempre così meraviglioso.»
+
+
+
+Senza un'idea molto chiara di dove andasse o perché vi andasse, Joan si lasciò condurre a un basso capannone di piombo o di latta, oltre gli ultimi alberghi sparpagliati, dal cui guscio riecheggiante poté udire in anticipo una voce che le parve di riconoscere. Quando entrò, Lord Ivywood era in piedi, in squisito abito da sera, ma con un leggero soprabito gettato sul sedile dietro di lui. Accanto a lui, in un abito da sera meno raffinato ma più vistoso, c'era il piccolo vecchio che aveva udito sulla spiaggia.
+
+
+
+Nessun altro era sul palco, ma proprio sotto di esso, con una certa sorpresa di Joan, sedeva Miss Browning, la sua vecchia amica dattilografa nel suo vecchio abito nero, che trascriveva industriosamente in stenografia le parole di Lord Ivywood. A un metro o due di distanza, con sua ancor maggiore sorpresa, sedeva la sorella più casalinga di Miss Browning, che pure trascriveva in stenografia le medesime parole.
+
+
+
+«Quello è Misysra Ammon,» sussurrò Lady Enid, con fervore, puntando un dito delicato verso il piccolo vecchio accanto al presidente.
+
+
+
+«Lo conosco,» disse Joan. «Dov'è l'ombrello?»
+
+
+
+«…almeno evidente,» stava dicendo Lord Ivywood, «che una di quelle impossibilità ancestrali non è più impossibile. L'Oriente e l'Occidente sono una cosa sola. L'Oriente non è più Oriente né l'Occidente Occidente; poiché un piccolo istmo è stato spezzato, e l'Atlantico e il Pacifico sono un unico mare. Nessuno di certo ha fatto più di questa possente opera di [[unity|unità]] del brillante e illustre filosofo che avrete il piacere di ascoltare stasera; e desidero profondamente che affari più pratici, per non dirli più importanti, non m'impedissero di restare a godere della sua eloquenza, come tante volte ne ho goduto in passato. Il signor Leveson ha cortesemente acconsentito a prendere il mio posto, e io non posso far altro che esprimere la mia profonda simpatia per gli scopi e gli ideali che stasera saranno svolti dinanzi a voi. Da lungo tempo sono sempre più convinto che, sotto una certa maschera di rigidità che la religione maomettana ha indossato attraverso certi secoli, come una maschera in qualche modo simile è stata indossata dalla religione degli ebrei, l'[[Islam]] racchiuda in sé le potenzialità di essere la più progressista di tutte le religioni; sicché tra un secolo o due potremo vedere la causa della pace, della scienza e della [[Reform|riforma]] ovunque sostenuta dall'[[Islam]] come è ovunque sostenuta da Israele. Non invano, credo, il simbolo di quella [[Faith|fede]] è la Mezzaluna, la cosa che cresce. Mentre altri credi recano emblemi che implicano più o meno una finalità, per questo grande credo della [[Hope|speranza]] la sua stessa imperfezione è il suo [[Pride|orgoglio]], e gli uomini cammineranno senza timore per sentieri nuovi e meravigliosi, seguendo la curva crescente che contiene e regge dinanzi a loro le eterne promesse dell'astro.»
+
 
 
 <span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_02" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 2)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt"></span>
@@ -21939,6 +22021,106 @@ I [[Fear|fear]] it must be recorded that the crowd which followed them dispensed
 
 “The words inserted by the recent Act,” said Lord Ivywood, with the cold courtesy of the Conqueror, “are to the effect that alcohol cannot be sold, even under a lawful sign, unless alcoholic liquors have been kept for three days on the premises. Captain Dalroy, that cask of yours has not, I think, been three days on these premises. I command you to seal it up and take it away.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Qui una nuova voce si aggiunse alla conversazione. Il suo contributo, benché imperfettamente compreso, pareva essere: «Nar! Perché dovrei aspettà un ometto ebreo in vestaglia? Gli ometti ebrei in vestaglia si bevono le loro bevute, e noialtri ci beviamo le nostre. Una bitter, signorina.»
+
+
+
+Chi aveva parlato, che sembrava un individuo robusto di professione stuccatore, si guardò intorno cercando la femmina nubile a cui si era cerimoniosamente rivolto; e parve onestamente confuso di non trovarla presente.
+
+
+
+Ivywood guardò l'uomo con quell'espressione di chi è tramutato in pietra, che la sua costituzione fisica rendeva in lui così efficace. Ma J. Leveson, segretario, non poteva evocare simili poteri di [[Self|auto]]pietrificazione. Sulla sua [[Soul|anima]] si levava il rosso massacro di quella vigilia empia in cui per la prima volta la [[Ship|Nave]] e lui erano stati nemici; quando scoprì che i poveri sono esseri umani, e perciò sono cortesi e brutali in un lasso di [[Time|tempo]] relativamente breve. Vide che altri due uomini stavano dietro allo stuccatore, e uno di loro pareva esortarlo a consigli di moderazione; il che era un segno di malaugurio. Poi alzò gli occhi e vide qualcosa di peggiore di qualunque presagio.
+
+
+
+Tutta la vetrata della bottega era una nube di volti accalcati. Non si potevano vedere distintamente, poiché la [[Night|notte]] calava sulla strada; e i fuochi abbaglianti di rubino e ametista che la bottega illuminata donava ai suoi grandi globi di liquido li velavano più che rivelarli. Ma i primi schiacciavano e sbiancavano davvero il naso contro il vetro, e i più lontani erano più vicini di quanto il signor Leveson desiderasse. Vide anche una forma eretta fuori della bottega; la forma di un'asta diritta e di una tavola quadrata. Non riusciva a vedere che cosa vi fosse scritto. Non aveva bisogno di vederlo.
+
+
+
+Chi vedeva Lord Ivywood in simili momenti comprendeva perché egli spiccasse così fortemente nella [[history|storia]] del suo [[Time|tempo]], a dispetto del volto gelido e dei suoi dogmi bizzarri. Possedeva tutta la nobiltà negativa che è concessa all'uomo. A differenza di Nelson e della maggior parte dei grandi eroi, egli non conosceva la [[Fear|paura]]. Così non fu mai vinto da una sorpresa, ma restava freddo e padrone di sé quando altri avevano perso la testa, anche se non avevano perso il sangue freddo.
+
+
+
+«Non vi nasconderò, signori,» disse Lord Ivywood, «che me lo aspettavo. Non vi nasconderò nemmeno che ho occupato il [[Time|tempo]] del signor Crooke fino a quando ciò è accaduto. Lungi dall'escludere la folla, suggerisco che sarebbe cosa eccellente se il signor Crooke potesse accoglierli tutti in questa bottega. Voglio dire al più presto, alla folla più numerosa possibile, che la legge è mutata e che questa follia della Locanda Volante è finita. Entrate, tutti quanti! Entrate e ascoltate!»
+
+
+
+«Grazie a lei,» disse un uomo in qualche modo legato agli autobus, che entrò barcollando dietro lo stuccatore.
+
+
+
+«Grazie, signore,» disse un piccolo e vispo riparatore di [[Clock|orologi]] di Croydon, che lo seguì subito.
+
+
+
+«Grazie,» disse un impiegato alquanto smarrito di Camberwell, che venne appresso nella processione alquanto smarrita.
+
+
+
+«Grazie,» disse il signor Dorian Wimpole, che entrò portando un grande [[cheese|formaggio]] rotondo.
+
+
+
+«Grazie,» disse il capitano Dalroy, che entrò portando una grande botte di rum.
+
+
+
+«Grazie infinite,» disse il signor Humphrey Pump, che entrò nella bottega portando l'insegna della «Vecchia [[Ship|Nave]]».
+
+
+
+[[Fear|Temo]] si debba registrare che la folla che li seguiva rinunciò a ogni espressione di gratitudine. Ma benché la folla riempisse la bottega al punto che non restava spazio per stare in piedi, Leveson tornò a levare gli occhi cupi e contemplò il suo cupo presagio. Poiché, sebbene vi fossero molte più persone in piedi nella bottega, non parevano essercene di meno a guardare dalla [[Window|vetrina]].
+
+
+
+«Signori,» disse Ivywood, «ogni scherzo giunge alla fine. Questo si è spinto tanto oltre da diventare cosa seria; e sarebbe potuto divenire impossibile correggere l'opinione pubblica ed esporre ai cittadini rispettosi della legge il vero stato del diritto, se non avessi potuto incontrare un'assemblea tanto rappresentativa in un luogo tanto centrale. Non è pertinente al mio scopo indicare che cosa penso della beffa che il capitano Dalroy e i suoi amici vi hanno giocato nelle ultime settimane. Ma credo che il capitano Dalroy stesso ammetterà che io non sto scherzando.»
+
+
+
+«Con tutto il cuore,» disse Dalroy, in un modo insolitamente serio e persino triste. Poi aggiunse con un sospiro: «E come dite giustamente, la mia beffa è giunta alla fine.»
+
+
+
+«Quell'insegna di legno,» disse Ivywood, indicando la strana [[Ship|nave]] azzurra, «può essere spaccata per farne legna da ardere. Non guiderà più i cittadini perbene in una [[Dance|danza]] indiavolata. Capitelo una volta per tutte, prima di apprenderlo dai poliziotti o dai secondini della [[Prison|prigione]]. Siete sottoposti a una nuova legge. Quell'insegna non è insegna di nulla. Non potete comprare e vendere alcol tenendo quella cosa fuori della vostra [[house|casa]], più di quanto potreste se fosse un lampione.»
+
+
+
+«Vuol dì, capo,» disse lo stuccatore, con un [[Dawn|albore]] d'intelligenza sul faccione che faceva quasi paura a vedersi, «che nun me devo beve un boccale de bitter?»
+
+
+
+«Provi un bicchiere di rum,» disse Patrick.
+
+
+
+«Capitano Dalroy,» disse Lord Ivywood, «se date una sola goccia di quella botte a quell'uomo, violate la legge e [[Sleep|dormirete]] in prigione.»
+
+
+
+«Ne siete proprio certo?» chiese Dalroy, con una strana sorta d'ansia. «Potrei fuggire.»
+
+
+
+«Ne sono certissimo,» disse Ivywood. «Ho disposto la polizia con pieni poteri a tale scopo, come constaterete. Intendo che questa faccenda finisca qui stanotte.»
+
+
+
+«Se trovo quer piedipiatti che m'ha detto che potevo beve un attimo fa, je pijo l'elmo e je lo riduco a 'na bella cravatta, io,» disse lo stuccatore. «Perché nun se pò fà sapé la legge a la gente?»
+
+
+
+«Nun c'hanno diritto de cambià la legge così ar buio,» disse il riparatore di [[Clock|orologi]]. «Ar diavolo la legge nova.»
+
+
+
+«Qual è la nuova legge?» chiese l'impiegato.
+
+
+
+«Le parole inserite dalla recente legge,» disse Lord Ivywood, con la fredda cortesia del Conquistatore, «stabiliscono che l'alcol non può essere venduto, neppure sotto un'insegna legittima, a meno che i liquori alcolici non siano stati custoditi per tre giorni sul luogo. Capitano Dalroy, quella vostra botte non è stata, credo, tre giorni in questi locali. Vi ordino di sigillarla e di portarla via.»
 
 
 

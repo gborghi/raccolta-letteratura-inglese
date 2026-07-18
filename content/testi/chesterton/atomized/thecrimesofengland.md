@@ -5444,7 +5444,7 @@ Irlanda--Il lavoro sporco--L'impiego di
 
 mercenari tedeschi--L'empia alleanza--Il trionfo
 
-dei mercenari tedeschi.
+dei Mercenari tedeschi.
 
 
 
@@ -5492,7 +5492,7 @@ inglese--Verità esagerate contro
 
 Menzogne esagerate--Sconfitta del Popolo--Trionfo
 
-dei mercenari tedeschi.
+dei Mercenari tedeschi.
 
 
 
@@ -13408,6 +13408,172 @@ but remake it. In [[Germany]] the ruler is the [[artist]], always painting the
 happy German like a portrait; in France the Frenchman is the [[artist]],
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+benché l'ostrica presenti esteriormente dissomiglianze che paiono
+
+separarla dal [[Horse|cavallo]], essa è, per l'onnipervadente potenza-[[Nature|natura]] della
+
+medesima energia che muove il [[Horse|cavallo]], sostenuta.
+
+Ora, questo [[Horse|cavallo]] è intellettualmente il [[Horse|cavallo]] sbagliato. Non è forse
+
+esagerato dire che questo [[Horse|cavallo]] è un [[donkey|asino]]. Poiché rientra evidentemente
+
+persino nelle risorse intellettuali di un merluzzo rispondere: «Ma se un
+
+merluzzo è un [[Horse|cavallo]], perché mai dovrei cedere a te più di quanto tu ceda a me?
+
+Perché quel [[Horse|cavallo]] canterino comunemente detto [[Nightingale|usignolo]], o quel
+
+[[Horse|cavallo]] rampicante finora noto come il gatto, dovrebbero prostrarsi e adorarti
+
+in virtù della tua cavallinità? Se tutte le nostre facoltà native sono le
+
+doti di un [[Horse|cavallo]]... ebbene allora tu sei soltanto un altro [[Horse|cavallo]] privo di
+
+qualsiasi dote». Quando gli si ragiona così, garbatamente, il [[Horse|cavallo]] scaglia
+
+all'aria i garretti, prende a calci il gatto, schiaccia l'ostrica, mangia il merluzzo e
+
+insegue l'[[Nightingale|usignolo]], ed è così che ebbe inizio la guerra.
+
+Questo apologo non è affatto più fantasioso dei fatti della
+
+pretesa teutonica. I tedeschi affermano davvero che gli inglesi non sono che
+
+tedeschi-di-mare, come i nostri merluzzi non erano che cavalli marini. Affermano davvero
+
+che gli usignoli della Toscana o le perle dell'Ellade debbano in qualche modo essere
+
+[[Birds|uccelli]] tedeschi o gioielli tedeschi. Sostengono che l'italiano
+
+[[Renaissance|Rinascimento]] fosse in realtà il [[Renaissance|Rinascimento]] tedesco, giacché puri tedeschi portavano
+
+nomi italiani quando erano pittori, come talora ne hanno i [[cockneys|cockney]] quando
+
+fanno i parrucchieri. Suggeriscono che Gesù e i grandi ebrei fossero
+
+teutonici. Un teutonista che ho letto spiegava addirittura la fresca energia della
+
+[[French Revolution|Rivoluzione francese]] e gli stantii privilegi dei suoi nemici tedeschi
+
+dicendo che l'[[Soul|anima]] germanica si era destata in Francia e aveva attaccato l'influenza latina
+
+in [[Germany|Germania]]. Sui vantaggi di questo metodo non occorre che mi soffermi:
+
+se vi infastidisce che Jack Johnson metta al tappeto un pugile
+
+professionista inglese, basta dire che fu il candore dell'
+
+uomo nero a vincere e il nero dell'uomo bianco a essere battuto.
+
+Ma sul [[Renaissance|Rinascimento]] italiano sono meno generici e scendono nel
+
+dettaglio. Scopriranno (nelle loro ricerche di 'storia', come diceva il signor
+
+Gandish) che il cognome di [[Michael|Michel]] [[Angelo]] era Buonarotti; ed essi
+
+faranno notare che la parola «roth» somiglia molto alla parola «rot». Il che,
+
+in un certo senso, è abbastanza vero. La maggior parte degli inglesi si accontenterà di dire che
+
+è tutta una fandonia e di tirare avanti. È tutt'uno con l'assurda
+
+[[history|storia]] prussiana, che parla, per esempio, della «perfetta
+
+tolleranza religiosa dei Goti»; il che è come parlare dell'imparzialità giuridica
+
+della varicella. Egli rifiuterà di credere che gli ebrei
+
+fossero tedeschi; benché possa forse aver incontrato qualche tedesco che era ebreo.
+
+Ma più profonda di qualsiasi replica pratica, giace la profonda incoerenza della
+
+[[Parable|parabola]]. È semplicemente questa: che se il teutonismo è usato per la
+
+comprensione, non può essere usato per la conquista. Se tutti i popoli intelligenti
+
+sono tedeschi, allora i prussiani sono solo i tedeschi meno intelligenti. Se
+
+gli uomini delle Fiandre sono tedeschi quanto quelli di Francoforte, possiamo solo
+
+dire che nel salvare il Belgio stiamo aiutando i tedeschi che hanno
+
+ragione contro i tedeschi che hanno torto. Così in Alsazia i
+
+conquistatori sono costretti alla comica posizione di annettere il popolo perché
+
+è tedesco e poi di perseguitarlo perché è francese. I francesi
+
+teutoni che edificarono Reims devono cederla ai teutoni della Germania meridionale
+
+che hanno in parte edificato Colonia; e questi a loro volta cedono Colonia ai
+
+teutoni della Germania settentrionale, che non edificarono mai nulla, se non il ligneo
+
+fantoccio da baraccone del vecchio Hindenburg. Ogni teutone deve cadere bocconi dinanzi a
+
+un teutone inferiore; finché tutti non trovano, nelle fetide paludi verso il
+
+Baltico, il più infimo di tutti i teutoni possibili, e non lo adorano... e
+
+scoprono che è uno slavo. Tanto vale per il pangermanesimo.
+
+Ma per quanto il teutonismo sia indefinibile, o almeno sia dai teutoni
+
+lasciato indefinito, non è irreale. Un'[[Soul|anima]] vaga ma autentica possiede davvero tutti
+
+i popoli che si vantano del teutonismo; e ha posseduto noi stessi, nella misura
+
+in cui siamo stati toccati da quella follia. Non una razza, ma piuttosto una
+
+religione, la cosa esiste; e nel 1870 il suo sole era al [[Noon|mezzogiorno]]. Possiamo
+
+descriverla molto brevemente sotto tre voci.
+
+La vittoria delle armi tedesche significava prima di Lipsia, e significa ora, il
+
+rovesciamento di una certa idea. Quell'idea è l'idea del Cittadino. Ciò
+
+è vero in un senso del tutto astratto e cortese; e non è inteso come una
+
+vaga accusa di oppressione. La sua [[Truth|verità]] è del tutto compatibile con l'idea
+
+che i tedeschi siano governati meglio dei francesi. Per molti versi i
+
+tedeschi sono governati molto [[Well|bene]]. Ma potrebbero essere governati diecimila
+
+volte meglio di come lo sono, o di come chiunque potrà mai esserlo, e restare pur sempre
+
+lontani come non mai dal governare. L'idea del Cittadino è che la sua
+
+individuale [[Nature|natura]] umana sia costantemente e creativamente attiva nel
+
+_modificare_ lo Stato. I tedeschi hanno ragione a considerare quell'idea come
+
+pericolosamente rivoluzionaria. Ogni Cittadino _è_ una rivoluzione. Cioè,
+
+distrugge, divora e adatta il proprio ambiente nella misura del proprio
+
+pensiero e della propria [[Conscience|coscienza]]. È questo che separa lo sforzo sociale umano
+
+da quello non umano; l'ape crea il favo, ma non lo
+
+critica. Il governante tedesco nutre e addestra davvero il tedesco con la stessa
+
+cura con cui un giardiniere annaffia un fiore. Ma se il fiore d'improvviso
+
+cominciasse ad [[Water|annaffiare]] il giardiniere, questi ne sarebbe assai sorpreso. Così in [[Germany|Germania]]
+
+il popolo è davvero educato; ma in Francia è il popolo che educa. I
+
+francesi non solo compongono lo Stato, ma fanno lo Stato; non solo lo fanno,
+
+ma lo rifanno. In [[Germany|Germania]] il governante è l'[[artist|artista]], che dipinge sempre il
+
+tedesco felice come un ritratto; in Francia è il francese l'[[artist|artista]],
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_24" data-title="TheCrimesOfEngland — Chapter 10 (part 24)" data-chapter="Chapter 10" data-kind="excerpt"></span>
@@ -15132,7 +15298,7 @@ del nauseante terrore del [[Time|tempo]]. Poiché era un giorno del giudizio in
 
 cui sul trono nei cieli e al di sopra dei cherubini, sedeva non Dio, ma
 
-un altro.
+altrove.
 
 I britannici erano stati postati all'estremità occidentale estrema dello schieramento alleato
 

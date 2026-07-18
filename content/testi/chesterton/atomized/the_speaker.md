@@ -4428,6 +4428,37 @@ that I knew not.  I will put my hand upon my mouth."
 Job was a wise man.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«E scuro d'[[Winter|inverno]] era il fluire--
+dell'Iser che [[rolling|scorreva]] rapido.»
+
+Il corrispondente «descrittivo» l'avrebbe scritto così:-
+
+«E grasso di fango e di [[Frost|gelo]] era il fluire
+dell'Iser che vacillava con voce rauca.»
+
+Se i cannoni «starnutiscono» contro un uomo, senza [[Doubt|dubbio]] costui resta colpito dal paragone artistico. Se gli sparano, lo colpiscono.
+
+Apprezziamo profondamente, come abbiamo detto, il tono cavalleresco del libro del signor Doyle, perché egli rappresenta, dopo il misterioso crollo del signor Kipling, quella scuola muscolare che dovrebbe prendere i Boeri sotto la sua speciale protezione. Un uomo come Cronje sarebbe stato, e sarebbe dovuto essere, nei giorni migliori del signor Kipling, una delizia per quell'autore. Possiede tutte le virtù predilette del signor Kipling e, per un supremo tocco di fascino, ha commesso tutti i delitti prediletti del signor Kipling. Il signor Doyle, tuttavia, si erge oggi a campione dei [[Secrets|segreti]] di una razza forte. La questione è assai più profonda di una mera [[morality|moralità]] negativa. Cronje non è colmo di delicatezze morali, e non è affatto un esemplare favorevole del Boero. Ma paragonando, nel più ampio spirito umano e antropologico, l'[[Hero|eroe]] delle tremende Termopili di Paardeberg con il signor Beit o col defunto signor Barnato, che cosa può dire una persona pensante del trasferimento di influenza in quel paese, se non i due versi di Goldsmith?--
+
+«Mal se la passa la terra, preda di mali incalzanti,
+dove la ricchezza si accumula e gli uomini [[Decay|deperiscono]].»
+
+Ci siamo resi conto che questa gente cenciosa è la vera ricchezza del Transvaal? Sappiamo sfruttare le miniere dell'oro umano?
+
+Buddha contro il Buddismo
+
+--17 novembre 1900, The Speaker
+
+Buddha And Buddhism. Di [[Arthur]] Lillie. Edimburgo: T. and T. Clark.
+
+Il signor [[Arthur]] Lillie intitola il suo libro Buddha and Buddhism, e gran parte di esso è dedicata a spiegare che si tratta di due cose assai diverse. La sua tesi principale e più interessante si riduce a questo: che, lungi dall'essere la grande [[philosophy|filosofia]] nichilistica che attira i pessimisti europei verso il Buddismo, come si sostiene, la pura metafisica dello stesso Gautama poi corrotta in una mera religione, è proprio questo nichilismo a essere esso stesso un vasto sviluppo decadente delle parole di un maestro tanto primigenio, etico e diretto quanto il Fondatore del [[Christianity|Cristianesimo]]. Il signor Lillie ha un vivo istinto per la letteratura, e apre la sua argomentazione con un apologo efficace e divertente in cui descrive un futuro storico che dimostra in modo conclusivo come il cattolicesimo medievale dovette essere una corruzione sacerdotale della religione di Comte. Le speculazioni da [[nightmare|incubo]] sull'essenziale non-esistenza di ogni cosa sono l'occupazione prediletta dei pessimisti pirro-buddisti — se pure il pessimismo possa loro attribuirsi propriamente, poiché è difficile credere nel peggiore di tutti i mondi possibili se non si crede affatto che alcun mondo sia possibile. Ma riteniamo che il signor Lillie abbia reso un grande servigio nel prosciogliere il carattere del grande Gautama da questa guerra contro la [[Nature|Natura]] — questo misticismo matricida. La questione non riguarda soltanto il Buddismo, ma anche il [[Christianity|Cristianesimo]], che ora viene costantemente accusato di nichilismo dai suoi nemici come il Buddismo è accusato dai suoi amici.
+
+Schopenhauer, con quella brillante futilità che lo rendeva tanto notevole se considerato meramente come uomo di lettere, sostiene che il [[Christianity|Cristianesimo]] è affine al proprio pessimismo perché rifiuta le vanità del mondo. L'osservazione è un buon esempio di quella classe di considerazioni ingegnose contro le quali nulla possiamo dire se non che sono evidentemente false. Chiunque può vedere che un uomo che fluttua in visioni di sicura felicità non si trova nel medesimo stato d'animo di un uomo che crede impossibile ogni felicità: e i due non diventano essenzialmente più simili per l'accidente di assumere entrambi il medesimo atteggiamento verso qualcos'altro. Schopenhauer e il più maniacale [[ascetic|asceta]] del medioevo non si somigliano più di quanto si somiglino un uomo che non prende l'omnibus perché non può permetterselo e un uomo che non prende l'omnibus perché preferisce il suo landò. Il Buddismo potrebbe dirsi un anello intermedio, poiché la felicità buddista era in un certo senso negativa; ma la felicità monastica era colma delle più ardenti immagini umane, e se il monaco derideva i piaceri non religiosi lo faceva come un [[Lover|amante]] potrebbe deridere la massa delle donne o un patriota la massa delle nazioni. Diciamo questo delle forme più perverse dell'ascetismo cristiano reale. Che la religione di Gesù non fosse pirro-buddista (per quanto talvolta la si dica tale) è chiaro dalla distinzione piuttosto ovvia che il pirro-buddismo incoraggia la [[Poverty|povertà]] perché sottrae l'uomo all'[[Natural Order|ordine naturale]], mentre Gesù incoraggiava la [[Poverty|povertà]] dichiaratamente perché lo univa all'[[Natural Order|ordine naturale]] — con gli [[Birds|uccelli]] e i gigli del campo. Nessuna ingegnosità mortale può fare un «Nichilista Anti-Cosmico» di un maestro che raccomandava una certa condotta proprio sul fondamento espresso che essa era la legge del mondo animale e vegetale. È altamente possibile che l'[[Ambition|ambizione]], il commercio e molto di ciò che la civiltà apprezza apparissero a Gesù un'enorme e [[Grotesque|grottesca]] escrescenza sul volto della vita. Ma per il pirro-buddismo è la vita stessa a essere l'escrescenza: l'essere è una malattia: le [[Stars|stelle]] sono uno sfregio alla purezza della [[Night|notte]], una sorta di eruzione cosmica, e le colline eterne sono meri rigonfiamenti, vergognosi quanto i foruncoli di Giobbe. È l'iniqua completezza di questa concezione immaginativa ad aver realmente attratto uomini come Schopenhauer verso il Buddismo metafisico, poiché il pessimista indiano lo abbraccia con una dolcezza e una calma spaventose che l'irritabile tedesco poteva solo invidiare mentre inseguiva l'impossibile [[Paradox|paradosso]] di usare l'energia cosmica in sfida al Cosmo, e non tanto tagliandosi il naso per far dispetto alla propria faccia quanto tagliando via il resto di sé dal proprio naso per poterlo poi arricciare con disprezzo.
+
+Ma per quanto possiamo [[Well|ben]] credere, col signor Lillie, che il vero Buddha fosse un nobile moralista elementare e che i suoi insegnamenti fossero assai diversi dalla sconcertante retorica dell'annientamento che riempie la più tarda metafisica indiana, riteniamo che vi sia, forse, un legame più naturale tra loro di quanto egli sia disposto a concedere. A noi, almeno, i popoli buddisti, specialmente dell'India, sembrano presentare l'insondabile [[Tragedy|tragedia]] spirituale di un popolo che ha guardato Dio ed è vissuto. Hanno fissato troppo a lungo la luce bianca e i loro intelletti ne hanno sofferto. Gli Ebrei, con il loro meraviglioso istinto per la religione pratica, giurarono che chi guardava Geova moriva; ma in un gran numero di scuole e di saggi trascendentali la condanna a [[Death|morte]] è stata commutata in una dannazione di farneticante idiozia. Ai Buddisti fu data una concezione di Dio di straordinaria purezza intellettuale; ma, prendendo ringhiosa dimestichezza con quello splendore senza tratti, hanno perduto la testa: farfugliano; dicono che tutto è nulla e il nulla è tutto, che il nero è bianco perché il bianco è nero. Ci immaginiamo che le spaventose negazioni universali, alle quali, come abbiamo visto, sono infine giunti, non siano in realtà molto più del crollo mentale definitivo di uomini che cercano sempre di trovare un'astrazione abbastanza grande per tutte le cose. «Ho detto ciò che non comprendevo: cose troppo grandi per me, che io non sapevo. Porrò la mia mano sulla mia bocca.» Giobbe era un uomo saggio.
+
 
 
 <span class="atom-split" data-atom="part--part_05" data-title="The Speaker (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
@@ -4542,6 +4573,42 @@ incomparable influence.  Children need to be taught primarily
 the grandeur of the whole world.  It is merely the whole world
 that needs to be taught the grandeur of children.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Forse la parte meno soddisfacente del libro molto soddisfacente di Mr. Lillie è il capitolo dedicato ai paralleli tra [[Christ|Cristo]] e Buddha, su cui si fondano le teorie che [[Christianity|cristianesimo]] sia stato preso in prestito dal buddismo. Storicamente non pensiamo che ciò sia probabile, se per nessun'altra ragione, almeno perché lo schema di base delle idee su cui [[Christ|Cristo]] ha costruito il Suo Vangelo si può trovare in Isaia e negli antichi Ebrei; ma non ci possono essere dubbi che esistano somiglianze molto interessanti. Mr. Lillie, tuttavia, nell'entusiasmo di trovare paralleli, fornisce un elenco del quale nove decimi sono paralleli senza alcuna importanza. Dire di due maestri orientali che si occuparono entrambi in una certa occasione della lavanda dei piedi non è neppure una coincidenza; potremmo altrettanto [[Well|bene]] chiamare coincidenza il fatto che avevano entrambi i piedi da lavare. A volte i paralleli di Mr. Lillie non sono nemmeno paralleli fino a quel punto. Ci dice come pendant al testo "Hanno diviso le mie vesti" che "alla [[Death|morte]] del Bokte' Lama, le sue vesti vengono tagliate in piccole strisce e tenute in grande considerazione". Questo è l'esatto contrario di una somiglianza; la divisione delle vesti di [[Christ|Cristo]] fu fatta dai suoi nemici; era un'espressione di disprezzo, e le vesti non erano "tenute in grande considerazione", se non per quanto avrebbero fruttato nei negozi di stracci di Gerusalemme. Mr. Lillie cita il fatto che nella scrittura buddista la voce divina parla "dal cielo", come se in qualsiasi religione ci si aspettasse che venga fuori dal ripostiglio del carbone. Commette un errore più radicale nel confrontare il Vangelo "[[house|casa]] sulla sabbia" con il detto buddista, "Il mondo visibile è come una [[City|città]] di sabbia". Non solo la [[Parable|parabola]] cristiana non enuncia quest'ultimo sentimento, ma ne enuncia qualcosa di opposto. L'uomo che costruì sulla sabbia fu l'uomo che non portò a compimento le sue concezioni nel mondo visibile. Possiamo solo rimandare Mr. Lillie al passo.
+
+Il signor Lillie parla con giusto dissenso di alcune distinzioni fatte dai cristiani tra i due credi fondate semplicemente su dottrine, anche su dottrine così centrali come la divinità personale e l'[[Immortality|immortalità]]. Ma mentre il signor Lillie sembra pensare che la differenza sia più o meno immaginaria, noi crediamo che essa sia più profonda di qualsiasi dottrina. Sia [[Christianity|cristianesimo]] che buddhismo rappresentano infatti la semplicità, il fatto che è nella parte primordiale di noi stessi che siamo più vicini all'invisibile. Ma il buddhismo rappresenta una semplificazione della mente e un affidamento sulle idee più indestruttibili; [[Christianity|cristianesimo]] rappresenta una semplificazione del cuore e un affidamento sui sentimenti più indestruttibili.
+La maggiore insistenza cristiana sulla divinità personale e sull'[[Immortality|immortalità]] non è, crediamo, la causa tanto quanto l'effetto di questa tendenza essenziale verso una passione antica e un pathos come la potenza che più da vicino squarcia il velo dalla [[Nature|natura]] delle cose. Entrambi i credi cercano lo stesso sole segreto, ma il buddhismo [[Dreams|sogna]] della sua luce e il [[Christianity|cristianesimo]] del suo calore.
+Il buddhismo cerca Dio con la concezione più ampia che può trovare, l'Om tutto-produttivo e tutto-assorbente; il [[Christianity|cristianesimo]] cerca Dio con la passione più elementare che può trovare: il desiderio di un padre, la fame che è antica come le colline.
+Trasforma l'intero grido di un universo perduto nel grido di un [[Child|bambino]] smarrito.
+
+G. K. C.
+
+Letteratura e [[Childhood|infanzia]]
+
+#24 novembre 1900, The Speaker
+
+Il lettore del tempio per giovani. Di Clara Linklater Thomson e
+E. E. Speight, B.A. [[London|Londra]]: Horace Marshall.
+
+I compilatori di questa raccolta hanno stabilito per sé stessi nella prefazione un principio genuino e seriamente necessario, e lo hanno osservato ammirevolmente, e con drammatica improvvisità, [[Time|di]] [[Time|tempo]] in [[Truth|tempo]]. Dicono, con perfetta [[Soul|verità]], che "tali libri di lettura sono troppo spesso scritti al ribasso per i bambini, invece di essere fatti modelli con cui formare il loro gusto." Indubbiamente guardare dall'alto e parlare dall'alto e scrivere dall'alto verso l'anima umana [[Education|anima]] sono state le maledizioni sterilizzanti dell'[[Marriage|educazione]]. Che tutto dovrebbe guardare su a tutto il resto può essere un po' sconcertante come geometria, ma come molte altre impossibilità, è semplice e riuscita in morale. Ma non possiamo immaginare che i compilatori intendano dire che tutte le cose sono ugualmente adatte in un libro per bambini o che porterebbero allegramente fuori una continuazione costituita da selezioni dallo Sposalizio [[Child|straordinario]], intervallate con recitazioni popolari di Mallarmé. Hanno finora attuato il loro eccellente principio in modo tale da aver raccolto in questo volume un certo numero di nobili frammenti d'arte letteraria che è altamente probabile che anche il più avventuroso [[Translation|bambino]] non troverebbe nella libreria di famiglia. Il piacere di leggere una virile traduzione inglese della [[Death|morte]] del grande Paladino a Roncisvalle, per esempio, è sufficiente ad eliminare il proprio fastidio nel trovare un pezzo di sentimentalismo romantico tedesco, come l'Ugone di Bordeaux di Wieland, collocato come una rocceria artificiale accanto alla montagna mattutina del [[Song|Canto]] di Rolando.
+
+Ma i compilatori di questa opera educativa hanno violato il loro stesso principio in modo più sottile e universale.
+Hanno ceduto a quella singolare illusione che domina libri con un'intenzione molto meno logica, l'illusione che il [[Child|bambino]] come tale sia interessante ai bambini.
+Questo è uno sbaglio che qualsiasi giornalista da strapazzo disprezzerebbe.
+Tutti sono interessati al colore locale dei viaggi all'estero,
+ma un libro intitolato Strane avventure tra gli aborigeni di Clapham non gratificherebbe gli abitanti di quel sobborgo.
+Eppure le usanze di Clapham sono, per il vero viaggiatore filosofico, strane e persino terrificanti.  Così l'eterno valore dei bambini
+per la maturità è che essi sono un tangibile elfland scientifico,
+ma l'essenza degli elfi è l'inconsapevolezza e la massima solennità.
+I libri da mettere davanti ai bambini sono libri di gioco
+e cerimoniale, e pompa e guerra:  tutta la gloria del mondo,
+tutto il corteo della [[history|storia]], piena di [[Blood|sangue]] e [[Pride|orgoglio]],
+può essere loro raccontato tranquillamente-tutto tranne il segreto della loro
+incomparabile influenza.  I bambini devono essere istruiti principalmente
+sulla grandezza del mondo intero.  È semplicemente tutto il mondo
+che ha bisogno di imparare la grandezza dei bambini.
 
 
 
@@ -4981,6 +5048,28 @@ turned into wine is not, upon the whole, so incredible as a cloud
 being turned into [[Water|water]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nel trattare la Religio Medici il professor Dowden è giusto e comprensivo, ma non frenetico d'ammirazione, come dovrebbe essere. Un uomo può sempre trovare freschi e nobili principi di critica in un'opera che ama davvero, e il Sir Thomas Browne del professor Dowden ci [[Leaves|lascia]] vagamente insoddisfatti. Egli vede bene che Browne era un mistico esaltato, ma non ne rende il sapore peculiare del suo misticismo, un misticismo che, a nostro avviso, doveva molto al suo stile letterario. Lo stile, nel senso che egli gli dava, non significava semplicemente suono, ma il tentativo di conferire qualche guizzo d'arguzia o di simbolismo a ogni proposizione o parentesi: quando riprendeva in mano la sua opera non lucidava semplicemente l'ottone, vi incastonava l'oro. Questa abitudine di lavorare con la lente d'ingrandimento, questo rigirare e attorcigliare le parole minori, è il vero genitore del misticismo, poiché il mistico non è (come il professor Dowden, in questo [[Essay|saggio]], pare indicare) tanto un uomo che venera le cose grandi quanto un uomo che venera le piccole, che si riduce a un punto, senza parti né grandezza, sicché per lui l'erba è realmente una foresta e la cavalletta un drago. Le piccole cose piacciono alle grandi menti.
+
+Lo studio del professor Dowden su George Herbert è del tutto ammirevole. Nulla nel libro è migliore del bel passo in cui egli fa notare che l'ideale di sacerdote di Herbert, «amabilmente inquisitorio e benevolmente dispotico», si addiceva a qualunque altra epoca piuttosto che a quella crisi di strenuo [[Individualism|individualismo]]. Ma forse il professor Dowden prende troppo sul serio l'aspetto politico di Herbert. Herbert era un [[Child|fanciullo]] nel senso migliore della parola. Il suo Temple fu costruito con una scatola di mattoncini. Il suo fascino e la sua forza non stanno nelle sue vedute su alcun argomento, ma in quella infantile familiarità con le cose celesti che lo portava, con una spensieratezza quasi irriverente, a lodare il suo Creatore in rebus e sciarade. Possiamo lasciarlo tranquillamente in una divina stanza dei bambini. Sir Thomas Browne era un uomo adulto, canuto di dottrina e d'esperienza, ma i due avevano questo in comune, che entrambi suggeriscono l'idea del riparo; per loro la Chiesa era una fortezza e un magazzino di dottrina, dignità e pace. E mentre pensiamo a questa immagine e cerchiamo di apprezzare equamente le due scuole, non può non levarsi davanti a noi la terribile scena in Grace Abounding in cui Bunyan, rannicchiato nella chiesa, fu abbattuto da un accecante [[Fear|timore]] che la chiesa stessa gli crollasse addosso, perché la sua [[Conscience|coscienza]] non era pulita.
+
+Allo studio vigoroso del professor Dowden su Bunyan non si può trovare difetto, ma nella sua lunga e abile trattazione di [[Milton]] non ci troviamo affatto sempre d'accordo con lui. In particolare, non riusciamo a seguire il suo tentativo di dimostrare che lo spirito e le teorie del [[Paradise Lost|Paradiso Perduto]] siano principalmente ebraici e scritturali. A nostro avviso, gli European Morals di Lecky e la Divina [[Comedy|Commedia]] di [[Dante]] sono assai più simili tra loro di quanto lo siano la [[Beauty|bellezza]] dell'Antico Testamento e la [[Beauty|bellezza]] del [[Paradise Lost|Paradiso Perduto]]. Non ci sono teorie nell'Antico Testamento. La concezione che conferisce una grande [[unity|unità]] artistica ai libri ebraici, la concezione di un grande e misterioso protagonista che si affatica tra nube e tenebra verso un fine di cui solo frammenti sono rivelati ai suoi agenti, non ha alcun corrispettivo in [[Milton]]. Il «Con chi si è egli consigliato?» del [[Prophet|profeta]] non c'è: il Dio dell'Antico Testamento non si spiega mai intellettualmente; il Dio di [[Milton]] non fa mai altro. Il tanto citato proposito «di giustificare le vie di Dio agli uomini» sarebbe apparso a Isaia mera e ridicola bestemmia. Questo [[Sublime|sublime]] sentimento ebraico della [[Loneliness|solitudine]] di Dio («Ho pigiato il tino da [[Alone|solo]] e dei popoli non vi era alcuno con me») è perpetuamente violato in [[Milton]], la cui Divinità è sempre a discolparsi dalle accuse come se si trovasse all'Old Bailey. Anche il meno superstizioso tra noi può avvertire il brivido dell'elementare [[Faith|fede]] degli Ebrei, può immaginare una voce che tuona giù dal cielo in misteriosa ira o in più misteriosa benedizione. Ma chi può trattenersi dal ridere all'idea di una voce dal cielo di mezzanotte che d'improvviso si mette a spiegarsi e a raddrizzare uno sfortunato malinteso?
+
+Vorremmo che il professor Dowden avesse dedicato l'ampio spazio che ha consacrato a difendere la fredda e repellente religione miltoniana a uno studio più esauriente del torreggiante e inebriante stile miltoniano. I poeti dicono comunemente, con il loro stile, qualcosa di enormemente diverso e di enormemente superiore a ciò che dicono con il mero significato. E ogni volta che il professor Dowden tratta [[Milton]] sotto questo aspetto, sarebbe un uomo temerario chi cercasse di aggiungere alcunché al suo giudizio.
+
+Forse l'articolo migliore di tutto il libro è quello su Butler, l'autore dell'Hudibras. In lui vediamo il graduale raffreddarsi del cuore nazionale a opera dei demoni di ghiaccio del giudizio e della prudenza, che proseguì finché la nazione che un tempo aveva prodotto le due grandi scuole della [[Faith|fede]] e del valore alle quali è dedicata l'opera del professor Dowden raggiunse, nel razionalismo del primo Settecento, quell'imparzialità che è un nome pomposo per l'indifferenza, la quale è un nome elegante per l'ignoranza.
+
+G. K. C.
+
+Il Racconto di Natale
+
+--29 dicembre 1900, The Speaker
+
+The Beloved Son. Della signora Francis Rye. [[London|Londra]]: Heineniann.
+
+Il [[success|successo]] che la signora Rye consegue nell'offrire ai bambini un suggestivo racconto della vita di Gesù è tanto più meritorio in quanto ella deve dirigere la propria rotta con incommensurabile astuzia tra i due fattori più dominanti e più gravi dell'epoca: la profonda inspiritualità dello spiritualista e la stupefacente irrazionalità del razionalista. Da un lato ella riesce a evitare il dogma senza cadere nell'errore di dogmatizzare contro il dogma. Se ci è lecito azzardare un'ipotesi, immaginiamo che la signora Rye abbia già patito molte cose dagli eterni dottori della teologia, i quali non mancano mai di proporre a tutti gli espositori di Gesù la stessa categoria di idioti indovinelli che un tempo proposero a Gesù stesso. Ma ella ha eluso con successo il branco degli scribi inseguitori, e in quest'opera non ci angustiamo più intorno all'origine e alla [[Nature|natura]] di [[Christ|Cristo]] di quanto ci angustiassimo intorno all'origine e alla [[Nature|natura]] delle nostre stesse madri. Vi sono persone che non abbisognano di lettere di presentazione. D'altra parte, ancora, ella è riuscita ugualmente a eludere il bigottismo che ha un mortale [[Fear|timore]] del bigottismo, la pomposa ortodossia dell'agnostico. Ovunque un racconto francamente teologico o [[Supernatural|soprannaturale]] giovasse manifestamente al ritratto della Figura Divina, ella l'ha impiegato senza timore e con incomparabile buon senso. Il terrore in cui molti eccellenti pedagogisti tengono il [[Supernatural|soprannaturale]] nel racconto religioso non trova certo alcuna accoglienza nella signora Rye, né in noi. Queste degne persone (quando non sono del tutto pazze) non esitano a insegnare quegli assiomi dell'[[Education|educazione]], le vecchie fiabe. Informano i bambini con la faccia più grave che un fagiolo crebbe fino al cielo, che un gigante si trasformò in un topo, che una zucca si trasformò in una carrozza di stato. Ma i prodigi immaginosi e misericordiosi narrati nel libro che ha fatto la nostra letteratura, le storie che nessuno può ignorare se vuole comprendere tre frasi dei nostri più semplici prosatori, sono i prodigi che, per un'unica e ridicola timidezza, questi irreprensibili ma divertenti uomini escludono dall'[[Education|educazione]]. La signora Rye ha seguito la saggia via delle vecchie balie; ha compreso che un fagiolo che cresce fino al cielo non è più sorprendente di un fagiolo che cresce affatto; che l'[[Water|acqua]] mutata in vino non è, tutto sommato, così incredibile quanto una nube mutata in [[Water|acqua]].
+
 
 
 <span class="atom-split" data-atom="part--part_09" data-title="The Speaker (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
@@ -5247,6 +5336,58 @@ rhetorical padding; this, which resounds from hundreds of pulpits
 and sacred lyres, is indeed, to our minds, the sin against the Name,
 and it is this that Mr. Wynne never ceases from committing.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il caos nell'impianto, tuttavia, si potrebbe facilmente perdonare se vi fosse merito nelle parti. Ma dobbiamo confessare che leggere queste lunghe meditazioni in versi non ci ricorda nulla tanto quanto il bere innumerevoli galloni di [[Water|acqua]] tiepida. L'[[Water|acqua]] fredda della ragione è buona e l'[[Water|acqua]] bollente della passione religiosa è buona; ma questa non è pienamente e sinceramente né logica né religiosa. È fatta delle riflessioni di uno di quei signori che occupano le loro numerosissime ore d'ozio nutrendo dubbi spirituali di cui nessuna persona ragionevole dovrebbe darsi pena e schiacciandoli con risposte di cui nessuna persona ragionevole dovrebbe accontentarsi.
+
+Della dizione basteranno pochissimi esempi. Il signor Wynne, nei versi d'apertura, discute a modo suo, in maniera vaga, la questione della [[Nature|Natura]] e del suo atteggiamento benevolo o malevolo verso l'uomo. Descrive ciò che accade quando «guardiamo dietro i suoi occhi lucenti», il che parrebbe una delicata operazione chirurgica:-
+
+«Ma quando guardiamo dietro i suoi occhi lucenti
+scarsa eco troviamo ai nostri sospiri sempre più profondi.»
+
+Sarebbe certo un po' irragionevole da parte nostra aspettarci di trovare echi dietro gli occhi di una persona. Abbiamo sentito parlare di «occhi cavernosi», ma non tanto cavernosi a tal punto.
+
+Più avanti, egli scrive:-
+
+«Benché il fumo delle fabbriche e il rumore dei telai ronzanti
+offuschino per un poco la sua visione perfetta.»
+
+Non comprendiamo bene perché il rumore debba offuscargli la vista, ma possiamo capirlo, s'intende, se gli echi gli entrano negli occhi. È evidentemente costruito secondo lo stesso principio fisiologico di [[Bottom]] il Tessitore, che andò a vedere un rumore che aveva udito.
+
+Questa straordinaria confusione mentale imperversa nella dizione. In un passo ingenuo sull'Imperialismo britannico come rifugio degli Ebrei, che [[Fear|temiamo]] possa «suscitare nei peccatori un sorriso», il signor Wynne dice--
+
+«Poiché se anche non siamo delle perdute Dieci Tribù, almeno abbiamo procurato loro un ricovero»
+
+Se le «Tribù» sono ancora perdute, è un po' difficile dire se abbiamo procurato loro un ricovero oppure no.
+
+Infine, per completare i nostri esempi di tecnica, saremmo lieti di offrire la consueta [[Machine|macchina]] da cucire a chi sappia spiegare quanto segue:-
+
+«O Padre, rendimi la [[Faith|Fede]] della mia [[Childhood|fanciullezza]],
+quella [[Faith|fede]] che Ti scorgeva nella nube che si rischiara
+e la riteneva null'altro che lo [[Mirror|specchio]] del tuo respiro.»
+
+Questa parrebbe certamente una [[Faith|fede]] di ordine assai elevato e difficile.
+
+Se questi fossero meri errori verbali o metafore ibride, importerebbero poco. Il guaio è che sono prodotti non da una folla di immagini che si urtano tra loro, ma dall'assenza totale di qualsiasi immagine. Quale quadro nella mente dello scrittore o del lettore può mai formarsi di echi dietro gli occhi, di nubi che sono come specchi, di specchi che riflettono il respiro? Se parlassimo di trovare un'eco in un sacco di farina o di una nube simile a un monocolo, l'immagine non sarebbe più informe e priva di suggestione.
+
+La [[Truth|verità]] è che avremmo il massimo rispetto per l'opera del signor Wynne, con tutte le sue crudezze, se recasse l'impronta anche del più volgare [[Fanaticism|fanatismo]]. Se possedesse una sola cosa che si potesse chiamare un'opinione, potremmo perdonargli tutto. Ma pare che gironzoli intorno a ogni lato di una questione, come un ubriaco che gira di continuo attorno a una [[house|casa]] perché non riesce a trovarne la porta. Per esempio, egli enuncia, come abbiamo detto, una veduta piuttosto ingenuamente lusinghiera sugli Ebrei, e dichiara che «Dio li ama ancora», perché «tutto ciò che toccano diventa oro nelle loro mani» — una ragione alquanto meschina e snob per rendere giustizia ai compatrioti di Isaia. Ma mentre in questo passo appare semitico quanto un Imperialista sudafricano, lo troviamo pochi versi prima a rivolgere in modo confuso a Israele un insulto di cui il signor Drumont si vergognerebbe. Dice che hanno una «traccia sfuggente» negli occhi e che sono--
+
+«Erranti sulla faccia della bella terra di Dio,
+e maledetti, come [[Cain|Caino]], col delitto fin dalla nascita.»
+
+Se ciò significhi che l'Ebreo, dalla nascita, di continuo uccide, oppure di continuo viene ucciso, non sappiamo dire; ma in entrambi i casi pare un tantino indecente.
+
+Questo è solo un esempio, ma è tipico dell'atteggiamento del signor Wynne su ogni argomento. Non è che non dica nulla, ma che non pensa nulla — è questo lo scandalo.
+
+Sarebbe difficile dire quale sia il verso meno poetico del poema. In un'opera che contiene versi come «Giudichiamo dal nostro punto di vista — quello del peccato», «Considera pure il progresso che l'uomo ha compiuto!» e «L'ateo sostiene che il Credo cristiano», la difficoltà si comprenderà facilmente. Ma, tutto sommato, crediamo che la palma debba andare al distico:-
+
+«L'[[Natural Order|ordine naturale]] dello sviluppo
+va dall'unità alla famiglia.»
+
+Vi sono, in verità, alcuni versi che potrebbero esporre il signor Wynne a un'accusa più grave di quella di essere prosaico. Non lo crediamo colpevole di plagio deliberato. Ma certo occorre una gran dose di trascuratezza e di vaghezza mentale per scusare versi come «I sentieri del piacere non fioriscono che verso la [[Grave|tomba]]» — «Poiché Dio si rivela in molti modi» e la ripetizione quasi esatta di una frase del signor William Watson nel verso «dà luce al giglio, arrossa la [[Rose|rosa]]».
+
+Desideriamo dire il meno possibile sulla lunga, slegata e stucchevole argomentazione in materia di religione che occupa tante pagine di Ad Astra. Osserveremo soltanto che [[Hope|speriamo]] sinceramente venga il [[Time|tempo]] in cui i predicatori, gli autori di [[Hymn|inni]] e i poeti devoti si accorgeranno che c'è una [[Truth|verità]] assai profonda e minacciosa in [[Bottom|fondo]] al comandamento: «Non nominare il nome del Signore Dio tuo invano». Che un uomo non debba usare le parole più forti fino a renderle deboli è, con ogni enfasi, uno dei dieci comandamenti della letteratura. La legge contro il nominare il Nome invano viene, per qualche strana ragione, generalmente intesa come riferita agli scherzi su argomenti seri. Ma uno scherzo non è necessariamente vano, è di solito assai significativo. Giobbe ed Elia scherzano di continuo su argomenti seri. Ma usare i nomi più grandi della nostra lingua, le parole che sono, per così dire, troppo grandi per la bocca, ancora e ancora come un timbro consunto, in argomentazioni banali, in spiegazioni presuntuose, in mero riempitivo retorico; questo, che risuona da centinaia di pulpiti e di lire sacre, è davvero, a nostro parere, il peccato contro il Nome, ed è questo che il signor Wynne non cessa mai di commettere.
 
 
 
@@ -5934,6 +6075,22 @@ without the one dominant and picturesque Egyptian conception,
 the conception of the judgments of another world?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E come ciò che produce la salute in un uomo è l'entusiasmo per qualcosa di sano, così ciò che produce il [[Courage|coraggio]] in una nazione è l'entusiasmo per qualcosa di onorevole. Napoleone enunciò il principio fondamentale della scuola di pensiero del professor Pearson quando disse che Dio sta dalla parte dei grossi battaglioni. Ma la ragione per cui Napoleone cadde perfino davanti a un uomo tanto ordinario quale Wellington è semplicemente che, per una legge inevitabile, l'uomo di principio tende a durare più a lungo dell'uomo del destino. Wellington fu il tipo stesso della forza nazionale perché si teneva saldo a qualcosa che stava al di là della portata delle circostanze, anche se non fosse altro che una concezione un po' rigida e impettita del gentiluomo. Gli uomini dei tempi antichi potevano spesso essere crudeli con i loro nemici senza crollo morale, perché, avendo menti limitate, crudeli erano i loro desideri. Ma nulla se non il crollo morale può derivare da azioni crudeli quando i desideri sono umani. Ecco, dunque, la debolezza pratica della teoria del professor Pearson sulla vita nazionale. È nel popolo di principio che si alleva la tenacia del mastino, non in coloro che stanno sempre, consapevolmente o inconsapevolmente, a spiare da che parte salti il gatto cosmico. C'è una scaltra [[Truth|verità]] profana nascosta sotto un linguaggio teologico nell'antico detto che l'estremità dell'uomo è l'occasione di Dio. Poiché è solo su coloro che, nella lotta per l'esistenza, resistono ancora dieci minuti dopo che tutto è ormai perduto, che comincia a [[Dawn|sorgere]] la [[Hope|speranza]]. Un uomo che ama la propria patria per la sua potenza sarà sempre un adoratore altrettanto debole quanto colui che ama una donna per il suo denaro. Una grande apparenza di forza nazionale o imperiale può fondarsi su questa [[philosophy|filosofia]] da bel tempo, ma la [[Crown|corona]] del trionfo finale e il vero rispetto della [[Nature|Natura]] saranno sempre riservati all'uomo per il quale la battaglia non è mai conclusa, che ignora i presagi e disdegna le [[Stars|stelle]].
+
+G. K. C.
+
+La Guerra degli [[Ghosts|Spettri]] e degli Dèi
+
+--9 febbraio 1901, The Speaker
+
+The Making Of Religion. Di Andrew Lang, M.A., LL.D. [[London|Londra]]: Longmans Green.
+
+Suprema fra le arti perdute dell'umanità, più vasta e più completamente perduta di quelle legate alla ceramica o alle vetrate, è l'arte perduta della mitologia. Le stirpi dei tempi antichi inventarono sistemi cosmici con la fantasia e l'indipendenza di una schiera di architetti che sottopongono alla Divinità i progetti di un universo in prospettiva. Uno pensava che il mondo si potesse ordinare al meglio nella forma di un albero immenso; un altro che lo si potesse posare su un elefante e l'elefante su una tartaruga. Per quanto grande sia il nostro guadagno dalla scienza, qualcosa abbiamo perduto nel perdere questa gigantesca ampiezza della fantasia umana; non doveva esserci poca [[Education|educazione]] all'audacia e alla magnanimità nel giocolare così con le [[Stars|stelle]]. Qualcosa abbiamo perduto nell'essere legati al sistema solare come a un mulino da tortura. È particolarmente duro per coloro che, come noi, i cui talenti peculiari, del tutto inutili in un'epoca civile, sarebbero stati, ne siamo convinti, un grande [[success|successo]] in un [[Time|tempo]] d'impenetrabile ignoranza. Nella prima [[Childhood|infanzia]] fabbricammo molte eccellenti mitologie. La migliore, dal punto di vista di un selvaggio, era quella in cui il mondo intero era un gigante con il sole per un occhio e la [[Moon|luna]] per l'altro, che apriva alternativamente in un eterno ammiccare. Questo idillio in prosa ci avrebbe fatto sommo stregone in un'età più felice. Ma [[Fear|temiamo]] che la Royal Society, anche se informata dell'ipotesi, resterebbe fredda.
+
+C'è, ci pare, fra i dotti studiosi di mitologia, una tendenza eccessiva a trascurare la vaghezza e l'impalpabilità estetica di queste idee selvagge, e questo difetto è quasi l'unico che sappiamo trovare nell'ammirevole libro del signor Andrew Lang che ora ci sta dinanzi. Il signor Andrew Lang e ciascuno dei suoi avversari — come, per esempio, il signor Grant Allen — nelle infinite repliche e ripetizioni della controversia, tendono sempre più a parlare in modo rigido e fisso di ciò che i selvaggi realmente credono; mentre la [[Truth|verità]], immaginiamo, è che essi non credono in nulla nel senso in cui il signor Grant Allen credeva nell'Evoluzione o il signor Andrew Lang nell'[[unity|Unità]] omerica. Non è tanto che un vecchio contadino scandinavo credesse nell'albero Ygdrasil, quanto che non ne dubitava mai. Non aveva mai ridotto la cosa a quella chiara rappresentazione intellettuale in cui il [[Doubt|dubbio]] o la negazione vengono concepiti o richiesti. Questo, come diciamo, è l'unico punto in cui riteniamo che l'argomentazione del signor Lang richieda un continuo controllo o una continua riserva. Gran parte del libro del signor Lang è dedicata a un attacco, e, a quanto ci sembra, a un attacco piuttosto ben riuscito, contro l'ultima teoria sulle divinità dei selvaggi, secondo cui esse derivano tutte dal culto degli antenati, dagli [[Ghosts|spettri]] piuttosto che dagli dèi. Il signor Lang sostiene che ciò [[Leaves|lascia]] del tutto inspiegata una vasta massa di credenze barbariche, che rimandano all'idea di un creatore universale, un essere che fece il mondo. Contro la teoria del signor Allen e del signor Herbert Spencer, il signor Andrew Lang schiera un buon numero di fatti, certamente assai notevoli, a favore della teoria che il culto degli antenati fosse uno sviluppo semicivilizzato, una specie di moda in voga, che più o meno cancellò un culto più primitivo ed evidente delle divinità creatrici, la cui esistenza spiegava l'esistenza delle cose. Per prendere un esempio a caso, dai depositi del signor Lang, c'è una tribù di selvaggi politeisti, uno dei cui dèi, «un vecchio serpente», è descritto come colui che fece ogni cosa e come, a quanto pare, oltremodo imbronciato perché non gli si presta il giusto grado di attenzione. È ben duro, egli pensa, che, dopo essersi dato la pena di fare il sole e le [[Stars|stelle]], la gente [[Desert|abbandoni]] il vecchio amico per una razza di divinità nuove e azzimate. Questo sembra proprio la traccia di un monoteismo soffocato da un politeismo. Un altro esempio più familiare è il caso degli Ebrei. Se Geova era in origine una divinità ancestrale, perché mai gli Ebrei, che più di ogni altra nazione erano ossessionati dall'idea della loro divinità, erano più indifferenti di ogni altra nazione alla sorte dei morti? Se, come sosteneva il professor Huxley, gli Ebrei presero a prestito il loro idealismo religioso dall'[[Egypt|Egitto]], perché mai erano del tutto privi dell'unica concezione egizia dominante e pittoresca, la concezione dei giudizi di un altro mondo?
+
 
 
 <span class="atom-split" data-atom="part--part_16" data-title="The Speaker (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
@@ -6060,6 +6217,16 @@ to believe that a hypnotist, by thinking hard at another man,
 could produce a blister on his leg, he would have said immediately
 that he would as soon believe in the [[Ghost|ghost]] of [[Banquo]] at once.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma noi stessi, come abbiamo detto, riteniamo che la questione sia in un senso troppo autenticamente selvaggia per essere risolta con nette definizioni bianche e nere della civiltà. Esprimere qualcosa di più profondo e più antico del linguaggio stesso nel puro linguaggio è impresa da tentare con umiltà e prudenza; nel complesso, è un po' come cercare di trasmettere il testo dell'«[[Hamlet|Amleto]]» con un codice di segnali navali. Per quanto possiamo vedere, è probabile che la religione di un selvaggio esistesse molto prima del più antico culto degli antenati o della più semplice teleologia. Molto prima di dire che la cosa che lo tormentava e lo benediceva e lo spingeva innanzi fosse o il suo bisnonno o la Causa Prima, egli probabilmente diceva che era «Bonk» o «Chunk», una «circostanza che sfuggiva al suo controllo». Probabilmente cominciò col sentire l'eterno fatto che pioveva, gli piacesse o no; poi questa benigna insolenza della pioggia si estese all'intera creazione, e poi, per quanto ne sappiamo, può essere stata attribuita allo spirito di qualche morto. Ma all'inizio il selvaggio si trovava faccia a faccia col fatto che le stesse misericordie che sostenevano il suo essere venivano per una sorta di miracolo sprezzante del tutto inspiegato per lui; egli stava all'inizio faccia a faccia col fatto che non poteva far crescere un albero, e questo, a conti fatti, è più o meno il punto in cui ci troviamo noi alla fine.
+
+Questo, per esempio, è più o meno ciò che pensiamo del problema, discusso con una certa ampiezza dal signor Lang, sull'origine di Geova, la più alta di tutte le divinità storiche. Riteniamo improbabile che Mosè pensasse che Geova fosse una filosofica Causa Prima, e ancor più improbabile che lo credesse suo prozio. Ma supponiamo che Mosè avesse detto (o meglio sentito), non «Geova è la causa ultima di tutte le cose» né «Geova è il dio della mia famiglia», ma semplicemente «Geova è con me: ci fu uno che abbatté i grandi leoni perché io potessi ucciderli e che mi colpì con un [[Pain|dolore]] malvagio quando mangiai le bacche proibite». All'inizio e alla fine di ogni vita, dotta e ignorante, permane l'imperitura [[Truth|verità]] che nell'intimo teatro dell'[[Soul|anima]] dell'uomo, con uno scenario di infinità senza fondo e di terribili astrazioni, si sta sempre svolgendo un'antica sacra rappresentazione, in cui vi sono soltanto due personaggi.
+
+C'è un aspetto della tesi degli dèi contro i [[Ghosts|fantasmi]] che saremmo inclini a proporre al signor Andrew Lang più come domanda che come divergenza d'opinione. Sia il signor Lang sia i suoi avversari sembrano dare per scontato che la terminologia del culto degli antenati debba indicare una condizione spirituale inferiore a quella della terminologia della creazione teistica. La tesi del signor Andrew Lang, immaginiamo, è che gli uomini, inseguendo una schiera di meri eroi tribali, dimenticarono l'umile Divinità che, creando tutte le cose, era divenuta la serva di tutti. La tesi del signor Spencer e degli altri avversari del signor Lang, immaginiamo, è che il titolo di «Creatore di tutte le cose» fu infine conferito a qualche [[Hero|eroe]] ancestrale un po' come il titolo di «Fratello del Sole e della [[Moon|Luna]]» potrebbe essere conferito all'Imperatore del Giappone. In entrambi i casi si presume che i termini di paternità e di [[Procreation|procreazione]] rappresentino una superstizione tribale. Ma non è affatto impossibile che il titolo di «padre» o «procreatore» sia un titolo più alto per un creatore cosmico, anziché «creatore» essere un titolo più alto per un padre. Ciò è quanto meno avvalorato dal caso del più nobile dei riformatori religiosi. Gesù di Nazareth trovò una concezione di un creatore universale e deliberatamente gli conferì il titolo di antenato: lo chiamò «Padre Nostro», ciò che un vecchio Campbell avrebbe chiamato Diarmid o un vecchio Ebreo avrebbe chiamato Abramo. Non fu certo una degradazione: fu uno dei tre o quattro abbaglianti colpi di genio religioso che fecero di Gesù ciò che egli era. Innalzando così davanti a tutti gli uomini la vasta e generosa concezione, non di un Creatore, ma di un Generatore di tutte le cose, egli toccò con una mano la più antica e con l'altra la più recente [[philosophy|filosofia]]. Abbracciò il culto degli antenati proponendo una Divinità con un tocco di parentela. Si protese verso l'evoluzione annunciando una creazione per cause naturali. Certamente, anche trattando dell'indubbia superiorità dell'idea di un Creatore rispetto all'idea di un mero antenato, non si dovrebbe dimenticare che a un certo stadio dell'evoluzione religiosa le due posizioni si invertono; e il nome tratto da un qualsiasi comune padre di quattro bimbi diviene la più sublime di tutte le corone di Dio.
+
+C'è un solo altro difetto nell'opera del signor Lang, oltre a questa comune tendenza a prendere troppo scientificamente le fantasie fluttuanti del barbaro. Quest'ultima è del resto altrettanto tipica dei suoi avversari: il signor Herbert Spencer, in particolare, è uno scrittore ammirevole, ma bisogna dire candidamente di lui che è un pessimo selvaggio. Non ha in sé l'eterno selvaggio che è in ogni poeta: ed è ciò che lo tradisce quando arriva a trattare cose elementari e poetiche. Ma l'altro difetto del libro del signor Lang è che in realtà si tratta di due libri. Alla prima tesi, che la religione aborigena venisse da dèi creatori e non ancestrali, egli unisce la tesi del tutto distinta, anch'essa assai interessante di per sé, che le selvagge leggende di ombre e spiriti potrebbero essere assai meglio comprese se le prendessimo in relazione alle recenti ricerche psichiche. Non ci lamenteremmo se il signor Andrew Lang scrivesse due libri: anzi, gioiremmo se ne scrivesse venti. Ma non riusciamo a vedere una connessione organica sufficiente tra la tesi che i [[Ghosts|fantasmi]] possano essere spiegati dalla [[philosophy|filosofia]] moderna e la tesi che l'originaria [[philosophy|filosofia]] selvaggia non avesse nulla a che fare con i [[Ghosts|fantasmi]]. Dobbiamo però ammettere che riteniamo molto ragionevole la protesta del signor Andrew Lang contro il tono di molti scienziati verso l'indagine psichica. Lo spiritismo di per sé può essere una religione assai povera: nessuna persona veramente religiosa troverebbe un agente di cambio morto più convincente di uno vivo. Ma nessuna ragione può essere razionalmente addotta contro lo spiritismo come forma di indagine psicologica. Sono state fatte scoperte abbastanza vaste nel campo della mente da giustificare chiunque ami una scienza noiosa nel considerarla del tutto genuina. Huxley fu certo sorprendentemente illogico quando rifiutò di ascoltare messaggi dai morti in ragione della loro generale futilità, dicendo che non si sarebbe preso il disturbo «di ascoltare le conversazioni di curati e vecchie donne nella più vicina città con [[Cathedral|cattedrale]]». La risposta è quasi lampante nella sua ovvietà. Per quanto basso possa essere il livello mentale di una città con [[Cathedral|cattedrale]], difficilmente può essere più basso di quello del mondo animale, che Huxley trascorse la vita a studiare: perfino un curato è probabilmente più arguto di una medusa; e una vecchia donna sarebbe probabilmente più feconda di informazioni di un'ameba attempata. La ragione per cui Huxley studiava quelle creature senza cervello era che erano cose da studiare, e, da vero uomo di scienza, egli né sapeva né si curava di dove l'indagine lo avrebbe infine condotto. Perché lo stesso procedimento non debba applicarsi ai fenomeni psichici, non riusciamo a concepirlo. È vero che, per quanto noi stessi ne sappiamo (o ce ne importi), nessuna prova di influssi puramente spettrali è ancora stata trovata in questo campo. Ma nessun uomo onesto può negare che la vecchia ipotesi del buon senso sia stata sconvolta dall'ipnotismo e dalla suggestione tanto quanto potrebbe esserlo da mille spettri. Se a un qualsiasi razionalista dell'[[Dawn|alba]] del secolo si fosse chiesto di credere che un ipnotizzatore, pensando intensamente a un altro uomo, potesse produrgli una vescica sulla gamba, egli avrebbe risposto immediatamente che tanto varrebbe credere di colpo al [[Ghost|fantasma]] di [[Banquo]].
 
 
 
@@ -6357,6 +6524,26 @@ to his whole work he describes himself as taking the kingdom
 of mystery, like the Kingdom of Heaven, by [[Storm|storm]]:-
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Se questa veduta è corretta e il bene universale è essenzialmente una cosa nuova e senza nome, possiamo spiegare facilmente le diverse e contraddittorie definizioni del bene che gli amici del signor Dickinson danno a turno. Un uomo trova il bene nella scienza, e dice perciò che la bontà è una scienza; un altro lo trova negli istinti, e dice perciò che la bontà è un istinto. Se un uomo non potesse ricordare proprio nulla se non un elefante ammaestrato che gli avesse salvato la vita, direbbe che la bontà è un elefante. E così è, tra le altre cose.
+
+Il signor Lowes Dickinson espone tutti i vari punti di vista con cospicua eloquenza e giustezza. Se c'è un punto che saremmo inclini a criticare, è la sua censura di Walt Whitman, quando lo cita come esempio dell'insostenibile ottimismo che pareggia tutte le cose. Walt Whitman è stato singolarmente frainteso su questo punto. Certo nessuno immagina che egli pensasse davvero che tutte le distinzioni fossero prive di senso, che bevesse caffè e arsenico in oziosa alternanza, e andasse a coricarsi sul [[Fire|fuoco]] della cucina come alternativa al suo letto. Ciò che egli disse e intese fu che c'era un piano su cui tutte le cose erano uguali, un punto dal quale ogni cosa era identica, il punto di vista dell'insondabile [[Wonder|meraviglia]] dinanzi all'energia dell'Essere, la potenza di Dio. Non c'è alcuna incoerenza nel disporre le cose in ordine ascendente sul piano pratico e nel pareggiarle sul piano religioso.
+
+Possiamo prendere un parallelo familiare. Non c'è nulla di incoerente nel dire «Per ciò che stiamo per ricevere renda il Signore noi veramente grati» e poi lamentarsi che lo champagne sappia di tappo o che il montone sia crudo. Esiste una cosa quale una cattiva cena e una cosa quale una buona, e la critica è del tutto giustificata nel paragonare l'una con l'altra: ma resta vero che entrambe divengono buone nel momento in cui le confrontiamo con l'ipotesi di nessuna cena affatto. Così era per Whitman: le vite buone e le vite cattive divenivano per lui uguali in rapporto all'ipotesi di nessuna vita affatto. Un uomo, poniamo un soldato della Confederazione del Sud, veniva considerato come uomo, un miracolo che inghiottiva tutte le distinzioni morali, nel regno della religione. Ma nel regno della critica, altrimenti detto la Battaglia di Gettysburg, Whitman si sarebbe sforzato con ogni fibra di fare a mille pezzi quell'uomo.
+
+[[Hope|Speriamo]] di sentire ancora parlare l'autore di The Greek View of Life. Riteniamo il presente volume singolarmente buono e, come abbiamo spiegato più sopra, nutriamo l'arrogante convinzione di conoscere il Significato del Bene.
+
+G.K.C.
+
+I nostri Folletti Inglesi
+
+--23 febbraio 1901, The Speaker
+
+Ballads Of Ghostly Shires. Di George Bartram. [[London|Londra]]: Greening.
+
+In un remoto e appartato angolo dell'Impero britannico, assai trascurato dallo studioso dell'Impero, c'è una piccola isola, o piuttosto penisola, che ha a suo modo contribuito qualcosa perfino alla [[Greatness|grandezza]] dell'espansione coloniale, e alla quale, malgrado la sua insignificanza, i suoi stessi abitanti sono profondamente e misteriosamente attaccati. Questo piccolo avamposto (che i suoi abitatori chiamano Inghilterra) è stato trascurato in modo quasi incredibile in fatto di studio poetico. Una fazione di poeti moderni, sotto la guida del signor W. B. Yeats, fa rivivere la poesia dei popoli piccoli e infelici, come gli Irlandesi e i Bretoni, e si pavoneggia delle loro sventure e del loro asservimento finché chiunque abbia un voto o una rendita comincia a sentirsi del tutto avvilito. L'altra fazione, sotto la guida del signor Rudyard Kipling, pare trovare la vita inglese tollerabile solo in continenti remoti e curiosi, esulta della loro flora e fauna e parrebbe quasi attribuire all'Impero britannico l'umoristica impresa di aver creato il canguro. Tra questi due estremi la leggenda inglese e il colore locale sembrerebbero interamente trascurati, ed è per questa ragione che salutiamo col più grande piacere le Ballads of Ghostly Shires del signor George Bartram, nelle quali egli compie un tentativo virile e animoso di edificare di nuovo sulle antiche fondamenta della ballata e del racconto campagnolo inglese, e più specialmente su quelli legati al [[Supernatural|soprannaturale]]. Non è questa la prima forma in cui il signor George Bartram ha tentato questa saggia e assai necessaria opera di genuino patriottismo: serbiamo un piacevole ricordo di quel bizzarro e vigoroso racconto della vecchia vita rustica, The People of Clopton. Ma è in rapporto alla [[Fable|favola]] piuttosto che alla [[Truth|verità]] che sussiste il bisogno principale, poiché l'errore sembra più vicino alla terra e al [[Blood|sangue]] della nazionalità di quanto lo siano i fatti. Le nazioni possono tranquillamente importare intere filosofie e costituzioni, come tanto tè o tabacco; ma va male per un popolo che debba importare la propria superstizione. I giustamente esultanti scopritori del sapere celtico dicono che gli Inglesi non hanno un bel folclore. Sarà pure la nostra parzialità inglese, ma ci pare che questo significhi soltanto che non hanno alcun folclore simile a quello celtico. In fondo alla poesia e alla mitologia irlandese c'è una fame infinita di [[Beauty|bellezza]] e di riposo: lo spirito irlandese lavora eternamente a districare dalla corda della vita l'unico filo azzurro, come il filo nella veste del sacerdote ebraico, che rappresenta l'eterno e il compiuto. Questa è una grande [[Truth|verità]] morale, e ha prodotto il nobile folclore della [[Rose|Rosa]] Segreta e del Paese dei Giovani. Ma non è l'unico filo splendido ed eterno nella corda della vita; attraverso quella corda corre eternamente un filo del [[Grotesque|grottesco]], la fiera e umoristica energia che è nelle cose, la sfrontata e sana bruttezza del [[Courage|coraggio]] e dell'esperienza. È questa esuberante torsione o nodosità nel legno la nostra specialità inglese, ed essa conferisce a «[[Robin Hood]] e lo Sceriffo di Nottingham» un carattere filosofico altrettanto definito di quanto la sete di perfezione ne conferisca alle leggende del Gaelo. È questo spirito, lo spirito di Robin Goodfellow, che il signor George Bartram incarna finemente in queste ballate. «How the Youth was cured of his Mazedness» è un geniale intermezzo umano. Con un certo rozzo universalismo che sa di vecchia Inghilterra fin nelle ossa, egli accetta la grotteschezza del mondo, perfino nelle sue tragedie, forche, randelli, crani spaccati, e gli uomini impiccati vengono ingoiati con l'appetito di un gigante: ma il sentimento non è un [[Love|amore]] della [[Death|morte]], bensì un [[Love|amore]] della vita; non è crudele, è piuttosto una sorta di temeraria bontà. Stevenson aveva questa amichevole ferocia e i nevrotici non l'hanno mai compresa. È molto significativo che il signor Bartram si accosti al mondo [[Supernatural|soprannaturale]] con un tono e uno spirito assai diversi da quelli con cui vi si accosta il mistico medio. In una poesia difettosa ma animosa, che si potrebbe chiamare un'introduzione a tutta la sua opera, egli descrive se stesso mentre prende il regno del mistero, come il Regno dei Cieli, con la [[Storm|tempesta]]:-
+
 
 
 <span class="atom-split" data-atom="part--part_19" data-title="The Speaker (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
@@ -6472,6 +6659,32 @@ some individuals, indeed, push the matter so far as to wear several hats;
 which may be taken as an expression of almost exaggerated reverence
 for the universe.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Hanno rifuggito il nudo acciaio; abbiamo disperso ovunque la loro vedetta:
+c'è luce di traverso al sentiero; ecco, la porta è a portata di mano.
+In una lotta breve e aspra siamo balzati fuori dalla macchia verso
+un flutto di roseo splendore inarcato da una volta di cipressi. Abbiamo forzato
+il cancelletto dorato: siamo signori della Terra dell'Incanto.»
+
+L'idea di colonizzare il Paese delle Fate potrà sembrare ad alcuni segnata da certi tra i più sciocchi tratti inglesi. Ma confessiamo di avere molta simpatia per l'idea che non vi sia, tutto sommato, alcuna probabilità che esista un qualche distretto del mondo materiale o spirituale in cui un uomo se la cavi meglio gettando via la propria forza naturale e le proprie virtù nazionali. Alcuni tra i decadenti più mistici hanno talvolta teso a esibire il Paese delle Fate come una sorta di Botany Bay, in cui i rifiuti morali dell'umanità avrebbero le migliori probabilità. Il verso del signor Bartram sarà pure troppo rozzo e bellicoso, ma gli siamo grati per aver suggerito, consapevolmente o inconsapevolmente, che è almeno sostenibile che l'ingresso al mondo della [[Wonder|meraviglia]] non sia un buco della serratura attraverso cui solo il più sottile può passare, ma un muro che solo il più forte può scavalcare. A ogni modo, [[Hope|speriamo]] che l'entusiasmo del signor Bartram per gli [[Ghosts|spettri]] inglesi sia contagioso. Non che ci importi un fico del [[Supernatural|soprannaturale]]: ma sappiamo che nella [[history|storia]], e specialmente nella letteratura, è solo la vita [[Supernatural|soprannaturale]] a indurre gli uomini a studiare e ad apprezzare il naturale. Non [[Desire|desideriamo]] suscitare un generale timore e riverenza per gli [[Ghosts|spettri]] delle rape, ma [[Desire|desideriamo]] davvero suscitare un generale timore e riverenza per le rape.
+
+--G.K.C.
+
+«La [[morality|Morale]] del Cappello» 2 marzo 1901, The Speaker
+
+Ci fu un [[Time|tempo]] in cui noi (come la maggior parte delle persone mal vestite) eravamo riformatori dell'abbigliamento: avevamo, in verità, parecchie proposte a favore delle quali poco si può addurre se non la loro originalità. Pensavamo che il panciotto dell'abito da mattina potesse essere costruito con una sorta di risvolto che ricadesse a forma di vassoio per sostenere la tazza al tè pomeridiano. Pensavamo che, alle inaugurazioni private e ad altre occasioni così clamorosamente pubbliche, l'uomo alla moda potesse portare al collo una semplice e non sgraziata targhetta con l'iscrizione «Chiedo scusa. È una bella giornata», per risparmiargli la fatica di rivolgersi a tutte le stimate conoscenze sui cui piedi aveva pestato. Ma poiché entrambi questi giovanili ideali furono accolti alquanto freddamente (dagli aristocratici tra i quali ci muoviamo) siamo ripiegati piuttosto sulla contemplazione storica e conservatrice delle cose così come si sono effettivamente sviluppate. E qui, come in ogni altro campo che abbiamo studiato, abbiamo scoperto che i Radicali come noi sono le uniche persone rimaste ad avere una qualche riverenza per il passato.
+
+Abbiamo concentrato le nostre anime sul cappello: la più alta, la più santa delle questioni: poiché il giurare sul proprio capo non era forse, in innumerevoli paesi, quasi un giuramento religioso? Ma la particolare funzione cerimoniale che il cappello adempie nei paesi occidentali è alquanto singolare.
+
+Naturalmente questo uso del cappello come saluto ha, nella vita moderna, un'ovvia comodità pratica. Non c'è altra parte dell'abbigliamento che possa essere usata come si usa una [[Sword|spada]] o una baionetta nel saluto militare. I Francesi, con il loro genio per un rituale naturale, hanno espresso con precisione la cosa parlando di un coup de chapeau. La mente umana non può seriamente immaginare un gentiluomo che si toglie i polsini davanti a una dama, o che si ferma in mezzo alla strada per staccarsi la cravatta e agitarla rispettosamente nell'aria. Nemmeno i Francesi vorrebbero che qualcuno salutasse il vicino con «un colpo di panciotto». Ma tutta questa concentrazione di cortesia nel cappello è solo un accidente locale dell'abbigliamento: altre razze di uomini hanno realmente espresso rispetto rimuovendo altre appendici. In Oriente, per esempio, ci si tolgono le scarpe come espressione di riverenza: e questo è davvero tanto strano per le nostre concezioni quanto quelli che abbiamo menzionato. Basta immaginare in che stato sarebbe Bond Street se ogni [[Time|volta]] che un gentiluomo incontra una dama si sedesse sul marciapiede e cominciasse a slacciarsi gli stivali.
+
+L'Oriente e l'Occidente sembrano condannati a essere l'uno per l'altro mondi alla rovescia, e questo è solo uno dei mille simboli del fatto che in un caso il copricapo è immobile e la calzatura di continuo mutata, e nell'altro il copricapo è di continuo mutato e la calzatura immobile. Ma l'intera faccenda va assai più a fondo di così. L'usanza orientale di togliersi le scarpe entrando in una [[house|casa]] o in un tempio ha un ovvio significato pratico. L'usanza occidentale di togliersi il cappello può soltanto, a nostro avviso, avere un significato interamente filosofico, astratto e religioso.
+
+Il significato del togliersi le scarpe è chiaro: è preservare la [[house|casa]] dalle contaminazioni della strada. Ma nessuno può supporre che un visitatore possa contaminare qualcosa col proprio cappello. È insolito vedere un gentiluomo che si strofina la testa sulla [[Road|strada]] prima di entrare in una [[house|casa]] o che si strofina il cappello sul tappeto dopo esservi entrato. Se tali usanze esistono, sono quantomeno sviluppi assai recenti della moda della «familiarità». Ci sembra che l'intera questione del cappello appartenga (usiamo l'espressione senza alcuna bassa intenzione) a un livello più alto.
+
+Non è solo vero che molte civiltà orientali non si tolgono il cappello in segno di rispetto. Una delle più grandi, per esempio, la civiltà ebraica, indossa il cappello in segno di rispetto. E questa, a ben pensarci, è un'idea assai naturale e assai bella. Nascondere il volto, coprirsi dal terrore della perfezione, sembra il movimento naturale della subordinazione di [[Self|sé]]. E se l'aspetto effettivo offerto da una sinagoga, dove tutti i fedeli portano il «tubo di stufa» di seta nera, non è poetico, ciò non è certo colpa dell'idea semitica, ma del cappello ariano. A ogni modo, ai fini del nostro ragionamento basta far notare che questo grande popolo collega davvero il culto al portare il cappello: alcuni individui, anzi, spingono la cosa al punto di indossare parecchi cappelli; il che si può interpretare come espressione di una riverenza quasi esagerata per l'universo.
 
 
 
@@ -6606,6 +6819,26 @@ in such a daring, simple, and unfathomable sentence as
 "If I were hungry, I would not tell thee."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Se, per l'operare di altre cause, ci è divenuto naturale scoprirci il capo davanti a qualunque cosa o persona che rispettiamo, le cause di questa differenza nell'istinto della cortesia non possono non essere interessanti da considerare, per quanto sarebbe probabilmente vano esplorarle fino in fondo. Ma si può almeno suggerire che la riverenza sia in ogni caso composta dei due elementi del [[Fear|timore]] e della fiducia. Gli antichi Ebrei avevano l'elemento del [[Fear|timore]] appena sfumato e reso drammatico da un tocco di fiducia. Il mondo moderno ha avuto, attraverso il [[Christianity|Cristianesimo]], l'elemento della fiducia appena sfumato e reso drammatico da un tocco di [[Fear|timore]]. Il grande pericolo della vita della nostra epoca è che, perdendo quell'unico tocco di [[Fear|timore]] in tutti i suoi piaceri, essa possa perdere l'intera struttura della felicità, come un palazzo delle Mille e una notte. Ma questo nuovo elemento, cristiano, di fiducia nella [[Beauty|bellezza]] delle cose, anziché di [[Fear|timore]] di essa, è destinato ad avere un rituale adatto. È nella sua [[Nature|natura]], nella sua forma più alta, [[Love|amare]] la [[Beauty|bellezza]] del fulmine tanto quanto gli antichi temevano la [[Beauty|bellezza]] dei [[Flowers|fiori]]. È possibile, dunque, che questo generale istinto della civiltà moderna a scoprirsi il capo alla presenza della cosa sacra sia un istinto verso la semplicità e l'esposizione di [[Self|sé]], una forma modificata, per così dire, dell'essere «nudi e non vergognarsi». Il moderno cappello nero è tutto impregnato del senso di riparo, protezione e privilegio; è esso stesso una sorta di tetto portatile. Se è vero che la [[house|casa]] dell'inglese è il suo [[Castle|castello]], è almeno altrettanto vero che il cappello dell'inglese è la sua [[house|casa]]. Non invano lo chiamano cappello a «tubo di stufa»; lo stesso bell'oggetto che si leva verso le [[Stars|stelle]] sulla sommità della [[house|casa]] borghese viene portato, nella sua forma più leggera e simbolica, sulla sommità del capo borghese. Ci pare almeno possibile che, quando un inglese si toglie il cappello davanti a una dama, egli in sostanza esca dalla propria [[house|casa]]; quella [[house|casa]] impenetrabile di riservatezza, di compiacimento di [[Self|sé]] e di divorante [[Fear|timore]] dell'umanità. Egli crede, sia pure per un solo istante, di poter essere incoronato dalle [[Stars|stelle]].
+
+G. K. C.
+
+Ebrei vecchi e nuovi
+
+--2 marzo 1901, The Speaker
+
+The Ancient Scriptures And The Modern Jew. Di David Baron. [[London|Londra]]: Hodder and Stoughton.
+
+È certo un fatto singolare che quanto più una materia è misteriosa, tanto più è popolare presso la massa dell'umanità: questo fatto è forse la radice delle religioni ed è a ogni modo cosa assai gradevole. I puri fatti concreti, che chiunque potrebbe accertare dandosene la pena, come il numero dei proclami di Lord Roberts o il numero dei lampioni nella Borough [[Road]], vengono trattati con un terrore e un rispetto semi-mistici, quali prerogative di un sacerdozio di specialisti. Ma le cose che sono in sé imperscrutabili e incommensurabili — tanto enigmatiche in un uovo sodo quanto in una roccia dell'Eocene, in un manifesto dello Star quanto in una fila di geroglifici egizi — in queste ognuno si sente a [[Home|casa]] propria. La categoria di libri più a buon mercato, più numerosa, più personale e frivola è probabilmente quella che tratta della [[Bible|Bibbia]], la più tremenda delle opere sul più tremendo dei soggetti. Quanto più grande è il libro, tanto più l'uomo comune si sente capace di curarne l'edizione. Colui che sforna ogni mese un opuscoletto su Daniele o su Saul sarebbe in imbarazzo se gli si chiedesse di interpretare Spenser, del tutto sconcertato se gli si chiedesse di interpretare Maeterlinck, e colpito da puro strisciante terrore se gli si chiedesse di interpretare il signor Stephen Phillips. Così il signor David Baron ha scritto un libro interessante intitolato The Ancient Scriptures and the Modern Jew, nel corso del quale non pare mai sfiorarlo per un istante il pensiero di avere a che fare con un [[Riddle|enigma]] di etica e di [[history|storia]] al cui confronto la quadratura del cerchio sarebbe una banalità; che se c'è una cosa più oscura e remota per noi delle stesse Antiche Scritture, questa cosa è l'Ebreo Moderno.
+
+Non pare mai rendersi conto, neppure per un solo abbagliante istante, dell'idea che un blando gentiluomo ariano in nero, seduto in poltrona con un credo formulato alla [[Reformation|Riforma]] e un sistema politico annacquato dalle idee del 1740, possa forse non essere in pieno possesso di tutte le abissali divisioni spirituali e le eterne energie spirituali che [[Alone|sole]] potrebbero gettare finalmente luce sul destino di un popolo immemorabile, le cui strane scoperte nel mondo dell'[[Soul|anima]], scoperte incastonate intere e spesso indecifrate nei nostri sistemi più tardi, furono compiute sotto strane [[Stars|stelle]] e templi perduti, estranee quanto i paesaggi di un altro pianeta.
+
+La prima parte dell'opera del signor Baron tratta degli antichi scritti, sui quali egli argomenta con sufficiente ingegno, ma a proposito dei quali trascura due piccoli punti: primo, che sono antichi, e, secondo, che sono scritti. Un uomo non può comprendere neppure la forma e il linguaggio dei Salmi senza un senso letterario. Poiché quali sono i fatti essenziali? Un grande popolo, per quanto rozzo ed errante, visse migliaia di anni fa e ebbe, per ciò che, da qualunque punto di vista, si può veramente chiamare un'ispirazione, un'improvvisa e sconvolgente intuizione di un'enorme [[Truth|verità]] filosofica. Questi Beduini assetati di sangue colsero l'ultima parola del pensiero scientifico, l'[[unity|unità]] del creato. Opulenti imperi e brillanti repubbliche tutt'intorno a loro erano ancora nelle reti del politeismo; ma questa banda di fuorilegge ne sapeva di più. Questa è l'[[Immortality|immortalità]] degli Ebrei. Loro non potremo mai detronizzare: scoprirono l'unica cosa centrale che nessun uomo moderno può fare a meno di credere: qualunque cosa pensiamo, o facciamo, o diciamo, siamo tutti legati alla [[Wheel|ruota]] delle [[Stars|stelle]], che non può avere che un unico centro.
+
+Questa tremenda semplificazione delle cose essi la scoprirono, come da allora l'hanno scoperta innumerevoli saggi. Ma il loro unico interesse storico sta in questo: che, per una strana circostanza, che ha ogni sembianza di un miracolo, la scoprirono nel mattino del mondo, in un'epoca in cui gli uomini non avevano né avevano bisogno di un linguaggio filosofico. Perciò la riversarono in linguaggio poetico. Parlarono di questa sorprendente teoria speculativa con le stesse immagini ardite, vivaci e dai colori schietti con cui le ballate primitive parlano comunemente di guerra e di caccia, di donne e d'oro. Se immaginiamo la [[philosophy|filosofia]] di Spinoza scritta con enorme vividezza nello stile letterario di «Chevy Chace», avremo qualche idea di quella sconcertante meraviglia che si chiama Antico Testamento. Ma il signor Baron, nel tentare una valutazione del rapporto degli Ebrei con l'Antico Testamento, è interessato unicamente al lato teologico e dogmatico della faccenda. Non pare rendersi conto che la [[Bible|Bibbia]] è un libro piuttosto bello. Egli affronta l'interesse centrale di tutta la questione, il graduale emergere (in Giobbe e nei Profeti) di questo [[Sublime|sublime]] monismo da un credo tribale e ancora sotto le forme letterarie di un poema tribale: ma non pare vederlo. Egli pensa, come tutti i dogmatici convenzionali, che una frase o due nello stile del Daily Telegraph «chiariranno» lo stile delle Scritture, che è schietto quanto una filastrocca. Suppone davvero che dire che Dio non è «tenuto» a un «sacrificio animale» contenga tutto ciò che è contenuto in una frase tanto ardita, semplice e insondabile come «Se avessi fame, non lo direi a te».
+
 
 
 <span class="atom-split" data-atom="part--part_21" data-title="The Speaker (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
@@ -6720,6 +6953,68 @@ frivolous Continental anti-Semitism which can find no answer
 to Jewish triumphs, except to flourish tauntingly the image
 of a martyred Jew upon an Aryan gibbet.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un altro curioso esempio di argomentazione facile dovuta a una comprensione insufficiente dello spirito della questione in discussione si trova negli argomenti del signor Baron a favore di un secondo Avvento vitalmente diverso dal primo. Questo non è il luogo, né siamo noi gli arbitri, per la decisione di tale questione nel suo aspetto religioso. Ma gli argomenti particolari del signor Baron mostrano, nell'aspetto letterario, un singolare fallimento nel cogliere la [[Nature|natura]] dell'espressione ebraica. Egli sostiene che, poiché ci sono profezie che si riferiscono a un liberatore venuto "in gloria", così come quelle che si riferiscono a un liberatore venuto in semplicità, deve esserci un'altra apparizione del Divino oltre all'apparizione storica di Gesù. Mai ci fu una interpretazione così irrazionale o, possiamo aggiungere, così comune del tono delle dichiarazioni di [[Christ|Cristo]]. L'idea che [[Christ|Cristo]] non agisse e parlasse invariabilmente "in gloria" è semplicemente un segno di essere incapaci di leggere. Egli camminò sempre con la piena gloria della vita eroica; le Sue abitudini erano felici e liberali; il Suo spirito era elevato ed eloquente; la Sua stessa immaginazione letteraria era (sebbene nessuno sembri vederlo) ampia e impetuosa, piena di diavoli che cadono dal cielo e [[Mountains|montagne]] gettate in mare. Il signor Baron pensa davvero che sarebbe stato più "glorioso" se Si fosse seduto su una [[Hill|collina]] e avesse agitato uno scettro? Non c'era mai nulla di ignominioso nel Figlio dell'uomo. Egli morì sulla [[Cross|Croce]]; ma non nacque su di essa, come alcuni teologi sembrano voler implicare.
+
+La seconda parte del lavoro di Mr. Baron, quella che tratta
+del moderno ebreo, è infinitamente più soddisfacente.
+Sarebbe assolutamente ingiusto nei confronti di Mr. Baron dire che ciò
+dipende dal fatto che contiene due articoli molto interessanti
+contribuiti da altre persone, poiché i suoi stessi commenti sul problema semitico
+di oggi sono genuinamente buoni in sé.
+Ma ha certamente chiarito il problema non poco
+aggiungendo due capitoli tra virgolette, uno di un
+ebreo distinto e l'altro di un cristiano altrettanto distinto.
+L'ebreo moderno è impopolare in Europa, ma principalmente, [[Fear|temiamo]],
+per le sue virtù. Nessuno che non abbia il piacere dell'[[Friendship|amicizia]]
+di qualche ebreo ha notato quella quasi strana domesticità,
+quella terribile contentezza che rende la vita del salotto
+e della nursery assolutamente soddisfacente per un ebreo di quel calibro di spirito
+e intelletto che, se fosse un gentile, lo spingerebbe a "vedere la vita" come una necessità divorante.
+
+È questa formidabile normalità che costituisce il vero potere degli ebrei. È la [[Survival|sopravvivenza]] della semplificazione accecante dell'esistenza di cui abbiamo parlato. Non è un semplice caso se l'ebreo più brillante di questo secolo è il dottor Max Nordau, un uomo con cui, per usare un paradosso, la [[Sanity|sanità]] mentale si è trasformata in una [[Madness|pazzia]]. Egli non risparmia nulla nell'applicazione della religione del buon senso, quella legge che è scritta nelle ossa degli uomini. Né la durezza di Tolstoi né la fragilità di Maeterlinck; né la semplicità amara di Ibsen né la gloria ubriacante di Whitman possono distogliere questo vecchio ebreo dallo stretto sentiero del giudizio. Il dottor Max Nordau, nel passaggio citato dal signor Baron, parla con splendido disprezzo dei decadenti anche della sua stessa razza - e i decadenti della sua stessa razza sono, secondo lui, i milionari ebrei. Di certo nessun gentile oserebbe parlare di loro come fa un ebreo.
+
+"Questi politici di denaro che disprezzano ciò che noi [[Honour|onoriamo]] e [[Honour|onorano]] ciò che noi disprezziamo.
+Molti di loro abbandonano l'ebraismo e noi auguriamo loro buona fortuna, rammaricandoci solo
+che abbiano in sé [[Blood|sangue]] ebraico, anche se soltanto nelle sue scorie."
+
+In relazione alla questione della terribile e indelebile [[Sanity|sanità]] mentale del popolo ebraico che ci colpisce soprattutto, dobbiamo protestare contro alcune delle osservazioni dell'esperto cristiano di Mr. Baron, il signor C. A. Schonberger, riguardo allo spirito della Legge ebraica.
+Per sostenere una particolare dottrina evangelica (con la quale, naturalmente, non abbiamo nulla a che fare) il signor Schonberger dice:
+
+"Non fu data per la vita, ma per la [[Death|morte]], per portare le persone alla [[Despair|disperazione]] riguardo alla depravazione della loro [[Nature|natura]] morale. In una parola, fu data affinché il cuore si spezzasse e non affinché diventasse orgoglioso."
+
+Possiamo solo dire che non è l'impressione lasciata su un uomo razionale
+dall'Antico Testamento. "La legge del Signore è giusta,
+rallegrando il cuore!"--"Il mio diletto sono i tuoi statuti"; crediamo di poter sommergere il signor Schonberger con citazioni tratte semplicemente dalla [[Memory|memoria]]. La [[Truth|verità]] è che la stessa [[Soul|anima]] delle Scritture ebraiche
+è in questa idea dell'estasi della pulizia e dell'obbedienza;
+l'idea che se un uomo una volta si mette sulla strada giusta può [[Dance|danzare]]
+lungo di essa fino alla fine.
+
+C'è una lezione che resta da trarre, più specialmente  
+dal caso di quei plutocrati semiti di cui il dottor Max Nordau  
+parla con tanto disprezzo: -
+
+"Una normale comunità ebraica indipendente", dice con sarcasmo acuto ma giusto, "non accetterebbe titoli di [[Honour|onore]] come quelli con cui le società cristiane la decorano".
+
+Ma la vera lezione del problema ebraico plutocratico ci sembra semplice,
+e molto necessaria al momento attuale.
+È la lezione dell'assoluta inutilità di tentare di schiacciare una razza nobile.
+Nella scienza gli uomini sanno che nessuna forza viene mai distrutta;
+ma questo fatto deve ancora essere appreso nella politica. Ci sono
+mille cose che un popolo offeso può diventare: un rivale,
+come [[america|l'America]]; un ostacolo, come l'Irlanda; una malattia interna,
+come il commercio ebraico; ma diventa sempre qualcosa.
+Abbiamo proibito agli Ebrei tutte le professioni naturali tranne il commercio,
+e oggi il commercio è ciò che ci si poteva aspettare dal fatto
+di essere costantemente rifornito dai figli più intellettuali
+di un popolo molto intellettuale. Pregavamo che l'errore
+non fosse ripetuto in certi angoli della terra.
+Evitare una sua ripetizione sarebbe di gran lunga più degno di quel
+frivolo antisemitismo continentale che non trova risposta
+ai trionfi ebrei, se non quella di agitare schernitoriamente l'immagine
+di un ebreo martirizzato su una forca ariana.
 
 
 
@@ -7144,7 +7439,7 @@ Queste due forme di [[Melancholy|malinconia]] coprono abbastanza [[Well|bene]] l
 
 G. K. C.
 
-Come Non Farlo
+Come non farlo
 
 23 marzo 1901, The Speaker
 
@@ -8573,3 +8868,104 @@ _____________________
 
 * "The Original Poem of Job."  Translated from the Restored Text
 by E. T. Dillon.  [[London]]:  Fisher Unwin, 5s.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I libri esistono per suscitare emozioni: se non siamo commossi da essi,
+praticamente non li abbiamo letti. Se un vero libro
+non ci ha toccati, tanto vale che non avessimo [[Well|toccato]] il libro.
+In letteratura essere impassibili equivale semplicemente a essere analfabeti.
+Essere disinteressati equivale semplicemente a essere indifferenti.
+Lo scopo di un libro sui comete è naturalmente quello di farci
+sentire tutti come comete; ma lo scopo di una poesia su guerrieri
+è farci sentire tutti come guerrieri. Non è solo
+vero che il metodo giusto per uno può essere il metodo sbagliato
+per l'altro; deve essere il metodo sbagliato per l'altro.
+Un critico che adotta una visione scientifica del Libro di Giobbe è esattamente
+come un chirurgo che dovesse adottare una visione poetica dell'appendicite:
+è semplicemente un vecchio confuso.
+
+Si dice, naturalmente, che questa qualità scientifica si applichi solo ai fatti reali, che sono di competenza della scienza. Ma quali sono i fatti reali? Ci sono pochissimi fatti relativi a un'opera letteraria che siano veramente del tutto estranei al tatto e alla comprensione letteraria. La scienza può dire che certe parole si trovano su un pezzo di pergamena in un certo ordine. Se in quell'ordine hanno senso o sono insensate solo la letteratura può dirlo. La scienza può dire che in un altro luogo (ad esempio, su un mattone) le stesse parole si trovano in un altro ordine. Se è un ordine più probabile solo la letteratura può dirlo. La scienza può dire che su due mattoni c'è la stessa frase. Se è il tipo di frase che un uomo scriverebbe su due mattoni, o se per caso due uomini l'hanno scritta sui rispettivi mattoni, solo la letteratura può dirlo. Prendiamo un esempio dall'interessante introduzione del professor Dillon. Riferendosi a una controversia tra gli studiosi sulla possibile influenza su un poeta ebraico sconosciuto di altri scrittori ebrei, egli dice: «Da un lato è indubbiamente possibile che le parole:
+
+«Sei tu forse l'uomo primogenito? O sei stato generato prima ancora delle colline?»
+
+"erano suggerite dai versi nei Proverbi: 'Prima che fossero formati i [[Mountains|monti]],
+prima delle colline, io fui generata'."
+Naturalmente è possibile, ma non riesco a capire (per un senso letterario comune) perché sia anche solo minimamente probabile.
+Certamente due persone indipendenti o duecento persone indipendenti potrebbero usare una frase così naturale come quella che una cosa era più vecchia delle colline.  Potremmo altrettanto [[Well|bene]] legare insieme in [[Chains|catene]] di plagio tutte le persone che hanno mai detto che una cosa brillava come il sole o fioriva e appassiva come un fiore.
+A parte l'uso delle colline (quegli oggetti rari) e del fatto di essere generati (quel processo insolito e patologico), i due passaggi non sono affatto simili nello spirito o nell'ispirazione,
+perché il passaggio nei Proverbi (se lo ricordo bene) è un escursus astratto, mistico, il cui punto è che un Logos o idea precedeva tutti i fenomeni fisici, mentre il passaggio in Giobbe
+è semplicemente uno scherzo acuto e selvaggio, il cui punto è che l'uomo è un fungo assai poco importante sulla faccia della terra.
+Nessun poeta prenderebbe naturalmente una cosa da uno per usarla nell'altro:
+ma allora sentire questo è semplicemente questione di sentimento poetico
+e la scienza non serve a nulla in proposito più che l'orticultura.
+La scienza può solo dire che viene usata la stessa parola ebraica;
+ma se la parola sia comune, o naturale, o forzata,
+o affettata, o inevitabile è una questione di pura letteratura;
+ed è tutta la questione in discussione.  Il Critico Superiore,
+in quanto tale, può solo vedere che le parole sono le stesse; cioè,
+può solo vedere ciò che potrebbe vedere un [[Child|bambino]].
+
+Non si pensi che l'opera del professor Dillon sia così debole; egli fa molte sagge proposte e correzioni. Ma quando sono interamente sagge, sono anche letterarie e completamente indimostrabili. Per fare un esempio su molti, alla fine di quel nobile capitolo nichilista tre, in cui Giobbe maledice il suo giorno, che è infatti il punto più sublime del [[suicide|suicidio]], la vetta stessa e l'imperiale [[Crown|corona]] della codardia, Giobbe dice nella versione autorizzata: "Perché i miei sospiri vengono prima che io mangi e le mie grida sono rovesciate come le acque." Questo è evidentemente un'estremamente letteraria e ingegnosa resa da parte dei traduttori originali di un passaggio del quale non potevano fare testa o coda. Secondo la versione successiva il significato è più semplice e forte e più nel modo della buona poesia primitiva. Nel libro del professor Dillon si legge "Perché sospirare è diventato il mio pane, e piangere per me è come [[Water|acqua]]." Questo ha tutta l'energia elementare della frase primordiale; sarebbe difficile esprimere con più immediatezza quale sia la parte peggiore del [[Pain|dolore]] o della calamità, il fatto che la cosa anormale diventi normale, il disastro diventi una routine. Possiamo tutti sopportare la catastrofe finché è catastrofica; è esasperante nel momento in cui diventa ordinata.
+
+In un certo senso questa piccola questione esprime l'intero libro di Giobbe.
+Il professor Dillon analizza [[Well|bene]] l'idea principale e ovvia che si tratti di una protesta contro quell'ottimismo meschino che vede
+nella [[Suffering|sofferenza]] un segno del peccato. Ma non riesce, credo, a penetrare fino al punto più profondo e ultimo di "Giobbe", che è il vero
+segreto e la [[Hope|speranza]] della vita umana, qualcosa di molto più oscuro
+e bello di quanto sarebbe se la [[Suffering|sofferenza]] fosse un segno del peccato.
+Un semplice schema di ricompense e punizioni sarebbe qualcosa di molto più meschino
+e meccanico rispetto a questa nostra vita esasperante e stimolante.
+Uno schema automatico di Karma, o "raccogliere ciò che si semina", sarebbe
+altrettanto grossolano e materiale come seminare fagioli o raccogliere orzo.
+Potrebbe soddisfare meccanici o monisti moderni, teosofi,
+o finanziatori cauti, ma non uomini coraggiosi. Non è un [[Paradox|paradosso]] dire
+che l'unica cosa che renderebbe la [[Suffering|sofferenza]] intollerabile sarebbe
+il pensiero che sia inflitta sistematicamente ai peccatori.
+L'unica cosa che renderebbe la nostra agonia infame sarebbe l'idea
+che sia meritata. D'altra parte, la dottrina che la rende più sopportabile è esattamente quella opposta, che la vita è
+una battaglia in cui i migliori mettono il proprio corpo in prima linea, in cui
+Dio manda solo i Suoi più santi nella grandine delle frecce dell'inferno.
+Nel libro di Giobbe si prefigura una dottrina migliore piena
+di un'oscuro cavallerismo: colui che sopportò il peggio che gli uomini possono soffrire
+era il migliore tra quelli che hanno la forma umana.
+
+C'è un concetto centrale nel libro di Giobbe,
+che lo rende letteralmente immortale e che gli farà sopravvivere
+il nostro [[Time|tempo]] moderno e le nostre filosofie moderne come ha
+sopravvissuto a tempi migliori e a filosofie migliori.
+È il concetto per cui l'universo, se deve essere ammirato,
+deve esserlo per la sua stranezza e non per la sua razionalità,
+per la sua splendida irrazionalità e non per la sua ragione.
+Gli amici di Giobbe cercano di consolarlo con l'ottimismo filosofico,
+come gli intellettuali del diciottesimo secolo.
+Giobbe cerca di confortarsi con il pessimismo filosofico
+come gli intellettuali del diciannovesimo secolo.
+Ma Dio consola Giobbe con un mistero indecifrabile, e per la prima
+[[Time|volta]] Giobbe è consolato. Elifaz dà una risposta, Giobbe ne dà
+un'altra, e la domanda rimane ancora una ferita aperta.
+Dio semplicemente rifiuta di rispondere, e in qualche modo la domanda viene risolta.
+Giobbe scaglia contro Dio un [[Riddle|enigma]], Dio gliene scaglia indietro cento,
+e Giobbe è in pace. È consolato con degli enigmi.
+Perché l'idea grandiosa e duratura del poema, come suggerito sopra,
+è che se dobbiamo riconciliarci con questa grande esperienza cosmica
+essa deve essere qualcosa di divinamente strano e divinamente violento,
+una [[Quest|ricerca]], o una cospirazione, o qualche sacro scherzo. Gli ultimi capitoli
+del colossale monologo dell'Onnipotente sono dedicati in uno
+stile superficialmente abbastanza strano alla descrizione dettagliata
+di due mostri. Behemot e Leviatano possono essere, o non essere,
+l'ippopotamo e il coccodrillo. Ma, qualunque cosa siano,
+sono evidentemente incarnazioni dell'enorme assurdità della [[Nature|natura]].
+Rappresentano quel tratto cosmico che chiunque può vedere nei
+giardini zoologici, la follia del Signore, che è sapienza.
+E in relazione a uno di essi, Dio viene fatto pronunciare una splendida
+[[Satire|satira]] sulla pietà ordinata e metodica dell'ottimista volgare.
+"Gioccherai con lui come con un uccello? Lo legherai
+per le tue fanciulle?" Questo è il messaggio principale del libro di Giobbe.
+Qualunque cosa possa essere questo [[Monster|mostro]] cosmico, un buon animale o un
+cattivo animale, è almeno un animale selvaggio e non un animale addomesticato;
+è un mondo selvaggio e non un mondo addomesticato.
+
+G.K. Chesterton.
+
+* “Il poema originale di Giobbe.” Tradotto dal testo ricostruito da E. T. Dillon. [[London|Londra]]: Fisher Unwin, 5 scellini.

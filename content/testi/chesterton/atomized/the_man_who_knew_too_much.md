@@ -18558,6 +18558,168 @@ And, as if a little ashamed of his first boast, he turned and
 strolled away toward the bottomless [[Well|well]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+l'inizio?»
+«Il [[Well|pozzo]] senza fondo, come vi ho detto,» rispose Fisher, con calma;
+
+«fu ciò che mi sconcertò fin dal principio. Non perché avesse
+
+qualcosa a che farvi, ma perché non aveva nulla a che farvi.»
+S'interruppe un istante, come scegliendo un approccio, e poi proseguì:
+
+«Quando un uomo sa che il suo nemico sarà morto entro dieci minuti, e lo conduce
+
+sull'orlo di un abisso insondabile, intende gettarne il [[Body|corpo]]
+
+là dentro. Che altro dovrebbe fare? Persino uno [[Fool|sciocco]] nato avrebbe il buon senso di
+
+farlo, e Boyle non è uno [[Fool|sciocco]] nato. [[Well|Ebbene]], perché Boyle non lo fece?
+
+Più ci pensavo, più sospettavo che vi fosse un qualche errore
+
+nell'omicidio, per così dire. Qualcuno aveva condotto qualcuno laggiù per
+
+gettarvelo dentro, eppure non vi fu gettato. Avevo già un'idea brutta e
+
+informe di una qualche sostituzione o inversione delle parti; poi
+
+mi chinai per girare io stesso il leggìo, per caso, e all'istante
+
+seppi ogni cosa, poiché vidi le due tazze ruotare un'altra volta, come
+
+lune nel cielo.»
+Dopo una pausa, Cuthbert Grayne disse: «E che cosa diremo ai
+
+giornali?»
+«Il mio amico, Harold March, arriva oggi dal Cairo,» disse
+
+Fisher. «È un giornalista brillantissimo e di successo. Ma con
+
+tutto ciò è un uomo del tutto onorevole, sicché non dovete dirgli
+
+la [[Truth|verità]].»
+Mezz'ora dopo Fisher passeggiava di nuovo avanti e indietro davanti
+
+alla sede del circolo, col capitano Boyle, quest'ultimo ormai da qualche [[Time|tempo]] con un'aria
+
+molto malmenata e smarrita; forse un uomo più triste e più saggio.
+«E io, allora?» andava dicendo. «Sono scagionato? Non verrò
+
+scagionato?»
+«Credo e [[Hope|spero]],» rispose Fisher, «che non sarete
+
+sospettato. Ma di certo non sarete scagionato. Non deve
+
+esservi alcun sospetto contro di lui, e dunque alcun sospetto contro di voi.
+
+Qualsiasi sospetto contro di lui, e tanto [[Alone|meno]] una storia simile a suo carico,
+
+ci butterebbe a gambe all'aria da Malta a Mandalay. Era un [[Hero|eroe]] non [[Well|meno]] che un
+
+flagello sacro fra i musulmani. Anzi, lo si potrebbe quasi chiamare un
+
+[[Hero|eroe]] musulmano al servizio dell'Inghilterra. Naturalmente andava d'accordo con loro
+
+in parte per via della sua piccola dose di [[Blood|sangue]] orientale; lo aveva preso
+
+da sua madre, la danzatrice di Damasco; lo sanno tutti.»
+«Oh,» ripeté Boyle, meccanicamente, fissandolo con occhi tondi,
+
+«lo sanno tutti.»
+«Oserei dire che ve n'era una punta nella sua [[Jealousy|gelosia]] e nella feroce
+
+vendetta,» proseguì Fisher. «Ma, ciò nondimeno, il delitto ci rovinerebbe
+
+presso gli arabi, tanto più perché era qualcosa come un
+
+delitto contro l'ospitalità. È stato odioso per voi ed è piuttosto
+
+orribile per me. Ma vi sono cose che [[Well|dannatamente]] non si possono
+
+fare, e finché sono vivo quella è una di esse.»
+«Che intendete dire?» chiese Boyle, guardandolo incuriosito. «Perché
+
+proprio voi dovreste appassionarvi tanto alla cosa?»
+Horne Fisher guardò il giovane con un'espressione sconcertante.
+«Suppongo,» disse, «che sia perché sono un Little Englander.»
+«Non riesco mai a capire che cosa intendiate con simili discorsi,» rispose
+
+Boyle, dubbioso.
+«Credete che l'Inghilterra sia così piccola come tutto ciò?» disse Fisher, con
+
+un calore nella voce fredda, «che non possa tenere un uomo attraverso qualche
+
+migliaio di miglia? Mi avete tenuto una lezione di tanto patriottismo ideale, mio
+
+giovane amico; ma ora per voi e per me è patriottismo pratico, e
+
+senza menzogne che lo soccorrano. Parlavate come se tutto andasse sempre
+
+bene per noi in tutto il mondo, in un trionfante crescendo
+
+culminante in [[Hastings]]. Vi dico che tutto è andato storto per
+
+noi qui, tranne [[Hastings]]. Era l'unico nome che ci restasse da evocare
+
+come talismano, e quello non deve andarsene [[Well|anche]] esso, no, per Dio! È già abbastanza grave che
+
+una banda di ebrei infernali ci pianti qui, dove non v'è
+
+alcun terreno interesse inglese da servire, e tutto l'inferno che si scaglia
+
+contro di noi, semplicemente perché Nosey Zimmern ha prestato denaro a mezzo Gabinetto.
+
+È già abbastanza grave che un vecchio usuraio di Bagdad ci costringa a
+
+combattere le sue battaglie; non possiamo combattere con la mano destra mozzata. Il nostro
+
+unico successo era [[Hastings]] e la sua vittoria, che in realtà era la vittoria di qualcun
+
+altro. Tom Travers deve soffrirne, e così anche voi.»
+Poi, dopo un momento di [[Silence|silenzio]], indicò in direzione di quel
+
+[[Well|pozzo]] senza fondo e disse, con tono più sommesso:
+«Vi ho detto che non credevo nella [[philosophy|filosofia]] della Torre di
+
+Aladino. Non credo che l'Impero cresca fino a toccare il
+
+cielo; non credo che l'[[Union]] Jack salga sempre più in alto in eterno
+
+come la Torre. Ma se credete che io lascerò l'[[Union]] Jack scendere
+
+sempre più in basso in eterno, come il [[Well|pozzo]] senza fondo, giù nella
+
+nerezza dell'abisso senza fondo, giù nella sconfitta e nella derisione, fra
+
+gli scherni proprio di quegli ebrei che ci hanno prosciugati—no, non lo farò, e
+
+e non se ne parli più; nemmeno se il Cancelliere fosse ricattato da venti
+
+milionari coi loro giornalacci da rigagnolo, nemmeno se il Primo Ministro
+
+sposasse venti ebree yankee, nemmeno se Woodville e Carstairs avessero
+
+azioni in venti miniere truffaldine. Se la cosa vacilla davvero,
+
+che Dio l'aiuti, non dobbiamo essere noi a rovesciarla.»
+Boyle lo osservava con uno smarrimento che era quasi [[Fear|paura]],
+
+e aveva persino una punta di ripugnanza.
+«In qualche modo,» disse, «pare esservi qualcosa di piuttosto orribile
+
+nelle cose che sapete.»
+«È vero,» replicò Horne Fisher. «Non sono affatto contento del mio
+
+modesto bagaglio di sapere e di riflessione. Ma poiché in parte è
+
+responsabile del fatto che non veniate impiccato, non so se abbiate motivo di
+
+lagnarvene.»
+E, come un poco vergognoso della sua prima vanteria, si voltò e
+
+s'allontanò a passo lento verso il [[Well|pozzo]] senza fondo.
+
 
 
 <span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_01" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 1)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
@@ -24677,6 +24839,188 @@ his pursuer with a stare.
 "Could I have a word with you, sir?" asked Horne Fisher, politely.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+sorriso.
+E così avvenne che Horne Fisher giunse alcuni giorni dopo alla
+
+piccola stazione di una cittadina di mercato piuttosto remota dell'ovest,
+
+accompagnato da una valigia leggera e da un fratello vivace. Non si deve
+
+però supporre che il tono allegro del fratello consistesse
+
+interamente di canzonatura. Egli sosteneva il nuovo candidato con [[Hope|speranza]] non [[Well|meno]]
+
+che con ilarità; e dietro la sua chiassosa complicità v'era
+
+una crescente simpatia e un crescente incoraggiamento. Harry Fisher aveva sempre
+
+avuto affetto per il fratello più quieto ed eccentrico, e ora
+
+veniva sempre più a nutrire rispetto per lui. Man mano che la campagna
+
+procedeva, il rispetto crebbe fino a un'ardente ammirazione. Poiché Harry era
+
+ancora giovane, e poteva provare per il suo capitano nella lotta elettorale
+
+quella sorta di entusiasmo che uno scolaro può provare per il suo capitano nel
+
+cricket.
+Né l'ammirazione era immeritata. Man mano che la nuova contesa a tre
+
+si sviluppava, divenne palese ad altri oltre al suo devoto
+
+parente che in Horne Fisher c'era più di quanto
+
+l'occhio avesse mai colto. Era chiaro che il suo scoppio accanto al focolare di famiglia era stato
+
+soltanto il culmine di un lungo corso di riflessioni e di studi sulla
+
+questione. Il talento che conservò per tutta la vita nello studiare il proprio
+
+argomento, e persino l'argomento altrui, si era da lungo tempo
+
+concentrato su quest'idea di difendere una nuova contadinanza contro una
+
+nuova plutocrazia. Parlava a una folla con eloquenza e replicava a un
+
+individuo con umorismo, due arti politiche che parevano venirgli
+
+naturali. Di certo sapeva molto più di problemi rurali di
+
+quanto ne sapessero Hughes, il candidato della [[Reform|Riforma]], o Verner, il candidato
+
+Costituzionale. E sondava quei problemi con una curiosità umana, e
+
+andava sotto la superficie in un modo che nessuno dei due sognava di
+
+fare. Divenne presto la voce di sentimenti popolari che non si
+
+trovano mai nella stampa popolare. Nuove angolazioni critiche, argomenti che
+
+non erano mai stati pronunciati da una voce istruita, prove e
+
+paragoni fatti solo in dialetto da uomini che bevevano nelle
+
+piccole osterie locali, mestieri mezzo dimenticati che erano giunti
+
+giù di mano in mano e di bocca in bocca da epoche remote in cui i loro padri
+
+erano liberi—tutto ciò creò una curiosa e [[Double|doppia]] eccitazione. Essa
+
+sorprendeva i [[Well|bene]] informati per essere un'idea nuova e fantastica che
+
+non avevano mai incontrato. Sorprendeva gli ignoranti per essere un'idea antica e
+
+familiare che non pensavano di vedere mai risorgere. Gli uomini vedevano le
+
+cose sotto una nuova luce, e non sapevano nemmeno se fosse il tramonto
+
+o l'[[Dawn|alba]].
+C'erano lagnanze concrete a rendere formidabile il movimento. Man mano che
+
+Fisher andava avanti e indietro fra le casupole e le locande di campagna, gli fu
+
+reso evidente senza difficoltà che Sir Francis Verner era un
+
+pessimo proprietario terriero. Né la storia di come acquisì la terra era
+
+più antica e dignitosa di quanto avesse supposto; la storia era
+
+[[Well|ben]] nota nella contea e sotto molti aspetti era abbastanza ovvia.
+
+Hawker, il vecchio squire, era stato un individuo dissoluto e poco raccomandabile,
+
+era stato in cattivi rapporti con la prima moglie (che morì, come alcuni
+
+dicevano, di incuria), e poi aveva sposato una vistosa ebrea sudamericana
+
+con un patrimonio. Ma dovette dilapidare anche questo
+
+patrimonio con meravigliosa rapidità, poiché fu costretto a
+
+vendere la tenuta a Verner e se n'era andato a vivere in Sud[[america|America]],
+
+forse nelle tenute della moglie. Ma Fisher notò che la sregolatezza
+
+del vecchio squire era assai meno odiata dell'efficienza del nuovo
+
+squire. La [[history|storia]] di Verner pareva piena di affari astuti e
+
+di speculazioni finanziarie che lasciavano gli altri a corto di denaro e di pazienza.
+
+Ma per quanto sentisse dir molto di Verner, c'era una cosa
+
+che continuamente gli sfuggiva; qualcosa che nessuno sapeva, che persino
+
+Saltoun non aveva saputo. Non riusciva a scoprire come Verner avesse
+
+in origine fatto i suoi soldi.
+«Dev'essersi tenuto la cosa particolarmente nascosta,» disse Horne Fisher fra sé.
+
+«Dev'essere qualcosa di cui si vergogna davvero. Al diavolo! di che cosa
+
+si vergogna un uomo al giorno d'oggi?»
+E mentre rifletteva sulle possibilità, esse si facevano più cupe e più
+
+distorte nella sua mente; pensava vagamente a cose remote e
+
+ripugnanti, strane forme di [[Slavery|schiavitù]] o di stregoneria, e poi a brutte
+
+cose ancor più innaturali ma più vicine a [[Home|casa]]. La figura di Verner
+
+pareva annerirsi e trasfigurarsi nella sua [[Imagination|immaginazione]], e
+
+stagliarsi contro sfondi svariati e cieli strani.
+Mentre risaliva a grandi passi la via del villaggio, rimuginando così, i suoi occhi
+
+incontrarono un netto contrasto nel volto dell'altro suo rivale, il
+
+candidato della [[Reform|Riforma]]. Eric Hughes, coi capelli biondi scompigliati e il viso ansioso
+
+da studente, stava proprio salendo sulla sua automobile e dicendo
+
+alcune ultime parole al suo agente, un uomo robusto e brizzolato di nome Gryce.
+
+Eric Hughes agitò la mano in modo amichevole; ma Gryce lo squadrò
+
+con una certa ostilità. Eric Hughes era un giovane con genuini
+
+entusiasmi politici, ma sapeva che gli avversari politici sono
+
+persone con cui può capitare di dover cenare da un giorno all'altro. Ma il signor Gryce era un
+
+arcigno piccolo radicale locale, un campione della cappella, e uno di
+
+quei felici individui il cui lavoro è anche il loro passatempo. Voltò le
+
+spalle mentre l'automobile si allontanava, e risalì con passo svelto la soleggiata
+
+via principale della cittadina, fischiettando, con giornali politici
+
+che spuntavano dalla tasca.
+Fisher guardò pensoso la figura risoluta per un momento, e
+
+poi, come per un impulso, prese a seguirla. Attraverso l'affollata
+
+piazza del mercato, fra i cesti e le carriole del giorno di mercato, sotto l'
+
+insegna di legno dipinta del Drago Verde, su per un buio androne laterale, sotto
+
+un arco, e attraverso un groviglio di storte strade acciottolate i due
+
+s'infilarono, la figura tozza e impettita davanti e la
+
+figura magra e indolente dietro, come la sua [[Shadow|ombra]] nel sole.
+
+Alla fine giunsero a una [[house|casa]] di mattoni bruni con una targa d'ottone, su
+
+cui c'era il nome del signor Gryce, e quell'individuo si voltò e scorse
+
+il suo inseguitore con uno sguardo fisso.
+«Potrei scambiare una parola con lei, signore?» chiese Horne Fisher, cortesemente.
+
 
 
 <span class="atom-split" data-atom="story_07_the_temple_of_silence--part_04" data-title="The Man Who Knew Too Much — The Temple of Silence (part 4)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
@@ -26596,6 +26940,150 @@ outside. I shall probably die there." And he smiled as he looked
 
 across the vast green park to the gray horizon.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+possa reggere una candela per mostrarmi la tua faccia infernale.»
+Poi, l'attimo dopo, giunse uno scoppio di tuono; ma prima del tuono una
+
+luce bianca aveva riempito l'intera stanza per una singola frazione di secondo.
+Fisher aveva visto due cose davanti a sé. Una era il
+
+disegno in bianco e nero dell'inferriata contro il cielo; l'
+
+altra era il volto nell'angolo. Era il volto di suo fratello.
+Nulla uscì dalle labbra di Horne Fisher se non un nome di battesimo, cui
+
+seguì un [[Silence|silenzio]] più tremendo delle tenebre. Alla fine l'
+
+altra figura si mosse e balzò in piedi, e la voce di Harry Fisher
+
+si udì per la prima [[Time|volta]] in quella stanza orribile.
+«Mi hai visto, suppongo,» disse, «e tanto [[Well|vale]] avere ora una
+
+luce, adesso. Avresti potuto accenderla in qualsiasi [[Time|momento]], se avessi trovato
+
+l'interruttore.»
+Premette un pulsante nella parete e tutti i particolari di quella stanza
+
+balzarono in una luce più intensa di quella del giorno. Anzi, i particolari
+
+erano così inattesi che per un momento distolsero la vacillante mente del
+
+prigioniero dall'ultima rivelazione personale. La stanza, lungi
+
+dall'essere una cella di segreta, somigliava piuttosto a un salotto, anzi a un
+
+salotto da signora, tranne che per alcune scatole di sigari e bottiglie di
+
+vino ammucchiate insieme a libri e riviste su un tavolino laterale. Un
+
+secondo sguardo gli mostrò che gli arredi più maschili erano piuttosto
+
+recenti, e che lo sfondo più femminile era piuttosto antico. Il suo occhio
+
+colse una striscia di arazzo sbiadito, che lo scosse fino a farlo parlare, con
+
+la momentanea dimenticanza di questioni più gravi.
+«Questo luogo è stato arredato con roba della [[Great House|casa padronale]],» disse.
+«Sì,» replicò l'altro, «e credo che tu ne sappia il perché.»
+«Credo di saperlo,» disse Horne Fisher, «e prima di passare a cose più
+
+straordinarie dirò ciò che penso. Lo squire Hawker recitò
+
+insieme la parte del bigamo e del bandito. La sua prima moglie non era morta quando
+
+sposò l'ebrea; era imprigionata su quest'isola. Gli diede
+
+qui un [[Child|figlio]], che ora infesta il luogo natìo sotto il nome di
+
+Long Adam. Un promotore di società in bancarotta di nome Werner scoprì il
+
+segreto e ricattò lo squire fino a fargli cedere la tenuta.
+
+Tutto ciò è chiarissimo e assai facile. E ora lascia che passi a
+
+qualcosa di più difficile. Ed è che tu spieghi che
+
+diavolo tu faccia rapendo il tuo fratello di sangue.»
+Dopo una pausa Henry Fisher rispose:
+«Suppongo che non ti aspettassi di vedermi,» disse. «Ma, in fin dei conti,
+
+che altro potevi aspettarti?»
+«Temo di non seguirti,» disse Horne Fisher.
+«Voglio dire, che altro potevi aspettarti, dopo aver combinato un tale pasticcio?»
+
+disse suo fratello, imbronciato. «Ti credevamo tutti così astuto. Come
+
+potevamo sapere che saresti stato—[[Well|beh]], davvero, un tale marcio
+
+fallimento?»
+«Questo è piuttosto curioso,» disse il candidato, aggrottando la fronte. «Senza
+
+[[Vanity|vanità]], non avevo l'impressione che la mia candidatura fosse un
+
+fallimento. Tutti i grandi comizi ebbero successo e folle di persone
+
+mi hanno promesso i voti.»
+«Lo credo [[Well|bene]],» disse Henry, cupo. «Hai
+
+fatto una valanga di voti coi tuoi maledetti acri e una vacca, e Verner
+
+non riesce a raccattare un voto da nessuna parte. Oh, è troppo marcio, davvero!»
+«Che diamine vuoi dire?»
+«Capisco,» disse Fisher, «e tu, credo, sei un pilastro e un ornamento
+
+del partito della [[Reform|Riforma]]. Come dici, non sono astuto.»
+L'appello alla lealtà di partito cadde nel vuoto; poiché il pilastro della
+
+[[Reform|Riforma]] rimuginava su altre cose. Alla fine disse, con voce più
+
+turbata:
+«Non volevo che mi scoprissi; sapevo che sarebbe stato un colpo. Ma
+
+ti dico una cosa: non mi avresti mai preso se non fossi venuto qui
+
+di persona, per badare che non ti maltrattassero e per assicurarmi che tutto
+
+fosse comodo il più possibile.» Vi fu persino una sorta d'incrinatura
+
+nella sua voce quando aggiunse: «Ho preso quei sigari perché sapevo che ti
+
+piacevano.»
+Le emozioni sono cose strane, e l'idiozia di questa concessione
+
+d'improvviso intenerì Horne Fisher come un pathos insondabile.
+«Non importa, vecchio mio,» disse; «non ne parliamo più. Ammetterò
+
+che sei davvero un mascalzone e un ipocrita di cuore tanto buono e affettuoso
+
+quanto mai se ne vendette per rovinare il proprio paese.
+
+Ecco, non posso dirlo più galantemente di così. Grazie per i sigari,
+
+vecchio mio. Ne prenderò uno, se non ti dispiace.»
+Nel [[Time|momento]] in cui Horne Fisher ebbe finito di narrare questa storia a
+
+Harold March, erano usciti in uno dei parchi pubblici e
+
+s'erano seduti su un rialzo del terreno che dominava ampi spazi verdi sotto
+
+un cielo azzurro e vuoto; e c'era qualcosa d'incongruo nelle
+
+parole con cui la narrazione si chiuse.
+«Sono rimasto in quella stanza da allora,» disse Horne Fisher. «Vi sono
+
+tuttora. Vinsi le elezioni, ma non andai mai alla [[house|Camera]]. La mia vita
+
+è stata una vita in quella stanzetta su quell'isola solitaria. In abbondanza
+
+libri e sigari e lussi, in abbondanza sapere e interesse e
+
+informazioni, ma mai una voce da quella tomba capace di raggiungere il mondo
+
+di fuori. Probabilmente morirò là.» E sorrise mentre guardava
+
+attraverso il vasto parco verde verso il grigio orizzonte.
 
 
 

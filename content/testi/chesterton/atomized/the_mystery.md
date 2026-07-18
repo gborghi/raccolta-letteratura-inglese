@@ -47,7 +47,7 @@ I [[Wonder|wonder]] at not wondering.
 
 Il Mistero  
 
-G. K. Chesterton  
+G. K. Chesterton
 
 Se nuvole di tramonto crescessero sugli alberi  
 non farebbero che eguagliare il biancospino in fiore;  
@@ -107,7 +107,7 @@ I [[Wonder|wonder]] at not wondering.
 
 Il Mistero  
 
-G. K. Chesterton  
+G. K. Chesterton
 
 Se nuvole di tramonto crescessero sugli alberi  
 non farebbero che eguagliare il biancospino in fiore;  
