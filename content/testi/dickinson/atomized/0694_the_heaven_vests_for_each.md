@@ -33,3 +33,26 @@ A Clemency so common —
 We almost cease to [[Fear|fear]] —  
 Enabling the minutest —  
 And furthest — to adore —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cielo si riveste per Ciascuno  
+In quella piccola Deità  
+Che implorò la grazia di adorare  
+Un timido Giorno d'[[Summer|Estate]] —  
+
+Mezzo ritraendosi dalla Gloria  
+Che importunò di vedere  
+Finché questi fiochi Tabernacoli cadono  
+Nella piena [[Eternity|Eternità]] —  
+
+Quanto imminente l'Azzardo —  
+Come supplicare una Stella —  
+Perché per il Suo umile amore lasci la Fila  
+E accolga la [[Despair|Disperazione]] —  
+
+Una Clemenza così comune —  
+Che quasi cessiamo di [[Fear|temere]] —  
+Che concede al più minuto —  
+E al più remoto — di adorare —

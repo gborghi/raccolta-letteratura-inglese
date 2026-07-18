@@ -28,3 +28,21 @@ That whoso sees this little flower
 By [[Faith|faith]] may clear behold  
 The Bobolinks around the throne  
 And Dandelions gold.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non dovremmo badare a un fiore così piccolo —  
+Se non che quieto riporta  
+Il nostro piccolo [[Garden|giardino]] perduto  
+Di nuovo al Prato.  
+
+Così speziati annuiscono i suoi Garofani —  
+Così ebbre, vacillano le sue [[Bees|Api]] —  
+Così argentei rubano cento flauti  
+Da cento alberi —  
+
+Che chiunque veda questo piccolo fiore  
+Per [[Faith|fede]] può chiaro scorgere  
+I Bobolink attorno al trono  
+E i Denti di leone d'oro.

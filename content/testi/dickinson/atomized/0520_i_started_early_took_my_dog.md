@@ -43,3 +43,36 @@ Until We met the Solid Town —
 No One He seemed to know —  
 And bowing — with a Mighty look —  
 At me — The [[Sea]] withdrew —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uscii di Buonora — Presi il mio Cane —  
+E feci visita al [[Sea|Mare]] —  
+Le Sirene nel Seminterrato  
+Uscirono a guardarmi —
+
+E Fregate — al Piano di Sopra  
+Tesero Mani di Canapa —  
+Presumendo che Io fossi un Topo —  
+Arenato — sulle Sabbie —
+
+Ma nessun Uomo Mi mosse — finché la Marea  
+Non passò oltre la mia semplice Scarpa —  
+E oltre il mio Grembiule — e la mia Cintura —  
+E oltre il mio Corpetto — anche —
+
+E fece come volesse divorarmi —  
+Intera come una [[Dew|Rugiada]]  
+Sulla Manica di un Soffione —  
+E allora — partii — anch'io —
+
+E Lui — Lui seguiva — dappresso —  
+Sentivo il suo Tallone d'Argento  
+Sulla Caviglia — Poi le mie Scarpe  
+Traboccavano di Perla —
+
+Finché incontrammo la Solida Città —  
+Nessuno che Lui paresse conoscere —  
+E inchinandosi — con uno Sguardo Possente —  
+Verso di me — il [[Sea|Mare]] si ritirò —

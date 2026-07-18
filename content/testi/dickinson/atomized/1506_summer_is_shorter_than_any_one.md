@@ -23,3 +23,16 @@ Sorrow — now — is polite — and stays —
 See how [[Well|well]] we spurn him —  
 Equally to abhor Delight —  
 Equally retain him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Summer|Estate]] è più breve di chiunque —  
+La Vita è più breve dell'[[Summer|Estate]] —  
+Settant'Anni si spendono rapidi  
+Come un unico Dollaro —  
+
+Il Dolore — ora — è cortese — e resta —  
+Guarda quanto [[Well|bene]] lo sdegniamo —  
+Ugualmente aborrire la Delizia —  
+Ugualmente trattenerlo —

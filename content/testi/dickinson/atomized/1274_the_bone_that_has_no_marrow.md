@@ -28,3 +28,21 @@ But how shall finished Creatures
 A function fresh obtain?  
 Old Nicodemus' [[Phantom]]  
 Confronting us again!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Osso che non ha Midollo,  
+Quale Fine ultimo per esso?  
+Non è adatto alla Tavola  
+Né per Mendicante né per Gatto.  
+
+Un Osso ha degli obblighi —  
+Un Essere ha gli stessi —  
+Un'Assemblea senza Midollo  
+È più colpevole della vergogna.  
+
+Ma come otterranno Creature compiute  
+Una funzione nuova?  
+Il [[Phantom|Fantasma]] del vecchio Nicodemo  
+Ci si para innanzi ancora!

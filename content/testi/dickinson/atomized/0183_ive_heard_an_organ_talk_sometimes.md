@@ -23,3 +23,16 @@ And risen up — and gone away,
 A more Bernardine Girl —  
 Yet — know not what was done to me  
 In that old Chapel Aisle.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho udito un Organo parlare, a volte  
+In una Navata di [[Cathedral|Cattedrale]],  
+E non capivo parola che dicesse —  
+Pure trattenni il respiro, intanto —  
+
+E mi levai — e me ne andai,  
+Fanciulla più Bernardina —  
+Eppure — non so cosa mi fu fatto  
+In quella vecchia Navata di Cappella.

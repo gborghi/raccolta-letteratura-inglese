@@ -23,3 +23,16 @@ So let us gather — every Day —
 The Aggregate of  
 Life's Bouquet  
 Be Honor and not shame —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Guadagnarla disdegnandola  
+È della Fama il Compenso supremo —  
+Ella ama chi la respinge —  
+Guardati alle spalle — Ella ti insegue.  
+
+Raccogliamo dunque — ogni Giorno —  
+La Somma del  
+Bouquet della Vita  
+Sia Onore e non vergogna —

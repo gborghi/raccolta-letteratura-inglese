@@ -43,3 +43,36 @@ By Contrast certifying
 The Bird of [[Birds]] is gone —  
 How nullified the Meadow —  
 Her Sorcerer withdrawn!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Modo di riconoscere il Bobolink  
+Da ogni altro Uccello  
+Precisamente come la sua [[Joy|Gioia]] —  
+Costretto a essere inferito.  
+
+Di sfrontato Abbigliamento  
+Vestito per sfidare,  
+Impertinenza subordinata  
+A volte alla Maestà.  
+
+Di Sentimenti sediziosi  
+Docili alla Legge —  
+Come Eresie di Trasporto  
+O l'Apostasia di [[Puck]].  
+
+Estraneo all'Attenzione  
+Troppo intimo con la [[Joy|Gioia]] —  
+Complimenta l'esistenza  
+Finché non è attirato via  
+
+Dalle [[Seasons|Stagioni]] o dai suoi Figli —  
+Fatti adulti e urgenti —  
+O da un ingrandimento imprevisto  
+O, felicemente, dalla Fama —  
+
+Per Contrasto certificando  
+Che l'Uccello degli [[Birds|Uccelli]] è andato —  
+Come annullato il Prato —  
+Ritirato il suo Stregone!

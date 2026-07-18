@@ -33,3 +33,26 @@ Her Candle so expire
 The flickering be seen  
 On Ball of Mast in Bosporus —  
 And Dome — and [[Window]] Pane —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Giorno si svestì — da Sé —  
+La Sua Giarrettiera — era d'Oro —  
+La Sua Sottoveste — di semplice Porpora —  
+Le Sue Mussoline — antiche  
+
+Esattamente — quanto il Mondo —  
+Eppure la Stella più nuova —  
+Iscritta sull'Emisfero  
+Sia rugosa — quanto Lei —  
+
+Troppo vicina a [[God|Dio]] — per pregare —  
+Troppo vicina al Cielo — per [[Fear|temere]] —  
+La Signora dell'Occidente  
+Si ritirò senza un pensiero —  
+
+La Sua Candela così si spenga  
+Che il tremolio sia visto  
+Sul Pomo d'Albero nel Bosforo —  
+E su Cupola — e Vetro di [[Window|Finestra]] —

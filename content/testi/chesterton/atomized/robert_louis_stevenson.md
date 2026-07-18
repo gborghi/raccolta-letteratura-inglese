@@ -9137,6 +9137,6 @@ Ecco perché la vera storia di Stevenson deve finire là dove cominciò; poiché
 
 * * * *
 
-LA FINE
+FINE
 
 * * * *

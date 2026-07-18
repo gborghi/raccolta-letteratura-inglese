@@ -28,3 +28,21 @@ It's such a common — Glory —
 A Fisherman's — Degree —  
 Redemption — Brittle Lady —  
 Be so — ashamed of Thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che Soffici — Cherubiche Creature —  
+Sono queste Gentildonne —  
+Si assalirebbe prima un Velluto —  
+O si violerebbe una Stella —  
+
+Convinzioni di Mussolina —  
+Un Orrore così raffinato  
+Della lentigginosa [[Nature|Natura]] Umana —  
+Della Divinità — vergognose —  
+
+È una così comune — Gloria —  
+Un Grado — da Pescatore —  
+La Redenzione — Fragile Signora —  
+Sia così — vergognosa di Te —

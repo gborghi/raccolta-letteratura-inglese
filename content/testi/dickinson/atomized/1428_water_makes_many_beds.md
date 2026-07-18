@@ -22,3 +22,15 @@ Abhorrent is the Rest
 In undulating Rooms  
 Whose Amplitude no end invades —  
 Whose Axis never comes.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Water|Acqua]] fa molti Letti  
+Per chi è avverso al [[Sleep|sonno]] —  
+La sua camera tremenda sta aperta —  
+Le sue Cortine scivolano blande —  
+Aborrito è il Riposo  
+In Stanze ondulanti  
+La cui Ampiezza nessuna fine invade —  
+Il cui Asse mai giunge.

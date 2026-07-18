@@ -23,3 +23,16 @@ Was ever idleness like This?
 Upon a Bank of Stone  
 To bask the Centuries away —  
 Nor once look up — for [[Noon]]?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un lungo — lungo [[Sleep|Sonno]] — Un famoso — [[Sleep|Sonno]] —  
+Che non fa mostra di Mattino —  
+Con Stendersi di Membra — o battito di Palpebra —  
+Uno indipendente —  
+
+Fu mai ozio come Questo?  
+Sopra un Argine di Pietra  
+Crogiolarsi via i Secoli —  
+Senza mai alzare gli occhi — per il [[Noon|Mezzogiorno]]?

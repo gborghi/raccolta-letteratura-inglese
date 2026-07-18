@@ -44,3 +44,37 @@ They strive — and yet delay —
 They perish — Do we die —  
 Or is this [[Death]]'s Experiment —  
 Reversed — in Victory?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io [[Cross|attraverso]] finché non sono stanca  
+Una Montagna — nella mia mente —  
+Altre [[Mountains|Montagne]] — poi un [[Sea|Mare]] —  
+Altri Mari — E poi  
+Un [[Desert|Deserto]] — trovo —  
+
+E il Mio Orizzonte si sbarra  
+Di Grani costanti — alla deriva —  
+Di quantità incongetturata —  
+Come Piogge Asiatiche —  
+
+Né questo — sconfigge il mio Passo —  
+Lo ostacola da Ovest  
+Ma come il Saluto di un Nemico  
+A chi si affretta al Riposo —  
+
+Che merito avrebbe la Meta —  
+Se non intervenissero  
+Fioco [[Doubt|Dubbio]] — e Competitore lontano —  
+A mettere a rischio il Guadagno?  
+
+Infine — la Grazia in vista —  
+Grido ai miei piedi —  
+Offro loro l'Intero del Cielo  
+Nell'istante in cui ci incontriamo —  
+
+Si sforzano — eppure indugiano —  
+Periscono — Moriamo noi —  
+O è questo l'Esperimento della [[Death|Morte]] —  
+Rovesciato — in Vittoria?

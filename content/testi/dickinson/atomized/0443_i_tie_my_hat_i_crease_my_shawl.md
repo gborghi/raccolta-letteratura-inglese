@@ -51,3 +51,44 @@ Therefore — we do life's labor —
 Though life's Reward — be done —  
 With scrupulous exactness —  
 To hold our Senses — on —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lego il mio Cappello — piego il mio Scialle —  
+I piccoli doveri della vita compio — con precisione —  
+Come se il minimo  
+Fosse infinito — per me —  
+
+Metto Fiori nuovi nel Vaso —  
+E getto i vecchi — via —  
+Scosto un petalo dalla mia Veste  
+Che vi si era ancorato — misuro  
+Il [[Time|tempo]] che manca alle sei in [[Clock|punto]]  
+Ho così tanto da fare —  
+Eppure — l'Esistenza — un poco addietro —  
+Si fermò — colpì — il mio ticchettio — del tutto —  
+Non possiamo riporre Noi stessi  
+Come un Uomo compiuto  
+O Donna — Quando la Commissione è finita  
+Per cui venimmo — alla Carne —  
+Ci saranno forse — [[Miles|Miglia]] su [[Miles|Miglia]] di Nulla —  
+Di Azione — ben più malata —  
+Simulare — è lavoro che brucia —  
+Coprire ciò che siamo  
+Alla Scienza — e alla Chirurgia —  
+Occhi troppo Telescopici  
+Per posarsi su noi senza schermo —  
+Per il loro — bene — non per il Nostro —  
+Li farebbe trasalire —  
+Noi — potremmo tremare —  
+Ma poiché abbiamo una Bomba —  
+E la tenemmo in Seno —  
+No — Tienila — è calma —  
+
+466  
+
+Perciò — compiamo il lavoro della vita —  
+Benché il Premio della vita — sia finito —  
+Con scrupolosa esattezza —  
+Per tenere i nostri Sensi — accesi —

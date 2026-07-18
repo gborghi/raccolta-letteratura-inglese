@@ -23,3 +23,16 @@ His own was ampler—but as I
 Was saying to a friend—  
 Mine—is the more convenient  
 To Carry in the Hand—
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mando Due Tramonti—  
+Il Giorno ed io—corremmo in gara—  
+Io ne finii Due—e parecchie [[Stars|Stelle]]—  
+Mentre Lui—ne faceva Uno—  
+
+Il suo era più ampio—ma come io  
+Dicevo a un'amica—  
+Il mio—è il più comodo  
+Da Portare in Mano—

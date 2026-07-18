@@ -28,3 +28,21 @@ Left inactive on the Stalk
 All its Purple fled  
 Revolution shakes it for  
 Test if it be dead.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Rivoluzione è il Baccello  
+Da cui crepitano i Sistemi  
+Quando i Venti del Volere si destano  
+Eccellente è la Fioritura  
+
+Ma se non fosse per la sua Base Rossiccia  
+Ogni [[Summer|Estate]] sarebbe  
+La Seppellitrice di se stessa,  
+Così della [[Liberty|Libertà]] —  
+
+Lasciata inerte sullo Stelo  
+Fuggita tutta la sua Porpora  
+La Rivoluzione la scuote per  
+Provare se sia morta.

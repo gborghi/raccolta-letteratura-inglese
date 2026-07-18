@@ -31,3 +31,24 @@ The flying tidings told —
 How much can come  
 And much can go,  
 And yet abide the World!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Venne un [[Wind|Vento]] come una Tromba —  
+Fremette attraverso l'Erba  
+E un Verde Brivido sul Caldo  
+Passò così minaccioso  
+Sbarrammo le Finestre e le Porte  
+Come a uno [[Ghost|Spettro]] di Smeraldo —  
+L'elettrico Mocassino del Giudizio  
+In quello stesso istante passò —  
+Su una strana Folla di Alberi ansanti  
+E Staccionate fuggirono via  
+E Fiumi dove correvano le Case  
+Questo videro i vivi — quel Giorno —  
+La Campana nel campanile impazzita  
+Le notizie volanti disse —  
+Quanto può venire  
+E quanto andare,  
+E il Mondo tuttavia rimane!

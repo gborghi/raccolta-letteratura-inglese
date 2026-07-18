@@ -33,3 +33,26 @@ A limit like the Veil
 Unto the Lady's face —  
 But every Mesh — a Citadel —  
 And Dragons — in the Crease —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non mi sarebbero importati — i Muri —  
+Fosse l'Universo — una sola Roccia —  
+E lontano udissi il suo argenteo Richiamo  
+Dall'altro lato del Blocco —  
+
+Scaverei — finché il mio Solco  
+Sbucasse d'improvviso nel suo —  
+Poi il mio viso avrebbe la sua Ricompensa —  
+Il guardare nei suoi Occhi —  
+
+Ma è un solo Capello —  
+un filamento — una legge —  
+Una Ragnatela — tessuta in Adamante —  
+Un Bastione — di Paglia —  
+
+Un limite come il Velo  
+Sul volto della Dama —  
+Ma ogni Maglia — una Cittadella —  
+E Draghi — nella Piega —

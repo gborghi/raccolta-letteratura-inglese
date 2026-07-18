@@ -22,3 +22,15 @@ Who Airs of expectation breathes
 And takes the [[Wind]] at prime —  
 But Distance his Delights confides  
 To those who visit him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È la mia prima [[Night|notte]] sotto il [[Sun|Sole]]  
+Se dovessi passarla qui —  
+Sopra di lui è altezza troppo bassa  
+Per il Barometro di colui  
+Che Arie di attesa respira  
+E coglie il [[Wind|Vento]] sul nascere —  
+Ma la Distanza confida i suoi Diletti  
+A coloro che gli fanno visita —

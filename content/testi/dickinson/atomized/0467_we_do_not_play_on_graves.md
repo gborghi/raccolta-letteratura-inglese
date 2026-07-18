@@ -28,3 +28,21 @@ And so we move as far
 As Enemies — away —  
 Just looking round to see how far  
 It is — Occasionally —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non giochiamo sulle Tombe —  
+Perché non c'è Spazio —  
+E poi — non è piano — pende  
+E arriva Gente —  
+
+E vi posa un Fiore —  
+E appende i volti così —  
+Temiamo che i loro Cuori cadano —  
+E schiaccino il nostro bel gioco —  
+
+E così ci spostiamo lontano  
+Come Nemici — via —  
+Solo volgendoci a guardare quanto  
+Sia lontano — Ogni tanto —

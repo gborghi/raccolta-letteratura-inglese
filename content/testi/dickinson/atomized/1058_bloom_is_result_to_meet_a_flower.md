@@ -33,3 +33,26 @@ Great [[Nature]] not to disappoint
 Awaiting Her that Day —  
 To be a Flower, is profound  
 Responsibility —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Fioritura — è Risultato — incontrare un Fiore  
+E gettarvi uno sguardo casuale  
+Difficilmente farebbe sospettare  
+La Circostanza minore  
+
+Che assiste il Luminoso Evento  
+Così intricatamente compiuto  
+Poi offerto come una Farfalla  
+Al Meridiano —  
+
+Serrare il Bocciolo — opporsi al Verme —  
+Ottenere il suo diritto di [[Dew|Rugiada]] —  
+Regolare il Calore — eludere il [[Wind|Vento]] —  
+Sfuggire all'Ape in agguato  
+
+La grande [[Nature|Natura]] non deludere  
+Che L'attende quel Giorno —  
+Essere un Fiore, è profonda  
+Responsabilità —

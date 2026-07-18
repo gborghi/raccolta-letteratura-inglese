@@ -33,3 +33,26 @@ East of [[Eternity|eternity]] ;
 One with the banner gay,  
 One in the red array, —  
 That is the break of day.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Sleep|Sonno]] si suppone sia,  
+Per anime di [[Sanity|senno]],  
+Il chiudersi dell'occhio.
+
+Il [[Sleep|Sonno]] è la stazione grande  
+Lungo cui da ambo i lati  
+Le schiere di testimoni stanno !
+
+Il mattino si suppone sia,  
+Per gente di rango,  
+Lo spuntare del giorno.
+
+Il mattino non è avvenuto !  
+Quella sarà aurora  
+A oriente dell'[[Eternity|eternità]] ;
+
+Uno col vessillo gaio,  
+Uno in rossa schiera, —  
+Quello è lo spuntare del giorno.

@@ -28,3 +28,21 @@ I reason that in heaven
 Somehow, it will be even,  
 Some new equation given ;  
 But what of that ?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io ragiono, la terra è breve,  
+E l'angoscia assoluta,  
+E molti i feriti ;  
+Ma che importa ?  
+
+Io ragiono, potremmo morire :  
+La migliore vitalità  
+Non può vincere il [[Decay|decadimento]] ;  
+Ma che importa ?  
+
+Io ragiono che in cielo  
+In qualche modo, si farà pari,  
+Data qualche nuova equazione ;  
+Ma che importa ?

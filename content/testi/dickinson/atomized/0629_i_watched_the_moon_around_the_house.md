@@ -60,3 +60,53 @@ And next — I met her on a Cloud —
 Myself too far below  
 To follow her superior [[Road]] —  
 Or its advantage — Blue —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Osservai la [[Moon|Luna]] intorno alla [[house|Casa]]  
+Finché sopra un Vetro —  
+Si fermò — privilegio di Viaggiatore — per Riposo —  
+E là sopra  
+
+Fissai lo sguardo — come a un'estranea —  
+La Dama in Città  
+Non stima inciviltà  
+Alzare il suo Occhiale — sopra —  
+
+Ma mai Straniera giustificò  
+La Curiosità  
+Come la Mia — ché né Piede — né Mano —  
+Né Formula — aveva lei —  
+
+Ma come una Testa — che una Ghigliottina  
+Fece scivolare via con noncuranza —  
+Indipendente, Ambra —  
+Si sosteneva nel cielo —  
+
+O come un Fiore senza Stelo —  
+Sorretto nell'Aria [[rolling|roteante]]  
+Da Gravitazioni più sottili —  
+Di quelle che legano il Filosofo —  
+
+Fame — non aveva — né una [[Inn|Locanda]] —  
+La sua Toeletta — a cui bastare —  
+Né Occupazione — né Pensiero  
+Per i piccoli Misteri  
+
+Che ci assillano — come Vita — e [[Death|Morte]] —  
+662  
+
+E il Dopo — oppure No —  
+Ma pareva assorta in Assoluto —  
+Nello splendere — e nel Cielo —  
+
+Il privilegio di scrutare  
+Fu appena sui miei Occhi  
+Quando, con Argentea pratica —  
+Lei volteggiò via dallo Sguardo —  
+
+E poi — la incontrai su una Nube —  
+Io troppo in basso ormai  
+Per seguire la sua [[Road|Strada]] superiore —  
+O il suo vantaggio — Azzurro —

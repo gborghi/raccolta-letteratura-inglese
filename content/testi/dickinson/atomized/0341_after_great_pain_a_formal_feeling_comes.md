@@ -29,3 +29,22 @@ This is the Hour of Lead —
 Remembered, if outlived,  
 As Freezing persons, recollect the [[Snow]] —  
 First — Chill — then Stupor — then the letting go —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo una grande [[Pain|pena]], viene un sentire formale —  
+I Nervi siedono cerimoniosi, come Tombe —  
+Il rigido Cuore chiede se fu Lui, a patire,  
+E Ieri, o Secoli fa?  
+
+I Piedi, meccanici, girano in tondo —  
+Un Legnoso Cammino  
+Di Terra, o d'Aria, o di Nulla —  
+Fatti incuranti,  
+Un appagamento di Quarzo, come pietra —  
+
+Questa è l'Ora di Piombo —  
+Ricordata, se le si sopravvive,  
+Come gli Assiderati, rammentano la [[Snow|Neve]] —  
+Prima — il Freddo — poi lo Stupore — poi il lasciare andare —

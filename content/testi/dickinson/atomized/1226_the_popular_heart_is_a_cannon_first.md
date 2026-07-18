@@ -23,3 +23,16 @@ Not a Tomorrow to know its name
 Nor a Past to stare —  
 Ditches for Realms and a Trip to Jail  
 For a Souvenir —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cuore Popolare è un Cannone prima —  
+In seguito un Tamburo —  
+[[Bells|Campane]] per Ausilio  
+E un Poi di Rum —  
+
+Non un Domani che ne sappia il nome  
+Né un Passato che guardi fisso —  
+Fossi per Regni e una Gita in Prigione  
+Per Ricordo —

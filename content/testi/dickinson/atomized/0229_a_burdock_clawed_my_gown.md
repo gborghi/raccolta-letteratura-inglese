@@ -29,3 +29,22 @@ Ah, pity — then!
 'Tis Minnows can despise!  
 The Elephant's — calm eyes  
 Look further on!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Bardana — mi artigliò la Veste —  
+Non della Bardana — la colpa —  
+Ma mia —  
+Che andai troppo vicino  
+Alla Tana della Bardana —  
+
+Un Pantano — oltraggia la mia scarpa —  
+Che altro hanno i Pantani — da fare —  
+L'unico Mestiere che sanno —  
+Inzaccherare gli Uomini!  
+Ah, pietà — allora!  
+
+Sono i Pesciolini a poter disprezzare!  
+Dell'Elefante — gli occhi calmi  
+Guardano più lontano!

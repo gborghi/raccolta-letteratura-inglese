@@ -22,3 +22,15 @@ Which others taste and spurn and sneer —
 Though I within suppose  
 That consecrated it could be  
 The only Food that grows
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo cercai a tentoni prima di sapere  
+Con solenne bisogno senza nome  
+Ogni altra grazia d'improvviso pula  
+Per questo presagito Cibo  
+Che altri assaggiano e sdegnano e scherniscono —  
+Benché io dentro di me supponga  
+Che consacrato esso potrebbe essere  
+Il solo Cibo che cresce

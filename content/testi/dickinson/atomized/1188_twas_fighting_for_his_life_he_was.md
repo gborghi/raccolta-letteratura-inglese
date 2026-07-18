@@ -23,3 +23,16 @@ It aims once — kills once — conquers once —
 There is no second War  
 In that Campaign inscrutable  
 Of the Interior.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era per la sua Vita che lottava —  
+Quella sorta riesce [[Well|bene]] —  
+L'Artiglieria della Vitalità  
+È frugale della sua Palla.  
+
+Mira una volta — uccide una volta — vince una volta —  
+Non c'è una seconda Guerra  
+In quella Campagna imperscrutabile  
+Dell'Interiore.

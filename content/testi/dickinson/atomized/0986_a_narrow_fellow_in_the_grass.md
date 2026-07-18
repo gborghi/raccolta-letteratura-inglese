@@ -40,3 +40,33 @@ Yet never met this fellow,
 Attended or [[Alone|alone]],  
 Without a tighter breathing,  
 And zero at the bone.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un tipo sottile nell'erba  
+Talvolta cavalca;  
+Forse l'avete incontrato—non è vero  
+Il suo annuncio è istantaneo,  
+L'erba si divide come da un pettine,  
+Si vede un dardo maculato,  
+E poi si chiude ai vostri piedi,  
+E si apre più oltre.
+
+Gli piace un acro paludoso  
+Un suolo troppo freddo per il grano,  
+Pure quando, ragazzo e scalzo,  
+Più d'una volta a [[Noon|mezzogiorno]]  
+Ho oltrepassato, credevo, una sferza,  
+Che si sfilacciava al [[Sun|sole]],  
+Quando, chinandomi ad afferrarla,  
+Si increspò e scomparve.
+
+Parecchi tra la gente della [[Nature|natura]]  
+Conosco, e loro conoscono me;  
+Sento per loro un trasporto  
+Di cordialità.  
+Ma mai ho incontrato questo tipo,  
+Accompagnato o [[Alone|solo]],  
+Senza un respiro più stretto,  
+E zero fino all'osso.

@@ -28,3 +28,21 @@ Would'st Thou seek so — just say
 That I the Answer may pursue  
 Unto the lips it eddied through —  
 So — overtaking Thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ho nessuno a cui dirmi se non Te  
+Così quando Tu manchi, nessuno.  
+Era un piccolo legame —  
+Teneva solo Due, né quelli tenne  
+Poiché Altrove il tuo dolce Volto è traboccato  
+Oltre il mio Confine —  
+
+Se le cose fossero opposte — e Io  
+E Io fossi — a rifluire da Te  
+Su qualche Riva che non risponde —  
+Cercheresti Tu così — di' soltanto  
+Che io la Risposta possa inseguire  
+Fino alle labbra per cui vorticò —  
+Così — raggiungendoTi —

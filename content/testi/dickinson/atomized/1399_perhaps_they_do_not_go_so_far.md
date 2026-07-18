@@ -23,3 +23,16 @@ It may be know so certainly
 How short we have to [[Fear|fear]]  
 That comprehension antedates  
 And estimates us there —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Forse non vanno così lontano  
+Come noi che restiamo, supponiamo —  
+Forse vengono più vicino, per il cadere  
+Delle loro vesti corporee —  
+
+Può darsi sappiano con tale certezza  
+Quanto poco abbiamo da [[Fear|temere]]  
+Che la comprensione ci precede  
+E ci calcola già là —

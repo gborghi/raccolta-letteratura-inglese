@@ -26,3 +26,19 @@ Till your wrinkled Finger
 Shoved the [[Sun|sun]] away  
 Midnight's awful Pattern  
 In the Goods of Day —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sul Mondo che coloravi  
+Il Mattino dipinse [[Rose|rosa]] —  
+Ozioso il suo Vermiglio  
+Senza meta strisciavano i Bagliori  
+Su Reami di Frutteti  
+Io il Giorno prima  
+Conquistai col Pettirosso —  
+Miseria - come bella  
+Finché il tuo Dito raggrinzito  
+Spinse via il [[Sun|sole]]  
+Il Disegno tremendo della Mezzanotte  
+Nei Beni del Giorno —

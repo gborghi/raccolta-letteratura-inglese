@@ -33,3 +33,26 @@ To satin Races — he is nought —
 But Children on the Don,  
 Beneath his Tabernacles, play,  
 And Dnieper Wrestlers, run.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Penso che all'Abete piaccia stare  
+Su un Margine di [[Snow|Neve]] —  
+Si addice alla sua Austerità —  
+E appaga uno sgomento  
+
+Che gli uomini, devono placare in Terre selvagge —  
+E nel [[Desert|Deserto]] — saziare —  
+Un istinto per il Brinato, il Brullo —  
+Necessità — di Lapponia —  
+
+La [[Nature|natura]] dell'Abete prospera — nel freddo —  
+Il Digrignare dei venti del Nord  
+È il più dolce nutrimento — per lui —  
+I suoi migliori Vini Norvegesi —  
+
+Per le Razze di raso — lui è nulla —  
+Ma i Bambini sul Don,  
+Sotto i suoi Tabernacoli, giocano,  
+E i Lottatori del Dnepr, corrono.

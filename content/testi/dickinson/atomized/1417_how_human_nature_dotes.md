@@ -29,3 +29,22 @@ Redoubtablest is this
 Where go we —  
 Go we anywhere  
 Creation after this?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come l'Umana [[Nature|Natura]] si strugge  
+Per ciò che non può scoprire.  
+Nell'istante in cui una Trama è sondata  
+La Prospettiva è estinta —  
+
+La Prospettiva è l'amica  
+Serbata a noi da conoscere  
+Quando la Costanza è chiarificata  
+Dalla Curiosità —  
+
+Fra i soggetti che resistono  
+Il più formidabile è questo  
+Dove andiamo —  
+Andiamo noi in alcun luogo  
+Della Creazione dopo questa?

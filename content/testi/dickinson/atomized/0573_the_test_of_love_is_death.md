@@ -28,3 +28,21 @@ Accept its Most —
 And overlook — the [[Dust]] —  
 Last — Least —  
 The [[Cross]]' — Request —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Prova dell'[[Love|Amore]] — è la [[Death|Morte]] —  
+Nostro Signore — "tanto amò" — così dice —  
+Ciò che il Più Grande [[Lover|Amante]] — possiede  
+Un Altro — compie —  
+
+Se minore Pazienza — vi sia —  
+Per minore Infinità —  
+Se il Prode, talvolta devia —  
+Per più fioco Nervo —  
+
+Accettane il Massimo —  
+E trascura — la [[Dust|Polvere]] —  
+Ultima — Minima —  
+Della [[Cross|Croce]] — la Richiesta —

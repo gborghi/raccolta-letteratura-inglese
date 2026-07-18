@@ -43,3 +43,36 @@ No Drug for Consciousness — can be —
 Alternative to die  
 Is [[Nature]]'s only Pharmacy  
 For Being's Malady —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Più Severo Servizio di me stessa  
+Io — m'affrettai a esigere  
+Per colmare il Vuoto tremendo  
+Che la tua vita s'era lasciata dietro —  
+
+Tormentai la [[Nature|Natura]] con le mie Ruote  
+Quando le Sue avevano cessato di girare —  
+Quando lei aveva riposto il Suo Lavoro  
+Il mio era appena cominciato.  
+
+Mi sforzai di stancare Cervello e Ossa —  
+Di vessare fino alla fatica  
+Lo scintillante Corteo dei nervi —  
+D'ingombrare la Vitalità  
+
+Fino al torpido conforto che ottiene  
+Chi ripone un Capo  
+Di cui conosceva i Capelli —  
+E dimentica il colore del Giorno —  
+
+L'Afflizione non volle placarsi —  
+La Tenebra si serrò salda  
+Come se ogni mio stratagemma  
+Fosse stato a confermare la Mezzanotte —  
+
+Nessun Farmaco per la Coscienza — esiste —  
+L'alternativa di morire  
+È l'unica Farmacia della [[Nature|Natura]]  
+Per il Male dell'Essere —

@@ -31,3 +31,24 @@ The Valley murmured "Come" -
 These were the mates -  
 This was the [[Road|road]]  
 These Children fluttered [[Home|home]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per viottoli correva - per rovi -  
+Per radure, e per boschi -  
+Banditi spesso ci passavano accanto  
+Sulla [[Road|strada]] solitaria -  
+Il lupo veniva a spiare curioso -  
+Il Gufo guardava giù perplesso -  
+La figura di raso del Serpente  
+Scivolava furtiva -  
+Le tempeste toccavano le nostre vesti -  
+I pugnali del [[Lightning|lampo]] balenavano -  
+Feroce dalla rupe sopra di noi  
+Strideva l'avvoltoio affamato -  
+Le dita del satiro facevano cenno -  
+La Valle mormorava "Vieni" -  
+Questi erano i compagni -  
+Questa era la [[Road|strada]]  
+Questi Bimbi volarono a [[Home|casa]].

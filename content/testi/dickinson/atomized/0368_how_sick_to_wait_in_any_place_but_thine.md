@@ -30,3 +30,23 @@ Rather than a Mooring — unshared by thee.
 Ours be the Cargo — unladed — here —  
 Rather than the "spicy isles —"  
 And thou — not there —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL TUO —  
+
+Che pena — attendere — in ogni luogo — che non sia il tuo —  
+Lo seppi la scorsa [[Night|notte]] — quando qualcuno tentò di avvincermi —  
+Pensando — forse — che sembrassi stanca — o [[Alone|sola]] —  
+O sul punto — quasi — di spezzarmi per [[Pain|pena]] non detta —  
+
+E mi volsi — ducale —  
+Quel diritto — era tuo —  
+Un porto — basta — a un Brigantino — come il mio —  
+
+Nostro sia il rollio — pur selvaggio il [[Sea|mare]] —  
+Piuttosto che un Ormeggio — non condiviso con te.  
+Nostro sia il Carico — scaricato — qui —  
+Piuttosto che le "isole delle spezie —"  
+E tu — non là —

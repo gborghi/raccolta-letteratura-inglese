@@ -56,3 +56,49 @@ Ne'er so far behind —
 For My Heaven —  
 Had I not been  
 Most enough — denied?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prometti Questo — Quando Tu sia Morente —  
+Qualcuno Mi chiamerà —  
+A Me appartenga il Tuo estremo Sospirare —  
+Mio — Cingere il Tuo Occhio —  
+
+Non con Monete — benché Coniate  
+Dalla Mano d'un Imperatore —  
+Siano le mie labbra — l'unica Fibbia  
+Che i Tuoi bassi Occhi — domandino —  
+
+Mio restare — quando tutti avranno errato —  
+Per escogitare ancora  
+Se la Vita fosse troppo arresa —  
+Vita Mia — restaurare —  
+
+Versata così — la Mia Intera Libagione —  
+Solo perché Tu vedessi  
+Beatitudine di [[Death|Morte]] — Beatitudine di Vita esaltare  
+Nell'Imitare Te —  
+
+Mio — custodire il Tuo Stretto Recinto —  
+Sedurre il [[Sun|Sole]]  
+A indugiare più a lungo sul Tuo Sud,  
+Le più larghe Rugiade del Mattino  
+
+A esigere, in Tuo umile favore  
+Perché l'Erba Gelosa  
+Più verde non si chini — O più tenera s'aduni  
+Attorno a qualche altro volto —  
+
+Mio supplicare la Madonna —  
+685  
+
+Se Madonna vi sia  
+Che possa scorgere Creatura così lontana —  
+[[Christ|Cristo]] — omesso — Me —  
+
+Solo seguire il Tuo caro futuro —  
+Mai così lontano indietro —  
+Per il Mio Cielo —  
+Non ero forse stata  
+Più che abbastanza — negata?

@@ -38,3 +38,31 @@ To analyze perhaps
 A Philip would prefer  
 But Labor vaster than myself  
 I find it to infer.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Frost|Gelo]] non fu mai visto —  
+Se incontrato, passò troppo rapido,  
+O in Tiro troppo inconsistente —  
+I [[Flowers|Fiori]] se ne accorgono per primi  
+
+Un Estraneo che aleggia intorno  
+Un Sintomo d'allarme  
+In Villaggi remotamente posti  
+Ma il cercarlo lo cancella  
+
+Finché in qualche irrecuperabile [[Night|Notte]]  
+La nostra Vigilanza sprecata  
+Il [[Garden|Giardino]] riceve l'unico colpo  
+Che mai si poté rintracciare.  
+
+Non provato è molto che sappiamo —  
+Ignoto il peggio che [[Fear|temiamo]] —  
+Di Estranei è la Terra la [[Inn|Locanda]]  
+Di [[Secrets|Segreti]] è l'Aria —  
+
+Analizzare forse  
+Un Filippo preferirebbe  
+Ma Fatica più vasta di me  
+Trovo l'inferire.

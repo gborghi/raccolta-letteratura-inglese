@@ -43,3 +43,36 @@ But, most, like Chaos - Stopless — cool —
 Without a Chance, or Spar —  
 Or even a Report of Land —  
 To justify — [[Despair]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non era [[Death|Morte]], perché stavo in piedi,  
+E tutti i Morti, giacciono —  
+Non era [[Night|Notte]], perché tutte [[The [[Bells]]|le Campane]]  
+Cacciavano fuori le Lingue, per [[Noon|Mezzogiorno]].  
+
+Non era [[Frost|Gelo]], perché sulla mia Carne  
+Sentivo Scirocchi — strisciare —  
+Né [[Fire|Fuoco]] — perché solo i miei piedi di Marmo  
+Potevano tenere fresco, un Presbiterio —  
+
+Eppure, sapeva, di tutti loro,  
+Le Figure che ho veduto  
+Composte in ordine, per la Sepoltura,  
+Mi ricordavano, la mia —  
+
+Come se la mia vita fosse piallata,  
+E adattata a una cornice,  
+E non potesse respirare senza chiave,  
+Ed era come Mezzanotte, un poco -  
+
+Quando tutto ciò che ticchettava — s'è fermato —  
+E lo Spazio fissa tutt'intorno —  
+O Brine spettrali — primi mattini d'[[Autumn|Autunno]],  
+Revocano il Suolo Pulsante —  
+
+Ma, più di tutto, come il Caos - Senza sosta — freddo —  
+Senza una Possibilità, o Pennone —  
+O anche solo un Annuncio di Terra —  
+A giustificare — [[Despair|la Disperazione]].

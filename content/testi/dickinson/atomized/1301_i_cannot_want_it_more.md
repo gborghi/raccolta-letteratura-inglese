@@ -23,3 +23,16 @@ And yet it nothing is
 To him who easy owns —  
 Is Worth itself or Distance  
 He fathoms who obtains.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non posso volerlo di più —  
+Non posso volerlo di meno —  
+La forza più piena della mia [[Nature|Natura]] Umana  
+Si spende su questo.  
+
+Eppure esso niente è  
+Per chi facile possiede —  
+Il Valore stesso o la Distanza  
+Scandaglia chi ottiene.

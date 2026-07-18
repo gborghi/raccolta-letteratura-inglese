@@ -23,3 +23,16 @@ Angel's breathless ballot
 Lingers to record thee —  
 Imps in eager Caucus  
 Raffle for my [[Soul]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Soul|Anima]], vuoi tu lanciare ancora?  
+Per un azzardo appunto tale  
+Centinaia hanno perso invero —  
+Ma decine hanno vinto un tutto —  
+
+Il voto senza fiato dell'Angelo  
+Indugia a registrarti —  
+Diavoletti in ansioso Conclave  
+Tirano a sorte la mia [[Soul|Anima]]!

@@ -23,3 +23,16 @@ An anguish at the mention
 Which when to patience grown,  
 I've known permission given  
 To rejoin its own.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uno spasimo sui lineamenti —  
+Una fretta nel respiro —  
+Un'estasi di distacco  
+Denominata "[[Death|Morte]]" —  
+
+Un'angoscia alla menzione  
+Che quando in pazienza è cresciuta,  
+Ho conosciuto il permesso accordato  
+Di ricongiungersi ai suoi.

@@ -28,3 +28,21 @@ From Heavy laden Lands to thee
 Were seas to [[Cross|cross]] to come  
 A Caspian were crowded —  
 Too near thou art for Fame —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Uccello caracollava — l'Ape giocava —  
+Il [[Sun|Sole]] correva [[Miles|miglia]] lontano  
+Sì cieco di [[Joy|gioia]] che non sapeva scegliere  
+Entro la sua Festa  
+
+Il mattino era alto — i prati fuori  
+Le Staccionate quasi correvano,  
+Repubblica del Diletto, pensai  
+Dove ognuno è Cittadino —  
+
+Da Terre Grevi e cariche a te  
+Erano mari da [[Cross|attraversare]] per giungere  
+Un Caspio sarebbe affollato —  
+Troppo vicina sei per la Fama —

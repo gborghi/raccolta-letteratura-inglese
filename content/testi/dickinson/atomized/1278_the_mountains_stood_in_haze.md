@@ -28,3 +28,21 @@ So soft upon the Scene
 The Act of evening fell  
 We felt how neighborly a Thing  
 Was the Invisible.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I [[Mountains|Monti]] stavano nella Foschia —  
+Le Valli si fermavano al di sotto  
+E andavano o attendevano a lor piacere  
+Il [[River|Fiume]] e il Cielo.  
+
+A suo agio era il [[Sun|Sole]] —  
+I suoi interessi di [[Fire|Fuoco]]  
+Un poco dall'osservazione ritirati —  
+Il Crepuscolo diceva la Guglia,  
+
+Così soave sulla Scena  
+Cadde l'Atto della sera  
+Che sentimmo che Cosa familiare  
+Fosse l'Invisibile.

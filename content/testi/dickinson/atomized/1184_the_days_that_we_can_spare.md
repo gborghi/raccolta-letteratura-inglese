@@ -23,3 +23,16 @@ Our Estimates a Scheme —
 Our Ultimates a Sham —  
 We let go all of [[Time]] without  
 Arithmetic of him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I Giorni che possiamo risparmiare  
+Sono quelli in cui una Funzione muore  
+O un Amico o la [[Nature|Natura]] — arenati allora  
+Nella nostra Economia  
+
+Le nostre Stime uno Schema —  
+I nostri Ultimi una Finzione —  
+Lasciamo andare tutto il [[Time|Tempo]] senza  
+Aritmetica di lui —

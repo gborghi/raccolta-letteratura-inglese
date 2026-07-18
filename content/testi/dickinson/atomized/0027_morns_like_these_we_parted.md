@@ -26,3 +26,19 @@ Till the evening nearing
 One the shutters drew -  
 Quick! a sharper rustling!  
 And this linnet flew!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mattini come questi - ci separammo  
+Meriggi come questi - lei [[Rose|sorse]]!  
+Tremula dapprima - poi più salda  
+Verso il suo bel riposo -  
+Mai lei lo sussurrò  
+E non era per me -  
+Lei era muta per il rapimento  
+Io, per l'agonia!  
+Finché sul farsi della sera  
+Qualcuno tirò le imposte -  
+Presto! un fruscio più netto!  
+E questo fanello volò!

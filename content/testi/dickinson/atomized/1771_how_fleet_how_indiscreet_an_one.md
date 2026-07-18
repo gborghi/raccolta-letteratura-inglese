@@ -21,3 +21,14 @@ How fleet - how indiscreet an one -
 how always wrong is [[Love]] -  
 The joyful little Deity  
 We are not scourged to serve -
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I miei piccoli espedienti per vivere fino a lunedì corteggerebbero la vostra triste attenzione -  
+Pieni di lavoro e trame e piccole felicità il  
+Pensiero di voi li protrae tutti e li rende finti e freddi -  
+Come fugace - come indiscreto un essere -  
+come sempre in errore è l'[[Love|Amore]] -  
+La gioiosa piccola Deità  
+Che non siamo flagellati a servire -

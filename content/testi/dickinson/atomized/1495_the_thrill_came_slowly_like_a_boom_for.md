@@ -22,3 +22,15 @@ The desolation only missed
 While Rapture changed it's Dress  
 And stood arrayed before the Change  
 In ravished Holiness —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Brivido venne lento come un Boato da  
+Secoli ritardato  
+La sua pienezza cresceva come il Diluvio  
+In sontuosa [[Solitude|solitudine]] —  
+La desolazione soltanto mancò  
+Mentre l'Estasi mutava la sua Veste  
+E stava adorna dinanzi al Mutamento  
+In rapita Santità —

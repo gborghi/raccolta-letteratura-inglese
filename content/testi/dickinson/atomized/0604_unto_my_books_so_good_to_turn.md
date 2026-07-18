@@ -33,3 +33,26 @@ I thank these Kinsmen of the Shelf —
 Their Countenances Kid  
 Enamor — in Prospective —  
 And satisfy — obtained —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ai miei Libri — così dolce volgersi —  
+Estremi confini di Giorni stanchi —  
+Quasi rende cara l'Astinenza —  
+E la [[Pain|Pena]] — si scorda — nella Lode —  
+
+Come i Sapori — rallegrano gli Ospiti Attardati  
+Con Banchetti a venire —  
+Così le Spezie — stimolano il [[Time|tempo]]  
+Fino alla mia piccola Biblioteca —  
+
+Sarà pure Deserto — là fuori —  
+Lontani passi di Uomini che vengono meno —  
+Ma la Festa — esclude la [[Night|notte]] —  
+Ed è [[Bells|Campane]] — dentro —  
+
+Ringrazio questi Congiunti dello Scaffale —  
+I loro Volti di Capretto  
+Innamorano — in Prospettiva —  
+E saziano — ottenuti —

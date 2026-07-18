@@ -28,3 +28,21 @@ Departing then — forever —
 Forever — until May —  
 Forever is deciduous  
 Except to those who die —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Summer|Estate]] ha due Inizi —  
+Iniziando una volta in Giugno —  
+Iniziando in Ottobre  
+Toccantemente ancora —  
+
+Senza, forse, il Tripudio  
+Ma più vivida per Grazia —  
+Come più fine è un andarsene  
+Che un Volto che rimane —  
+
+Partendo allora — per sempre —  
+Per sempre — fino a Maggio —  
+Per sempre è deciduo  
+Tranne per quelli che muoiono —

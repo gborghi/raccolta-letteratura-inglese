@@ -28,3 +28,21 @@ The Heaven, in which we hoped to pause
 When Discipline was done  
 Untenable to [[logic|Logic]]  
 But possibly the one —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le cose che pensavamo di fare  
+Altre cose abbiamo fatto  
+Ma quelle peculiari industrie  
+Non sono mai state iniziate —  
+
+Le Terre che pensavamo di cercare  
+Quando grandi abbastanza da correre  
+Dalla Speculazione cedute  
+Al Figlio della Speculazione —  
+
+Il Cielo, in cui speravamo sostare  
+Finita la Disciplina  
+Insostenibile alla [[logic|Logica]]  
+Ma forse l'unico —

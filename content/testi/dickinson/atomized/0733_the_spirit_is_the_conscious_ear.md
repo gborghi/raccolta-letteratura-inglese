@@ -23,3 +23,16 @@ For other Services — as Sound —
 There hangs a smaller Ear  
 Outside the [[Castle]] — that Contain —  
 The other — only — Hear —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo Spirito è l'Orecchio Cosciente.  
+Noi udiamo davvero  
+Quando ispezioniamo — questo è udibile —  
+Questo è ammesso — Qui —  
+
+Per altri Servigi — come il Suono —  
+Pende un Orecchio più piccolo  
+Fuori dal [[Castle|Castello]] — che Contiene —  
+L'altro — soltanto — Ode —

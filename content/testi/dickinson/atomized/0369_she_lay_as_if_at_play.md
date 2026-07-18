@@ -33,3 +33,26 @@ Her Morning at the [[Door|door]] —
 Devising, I am sure —  
 To force her [[Sleep|sleep]] —  
 So light — so deep —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Giaceva come per gioco  
+La sua vita era balzata via —  
+Con l'intento di tornare —  
+Ma non così presto —  
+
+Le sue allegre Braccia, semiabbandonate —  
+Come per una tregua del gioco —  
+Un istante avevano scordato —  
+Il Trucco per ripartire —  
+
+I suoi Occhi danzanti — socchiusi —  
+Come se la loro Padrona  
+Ancora scintillasse attraverso  
+Per burla — verso te —  
+
+Il suo Mattino alla [[Door|porta]] —  
+Tramando, ne son certa —  
+Di forzare il suo [[Sleep|sonno]] —  
+Così lieve — così fondo —

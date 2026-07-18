@@ -43,3 +43,36 @@ Then moved my Fingers off
 As cautiously as Glass  
 And held my ears, and like a Thief  
 Fled gasping from the [[house|House]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Da Anni io ero via da [[Home|Casa]]  
+e ora davanti alla [[Door|Porta]]  
+non osavo entrare, che un Volto  
+mai visto prima  
+
+fissasse compatto nel mio  
+e chiedesse il mio Affare lì —  
+"Il mio Affare solo una Vita che lasciai  
+era rimasta ancora là?"  
+
+M'appoggiai allo Sgomento —  
+indugiai con il Prima —  
+il Secondo come un Oceano rotolò  
+e s'infranse contro il mio orecchio —  
+
+Risi una Risata friabile  
+ch'io potessi [[Fear|temere]] una [[Door|Porta]]  
+io che la Costernazione avevo cinto  
+e mai avevo tremato prima.  
+
+Adattai al Chiavistello  
+la mia Mano, con tremante cura  
+che la [[Door|Porta]] tremenda non dovesse [[spring|scattare]] indietro  
+e lasciarmi sul Pavimento —  
+
+Poi ritrassi le Dita  
+cauta come Vetro  
+e mi tappai le orecchie, e come un Ladro  
+fuggii ansante dalla [[house|Casa]] —

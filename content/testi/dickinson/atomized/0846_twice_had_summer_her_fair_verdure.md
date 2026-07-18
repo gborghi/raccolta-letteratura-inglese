@@ -23,3 +23,16 @@ Two full Autumns for the Squirrel
 Bounteous prepared —  
 [[Nature]], Had'st thou not a Berry  
 For thy wandering Bird?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Due volte l'[[Summer|Estate]] il suo bel Verde  
+Aveva offerto al Piano —  
+Due volte una Frattura d'argento d'[[Winter|Inverno]]  
+Sui Fiumi era stata —  
+
+Due Autunni pieni per lo Scoiattolo  
+Generosa preparò —  
+[[Nature|Natura]], non avevi Tu una Bacca  
+Per il tuo Uccello errante?

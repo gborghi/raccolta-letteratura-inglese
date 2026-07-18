@@ -22,3 +22,15 @@ Whose Allies go no more astray
 For service or for Glee —  
 But all mankind deliver here  
 From whatsoever [[Sea|sea]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una gelida Pace infesta l'Erba  
+Il [[Sun|Sole]] rispettoso giace —  
+Nessuna Trance d'operosità  
+Scrutano queste ombre —  
+I cui Alleati più non vagano  
+Per servizio o per Gioia —  
+Ma tutto il genere umano recano qui  
+Da qualsivoglia [[Sea|mare]] —

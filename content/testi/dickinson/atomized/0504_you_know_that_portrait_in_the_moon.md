@@ -33,3 +33,26 @@ And when — Some [[Night]] — Bold — slashing Clouds
 Cut Thee away from Me —  
 That's easier — than the other film  
 That glazes Holiday —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conosci quel Ritratto nella [[Moon|Luna]] —  
+Dimmi dunque a chi somiglia —  
+La Fronte stessa — gli occhi chini —  
+Una nebbia per — Di' — Amor di Chi?  
+
+Il Disegno stesso della Guancia —  
+Varia — nel Mento —  
+Ma — Ismaele — da che ci incontrammo — è tanto —  
+E le fogge — intervengono —  
+
+Quando la [[Moon|Luna]] è piena — Sei Tu — io dico —  
+Le mie labbra trattengono appena il nome —  
+Quando è crescente — Sei consunto — noto —  
+Ma — lì — il Medesimo d'Oro —  
+
+E quando — Qualche [[Night|Notte]] — Audaci — Nubi sferzanti  
+Ti tagliano via da Me —  
+È più facile — dell'altro velo  
+Che appanna la Festa —

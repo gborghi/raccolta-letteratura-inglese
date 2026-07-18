@@ -33,3 +33,26 @@ On plainer Days, whose Table far
 As Certainty can see  
 Is laden with a single Crumb  
 The Consciousness of Thee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Lusso di percepire  
+Il Lusso che sarebbe  
+Guardarti una sola [[Time|volta]]  
+Un Epicureo di Me  
+
+In qualsivoglia Presenza renda  
+Finché per ulteriore Cibo  
+A stento rammento di digiunare  
+Tanto per prima sono colmata —  
+
+Il Lusso di meditare  
+Il Lusso che fu  
+Banchettare sul tuo Volto  
+Una Sontuosità conferisce  
+
+A Giorni più spogli, la cui Tavola fin  
+Dove la Certezza può vedere  
+È imbandita d'una sola Briciola  
+La Coscienza di Te.

@@ -33,3 +33,26 @@ Its lot — were it forgot —
 This [[Truth]] endear —  
 Fidelity is gain  
 Creation is o'er —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Genziana ha una Corolla riarsa —  
+Come azzurro essiccato  
+Sono i succhi vivaci della [[Nature|Natura]]  
+Beatificati —  
+Senza vanto né lustro  
+Casuale come [[Rain|Pioggia]]  
+E altrettanto benigna —  
+
+Quando i più sono partiti — essa viene —  
+Né isolata sembra  
+Il suo Vincolo il suo Amico —  
+A compiere la sua carriera Frangiata  
+E aiutare d'un Anno annoso  
+L'abbondante fine —  
+
+La sua sorte — fosse dimenticata —  
+Questa [[Truth|Verità]] renda cara —  
+Fedeltà è guadagno  
+La Creazione è finita —

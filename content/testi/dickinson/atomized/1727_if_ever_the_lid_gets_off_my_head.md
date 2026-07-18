@@ -23,3 +23,16 @@ And the world — if the world be looking on —
 Will see how far from [[Home|home]]  
 It is possible for sense to live  
 The [[Soul|soul]] there — all the [[Time|time]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se mai il coperchio si staccasse dalla mia testa  
+e lasciasse andare via il cervello  
+quel tale andrebbe dove apparteneva —  
+senza un cenno da parte mia,  
+
+E il mondo — se il mondo sta a guardare —  
+vedrà quanto lontano da [[Home|casa]]  
+è possibile per il senno vivere  
+l'[[Soul|anima]] là — per tutto il [[Time|tempo]].

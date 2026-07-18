@@ -55,3 +55,48 @@ And the surprised Air
 Rustics — wear —  
 Summoned — unexpectedly —  
 To Exeter —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vado dicendo ogni giorno  
+"Se fossi una [[Queen]], domani" —  
+Farei così —  
+E allora mi adorno, un poco,  
+
+Se accade, che mi svegli Borbone,  
+Nessuno su di me, si chini altezzoso —  
+Con "Questa era colei —  
+Che mendicava al Mercato —  
+Ieri."  
+
+[[Court]] è un luogo solenne —  
+Ho udito dire dagli uomini —  
+Così drappeggio il grembiule, contro la Maestà  
+Con lucenti Spille di Ranuncolo —  
+Perché non troppo dimessa —  
+Il Rango — mi sorprenda —  
+
+E poso la mia Lingua  
+Su Rami di canto — piuttosto in alto —  
+Ma questo, potrebbe essere il mio breve Termine  
+Per qualificarmi —  
+
+Tolgo dal mio semplice discorso ogni parola piana —  
+Prendo altri accenti, quali li udii  
+Sebbene solo dal Grillo — appena,  
+E solo dall'Ape —  
+Non in tutto il Prato —  
+Uno mi rivolga il saluto —  
+
+Meglio esser pronta —  
+392  
+
+Che non il mattino dopo  
+Incontrarmi in Aragona —  
+Con la mia vecchia Veste — indosso —  
+
+E l'Aria sorpresa  
+Che i Campagnoli — portano —  
+Convocati — inaspettatamente —  
+A Exeter —

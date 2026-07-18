@@ -23,3 +23,16 @@ Illuminate the [[house|House]]!
 To know that it is them!  
 Paul knew the Man that knew the News —  
 He passed through Bethlehem —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"E con quale [[Body|corpo]] vengono?" —  
+Allora vengono davvero — Gioisci!  
+Quale [[Door|Porta]] — Quale Ora — Corri — corri — [[Soul|Anima]] mia!  
+Illumina la [[house|Casa]]!  
+
+"[[Body|Corpo]]!" Allora reale — un Volto e Occhi —  
+Sapere che sono loro!  
+Paolo conobbe l'Uomo che conobbe la Novella —  
+Egli passò per Betlemme —

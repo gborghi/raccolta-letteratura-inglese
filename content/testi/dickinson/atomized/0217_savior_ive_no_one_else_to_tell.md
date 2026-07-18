@@ -26,3 +26,19 @@ The Heart I carried in my own —
 Till mine too heavy grew —  
 Yet — strangest — heavier since it went —  
 Is it too large for you?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Salvatore! Non ho nessun altro a cui dirlo —  
+E così disturbo te.  
+Sono io quella che tanto ti scordò —  
+Ti ricordi di me?  
+Né per me stessa venni così lontano —  
+Quello era il piccolo carico —  
+Ti portai il Cuore imperiale  
+Che non ebbi la forza di reggere —  
+Il Cuore che portavo nel mio —  
+Finché il mio si fece troppo pesante —  
+Eppure — stranissimo — più pesante da che è andato —  
+È troppo grande per te?

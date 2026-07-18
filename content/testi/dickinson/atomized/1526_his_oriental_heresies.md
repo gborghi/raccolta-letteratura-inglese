@@ -23,3 +23,16 @@ Fatigued at last, a Clover plain
 Allures his jaded eye  
 That lowly Breast where Butterflies  
 Have felt it meet to die —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le sue eresie orientali  
+Esilarano l'Ape,  
+E riempiendo tutta la Terra e l'Aria  
+Di gaia apostasia  
+
+Affaticato infine, un semplice Trifoglio  
+Alletta il suo occhio spossato  
+Quel Petto umile dove le Farfalle  
+Hanno stimato giusto morire —

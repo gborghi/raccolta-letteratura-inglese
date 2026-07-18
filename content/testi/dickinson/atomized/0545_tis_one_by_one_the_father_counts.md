@@ -33,3 +33,26 @@ Regards least Cypherer alike
 With Leader of the Band —  
 And every separate Urchin's Sum —  
 Is fashioned for his hand —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È Uno a Uno — che il Padre conta —  
+E poi un Tratto in mezzo  
+Lasciato senza Cifre — per insegnare all'Occhio  
+Il Valore del suo Dieci —  
+
+Finché lo Studente ritroso  
+Non acquisti il Vivo dell'Arte —  
+Poi i Numeri gli son ridotati —  
+Adornando tutta la Regola —  
+
+È perlopiù Lavagna e Matita —  
+E il Buio sulla Scuola  
+Distrae le dita dei Bambini —  
+Pure l'Eterna Regola  
+
+Guarda l'infimo Cifratore al pari  
+Del Capo della Schiera —  
+E la Somma di ogni singolo Monello —  
+È foggiata per la sua mano —

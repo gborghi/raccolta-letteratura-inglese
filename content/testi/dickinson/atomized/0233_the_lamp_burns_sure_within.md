@@ -23,3 +23,16 @@ The Slave — forgets — to fill —
 The Lamp — burns golden — on —  
 Unconscious that the oil is out —  
 As that the Slave — is gone.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Lampada arde sicura — dentro —  
+Benché Servi — forniscano l'Olio —  
+Non importa all'operoso Stoppino —  
+Nella sua fosforica fatica!  
+
+Lo Schiavo — dimentica — di colmare —  
+La Lampada — arde dorata — ancora —  
+Ignara che l'olio è finito —  
+Come che lo Schiavo — è andato.

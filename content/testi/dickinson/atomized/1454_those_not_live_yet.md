@@ -25,3 +25,18 @@ Deep is the Schedule
 Of the Disk to be —  
 Costumeless Consciousness —  
 That is he —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non vivono ancora quelli  
+Che [[Doubt|dubitano]] di vivere di nuovo —  
+"Di nuovo" è di un due volte  
+Ma questo — è una —  
+La [[Ship|Nave]] sotto il Ponte levatoio  
+In secca — lui?  
+La [[Death|Morte]] — così — il Trattino del [[Sea|Mare]] —  
+Profondo è il Registro  
+Del Disco che sarà —  
+Coscienza senza Costume —  
+Questo è lui —

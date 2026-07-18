@@ -43,3 +43,36 @@ Excepting March — 'Tis then
 My Villages be seen —  
 And possibly a Steeple —  
 Not afterward — by Men —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ha mai qualcuno come Me  
+Investigando Marzo,  
+Scorto Nuove Case sul [[Hill|Colle]] —  
+E forse una Chiesa —  
+
+Che non c'erano, Noi siamo certi —  
+Ancora al tempo della [[Snow|Neve]] —  
+E ci sono Oggi — se Noi esistiamo —  
+Ma come può essere così?  
+
+Ha mai qualcuno come Me  
+Congetturato Chi possano essere  
+Gli Occupanti degli Adobi —  
+Così prossimi al Cielo —  
+
+Parrebbe che [[God|Dio]] debba essere  
+Il Vicino più prossimo —  
+E il Paradiso — una comoda Grazia  
+Per Mostra, o Compagnia —  
+
+Ha mai qualcuno come Me  
+Custodito intatto l'Incanto  
+Evitando con cura quel Luogo  
+In tutte le [[Seasons|Stagioni]] dell'Anno,  
+
+Eccetto Marzo — È allora  
+Che i miei Villaggi si vedono —  
+E forse un Campanile —  
+Non dopo — dagli Uomini —

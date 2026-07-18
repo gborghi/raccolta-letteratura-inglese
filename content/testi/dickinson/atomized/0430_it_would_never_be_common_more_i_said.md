@@ -58,3 +58,51 @@ The Sackcloth — hangs upon the nail —
 The Frock I used to wear —  
 But where my moment of Brocade —  
 My — drop — of India?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Non sarebbe mai stato Comune — più — dissi —  
+La Differenza — era cominciata —  
+Molte amarezze — c'erano state —  
+Ma quella vecchia specie — era finita —  
+
+O — se talvolta — apparisse — come accadrà —  
+Sul più Soffice — dei Mattini —  
+Tale beatitudine — avevo — per tutti gli anni —  
+Darebbe una più Lieve — [[Pain|pena]] —  
+
+Avevo tanta [[Joy|gioia]] — la dissi — Rossa —  
+Sulla mia semplice Guancia —  
+La sentivo pubblicarsi — nel mio Occhio —  
+Era inutile — che alcuno parlasse —  
+
+Camminavo — come ali — il mio [[Body|corpo]] portavano —  
+I piedi — che prima usavo —  
+Non necessari — ora per me —  
+Come stivali — sarebbero — per gli [[Birds]] —  
+
+Sparsi il mio piacere tutt'intorno —  
+Elargii una parola d'Oro  
+A ogni Creatura — che incontrai —  
+E Dotai — tutto il Mondo —  
+
+Quando — d'improvviso — le mie Ricchezze si ridussero —  
+Un Folletto — bevve la mia [[Dew]] —  
+I miei Palazzi — caddero senza inquilini —  
+Io stessa — ero mendica — anch'io —  
+
+452  
+
+Afferravo suoni —  
+Brancolavo forme —  
+Toccavo le cime di Veli —  
+Sentivo la Selva ritirarsi  
+Lungo le mie linee d'Oro —  
+
+Il Sacco — pende dal chiodo —  
+La Veste che un tempo indossavo —  
+Ma dov'è il mio istante di Broccato —  
+La mia — goccia — d'India?

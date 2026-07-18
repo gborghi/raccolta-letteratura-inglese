@@ -22,3 +22,15 @@ Since I am of the Druid,
 And she is of the [[Dew|dew]] —  
 I'll deck [[Tradition]]'s buttonhole —  
 And send the [[Rose]] to you.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se lei fosse stata il Vischio  
+E io fossi stata la [[Rose|Rosa]] —  
+Che gaiezza sulla vostra tavola  
+Chiudere la mia vita di velluto —  
+Poiché io sono del Druido,  
+E lei è della [[Dew|rugiada]] —  
+Ornerò l'occhiello della [[Tradition|Tradizione]] —  
+E manderò a voi la [[Rose|Rosa]].

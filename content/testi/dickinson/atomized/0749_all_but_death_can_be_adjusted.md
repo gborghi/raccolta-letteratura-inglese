@@ -23,3 +23,16 @@ Wastes of Lives — resown with Colors
 By Succeeding Springs —  
 [[Death]] — unto itself — Exception —  
 Is exempt from Change —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tutto fuorché la [[Death|Morte]], si può Aggiustare —  
+Dinastie riparate —  
+Sistemi — rimessi nei loro Alveoli —  
+Cittadelle — dissolte —  
+
+Sprechi di Vite — riseminati a Colori  
+Dalle Primavere Successive —  
+La [[Death|Morte]] — a se stessa — Eccezione —  
+È esente dal Mutamento —

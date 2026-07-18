@@ -38,3 +38,31 @@ By Men, yclept Caterpillar!
 By me! But who am I,  
 To tell the pretty secret  
 Of the Butterfly!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un tipetto peloso, senza piedi,  
+Eppur corre oltremodo!  
+Di velluto, è il suo Sembiante,  
+E la sua Carnagione, bigia!  
+
+Talvolta, dimora nell'erba!  
+Talvolta, sopra un ramo,  
+Da cui discende in peluche  
+Sul Passante!  
+
+Tutto questo in [[Summer|estate]].  
+Ma quando i venti allarmano il Popolo della Foresta,  
+Prende Residenza di Damasco —  
+E incede in seta da cucito!  
+
+Poi, più fine d'una Dama,  
+Emerge in [[spring|primavera]]!  
+Una Piuma su ogni spalla!  
+A stento lo riconosceresti!  
+
+Dagli Uomini, appellato Bruco!  
+Da me! Ma chi sono io,  
+Per svelare il grazioso segreto  
+Della Farfalla!

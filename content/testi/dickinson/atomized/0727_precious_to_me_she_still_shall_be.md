@@ -31,3 +31,24 @@ Remembered — as the Millner's flower
 
 When [[Summer]]'s Everlasting Dower —  
 Confronts the dazzled Bee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Preziosa per Me — Ella ancora sarà —  
+Benché scordi il nome che porto —  
+La foggia della Veste che indosso —  
+Il Colore stesso dei Miei Capelli —  
+
+Così simile ai Prati — ora —  
+Osai mostrare una loro Treccia  
+Se mai — Ella non disprezzasse  
+La Parure d'un Ranuncolo —  
+
+So che il Tutto — oscura la Parte —  
+La frazione — che placava il Cuore  
+Fino all'Impero del Numero —  
+Ricordata — come il fiore della Modista  
+
+Quando la Dote Perenne dell'[[Summer|Estate]] —  
+Affronta l'Ape abbagliata.

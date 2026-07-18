@@ -33,3 +33,26 @@ How [[Well|well]] I knew the Light before —
 I could see it now —  
 'Tis Dying — I am doing — but  
 I'm not afraid to know —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Sun|Sole]] seguitava a tramontare — tramontare — eppure  
+Nessuna Tinta di Pomeriggio —  
+Sul Villaggio io scorgevo  
+Di [[house|Casa]] in [[house|Casa]] era [[Noon|Mezzogiorno]] —  
+
+Il Crepuscolo seguitava a scendere — scendere — eppure  
+Nessuna [[Dew|Rugiada]] sull'Erba —  
+Solo sulla mia Fronte si posava —  
+E vagava sul mio Viso —  
+
+I miei Piedi seguitavano ad assopirsi — assopirsi — eppure  
+Le mie dita erano deste —  
+Ma perché così poco suono — Io stessa  
+Al mio Sembrare — produco?  
+
+Come [[Well|bene]] conoscevo la Luce un tempo —  
+Potevo vederla ora —  
+È Morire — ciò che sto facendo — ma  
+Non ho paura di saperlo —

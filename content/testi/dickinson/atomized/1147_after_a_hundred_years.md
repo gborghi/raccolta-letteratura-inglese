@@ -28,3 +28,21 @@ Winds of [[Summer]] Fields
 Recollect the way —  
 Instinct picking up the Key  
 Dropped by [[Memory|memory]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo cent'anni  
+Nessuno conosce il Luogo  
+L'Agonia che là si compì  
+Immobile come Pace  
+
+Erbacce trionfanti schierate  
+Estranei passeggiavano e compitavano  
+La solitaria Ortografia  
+Dei Morti più Antichi  
+
+Venti dei Campi d'[[Summer|Estate]]  
+Ricordano la via —  
+L'Istinto raccoglie la Chiave  
+Caduta alla [[Memory|memoria]] —

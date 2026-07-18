@@ -28,3 +28,21 @@ Never a Fellow matched this Topaz —
 And his Emerald Swing —  
 Dower itself — for Bobadilo —  
 Better — Could I bring?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Potrei portarTi Gioielli — se ne avessi voglia —  
+Ma Tu ne hai abbastanza — di quelli —  
+Potrei portarTi Aromi da St. Domingo —  
+Colori — da Vera Cruz —  
+
+Bacche delle Bahamas — ne ho —  
+Ma questa piccola Vampa  
+Che tremola a se stessa — nel Prato —  
+Mi si addice — più di quelli —  
+
+Mai un Pari eguagliò questo Topazio —  
+E il suo Dondolìo di Smeraldo —  
+Dote essa stessa — per Bobadilo —  
+Di meglio — potrei portare?

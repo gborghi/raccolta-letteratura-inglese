@@ -23,3 +23,16 @@ A Chief indifference, as Foreign
 A World must be  
 Themselves forsake — contented,  
 For Deity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Malessere di questo Mondo per lo più cagiona  
+Quando muoiono gli Uomini Migliori.  
+Un Desiderio la loro lontana Condizione  
+Di occupare.  
+
+Una Somma indifferenza, quanto Straniero  
+Un Mondo debba essere  
+Che Essi abbandonano — contenti,  
+Per la Deità.

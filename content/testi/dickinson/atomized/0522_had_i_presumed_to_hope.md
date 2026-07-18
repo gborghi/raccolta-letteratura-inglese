@@ -33,3 +33,26 @@ With faint — Terrestial power —
 For That no Man obtain  
 Till He be justified by [[Death]] —  
 This — is the Second Gain —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avessi presunto di [[Hope|sperare]] —  
+La perdita sarebbe stata per Me  
+Un Valore — per amor della [[Greatness|Grandezza]] —  
+Come Giganti — andati via —  
+
+Avessi presunto di ottenere  
+Un Favore così remoto —  
+Il fallimento non fa che confermare la Grazia  
+In più remoto Infinito —  
+
+È fallimento — non di [[Hope|Speranza]] —  
+Ma Confidente [[Despair|Disperazione]] —  
+Che avanza su Liste Celesti —  
+Con fioco — Terrestre potere —  
+
+È Onore — sebbene io muoia —  
+Ché Quello nessun Uomo ottiene  
+Finché non sia giustificato dalla [[Death|Morte]] —  
+Questo — è il Secondo Guadagno —

@@ -23,3 +23,16 @@ A Diagram — of Rapture!
 A sixpence at a Show —  
 With Holy [[Ghosts]] in Cages!  
 The Universe would go!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un trasporto che non si può contenere  
+Può pur essere un trasporto —  
+Benché [[God|Dio]] vieti che sollevi il coperchio —  
+Verso la sua Estasi!  
+
+Un Diagramma — di Rapimento!  
+Sei soldi a uno Spettacolo —  
+Con Santi [[Ghosts|Spiriti]] in Gabbie!  
+L'Universo accorrerebbe!

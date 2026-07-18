@@ -28,3 +28,21 @@ And since We're mutual Monarch
 How this be  
 Except by Abdication —  
 Me — of Me?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Me da Me stessa — bandire —  
+Avessi l'Arte —  
+Inespugnabile la mia Fortezza  
+A ogni Cuore —  
+
+Ma poiché Me stessa — Mi assale —  
+Come avrò pace  
+Se non soggiogando  
+La Coscienza?  
+
+E poiché siamo Monarca reciproco  
+Come può essere  
+Se non per Abdicazione —  
+Me — di Me?

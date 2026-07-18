@@ -31,8 +31,18 @@ def strip_qlang(body):
     # so we only ever see the English body of an already-bilingual page.
     return QSPLIT_RE.sub("", QSWITCH_RE.sub("", body))
 
+def _lp(path):
+    # Windows MAX_PATH guard: some Dickinson letter-atom filenames push the absolute
+    # path past 260 chars, so a bare open() raises FileNotFoundError even though glob
+    # found the file. The \\?\ extended-length prefix lifts the limit. No-op elsewhere.
+    if os.name == "nt":
+        ap = os.path.abspath(path)
+        if not ap.startswith("\\\\?\\"):
+            return "\\\\?\\" + ap
+    return path
+
 def parse(path):
-    raw = open(path, encoding="utf-8").read()
+    raw = open(_lp(path), encoding="utf-8").read()
     m = FM_RE.match(raw)
     if not m:
         return None, strip_qlang(raw)

@@ -37,3 +37,30 @@ Not who toils for [[Freedom]]
 Or for [[Family]]  
 But the Restitution  
 Of Idolatry.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora sapevo d'averla perduta —  
+Non che se ne fosse andata —  
+Ma Lontananza viaggiava  
+Sul suo Volto e sulla Lingua.  
+
+Aliena, benché attigua  
+Come Razza Straniera —  
+Traversava lei pur sostando  
+Luogo senza Latitudine.  
+
+Elementi Inalterati —  
+Universo lo stesso  
+Ma trasmigrazione d'[[Love|Amore]] —  
+In qualche modo era avvenuta —  
+
+D'ora in poi ricordare  
+La [[Nature|Natura]] prese il Giorno  
+Che tanto avevo pagato —  
+Sua è la Penuria  
+Non di chi fatica per la [[Freedom|Libertà]]  
+O per la [[Family|Famiglia]]  
+Ma la Restituzione  
+Dell'Idolatria.

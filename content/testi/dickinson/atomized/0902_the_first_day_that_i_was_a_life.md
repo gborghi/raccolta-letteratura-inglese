@@ -33,3 +33,26 @@ Toward Men —
 That — I cannot say —  
 "Which choose They"?  
 Question [[Memory]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il primo Giorno che fui una Vita  
+Lo rammento — Che quiete —  
+Quell'ultimo Giorno che fui una Vita  
+Lo rammento — [[Well|ugualmente]] —  
+
+Era più quieto — benché il primo  
+Fosse quieto —  
+"Era vuoto — ma il primo  
+Era pieno —  
+
+Questa — fu la mia finalissima Occasione —  
+Ma allora  
+Il mio più tenero Esperimento  
+Verso gli Uomini —  
+
+"Quale scelgo Io"?  
+Questo — non so dire —  
+"Quale scelgono Loro"?  
+Interroga la [[Memory|Memoria]]!

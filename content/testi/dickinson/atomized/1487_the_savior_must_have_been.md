@@ -23,3 +23,16 @@ The [[Road]] to Bethlehem
 Since He and I were Boys  
 Was leveled, but for that 'twould be  
 A rugged billion [[Miles]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Salvatore dev'essere stato  
+Un docile Gentiluomo —  
+Per venire così lontano in un Giorno così freddo  
+Per i piccoli Fratelli umani —  
+
+La [[Road|Strada]] per Betlemme  
+Da quando Lui ed io eravamo Ragazzi  
+Fu spianata, ma se no sarebbe  
+Un aspro miliardo di [[Miles|Miglia]] —

@@ -27,3 +27,20 @@ Some Industry must be —
 The little Toil of [[Love]] —  
 I thought  
 Be large enough for Me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ebbi [[Time|tempo]] di Odiare —  
+Perché  
+La [[Grave|Tomba]] mi avrebbe intralciata —  
+E la Vita non era così  
+Ampia che io  
+Potessi finire — l'Inimicizia —  
+
+Né ebbi [[Time|tempo]] di [[Love|Amare]] —  
+Ma poiché  
+Qualche Industria dev'esserci —  
+La piccola Fatica dell'[[Love|Amore]] —  
+Pensai  
+Fosse abbastanza grande per Me —

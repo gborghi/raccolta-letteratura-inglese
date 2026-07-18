@@ -23,3 +23,16 @@ All Days, I did not earn the same
 But my perceiveless Gain  
 Inferred the less by Growing than  
 The Sum that it had grown.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Feci lente Ricchezze ma il mio Guadagno  
+Fu costante come il [[Sun|Sole]]  
+E ogni [[Night|Notte]], contava di più  
+Che la Precedente  
+
+In tutti i Giorni, non guadagnai lo stesso  
+Ma il mio impercettibile Guadagno  
+Si deduceva meno dal Crescere che  
+Dalla Somma a cui era cresciuto.

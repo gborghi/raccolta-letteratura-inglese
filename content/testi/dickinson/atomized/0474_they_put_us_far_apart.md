@@ -43,3 +43,36 @@ Not Either — noticed [[Death]] —
 Of Paradise — aware —  
 Each other's Face — was all the Disc  
 Each other's setting — saw —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci posero lontani —  
+Separati come il [[Sea|Mare]]  
+E la Sua Penisola non seminata —  
+Noi segnalammo "Questi vedono" —  
+
+Ci tolsero gli Occhi —  
+Ci contrastarono con Fucili —  
+"Io Ti vedo" rispose dritto ciascuno  
+Per Segni Telegrafici —  
+
+Con Segrete — Escogitarono —  
+Ma attraverso la loro arte più fitta —  
+E il loro più opaco Adamante —  
+Le nostre Anime videro — altrettanto [[Well|bene]] —  
+
+Ci chiamarono a morire —  
+Con dolce alacrità  
+Ci ergemmo sui nostri piedi inchiodati —  
+Condannati — ma solo — a vedere —  
+
+Permesso di ritrattare —  
+Permesso di dimenticare —  
+Voltammo le spalle al [[Sun|Sole]]  
+Per spergiuro di ciò —  
+
+Nessuno dei Due — notò la [[Death|Morte]] —  
+Del Paradiso — consapevoli —  
+Il Viso l'uno dell'altro — era tutto il Disco  
+Il tramonto l'uno dell'altro — vide —

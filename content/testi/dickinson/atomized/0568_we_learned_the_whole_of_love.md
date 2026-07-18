@@ -28,3 +28,21 @@ Attempted to expound
 What Neither — understood —  
 Alas, that Wisdom is so large —  
 And [[Truth]] — so manifold!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Imparammo il Tutto dell'[[Love|Amore]] —  
+L'Alfabeto — le Parole —  
+Un Capitolo — poi il possente Libro —  
+Poi — la [[Revelation|Rivelazione]] si chiuse —  
+
+Ma negli occhi l'Uno dell'Altra  
+Un'Ignoranza si scorse —  
+Più divina di quella dell'[[Childhood|Infanzia]] —  
+E l'uno per l'altra, un [[Child|Bambino]] —  
+
+Tentò di spiegare  
+Ciò che Nessuno dei due — comprendeva —  
+Ahimè, che la Saggezza è così vasta —  
+E la [[Truth|Verità]] — così molteplice!

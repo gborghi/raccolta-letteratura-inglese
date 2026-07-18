@@ -25,3 +25,18 @@ The [[Silence]] tied
 His ample — plodding Steed  
 The Apple in the Cellar snug  
 Was all the one that played.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come Scope d'Acciaio  
+La [[Snow|Neve]] e il [[Wind|Vento]]  
+Avevano spazzato la Strada d'[[Winter|Inverno]] —  
+La [[house|Casa]] era sprangata  
+Il [[Sun|Sole]] inviava  
+Fievoli Delegati di Calore —  
+Dove cavalcava l'Uccello  
+Il [[Silence|Silenzio]] legò  
+Il suo ampio — arrancante Destriero  
+La Mela nella Cantina al riparo  
+Era la sola che giocava.

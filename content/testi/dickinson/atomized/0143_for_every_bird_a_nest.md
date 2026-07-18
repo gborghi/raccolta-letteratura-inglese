@@ -37,3 +37,30 @@ Her modest [[house]] —
 Yet who of all the throng  
 Dancing around the [[Sun|sun]]  
 Does so rejoice?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per ogni Uccello un Nido —  
+Per cui in timida [[Quest|ricerca]]  
+Un piccolo Scricciolo va cercando intorno —  
+
+Per cui quando i rami sono liberi —  
+Famiglie in ogni [[Tree|albero]] —  
+Si trovi un [[Pilgrim|pellegrino]]?  
+
+Forse una [[Home|casa]] troppo alta —  
+Ah Aristocrazia!  
+Il piccolo Scricciolo desidera —  
+
+Forse a ramoscello così fine —  
+A spago fin sopraffine,  
+Il suo [[Pride|orgoglio]] aspira —  
+
+L'Allodola non si vergogna  
+Di costruire sulla terra  
+La sua modesta [[house|casa]] —  
+
+Eppure chi di tutta la folla  
+Danzante attorno al [[Sun|sole]]  
+Gioisce altrettanto?

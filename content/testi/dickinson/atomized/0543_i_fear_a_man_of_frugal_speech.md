@@ -23,3 +23,16 @@ But He who weigheth — While the Rest —
 Expend their furthest pound —  
 Of this Man — I am wary —  
 I [[Fear|fear]] that He is Grand —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io [[Fear|temo]] un Uomo di frugale Parola —  
+Io [[Fear|temo]] un Uomo Silenzioso —  
+L'Arringatore — posso raggiungerlo —  
+O il Ciarliero — intrattenerlo —  
+
+Ma Colui che pesa — Mentre gli Altri —  
+Spendono la loro estrema libbra —  
+Di quest'Uomo — io diffido —  
+Io [[Fear|temo]] che Egli sia Grande —

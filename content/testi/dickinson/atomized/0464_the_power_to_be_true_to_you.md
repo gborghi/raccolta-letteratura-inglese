@@ -23,3 +23,16 @@ Of This — Could Man deprive Me —
 Himself — the Heaven excel —  
 Whose invitation — Yours reduced  
 Until it showed too small —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il potere di esserTi fedele,  
+Finché sul mio volto  
+Il Giudizio non prema il suo Ritratto —  
+Presuntuoso del Tuo Posto —  
+
+Di Questo — Potrebbe l'Uomo privarMi —  
+Lui stesso — superare il Cielo —  
+Il cui invito — il Tuo ridusse  
+Finché parve troppo piccolo —

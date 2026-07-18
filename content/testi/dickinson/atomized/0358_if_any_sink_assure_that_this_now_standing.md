@@ -23,3 +23,16 @@ Tell that the Worst, is easy in a Moment —
 Dread, but the Whizzing, before the Ball —  
 When the Ball enters, enters [[Silence]] —  
 Dying — annuls the power to kill.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se qualcuno affonda, assicura che questo, ora in piedi —  
+Cadde come Loro — e conscio che [[Rose|risorse]] —  
+Crebbe per il Fatto, e non per il Comprendere  
+Come passò la Debolezza — o la Forza — sorse —  
+
+Di' che il Peggio, è lieve in un Momento —  
+Temi, solo il Sibilo, prima della Palla —  
+Quando la Palla entra, entra il [[Silence|Silenzio]] —  
+Morire — annulla il potere di uccidere.

@@ -28,3 +28,21 @@ With Gifts of Life
 How [[Death]]'s Gifts may compare —  
 We know not —  
 For the Rates — lie Here —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per la [[Death|Morte]] — o piuttosto  
+Per le Cose che comprerebbe —  
+Questa — mise da parte  
+L'Opportunità della Vita —  
+
+Le Cose che la [[Death|Morte]] comprerà  
+Sono Spazio —  
+Fuga dalle Circostanze —  
+E un Nome —  
+
+Coi Doni della Vita  
+Come i Doni della [[Death|Morte]] si confrontino —  
+Non sappiamo —  
+Ché i Prezzi — stanno Qui —

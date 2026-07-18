@@ -22,3 +22,15 @@ She beckons, and the woods start —
 She nods, and all begin —  
 Surely, such a country  
 I was never in!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sconcertata per un giorno o due soltanto —  
+Imbarazzata — non impaurita —  
+Incontro nel mio [[Garden|giardino]]  
+Una Fanciulla inattesa.  
+Lei accenna, e i boschi si destano —  
+Lei annuisce, e tutto ha inizio —  
+Certo, in un tale paese  
+Non ero stata mai!

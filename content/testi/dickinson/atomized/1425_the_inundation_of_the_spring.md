@@ -23,3 +23,16 @@ In which the [[Soul|soul]] at first estranged —
 Seeks faintly for its shore  
 But acclimated — pines no more  
 For that Peninsula —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'inondazione della [[spring|Primavera]]  
+Ingrandisce ogni [[Soul|anima]] —  
+Spazza via la dimora  
+Ma [[Leaves|lascia]] intera l'[[Water|Acqua]] —  
+
+In cui l'[[Soul|anima]] dapprima straniera —  
+Cerca fioca la sua riva  
+Ma acclimatata — non si strugge più  
+Per quella Penisola —

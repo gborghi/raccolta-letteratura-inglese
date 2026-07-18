@@ -30,3 +30,23 @@ And I a Pauper go —
 Unfitted by an instant's Grace  
 For the Contented — Beggar's face  
 I wore — an hour ago —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo guadagnai così —  
+Arrampicandomi lenta —  
+Afferrando i Ramoscelli che crescono  
+Tra la Beatitudine — e me —  
+Pendeva così in alto  
+Che tanto [[Well|valeva]] il Cielo  
+Tentare per Strategia —  
+
+Dissi che l'avevo guadagnato —  
+Questo — fu tutto —  
+Guarda, come lo stringo  
+Perché non cada —  
+E io me ne vada Povera —  
+Resa inadatta dalla Grazia d'un istante  
+Al Contento — volto di Mendicante  
+Che portavo — un'ora fa —

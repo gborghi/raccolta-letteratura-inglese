@@ -43,3 +43,36 @@ We blush, that Heaven if we achieve —
 Event ineffable —  
 We shall have shunned until ashamed  
 To own the Miracle —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi erano "il Padre e il Figlio"  
+Ponderavamo da [[Child|bambini]],  
+E che avevano a che fare con noi  
+E quando portentoso fu detto  
+
+Con inferenza spaventosa  
+Dall'[[Childhood|Infanzia]] fortificati  
+Pensavamo, almeno non son peggiori  
+Di come sono stati descritti.  
+
+Chi sono "il Padre e il Figlio"  
+Se chiedessimo Oggi  
+"Il Padre e il Figlio" in persona  
+Senza dubbio preciserebbe —  
+
+Ma avessero avuto la felicità  
+Quando desideravamo sapere.  
+Migliori Amici saremmo stati, forse,  
+Di quanto il [[Time|tempo]] conceda d'essere —  
+
+Trasaliamo — nell'apprendere che crediamo  
+Ma una volta sola — interamente —  
+La Fede, non calza così [[Well|bene]]  
+Se mutata di frequente —  
+
+Arrossiamo, che il Cielo se raggiungiamo —  
+Evento ineffabile —  
+L'avremo evitato fino a vergognarci  
+Di riconoscere il Miracolo —

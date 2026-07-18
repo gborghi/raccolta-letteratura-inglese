@@ -26,3 +26,19 @@ It bears away in triumph
 To Troth unknown  
 And Kindred as responsive  
 As Porcelain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Death|Morte]] è il Pretendente duttile  
+Che vince alla fine —  
+È un Corteggiare furtivo  
+Condotto dapprima  
+Da pallide allusioni  
+E fioco approccio  
+Ma audace alla fine con Trombe  
+E una Carrozza bipartita  
+Porta via in trionfo  
+Verso Promessa ignota  
+E Parenti tanto sensibili  
+Quanto Porcellana.

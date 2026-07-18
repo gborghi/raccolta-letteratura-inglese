@@ -25,3 +25,18 @@ Simplicity fled from his counterfeit presence
 As Gold the Pyrites would shun —  
 What confusion would cover the [[Innocent|innocent]] Jesus  
 To meet so enabled a Man!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+LUI ANGUSTO —  
+
+Predicò sull'"Ampiezza" finché essa lo dichiarò angusto —  
+I Vasti son troppo vasti per definirli  
+E sulla "[[Truth|Verità]]" finché essa lo proclamò Bugiardo —  
+La [[Truth|Verità]] non ostentò mai un'Insegna —  
+
+La Semplicità fuggì dalla sua presenza contraffatta  
+Come l'Oro schiverebbe la Pirite —  
+Quale confusione coprirebbe l'[[Innocent|innocente]] Gesù  
+Nell'incontrare un Uomo così dotato!

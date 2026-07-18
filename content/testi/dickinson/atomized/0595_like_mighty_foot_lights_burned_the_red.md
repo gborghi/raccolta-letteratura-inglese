@@ -23,3 +23,16 @@ Exhibiting — to These —
 While Chiefest — of the Crowd —  
 Enabled by his Royal Dress —  
 Myself distinguished [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come Possenti Luci di Ribalta — ardeva il Rosso  
+Alle Basi degli Alberi —  
+I lontani Spettacoli del Giorno  
+Esibendo — a Questi —  
+
+Fu l'Universo — ad applaudire —  
+Mentre il più Insigne — della Folla —  
+Reso palese dalla sua Veste Regale —  
+Io stessa distinsi [[God|Dio]] —

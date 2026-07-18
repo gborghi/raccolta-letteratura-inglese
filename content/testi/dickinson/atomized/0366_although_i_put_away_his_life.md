@@ -56,3 +56,49 @@ That I may take that promise
 To Paradise, with me —  
 To teach the Angels, avarice,  
 You, Sir, taught first — to me.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Benché io riponessi la sua vita —  
+Ornamento troppo grande  
+Perché Fronte bassa come la mia lo porti,  
+Questa avrebbe potuto essere la Mano  
+
+Che seminò il fiore, da lui preferito —  
+O lenì un'umile [[Pain|pena]],  
+O spinse il sasso via dal suo cammino —  
+O suonò la sua melodia prediletta —  
+
+Sul Liuto più umile — l'ultimo —  
+Ma solo il suo Orecchio poteva sapere  
+Che qualunque cosa lo dilettasse,  
+Io non l'avrei mai lasciata andare —  
+
+Il piede a portare la sua commissione —  
+Un piccolo Stivale che conosco —  
+Balzerebbe via come Antilope —  
+Col solo permesso di compiere —  
+
+Il suo più stanco Comandamento —  
+Più dolce da obbedire,  
+Che "Nascondino" —  
+O saltellare ai Flauti —  
+O tutto il Giorno, inseguire l'Ape —  
+
+Il vostro Servo, Signore, si stancherà —  
+Il Chirurgo, non verrà —  
+Il Mondo, avrà il suo — da fare —  
+La [[Dust|Polvere]], vesserà la vostra Fama —  
+
+383  
+
+Il Freddo forzerà la vostra [[Door|porta]] più serrata  
+Un qualche Giorno di Febbraio,  
+Ma dite che il mio grembiule porti i rami  
+A far gaio il vostro Cottage —  
+
+Ch'io possa portare quella promessa  
+In Paradiso, con me —  
+Per insegnare agli Angeli l'avarizia,  
+Che voi, Signore, insegnaste primo — a me.

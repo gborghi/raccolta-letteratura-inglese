@@ -28,3 +28,21 @@ And still, she plies her spotted Brooms,
 And still the Aprons fly,  
 Till Brooms fade softly into [[Stars|stars]] —  
 And then I come away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Spazza con Scope multicolori —  
+E si [[Leaves|lascia]] dietro i Brandelli —  
+Oh Massaia nell'Occidente della Sera —  
+Torna indietro, e [[Dust|spolvera]] lo Stagno!  
+
+Vi hai fatto cadere una Sfilacciatura di Porpora —  
+Vi hai fatto cadere un filo d'Ambra —  
+E come hai ingombrato tutto l'Oriente  
+Di cenci di Smeraldo!  
+
+E ancora, maneggia le sue Scope chiazzate,  
+E ancora i Grembiuli volano,  
+Finché le Scope sfumano dolcemente in [[Stars|stelle]] —  
+E allora io me ne vado —

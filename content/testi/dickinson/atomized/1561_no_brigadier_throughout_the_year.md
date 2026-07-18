@@ -38,3 +38,31 @@ His Character — a Tonic —
 His future — a Dispute —  
 Unfair an [[Immortality]]  
 That [[Leaves|leaves]] this Neighbor out —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessun Brigadiere lungo l'Anno  
+Così civico come la Ghiandaia —  
+Vicino e Guerriero insieme  
+Con stridula felicità  
+Inseguendo Venti che ci censurano  
+Un Giorno di Febbraio,  
+Il Fratello dell'Universo  
+Non fu mai spazzato via —  
+La [[Snow|Neve]] e lui sono intimi —  
+Spesso li ho visti giocare  
+Quando il Cielo ci guardava tutti  
+Con tale severità  
+Che sentivo dovute delle scuse  
+A un cielo insultato  
+Il cui cipiglio pomposo era Nutrimento  
+Alla loro Temerità —  
+Il Guanciale di questa Testa audace  
+Sono pungenti Sempreverdi —  
+La sua Dispensa — asciutta e Militante —  
+Ignote — rinfrescanti cose —  
+Il suo Carattere — un Tonico —  
+Il suo futuro — una Disputa —  
+Ingiusta un'[[Immortality|Immortalità]]  
+Che [[Leaves|lascia]] fuori questo Vicino —

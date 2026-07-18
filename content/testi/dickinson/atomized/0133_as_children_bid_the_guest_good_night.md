@@ -23,3 +23,16 @@ As children caper when they wake,
 Merry that it is morn,  
 My [[Flowers|flowers]] from a hundred cribs  
 Will peep, and prance again.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come bimbi che danno all'ospite la buona-[[Night|notte]],  
+E poi riluttanti si voltano,  
+I miei [[Flowers|fiori]] sollevano le graziose labbra,  
+Poi indossano le camicie da notte.  
+
+Come bimbi che saltellano al risveglio,  
+Allegri perché è mattino,  
+I miei [[Flowers|fiori]] da cento culle  
+Faranno capolino, e danzeranno ancora.

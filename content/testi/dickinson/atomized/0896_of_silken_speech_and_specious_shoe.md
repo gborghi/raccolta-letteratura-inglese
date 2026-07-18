@@ -24,3 +24,17 @@ His Troth a Term
 Protracted as the Breeze  
 Continual Ban propoundeth He  
 Continual [[divorce|Divorce]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di Serica Parola e Speciosa Scarpa  
+Un Traditore è l'Ape  
+Il suo servigio alla Grazia più nuova  
+Presente di continuo  
+
+La sua Corte un caso  
+La sua Fede un Termine  
+Protratto quanto la Brezza  
+Continuo Bando propone Egli  
+Continuo [[divorce|Divorzio]].

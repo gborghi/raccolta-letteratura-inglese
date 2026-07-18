@@ -28,3 +28,21 @@ Mirth is the mail of anguish,
 In which it cautions arm,  
 Lest anybody spy the [[Blood|blood]]  
 And "You're hurt" exclaim!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un cervo ferito balza più alto,  
+L'ho udito dire dal cacciatore ;  
+Non è che l'estasi della [[Death|morte]],  
+E poi la macchia tace.  
+
+La roccia percossa che sgorga,  
+L'acciaio calpestato che scatta:  
+Una guancia è sempre più rossa  
+Proprio dove la febbre punge!  
+
+L'allegria è la maglia dell'angoscia,  
+In cui con cautela s'arma,  
+Che nessuno scorga il [[Blood|sangue]]  
+Ed esclami "Sei ferito"!

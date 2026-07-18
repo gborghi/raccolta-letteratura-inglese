@@ -28,3 +28,21 @@ Far — as the East from Even —
 Dim — as the border star —  
 Courtiers quaint, in Kingdoms  
 Our departed are.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tolta agli uomini — questa mattina —  
+Portata dagli uomini oggi —  
+Accolta dagli Dèi con vessilli —  
+Che la scortarono via —  
+
+Una piccola fanciulla — dalle compagne —  
+Una piccola mente dalla scuola —  
+Devono esserci ospiti in Eden —  
+Tutte le stanze sono piene —  
+
+Lontani — come l'Est dalla Sera —  
+Fiochi — come la stella di confine —  
+Cortigiani bizzarri, in Regni  
+Sono i nostri defunti.

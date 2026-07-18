@@ -23,3 +23,16 @@ I could not have told it,
 But since Jesus dared —  
 Sovereign! Know a Daisy  
 They dishonor shared!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Non mi hanno scelto," disse,  
+"Ma io ho scelto loro!"  
+Coraggiosa — Affranta dichiarazione —  
+Pronunciata a Betlemme!  
+
+Io non avrei potuto dirlo,  
+Ma poiché Gesù osò —  
+Sovrano! Sappi che una Margherita  
+Il loro disonore condivise!

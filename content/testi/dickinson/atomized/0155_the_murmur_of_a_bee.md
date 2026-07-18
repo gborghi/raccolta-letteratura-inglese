@@ -31,3 +31,24 @@ Addeth to my Degree —
 If any ask me how —  
 [[artist|Artist]] — who drew me so —  
 Must tell!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Mormorio di un'Ape  
+Una Stregoneria — mi arreca —  
+Se qualcuno mi chiede perché —  
+Sarebbe più facile morire —  
+Che dire —  
+
+Il Rosso sopra il [[Hill|Colle]]  
+Mi toglie la volontà —  
+Se qualcuno sogghigna —  
+Attento — ché [[God|Dio]] è qui —  
+Questo è tutto.  
+
+Lo Spuntare del Giorno  
+Accresce il mio Grado —  
+Se qualcuno mi chiede come —  
+L'[[artist|Artista]] — che mi disegnò così —  
+Deve dirlo!

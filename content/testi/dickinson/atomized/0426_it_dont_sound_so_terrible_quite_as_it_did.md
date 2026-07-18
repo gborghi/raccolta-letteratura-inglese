@@ -36,3 +36,29 @@ It's shrewder then
 Put the Thought in advance — a Year —  
 How like "a fit" — then —  
 Murder — wear!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Non suona così terribile — quasi — come prima —  
+Me lo ripeto — "Morta", Cervello, "Morta."  
+Mettilo in Latino — avanzo di scuola —  
+Pare non strilli tanto — sotto regola.  
+
+Girala, un poco — guardata in piena faccia  
+Una Pena appare più amara —  
+Spostala — appena —  
+Dì "Quando il Domani passerà di qui —  
+Avrò guadato un Giorno intero."  
+
+Suppongo che m'interromperà un poco  
+Finché non mi abituo — ma poi la Tomba  
+Come le altre Cose nuove — appare enorme — allora —  
+E più piccola, per Abitudine —  
+
+È più astuto allora  
+Porre il Pensiero in anticipo — di un Anno —  
+Come "un accesso" — allora —  
+L'Assassinio — indossa!

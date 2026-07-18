@@ -23,3 +23,16 @@ It begs you give it Work —
 But just the placing Pins —  
 Or humblest Patchwork — Children do —  
 To Help its Vacant Hands —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+In ozio è l'[[Soul|Anima]]  
+Che riceve un Colpo che Stordisce —  
+L'Ampiezza della Vita — davanti le si stende  
+Senza nulla da fare —  
+
+Ti prega di darle Lavoro —  
+Ma solo il disporre Spilli —  
+O il più umile Rattoppo — da Bambini —  
+Per Aiutare le sue Mani Vuote —

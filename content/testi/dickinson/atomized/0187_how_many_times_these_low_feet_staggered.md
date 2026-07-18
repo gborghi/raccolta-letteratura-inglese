@@ -28,3 +28,21 @@ Buzz the dull flies — on the chamber [[Window|window]] —
 Brave — shines the [[Sun|sun]] through the freckled pane —  
 Fearless — the cobweb swings from the ceiling —  
 Indolent Housewife — in Daisies — lain!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quante volte questi umili piedi vacillarono —  
+Solo la bocca saldata può dirlo —  
+Prova — sai smuovere il terribile rivetto —  
+Prova — sai sollevare i fermagli d'acciaio!  
+
+Accarezza la fresca fronte — così spesso ardente —  
+Solleva — se vuoi — i capelli inerti —  
+Maneggia le adamantine dita  
+Che mai più un ditale — porteranno —  
+
+Ronzano le mosche spente — sulla [[Window|finestra]] della camera —  
+Ardito — splende il [[Sun|sole]] attraverso il vetro lentigginoso —  
+Impavida — la ragnatela oscilla dal soffitto —  
+Indolente Massaia — fra le Margherite — distesa!

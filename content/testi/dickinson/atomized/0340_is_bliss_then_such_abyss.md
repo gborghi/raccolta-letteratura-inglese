@@ -30,3 +30,23 @@ None buy it any more —
 Say, Foot, decide the point —  
 The Lady [[Cross|cross]], or not?  
 Verdict for Boot!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È dunque la Beatitudine, tale Abisso,  
+Che non devo mettere il piede in fallo  
+Per [[Fear|timore]] di rovinarmi la scarpa?  
+
+Preferirei assecondare il piede  
+Che salvare lo Stivale —  
+Perché comprarne un altro Paio  
+È possibile,  
+In qualunque bottega —  
+
+Ma la Beatitudine, si vende una volta sola.  
+Perduto il Brevetto  
+Nessuno più la compra —  
+Di', Piede, decidi tu il punto —  
+La Signora [[Cross|attraversa]], o no?  
+Verdetto per lo Stivale!

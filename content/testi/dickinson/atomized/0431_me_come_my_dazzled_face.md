@@ -26,3 +26,19 @@ My Holiday, shall be
 That They — remember me —  
 My Paradise — the fame  
 That They — pronounce my name —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io — venire! Il mio viso abbagliato  
+In un luogo così splendente!  
+Io — udire! Il mio Orecchio straniero  
+I suoni del Benvenuto — là!  
+
+I Santi dimenticano  
+I nostri piedi timidi —  
+
+La mia Festa, sarà  
+Che Essi — si ricordino di me —  
+Il mio Paradiso — la fama  
+Che Essi — pronuncino il mio nome —

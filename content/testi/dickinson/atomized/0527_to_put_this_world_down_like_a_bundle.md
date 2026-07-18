@@ -32,3 +32,25 @@ Sacrament, Saints partook before us —
 Patent, every drop,  
 With the Brand of the Gentile Drinker  
 Who indorsed the Cup —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Posare questo Mondo, come un Fardello —  
+E camminare saldi, via,  
+Richiede Energia — forse Agonia —  
+È la via Scarlatta  
+
+Calcata con diritta [[Renunciation|rinuncia]]  
+Dal Figlio di [[God|Dio]] —  
+Più tardi, i suoi fiochi Confederati  
+Giustificano la [[Road|Strada]] —  
+
+Sapori di quell'antica Crocifissione —  
+Filamenti di Fiore, che Ponzio Pilato seminò —  
+Grappoli Forti, dalla Tomba di Barabba —  
+
+Sacramento, che i Santi presero prima di noi —  
+Patente, ogni goccia,  
+Col Marchio del Bevitore Gentile  
+Che avallò il Calice —

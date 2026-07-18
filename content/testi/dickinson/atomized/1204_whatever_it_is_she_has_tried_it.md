@@ -28,3 +28,21 @@ Only lest she be lonely
 In thy beautiful [[house|House]]  
 Give her for her Transgression  
 License to think of us —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Qualunque cosa sia — lei l'ha provata —  
+Tremendo Padre dell'[[Love|Amore]] —  
+Non è Nostro il castigare —  
+Non castigare la Colomba —  
+
+Non per Noi, la supplica —  
+Nulla resta da pregare —  
+Quando un soggetto è concluso —  
+Le Parole vengono consegnate via —  
+
+Solo perché non sia sola  
+Nella tua bella [[house|Casa]]  
+Dalle per la sua Trasgressione  
+Licenza di pensare a noi —

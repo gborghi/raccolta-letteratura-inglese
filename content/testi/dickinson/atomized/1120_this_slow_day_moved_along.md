@@ -23,3 +23,16 @@ I told my [[Soul|soul]] to come —
 It was no use to wait —  
 We went and played and came again  
 And it was out of sight —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo lento Giorno avanzava —  
+Ne udivo andare gli assi  
+Come se non potessero sollevarsi  
+Tanto odiavano il moto —  
+
+Dissi alla mia [[Soul|anima]] di venire —  
+Era inutile aspettare —  
+Andammo e giocammo e tornammo  
+Ed era fuori di vista —

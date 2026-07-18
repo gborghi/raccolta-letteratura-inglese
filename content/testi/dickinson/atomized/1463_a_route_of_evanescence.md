@@ -22,3 +22,15 @@ And every Blossom on the Bush
 Adjusts its tumbled Head —  
 The mail from Tunis, probably,  
 An easy Morning's Ride —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Rotta di Evanescenza  
+Con una [[Wheel|Ruota]] che gira —  
+Una Risonanza di Smeraldo —  
+Un Impeto di Cocciniglia —  
+E ogni Fiore sul Cespuglio  
+Raddrizza il Capo scomposto —  
+La posta da Tunisi, probabilmente,  
+Un'agevole Corsa di un Mattino —

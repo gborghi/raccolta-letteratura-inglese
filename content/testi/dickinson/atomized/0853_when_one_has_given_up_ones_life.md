@@ -23,3 +23,16 @@ The Peaks, that lingered last
 Remain in Her regret  
 As scarcely as the Iodine  
 Upon the Cataract.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando Uno ha ceduto la propria vita  
+Il distacco dal resto  
+Pare facile, come quando il Giorno lascia andare  
+Interamente l'Occidente  
+
+Le Vette, che indugiarono ultime  
+Restano nel Suo rimpianto  
+Appena quanto lo Iodio  
+Sulla Cateratta.

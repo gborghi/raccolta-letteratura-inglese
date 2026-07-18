@@ -38,3 +38,31 @@ The single Flower of the Earth
 That I, in passing by  
 Unconscious was — Great [[Nature]]'s Face  
 Passed infinite by Me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fiorì e cadde, un Solo [[Noon|Mezzogiorno]] —  
+Il Fiore — distinto e Rosso —  
+Io, passando, pensai che un altro [[Noon|Mezzogiorno]]  
+Un altro in sua vece
+
+Splenderà uguale, e non pensai di Più  
+Ma venne un altro Giorno  
+A trovare la Specie scomparsa —  
+Lo Stesso Luogo —
+
+Il [[Sun|Sole]] al suo posto — nessun'altra frode  
+Sulla Somma perfetta della [[Nature|Natura]] —  
+Mi fossi solo attardata Ieri —  
+Fu la mia colpa irrecuperabile —
+
+Molti [[Flowers|Fiori]] di questa e di più lontane Zone  
+Sono periti nelle mie Mani  
+Per cercarne la Somiglianza —  
+Ma inavvicinato esso sta —
+
+L'unico Fiore della Terra  
+Che io, passando oltre  
+Ignara fui — il Volto della Grande [[Nature|Natura]]  
+Passò infinito accanto a Me —

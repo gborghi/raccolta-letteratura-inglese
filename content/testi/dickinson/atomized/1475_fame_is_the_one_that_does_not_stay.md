@@ -22,3 +22,15 @@ Or be that most insolvent thing
 A [[Lightning]] in the Germ —  
 Electrical the embryo  
 But we demand the Flame
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Fama è quella che non resta —  
+Il suo occupante deve morire  
+O fuori dalla vista della stima  
+Ascendere incessantemente —  
+O essere quella cosa più insolvente  
+Un [[Lightning|Lampo]] nel Germe —  
+Elettrico l'embrione  
+Ma noi esigiamo la Fiamma

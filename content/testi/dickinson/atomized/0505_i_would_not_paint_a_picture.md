@@ -40,3 +40,33 @@ A privilege so awful
 What would the Dower be,  
 Had I the Art to stun myself  
 With Bolts of Melody!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non dipingerei — un quadro —  
+Vorrei piuttosto essere Colei  
+Che sulla sua chiara impossibilità  
+Indugia — deliziosa — sopra —  
+E [[Wonder|domandarmi]] cosa sentano le dita  
+Il cui raro — celeste — moto —  
+Evoca un Tormento così dolce —  
+Una così sontuosa — [[Despair|Disperazione]] —  
+
+Non parlerei, come Cornette —  
+Vorrei piuttosto essere Colei  
+Sollevata piano verso i Soffitti —  
+E fuori, e lieve oltre —  
+Per Villaggi di Etere —  
+Io stessa fatta Pallone  
+Da un solo labbro di Metallo —  
+Il molo del mio Pontone —  
+
+Né sarei un Poeta —  
+È più fine — possedere l'Orecchio —  
+Innamorato — impotente — contento —  
+La Licenza di venerare,  
+Un privilegio così tremendo  
+Quale sarebbe la Dote,  
+Avessi l'Arte di stordire me stessa  
+Con Folgori di Melodia!

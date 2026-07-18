@@ -24,3 +24,17 @@ For he insures to none
 Lest men specified adorn  
 Procuring him perpetual drest  
 By dating it a sudden feast.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non posso vedere la mia [[Soul|anima]] ma so ch'è là  
+Né mai vidi la sua [[house|casa]] né la mobilia,  
+Di chi m'ha invitata a dimorare con lui;  
+Ma da ospite fiduciosa consulto [[Well|pure]],  
+Quale veste più lo onori,  
+Perch'io sia adeguatamente vestita,  
+Poiché egli non assicura nessuno  
+Perché uomini designati non adornino  
+Procurandogli perpetua veste  
+Datandola improvvisa festa.

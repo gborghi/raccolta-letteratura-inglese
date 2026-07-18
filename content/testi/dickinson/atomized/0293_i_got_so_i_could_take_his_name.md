@@ -48,3 +48,41 @@ For so minute affair
 
 As Misery —  
 Itself, too vast, for interrupting — more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Arrivai a poter dire il suo nome —  
+Senza — Guadagno immenso —  
+Quella sensazione-d'Arresto — sulla mia [[Soul|Anima]] —  
+E il Tuono — nella Stanza —  
+
+Arrivai a poter attraversare  
+Quell'Angolo nel pavimento,  
+Dove lui si volse così, e io mi volsi — come —  
+E ogni nostro Tendine si strappò —  
+
+Arrivai a poter smuovere la Scatola —  
+In cui crebbero le sue lettere  
+Senza quello sforzo, nel respiro —  
+Come Graffe — conficcate a fondo —  
+
+Ricordavo appena una Grazia —  
+Credo, la chiamino "[[God|Dio]]" —  
+Rinomata nel lenire l'Estremo —  
+Quando la Formula, aveva fallito —  
+
+E comporre le mie Mani —  
+Al modo della Supplica,  
+Pur ignara di una parola  
+Che l'Ordinazione — pronuncia —  
+
+Il mio Affare, con la Nuvola,  
+Se dietro vi sia, un Potere,  
+Non soggetto a [[Despair|Disperazione]] —  
+Che si curi, in qualche modo più remoto,  
+Di un affare così minuto  
+304  
+
+Come la Miseria —  
+Essa stessa, troppo vasta, per interrompere — ancora —

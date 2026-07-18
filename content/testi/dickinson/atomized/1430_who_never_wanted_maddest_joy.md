@@ -23,3 +23,16 @@ Within its reach, though yet ungrasped
 [[Desire]]'s perfect Goal —  
 No nearer — lest the Actual —  
 Should disentrall thy [[Soul|soul]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi mai non volle — la più folle [[Joy|Gioia]]  
+A lui resta ignota —  
+Il Banchetto dell'Astinenza  
+Sfigura quello del Vino —  
+
+A portata di mano, ma non ancora colto  
+Il Traguardo perfetto del [[Desire|Desiderio]] —  
+Non più vicino — che il Reale —  
+Non disincanti la tua [[Soul|anima]] —

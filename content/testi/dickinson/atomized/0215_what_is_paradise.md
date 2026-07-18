@@ -34,3 +34,27 @@ I shan't walk the "Jasper" — barefoot —
 Ransomed folks — won't laugh at me —  
 Maybe — "Eden" a'n't so lonesome  
 As [[New England]] used to be!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che cos'è — il "Paradiso" —  
+Chi ci vive —  
+Sono "Contadini" —  
+"Zappano" —  
+Sanno che questa è "Amherst" —  
+E che io — sto arrivando — anch'io —  
+
+Portano "scarpe nuove" — nell'"Eden" —  
+È sempre piacevole — lì —  
+Non ci sgrideranno — quando avremo nostalgia —  
+O diranno a [[God|Dio]] — quanto siamo [[Cross|stizziti]] —  
+
+Sei sicuro che esista una persona  
+Come "un Padre" — nel cielo —  
+Così se mi perdo — lì — un giorno —  
+O faccio ciò che la [[Nurse|Balia]] chiama "morire" —  
+Non camminerò sul "Diaspro" — a piedi nudi —  
+I riscattati — non rideranno di me —  
+Forse — l'"Eden" non è così solitario  
+Come la [[New England|Nuova Inghilterra]] era un tempo!

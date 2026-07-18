@@ -33,3 +33,26 @@ The Answer of the [[Sea]] unto
 The Motion of the [[Moon]] —  
 Herself adjust Her Tides — unto —  
 Could I — do else — with Mine?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Potevo bastare a Lui, sapevo —  
+Lui — poteva bastare a Me —  
+Pure Frazioni Esitanti — Entrambi  
+Scrutammo l'Infinità —  
+
+"Sarei Io Intera" Lui d'improvviso propose —  
+La mia sillaba si ribellò —  
+Fu faccia a faccia con la [[Nature|Natura]] — forzata —  
+Fu faccia a faccia con [[God|Dio]] —  
+
+Si ritrasse il [[Sun|Sole]] — verso Altri Occidenti —  
+Si ritrasse la più remota Stella  
+Prima che Decisione — si chinasse a parola —  
+E allora — sia più udibile  
+
+La Risposta del [[Sea|Mare]] verso  
+Il Moto della [[Moon|Luna]] —  
+Ella stessa aggiusta le Sue Maree — verso —  
+Potevo Io — fare altro — con le Mie?

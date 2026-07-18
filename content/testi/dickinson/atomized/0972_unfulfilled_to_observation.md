@@ -23,3 +23,16 @@ Unto Us — the Suns extinguish —
 To our Opposite —  
 New Horizons — they embellish —  
 Fronting Us — with [[Night]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Incompiuto all'Osservazione —  
+Incompleto — all'Occhio —  
+Ma per la [[Faith|Fede]] — una Rivoluzione  
+Di Località —  
+
+Per Noi — i Soli si estinguono —  
+Per il nostro Opposto —  
+Nuovi Orizzonti — essi adornano —  
+Fronteggiandoci — con la [[Night|Notte]].

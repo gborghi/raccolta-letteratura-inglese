@@ -33,3 +33,26 @@ Say — that a little life — for His —
 Is leaking — red —  
 His little Spaniel — tell Him!  
 Will He heed?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+PIÙ —  
+
+Se Lui si dissolve — allora — non c'è nulla — più —  
+Eclissi — a Mezzanotte —  
+Era buio — prima —  
+Tramonto — a Pasqua —  
+Cecità — sull'[[Dawn|Alba]] —  
+Fioca Stella di Betlemme —  
+Tramontata!  
+
+Volesse qualche [[God|Dio]] — informarLo —  
+O sarà troppo tardi!  
+Dite — che il polso appena balbetta —  
+I Carri attendono —  
+
+Dite — che una piccola vita — per la Sua —  
+Sta stillando — rossa —  
+Il Suo piccolo Spaniel — diteGlielo!  
+Darà ascolto?

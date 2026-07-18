@@ -38,3 +38,31 @@ A [[Wonder]] if the Sepulchre
 Don't feel a lonesome way —  
 When Men — and Boys — and Carts — and June,  
 Go down the Fields to "Hay" —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi dispiacciono i Morti — Oggi —  
+Sono tempi così cordiali  
+Quelli dei Vecchi Vicini alle staccionate —  
+È [[Time|tempo]] d'anno da Fieno.  
+
+E Larghe — Conoscenze Arse dal Sole  
+Discorrono fra la Fatica —  
+E ridono, specie casalinga  
+Che fa sorridere le Staccionate —  
+
+Pare così arduo giacere lontani  
+Da tutto il rumore dei Campi —  
+I Carri Affaccendati — i fragranti Covoni —  
+Il Metro del Falciatore — Scivola via —  
+
+Un Cruccio che abbiano nostalgia —  
+Quei Contadini — e le loro Mogli —  
+Messi in disparte dai Lavori dei campi —  
+E da tutte le vite dei Vicini —  
+
+Uno [[Wonder|Stupore]] se il Sepolcro  
+Non provi un senso di solitudine —  
+Quando Uomini — e Ragazzi — e Carri — e Giugno,  
+Scendono nei Campi a "Far Fieno" —

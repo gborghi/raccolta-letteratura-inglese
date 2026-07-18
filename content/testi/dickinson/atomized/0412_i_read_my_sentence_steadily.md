@@ -28,3 +28,21 @@ But she, and [[Death]], acquainted —
 Meet tranquilly, as friends —  
 Salute, and pass, without a Hint —  
 And there, the Matter ends —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lessi la mia sentenza — fermamente —  
+La riesaminai con gli occhi,  
+Per vedere di non aver fatto errore  
+Nella sua clausola estrema —  
+La Data, e il modo, della vergogna —  
+E poi la Pia Formula  
+Che "[[God|Dio]] abbia [[Mercy|misericordia]]" dell'[[Soul|Anima]]  
+Che la Giuria Gli votò —  
+Resi la mia [[Soul|anima]] familiare — con la sua estremità —  
+Perché alla fine, non fosse un'Agonia [[Novel|nuova]] —  
+Ma lei, e la [[Death|Morte]], conoscenti —  
+S'incontrino tranquille, come amiche —  
+Si salutino, e passino, senza un Cenno —  
+E lì, la Faccenda finisce —

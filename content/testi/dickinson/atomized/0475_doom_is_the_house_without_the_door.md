@@ -23,3 +23,16 @@ Because Escape — is done —
 Of what they do outside —  
 Where Squirrels play — and Berries die —  
 And Hemlocks — bow — to [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Destino è la [[house|Casa]] senza la [[Door|Porta]] —  
+Vi si entra dal [[Sun|Sole]] —  
+E poi la Scala è gettata via,  
+Perché la Fuga — è compiuta —  
+
+È variato dal Sogno  
+Di ciò che fanno fuori —  
+Dove giocano gli Scoiattoli — e muoiono le Bacche —  
+E le Tsughe — s'inchinano — a [[God|Dio]] —

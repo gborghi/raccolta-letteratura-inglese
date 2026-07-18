@@ -25,3 +25,18 @@ And They — appointed Creatures —
 In Authorized Arrays —  
 Due — promptly — as a Drama —  
 That bows — and disappears —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Interi Golfi — di Rosso, e Flotte — di Rosso —  
+E Ciurme — di solido [[Blood|Sangue]] —  
+Presero posto sull'Occidente — Stanotte —  
+Come fosse Suolo designato —  
+
+E Loro — Creature incaricate —  
+In Schiere Autorizzate —  
+Puntuali — pronte — come un Dramma —  
+Che s'inchina — e scompare —

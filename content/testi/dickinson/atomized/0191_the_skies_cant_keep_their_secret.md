@@ -33,3 +33,26 @@ So keep your secret — Father!
 I would not — if I could,  
 Know what the Sapphire Fellows, do,  
 In your new-fashioned world!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I Cieli non sanno tenere il loro segreto!  
+Lo dicono alle Colline —  
+Le Colline lo dicono ai Frutteti —  
+E quelli — alle Giunchiglie!  
+
+Un Uccello — per caso — che passa di là —  
+Piano origlia ogni cosa —  
+Se corrompessi quell'Uccellino —  
+Chissà che non lo direbbe?  
+
+Penso che non lo farò — comunque —  
+È più bello — non sapere —  
+Se l'[[Summer|Estate]] fosse un Assioma —  
+Che sortilegio avrebbe la [[Snow|Neve]]?  
+
+Custodisci dunque il tuo segreto — Padre!  
+Non vorrei — se potessi,  
+Sapere cosa fanno i Compagni di Zaffiro,  
+Nel tuo mondo di nuova foggia!

@@ -51,3 +51,44 @@ And when the Heavens — disband —
 And Deity conclude —  
 Then — look for me. Be sure you say —  
 Least Figure — on the [[Road]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Lingua — per dirGli che son fedele!  
+Il suo compenso — sia d'Oro —  
+Avesse [[Nature|Natura]] — nella Sua mostruosa [[house|Casa]]  
+Un solo Cencioso [[Child|Bimbo]] —  
+
+Per guadagnare una Miniera — correrebbe  
+Quella Via Interdetta,  
+E direbbe a Lui — T'ingiungo di parlar chiaro —  
+Che fin qui — la [[Truth|Verità]] è Vera?  
+
+E risponda a Ciò che faccio —  
+Cominciando dal Giorno  
+Che la [[Night|Notte]] — iniziò —  
+No — Mezzanotte — era —  
+Da che Mezzanotte — accadde — di' —  
+
+Se ancora una volta — Perdono — Ragazzo —  
+La Magnitudine tu possa  
+Ampliare il mio Messaggio — Se troppo vasto  
+Un altro Garzone — ti aiuti —  
+
+La tua Paga — in Diamanti — sia —  
+E la Sua — in Oro massiccio —  
+Di' Rubini — se Lui esita —  
+Il mio Messaggio — dev'essere detto —  
+
+Di' — l'ultimo che dissi — fu Questo —  
+Che quando i Colli — scenderanno —  
+E non si terranno più alti della Piana —  
+Il mio Vincolo — sarà appena iniziato —  
+
+421  
+
+E quando i Cieli — si scioglieranno —  
+E la Deità concluderà —  
+Allora — cercami. Bada di dire —  
+Minima Figura — sulla [[Road|Strada]] —

@@ -23,3 +23,16 @@ In broken mathematics
 We estimate our prize  
 Vast — in its fading ration  
 To our penurious eyes!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come presso i morti [[Love|amiamo]] sedere,  
+Divenuti così mirabilmente cari —  
+Come ai perduti ci aggrappiamo  
+Benché tutti gli altri siano qui —  
+
+In matematiche spezzate  
+Stimiamo il nostro tesoro  
+Vasto — nella sua razione che svanisce  
+Ai nostri occhi avari!

@@ -22,3 +22,15 @@ Its fervor the electric Oar,
 That bore it through the Tomb,  
 Ourselves, denied the privilege,  
 Consolelessly presume —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non è l'ondeggiante forma che ci manca,  
+È il Cuore saldo,  
+Che avesse battuto mille anni,  
+Con [[Love|Amore]] [[Alone|soltanto]] si sarebbe piegato,  
+Il suo fervore l'elettrico Remo,  
+Che lo portò attraverso la Tomba,  
+Noi, negato il privilegio,  
+Sconsolatamente presumiamo —

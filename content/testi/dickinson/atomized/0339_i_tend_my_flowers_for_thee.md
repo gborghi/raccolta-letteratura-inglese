@@ -45,3 +45,38 @@ I'll dwell in Calyx — Gray —
 How modestly — alway —  
 Thy Daisy —  
 Draped for thee!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Curo i miei [[Flowers|fiori]] per te —  
+Fulgida Assente!  
+Le Cuciture di Corallo della mia Fucsia  
+Si strappano — mentre il Seminatore — [[Dreams|sogna]]  
+
+I Gerani — si tingono — e si chiazzano —  
+Basse Margherite — punteggiano —  
+Il mio Cactus — apre la sua Barba  
+Per mostrare la gola —  
+
+I Garofani — versano la loro spezia —  
+E le [[Bees|Api]] — la raccolgono —  
+Un Giacinto — che nascosi —  
+Sporge un Capo Arruffato —  
+E odori cadono  
+Da fiale — così piccole —  
+Che ti stupisci come contenessero —  
+
+Rose a Globo — spezzano il loro fiocco di raso —  
+Sul suolo del mio [[Garden|Giardino]]  
+Eppure — tu — non lì —  
+Avrei ugual caro non recassero  
+Cremisi — mai più —  
+
+Il tuo fiore — sia gaio —  
+Il suo Signore — lontano!  
+Mal mi si addice —  
+Dimorerò nel Calice — Grigia —  
+Con che modestia — sempre —  
+La tua Margherita —  
+Ammantata per te!

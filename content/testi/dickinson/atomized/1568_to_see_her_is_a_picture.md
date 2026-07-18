@@ -22,3 +22,15 @@ To know her not — Affliction —
 To own her for a Friend  
 A warmth as near as if the [[Sun]]  
 Were shining in your Hand.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vederla è un Quadro —  
+Udirla è una Melodia —  
+Conoscerla un'Intemperanza  
+[[Innocent|innocente]] come Giugno —  
+Non conoscerla — Afflizione —  
+Averla per Amica  
+Un calore così vicino come se il [[Sun|Sole]]  
+Splendesse nella tua Mano.

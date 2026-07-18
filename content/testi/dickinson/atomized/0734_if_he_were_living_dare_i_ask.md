@@ -33,3 +33,26 @@ And He — I pushed — with sudden force —
 In face of the Suspense —  
 "Was buried" — "Buried"! "He!"  
 My Life just holds the Trench —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se Egli fosse vivo — oserei chiedere —  
+E come se fosse morto —  
+E così intorno alle Parole andai —  
+D'incontrarle — timorosa —  
+
+Accennai Mutamenti — Lasso di [[Time|Tempo]] —  
+Le Superfici degli Anni —  
+Toccai con Cautela — che non s'incrinassero —  
+E mi mostrassero alle mie paure —  
+
+Tornai a Vite adiacenti —  
+Scansando con destrezza  
+Ovunque sospettassi Tombe —  
+Era più prudente — pensai —  
+
+E Lui — incalzai — con forza improvvisa —  
+In faccia all'Attesa —  
+"Fu sepolto" — "Sepolto"! "Lui!"  
+La mia Vita regge appena la Trincea —

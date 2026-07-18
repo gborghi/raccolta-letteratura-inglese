@@ -23,3 +23,16 @@ Mansions must exclude the [[Storm|storm]]!
 I don't know him; snugly built!  
 Could the Children find the way there —  
 Some, would even trudge tonight!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Case" — così mi dicono i Saggi —  
+"Dimore"! Le Dimore devono esser calde!  
+Le Dimore non possono lasciar entrare le [[Tears|lacrime]],  
+Le Dimore devono escludere la [[Storm|tempesta]]!  
+
+"Molte Dimore," presso "suo Padre,"  
+Io non lo conosco; costruite ben salde!  
+Potessero i Bambini trovarne la via —  
+Alcuni, arrancherebbero fin stanotte!

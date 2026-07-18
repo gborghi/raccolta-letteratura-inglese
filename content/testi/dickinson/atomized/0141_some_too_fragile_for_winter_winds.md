@@ -28,3 +28,21 @@ This covert have all the children
 Early aged, and often cold,  
 Sparrow, unnoticed by the Father —  
 Lambs for whom [[Time|time]] had not a fold.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alcuni, troppo fragili per i venti d'[[Winter|inverno]]  
+La [[Grave|tomba]] pensosa racchiude —  
+Rimboccandoli con tenerezza dal [[Frost|gelo]]  
+Prima che i loro piedi sian freddi.  
+
+Mai i tesori del suo nido  
+La cauta [[Grave|tomba]] espone,  
+Costruendo dove lo scolaro non osa guardare,  
+E il cacciatore non è audace.  
+
+Questo rifugio hanno tutti i bambini  
+Presto invecchiati, e spesso freddi,  
+Passero, inosservato dal Padre —  
+Agnelli per cui il [[Time|tempo]] non ebbe ovile.

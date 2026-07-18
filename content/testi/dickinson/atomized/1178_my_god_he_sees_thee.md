@@ -23,3 +23,16 @@ Elate the Acre at his feet —
 Upon his Atom swim —  
 Oh [[Sun]] — but just a Second's right  
 In thy long Race with him!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mio [[God|Dio]] — Egli ti vede —  
+Splendi al tuo meglio —  
+Lancia in alto le tue Sfere d'Oro  
+Finché ogni Cubito giochi con te  
+E ogni Crescente regga —  
+Esalta l'Acro ai suoi piedi —  
+Sul suo Atomo nuota —  
+Oh [[Sun|Sole]] — solo il diritto d'un Secondo  
+Nella tua lunga Corsa con lui!

@@ -38,3 +38,31 @@ The Rumor's Gate was shut so tight
 Before my Mind was sown,  
 Not even a Prognostic's Push  
 Could make a Dent thereon —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo Spirito dura — ma in quale modo —  
+Quaggiù, il [[Body|Corpo]] parla,  
+Ma solo come lo Spirito concede —  
+Separato, non parla mai —  
+La Musica nel Violino  
+Non emerge [[Alone|sola]]  
+Ma a Braccetto col Tocco, eppure il Tocco  
+[[Alone|Solo]] — non è Melodia —  
+Lo Spirito si cela nella Carne  
+Come Maree dentro il [[Sea|Mare]]  
+Che fanno viva l'[[Water|Acqua]], separati  
+Cosa sarebbe l'Uno o l'Altra?  
+Lo sa — ora — o cessa —  
+Ciò che a questo vien fatto,  
+Riprendendo a una data comune  
+Con ogni futuro essere?  
+L'Istinto incalza l'Adamante,  
+Esigendo questa Risposta —  
+Avversità se così sarà, oppure  
+Selvaggia Prosperità,  
+La Porta della Voce fu serrata così stretta  
+Prima che la mia Mente fosse seminata,  
+Che nemmeno la Spinta d'un Prognostico  
+Poté farvi un'Ammaccatura —

@@ -29,3 +29,22 @@ What gaze!
 When from a thousand skies  
 On our developed eyes  
 Noons blaze!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se il [[Pain|dolore]] alla pace prepara  
+Ecco, quali anni "Augustei"  
+Attendono i nostri piedi!  
+
+Se primavere dall'[[Winter|inverno]] sorgono,  
+Possono gli Anemoni  
+Essere contati?  
+
+Se la [[Night|notte]] tien fermo — poi il [[Noon|mezzogiorno]]  
+A cingerci per il [[Sun|sole]],  
+Che sguardo!  
+
+Quando da mille cieli  
+Sui nostri occhi maturati  
+Mezzogiorni avvampano!

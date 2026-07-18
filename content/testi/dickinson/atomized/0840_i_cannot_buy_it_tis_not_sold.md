@@ -29,3 +29,22 @@ Though it took all my store
 But just to look it in the Eye —  
 "Did'st thou?" "Thou did'st not mean," to say,  
 Then, turn my Face away.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non posso comprarlo — non si vende —  
+Non ve n'è un altro al Mondo —  
+Il mio era l'unico  
+
+Ero così felice che scordai  
+Di chiudere la [[Door|Porta]] Ed esso uscì  
+E sono tutta [[Alone|sola]] —  
+
+Se potessi trovarlo Ovunque  
+Non mi peserebbe il [[Journey|viaggio]] fin là  
+Costasse pure ogni mia scorta  
+
+Ma solo per guardarlo nell'Occhio —  
+"Fosti tu?" "Tu non intendevi," dirgli,  
+Poi, volgere il mio Viso altrove.

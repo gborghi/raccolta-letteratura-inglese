@@ -27,3 +27,20 @@ And lets the morning go —
 That Beggar, when an honored Guest,  
 Those thirsty lips to flagons pressed,  
 Heaven to us, if true.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come Vedette sospese all'Oriente,  
+Come Mendicanti in tripudio a un banchetto  
+Imbandito da saporita Fantasia —  
+Come ruscelli nei deserti mormorano dolci  
+A orecchio troppo lontano per la delizia,  
+Il Cielo lusinga gli stanchi.  
+
+Come quella stessa vedetta, quando l'Oriente  
+Apre il coperchio d'Ametista  
+E lascia andare il mattino —  
+Quel Mendicante, quando Ospite onorato,  
+Quelle labbra assetate premute ai boccali,  
+Il Cielo per noi, se vero.

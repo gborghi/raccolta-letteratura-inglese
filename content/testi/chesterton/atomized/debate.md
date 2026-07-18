@@ -1036,7 +1036,7 @@ The [[Pilgrim]]'s Progress is that man."
 
 <span class="qlang-split" data-lang="it"></span>
 
-CECIL PALMER
+CECIL PALMER  
 
 [[London|Londra]], 1928
 

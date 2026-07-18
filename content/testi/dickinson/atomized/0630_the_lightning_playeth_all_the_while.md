@@ -28,3 +28,21 @@ Upon the Ropes — above our Head —
 Continual — with the News —  
 Nor We so much as check our speech —  
 Nor stop to [[Cross|cross]] Ourselves —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Lightning|Lampo]] giuoca — tutto il tempo —  
+Ma quando Egli canta — allora —  
+Noi siamo consci ch'Egli esiste —  
+E Lo avviciniamo — severi —  
+
+Con Isolatori — e un Guanto —  
+Il cui breve — sepolcrale Basso  
+Ci allarma — benché i Suoi Gialli piedi  
+Possano passare — e ripassare —  
+
+Sulle Funi — sopra il nostro Capo —  
+Continuo — con le Notizie —  
+Né Noi sospendiamo neppure il discorso —  
+Né sostiamo a [[Cross|segnarci]] la fronte —

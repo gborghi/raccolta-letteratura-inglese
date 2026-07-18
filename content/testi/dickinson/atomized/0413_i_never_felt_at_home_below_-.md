@@ -33,3 +33,26 @@ Perennial beholds us —
 Myself would run away  
 From Him — and Holy [[Ghost]] — and All —  
 But there's the "Judgement Day"!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non mi sono mai sentita a [[Home|Casa]] — Quaggiù —-  
+E nei Bei Cieli  
+Non mi sentirò a [[Home|Casa]] — lo so —  
+Non mi piace il Paradiso —  
+
+Perché è [[Sunday|Domenica]] — tutto il [[Time|tempo]] —  
+E la Ricreazione — non arriva mai —  
+E l'Eden sarà così desolato  
+Nei luminosi Mercoledì Pomeriggio —  
+
+Se [[God|Dio]] potesse fare una visita —  
+O mai facesse un Sonnellino —  
+Così da non vederci — ma dicono  
+Che Egli stesso — un Telescopio  
+
+Perenne ci contempla —  
+Io scapperei via  
+Da Lui — e dallo [[Ghost|Spirito]] Santo — e da Tutto —  
+Ma c'è il "Giorno del Giudizio"!

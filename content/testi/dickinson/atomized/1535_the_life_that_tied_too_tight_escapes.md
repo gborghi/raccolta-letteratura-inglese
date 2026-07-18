@@ -22,3 +22,15 @@ The [[Horse]] that scents the living Grass
 And sees the Pastures smile  
 Will be retaken with a shot  
 If he is caught at all —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Vita che legata troppo stretta sfugge  
+Correrà per sempre poi  
+Con uno sguardo prudente all'indietro  
+E spettri della Briglia —  
+Il [[Horse|Cavallo]] che fiuta l'Erba viva  
+E vede sorridere i Pascoli  
+Sarà ripreso con uno sparo  
+Se mai verrà catturato —

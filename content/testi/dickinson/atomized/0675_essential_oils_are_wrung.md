@@ -23,3 +23,16 @@ The General [[Rose]] — [[Decay|decay]] —
 But this — in Lady's Drawer  
 Make [[Summer]] — When the Lady lie  
 In Ceaseless Rosemary —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oli Essenziali — si spremono —  
+L'Essenza dalla [[Rose|Rosa]]  
+Non la estraggono i Soli — [[Alone|soltanto]] —  
+È il dono degli Strettoi —  
+
+La [[Rose|Rosa]] comune — [[Decay|decade]] —  
+Ma questa — nel Cassetto della Dama  
+Fa [[Summer|Estate]] — Quando la Dama giace  
+In Rosmarino Incessante —

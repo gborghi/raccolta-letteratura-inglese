@@ -35,3 +35,28 @@ Trust the loving promise
 Underneath the mould,  
 Cry "it's I," "take Dollie,"  
 And I will enfold!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Passavo spesso il villaggio  
+Tornando a [[Home|casa]] da scuola —  
+E mi chiedevo cosa vi facessero —  
+E perché fosse così quieto —  
+
+Non sapevo allora l'anno —  
+In cui sarebbe giunta la mia chiamata —  
+Più presto, sulla Meridiana,  
+Di quando gli altri sono andati.  
+
+È più quieto del tramonto.  
+È più fresco dell'[[Dawn|alba]] —  
+Le Margherite osano venire qui —  
+E gli [[Birds|uccelli]] possono scendere a volo —  
+
+Così quando sarai stanco —  
+O smarrito — o freddo —  
+Fidati della promessa amorosa  
+Sotto la zolla,  
+Grida "sono io," "prendi Dollie,"  
+E io ti avvolgerò!

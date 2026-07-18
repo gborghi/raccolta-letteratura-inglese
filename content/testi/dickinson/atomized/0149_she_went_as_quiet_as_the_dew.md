@@ -23,3 +23,16 @@ She dropt as softly as a star
 From out my [[Summer|summer]]'s eve ;  
 Less skilful than Leverrier  
 It's sorer to believe!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se ne andò quieta come la [[Dew|rugiada]]  
+Da un fiore familiare.  
+Ma non come la [[Dew|rugiada]] fece ritorno  
+All'ora consueta !  
+
+Cadde soave come una stella  
+Dalla sera della mia [[Summer|estate]] ;  
+Meno abile di Leverrier  
+È più doloroso da credere!

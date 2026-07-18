@@ -22,3 +22,15 @@ The latter — excellent to keep —
 But for ecstatic need  
 The corkless is superior —  
 I know for I have tried
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tra la forma di Vita e la Vita  
+La differenza è grande  
+Quanto tra Liquore al Labbro  
+E Liquore nella Brocca  
+Quest'ultimo — eccellente da serbare —  
+Ma per estatico bisogno  
+Quello senza tappo è superiore —  
+Lo so perché ho provato

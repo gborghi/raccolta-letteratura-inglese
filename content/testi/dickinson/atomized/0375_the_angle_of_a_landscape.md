@@ -38,3 +38,31 @@ From Polar Caskets — fetched me —
 The Chimney — and the [[Hill]] —  
 And just the Steeple's finger —  
 These — never stir at all —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Angolo di un Paesaggio —  
+Che ogni [[Time|volta]] che mi sveglio —  
+Tra la mia Tenda e il Muro  
+Sopra un'ampia Fessura —  
+
+Come una Veneziana — in attesa —  
+Si rivolge al mio occhio aperto —  
+È solo un Ramo di Mele —  
+Tenuto obliquo, nel Cielo —  
+
+Il Disegno di un Camino —  
+La Fronte di un [[Hill]] —  
+Talvolta — l'Indice di una Banderuola —  
+Ma quello — è Occasionale —  
+
+Le [[Seasons]] — spostano — il mio Quadro —  
+Sul mio Ramo di Smeraldo,  
+Mi sveglio — e non trovo — Smeraldi —  
+Poi — Diamanti — che la [[Snow]]  
+
+Da Scrigni Polari — mi recò —  
+Il Camino — e il [[Hill]] —  
+E solo il dito del Campanile —  
+Questi — non si muovono mai —

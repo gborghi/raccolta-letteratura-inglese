@@ -33,3 +33,26 @@ If Commonwealth below,
 Or Commonwealth above  
 Have missed a Barefoot Citizen —  
 I've ransomed it — alive —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Raccontò una storia semplice  
+E la macchiò di [[Tears|lacrime]] —  
+Sul suo volto d'infante era impressa  
+La Cicatrice degli anni —  
+
+Tutta gualcita era la guancia  
+Che altro bacio non aveva conosciuto  
+Se non falda di [[Snow|neve]], divisa con  
+Il Pettirosso del Granaio —  
+
+Se Madre — nella [[Grave|Tomba]] —  
+O Padre — sul [[Sea|Mare]] —  
+O Padre nel Firmamento —  
+O Fratelli, avesse —  
+
+Se Comunità di sotto,  
+O Comunità di sopra  
+Hanno perduto un Cittadino Scalzo —  
+Io l'ho riscattato — vivo —

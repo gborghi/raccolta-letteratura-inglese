@@ -29,3 +29,22 @@ Confirm — in Victory —
 We start — as if detected  
 In [[Immortality]] —  
 An angel is everywhere
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un'ignoranza un Tramonto  
+Conferisce all'Occhio —  
+Di Territorio — Colore —  
+Circonferenza — [[Decay|Declino]] —  
+
+La sua Ambrata [[Revelation|Rivelazione]]  
+Esalta — Avvilisce —  
+L'ispezione dell'Onnipotenza  
+Sul Nostro volto inferiore —  
+
+E quando i tratti solenni  
+Confermano — in Vittoria —  
+Trasaliamo — come colti  
+In [[Immortality|Immortalità]] —  
+Un angelo è ovunque

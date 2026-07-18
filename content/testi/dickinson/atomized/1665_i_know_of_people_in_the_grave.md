@@ -23,3 +23,16 @@ If they the chance had had.
 And swells the scantest deed —  
 My right to walk upon the Earth  
 If they this moment had.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+So di gente nella [[Grave|Tomba]]  
+che sarebbe assai felice  
+di sapere la notizia che so stanotte  
+se ne avesse avuto l'occasione.  
+
+È questo che espande il minimo evento  
+e gonfia l'atto più esiguo —  
+Il mio diritto di camminare sulla Terra  
+se loro questo istante avessero.

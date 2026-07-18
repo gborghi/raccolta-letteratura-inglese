@@ -22,3 +22,15 @@ If I should cease to take the names
 My buds commemorate —  
 'Twill be because [[Death]]'s finger  
 Claps my murmuring lip!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se io cessassi di portare una [[Rose|Rosa]]  
+In un giorno di festa,  
+Sarà perché oltre la [[Rose|Rosa]]  
+Sono stata chiamata via —  
+Se cessassi di prendere i nomi  
+Che i miei boccioli commemorano —  
+Sarà perché il dito della [[Death|Morte]]  
+Serra il mio labbro mormorante!

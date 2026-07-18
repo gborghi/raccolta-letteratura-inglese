@@ -33,3 +33,26 @@ Were every [[Storm|storm]] so spice
 The Value could not be —  
 We buy with contrast — Pang is good  
 As near as [[Memory|memory]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Snow|Neve]] che mai s'ammucchia —  
+La transitoria, fragrante [[Snow|neve]]  
+Che viene una sola [[Time|volta]] l'Anno  
+Ora lieve sta turbinando —  
+
+Così compiuta nell'[[Tree|Albero]]  
+Di [[Night|notte]] sotto la stella  
+Che fosse il Piede di Febbraio  
+L'Esperienza giurerebbe —  
+
+Come l'[[Winter|Inverno]] quale Volto  
+Che severo e antico conoscemmo  
+Sanato di tutto fuorché della [[Loneliness|Solitudine]]  
+Dall'Alibi della [[Nature|Natura]] —  
+
+Fosse ogni [[Storm|tempesta]] così spezia  
+Il Valore non potrebbe darsi —  
+Compriamo col contrasto — la Fitta è buona  
+Quanto le è vicina la [[Memory|memoria]] —

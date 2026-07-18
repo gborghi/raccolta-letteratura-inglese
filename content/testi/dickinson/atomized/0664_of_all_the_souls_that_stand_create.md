@@ -26,3 +26,19 @@ When Figures show their royal Front —
 And Mists — are carved away,  
 Behold the Atom — I preferred —  
 To all the lists of Clay!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di tutte le Anime che stanno create —  
+Io ho eletto — Una —  
+Quando il Senso dallo Spirito — si sfila via —  
+E il Sotterfugio — è compiuto —  
+Quando ciò che è — e ciò che fu —  
+Separati — intrinseci — stanno —  
+E questo breve Dramma nella carne —  
+È spostato — come una Sabbia —  
+Quando le Figure mostrano la regale Fronte —  
+E le Nebbie — sono scolpite via,  
+Ecco l'Atomo — che preferii —  
+A tutte le liste d'Argilla!

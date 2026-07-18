@@ -22,3 +22,15 @@ For though his price was not of Gold —
 More arduous there is —  
 That one should comprehend the worth  
 Was all the price there was —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua Mente come Stoffe d'Oriente  
+Esposta alla [[Despair|disperazione]]  
+Di ognuno tranne qua e là  
+Un umile Compratore —  
+Ché il suo prezzo non era d'Oro —  
+Ve n'è di più arduo —  
+Che uno ne comprendesse il valore  
+Era tutto il prezzo che c'era —

@@ -33,3 +33,26 @@ Roses of a steadfast [[Summer|summer]]
 In a steadfast land,  
 Where no [[Autumn]] lifts her pencil —  
 And no Reapers stand!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sia pure Fustagno il mio destino —  
+Damasco fine il suo —  
+Porti pure lei grembiule d'argento —  
+Io, uno meno divino —  
+
+Pure, il mio piccolo essere di Zingara  
+Preferirei di gran lunga,  
+Pure, il mio piccolo seno abbronzato  
+Al suo più Roseo,  
+
+Ché, quando i Geli, le dita puntuali  
+Poseranno sulla sua fronte,  
+Tu ed io, e il Dr. Holland,  
+Fioriremo in Eterno!  
+
+Rose d'una salda [[Summer|estate]]  
+In una terra salda,  
+Dove nessun [[Autumn|Autunno]] leva la matita —  
+E nessun Mietitore sta!

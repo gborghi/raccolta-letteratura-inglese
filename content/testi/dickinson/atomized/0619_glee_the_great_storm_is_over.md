@@ -33,3 +33,26 @@ Then a [[Silence|silence]] suffuses the story,
 And a softness the teller's eye ;  
 And the children no further question,  
 And only the waves reply.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gioia ! la grande [[Storm|tempesta]] è passata !  
+Quattro hanno riguadagnato la terra ;  
+Quaranta scesi insieme  
+Nella sabbia ribollente.  
+
+Suonate, per la scarsa salvezza !  
+Rintoccate, per le care anime, —  
+Vicino e amico e sposo,  
+Che vorticano sui bassifondi !  
+
+Come racconteranno il naufragio  
+Quando l'[[Winter|inverno]] scuote la [[Door|porta]],  
+Finché i bambini chiedano : "Ma i quaranta ?  
+Non tornarono mai più ?"  
+
+Allora un [[Silence|silenzio]] pervade la storia,  
+E una dolcezza l'occhio del narratore ;  
+E i bambini non domandano oltre,  
+E solo le onde rispondono.

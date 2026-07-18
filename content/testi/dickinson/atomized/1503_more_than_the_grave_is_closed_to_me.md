@@ -20,3 +20,13 @@ To which the [[Grave]] adheres —
 I cling to nowhere till I fall —  
 The Crash of nothing, yet of all —  
 How similar appears —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Più che la [[Grave|Tomba]] mi è chiusa —  
+La [[Grave|Tomba]] e quell'[[Eternity|Eternità]]  
+A cui la [[Grave|Tomba]] aderisce —  
+Non mi aggrappo a nulla finché cado —  
+Lo Schianto di niente, eppure di tutto —  
+Come simile appare —

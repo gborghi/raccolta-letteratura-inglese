@@ -27,3 +27,20 @@ Thy Batteries [[divorce]].
 Fight sternly in a Dying eye  
 Two Armies, [[Love]] and Certainty  
 And [[Love]] and the Reverse.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Morire! Per avere paura di te  
+Si deve alla tua Artiglieria  
+Aver lasciato esposto un Amico —  
+Più che la tua vecchia Freccia è un Colpo  
+Recapitato più diritto al Cuore  
+Il lasciare indietro l'[[Love|Amore]].  
+
+Non per sé, la [[Dust|Polvere]] è schiva,  
+Ma, nemico, Amato sia  
+Delle tue Batterie il [[divorce|divorzio]].  
+Combattono severe in un occhio Morente  
+Due Armate, l'[[Love|Amore]] e la Certezza  
+E l'[[Love|Amore]] e il suo Contrario.

@@ -23,3 +23,16 @@ A Diamond — overtake
 In far — Bolivian Ground —  
 Misfortune hath no implement  
 Could mar it — if it found —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rovescio non può cogliere  
+Quella fine Prosperità  
+Le cui Sorgenti sono interiori —  
+Non prima — che l'Avversità  
+
+Un Diamante — raggiunga  
+In lontano — Suolo Boliviano —  
+Sventura non ha strumento  
+Che possa guastarlo — se lo trovasse —

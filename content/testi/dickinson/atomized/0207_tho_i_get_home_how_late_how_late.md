@@ -28,3 +28,21 @@ Just how long-cheated eyes will turn —
 To [[Wonder|wonder]] what myself will say,  
 And what itself, will say to me —  
 Beguiles the Centuries of way!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Benché io giunga a [[Home|casa]] tardi — così tardi —  
+Purché io giunga a [[Home|casa]] - compenserà —  
+Migliore sarà l'Estasi  
+Perché avranno smesso di attendermi —  
+Quando la [[Night|Notte]] — scendendo — muta — e buia —  
+Odono il mio bussare inatteso —  
+Rapimento dev'essere quel momento —  
+Distillato da decenni d'Agonia!  
+
+Pensare a come arderà il [[Fire|fuoco]] —  
+A come occhi a lungo delusi si volgeranno —  
+A [[Wonder|domandarsi]] che cosa io stessa dirò,  
+E che cosa essa, dirà a me —  
+Inganna i Secoli di cammino!

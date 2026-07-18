@@ -26,3 +26,19 @@ And then, I brake my life — And Lo,
 A Light, for her, did solemn glow,  
 The larger, as her face withdrew —  
 And could she, further, "No"?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le mostrai Vette che mai vide —  
+"Vorresti Salire," dissi?  
+Lei disse — "Non così" —  
+"Con me —" dissi — Con me?  
+Le mostrai [[Secrets|Segreti]] — il Nido del Mattino —  
+La Fune su cui le Notti eran tese —  
+E ora — "Mi vorresti come Ospite?"  
+Non seppe trovare il suo Sì —  
+E allora, infransi la mia vita — Ed Ecco,  
+Una Luce, per lei, solenne arse,  
+Più grande, mentre il suo volto arretrava —  
+E poteva lei, ancora, dir "No"?

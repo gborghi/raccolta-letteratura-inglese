@@ -23,3 +23,16 @@ Some such Spice — express and pass —
 Subject to Your Plucking —  
 As the [[Stars]] — You knew last [[Night]] —  
 Foreigners — This Morning —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una tale Farfalla si vede  
+Sulle Pampas Brasiliane —  
+Giusto a [[Noon|mezzogiorno]] — non più tardi — Dolce —  
+Poi — la Licenza si chiude —  
+
+Una tale Spezia — s'esprime e passa —  
+Soggetta al Tuo Cogliere —  
+Come le [[Stars|Stelle]] — che conoscevi ieri [[Night|Notte]] —  
+Straniere — Questo Mattino —

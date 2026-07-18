@@ -23,3 +23,16 @@ As Sinews do, with age —
 But not a Remedy —  
 If such it prove, it prove too  
 There was no Malady —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dicono che "il [[Time|Tempo]] mitiga" —  
+Il [[Time|Tempo]] non ha mai mitigato —  
+Una vera [[Suffering|sofferenza]] si rafforza  
+Come i Tendini, con l'età —  
+
+Il [[Time|Tempo]] è una Prova dell'Affanno —  
+Ma non un Rimedio —  
+Se tale si dimostra, dimostra anche  
+Che non c'era Malattia —

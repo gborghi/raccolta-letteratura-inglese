@@ -23,3 +23,16 @@ The [[Seasons]] played around his knees
 Like Children round a sire —  
 Grandfather of the Days is He  
 Of [[Dawn]], the Ancestor —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Monte sedeva sulla Pianura  
+Nella sua Sedia immensa —  
+La sua osservazione onniplice,  
+La sua inchiesta, ovunque —  
+
+Le [[Seasons|Stagioni]] giocavano alle sue ginocchia  
+Come Bimbi attorno a un padre —  
+Nonno dei Giorni è Lui  
+Dell'[[Dawn|Alba]], l'Antenato —

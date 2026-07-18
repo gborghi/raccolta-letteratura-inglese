@@ -23,3 +23,16 @@ The Boys that whistled are extinct —
 The Cows that fed and thanked  
 Remanded to a Ballad's Barn  
 Or Clover's Retrospect —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Ragazzo sbiadito — in Abiti giallastri  
+Che guidava una Mucca solitaria  
+A pascoli d'Oblio —  
+Embrione d'uno statista —  
+
+I Ragazzi che fischiavano sono estinti —  
+Le Mucche che pascevano e ringraziavano  
+Rimandate a un Fienile di Ballata  
+O alla Retrospettiva del Trifoglio —

@@ -44,3 +44,37 @@ Till Sundown crept — a steady Tide —
 And Men that made the Hay —  
 And Afternoon — and Butterfly —  
 Extinguished — in the [[Sea]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dal Bozzolo fuori una Farfalla  
+Come Dama dalla sua [[Door|Porta]]  
+Emerse — un Pomeriggio d'[[Summer|Estate]] —  
+Recandosi Ovunque —  
+
+Senza Disegno — che io potessi scorgere  
+Se non vagare qua e là  
+In Miscellanea Impresa  
+Che i Trifogli — capivano —  
+
+Il suo grazioso Parasole si vide  
+Contrarsi in un Campo  
+Dove gli Uomini facevano il Fieno —  
+Poi lottare a fatica  
+Con una Nuvola avversa —  
+
+Dove Comitive — [[Phantom|Fantasma]] come Lei —  
+Verso il Nulla — parevano andare  
+In Circonferenza senza scopo —  
+Come fosse uno Spettacolo dei Tropici —  
+
+E nonostante l'Ape — che lavorava —  
+E il Fiore — che zelante sbocciava —  
+Questo Pubblico d'Ozio  
+Li disdegnava, dal Cielo —  
+
+Finché il Tramonto strisciò — Marea costante —  
+E gli Uomini che facevano il Fieno —  
+E il Pomeriggio — e la Farfalla —  
+Si estinsero — nel [[Sea|Mare]] —

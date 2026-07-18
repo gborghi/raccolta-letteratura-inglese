@@ -23,3 +23,16 @@ By and by — the boldest stole out of his Covert
 To see if [[Time]] was there —  
 [[Nature]] was in an Opal Apron,  
 Mixing fresher Air.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Pareva che le Strade corressero  
+E poi — le Strade si fermarono —  
+Eclissi — era tutto ciò che vedevamo alla [[Window|Finestra]]  
+E Sgomento — tutto ciò che sentivamo.  
+
+A poco a poco — il più ardito sgusciò dal suo Nascondiglio  
+Per vedere se il [[Time|Tempo]] c'era ancora —  
+La [[Nature|Natura]] era in un Grembiule d'Opale,  
+A mescolare Aria più fresca.

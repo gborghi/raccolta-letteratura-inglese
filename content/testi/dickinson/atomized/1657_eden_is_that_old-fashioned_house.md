@@ -23,3 +23,16 @@ How fair on looking back, the Day
 We sauntered from the [[Door]] —  
 Unconscious our returning,  
 But discover it no more.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Eden è quella [[house|Casa]] all'antica  
+che abitiamo ogni giorno  
+senza sospettare la nostra dimora  
+finché non ce ne andiamo via.  
+
+Com'è bello, a guardare indietro, il Giorno  
+in cui uscimmo indolenti dalla [[Door|Porta]] —  
+Ignari del nostro ritorno,  
+ma non la ritroviamo più.

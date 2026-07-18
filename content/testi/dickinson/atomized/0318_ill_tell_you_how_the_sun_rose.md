@@ -30,3 +30,23 @@ Till when they reached the other side,
 A Dominie in Gray —  
 Put gently up the evening Bars —  
 And led the flock away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vi dirò come il [[Sun|Sole]] [[Rose|sorse]] —  
+Un Nastro alla [[Time|volta]] —  
+I Campanili nuotavano in Ametista —  
+La novella, come Scoiattoli, correva —  
+Le Colline slegarono le loro Cuffie —  
+I Bobolink — cominciarono —  
+Allora dissi piano a me stessa —  
+"Dev'essere stato il [[Sun|Sole]]"!  
+Ma come tramontò — non so —  
+Pareva esserci una scaletta purpurea  
+Che piccoli fanciulli e fanciulle Gialli  
+Scalavano tutto il tempo —  
+Finché, giunti dall'altra parte,  
+Un Dominie in Grigio —  
+Alzò dolcemente le Sbarre della sera —  
+E condusse via il gregge —

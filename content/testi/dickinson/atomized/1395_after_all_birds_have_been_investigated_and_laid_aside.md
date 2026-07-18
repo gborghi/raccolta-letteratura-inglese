@@ -25,3 +25,18 @@ First at the March — competing with the [[Wind]] —
 Her panting note exalts us — like a friend —  
 Last to adhere when [[Summer]] cleaves away —  
 [[elegy|Elegy]] of Integrity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+MESSI DA PARTE —  
+
+Dopo che tutti gli [[Birds|Uccelli]] sono stati esaminati e messi da parte —  
+[[Nature|Natura]] impartisce il piccolo Uccello-Azzurro — certa  
+Che la sua Voce coscienziosa si leverà impassibile  
+Sopra l'apparente Vicissitudine.  
+
+Prima al Marzo — in gara col [[Wind|Vento]] —  
+La sua nota ansante ci esalta — come un'amica —  
+Ultima ad aderire quando l'[[Summer|Estate]] si stacca —  
+[[elegy|Elegia]] d'Integrità.

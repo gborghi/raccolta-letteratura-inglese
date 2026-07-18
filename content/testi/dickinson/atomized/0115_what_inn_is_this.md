@@ -24,3 +24,17 @@ No ruddy fires on the hearth —
 No brimming Tankards flow —  
 Necromancer! Landlord!  
 Who are these below?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che [[Inn]] è questa  
+dove per la [[Night|notte]]  
+giunge un Viaggiatore singolare?  
+Chi è l'Oste?  
+Dove le ancelle?  
+Guarda, che stanze curiose!  
+Nessun fuoco rossastro sul focolare —  
+Nessun Boccale colmo trabocca —  
+Negromante! Oste!  
+Chi sono costoro qui sotto?

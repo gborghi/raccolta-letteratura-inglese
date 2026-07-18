@@ -22,3 +22,15 @@ All — for Him — straightway —
 At the Setting [[Sun]] —  
 I missed mine — how dreary — Marbles —  
 After playing [[Crown]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[God|Dio]] permette ad Angeli industriosi —  
+Nei pomeriggi — di giocare —  
+Ne incontrai uno — scordai i miei Compagni di scuola —  
+Tutti — per Lui — all'istante —  
+[[God|Dio]] richiama a [[Home|casa]] — gli Angeli — puntuale —  
+Al Tramontare del [[Sun|Sole]] —  
+Mi mancò il mio — che tristezza — le Biglie —  
+Dopo aver giocato alla [[Crown|Corona]]!

@@ -23,3 +23,16 @@ A Narrow [[Wind]] complains all Day
 How some one treated him  
 [[Nature]], like Us is sometimes caught  
 Without her Diadem.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cielo è basso — le Nuvole sono meschine.  
+Un Fiocco di [[Snow|Neve]] in Viaggio  
+Attraverso un Granaio o lungo un Solco  
+Dibatte se andare —  
+
+Un Angusto [[Wind|Vento]] si lagna tutto il Giorno  
+Di come qualcuno lo abbia trattato  
+La [[Nature|Natura]], come Noi è talvolta colta  
+Senza il suo Diadema.

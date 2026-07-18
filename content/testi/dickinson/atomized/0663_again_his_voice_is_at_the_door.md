@@ -51,3 +51,44 @@ I'd give — to live that hour — again —
 The purple — in my Vein —  
 But He must count the drops — himself —  
 My price for every stain!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di nuovo — la sua voce è alla [[Door|porta]] —  
+Sento il vecchio Grado —  
+Lo sento chiedere al servo  
+Di una tale — come me —  
+
+Prendo un fiore — nell'andare —  
+Il mio volto a giustificare —  
+Non mi vide mai — in questa vita —  
+Potrei sorprendere il suo occhio!  
+
+[[Cross|Attraverso]] la Sala con passi confusi —  
+Io — silenziosa — oltrepasso la [[Door|porta]] —  
+Guardo tutto ciò che questo mondo contiene —  
+Solo il suo volto — nulla più!  
+
+Parliamo con noncuranza — e getta —  
+Una sorta di tratto di scandaglio —  
+Ognuno — sondando — timidamente —  
+Solo — quanto — a fondo —  
+Quello dell'altro — fosse giunto —  
+
+Camminiamo — lascio il mio Cane — a [[Home|casa]] —  
+Una tenera — pensosa [[Moon|Luna]] —  
+Viene con noi — solo un poco di strada —  
+E — poi — siamo [[Alone|soli]] —  
+
+[[Alone|Soli]] — se gli Angeli sono "[[Alone|soli]]" —  
+La prima [[Time|volta]] che tentano il cielo!  
+[[Alone|Soli]] — se quei "volti velati" — lo sono —  
+Che non possiamo contare — Lassù!  
+
+703  
+
+Darei — per vivere quell'ora — ancora —  
+La porpora — nella mia Vena —  
+Ma Lui deve contare le gocce — da sé —  
+Il mio prezzo per ogni macchia!

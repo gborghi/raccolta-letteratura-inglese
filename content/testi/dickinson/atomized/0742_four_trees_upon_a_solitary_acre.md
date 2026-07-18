@@ -33,3 +33,26 @@ What Deed is Theirs unto the General [[Nature]] —
 What Plan  
 They severally — retard — or further —  
 Unknown —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quattro Alberi — su un Acro solitario —  
+Senza Disegno  
+Od Ordine, o Azione Apparente —  
+Mantengono —  
+
+Il [[Sun|Sole]] — un Mattino li incontra —  
+Il [[Wind|Vento]] —  
+Vicino più prossimo — non hanno —  
+Se non [[God|Dio]] —  
+
+L'Acro dà loro — Luogo —  
+Essi — a Lui — l'Attenzione del Passante —  
+Di [[Shadow|Ombra]], o di Scoiattolo, forse —  
+O di Ragazzo —  
+
+Quale Opera è la Loro per la [[Nature|Natura]] Universale —  
+Quale Piano  
+Ciascuno — ritardi — o promuova —  
+Ignoto —

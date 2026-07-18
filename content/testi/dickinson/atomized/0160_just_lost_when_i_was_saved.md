@@ -36,3 +36,29 @@ Next [[Time|time]], to tarry,
 While the Ages steal —  
 Slow tramp the Centuries,  
 And the Cycles [[Wheel|wheel]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Appena perduta, quando ero salva!  
+Appena sentito il mondo passare!  
+Appena cinta per l'assalto con l'[[Eternity|Eternità]],  
+Quando il respiro rifluì,  
+E dall'altra riva  
+Udii ritrarsi la marea delusa!  
+
+Perciò, come Una tornata, sento  
+Strani [[Secrets|segreti]] del confine da narrare!  
+Qualche Marinaio, che rasenta lidi stranieri —  
+Qualche pallido Cronista, dalle porte tremende  
+Prima del Sigillo!  
+
+La prossima [[Time|volta]], restare!  
+La prossima [[Time|volta]], vedere le cose  
+Da Orecchio inaudite,  
+Non scrutate da Occhio —  
+
+La prossima [[Time|volta]], indugiare,  
+Mentre le Ere scivolano —  
+Lento marciano i Secoli,  
+E i Cicli [[Wheel|ruotano]]!

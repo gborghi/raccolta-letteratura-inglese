@@ -26,3 +26,19 @@ This limitless Hyperbole
 Each one of us shall be —  
 'Tis Drama — if Hypothesis  
 It be not [[Tragedy]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È più bianco d'una Pipa Indiana —  
+È più fioco d'un Merletto —  
+Statura non ha, come una Nebbia  
+Quando ti avvicini al luogo —  
+Né voce alcuna lo implica qui  
+O lo insinua là  
+Uno spirito — come accosta —  
+Che funzione ha l'Aria?  
+Questa Iperbole illimitata  
+Ciascuno di noi sarà —  
+È Dramma — se Ipotesi  
+Non sia [[Tragedy|Tragedia]] —

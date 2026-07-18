@@ -28,3 +28,21 @@ We trust, in plumed procession,
 For such the angels go,  
 Rank after rank, with even feet  
 And uniforms of [[Snow|snow]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Combattere ad alta voce è gran coraggio,  
+Ma più prode, io so,  
+Chi carica dentro il petto  
+La cavalleria del dolore.  
+
+Chi vince, e le nazioni non vedono,  
+Chi cade, e nessuno osserva,  
+I cui occhi morenti nessun paese  
+Guarda con patriottico [[Love|amore]].  
+
+Confidiamo, in piumata processione,  
+Che per costoro vadano gli angeli,  
+Fila dopo fila, con passo uguale  
+E uniformi di [[Snow|neve]].

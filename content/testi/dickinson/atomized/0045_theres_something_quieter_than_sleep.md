@@ -33,3 +33,26 @@ While simple-hearted neighbors
 Chat of the "Early dead" —  
 We — prone to periphrasis  
 Remark that [[Birds]] have fled!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è qualcosa di più quieto del [[Sleep|sonno]]  
+Dentro questa stanza interna!  
+Porta un rametto sul petto —  
+E non vuol dire il suo nome.  
+
+Alcuni lo toccano, altri lo baciano —  
+Altri sfregano la sua mano inerte —  
+Ha una semplice gravità  
+Che io non comprendo!  
+
+Io non piangerei, fossi in loro —  
+Che sgarbo singhiozzare!  
+Potrebbe spaventare la quieta fata  
+Ricacciandola al suo bosco natio!  
+
+Mentre i vicini dal cuore semplice  
+Chiacchierano dei "Morti precoci" —  
+Noi — inclini alla perifrasi  
+Osserviamo che gli [[Birds|Uccelli]] son fuggiti!

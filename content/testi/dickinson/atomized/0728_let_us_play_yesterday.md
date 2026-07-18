@@ -60,3 +60,53 @@ Then — doomed new —
 As of the Free —  
 Take not my [[Liberty]]  
 Away from Me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Giochiamo a Ieri —  
+Io — la Ragazza a scuola —  
+Tu — e l'[[Eternity|Eternità]] — il  
+Racconto Mai narrato —  
+
+Placando la mia fame  
+Sul mio Lessico —  
+Logaritmo — avevo — per Bevanda —  
+Era un Vino secco —  
+
+Alquanto diverso — dev'essere —  
+I [[Dreams|Sogni]] tingono il [[Sleep|Sonno]] —  
+Astuti Rossi del Mattino  
+Fanno il Cieco — balzare —  
+
+Ancora alla vita d'Uovo —  
+Fregando il Guscio —  
+Quando turbasti l'Ellisse —  
+E l'Uccello cadde —  
+
+Le Manette siano fioche — dicono —  
+Per il nuovo Libero —  
+[[Liberty|Libertà]] — più Ordinaria —  
+Mai poté — per me —  
+
+Fu la mia ultima gratitudine  
+Quando dormivo — di [[Night|notte]] —  
+Fu il primo Miracolo  
+Fatto entrare — con la Luce —  
+
+Può l'Allodola riprendere il Guscio —  
+769  
+
+Più facile — per il Cielo —  
+Non ferirebbero i Ceppi di più  
+Che Ieri?  
+
+Non roderebbero le Segrete più aspre  
+L'Uomo — libero —  
+Giusto il tempo d'assaggiare —  
+Poi — condannato di nuovo —  
+
+[[God|Dio]] della Manetta  
+Come del Libero —  
+Non togliere la mia [[Liberty|Libertà]]  
+Via da Me —

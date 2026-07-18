@@ -23,3 +23,16 @@ A [[Summer]] further I must wear,
 Content if [[Nature]]'s Drawer  
 Present me from sepulchral Crease  
 As blemishless, as Her.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo piccolo Parasole alzare  
+E una volta richiuderlo  
+La sua intera Responsabilità —  
+Imitarla sia la Mia.  
+
+Un'[[Summer|Estate]] ancora devo indossare,  
+Contenta se il Cassetto della [[Nature|Natura]]  
+Mi porgerà dalla Piega sepolcrale  
+Immacolata, come Lei.

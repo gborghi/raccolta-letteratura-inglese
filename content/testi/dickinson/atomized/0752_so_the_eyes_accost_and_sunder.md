@@ -23,3 +23,16 @@ Entertain — without addressing
 Countenance of One  
 In a Neighboring Horizon —  
 Gone — as soon as known —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così gli Occhi si affrontano — e si separano  
+In un'Adunanza —  
+Impressi — talvolta — per sempre —  
+Così può un Volto  
+
+Intrattenere — senza rivolgersi  
+Al Volto di Uno  
+In un Orizzonte Vicino —  
+Svanito — appena conosciuto —

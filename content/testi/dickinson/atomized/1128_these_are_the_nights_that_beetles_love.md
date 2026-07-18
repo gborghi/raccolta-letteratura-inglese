@@ -30,3 +30,23 @@ Too dear the [[Summer]] evening
 Without discreet alarm —  
 Supplied by Entomology  
 With its remaining charm —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Queste sono le Notti che i Coleotteri [[Love|amano]] —  
+Da Eminenza remota  
+Guida ponderoso perpendicolare  
+La sua figura intima  
+Il terrore dei Bambini  
+Il divertimento degli uomini  
+Deposto il suo Tuono  
+Si issa di nuovo al largo —  
+Una Bomba sul Soffitto  
+È cosa che migliora —  
+Tiene i nervi progressivi  
+La Congettura fiorente —  
+Troppo cara la sera d'[[Summer|Estate]]  
+Senza discreto allarme —  
+Fornito dall'Entomologia  
+Con il suo residuo incanto —

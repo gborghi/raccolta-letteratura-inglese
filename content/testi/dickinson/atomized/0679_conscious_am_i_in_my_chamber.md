@@ -38,3 +38,31 @@ Neither if He visit Other —
 Do He dwell — or Nay — know I —  
 But Instinct esteem Him  
 [[Immortality]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conscia sono io nella mia Stanza,  
+D'un amico senza forma —  
+Egli non attesta con la Postura —  
+Né Conferma — con Parola —  
+
+Né Luogo — devo presentarGli —  
+Più adatta Cortesia  
+L'ospitale intuizione  
+Della Sua Compagnia —  
+
+La Presenza — è la Sua estrema licenza —  
+Né Egli a Me  
+Né Io a Lui — per Accento —  
+Perdiamo Probità —  
+
+Stancarsi di Lui, sarebbe più strano  
+Che se la Monotonia  
+Conoscesse una Particella — della Vasta  
+Società dello Spazio  
+
+Né se Egli visiti Altri —  
+O dimori — o No — io so —  
+Ma l'Istinto Lo stima  
+[[Immortality|Immortalità]] —

@@ -22,3 +22,15 @@ Depths of Ruby, undrained,
 Hid, Lip, for Thee —  
 Play it were a Humming Bird —  
 And just sipped — me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tutte le lettere che so scrivere  
+Non sono belle come questa —  
+Sillabe di Velluto —  
+Frasi di Felpa,  
+Profondità di Rubino, mai attinte,  
+Nascoste, Labbro, per Te —  
+Fingi che fosse un Colibrì —  
+E che sorseggiasse appena — me —

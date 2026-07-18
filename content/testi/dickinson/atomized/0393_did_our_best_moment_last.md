@@ -28,3 +28,21 @@ A Grant of the Divine —
 That Certain as it Comes —  
 Withdraws — and [[Leaves|leaves]] the dazzled [[Soul]]  
 In her unfurnished Rooms
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se durasse il Nostro Momento Migliore —  
+Soppianterebbe il Cielo —  
+Pochi — e quelli a Rischio — se ne procurano —  
+Così questa Specie — non viene concessa —  
+
+Se non come stimolanti — nei  
+Casi di [[Despair|Disperazione]] —  
+O di Stupore — La Riserva —  
+Questi Momenti Celesti sono —  
+
+Un Dono del Divino —  
+Che Certo come Viene —  
+Si ritira — e [[Leaves|lascia]] l'[[Soul|Anima]] abbagliata  
+Nelle sue Stanze non arredate

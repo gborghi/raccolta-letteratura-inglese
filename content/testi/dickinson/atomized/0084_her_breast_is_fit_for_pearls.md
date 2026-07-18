@@ -22,3 +22,15 @@ Her heart is fit for [[Home|home]] —
 I — a Sparrow — build there  
 Sweet of twigs and twine  
 My perennial nest.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo petto è degno di perle,  
+Ma io non ero un "Palombaro" —  
+La sua fronte è degna di troni  
+Ma io non ho un cimiero.  
+Il suo cuore è degno di [[Home|casa]] —  
+Io — un Passero — vi costruisco  
+Dolce di rametti e spago  
+Il mio nido perenne.

@@ -102,3 +102,95 @@ The [[Memory|memory]] of my ashes
 Will consolation be  
 Then farewell Tuscarora  
 And farewell Sir, to thee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Sic Transit Gloria Mundi|Sic transit gloria mundi]]  
+"Come fa l'ape operosa"  
+Dum vivamus vivamus  
+Io fermo il mio nemico! —  
+
+Oh veni vidi vici!  
+Oh caput cap-a-pie!  
+E oh "[[Memento Mori|memento mori]]"  
+Quando sarò lontana da te  
+
+Urrà per Peter Parley  
+Urrrà per Daniel Boone  
+Tre evviva, signore, per il gentiluomo  
+Che per primo osservò la [[Moon|luna]] —  
+
+Peter metti su il sole!  
+Pattie disponi le [[Stars|stelle]]  
+Dì a Luna, il tè è pronto  
+E chiama tuo fratello Marte —  
+
+Posa la mela Adamo  
+E vieni via con me  
+Così avrai una mela ranetta  
+Dall'[[Tree|albero]] di mio Padre!  
+
+Salgo la "[[Hill|Collina]] della Scienza"  
+"Contemplo tutto il Paesaggio"  
+Tale trascendentale prospetto  
+Mai vidi prima d'ora! —  
+
+Alla Legislatura  
+4  
+
+La mia patria m'invita ad andare,  
+Prenderò le mie soprascarpe di gomma  
+In caso soffiasse il [[Wind|vento]].  
+
+Durante la mia [[Education|educazione]]  
+Mi fu annunciato  
+Che la gravitazione inciampando  
+Cadde da un [[Tree|albero]] di mele —  
+
+La Terra sul proprio asse  
+Si supponeva un tempo girasse  
+A mo' di ginnastica  
+In onore del [[Sun|sole]] —  
+
+Fu il prode [[Columbus|Colombo]]  
+Navigando sulla marea  
+Che notificò alle nazioni  
+Dove avrei risieduto  
+
+La [[Mortality|Mortalità]] è fatale  
+La signorilità è fine  
+La bricconeria, eroica  
+L'insolvenza, [[Sublime|sublime]]  
+
+I nostri Padri essendo stanchi  
+Si coricarono su Bunker [[Hill]]  
+E benché molti e molti mattini  
+Pure dormono ancora  
+
+La tromba, signore, li desterà  
+A torrenti li vedo sorgere  
+Ciascuno con un solenne moschetto  
+Marciando verso i cieli!  
+
+Un codardo resterà, Signore,  
+5  
+
+Finché la battaglia è finita;  
+Ma un [[Hero|eroe]] immortale  
+Prenderà il cappello e correrà.  
+
+Addio Signore, me ne vado  
+La mia patria mi chiama  
+Concedetemi Signore, nel congedo  
+Di asciugarmi l'occhio in pianto  
+
+In pegno della nostra [[Friendship|amicizia]]  
+Accettate questo "Bonnie Doon"  
+E quando la mano che lo colse  
+Sarà passata oltre la [[Moon|luna]]  
+
+La [[Memory|memoria]] delle mie ceneri  
+Sarà consolazione  
+Allora addio Tuscarora  
+E addio Signore, a te.

@@ -28,3 +28,21 @@ To make some trifle fairer
 That was too fair before —  
 Enchanting by remaining,  
 And by departure more.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fosse naturale dama mortale  
+Che avesse così poco [[Time|tempo]]  
+Per fare il baule e disporre  
+Il gran cambio di clima —  
+
+Che rapidità, che gravità —  
+Quali urgenze sarebbero —  
+Ma la [[Nature|natura]] sarà pronta  
+E avrà un'ora d'avanzo.  
+
+Per fare più bello qualche nonnulla  
+Che era già troppo bello —  
+Incantevole nel restare,  
+E nel partire ancor di più.

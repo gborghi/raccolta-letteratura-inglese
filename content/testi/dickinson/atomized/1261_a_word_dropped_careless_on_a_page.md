@@ -23,3 +23,16 @@ Infection in the sentence breeds
 We may inhale [[Despair]]  
 At distances of Centuries  
 From the Malaria —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Parola caduta incurante su una Pagina  
+Può stimolare un occhio  
+Quando ripiegato in perpetua piega  
+Giace il Rugoso Artefice  
+
+Infezione nella frase cova  
+Possiamo inalare [[Despair|Disperazione]]  
+A distanze di Secoli  
+Dalla Malaria —

@@ -22,3 +22,15 @@ Divulging it would rest my Heart
 But it would ravage theirs —  
 Why, Katie, Treason has a Voice —  
 But mine — dispels — in [[Tears]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non mormorerò se infine  
+Quelli che amai quaggiù  
+Avranno il permesso di capire  
+Perché tanto li sfuggii —  
+Rivelarlo darebbe quiete al mio Cuore  
+Ma devasterebbe i loro —  
+Ebbene, Katie, il Tradimento ha una Voce —  
+Ma la mia — si dissolve — in [[Tears|Lacrime]].

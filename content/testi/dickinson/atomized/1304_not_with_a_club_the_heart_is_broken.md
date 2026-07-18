@@ -33,3 +33,26 @@ Shame need not crouch
 In such an Earth as Ours —  
 Shame — stand erect —  
 The Universe is yours.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non con una Clava, si spezza il Cuore  
+Né con una Pietra —  
+Una Frusta così piccola da non vederla  
+Ho conosciuto  
+
+Sferzare la [[Magic|Magica]] Creatura  
+Finché cadde,  
+Eppure il Nome di quella Frusta  
+Troppo nobile allora per dirlo.  
+
+Magnanima come Uccello  
+Da Fanciullo avvistato —  
+Che canta alla Pietra  
+Di cui morì —  
+
+La Vergogna non deve accucciarsi  
+In una Terra come la Nostra —  
+Vergogna — sta' eretta —  
+L'Universo è tuo.

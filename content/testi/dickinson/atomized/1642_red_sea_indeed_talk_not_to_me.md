@@ -25,3 +25,18 @@ The Eye inquires with a sigh
 That Earth sh'd be so big —  
 What Exultation in the Woe —  
 What Wine in the fatigue!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"[[Sea|Mar]] Rosso," davvero! Non parlarmi  
+Del purpureo Faraone —  
+Ho una Flotta a Occidente  
+Che trafiggerebbe le sue Colonne —  
+Candida, eppure di Gloria così fine  
+Che lungo tutta la Linea  
+È, o non è, divina —  
+L'Occhio domanda con un sospiro  
+Che la Terra sia così grande —  
+Quale Esultanza nel Dolore —  
+Quale Vino nella fatica!

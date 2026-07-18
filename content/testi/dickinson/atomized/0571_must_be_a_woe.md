@@ -32,3 +32,25 @@ Even as the Grace —
 Our lord — thought no  
 Extravagance  
 To pay — a [[Cross]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dev'esserci un Dolore —  
+Una perdita o giù di lì —  
+Per piegare l'occhio  
+Verso la via della miglior [[Beauty|Bellezza]] —  
+
+Ma — una volta obliquo  
+Nota la Delizia  
+Tanto difficile  
+Quanto una Stalattite  
+
+Una Beatitudine Comune  
+S'avrebbe per meno —  
+Il prezzo — è  
+Pari quanto la Grazia —  
+
+Nostro signore — non stimò  
+Stravaganza  
+Pagare — una [[Cross|Croce]] —

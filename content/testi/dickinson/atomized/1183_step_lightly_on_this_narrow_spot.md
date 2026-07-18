@@ -23,3 +23,16 @@ Step lofty, for this name be told
 As far as Cannon dwell  
 Or [[Flag]] subsist or Fame export  
 Her deathless Syllable.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cammina lieve su questo angusto luogo —  
+La più vasta Terra che cresce  
+Non è così ampia come il Petto  
+Che queste Cuciture di Smeraldo racchiudono.  
+
+Cammina altero, ché questo nome sia detto  
+Fin dove dimora il Cannone  
+O sussiste [[Flag|Bandiera]] o la Fama esporta  
+La sua immortale Sillaba.

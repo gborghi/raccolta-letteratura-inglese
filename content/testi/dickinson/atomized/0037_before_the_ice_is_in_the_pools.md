@@ -33,3 +33,26 @@ That which sings so — speaks so —
 When there's no one here —  
 Will the frock I wept in  
 Answer me to wear?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prima che il ghiaccio sia negli stagni —  
+Prima che vadano i pattinatori,  
+O qualche guancia al calar della sera  
+Sia offuscata dalla [[Snow|neve]] —  
+
+Prima che i campi abbiano finito,  
+Prima del [[Christmas]] e del suo [[Tree|albero]],  
+[[Wonder]] su [[Wonder|meraviglia]]  
+Arriverà fino a me!  
+
+Ciò di cui tocchiamo gli orli  
+In un giorno d'[[Summer|estate]] —  
+Ciò che sta soltanto camminando  
+A un ponte appena da qui —  
+
+Quello che canta così — parla così —  
+Quando non c'è nessuno qui —  
+La veste in cui piansi  
+Mi risponderà da indossare?

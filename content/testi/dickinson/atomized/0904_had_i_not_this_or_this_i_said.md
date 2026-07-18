@@ -33,3 +33,26 @@ But diligence — is sharper —
 Proportioned to the Chance —  
 To feed upon the Retrograde —  
 Enfeebles — the Advance —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non avessi Questo, o Questo, dissi,  
+Appellandomi a Me stessa,  
+In momento di prosperità —  
+Inadeguata — sarebbe la Vita —  
+
+"Tu non hai Me, né Me" — disse,  
+In Momento di Rovescio —  
+"Eppure sei laboriosa —  
+Non avevi — Tu — bisogno — di noi"?  
+
+Il mio bisogno — era tutto ciò che avevo — dissi —  
+Il bisogno non si ridusse —  
+Perché il cibo — sterminato —  
+La fame — non cessa —  
+
+Ma la diligenza — è più acuta —  
+Proporzionata alla Sorte —  
+Nutrirsi del Regresso —  
+Infiacchisce — l'Avanzata —

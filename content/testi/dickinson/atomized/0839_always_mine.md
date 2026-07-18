@@ -24,3 +24,17 @@ Old the Grace, but new the Subjects —
 Old, indeed, the East,  
 Yet upon His Purple Programme  
 Every [[Dawn]], is first.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sempre Mio!  
+Mai più Vacanza!  
+Termine di Luce quest'Oggi cominciato!  
+Infallibile come la bella rotazione  
+Delle [[Seasons|Stagioni]] e del [[Sun|Sole]].  
+
+Antica la Grazia, ma nuovi i Sudditi —  
+Antico, invero, l'Oriente,  
+Eppure sul Suo Programma di Porpora  
+Ogni [[Dawn|Alba]], è la prima.

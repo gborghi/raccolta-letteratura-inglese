@@ -23,3 +23,16 @@ That hovered there awhile —
 And then consolidates  
 Only the Chemist can disclose  
 Into what Carbonates.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ceneri denotano che [[Fire|Fuoco]] fu —  
+Riverite il Cumulo più Grigio  
+Per amore della Creatura Dipartita  
+Che lì aleggiò per un poco —  
+
+[[Fire|Fuoco]] esiste dapprima in luce  
+E poi si consolida  
+Solo il Chimico può svelare  
+In quali Carbonati.

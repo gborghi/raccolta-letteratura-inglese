@@ -22,3 +22,15 @@ By that bleak exultation
 I won as near as this  
 Thy privilege of dying  
 Abbreviate me this —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Attraverso quali trasporti di Pazienza  
+Giunsi all'impassibile Beatitudine  
+Di respirare il mio Vuoto senza te  
+Attestami questo e questo —  
+Per quella cupa esultanza  
+Vinsi tanto vicino a questo  
+Il tuo privilegio di morire  
+Abbreviami questo —

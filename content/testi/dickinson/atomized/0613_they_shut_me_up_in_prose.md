@@ -28,3 +28,21 @@ Himself has but to will
 And easy as a Star  
 Abolish his Captivity —  
 And laugh — No more have I —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi rinchiudono nella Prosa —  
+come quando Bambina  
+mi mettevano nello Sgabuzzino —  
+perché mi volevano "quieta" —  
+
+Quieta! Avessero potuto sbirciare —  
+e visto il mio Cervello — girare —  
+tanto sarebbe valso rinchiudere un Uccello  
+per Tradimento — nel Recinto —  
+
+A Lui basta volere  
+e facile come una Stella  
+abolire la sua Prigionia —  
+e ridere — Né più occorre a me —

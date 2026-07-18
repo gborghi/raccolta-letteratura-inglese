@@ -24,3 +24,17 @@ Groped up, to see if [[God]] was there —
 Groped backward at Himself  
 Caressed a Trigger absently  
 And wandered out of Life.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo scrutò — vacillò —  
+Lasciò cadere il Laccio  
+Al Passato o al Periodo —  
+Colto inerme da un senso come se  
+La sua Mente stesse accecandosi —  
+
+Brancolò in alto, per vedere se [[God|Dio]] era là —  
+Brancolò all'indietro verso Se stesso  
+Carezzò un Grilletto distrattamente  
+E vagò fuori dalla Vita.

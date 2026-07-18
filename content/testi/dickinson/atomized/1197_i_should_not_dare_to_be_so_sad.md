@@ -23,3 +23,16 @@ The Superhuman then withdraws
 And we who never saw  
 The Giant at the other side  
 Begin to perish now.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non oserei essere così triste  
+Tanti Anni ancora —  
+Un Carico è dapprima impossibile  
+Quando lo abbiamo deposto —  
+
+Il Sovrumano allora si ritira  
+E noi che mai vedemmo  
+Il Gigante dall'altro lato  
+Cominciamo ora a perire.

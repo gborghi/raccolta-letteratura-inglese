@@ -41,3 +41,34 @@ I ask, each new May morn.
 I wait thy far - fantastic [[Bells|bells]] -  
 Announcing me in other dells -  
 Unto the different [[Dawn|dawn]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un mattino da uomini non visto -  
+Le cui fanciulle su un più remoto verde  
+Serbano il loro serafico Maggio -  
+E tutto il giorno, con [[Dance|danza]] e gioco,  
+E capriole! che mai saprei nominare -  
+Impiegano la loro festa.  
+
+Qui a lieve misura, muovono i piedi  
+Che non percorrono più [[The Village Street|la via del villaggio]] -  
+Né presso il bosco si trovano -  
+Qui sono gli [[Birds|uccelli]] che cercarono il [[Sun|sole]]  
+Quando la conocchia dell'anno scorso pendeva oziosa  
+E le fronti dell'[[Summer|estate]] erano cinte.  
+
+Mai vidi una scena così mirabile -  
+Mai un tale cerchio su un tale verde -  
+Né una così serena schiera -  
+Come se le [[Stars|stelle]] in qualche [[Summer|estiva]] [[Night|notte]]  
+Levassero le loro coppe di Crisolito -  
+E facessero festa fino al giorno -  
+
+Come te [[Dance|danzare]] - come te cantare -  
+Genti sopra quel mistico verde -  
+Chiedo, ogni nuovo mattino di Maggio.  
+Attendo le tue lontane - fantastiche [[Bells|campane]] -  
+Che mi annunciano in altre valli -  
+Alla diversa [[Dawn|alba]]!

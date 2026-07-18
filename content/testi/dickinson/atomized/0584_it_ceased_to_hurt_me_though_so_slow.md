@@ -32,3 +32,25 @@ To keep their place —
 Nor what consoled it, I could trace —  
 Except, whereas 'twas Wilderness —  
 It's better — almost Peace —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cessò di farmi male, ma così piano  
+Che non sentii l'Angoscia andarsene —  
+Ma seppi solo guardando indietro —  
+Che qualcosa — aveva intorpidito la Traccia —  
+
+Né quando mutò, saprei dire,  
+Perché l'avevo indossata, ogni giorno,  
+Costante come il vestitino d'Infanzia —  
+Che appendevo al Gancio, la [[Night|notte]].  
+
+Ma non il Dolore — che si annidava stretto  
+Come aghi — che le dame premono piano  
+Sulle Guance dei Cuscini —  
+Perché restino al loro posto —  
+
+Né cosa lo consolò, saprei rintracciare —  
+Se non che, dov'era Deserto —  
+Ora è meglio — quasi Pace —

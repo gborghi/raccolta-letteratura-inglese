@@ -23,3 +23,16 @@ Had it a notice from the [[Noon]]
 Nor beam would it nor warm —  
 Match me the Silver Reticence —  
 Match me the Solid Calm —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo che avrebbe salutato — un'ora fa —  
+È la più strana Distanza — adesso —  
+Avesse un Ospite dal Paradiso —  
+Né arderebbe, né s'inchinerebbe —  
+
+Avesse un annuncio dal [[Noon|Mezzogiorno]]  
+Né raggerebbe né scalderebbe —  
+Eguagliatemi l'Argentea Reticenza —  
+Eguagliatemi la Salda Calma —

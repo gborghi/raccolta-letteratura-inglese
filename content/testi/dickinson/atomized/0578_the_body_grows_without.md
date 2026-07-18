@@ -23,3 +23,16 @@ Ajar — secure — inviting —
 It never did betray  
 The [[Soul]] that asked its shelter  
 In solemn honesty
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Body|Corpo]] cresce al di fuori —  
+Il modo più conveniente —  
+Perché se lo Spirito — voglia celarsi  
+Il suo Tempio sta, per sempre,  
+
+Socchiuso — sicuro — invitante —  
+Mai esso tradì  
+L'[[Soul|Anima]] che chiese il suo riparo  
+In solenne onestà

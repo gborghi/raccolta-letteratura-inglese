@@ -21,3 +21,14 @@ Remember The longest day that [[God]] appoints
 Will finish with the [[Sun|sun]].  
 Anguish can travel to it's stake,  
 And then it must return.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I biglietti andranno veloci quanto il vapore può portarli.  
+I nostri cuori sono già andati.  
+Potessimo spedire i nostri volti per il vostro caro incoraggiamento.  
+Ricorda Il giorno più lungo che [[God|Dio]] assegna  
+Finirà con il [[Sun|sole]].  
+L'angoscia può viaggiare fino al suo rogo,  
+E poi deve tornare.

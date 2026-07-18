@@ -23,3 +23,16 @@ To Races — nurtured in the Dark —
 How would your own — begin?  
 Can Blaze be shown in Cochineal —  
 Or [[Noon]] — in Mazarin?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Trovai le parole per ogni pensiero  
+Che mai ebbi — tranne Uno —  
+E quello — mi sfida —  
+Come una Mano che tentasse di [[chalk|tracciare col gesso]] il [[Sun|Sole]]  
+
+A Razze — cresciute nel Buio —  
+Come la vostra — comincerebbe?  
+Si può mostrare la Vampa in Cocciniglia —  
+O il [[Noon|Mezzogiorno]] — in Mazzarino?

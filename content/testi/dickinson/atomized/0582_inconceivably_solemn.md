@@ -32,3 +32,25 @@ Music's triumphant —
 But the fine Ear  
 Winces with delight  
 Are Drums too near —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Inconcepibilmente solenne!  
+Le Cose fatte gaie  
+Trafiggono — per la Pressione stessa  
+delle Immagini —  
+
+Le loro Parate lontane — si ordinano sull'occhio  
+Con una muta Pompa —  
+Un supplice Corteo —  
+
+Le Bandiere, sono spettacolo fiero —  
+Ma nessun Occhio vero  
+Mai passò accanto a Una —  
+Con fermezza —  
+
+La Musica è trionfante —  
+Ma l'Orecchio fine  
+Trasale di delizia  
+Se i Tamburi sono troppo vicini —

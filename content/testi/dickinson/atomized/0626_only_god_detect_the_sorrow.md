@@ -22,3 +22,15 @@ Unto [[God]] —
 Still secure —  
 [[God]] the Spirit's Honor —  
 Just as sure —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Solo [[God|Dio]] — scorge il Dolore —  
+Solo [[God|Dio]] —  
+I Geova — non sono Ciarlieri —  
+A [[God|Dio]] —  
+[[God The Son|Dio Figlio]] — Confidalo —  
+Sempre al sicuro —  
+L'Onore di [[God|Dio]] Spirito —  
+Altrettanto certo —

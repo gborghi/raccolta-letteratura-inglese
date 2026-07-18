@@ -31,3 +31,24 @@ Grand go the years in the crescent above them;
 Worlds scoop their arcs, and firmaments row,  
 Diadems drop and Doges surrender,  
 Soundless as dots on a disk of [[Snow|snow]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al sicuro nelle loro Camere d'Alabastro —  
+Intoccati dal Mattino  
+E intoccati dal [[Noon|Mezzogiorno]] —  
+[[Sleep|Dormono]] i miti membri della [[Resurrection|Resurrezione]] —  
+Travatura di raso,  
+E Tetto di pietra.  
+
+Lieve ride la brezza  
+Nel suo [[Castle|Castello]] sopra di loro —  
+Ciancia l'Ape in un Orecchio impassibile,  
+Zufolano i Dolci [[Birds|Uccelli]] in cadenza ignara —  
+Ah, quale sagacia perì qui!  
+
+Grandiosi vanno gli anni nel crescente sopra di loro;  
+I mondi scavano i loro archi, e i firmamenti remano,  
+Cadono i Diademi e i Dogi si arrendono,  
+Silenziosi come punti su un disco di [[Snow|neve]].

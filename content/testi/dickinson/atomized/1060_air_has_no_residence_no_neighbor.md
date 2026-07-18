@@ -23,3 +23,16 @@ Ethereal Guest at e'en an Outcast's Pillow —
 Essential Host, in Life's faint, wailing [[Inn]],  
 Later than Light thy Consciousness accost me  
 Till it depart, persuading Mine —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Aria non ha Residenza, né Vicino,  
+Né Orecchio, né [[Door|Porta]],  
+Né Apprensione di un Altro  
+Oh, Aria Felice!  
+
+Eterea Ospite persino al Guanciale d'un Reietto —  
+Oste essenziale, nella fioca, gemente [[Inn|Locanda]] della Vita,  
+Più tardi della Luce la tua Coscienza mi accosta  
+Finché non parte, persuadendo la Mia —

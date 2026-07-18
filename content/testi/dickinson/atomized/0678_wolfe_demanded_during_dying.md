@@ -23,3 +23,16 @@ Montcalm, his opposing Spirit
 Rendered with a smile  
 "Sweet" said he "my own Surrender  
 [[Liberty]]'s beguile"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Wolfe chiese morendo  
+"Chi ottiene il Giorno"?  
+"Generale, gli Inglesi" — "Facile"  
+Rispose Wolfe "morire"  
+
+Montcalm, il suo Spirito avverso  
+Rese con un sorriso  
+"Dolce" disse "la mia propria Resa  
+Lusinga della [[Liberty|Libertà]]"

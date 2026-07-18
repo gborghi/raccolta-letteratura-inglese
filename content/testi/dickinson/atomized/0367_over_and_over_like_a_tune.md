@@ -23,3 +23,16 @@ Snatches, from Baptized Generations —
 Cadences too grand  
 But for the Justified Processions  
 At the Lord's Right hand.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sempre e ancora, come una Melodia —  
+Il Ricordo suona —  
+Rulla giù dagli Spalti [[Phantom|Fantasma]]  
+Cornette di Paradiso —  
+
+Frammenti, da Generazioni Battezzate —  
+Cadenze troppo grandi  
+Se non per le Processioni Giustificate  
+Alla Destra del Signore.

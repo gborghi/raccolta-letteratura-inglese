@@ -31,3 +31,24 @@ Almost — contented —
 I — could be —  
 'Mong such unique  
 Society —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Andai in Cielo —  
+Era una piccola Città —  
+Illuminata — da un Rubino —  
+Tornita — di Piuma —  
+
+Più quieta — dei campi  
+Alla piena [[Dew]] —  
+Bella — come Quadri —  
+Che Uomo alcuno dipinse.  
+Gente — come la Falena —  
+Di Mechlin — trame —  
+Doveri — di Ragnatela —  
+E d'Eider — nomi —  
+Quasi — contenta —  
+Io — potrei essere —  
+In mezzo a così unica  
+Società —

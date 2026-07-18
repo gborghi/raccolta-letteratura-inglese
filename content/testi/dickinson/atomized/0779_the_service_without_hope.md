@@ -23,3 +23,16 @@ Has impetus of Gain —
 And impetus of Goal —  
 There is no Diligence like that  
 That knows not an Until —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Servizio senza [[Hope|Speranza]] —  
+È il più tenero, credo —  
+Perché non è sorretto  
+Da misura — il Lavoro Ricompensato —  
+
+Ha impeto di Guadagno —  
+E impeto di Meta —  
+Non c'è Diligenza come quella  
+Che non conosce un Fino a quando —

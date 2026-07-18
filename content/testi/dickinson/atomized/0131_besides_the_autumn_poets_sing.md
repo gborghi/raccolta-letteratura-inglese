@@ -33,3 +33,26 @@ Perhaps a squirrel may remain —
 My sentiments to share —  
 Grant me, Oh Lord, a sunny mind —  
 Thy windy will to bear!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oltre l'[[Autumn|Autunno]] i poeti cantano  
+Alcuni giorni prosaici  
+Un poco al di qua della [[Snow|neve]]  
+E al di là della Foschia —  
+
+Alcuni Mattini incisivi —  
+Alcune Sere [[ascetic|Ascetiche]] —  
+Andata — la "Verga d'Oro" di Mr. Bryant —  
+E i "covoni" di Mr. Thomson.  
+
+Quieto, è il brusio nel Ruscello —  
+Sigillate sono le valve speziate —  
+Dita mesmeriche toccano lievi  
+Gli Occhi di molti Elfi —  
+
+Forse uno scoiattolo rimarrà —  
+I miei sentimenti a condividere —  
+Concedimi, O Signore, una mente soleggiata —  
+La Tua ventosa volontà da sopportare!

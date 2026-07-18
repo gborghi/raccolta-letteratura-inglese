@@ -22,3 +22,15 @@ Immured the whole of Life
 Within a [[Magic|magic]] [[Prison]]  
 We reprimand the Happiness  
 That too competes with Heaven.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A [[God|Dio]] chiediamo un favore,  
+Che ci sia perdonato —  
+Per cosa, si presume egli sappia —  
+Il Crimine, a noi, è celato —  
+Murati l'intera Vita  
+Dentro una [[Magic|magica]] [[Prison|Prigione]]  
+Rimproveriamo la Felicità  
+Che anch'essa compete col Cielo.

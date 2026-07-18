@@ -23,3 +23,16 @@ Cochineal — I chose — for deeming
 It resemble Thee —  
 And the little Border — Dusker —  
 For resembling Me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Autumn|Autunno]] — adocchiò il mio Lavoro a maglia —  
+Tinte — disse Lui — possiedo —  
+Da far sfigurare un Fenicottero —  
+Mostramele — dissi Io —  
+
+Cocciniglia — scelsi — stimando  
+Che somigliasse a Te —  
+E il piccolo Bordo — più Scuro —  
+Perché somiglia a Me —

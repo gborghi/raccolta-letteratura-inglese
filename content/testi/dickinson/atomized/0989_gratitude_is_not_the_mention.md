@@ -23,3 +23,16 @@ When the [[Sea]] return no Answer
 By the Line and Lead  
 Proves it there's no [[Sea]], or rather  
 A remoter Bed?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gratitudine — non è la menzione  
+Di una Tenerezza,  
+Ma il suo quieto apprezzamento  
+Fuori dal Piombo della Parola.  
+
+Quando il [[Sea|Mare]] non rende Risposta  
+A Sagola e Scandaglio  
+Prova che non v'è [[Sea|Mare]], o piuttosto  
+Un più remoto Fondo?

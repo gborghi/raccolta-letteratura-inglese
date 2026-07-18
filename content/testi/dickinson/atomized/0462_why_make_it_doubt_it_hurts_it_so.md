@@ -27,3 +27,20 @@ Offend the Vision — and it flee —
 And They no more remember me —  
 Nor ever turn to tell me why —  
 Oh, Master, This is Misery —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perché farlo [[Doubt|dubitare]] — gli fa così male —  
+Così malato — supporre —  
+Così forte — sapere —  
+Così coraggioso — sul suo piccolo Letto  
+Da ridire l'ultima parola che Essi dissero  
+A Se Stesso — e sorridere — E tremare —  
+Per quel caro — lontano — pericoloso — Bene —  
+Ma — l'Invece — la [[Fear|paura]] che Attanaglia  
+Che Qualcosa — abbia fatto — o osato —  
+Da offendere la Visione — e questa fugga —  
+Ed Essi non si ricordino più di me —  
+Né mai si voltino a dirmi perché —  
+Oh, Maestro, Questa è Miseria —

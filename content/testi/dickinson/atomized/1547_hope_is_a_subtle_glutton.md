@@ -23,3 +23,16 @@ His is the Halcyon Table —
 That never seats but One —  
 And whatsoever is consumed  
 The same amount remain —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Hope|Speranza]] è un sottile Ghiottone —  
+Si nutre del Bello —  
+Eppure — a ispezionarlo da vicino  
+Che Astinenza vi è —  
+
+Sua è la Tavola Alcionia —  
+Che non ospita mai che Uno —  
+E qualunque cosa sia consumata  
+La stessa quantità rimane —

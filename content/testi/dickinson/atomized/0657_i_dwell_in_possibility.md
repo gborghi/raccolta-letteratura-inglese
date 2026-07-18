@@ -28,3 +28,21 @@ Of Visitors — the fairest —
 For Occupation — This —  
 The spreading wide my narrow Hands  
 To gather Paradise —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dimoro nella Possibilità —  
+Una [[house|Casa]] più bella della Prosa —  
+Più numerosa di Finestre —  
+Superiore — per Porte —  
+
+Di Stanze come i Cedri —  
+Inespugnabili all'Occhio —  
+E per Tetto Sempiterno  
+Le Falde del Cielo —  
+
+Di Visitatori — i più belli —  
+Per Occupazione — Questo —  
+Lo spalancare le mie strette Mani  
+A raccogliere il Paradiso —

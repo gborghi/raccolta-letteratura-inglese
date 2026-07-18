@@ -34,3 +34,27 @@ The Negro never knew
 I — wooed it — too —  
 To gain, or be undone —  
 Alike to Him — One —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Malese — prese la Perla —  
+Non — io — il Conte —  
+Io — temevo il [[Sea|Mare]] — troppo  
+Non consacrata — per toccare —  
+
+Pregando che potessi essere  
+Degna — del Destino —  
+Il fosco compagno nuotò —  
+E portò il mio [[Jewel|Gioiello]] — a [[Home|Casa]] —  
+
+A [[Home|Casa]] nella Capanna! Che sorte  
+Avessi io — il [[Jewel|Gioiello]] — colto —  
+Portato su un Petto Bruno —  
+Io non avrei stimato una Veste  
+D'Ambra — degna —  
+
+Il Negro mai seppe  
+Che io — lo bramavo — anch'io —  
+Vincerlo, o esserne disfatto —  
+Per Lui uguale — Uno —

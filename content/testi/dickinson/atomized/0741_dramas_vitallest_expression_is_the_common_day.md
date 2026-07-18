@@ -34,3 +34,27 @@ It were infinite enacted
 In the Human Heart —  
 Only Theatre recorded  
 Owner cannot shut —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+GIORNO  
+
+L'Espressione più Vitale del Dramma è il Giorno Comune  
+Che sorge e tramonta intorno a Noi —  
+Altra [[Tragedy|Tragedia]]  
+
+Perisce nella Recitazione —  
+Questo — lo recitano al meglio  
+Quando il Pubblico è disperso  
+E i Palchi chiusi —  
+
+"[[Hamlet|Amleto]]" per Sé sarebbe stato [[Hamlet|Amleto]] —  
+Non avesse [[Shakespeare]] scritto —  
+Benché il "[[Romeo]]" non lasciasse Traccia  
+Della sua [[Juliet|Giulietta]],  
+
+Sarebbe infinitamente recitato  
+Nel Cuore Umano —  
+Solo il Teatro registrato  
+Il Proprietario non può chiudere —

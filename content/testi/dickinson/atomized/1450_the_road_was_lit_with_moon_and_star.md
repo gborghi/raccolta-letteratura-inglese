@@ -22,3 +22,15 @@ To [[Magic|magic]] Perpendiculars
 Ascending, though Terrene —  
 Unknown his shimmering ultimate —  
 But he indorsed the sheen —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Road|Strada]] era accesa di [[Moon|Luna]] e stella —  
+Gli Alberi erano lucenti e immoti —  
+Scorsi — alla Luce distante  
+Un Viandante sopra un [[Hill|Colle]] —  
+A [[Magic|magiche]] Perpendicolari  
+Ascendente, benché Terreno —  
+Ignota la sua meta scintillante —  
+Ma egli avallava il fulgore —

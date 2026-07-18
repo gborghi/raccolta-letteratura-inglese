@@ -23,3 +23,16 @@ Bred as we, among the [[Mountains|mountains]],
 Can the sailor understand  
 The divine intoxication  
 Of the first league out from land?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esultanza è l'andare  
+D'un'[[Soul|anima]] dell'entroterra al [[Sea|mare]],  
+Oltre le case — oltre i promontori —  
+Nella profonda [[Eternity|Eternità]] —  
+
+Cresciuto come noi, fra le [[Mountains|montagne]],  
+Può il marinaio comprendere  
+La divina ebbrezza  
+Della prima lega via da terra?

@@ -28,3 +28,21 @@ To stimulate a Man
 Who hath the Ample Rhine  
 Within his Closet — Best you can  
 Exhale in offering.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Esaltazione — è dentro —  
+Nessun Vino Esteriore può  
+Così regalmente inebriare  
+Come quella Marca più divina  
+
+Che l'[[Soul|Anima]] consegue — da Sé —  
+Da bere — o riporre  
+Per il Visitatore — O il Sacramento —  
+Non è cosa di Festa  
+
+Stimolare un Uomo  
+Che possiede l'Ampio Reno  
+Dentro il suo Stanzino — il Meglio che puoi  
+È esalare in offerta.

@@ -22,3 +22,15 @@ He only sells the Wilderness,
 The prices of [[Despair]]  
 Range from a single human Heart  
 To Two — not any more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Banditore del Distacco  
+Il suo "Va', va', andato"  
+Grida perfino dal Crocifisso,  
+E cala il suo Martello —  
+Vende soltanto il Deserto,  
+I prezzi della [[Despair|Disperazione]]  
+Vanno da un solo Cuore umano  
+A Due — non di più —

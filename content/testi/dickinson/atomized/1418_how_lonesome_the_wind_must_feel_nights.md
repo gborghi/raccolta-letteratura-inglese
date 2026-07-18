@@ -28,3 +28,21 @@ How mighty the [[Wind]] must feel Morns
 Encamping on a thousand dawns  
 Espousing each and spurning all  
 Then soaring to his Temple Tall —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come solo deve sentirsi il [[Wind|Vento]] le Notti —  
+Quando la gente ha spento i Lumi  
+E ogni cosa che ha una [[Inn|Locanda]]  
+Chiude l'imposta e rientra —  
+
+Come fastoso deve sentirsi il [[Wind|Vento]] i Meriggi  
+Incedendo su Melodie incorporee  
+Correggendo gli errori del cielo  
+E rischiarando il paesaggio  
+
+Come possente deve sentirsi il [[Wind|Vento]] i Mattini  
+Accampandosi su mille albe  
+Sposando ognuna e tutte sdegnando  
+Poi librandosi al suo Tempio Alto —

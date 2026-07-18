@@ -23,3 +23,16 @@ But [[Time]] had added not obtained
 Impregnable the [[Rose]]  
 For [[Summer|summer]] too indelible  
 Too obdurate for Snows —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un po' di [[Snow|Neve]] qua e là  
+Disseminata nei suoi Capelli —  
+Da quando lei ed io ci incontrammo e giocammo  
+Decade s'era aggiunta a Decade —  
+
+Ma il [[Time|Tempo]] aveva aggiunto non ottenuto  
+Inespugnabile la [[Rose|Rosa]]  
+Per l'[[Summer|estate]] troppo indelebile  
+Troppo ostinata per le Nevi —

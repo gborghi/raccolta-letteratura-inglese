@@ -28,3 +28,21 @@ I fumble at my [[Childhood]]'s [[Prayer|prayer]]
 So soon to be a [[Child]] no more —  
 [[Eternity]], I'm coming — Sire,  
 Savior — I've seen the face — before!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sposa — all'alba io sarò —  
+Aurora — hai tu una [[Flag|Bandiera]] per me?  
+A Mezzanotte, non sono che Fanciulla,  
+Che poco ci vuole a fare una Sposa —  
+Poi — Mezzanotte, da te sono passata  
+All'Oriente, e alla Vittoria —  
+
+Mezzanotte — Buona [[Night|Notte]]! Li sento chiamare,  
+Gli Angeli s'affaccendano nell'Atrio —  
+Piano il mio Futuro sale la Scala,  
+Incespico nella mia [[Childhood|Infantile]] [[Prayer|preghiera]]  
+Così presto non più [[Child|Bimba]] —  
+[[Eternity|Eternità]], sto arrivando — Sire,  
+Salvatore — l'ho visto il volto — già!

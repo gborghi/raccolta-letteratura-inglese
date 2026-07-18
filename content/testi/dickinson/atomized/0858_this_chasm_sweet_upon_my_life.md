@@ -38,3 +38,31 @@ And so I bear it big about
 My Burial — before  
 A Life quite ready to depart  
 Can harass me no more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo Baratro, Dolcezza, sopra la mia vita  
+Te ne faccio menzione,  
+Quando l'Aurora per una crepa cala  
+Anche il Giorno deve seguire.  
+
+Se esitiamo, i suoi fianchi spalancati  
+Si schiudono come fosse una Tomba  
+Ove io stessa giaccio distesa  
+La Prediletta del Fato.  
+
+Quando avrà contenuto appena una Vita  
+Allora, Tesoro, si chiuderà  
+Eppure ogni Giorno più audace  
+Così turbolento cresce  
+
+Sono quasi tentata di ricucirlo  
+Con un Respiro che rimane  
+Non mi mancherebbe nel cederlo, eppure  
+Per Lui, sarebbe [[Death|Morte]] —  
+
+E così me lo porto grande addosso  
+Il mio Sepolcro — prima che  
+Una Vita ben pronta a partire  
+Possa tormentarmi mai più —

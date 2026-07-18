@@ -26,3 +26,19 @@ Resembles to my outraged mind
 The firing in Heaven,  
 On Angels — squandering for you  
 Their Miracles of Tune —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo Becco è serrato — il suo Occhio dismesso —  
+Le sue Piume afflosciate in basso —  
+Gli Artigli che stringevano, come Guanti esanimi  
+Ora pendono indifferenti —  
+La [[Joy|Gioia]] che nella sua Gola felice  
+Attendeva d'esser versata  
+Trafitta da parte a parte dalla [[Death|Morte]], per essere  
+Assassino d'un Uccello  
+Somiglia, per la mia mente oltraggiata,  
+Alla fucileria in Cielo,  
+Sugli Angeli — che sperperano per voi  
+I loro Miracoli di Melodia —

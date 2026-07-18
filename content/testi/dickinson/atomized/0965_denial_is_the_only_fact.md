@@ -23,3 +23,16 @@ And all the Earth strove common round —
 Without Delight, or Beam —  
 What Comfort was it Wisdom — was —  
 The spoiler of Our [[Home]]?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Diniego — è il solo fatto  
+Percepito dal Negato —  
+La cui Volontà — un intorpidito significato —  
+Il Giorno che il Cielo morì —  
+
+E tutta la Terra girava comune intorno —  
+Senza Delizia, né Raggio —  
+Che Conforto fu che la Saggezza — fosse —  
+La predatrice della nostra [[Home|Casa]]?

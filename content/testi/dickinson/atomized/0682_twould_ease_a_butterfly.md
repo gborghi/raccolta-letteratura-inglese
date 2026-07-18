@@ -31,3 +31,24 @@ Fade I unto Divinity —
 And Dying — Lifetime —  
 Ample as the Eye —  
 Her least attention raise on me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Darebbe sollievo — a una Farfalla —  
+Esalterebbe — un'Ape —  
+Tu non sei né l'una —  
+Né l'altra — la tua capacità —  
+
+Ma, Fiore, fossi io,  
+preferirei essere  
+il tuo attimo  
+che l'[[Eternity|Eternità]] di un'Ape —  
+
+Contentezza di sfiorire  
+mi è sufficiente —  
+Sfiorisco verso la Divinità —  
+
+E il Morire — una Vita intera —  
+Ampia come l'Occhio —  
+La sua minima attenzione levi su di me —

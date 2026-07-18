@@ -33,3 +33,26 @@ Of portion — so unconscious —
 The Robbing — could not harm —  
 Himself — to Him — a Fortune —  
 Exterior — to [[Time]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo era un Poeta — È Ciò che  
+Distilla un senso stupefacente  
+Da Significati ordinari —  
+E un'Essenza così immensa  
+
+Dalla specie familiare  
+Perita presso la [[Door|Porta]] —  
+Ci [[Wonder|meravigliamo]] che non fummo Noi  
+A fermarla — prima —  
+
+Di Quadri, il Rivelatore —  
+Il Poeta — è Lui —  
+Ci autorizza — per Contrasto —  
+A incessante [[Poverty|Povertà]] —  
+
+Di porzione — così inconsapevole —  
+La Rapina — non potrebbe nuocere —  
+Egli stesso — per Sé — una Fortuna —  
+Esteriore — al [[Time|Tempo]] —

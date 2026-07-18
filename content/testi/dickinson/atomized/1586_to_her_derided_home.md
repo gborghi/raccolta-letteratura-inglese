@@ -27,3 +27,20 @@ Of Bliss the Codes are few —
 As Jesus cites of Him —  
 "Come unto me" the moiety  
 That wafts the Seraphim —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alla sua derisa [[Home|Casa]]  
+Venne un'Erba d'[[Summer|Estate]] —  
+Non conosceva il suo rango umile  
+Né il Nome dell'Ignominia —  
+Donò un'[[Summer|estate]] intera  
+A un fiore senza forma —  
+Poi via dal disdegno scivolò lieve  
+Come Dama dal suo Verziere —  
+
+Della Beatitudine i Codici son pochi —  
+Come Gesù cita di Sé —  
+"Venite a me" la metà  
+Che sospinge i Serafini —

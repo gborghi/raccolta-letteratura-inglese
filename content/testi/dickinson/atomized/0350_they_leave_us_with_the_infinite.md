@@ -28,3 +28,21 @@ So trust him, Comrade —
 You for you, and I, for you and me  
 [[Eternity]] is ample,  
 And quick enough, if true.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci lasciano con l'Infinito.  
+Ma Egli — non è un uomo —  
+Le sue dita hanno la misura di pugni —  
+I suoi pugni, la misura di uomini —  
+
+E chi egli fonda, col suo Braccio  
+Come l'Himalaya, starà saldo —  
+L'Eterna Scarpa di Gibilterra  
+Posata lieve sulla sua Mano,  
+
+Fidati dunque di lui, Compagno —  
+Tu per te, e io, per te e per me  
+L'[[Eternity|Eternità]] è ampia,  
+E abbastanza rapida, se vera.

@@ -27,3 +27,20 @@ Staring — bewildered — at the mocking sky —
 Homesick for steadfast Honey —  
 Ah, the Bee flies not  
 That brews that rare variety!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Sogno più vicino recede — irrealizzato —  
+Il Cielo che inseguiamo,  
+Come l'Ape di Giugno — davanti allo Scolaro,  
+Invita alla Corsa —  
+Si china — su un facile Trifoglio —  
+S'immerge — elude — stuzzica — si dispiega —  
+Poi — verso le Nubi Regali  
+Solleva la sua lieve Pinaccia —  
+Incurante del Fanciullo —  
+Che fissa — smarrito — il cielo beffardo —  
+Nostalgico di un Miele costante —  
+Ah, non vola l'Ape  
+Che distilla quella rara varietà!

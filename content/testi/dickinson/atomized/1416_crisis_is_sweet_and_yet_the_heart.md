@@ -23,3 +23,16 @@ Inquire of the closing [[Rose]]
 Which rapture she preferred  
 And she will point you sighing  
 To her rescinded Bud.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Crisi è dolce eppure il Cuore  
+Sulla sponda di qua  
+Ha Doti di Prospettiva  
+Negate ai Residenti  
+
+Chiedi alla [[Rose|Rosa]] che si chiude  
+Quale rapimento preferisse  
+E lei sospirando ti addita  
+Il suo Bocciolo revocato.

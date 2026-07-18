@@ -51,3 +51,44 @@ Forgive me, if the [[Grave]] come slow —
 For Coveting to look at Thee —  
 Forgive me, if to stroke thy [[Frost|frost]]  
 Outvisions Paradise!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se potrò averlo, quando sarà morto,  
+Sarò contenta — così —  
+Se non appena il Respiro sia uscito  
+Esso apparterrà a me —  
+
+Finché non lo chiudano nella [[Grave|Tomba]],  
+È Beatitudine che non so pesare —  
+Ché pur se Ti chiudono nella [[Grave|Tomba]],  
+Io — posso possedere la chiave —  
+
+Pensaci [[Lover|Amante]]! Io e Te  
+Ammessi — a stare faccia a faccia —  
+Dopo una Vita — una [[Death|Morte]] — Diremo —  
+Ché la [[Death|Morte]] fu Quello —  
+E questo — sei Te —  
+
+Ti dirò Tutto — come si fece Spoglio —  
+Come fu la Mezzanotte, all'inizio — per me —  
+Come tutti gli Orologi si fermarono nel Mondo —  
+E il Sole mi pizzicava — Faceva così freddo —  
+
+Poi come la Pena prese sonno — un poco —  
+Come se la mia [[Soul|Anima]] fosse sorda e muta —  
+Facendo solo segni — di là — verso Te —  
+Che in tal modo — tu potessi notarmi —  
+
+Ti dirò come cercai di serbare  
+Un sorriso, da mostrarti, quando questo Abisso  
+Tutto Guadato — guarderemo indietro per Gioco,  
+A quei Vecchi Tempi — sul Calvario,  
+
+606  
+
+Perdonami, se la [[Grave|Tomba]] giunge lenta —  
+Per la Brama di guardarTi —  
+Perdonami, se accarezzare il tuo [[Frost|gelo]]  
+Supera in visione il Paradiso!

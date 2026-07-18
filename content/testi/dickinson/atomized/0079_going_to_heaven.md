@@ -43,3 +43,36 @@ I'm glad they did believe it
 Whom I have never found  
 Since the might [[Autumn]] afternoon  
 I left them in the ground.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vado in Cielo!  
+Non so quando —  
+Vi prego non chiedetemi come!  
+Davvero sono troppo stupita  
+Per pensare a rispondervi!  
+Vado in Cielo!  
+Come suona vago!  
+Eppure si compirà  
+Certo come i greggi vanno a [[Home|casa]] di [[Night|notte]]  
+Al braccio del Pastore!  
+
+Forse ci andate anche voi!  
+Chissà?  
+Se doveste arrivare per primi  
+Serbate solo un piccolo spazio per me  
+Vicino ai due che ho perduto —  
+La più piccola "Veste" mi andrà bene  
+E solo un poco di "[[Crown|Corona]]" —  
+Perché sapete che non badiamo all'abito  
+Quando andiamo a [[Home|casa]] —  
+
+Sono lieta di non crederci  
+Perché mi fermerebbe il respiro —  
+E vorrei guardare ancora un poco  
+Una Terra così curiosa!  
+Sono lieta che ci abbiano creduto  
+Loro che non ho più trovato  
+Dal possente pomeriggio d'[[Autumn|Autunno]]  
+In cui li lasciai nella terra.

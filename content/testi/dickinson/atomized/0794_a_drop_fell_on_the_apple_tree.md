@@ -33,3 +33,26 @@ The Breezes brought dejected Lutes —
 And bathed them in the Glee —  
 Then [[Orient]] showed a single [[Flag]],  
 And signed the Fete away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Goccia Cadde sul [[Tree|Melo]] —  
+Un'altra — sul Tetto —  
+Una Mezza Dozzina baciò le Gronde —  
+E fece ridere i Frontoni —  
+
+Alcune andarono ad aiutare il Ruscello  
+Che andò ad aiutare il [[Sea|Mare]] —  
+Io Congetturai fossero Perle —  
+Quale Collana sarebbe stata —  
+
+La [[Dust|Polvere]] rimessa, su Strade Sollevate —  
+Gli [[Birds|Uccelli]] cantarono più giocosi —  
+Il Sole gettò via il suo Cappello —  
+I Cespugli — lanciarono lustrini —  
+
+Le Brezze portarono Liuti afflitti —  
+E li bagnarono nella Gioia —  
+Poi l'[[Orient|Oriente]] mostrò una sola [[Flag|Bandiera]],  
+E congedò la Festa —

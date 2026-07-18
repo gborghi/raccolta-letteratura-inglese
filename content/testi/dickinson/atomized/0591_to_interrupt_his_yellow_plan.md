@@ -33,3 +33,26 @@ Would deem Ourselves — the busier
 As the Minutest Bee  
 That rides — emits a Thunder —  
 A Bomb — to justify —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A interrompere il Suo Piano Giallo  
+Il [[Sun|Sole]] non consente  
+Capricci dell'Atmosfera —  
+E anche quando la [[Snow|Neve]]  
+
+Scaglia Palle di Granelli, come Ragazzo Malvagio  
+Dritte nel Suo Occhio —  
+Nemmeno volge il Capo  
+Occupato in Maestà —  
+
+Suo compito è stimolare la Terra —  
+E magnetizzare il [[Sea|Mare]] —  
+E vincolare l'Astronomia, al suo posto,  
+Eppure Chiunque passasse  
+
+Stimerebbe Noi — i più indaffarati  
+Come l'Ape più Minuta  
+Che cavalca — emette un Tuono —  
+Una Bomba — per giustificarsi —

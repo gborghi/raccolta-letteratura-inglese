@@ -23,3 +23,16 @@ Which question shall I clutch —
 What answer wrest from thee  
 Before thou dost exude away  
 In the recallless [[Sea|sea]]?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora ti possiedo — ancora tu sei  
+Ciò che i chirurghi chiamano vivo —  
+Benché scivolare — scivolare io ti scorga  
+Verso la tua [[Grave|Tomba]] senza annuncio —  
+
+Quale domanda afferrerò —  
+Quale risposta strapparti  
+Prima che tu trasudi via  
+Nel [[Sea|mare]] senza richiamo?

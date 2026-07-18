@@ -25,3 +25,18 @@ Mortal shall not see —
 Pick by [[Faith|faith]] its blossom  
 And avoid its Bee,  
 I can spare this [[Summer|summer]], unreluctantly.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando conto i semi  
+Che sono seminati sotto,  
+Per fiorire così, più in là —  
+Quando studio le genti  
+Adagiate così in basso,  
+Per essere accolte così in alto —  
+Quando credo che il [[Garden|giardino]]  
+Mortale non vedrà —  
+Colgo per [[Faith|fede]] il suo fiore  
+Ed evito la sua Ape,  
+Posso rinunciare a questa [[Summer|estate]], senza riluttanza.

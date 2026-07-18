@@ -33,3 +33,26 @@ The Orchard sparkled like a Jew —
 How mighty 'twas — to be  
 A Guest in this stupendous place —  
 The Parlor — of the Day —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Giorno venne lento — fino alle Cinque in [[Clock|punto]] —  
+Poi balzò davanti alle Colline  
+Come Rubini Trattenuti — o la Luce  
+Che un Moschetto Improvviso — sparge —  
+
+Il Purpureo non poté trattenere l'Oriente —  
+L'Aurora si scosse tutt'intorno  
+Come Distese di Topazio — impacchettate in una [[Night|Notte]] —  
+La Dama appena le srotolò —  
+
+I Venti Felici — presero i loro Cembali —  
+Gli [[Birds|Uccelli]] — in docili File  
+Si disposero attorno al loro Principe  
+Il [[Wind|Vento]] — è il Principe di Quelli —  
+
+Il Frutteto scintillava come un Ebreo —  
+Che potenza era — essere  
+Ospite in questo luogo stupendo —  
+Il Salotto — del Giorno —

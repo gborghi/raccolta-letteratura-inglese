@@ -23,3 +23,16 @@ Fuzz ordained — not Fuzz contingent —
 Marrows of the [[Hill]].  
 Jugs — a Universe's fracture  
 Could not jar or spill.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le [[Bees|Api]] sono Nere, con Sottopance Dorate —  
+Bucanieri di Ronzio.  
+Cavalcano in giro con ostentazione  
+E sussistono di Lanugine.  
+
+Lanugine ordinata — non Lanugine contingente —  
+Midolli della [[Hill|Collina]].  
+Giare — che la frattura di un Universo  
+Non potrebbe scuotere né versare.

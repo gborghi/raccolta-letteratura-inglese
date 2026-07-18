@@ -33,3 +33,26 @@ And Spirit turned unto the [[Dust]]
 "Old Friend, thou knowest me,"  
 And [[Time]] went out to tell the News  
 And met [[Eternity]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Udii, come se non avessi Orecchio  
+Finché una Parola Vitale  
+Venne fino a me dalla Vita  
+E allora seppi che udivo.  
+
+Vidi, come se il mio Occhio fosse  
+D'un Altro, finché una Cosa  
+E ora so che era Luce, perché  
+Vi si adattò, entrò.  
+
+Dimoravo, come se Me stessa, fosse fuori,  
+Il mio [[Body|Corpo]] soltanto dentro  
+Finché una Potenza mi scoprì  
+E insediò il mio nocciolo.  
+
+E lo Spirito si volse alla [[Dust|Polvere]]  
+"Vecchia Amica, tu mi conosci,"  
+E il [[Time|Tempo]] uscì a dare la Notizia  
+E incontrò l'[[Eternity|Eternità]].

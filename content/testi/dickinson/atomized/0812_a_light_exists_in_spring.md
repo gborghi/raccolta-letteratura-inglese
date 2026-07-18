@@ -38,3 +38,31 @@ A quality of loss
 Affecting our Content  
 As Trade had suddenly encroached  
 Upon a Sacrament.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Luce esiste in [[Spring|Primavera]]  
+Non presente sull'Anno  
+In alcun altro periodo —  
+Quando Marzo è appena qui  
+
+Un Colore si distende  
+Su Campi Solitari  
+Che la Scienza non può raggiungere  
+Ma l'Umana [[Nature|Natura]] sente.  
+
+Attende sul Prato,  
+Mostra l'[[Tree|Albero]] più lontano  
+Sul Pendio più lontano che conosci  
+Quasi ti parla.  
+
+Poi come Orizzonti avanzano  
+O Meriggi si congedano  
+Senza la Formula del suono  
+Essa passa e noi restiamo —  
+
+Una qualità di perdita  
+Che tocca il nostro Appagamento  
+Come se il Commercio d'improvviso avesse invaso  
+Un Sacramento.

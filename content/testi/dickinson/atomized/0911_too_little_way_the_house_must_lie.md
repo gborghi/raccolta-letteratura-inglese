@@ -23,3 +23,16 @@ Too narrow is the Right between —
 Too imminent the chance —  
 Each Consciousness must emigrate  
 And lose its neighbor once —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A troppo breve via la [[house|Casa]] deve stare  
+Da ogni Cuore Umano  
+Che tiene in Affitto incontestato  
+Un bianco abitante —  
+
+Troppo stretto è il Diritto framezzo —  
+Troppo imminente la sorte —  
+Ogni Coscienza deve emigrare  
+E perdere il suo vicino una volta —

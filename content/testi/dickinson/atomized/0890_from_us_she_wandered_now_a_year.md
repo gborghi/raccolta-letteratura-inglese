@@ -23,3 +23,16 @@ No eye hath seen and lived
 We ignorant must be —  
 We only know what [[Time|time]] of Year  
 We took the Mystery.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Da Noi Ella errò ormai da un Anno,  
+Il suo indugiare, ignoto,  
+Se Selva trattenga i suoi passi  
+O quella Zona Eterea  
+
+Che occhio non vide e visse  
+Ignari dobbiamo restare —  
+Sappiamo solo in che [[Time|tempo]] dell'Anno  
+Prendemmo il Mistero.

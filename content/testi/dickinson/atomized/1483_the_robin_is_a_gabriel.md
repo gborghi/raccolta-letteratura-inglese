@@ -31,3 +31,24 @@ As covert as a Fugitive,
 Cajoling Consternation  
 By Ditties to the Enemy  
 And Sylvan Punctuation —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Pettirosso è un Gabriele  
+In umili circostanze —  
+La Veste lo denota socialmente,  
+Delle Classi Operaie del Trasporto —  
+Ha la puntualità  
+Del Contadino del [[New England]] —  
+La stessa obliqua integrità,  
+Una Vista assai più calda —  
+
+Una piccola ma salda Residenza  
+Una Famiglia che nega [[Self|sé]],  
+Gli Ospiti della Perspicacia  
+Son tutti quelli che [[Cross|varcano]] la sua Soglia —  
+Furtivo come un Fuggiasco,  
+Blandendo la Costernazione  
+Con Canzoncine al Nemico  
+E Silvestre Punteggiatura —

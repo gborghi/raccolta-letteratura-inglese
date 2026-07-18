@@ -23,3 +23,16 @@ Ah - but remembering thee -
 [[Nature]] in [[Charity|charity]] -  
 [[Nature]] in equity -  
 The [[Rose]] ordained!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ghirlande per Regine, può darsi -  
+Allori - per raro grado  
+Di [[Soul|anima]] o [[Sword|spada]] -  
+Ah - ma ricordando me -  
+Ah - ma ricordando te -  
+[[Nature]] in cavalleria -  
+[[Nature]] in [[Charity|carità]] -  
+[[Nature]] in equità -  
+La [[Rose]] consacrata!

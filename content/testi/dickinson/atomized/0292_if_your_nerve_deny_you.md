@@ -28,3 +28,21 @@ If your [[Soul]] seesaw —
 Lift the Flesh [[Door|door]] —  
 The Poltroon wants Oxygen —  
 Nothing more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se il tuo Nervo, ti nega —  
+Va' oltre il tuo Nervo —  
+Può appoggiarsi alla [[Grave|Tomba]],  
+Se [[Fear|teme]] di deviare —  
+
+È una postura salda —  
+Mai alcun cedimento  
+Tenuto da quelle braccia d'Ottone —  
+Miglior Gigante mai fatto —  
+
+Se la tua [[Soul|Anima]] vacilla —  
+Solleva la [[Door|porta]] della Carne —  
+Il Poltrone vuole Ossigeno —  
+Nient'altro —

@@ -33,3 +33,26 @@ To his adroit Creator
 Acribe no less the praise —  
 Beneficent, believe me,  
 His Eccentricities —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Pipistrello è bruno, con Ali raggrinzite —  
+Come Articolo a maggese —  
+E nessuna [[Song|canzone]] pervade le sue Labbra —  
+O nessuna percettibile.  
+
+Il suo piccolo Ombrello bizzarramente dimezzato  
+Descrivendo nell'Aria  
+Un Arco imperscrutabile al pari  
+D'un esultante Filosofo.  
+
+Deputato da quale Firmamento —  
+Da quale Astuta Dimora —  
+Investito di quale Malignità  
+Propiziamente trattenuta —  
+
+Al suo abile Creatore  
+Ascrivi non di meno la lode —  
+Benefiche, credimi,  
+Le sue Eccentricità —

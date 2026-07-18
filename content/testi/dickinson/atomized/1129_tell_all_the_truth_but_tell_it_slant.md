@@ -23,3 +23,16 @@ As [[Lightning]] to the Children eased
 With explanation kind  
 The [[Truth]] must dazzle gradually  
 Or every man be blind —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di' tutta la [[Truth|Verità]] ma dilla obliqua —  
+Il [[success|Successo]] sta nel Circuito  
+Troppo fulgida per il nostro infermo Diletto  
+La superba sorpresa della [[Truth|Verità]]  
+
+Come il [[Lightning|Lampo]] ai Bambini alleviato  
+Con spiegazione gentile  
+La [[Truth|Verità]] deve abbagliare gradualmente  
+O ogni uomo sarà cieco —

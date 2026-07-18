@@ -38,3 +38,31 @@ Her Bonnet is the Firmament —
 The Universe — Her Shoe —  
 The [[Stars]] — the Trinkets at Her Belt —  
 Her Dimities — of Blue —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Moon|Luna]] era solo un Mento d'Oro  
+Una [[Night|Notte]] o due fa —  
+E ora volge il Suo Viso perfetto  
+Sul Mondo qui sotto —  
+
+La Sua Fronte è del più Ampio Biondo —  
+La Sua Guancia — un Berillo scolpito —  
+Il Suo Occhio alla [[Summer|Estiva]] [[Dew|Rugiada]]  
+Il più simile ch'io conosca —  
+
+Le Sue Labbra d'Ambra mai si schiudono —  
+Ma quale dev'essere il sorriso  
+Che all'Amica Sua potrebbe concedere  
+Fosse tale il Suo Argenteo Volere —  
+
+E che privilegio essere  
+Anche solo la Stella più remota —  
+Ché di Certo Ella prende la Sua Via  
+Accanto alla [[Door|Porta]] del Tuo Palazzo —  
+
+La Sua Cuffia è il Firmamento —  
+L'Universo — la Sua Scarpa —  
+Le [[Stars|Stelle]] — i Ciondoli alla Sua Cintura —  
+Le Sue Mussole — di Blu —

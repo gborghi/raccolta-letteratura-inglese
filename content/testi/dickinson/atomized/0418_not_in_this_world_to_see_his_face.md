@@ -27,3 +27,20 @@ Than that — be sweeter wise —
 Might some one else — so learned — be —  
 And leave me — just my A — B — C —  
 Himself — could have the Skies —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non in questo Mondo vedere il suo volto —  
+Suona lungo — finché non leggo il passo  
+Dove questo — si dice sia  
+Solo il Sillabario — di una vita —  
+Non aperta — rara — Sullo Scaffale —  
+Stretta ancora — a Lui — e a Me —  
+
+Eppure — il mio Sillabario mi si addice tanto  
+Che non sceglierei — di conoscere un Libro  
+Che di quello — fosse più dolcemente saggio —  
+Possa qualcun altro — così dotto — essere —  
+E lasciare a me — solo il mio A — B — C —  
+Lui — potrebbe avere i Cieli —

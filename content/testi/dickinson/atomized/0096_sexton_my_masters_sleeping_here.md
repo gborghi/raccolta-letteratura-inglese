@@ -23,3 +23,16 @@ That when the [[Snow|snow]] creeps slowly
 From off his chamber [[Door|door]] —  
 Daisies point the way there —  
 And the Troubadour.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sagrestano! Il mio Padrone dorme qui.  
+Ti prego, guidami al suo letto!  
+Venni a costruire il nido dell'Uccello,  
+E a seminare il seme Precoce —  
+
+Perché quando la [[Snow|neve]] striscia lenta  
+Via dalla [[Door|porta]] della sua stanza —  
+Le Margherite indichino la via —  
+E il Trovatore.

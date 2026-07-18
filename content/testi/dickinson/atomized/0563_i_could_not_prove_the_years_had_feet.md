@@ -28,3 +28,21 @@ I do not [[Doubt|doubt]] the [[Self|self]] I was
 Was competent to me —  
 But something awkward in the fit —  
 Proves that — outgrown — I see —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non potevo provare che gli Anni avessero piedi —  
+Eppure fiduciosa che corrano  
+Sono, per sintomi ormai trascorsi  
+E Serie che sono compiute —  
+
+Trovo che i miei piedi hanno Mete più lontane —  
+Sorrido agli Scopi  
+Che parvero così ampi — Ieri —  
+Quelli d'Oggi — hanno più vaste pretese —  
+
+Non [[Doubt|dubito]] che l'[[Self|io]] che fui  
+Mi fosse adeguato —  
+Ma qualcosa di goffo nella misura —  
+Prova che — ormai cresciuta oltre — io vedo —

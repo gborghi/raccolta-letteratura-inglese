@@ -23,3 +23,16 @@ So constant to its stolid trust,
 The Shaft that never knew —  
 It shames the Constancy that fled  
 Before its emblem flew —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lei depose la sua docile Falce  
+E questa fiduciosa Pietra  
+Ancora annuncia a Date che hanno scordato  
+La Notizia che lei se n'è andata —  
+
+Così costante al suo stolido incarico,  
+La Stele che mai seppe —  
+Fa vergognare la Costanza fuggita  
+Prima che il suo emblema volasse —

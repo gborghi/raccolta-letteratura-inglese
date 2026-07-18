@@ -32,3 +32,25 @@ We adored — for whole —
 Stains — all washed —  
 Transfigured — mended —  
 Meet us — with a smile —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sollevando il bell'Ideale,  
+Solo per gettarla giù  
+Quando una frattura — scopriamo —  
+O una scheggiata [[Crown]] —  
+Rende i Cieli portatili —  
+E gli Dèi — una menzogna —  
+Senza dubbio — "Adamo" — guardò torvo l'Eden —  
+Per il suo spergiuro!  
+
+Custodendo — il nostro povero Ideale —  
+Finché in veste più pura —  
+La contempliamo — glorificata —  
+Consola — una ricerca — come questa —  
+Finché le creature spezzate —  
+Che adorammo — per intere —  
+Macchie — tutte lavate —  
+Trasfigurate — risanate —  
+Ci vengono incontro — con un sorriso —

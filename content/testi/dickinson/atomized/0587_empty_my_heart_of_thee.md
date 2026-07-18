@@ -30,3 +30,23 @@ Erase the Root — no [[Tree]] —
 Thee — then — no me —  
 The Heavens stripped —  
 [[Eternity]]'s vast pocket, picked —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Svuota il mio Cuore, di Te —  
+La sua unica Arteria —  
+Comincia, e lascia Te fuori —  
+Semplicemente la Data dell'Estinzione —  
+
+Molti Flutti ha il [[Sea|Mare]] —  
+Un solo Baltico — Essi —  
+Sottrai Te stesso, per gioco,  
+E non abbastanza di me  
+Resta — da riporre —  
+"Me stessa" voleva dire Te —  
+
+Cancella la Radice — nessun [[Tree|Albero]] —  
+Te — allora — niente me —  
+I Cieli spogliati —  
+La vasta tasca dell'[[Eternity|Eternità]], borseggiata —

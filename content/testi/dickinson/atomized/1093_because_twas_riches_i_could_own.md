@@ -23,3 +23,16 @@ An Earldom out of sight to hold,
 An Income in the Air,  
 Possession — has a sweeter chink  
 Unto a Miser's Ear —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché era Ricchezza che potevo possedere,  
+Io stessa l'avevo guadagnata — Io,  
+Conoscevo i Dollari per nome —  
+Sembra [[Poverty|Povertà]]  
+
+Tenere una Contea fuori di vista,  
+Una Rendita nell'Aria,  
+Il Possesso — ha un tintinnio più dolce  
+All'Orecchio d'un Avaro —

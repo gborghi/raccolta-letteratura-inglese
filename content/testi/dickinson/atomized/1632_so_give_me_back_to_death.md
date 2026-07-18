@@ -22,3 +22,15 @@ In my own [[Grave]] I breathe
 And estimate its size —  
 Its size is all that Hell can guess —  
 And all that Heaven was —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rendimi dunque alla [[Death|Morte]] —  
+La [[Death|Morte]] che mai temetti  
+Se non perché privava di te —  
+E ora, dalla Vita privata,  
+Nella mia stessa [[Grave|Tomba]] respiro  
+E ne stimo la misura —  
+La sua misura è tutto ciò che l'Inferno può congetturare —  
+E tutto ciò che il Cielo era —

@@ -22,3 +22,15 @@ Perfidy is the [[Virtue|virtue]]
 That would but he resign  
 The Devil — without question  
 Were thoroughly divine
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Diavolo — avesse fedeltà  
+Sarebbe il migliore degli amici —  
+Perché ha capacità —  
+Ma i Diavoli non si emendano —  
+La Perfidia è la [[Virtue|virtù]]  
+Cui se soltanto rinunciasse  
+Il Diavolo — senza questione  
+Sarebbe interamente divino

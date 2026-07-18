@@ -23,3 +23,16 @@ Bisected now, by bleaker griefs,
 We envy the [[Despair|despair]]  
 That devastated [[Childhood|childhood]]'s realm,  
 So easy to repair.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ammorbidita dal felpato supremo del [[Time|Tempo]],  
+Come liscia appare la pena  
+Che minacciò la cittadella dell'[[Childhood|infanzia]]  
+E minò gli anni.  
+
+Bisecati ora, da più cupi affanni,  
+Invidiamo la [[Despair|disperazione]]  
+Che devastò il regno dell'[[Childhood|infanzia]],  
+Così facile a ripararsi.

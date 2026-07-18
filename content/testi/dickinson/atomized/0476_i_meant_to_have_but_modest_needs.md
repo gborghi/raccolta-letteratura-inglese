@@ -49,3 +49,42 @@ With a suspicious Air —
 
 As Children — swindled for the first  
 All Swindlers — be — infer —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Intendevo avere solo modesti bisogni —  
+Quali la Contentezza — e il Cielo —  
+Nel mio reddito — questi potevano stare  
+E la Vita ed io — restare pari —  
+
+Ma poiché l'ultimo — includeva entrambi —  
+Sarebbe bastato alla mia [[prayer|Preghiera]]  
+Stipulare — per Uno solo —  
+E la Grazia avrebbe accordato la Coppia —  
+
+E così — in tal guisa — pregai —  
+Gran Spirito — Dammi  
+Un Cielo non così vasto come il Tuo,  
+Ma vasto abbastanza — per me —  
+
+Un Sorriso soffuse il volto di [[Jehovah|Geova]] —  
+I Cherubini — si ritrassero —  
+[[Grave|Gravi]] Santi sgusciarono fuori a guardarmi —  
+E mostrarono le fossette — anch'essi —  
+
+Lasciai il Luogo, con tutte le mie forze —  
+Gettai via la mia [[prayer|Preghiera]] —  
+Le Quiete Ere la raccolsero —  
+E il Giudizio — scintillò — anch'esso —  
+Che una così onesta — esista —  
+Da prendere il Racconto per vero —  
+Che "Qualsiasi cosa Voi chiediate —  
+Essa Vi sarà data" —  
+
+Ma io, fatta più scaltra — scruto i Cieli  
+Con Aria sospettosa —  
+501  
+
+Come Bambini — truffati per la prima volta  
+Tutti Truffatori — siano — inferiscono —

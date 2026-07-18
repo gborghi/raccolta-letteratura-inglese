@@ -38,3 +38,31 @@ Ungained — it may be — by a Life's low Venture —
 But then —  
 [[Eternity]] enable the endeavoring  
 Again.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ogni Vita Converge a un qualche Centro —  
+Espresso — o taciuto —  
+Esiste in ogni Umana [[Nature|Natura]]  
+Una Meta —  
+
+Incarnata appena a se stessa — può darsi —  
+Troppo bella  
+Perché la presunzione della Credibilità  
+La guasti —  
+
+Adorata con cautela — come un Fragile Cielo —  
+Da raggiungere  
+Senza speranza, come la Veste dell'Arcobaleno  
+Da toccare —  
+
+Eppure perseguita — certo — ché la Distanza —  
+Quanto alta —  
+Alla lenta diligenza del Santo —  
+Il Cielo —  
+
+Non conquistata — può darsi — dalla bassa Impresa d'una Vita —  
+Ma allora —  
+L'[[Eternity|Eternità]] consente il tentativo  
+Ancora.

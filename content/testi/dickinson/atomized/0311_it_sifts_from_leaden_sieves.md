@@ -38,3 +38,31 @@ It Ruffles Wrists of Posts
 As Ankles of a [[Queen]] —  
 Then stills its Artisans — like [[Ghosts]] —  
 Denying they have been —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Setaccia da Crivelli di Piombo —  
+Impolvera tutto il Bosco.  
+Riempie di Lana d'Alabastro  
+Le Rughe della [[Road|Strada]] —  
+
+Fa un Volto Uniforme  
+Di Montagna, e di Pianura —  
+Fronte Ininterrotta dall'Est  
+Fino all'Est di nuovo —  
+
+Arriva fino allo Steccato —  
+Lo avvolge Traversa per Traversa  
+Finché si perde in Velli —  
+Dispensa Celeste Velo  
+
+A Ceppo, e Covone — e Stelo —  
+La Stanza vuota di un'[[Summer|Estate]] —  
+Acri di Giunture, dov'erano i Raccolti,  
+Senza Memoria, se non per loro—  
+
+Increspa i Polsi dei Pali  
+Come Caviglie di una [[Queen|Regina]] —  
+Poi acquieta i suoi Artigiani — come [[Ghosts|Spettri]] —  
+Negando che siano mai stati —

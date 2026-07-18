@@ -33,3 +33,26 @@ Neither — would be absolved —
 Neither would be a [[Queen]]  
 Without the Other — Therefore —  
 We perish — tho' We reign —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come occhi che fissarono Deserti —  
+Increduli d'Altro  
+Che Vuoto — e ferma Desolazione —  
+Variata dalla [[Night|Notte]] —  
+
+Solo Infiniti di Nulla —  
+Fin dove poteva vedere —  
+Così guardava il volto che guardavo —  
+Così guardava se stesso — Me —  
+
+Non gli offrii Aiuto —  
+Perché la Causa era Mia —  
+La Miseria un Patto  
+Tanto disperato — quanto divino —  
+
+Nessuna — sarebbe assolta —  
+Nessuna sarebbe [[Queen|Regina]]  
+Senza l'Altra — Perciò —  
+Periamo — pur regnando —

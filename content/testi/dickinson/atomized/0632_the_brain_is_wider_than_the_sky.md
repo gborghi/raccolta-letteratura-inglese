@@ -28,3 +28,21 @@ The Brain is just the weight of [[God]] —
 For — Heft them — Pound for Pound —  
 And they will differ — if they do —  
 As Syllable from Sound —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cervello — è più vasto del Cielo —  
+Ché — mettili fianco a fianco —  
+L'uno conterrà l'altro  
+Con agio — e Te — accanto —  
+
+Il Cervello è più profondo del [[Sea|mare]] —  
+Ché — tienili — Azzurro contro Azzurro —  
+L'uno assorbirà l'altro —  
+Come le Spugne — coi Secchi — fanno —  
+
+Il Cervello è giusto il peso di [[God|Dio]] —  
+Ché — soppesali — Libbra per Libbra —  
+E differiranno — se mai differiranno —  
+Come la Sillaba dal Suono —

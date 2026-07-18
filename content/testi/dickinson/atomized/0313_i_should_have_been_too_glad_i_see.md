@@ -40,3 +40,33 @@ Endear the Coast — beyond!
 'Tis Beggars — Banquets — can define —  
 'Tis Parching — vitalizes Wine —  
 "[[Faith]]" bleats — to understand!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sarei stata troppo lieta, vedo —  
+Troppo elevata — per lo scarso grado  
+Del parco Giro della Vita —  
+Il mio piccolo Circuito avrebbe svergognato  
+Questa nuova Circonferenza — avrebbe biasimato —  
+Il più umile [[Time|tempo]] alle spalle.  
+
+Sarei stata troppo salva — vedo —  
+Troppo redenta — [[Fear|Paura]] troppo fioca per me  
+Da poter compitare la [[prayer|Preghiera]]  
+Che sapevo così perfetta — ieri —  
+Quella Rovente — Sabachthani —  
+Recitata fluente — qui —  
+
+La Terra sarebbe stata troppo — vedo —  
+E il Cielo — non abbastanza per me —  
+Avrei avuto la [[Joy|Gioia]]  
+Senza la [[Fear|Paura]] — a giustificare —  
+La Palma — senza il Calvario —  
+Dunque Salvatore — Crocifiggi —  
+La Sconfitta — affila la Vittoria — dicono —  
+Le Scogliere — nel vecchio Getsemani —  
+Fanno cara la Costa — al di là!  
+Sono i Mendicanti — che i Banchetti san definire —  
+È l'Arsura — che vivifica il Vino —  
+La "[[Faith|Fede]]" bela — per capire!

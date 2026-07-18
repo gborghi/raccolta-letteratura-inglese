@@ -23,3 +23,16 @@ The Tunnel is not lighted
 Existence with a wall  
 Is better we consider  
 Than not exist at all —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Avanzare è condizione della Vita  
+La [[Grave|Tomba]] non che una Staffetta  
+Supposta essere un capolinea  
+Ciò la rende così odiata —  
+
+Il Tunnel non è illuminato  
+Un'Esistenza con un muro  
+È meglio consideriamo  
+Che non esistere affatto —

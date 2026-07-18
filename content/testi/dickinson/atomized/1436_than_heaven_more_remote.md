@@ -32,3 +32,25 @@ Nor prove, nor woo,
 But that they have abode  
 Is absolute as [[God]],  
 And instant, too.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Del Cielo più remoti,  
+Perché il Cielo è la radice,  
+Ma questi il seme volato via.  
+Più fuggiti invero  
+Di quelli che mai furono,  
+O di quelli che si celano, e sono.  
+
+Che [[Madness|follia]], al loro fianco,  
+Offrire una visione  
+Di giorni futuri  
+Che non possono lodare.  
+
+[[Soul|Anima]] mia, a trovarli, vieni,  
+Non possono chiamare, sono muti,  
+Né provare, né corteggiare,  
+Ma che abbiano dimora  
+È assoluto come [[God|Dio]],  
+E istantaneo, pure.

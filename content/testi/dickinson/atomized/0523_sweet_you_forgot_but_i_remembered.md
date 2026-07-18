@@ -28,3 +28,21 @@ Just to be Rich — to waste my Guineas
 On so Best a Heart —  
 Just to be Poor — for Barefoot Vision  
 You — Sweet — Shut me out —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dolce — Tu dimenticasti — ma io ricordai  
+Ogni [[Time|volta]] — per Due —  
+Così che la Somma mai fosse impedita  
+Dal [[Decay|Decadere]] di Te —  
+
+Di' se ho errato? Accusa i miei Spiccioli —  
+Biasima la piccola Mano  
+Felice ch'essa sia per Te — d'una Mendica —  
+In cerca di Altro — da spendere —  
+
+Solo per esser Ricca — sprecare le mie Ghinee  
+Per un Cuore così Sommo —  
+Solo per esser Povera — per la Visione Scalza  
+Tu — Dolce — mi hai Chiusa fuori —

@@ -27,3 +27,20 @@ Adjacent sums
 Enough — the first Abode  
 On the familiar [[Road]]  
 Galloped in [[Dreams]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Finché il [[Desert|Deserto]] non sa  
+Che l'[[Water|Acqua]] cresce  
+Le sue Sabbie bastano  
+Ma che sospetti una volta  
+Quel Fatto Caspio  
+Il Sahara muore  
+
+L'Estremo è relativo —  
+Non avere o Avere  
+Somme adiacenti  
+Basta — la prima Dimora  
+Sulla [[Road|Strada]] familiare  
+Galoppata nei [[Dreams|Sogni]] —

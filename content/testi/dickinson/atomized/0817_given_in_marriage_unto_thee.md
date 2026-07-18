@@ -23,3 +23,16 @@ Other Betrothal shall dissolve —
 Wedlock of Will, [[Decay|decay]] —  
 Only the Keeper of this Ring  
 Conquer [[Mortality]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Data in [[Marriage|Matrimonio]] a Te  
+Oh tu Ospite Celeste —  
+Sposa del Padre e del Figlio  
+Sposa dello [[Ghost|Spirito]] Santo.  
+
+Ogni altro Fidanzamento si dissolverà —  
+Il Connubio della Volontà, [[Decay|decadrà]] —  
+Solo il Custode di questo Anello  
+Vince la [[Mortality|Mortalità]] —

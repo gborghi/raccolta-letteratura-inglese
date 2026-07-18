@@ -23,3 +23,16 @@ That chiefer to the Skies
 Than to himself, allied,  
 Dwelt hesitating, half of [[Dust]],  
 And half of Day, the Bride.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A questo Mondo ella tornò.  
+Ma con una tinta di quello —  
+Una maniera Composita,  
+Come una Zolla  
+Sposasse una Violetta,  
+Che più ai Cieli  
+Che al suo sposo, legata,  
+Dimorò esitante, metà di [[Dust|Polvere]],  
+E metà di Giorno, la Sposa.

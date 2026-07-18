@@ -34,3 +34,27 @@ Will entertain the Centuries
 When I, am long ago,  
 An [[Island]] in dishonored Grass —  
 Whom none but Beetles — know.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di Bronzo — e di Vampa —  
+Il Nord — Stanotte —  
+Così adeguato — si forma —  
+Così preconcertato con se stesso —  
+Così distante — dagli allarmi —  
+Una Noncuranza così sovrana  
+Verso l'Universo, o me —  
+Contagia il mio semplice spirito  
+Con Tinte di Maestà —  
+Finché assumo più vasti atteggiamenti —  
+E mi pavoneggio sul mio stelo —  
+Sdegnando gli Uomini, e l'Ossigeno,  
+Per Arroganza verso di loro —  
+
+I miei Splendori, sono un Serraglio —  
+Ma il loro Spettacolo senza Rivali  
+Intratterrà i Secoli  
+Quando io, sarò da gran tempo,  
+Un'[[Island|Isola]] nell'Erba disonorata —  
+Che nessuno se non gli Scarabei — conosce.

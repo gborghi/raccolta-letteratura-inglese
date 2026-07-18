@@ -23,3 +23,16 @@ The Subterranean Freight
 The Cellars of the [[Soul]] —  
 Thank [[God]] the loudest Place he made  
 Is licensed to be still.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua Ora con se stesso  
+Lo Spirito mai mostra.  
+Che Terrore incanterebbe la Strada  
+Potesse il Volto svelare  
+
+Il Carico Sotterraneo  
+Le Cantine dell'[[Soul|Anima]] —  
+Grazie a [[God|Dio]] il Luogo più fragoroso che fece  
+Ha licenza di tacere.

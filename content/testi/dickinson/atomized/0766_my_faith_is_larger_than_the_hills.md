@@ -33,3 +33,26 @@ How dare I, therefore, stint a [[Faith|faith]]
 On which so vast depends —  
 Lest Firmament should fail for me —  
 The Rivet in the Bands
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La mia [[Faith|Fede]] è più vasta delle Colline —  
+Così quando le Colline [[Decay|decadono]] —  
+La mia [[Faith|Fede]] deve prendere la Purpurea [[Wheel|Ruota]]  
+Per mostrare al [[Sun|Sole]] la via —  
+
+Prima Egli posa il passo sulla Banderuola —  
+E poi — sulla [[Hill|Collina]] —  
+E poi per il Mondo Egli va  
+A compiere il Suo Aureo Volere —  
+
+E se i Suoi Gialli piedi mancassero —  
+L'Uccello non si leverebbe —  
+I [[Flowers|Fiori]] sonnecchierebbero sui loro Steli —  
+Nessuna [[Bells|Campana]] avrebbe il Paradiso —  
+
+Come oso, dunque, lesinare una [[Faith|fede]]  
+Da cui tanto di vasto dipende —  
+Che il Firmamento non venga a mancarmi —  
+Il Rivetto nelle Fasce

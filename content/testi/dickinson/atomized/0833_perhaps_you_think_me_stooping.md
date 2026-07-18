@@ -23,3 +23,16 @@ Commemorative Dishonor
 Or [[Love|love]] annealed of [[Love|love]]  
 Until it bend as low as [[Death]]  
 Redignified, above?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Forse mi credete china  
+Non me ne vergogno  
+[[Christ|Cristo]] — si chinò fino a toccare la [[Grave|Tomba]] —  
+Compiono quelli al Sacramento  
+
+Disonore Commemorativo  
+O [[Love|amore]] temprato d'[[Love|amore]]  
+Finché si pieghi basso quanto la [[Death|Morte]]  
+Ridignificato, al di sopra?

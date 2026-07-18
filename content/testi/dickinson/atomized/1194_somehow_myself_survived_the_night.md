@@ -23,3 +23,16 @@ Henceforth I take my living place
 As one commuted led —  
 A Candidate for Morning Chance  
 But dated with the Dead.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+In qualche modo io sopravvissi alla [[Night]]  
+Ed entrai con il Giorno —  
+Che sia salvato ai Salvati basta  
+Senza la Formula.  
+
+D'ora innanzi prendo il mio posto di vivente  
+Come chi è condotto a pena commutata —  
+Candidata alla Sorte del Mattino  
+Ma datata con i Morti.

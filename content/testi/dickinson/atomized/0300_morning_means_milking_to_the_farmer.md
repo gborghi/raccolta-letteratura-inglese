@@ -27,3 +27,20 @@ Brides — an [[Apocalypse]] —
 Worlds — a Flood —  
 Faint-going Lives — Their Lapse from Sighing —  
 [[Faith]] — The Experiment of Our Lord
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+CONTADINO —  
+
+"Mattino" — significa "Mungitura" — per il Contadino —  
+[[Dawn|Alba]] — per il Teneriffe —  
+Dadi — per la Fanciulla —  
+Mattino significa solo Rischio — per l'[[Lover|Amante]] —  
+Solo [[Revelation|rivelazione]] — per l'Amata —  
+
+Gli Epicurei — vi datano una Colazione —  
+Le Spose — un'[[Apocalypse|Apocalisse]] —  
+I Mondi — un Diluvio —  
+Le Vite che si spengono — il loro Cessare dal Sospirare —  
+La [[Faith|Fede]] — l'Esperimento di Nostro Signore

@@ -30,3 +30,23 @@ Rich! 'Twas Myself — was rich —
 To take the name of Gold —  
 And Gold to own — in solid Bars —  
 The Difference — made me bold —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi fu dato dagli Dei —  
+Quand'ero una piccola Bimba —  
+Ci fanno Doni soprattutto — si sa —  
+Quando siamo nuovi — e piccini.  
+Lo tenevo nella Mano —  
+Non lo posavo mai —  
+Non osavo mangiare — o [[Sleep|dormire]] —  
+Per [[Fear|paura]] che svanisse —  
+Udivo parole come "Ricco" —  
+Correndo in fretta a scuola —  
+Da labbra agli Angoli delle Strade —  
+E lottavo con un sorriso.  
+Ricca! Ero Io — la ricca —  
+A prendere il nome dell'Oro —  
+E Oro possedere — in Lingotti massicci —  
+La Differenza — mi fece audace —

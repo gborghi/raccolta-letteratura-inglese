@@ -33,3 +33,26 @@ Pause in your Liturgies —
 Wait your Chorals —  
 While I repeat your  
 Hallowed name —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cantai dal Cuore, Sire,  
+Vi intinsi il Becco,  
+Se la Melodia gocciola troppo  
+Ha una tinta troppo Rossa  
+
+Perdona la Cocciniglia —  
+Tollera il Vermiglio —  
+La [[Death|Morte]] è la Ricchezza  
+Dell'Uccello più Povero.  
+
+Sopporta la Ballata —  
+Goffa — esitante —  
+La [[Death|Morte]] torce le corde —  
+Non fu colpa mia —  
+
+Sospendi le tue Liturgie —  
+Trattieni i tuoi Corali —  
+Mentre io ripeto il tuo  
+Nome santificato —

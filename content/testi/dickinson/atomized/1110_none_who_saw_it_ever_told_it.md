@@ -22,3 +22,15 @@ Surfaces may be invested
 Did the Diamond grow  
 General as the Dandelion  
 Would you serve it so?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuno che lo vide mai lo disse  
+È celato come se la [[Death|Morte]]  
+Avesse per quel tesoro preciso  
+Un respiro d'addio —  
+Le Superfici si possono rivestire  
+Crescesse il Diamante  
+Comune come il Dente di leone  
+Lo trattereste così?

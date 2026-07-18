@@ -30,3 +30,23 @@ Of their peculiar calling
 Unqualified to judge  
 To [[Nature]] we remand them  
 To justify or scourge —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quel bestiame più piccolo d'un'Ape  
+Che pascola sull'occhio —  
+Il cui campo è la Briciola che passa —  
+Quel Bestiame è la Mosca —  
+Di Stalle per l'[[Winter|Inverno]] — incolpevole —  
+Stalle estemporanee  
+Trovarono a nostra obiezione —  
+Su muri eleggibili —  
+Riservandosi la presunzione  
+Di scendere d'improvviso  
+E galoppare sui Mobili —  
+O più odiosamente offendere —  
+Della loro peculiare vocazione  
+Inadatti a giudicare  
+Alla [[Nature|Natura]] li rimandiamo  
+Perché li giustifichi o flagelli —

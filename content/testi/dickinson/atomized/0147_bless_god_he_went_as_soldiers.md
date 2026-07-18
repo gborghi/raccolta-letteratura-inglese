@@ -23,3 +23,16 @@ Please [[God]], might I behold him
 In epauletted white —  
 I should not [[Fear|fear]] the foe then —  
 I should not [[Fear|fear]] the fight!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Benedici [[God|Dio]], andò come i soldati,  
+Il moschetto sul petto —  
+Conceda [[God|Dio]] che carichi i più prodi  
+Di tutti i beati in armi!  
+
+Piaccia a [[God|Dio]] ch'io possa vederlo  
+In bianco di spalline —  
+Allora non avrei [[Fear|paura]] del nemico —  
+Non avrei [[Fear|paura]] della battaglia!

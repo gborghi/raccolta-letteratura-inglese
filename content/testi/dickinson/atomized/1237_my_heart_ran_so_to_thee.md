@@ -32,3 +32,25 @@ But for the [[Greed]] of him —
 Boasting my Premium —  
 Basking in Bethleem  
 Ere I be there —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio Cuore corse tanto a te  
+Non volle attendermi  
+E io ne fui offesa  
+E mi ritrassi  
+
+Ché qual che fosse il mio passo  
+Egli primo giunge al tuo Volto  
+Che Grazia sì generale  
+Assegnata a due —  
+
+Non per malignità  
+Menzionai ciò a te —  
+Avesse lui obliquità  
+Da spartire al più presto  
+Ma per l'[[Greed|Avidità]] di lui —  
+Che vanta il mio Premio —  
+Crogiolandosi in Betlemme  
+Prima ch'io vi sia —

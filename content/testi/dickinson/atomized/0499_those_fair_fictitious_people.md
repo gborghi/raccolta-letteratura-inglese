@@ -43,3 +43,36 @@ Esteeming us — as [[Exile]] —
 Themself — admitted [[Home]] —  
 Through easy Miracle of [[Death]] —  
 The Way ourself, must come —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quella bella — fittizia Gente —  
+Le Donne — strappate via  
+Dalla nostra Vita familiare —  
+Gli Uomini d'Avorio —  
+
+Quei Ragazzi e Ragazze, in Tela —  
+Che restano sul Muro  
+In Ricordo Eterno —  
+Può dirlo Qualcuno?  
+
+Confidiamo — in luoghi più perfetti —  
+Ereditando Delizia  
+Oltre la nostra fioca Congettura —  
+La nostra vertiginosa Stima —  
+
+Ricordando noi stessi, confidiamo —  
+Eppure più Beati — di Noi —  
+Sapendo — dove Noi solo [[Hope|speriamo]] —  
+Ricevendo — dove noi — preghiamo —  
+
+Anche — dell'Attesa —  
+Anticipandoci  
+Con un trasporto, che sarebbe [[Pain|pena]]  
+Se non fosse Santità —  
+
+Stimandoci — come [[Exile|Esilio]] —  
+Loro — ammessi a [[Home|Casa]] —  
+Per facile Miracolo di [[Death|Morte]] —  
+La Via che noi stessi, dovremo fare —

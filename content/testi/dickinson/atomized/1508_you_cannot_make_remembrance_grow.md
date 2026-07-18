@@ -26,3 +26,19 @@ Nor can you cut Remembrance down
 When it shall once have grown —  
 Its Iron Buds will sprout anew  
 However overthrown —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non puoi far crescere la Rimembranza  
+Quando ha perduto la sua Radice —  
+Lo stringere la Terra intorno  
+E il rimetterla dritta  
+Inganna forse l'Universo  
+Ma non recupera la Pianta —  
+La vera [[Memory|Memoria]], come Piedi di Cedro  
+È calzata d'Adamante —  
+Né puoi abbattere la Rimembranza  
+Quando una volta sarà cresciuta —  
+Le sue Gemme di Ferro germoglieranno di nuovo  
+Per quanto rovesciata —

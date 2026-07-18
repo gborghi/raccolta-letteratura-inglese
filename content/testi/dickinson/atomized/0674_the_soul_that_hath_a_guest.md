@@ -23,3 +23,16 @@ And Courtesy forbid
 A Host's departure when  
 Upon Himself be visiting  
 The Emperor of Men —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Soul|Anima]] che ha un Ospite  
+Di rado esce fuori —  
+Folla più divina in [[Home|Casa]] —  
+Cancella il bisogno —  
+
+E la Cortesia vieta  
+La partenza dell'Anfitrione quando  
+Presso di Lui è in visita  
+L'Imperatore degli Uomini —

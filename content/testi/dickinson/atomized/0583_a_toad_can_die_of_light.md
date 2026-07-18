@@ -27,3 +27,20 @@ So measure Wine —
 Naked of Flask — Naked of Cask —  
 Bare Rhine —  
 Which Ruby's mine?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Rospo, può morire di Luce —  
+La [[Death|Morte]] è il Diritto Comune  
+Di Rospi e Uomini —  
+Di Conte e Moscerino  
+Il privilegio —  
+Perché vantarsi, allora?  
+La supremazia della Zanzara è vasta quanto la Tua —  
+
+La Vita — è Cosa diversa —  
+Così misura il Vino —  
+Nudo di Fiasco — Nudo di Botte —  
+Puro Reno —  
+Quale Rubino è mio?

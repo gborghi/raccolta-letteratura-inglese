@@ -28,3 +28,21 @@ Is always as the contents
 But give a Giant room  
 And you will lodge a Giant  
 And not a smaller man
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Pensavo che la [[Nature|natura]] bastasse  
+Finché venne l'Umana [[Nature|natura]]  
+Ma questa assorbì l'altra  
+Come Parallasse una Fiamma —  
+
+Dell'Umana [[Nature|natura]] appena conscia  
+Vi si aggiunse il Divino  
+Breve lotta per la capienza  
+Il potere di contenere  
+
+È sempre pari al contenuto  
+Ma date spazio a un Gigante  
+E alloggerete un Gigante  
+E non un uomo più piccolo

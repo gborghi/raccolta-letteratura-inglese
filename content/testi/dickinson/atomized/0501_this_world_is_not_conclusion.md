@@ -34,3 +34,27 @@ Much Gesture, from the Pulpit —
 Strong Hallelujahs roll —  
 Narcotics cannot still the Tooth  
 That nibbles at the [[Soul|soul]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo Mondo non è Conclusione.  
+Una Specie sta oltre —  
+Invisibile, come Musica —  
+Ma positiva, come Suono —  
+Ammicca, e sconcerta —  
+La [[philosophy|Filosofia]] — non sa —  
+E attraverso un [[Riddle|Enigma]], alla fine —  
+La Sagacia, deve passare —  
+Indovinarlo, confonde i dotti —  
+Per ottenerlo, Uomini han sopportato  
+Il Disprezzo di Generazioni  
+E la Crocifissione, mostrata —  
+La [[Faith|Fede]] scivola — e ride, e si riprende —  
+Arrossisce, se qualcuno vede —  
+Strappa un ramoscello di Evidenza —  
+E chiede a una Banderuola, la via —  
+Molto Gesto, dal Pulpito —  
+Forti Alleluia rimbombano —  
+I Narcotici non placano il Dente  
+Che rosicchia l'[[Soul|anima]] —

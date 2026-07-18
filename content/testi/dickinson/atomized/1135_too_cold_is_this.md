@@ -24,3 +24,17 @@ How went the Agile Kernel out
 Contusion of the Husk  
 Nor Rip, nor wrinkle indicate  
 But just an Asterisk.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Troppo freddo è questo  
+Per scaldarlo col [[Sun|Sole]] —  
+Troppo rigido per esser piegato,  
+Congiungere quest'Agata sarebbe un'opera —  
+Da vincere lo sguardo della Muratura —  
+
+Come uscì l'Agile Gheriglio  
+Contusione del Guscio  
+Né Strappo, né grinza indicano  
+Ma solo un Asterisco.

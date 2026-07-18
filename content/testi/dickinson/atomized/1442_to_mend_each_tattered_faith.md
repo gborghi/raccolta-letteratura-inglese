@@ -23,3 +23,16 @@ And though it do not wear
 As if it never Tore  
 'Tis very comfortable indeed  
 And spacious as before —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per rammendare ogni lacera [[Faith|Fede]]  
+C'è un ago leggiadro  
+Benché nessuna apparenza l'indichi —  
+È infilato nell'Aria —  
+
+E benché non paia consunta  
+Come se mai si fosse Strappata  
+È assai confortevole invero  
+E spaziosa come prima —

@@ -34,3 +34,27 @@ A Crescent in the [[Sea]] —
 With Midnight to the North of Her —  
 And Midnight to the South of Her —  
 And Maelstrom — in the Sky —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dietro di Me — s'immerge l'[[Eternity|Eternità]] —  
+Davanti a Me — l'[[Immortality|Immortalità]] —  
+Io — il Termine frammezzo —  
+La [[Death|Morte]] non che Deriva di Grigio d'Oriente,  
+Che si dissolve via nell'[[Dawn|Alba]],  
+Prima che l'Occidente cominci —  
+
+Son Regni — dopo — dicono —  
+In perfetta — Monarchia senza pause —  
+Il cui Principe — è Figlio di Nessuno —  
+Egli — la Sua Dinastia senza Data —  
+Egli — Sé stesso diversifica —  
+In Duplicato divino —  
+
+È Miracolo davanti a Me — allora —  
+È Miracolo dietro — frammezzo —  
+Una Falce di Luna nel [[Sea|Mare]] —  
+Con la Mezzanotte a Nord di Lei —  
+E la Mezzanotte a Sud di Lei —  
+E il Maelstrom — nel Cielo —

@@ -23,3 +23,16 @@ To a fictitious Country
 To palliate a Cold —  
 Not obviated of Degree —  
 Nor erased — of Latitude —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Congetturare un Clima  
+Di Soli mai sospesi —  
+Aggiunge strazio all'[[Winter|Inverno]] —  
+La Rabbrividente Fantasia volge  
+
+A un Paese fittizio  
+Per palliare un Freddo —  
+Non ovviato di Grado —  
+Né cancellato — di Latitudine —

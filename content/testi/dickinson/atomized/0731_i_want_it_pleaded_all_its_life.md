@@ -23,3 +23,16 @@ I could not deem it late — to hear
 That single — steadfast sigh —  
 The lips had placed as with a "Please"  
 Toward [[Eternity]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Io voglio" — implorò — Tutta la sua vita —  
+Io voglio — fu il principale che disse  
+Quando l'Arte lo supplicò — all'ultimo —  
+E quando da così poco morto —  
+
+Non potei crederlo tardo — udire  
+Quel singolo — fermo sospiro —  
+Che le labbra avevano posto come un "Per favore"  
+Verso l'[[Eternity|Eternità]] —

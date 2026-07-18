@@ -23,3 +23,16 @@ Oh faithful [[Frost]] that kept the Date
 Had [[Love]] as punctual been  
 Delight had aggrandized the Gate  
 And blocked the coming in.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Venne alfine ma più sollecita [[Death|Morte]]  
+Aveva occupato la [[house|Casa]] —  
+Il suo pallido Mobilio disposto  
+E la sua metallica Pace —  
+
+Oh fedele [[Frost|Gelo]] che mantenne la Data  
+Fosse stato [[Love|Amore]] altrettanto puntuale  
+La Delizia avrebbe ingrandito il Cancello  
+E sbarrato l'entrare.

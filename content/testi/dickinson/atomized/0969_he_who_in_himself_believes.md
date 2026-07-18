@@ -23,3 +23,16 @@ Cannot perish, though it fail
 Every second [[Time|time]] —  
 But defaced Vicariously —  
 For Some Other Shame —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi in Se stesso crede —  
+La Frode non può presumere —  
+La [[Faith|Fede]] è Risultato di Costanza —  
+E presume — da [[Home|Casa]] —  
+
+Non può perire, benché fallisca  
+Ogni seconda [[Time|volta]] —  
+Ma sfigurata per Procura —  
+Per la Vergogna di Qualcun Altro —

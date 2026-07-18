@@ -23,3 +23,16 @@ Never mind my breathless Anvil!
 Never mind Repose!  
 Never mind the sooty faces  
 Tugging at the Forge!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Con un fiore — Con una [[Letter|lettera]] —  
+Con un agile [[Love|amore]] —  
+Se saldo il Rivetto più stretto —  
+Saldo infine — lassù —  
+
+Non badare alla mia Incudine senza fiato!  
+Non badare al Riposo!  
+Non badare ai volti fuligginosi  
+che faticano alla Fucina!

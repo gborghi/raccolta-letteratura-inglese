@@ -23,3 +23,16 @@ I check my busy pencil,
 My figures file away.  
 Wherefore, my baffled fingers  
 Thy perplexity?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+China sul mio problema,  
+Un altro problema giunge —  
+Più vasto del mio — Più Sereno —  
+Che implica somme più solenni.  
+
+Fermo la mia matita operosa,  
+Le mie cifre sfilano via.  
+Perché mai, mie dita sconcertate  
+La Tua perplessità?

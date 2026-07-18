@@ -38,3 +38,31 @@ Nor any know I know the Art
 I mention — easy — Here —  
 Nor any Placard boast me —  
 It's full as Opera —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non so [[Dance|danzare]] sulle Punte —  
+Nessun Uomo mi istruì —  
+Ma spesso, dentro la mia mente,  
+Una Gioia mi possiede,  
+
+Che avessi io scienza di Balletto —  
+Si spanderebbe fuori  
+In Piroette da sbiancare una Compagnia —  
+O far impazzire una Prima,  
+
+E benché non avessi Veste di Garza —  
+Né Ricciolo, ai Capelli,  
+Né saltellassi verso il Pubblico — come [[Birds]],  
+Un Artiglio sull'Aria,  
+
+Né lanciassi la mia forma in Palle di Piuma,  
+Né rotolassi su ruote di [[Snow|neve]]  
+Finché fossi fuori vista, nel suono,  
+Con la [[house|Casa]] a chiedermi il bis —  
+
+Né alcuno sa che io so l'Arte  
+Che nomino — con leggerezza — Qui —  
+Né alcun Cartellone mi vanta —  
+È colma quanto un'Opera —

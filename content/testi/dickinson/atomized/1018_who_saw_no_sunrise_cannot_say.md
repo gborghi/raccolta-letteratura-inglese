@@ -23,3 +23,16 @@ The Emigrant of Light, it is
 Afflicted for the Day.  
 The Blindness that beheld and blest —  
 And could not find its Eye.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi non vide Aurora non può dire  
+quale Sembiante avrebbe.  
+Chi indovina il vedere, indovina la perdita  
+della Facoltà.  
+
+L'Emigrante della Luce, esso è  
+afflitto per il Giorno.  
+La Cecità che contemplò e benedisse —  
+e non seppe trovare il suo Occhio.

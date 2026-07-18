@@ -30,3 +30,23 @@ Alloys our firmer moments
 With that severest gold  
 Convenient to the [[Longing|longing]]  
 But otherwise withheld.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per quei vecchi Terreni della [[Memory|memoria]],  
+Il vagare in [[Alone|solitudine]]  
+È una divina intemperanza  
+Che un uomo prudente eviterebbe.  
+Dei liquori posti in vendita  
+È facile guardarsi  
+Ma gli statuti non s'immischiano  
+Con la taverna interiore.  
+Perniciosa come il tramonto  
+Che permette d'inseguire  
+Ma impotente a raccogliere,  
+La tranquilla perfidia  
+Adultera i nostri momenti più saldi  
+Con quell'oro severissimo  
+Concesso al [[Longing|desiderio]]  
+Ma altrimenti negato.

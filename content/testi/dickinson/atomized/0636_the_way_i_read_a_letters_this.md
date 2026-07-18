@@ -33,3 +33,26 @@ Peruse how infinite I am
 To no one that You — know —  
 And sigh for lack of Heaven — but not  
 The Heaven [[God]] bestow —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Modo in cui leggo una [[Letter|Lettera]] — è questo —  
+Prima — chiudo a chiave la [[Door|Porta]] —  
+E la premo con le dita — poi —  
+Perché il rapimento sia sicuro —  
+
+E poi vado quanto più lontano  
+A contrastare un bussare —  
+Poi traggo fuori la mia piccola [[Letter|Lettera]]  
+E lentamente forzo la serratura —  
+
+Poi — gettando uno sguardo stretto, al Muro —  
+E stretto al pavimento  
+Per ferma Convinzione d'un Topo  
+Non esorcizzato prima —  
+
+Scruto quanto infinita io sia  
+Per nessuno che Voi — conosciate —  
+E sospiro per mancanza di Cielo — ma non  
+Il Cielo che [[God|Dio]] concede —

@@ -29,3 +29,22 @@ Butterflies from St. Domingo
 Cruising round the purple line —  
 Have a system of aesthetics —  
 Far superior to mine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Flowers|Fiori]] — [[Well|Ebbene]] — se qualcuno  
+Sa l'estasi definire —  
+Metà rapimento — metà tormento —  
+Con cui i [[Flowers|fiori]] umiliano gli uomini:  
+Se qualcuno trova la fonte  
+Da cui flutti così contrari fluiscono —  
+Gli darò tutte le Margherite  
+Che sul pendio fioriscono.  
+
+Troppo pathos nei loro volti  
+Per un petto semplice come il mio —  
+Farfalle da St. Domingo  
+In crociera lungo la linea purpurea —  
+Hanno un sistema di estetica —  
+Di gran lunga superiore al mio.

@@ -28,3 +28,21 @@ Till [[Resurrection]], I must guess
 Denied the small [[Desire|desire]]  
 A [[Rose]] upon its Ridge to sow  
 Or take away a Briar.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era una [[Grave|Tomba]], eppur non recava Pietra  
+Non era cinta di Cancello  
+Una Coscienza il suo Acro, e  
+Racchiudeva un'[[Soul|Anima]] Umana.  
+
+Sepolta da chi, per quale colpa  
+Se nata in [[Home|Patria]] o Straniera —  
+Avessi io la curiosità  
+Non sarebbe placata dagli uomini  
+
+Fino alla [[Resurrection|Resurrezione]], devo supporre  
+Negato il piccolo [[Desire|desiderio]]  
+Di seminare una [[Rose|Rosa]] sul suo Colmo  
+O di togliere un Rovo.

@@ -35,3 +35,28 @@ Where be the Maize —
 Where be the Haze —  
 Where be the Bur?  
 Here — said the Year —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rispondi Luglio —  
+Dov'è l'Ape —  
+Dov'è il Rossore —  
+Dov'è il Fieno?  
+
+Ah, disse Luglio —  
+Dov'è il Seme —  
+Dov'è la Gemma —  
+Dov'è il Maggio —  
+Rispondi Tu — a Me —  
+
+No — disse il Maggio —  
+Mostrami la [[Snow|Neve]] —  
+Mostrami [[The [[Bells]]|le Campane]] —  
+Mostrami la Ghiandaia!  
+
+Cavillò la Ghiandaia —  
+Dove sia il Mais —  
+Dove sia la Foschia —  
+Dove sia il Cardo?  
+Qui — disse l'Anno —

@@ -43,3 +43,36 @@ News is he of all the others —
 Bold it were to die  
 With the Blue [[Birds]] buccaneering  
 On his British sky —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci piace Marzo.  
+Le sue Scarpe son Porpora —  
+È nuovo e alto —  
+Fa lui Fango per Cane e Merciaio.  
+Fa lui asciutte le Foreste.  
+Conosce la Lingua di Vipera il suo arrivo  
+E mostra la sua Macchia —  
+Sta il [[Sun|Sole]] così vicino e possente  
+Che le nostre Menti sono ardenti.  
+
+Notizia è lui di tutti gli altri —  
+Audace sarebbe morire  
+Con gli [[Birds|Uccelli]] Azzurri in esercizio  
+Sul suo Cielo Britannico.  
+
+—-  
+
+Ci piace Marzo — le sue scarpe son Porpora.  
+È nuovo e alto —  
+Fa lui Fango per Cane e Merciaio —  
+Fa lui le Foreste Asciutte —  
+Conosce la Lingua della Vipera il suo arrivo  
+E genera la sua macchia —  
+Sta il [[Sun|Sole]] così vicino e possente —  
+Che le nostre Menti sono ardenti.  
+Notizia è lui di tutti gli altri —  
+Audace sarebbe morire  
+Con gli [[Birds|Uccelli]] Azzurri corsari  
+Sul suo cielo Britannico —

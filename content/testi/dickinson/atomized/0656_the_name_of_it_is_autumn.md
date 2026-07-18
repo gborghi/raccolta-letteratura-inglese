@@ -28,3 +28,21 @@ It sprinkles Bonnets — far below —
 It gathers ruddy Pools —  
 Then — eddies like a [[Rose]] — away —  
 Upon Vermilion Wheels —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il nome — di ciò — è "[[Autumn|Autunno]]" —  
+La tinta — di ciò — è [[Blood|Sangue]] —  
+Un'Arteria — sopra il [[Hill|Colle]] —  
+Una Vena — lungo la [[Road|Strada]] —  
+
+Grandi Globuli — nei Vicoli —  
+E Oh, lo Scroscio di Macchia —  
+Quando i Venti — rovesciano il Bacile —  
+E versano la [[Rain|Pioggia]] Scarlatta —  
+
+Asperge Cuffie — laggiù in basso —  
+Raccoglie Pozze rubiconde —  
+Poi — mulina come una [[Rose|Rosa]] — via —  
+Su Ruote Vermiglie —

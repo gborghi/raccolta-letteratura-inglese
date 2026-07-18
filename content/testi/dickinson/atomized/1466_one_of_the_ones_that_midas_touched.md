@@ -50,3 +50,43 @@ But if there were a Jason,
 [[Tradition]] bear with me  
 Behold his lost Aggrandizement  
 Upon the Apple [[Tree]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uno di quelli che [[Midas|Mida]] toccò  
+E che mancò di toccarci tutti  
+Fu quel confidente Prodigo  
+Il vacillante Rigogolo —  
+
+Così ebbro che lo rinnega  
+Con celia divina —  
+Così abbagliante che lo scambiamo  
+Per una Miniera che si posa —  
+
+Un Supplice — un Simulatore —  
+Un Epicureo — un Ladro —  
+Talvolta un Oratorio —  
+Un'Estasi in capo —  
+
+Il Gesuita dei Frutteti  
+Truffa mentre incanta  
+Di un intero Attar  
+Per i suoi bisogni in fuga —  
+
+Lo splendore di una Birmania  
+La Meteora degli [[Birds|Uccelli]],  
+Che parte come un Corteo  
+Di Ballate e di Bardi —  
+
+Mai pensai che Giasone cercasse  
+Alcun Vello d'Oro  
+Ma io sono un uomo dei campi  
+Con pensieri che inclinano alla Pace —  
+
+Ma se ci fosse un Giasone,  
+1513  
+
+[[Tradition|Tradizione]] abbi pazienza con me  
+Guarda il suo perduto Ingrandimento  
+Sull'[[Tree|Albero]] di Mele —

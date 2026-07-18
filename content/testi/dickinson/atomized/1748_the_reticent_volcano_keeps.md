@@ -28,3 +28,21 @@ Admonished by her buckled lips
 Let every babbler be  
 The only secret people keep  
 Is [[Immortality]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il reticente vulcano serba  
+Il suo piano mai assopito —  
+Confidati sono i suoi rosei progetti  
+A nessun uomo precario.  
+
+Se la [[Nature|natura]] non dirà il racconto  
+Che [[Jehovah|Geova]] le narrò  
+Può l'umana [[Nature|natura]] non sopravvivere  
+Senza un ascoltatore?  
+
+Ammonito dalle sue labbra serrate  
+Sia ogni chiacchierone  
+Il solo segreto che la gente serba  
+È l'[[Immortality|Immortalità]].

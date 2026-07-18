@@ -33,3 +33,26 @@ It looks so small
 We chiefly [[Wonder|wonder]] then  
 At our Conceit  
 In purchasing.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così grande la mia Volontà  
+il poco che io posso  
+imbarazza  
+come gentile infamia —  
+
+Affronto a Lui  
+per cui il Tutto sarebbe piccolo  
+affronto a me  
+che so il Suo Merito di tutto.  
+
+La Terra al suo meglio  
+non è che scarso Balocco —  
+comprato, portato a [[Home|Casa]]  
+all'[[Immortality|Immortalità]].  
+
+Sembra così piccolo  
+che noi ci [[Wonder|stupiamo]] allora  
+della nostra Presunzione  
+nel comprare.

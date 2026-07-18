@@ -23,3 +23,16 @@ Withstands until the sweet Assault
 Their Chivalry consumes —  
 While He, victorious tilts away  
 To vanquish other Blooms.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come Convogli di Vagoni su Rotaie di Felpa  
+Odo l'Ape uniforme —  
+Un Fremito percorre i [[Flowers|Fiori]]  
+La loro Muratura di Velluto —  
+
+Resiste finché il dolce Assalto  
+Ne consuma la Cavalleria —  
+Mentre Lui, vittorioso volge altrove la giostra  
+A vincere altre Corolle.

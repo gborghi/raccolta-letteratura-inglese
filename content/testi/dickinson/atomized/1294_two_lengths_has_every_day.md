@@ -35,3 +35,28 @@ To die is not to go —
 On Doom's consummate Chart  
 No Territory new is staked —  
 Remain thou as thou art.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Della Vita da possedere —  
+Dalla Vita da attingere —  
+Ma mai toccare il serbatoio —  
+1341  
+
+1294. DUE LUNGHEZZE HA OGNI GIORNO — 
+
+Due Lunghezze ha ogni Giorno —  
+La sua estensione assoluta  
+E un'Area superiore  
+Da [[Hope|Speranza]] o Orrore prestata —  
+
+L'[[Eternity|Eternità]] sarà  
+Velocità o Pausa  
+A Segnali Fondamentali  
+Da Leggi Fondamentali.  
+
+Morire non è andare —  
+Sulla Carta compiuta del Destino  
+Nessun Territorio nuovo è tracciato —  
+Rimani tu qual sei.

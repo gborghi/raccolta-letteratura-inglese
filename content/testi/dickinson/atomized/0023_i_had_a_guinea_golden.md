@@ -55,3 +55,48 @@ Grant that repentance solemn
 May seize opon his mind -  
 And he no consolation  
 Beneath the [[Sun|sun]] may find.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avevo una ghinea dorata -  
+La persi nella sabbia -  
+E benché la somma fosse semplice  
+E di sterline ve ne fossero nel paese -  
+Pure, aveva un tale valore  
+Per il mio occhio frugale -  
+Che quando non potei trovarla -  
+Mi sedetti a sospirare.  
+
+Avevo un Pettirosso cremisi -  
+Che cantò per molti e molti giorni  
+Ma quando i boschi furono dipinti -  
+Anche - lui - volò via -  
+Il [[Time|Tempo]] mi portò altri Pettirossi -  
+Le loro ballate erano le stesse -  
+Pure, per il mio Trovatore perduto  
+Tenni la "[[house|casa]] at hame".  
+
+Avevo una stella in cielo -  
+"Pleiade" era il suo nome -  
+E quando non badavo,  
+Se ne vagò via -  
+E benché i cieli siano affollati -  
+E tutta la [[Night|notte]] splendente -  
+Non me ne curo -  
+Poiché nessuna di loro è mia -  
+
+La mia storia ha una morale -  
+Ho un amico perduto -  
+"Pleiade" il suo nome - e Pettirosso -  
+E ghinea nella sabbia -  
+28  
+
+E quando questa mesta canzoncina  
+Accompagnata da lacrime -  
+Incontrerà l'occhio del traditore  
+In un paese lontano da qui -  
+Fate che un pentimento solenne  
+S'impadronisca della sua mente -  
+E che egli nessuna consolazione  
+Sotto il [[Sun|sole]] possa trovare.

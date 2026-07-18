@@ -23,3 +23,16 @@ For each beloved hour
 Sharp pittances of years —  
 Bitter contested farthings —  
 And Coffers heaped with [[Tears]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per ogni istante estatico  
+Un'angoscia dobbiamo pagare  
+In acuta e tremante proporzione  
+All'estasi.  
+
+Per ogni ora amata  
+Aspre elemosine di anni —  
+Amari spiccioli contesi —  
+E Forzieri colmi di [[Tears|Lacrime]]!

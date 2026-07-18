@@ -43,3 +43,36 @@ Past Bows, and Invitations —
 Past Interview, and [[Vow]] —  
 Past what Ourself can estimate —  
 That — makes the Quick of Woe!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se l'amico di qualcuno è morto  
+È il più acuto del tema  
+Il pensare a come camminavano vivi —  
+In questo o quel [[Time|tempo]] —  
+
+Il loro abito, di una [[Sunday|Domenica]],  
+Certa foggia dei Capelli —  
+Uno scherzo noto a loro soltanto  
+Perduto, nel Sepolcro —  
+
+Com'erano caldi, in quel dato giorno,  
+Quasi ne senti la data —  
+Così breve tratto sembra —  
+E ora — ne sono lontani Secoli —  
+
+Come si compiacquero, di ciò che dicesti —  
+Provi a toccare il sorriso  
+E immergi le dita nel [[Frost|gelo]] —  
+Quando fu — Sai dirlo —  
+
+Invitasti la Compagnia al tè —  
+Conoscenti — pochi appena —  
+E conversasti fitto con questa Gran Cosa  
+Che non si ricorda di te —  
+
+Oltre Inchini, e Inviti —  
+Oltre Colloquio, e [[Vow|Voto]] —  
+Oltre ciò che Noi stessi possiamo stimare —  
+Questo — fa il Vivo del Dolore!

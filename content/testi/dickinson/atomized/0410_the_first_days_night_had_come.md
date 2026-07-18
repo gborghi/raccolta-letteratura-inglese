@@ -38,3 +38,31 @@ And Something's odd — within —
 That person that I was —  
 And this One — do not feel the same —  
 Could it be [[Madness]] — this?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Night|Notte]] del primo Giorno era giunta —  
+E grata che una cosa  
+Così terribile — fosse stata patita —  
+Dissi alla mia [[Soul|Anima]] di cantare —  
+
+Lei disse che le sue Corde erano spezzate —  
+L'Archetto — in Atomi esploso —  
+E così per ripararla — mi diede lavoro  
+Fino a un altro Mattino —  
+
+E poi — un Giorno immenso  
+Come gli Ieri in coppia,  
+Srotolò il suo orrore sul mio volto —  
+Finché mi ostruì gli occhi —  
+
+Il mio Cervello — prese a ridere —  
+Biascicavo — come un [[Fool|folle]] —  
+E benché siano Anni fa — quel Giorno —  
+Il mio Cervello ridacchia — ancora.  
+
+E Qualcosa è strano — dentro —  
+Quella persona che ero —  
+E questa — non si sentono uguali —  
+Potrebbe essere [[Madness|Follia]] — questa?

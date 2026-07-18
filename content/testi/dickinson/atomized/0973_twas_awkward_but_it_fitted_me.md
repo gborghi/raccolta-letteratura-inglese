@@ -28,3 +28,21 @@ I only have it not Tonight
 In its established place —  
 For technicality of [[Death]] —  
 Omitted in the Lease —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era goffo, ma mi si adattava —  
+Un Cuore d'Antica foggia —  
+Sua sola dottrina — la sua Costanza —  
+Nel Mutamento — inerudito —  
+
+Si muoveva solo come i Soli —  
+Per merito di Ritorno —  
+O gli [[Birds|Uccelli]] — confermati perpetui  
+Dall'Alterna Zona —  
+
+Solo Stanotte non lo tengo  
+Al suo posto stabilito —  
+Per un cavillo della [[Death|Morte]] —  
+Omesso nel Contratto —

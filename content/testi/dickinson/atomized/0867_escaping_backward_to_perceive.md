@@ -23,3 +23,16 @@ Retreating up, a Billow's height
 Retreating blinded down  
 Our undermining feet to meet  
 Instructs to the Divine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fuggendo all'indietro per scorgere  
+Il [[Sea|Mare]] sul nostro luogo —  
+Fuggendo in avanti, per affrontare  
+Il suo scintillante Abbraccio —  
+
+Ritraendosi in su, all'altezza d'un Flutto  
+Ritraendosi accecati in giù  
+A incontrare i nostri piedi che franano  
+Ammaestra al Divino.

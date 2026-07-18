@@ -28,3 +28,21 @@ Without [[debate|Debate]] — or Pause —
 Or Celebrated Days —  
 No different Our Years would be  
 From Anno Domini's —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Sempre — è composto di Adesso —  
+Non è un [[Time|tempo]] differente —  
+Se non per l'Infinitezza —  
+E la Latitudine della [[Home|Casa]] —  
+
+Da questo — sperimentato Qui —  
+Togli le Date — a Questi —  
+Lascia che i Mesi si dissolvano in altri Mesi —  
+E gli Anni — esalino in Anni —  
+
+Senza [[debate|Dibattito]] — o Pausa —  
+O Giorni Celebrati —  
+In nulla i Nostri Anni differirebbero  
+Da quelli dell'Anno Domini —

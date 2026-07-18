@@ -22,3 +22,15 @@ Leaving on [[Nature|nature]] — a Default
 As Cricket or as Bee —  
 But Andes in the Bosoms where  
 She had begun to lie —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ella fuggì come Petali di [[Rose|Rosa]]  
+Offesi dal [[Wind|Vento]] —  
+Fragile [[aristocrat|Aristocratica]] del [[Time|Tempo]]  
+In cerca d'Indennità —  
+Lasciando sulla [[Nature|natura]] — un Ammanco  
+Come Grillo o come Ape —  
+Ma Ande nei Petti dove  
+Aveva iniziato a giacere —

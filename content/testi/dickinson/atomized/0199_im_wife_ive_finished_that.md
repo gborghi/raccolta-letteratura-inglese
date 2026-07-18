@@ -28,3 +28,21 @@ This being comfort — then
 That other kind — was [[Pain|pain]] —  
 But why compare?  
 I'm "Wife"! Stop there!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sono "moglie" — ho finito quello —  
+Quell'altro stato —  
+Sono Zar — sono "Donna" ora —  
+È più sicuro così —  
+
+Com'è strana la vita di Ragazza  
+Dietro questa morbida Eclissi —  
+Credo che la Terra sembri così  
+Alla gente in Cielo — ora —  
+
+Se questo è conforto — allora  
+Quell'altra specie — era [[Pain|pena]] —  
+Ma perché confrontare?  
+Sono "Moglie"! Basta lì!

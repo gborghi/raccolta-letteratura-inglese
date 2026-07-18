@@ -250,7 +250,7 @@ the strongest leg is that which stands most [[Alone|alone]].
 
 I Vantaggi dell'Avere una Sola Gamba
 
-G.K.Chesterton
+G.K.Chesterton  
 
 [Da: Tremendous Trifles, 1909]
 

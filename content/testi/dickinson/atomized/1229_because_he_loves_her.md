@@ -28,3 +28,21 @@ Not hoping for his notice vast
 But nearer to adore  
 'Tis Glory's far sufficiency  
 That makes our trying poor.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perché Egli La ama  
+Noi spieremo per vedere se è bella  
+Che differenza c'è sul suo Volto  
+Dai Lineamenti che altre portano.  
+
+Non nuocerà al suo passo [[Magic|magico]]  
+Che noi si resti tanto indietro —  
+Le sue Distanze propiziano  
+Come le Foreste toccano il [[Wind|Vento]]  
+
+Senza sperare nel suo vasto sguardo  
+Ma per adorare più da presso  
+È la lontana sufficienza della Gloria  
+Che rende povero il nostro tentare.

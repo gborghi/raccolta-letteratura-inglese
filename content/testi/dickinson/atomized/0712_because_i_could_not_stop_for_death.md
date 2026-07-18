@@ -43,3 +43,36 @@ Since then—'tis centuries— and yet
 Feels shorter than the Day  
 I first surmised the Horses' Heads  
 Were toward [[Eternity]]—
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perché non potevo fermarmi per la [[Death|Morte]]—  
+Lei gentile si fermò per me—  
+La Carrozza portava noi Due soltanto—  
+E l'[[Immortality|Immortalità]].  
+
+Andavamo piano—non conosceva fretta,  
+E io avevo messo via  
+Il mio lavoro e anche il mio ozio,  
+Per la Sua Cortesia—  
+
+Passammo la Scuola, dove i Bambini si affannavano  
+Nell'intervallo—in cerchio—  
+Passammo i Campi di Grano Attonito—  
+Passammo il [[Sun|Sole]] Calante—  
+
+O piuttosto—Lui passò Noi—  
+Le Rugiade scesero tremule e fredde—  
+Ché solo Garza, la mia Veste—  
+La mia Mantellina—solo Tulle—  
+
+Sostammo davanti a una [[house|Casa]] che pareva  
+Un Rigonfio del Suolo—  
+Il Tetto era appena visibile—  
+Il Cornicione—nel Suolo—  
+
+Da allora—son secoli— eppure  
+Sembra più breve del Giorno  
+In cui intuii che le Teste dei Cavalli  
+Volgevano all'[[Eternity|Eternità]]—

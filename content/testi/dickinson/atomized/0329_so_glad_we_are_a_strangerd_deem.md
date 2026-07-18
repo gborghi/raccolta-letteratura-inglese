@@ -22,3 +22,15 @@ Nor how Ourselves be justified —
 Since Grief and [[Joy]] are done  
 So similar — An Optizan  
 Could not decide between —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così lieti siamo — un Estraneo direbbe  
+Che tristi, fossimo —  
+Ché dove la Festa dovrebbe essere  
+Lì si pubblica una Lacrima —  
+Né come Noi stessi giustificarci —  
+Poiché Dolore e [[Joy|Gioia]] son fatti  
+Così simili — che un Ottico  
+Non saprebbe scegliere fra loro —

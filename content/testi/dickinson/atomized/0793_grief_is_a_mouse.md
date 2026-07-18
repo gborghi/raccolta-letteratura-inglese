@@ -34,3 +34,27 @@ Burn Him in the Public Square —
 His Ashes — will  
 Possibly — if they refuse — How then know —  
 Since a Rack couldn't coax a syllable — now.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Dolore è un Topo —  
+E sceglie il Rivestimento nel Petto  
+Per sua Timida [[house|Casa]] —  
+Ed elude la [[Quest|ricerca]] —  
+
+Il Dolore è un Ladro — presto allarmato —  
+Tende l'Orecchio — per udire notizia  
+Di quel Vasto Buio —  
+Che spazzò via il Suo Essere — indietro —  
+
+Il Dolore è un Giocoliere — audacissimo al Gioco —  
+Ché se vacilla — l'occhio da quel lato  
+Piombi sui Suoi Lividi — Uno — diciamo — o Tre —  
+Il Dolore è un Ghiottone — risparmiate il Suo lusso —  
+
+Il Dolore migliore è Senza Lingua — prima che parli —  
+Bruciatelo sulla Pubblica Piazza —  
+Le Sue Ceneri — lo faranno  
+Forse — se rifiutano — Come saperlo allora —  
+Poiché il Cavalletto non strapperebbe una sillaba — ora.

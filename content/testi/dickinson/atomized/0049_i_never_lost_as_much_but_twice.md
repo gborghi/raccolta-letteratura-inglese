@@ -23,3 +23,16 @@ Angels, twice descending,
 Reimbursed my store.  
 Burglar, banker, father,  
 I am poor once more !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ho mai perso tanto se non due volte,  
+E fu nella zolla ;  
+Due volte sono stata mendica  
+Davanti alla [[Door|porta]] di [[God|Dio]] !  
+
+Angeli, due volte discesi,  
+Rimborsarono la mia scorta.  
+Ladro, banchiere, padre,  
+Sono povera ancora una volta !

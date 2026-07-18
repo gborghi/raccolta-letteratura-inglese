@@ -23,3 +23,16 @@ Besides the deepest Cellar
 That ever Mason laid —  
 Look to it by its Fathoms  
 Ourselves be not pursued —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Rimembranza ha un Retro e una Facciata —  
+È qualcosa come una [[house|Casa]] —  
+Ha anche una Soffitta  
+Per i Rifiuti e il Topo.  
+
+Oltre alla più profonda Cantina  
+Che mai Muratore posò —  
+Bada ai suoi Abissi  
+Che noi stessi non siamo inseguiti —

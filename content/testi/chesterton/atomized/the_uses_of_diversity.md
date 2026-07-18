@@ -10722,4 +10722,4 @@ Ma nel nostro [[Time|tempo]], mi dispiace dirlo, abbiamo visto alcuni segni dell
 
 Non sarei molto dolorosamente preoccupato per il Leprechaun se le persone gli avessero gettato pietre come a una cattiva fata, o gli avessero dato latte e [[Fire|fuoco]] come a una buona. Ma vi è qualcosa di minaccioso nel portar via un [[Monster|mostro]] per studiarlo. Vi è qualcosa di sinistro nel mettere un Leprechaun nell'ospizio. L'unico solido conforto è che di certo non lavorerà.
 
-LA FINE
+FINE

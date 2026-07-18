@@ -22,3 +22,15 @@ Straighten — look cautious for their Breath —
 But make no syllable — like [[Death]] —  
 Who only shows the Marble Disc —  
 Sublimer sort — than Speech —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Date poca Angoscia —  
+Le Vite si crucceranno —  
+Date Valanghe —  
+E s'inclineranno —  
+Si raddrizzeranno — cercando caute il loro Respiro —  
+Ma senza far sillaba — come la [[Death|Morte]] —  
+Che mostra solo il Disco di Marmo —  
+Sorta più Sublime — della Parola —

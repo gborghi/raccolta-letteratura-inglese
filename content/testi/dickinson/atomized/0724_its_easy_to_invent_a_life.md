@@ -28,3 +28,21 @@ The Perished Patterns murmur —
 But His Perturbless Plan  
 Proceed — inserting Here — a [[Sun]] —  
 There — leaving out a Man —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È facile inventare una Vita —  
+[[God|Dio]] lo fa — ogni Giorno —  
+La Creazione — non che il Trastullo  
+Della Sua [[Authority|Autorità]] —  
+
+È facile cancellarla —  
+La parsimoniosa Divinità  
+Potrebbe a stento concedere [[Eternity|Eternità]]  
+Alla Spontaneità —  
+
+I Modelli Periti mormorano —  
+Ma il Suo Piano Imperturbato  
+Procede — inserendo Qui — un [[Sun|Sole]] —  
+Là — tralasciando un Uomo —

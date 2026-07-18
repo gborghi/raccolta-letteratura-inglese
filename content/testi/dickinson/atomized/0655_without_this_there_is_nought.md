@@ -28,3 +28,21 @@ I wished a way might be
 My Heart to subdivide —  
 'Twould magnify — the Gratitude —  
 And not reduce — the Gold —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Senza questo — non v'è nulla —  
+Ogni altra Ricchezza è  
+Come il Cinguettio d'un Uccello —  
+Udito di fronte al [[Sea|Mare]] —  
+
+Non potrei curarmi — di ottenere  
+Un che di minore del Tutto —  
+Poiché questo non li includeva forse —  
+Come le Cuciture — includono la Palla?  
+
+Desiderai vi fosse un modo  
+Di suddividere il mio Cuore —  
+Avrebbe ingrandito — la Gratitudine —  
+E non ridotto — l'Oro —

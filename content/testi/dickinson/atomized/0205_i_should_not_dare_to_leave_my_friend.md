@@ -33,3 +33,26 @@ My Heart would wish it broke before —
 Since breaking then — since breaking then —  
 Were useless as next morning's [[Sun|sun]] —  
 Where midnight frosts — had lain!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non oserei lasciare il mio amico,  
+Perché — perché se lui morisse  
+Mentre ero via — e io — troppo tardi —  
+Giungessi al Cuore che mi voleva —  
+
+Se deludessi gli occhi  
+Che cercavano — cercavano tanto — di vedere —  
+E non sopportavano di chiudersi finché  
+Non m'avessero "notata" — m'avessero notata —  
+
+Se pugnalassi la paziente [[Faith|fede]]  
+Così certa ch'io venissi — così certa ch'io venissi —  
+Che ascoltando — ascoltando — cadde nel [[Sleep|sonno]] —  
+Ripetendo il mio nome tardivo —  
+
+Il mio Cuore vorrebbe essersi spezzato prima —  
+Ché spezzarsi allora — ché spezzarsi allora —  
+Sarebbe inutile come il [[Sun|sole]] del mattino dopo —  
+Dove i geli di mezzanotte — s'erano posati!

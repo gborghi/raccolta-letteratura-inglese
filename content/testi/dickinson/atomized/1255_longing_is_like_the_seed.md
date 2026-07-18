@@ -23,3 +23,16 @@ The Hour, and the Clime —
 Each Circumstance unknown,  
 What Constancy must be achieved  
 Before it see the [[Sun]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Longing|Lo Struggimento]] è come il Seme  
+Che lotta nella Terra,  
+Credendo che se intercede  
+Sarà infine trovato.  
+
+L'Ora, ed il Clima —  
+Ogni Circostanza ignota,  
+Quale Costanza va compiuta  
+Prima che veda il [[Sun|Sole]]!

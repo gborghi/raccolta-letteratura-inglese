@@ -40,3 +40,33 @@ The [[Body]] — borrows a Revolver —
 He bolts the [[Door]] —  
 O'erlooking a superior spectre —  
 Or More —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Non serve essere una Camera — per essere Infestati —  
+Non serve essere una [[house|Casa]] —  
+Il Cervello ha Corridoi — che superano  
+Il Luogo Materiale —  
+
+Assai più sicuro, in un Incontro a Mezzanotte,  
+un [[Ghost|Fantasma]] Esterno  
+Che il suo Confronto interiore —  
+Quell'Ospite più Freddo.  
+
+Assai più sicuro, galoppare per un'Abbazia,  
+Le Pietre all'inseguimento —  
+Che Disarmati, incontrare il proprio [[Self|sé]] —  
+In un Luogo solitario —  
+
+Noi stessi dietro noi stessi, celati —  
+Dovrebbe atterrire di più —  
+L'Assassino nascosto nel nostro Appartamento  
+Sia dell'Orrore il minimo.  
+
+Il [[Body|Corpo]] — prende in prestito un Revolver —  
+Egli sbarra la [[Door|Porta]] —  
+Trascurando uno spettro superiore —  
+O Più —

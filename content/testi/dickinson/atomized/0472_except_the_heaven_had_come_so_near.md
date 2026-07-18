@@ -23,3 +23,16 @@ But just to hear the Grace depart —
 I never thought to see —  
 Afflicts me with a [[Double]] loss —  
 'Tis lost — and lost to me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se il Cielo non fosse giunto così vicino —  
+Non fosse parso scegliere la Mia [[Door|Porta]] —  
+La Distanza non mi perseguiterebbe tanto —  
+Non avevo sperato — prima —  
+
+Ma udire soltanto la Grazia partire —  
+Che mai pensai di vedere —  
+Mi affligge d'una [[Double|Doppia]] perdita —  
+È perduta — e perduta per me —

@@ -23,3 +23,16 @@ Meant nought but going [[Home|home]].
 Than when the [[Winter|winter]] came,  
 Yet that pathetic pendulum  
 Keeps esoteric [[Time|time]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu più tardi quando l'[[Summer|estate]] se ne andò  
+Che quando venne il grillo,  
+Eppure sapevamo che quel gentile [[Clock|orologio]]  
+Non voleva dir altro che tornare a [[Home|casa]].  
+
+Fu più presto quando il grillo se ne andò  
+Che quando venne l'[[Winter|inverno]],  
+Eppure quel patetico pendolo  
+Segna un [[Time|tempo]] esoterico.

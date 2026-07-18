@@ -22,3 +22,15 @@ As confident of him as we —
 Impregnable we are —  
 The whole of [[Immortality]] intrenched  
 Within a star —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Visse la Vita dell'Agguato  
+E se ne andò per la via del Crepuscolo  
+E ora accanto al suo nome sottile  
+Sta un Asterisco  
+Fiducioso di lui quanto noi —  
+Inespugnabili siamo —  
+L'intera [[Immortality|Immortalità]] trincerata  
+Dentro una stella —

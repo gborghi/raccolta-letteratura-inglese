@@ -25,3 +25,18 @@ Till I got in —
 Or make him fast  
 To "Toby's" fist —  
 Hist! Whist! I'd come!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È vero, cara Sue?  
+Sono in due?  
+Non vorrei venire  
+Per [[Fear|paura]] di scuoterLo!  
+Se potessi rinchiuderlo  
+In una Tazza da Caffè,  
+O legarlo a uno spillo  
+Finché non entro —  
+O fissarlo saldo  
+Al pugno di "Toby" —  
+Zitti! Piano! Verrei!

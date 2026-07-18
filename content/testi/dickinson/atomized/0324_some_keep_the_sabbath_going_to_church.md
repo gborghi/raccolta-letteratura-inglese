@@ -28,3 +28,21 @@ Our little Sexton — sings.
 And the sermon is never long,  
 So instead of getting to Heaven, at last —  
 I'm going, all along.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è chi osserva il Sabato andando in Chiesa —  
+Io lo osservo, restando a [[Home|Casa]] —  
+Con un Bobolink per Corista —  
+E un Frutteto, per Cupola —  
+
+C'è chi osserva il Sabato in Cotta —  
+Io indosso solo le mie Ali —  
+E invece di suonare la Campana, per la Chiesa,  
+Il nostro piccolo Sagrestano — canta.  
+
+[[God|Dio]] predica, Ecclesiastico insigne —  
+E il sermone non è mai lungo,  
+Così invece di giungere in Cielo, alla fine —  
+Io ci sto andando, da sempre.

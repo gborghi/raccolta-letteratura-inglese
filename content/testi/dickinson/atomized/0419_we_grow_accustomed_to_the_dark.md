@@ -38,3 +38,31 @@ Either the Darkness alters —
 Or something in the sight  
 Adjusts itself to Midnight —  
 And Life steps almost straight.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci abituiamo al Buio —  
+Quando la luce è messa via —  
+Come quando la Vicina regge il Lume  
+A testimoniare il suo Addio —  
+
+Un Momento — incerti muoviamo il passo  
+Per la novità della [[Night|notte]] —  
+Poi — adattiamo la Vista al Buio —  
+E affrontiamo la [[Road|Strada]] — eretti —  
+
+E così di più vaste — Tenebre —  
+Quelle Sere del Cervello —  
+Quando nessuna [[Moon|Luna]] svela un segno —  
+Né Stella — spunta — dentro —  
+
+I più Coraggiosi — brancolano un poco —  
+E a volte urtano un [[Tree|Albero]]  
+Dritto in mezzo alla Fronte —  
+Ma via via che imparano a vedere —  
+
+O il Buio si altera —  
+O qualcosa nella vista  
+Si adatta alla Mezzanotte —  
+E la Vita cammina quasi dritta.

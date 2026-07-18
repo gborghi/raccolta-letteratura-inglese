@@ -54,3 +54,47 @@ Three rivers and the [[Hill]] are passed —
 Two deserts and the [[Sea|sea]]!  
 Now [[Death]] usurps my Premium  
 And gets the look at Thee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non Ti ho raggiunto  
+ma i miei piedi scivolano più vicino ogni giorno  
+Tre Fiumi e una [[Hill|Collina]] da [[Cross|attraversare]]  
+Un [[Desert|Deserto]] e un [[Sea|Mare]]  
+Non conterò il [[Journey|viaggio]] per uno  
+quando lo racconterò a te.  
+
+Due deserti, ma l'Anno è freddo  
+e questo aiuterà la sabbia  
+Un [[Desert|deserto]] attraversato —  
+il secondo  
+parrà fresco come terra  
+Il Sahara è un prezzo troppo piccolo  
+da pagare per la tua mano Destra.  
+
+Il [[Sea|Mare]] viene ultimo — Passo allegro, piedi,  
+così poco ci resta da andare —  
+A giocare insieme siamo inclini,  
+ma ora dobbiamo faticare,  
+l'ultimo sarà il carico più lieve  
+che abbiamo dovuto trainare.  
+
+Il [[Sun|Sole]] va storto —  
+quella è [[Night|Notte]]  
+prima che compia la curva.  
+Dobbiamo aver passato il [[Sea|Mare]] di Mezzo —  
+Quasi vorremmo che la Fine  
+fosse più lontana —  
+Troppo grande sembra  
+stare così vicino al Tutto.  
+
+1712  
+
+Camminiamo come Felpa,  
+stiamo come [[Snow|neve]],  
+Le acque mormorano nuove.  
+Tre fiumi e la [[Hill|Collina]] sono passati —  
+due deserti e il [[Sea|mare]]!  
+Ora la [[Death|Morte]] usurpa il mio Premio  
+e ottiene lo sguardo su di Te.

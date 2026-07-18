@@ -24,3 +24,17 @@ When supplicating [[Mercy|mercy]]
 In a portentous way  
 He swung upon the Decalogue  
 And shouted let us pray —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Bobolink se n'è andato —  
+Il Chiassoso del Prato —  
+E nessuno si pavoneggia ora se non io —  
+Gli [[Birds|Uccelli]] Presbiteriani  
+Possono ora riprendere l'Adunanza  
+Che lui audace interruppe quel Giorno traboccante  
+Quando supplicando [[Mercy|misericordia]]  
+In modo portentoso  
+Si dondolò sul Decalogo  
+E gridò preghiamo —

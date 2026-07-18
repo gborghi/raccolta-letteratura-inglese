@@ -38,3 +38,31 @@ Big my Secret but it's bandaged —
 It will never get away  
 Till the Day its Weary Keeper  
 Leads it through the [[Grave]] to thee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Riordina l'affetto di una "Moglie"!  
+Quando mi dislocano il Cervello!  
+Amputate il mio Seno lentigginoso!  
+Fatemi barbuta come un uomo!  
+
+Arrossisci, mio spirito, nella tua Rocca —  
+Arrossisci, mia argilla non riconosciuta —  
+Sette anni di fede promessa ti hanno insegnato  
+Più di quanto mai potrà l'Esser Moglie!  
+
+[[Love|Amore]] che mai balzò dal suo alveo —  
+Fiducia trincerata in stretta [[Pain|pena]] —  
+Costanza attraverso il [[Fire|fuoco]] — premiata —  
+Angoscia — priva di lenimento!  
+
+Fardello — portato fin qui trionfante —  
+Nessuno mi sospetta della [[Crown|corona]],  
+Poiché porto le "Spine" fino al Tramonto —  
+Poi — il mio Diadema indosso.  
+
+Grande il mio Segreto ma è bendato —  
+Non fuggirà mai  
+Fino al Giorno in cui la sua Stanca Custode  
+Lo condurrà attraverso la [[Grave|Tomba]] a te.

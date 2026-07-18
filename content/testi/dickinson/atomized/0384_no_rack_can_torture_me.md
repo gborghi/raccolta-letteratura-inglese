@@ -33,3 +33,26 @@ Except Thyself may be
 Thine Enemy —  
 Captivity is Consciousness —  
 So's [[Liberty]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessun Cavalletto può torturarmi —  
+L'[[Soul|Anima]] mia — in [[Liberty|Libertà]] —  
+Dietro quest'Osso mortale  
+Se ne intesse Uno più ardito —  
+
+Non puoi pungere con la sega —  
+Né trafiggere con la Scimitarra —  
+Due Corpi — dunque sono —  
+Lega l'Uno — L'Altro vola —  
+
+L'Aquila del suo Nido  
+Non più facilmente si spoglia —  
+E guadagna il Cielo  
+Di quanto Tu possa —  
+
+Se non Tu stesso sia  
+Il Tuo Nemico —  
+Prigionia è Coscienza —  
+Così la [[Liberty|Libertà]].

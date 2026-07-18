@@ -23,3 +23,16 @@ And then, to go to [[Sleep|sleep]] ;
 And then, if it should be  
 The will of its Inquisitor,  
 The [[Liberty|liberty]] to die.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il cuore chiede il piacere prima,  
+E poi, dispensa dal [[Pain|dolore]] ;  
+E poi, quei piccoli lenimenti  
+Che attutiscono la [[Suffering|sofferenza]] ;  
+
+E poi, andare a [[Sleep|dormire]] ;  
+E poi, se tale fosse  
+Il volere del suo Inquisitore,  
+La [[Liberty|libertà]] di morire.

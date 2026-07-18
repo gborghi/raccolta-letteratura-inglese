@@ -43,3 +43,36 @@ If it be invention
 It must have a Patent.  
 Rabbi of the Wise Book  
 Don't you know?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sa come dimenticare!  
+Ma potrebbe insegnarlo?  
+La più facile delle Arti, dicono  
+Quando si impara come  
+
+Cuori ottusi son morti  
+Nell'Acquisizione  
+Sacrificarsi per la Scienza  
+È comune, però, ormai —  
+
+Andai a Scuola  
+Ma non ne fui più saggia  
+Il Globo non lo insegnò  
+Né il Logaritmo lo Mostrò  
+
+"Come dimenticare"!  
+Dica — qualche — Filosofo!  
+Ah, essere eruditi  
+Abbastanza da saperlo!  
+
+È in un Libro?  
+Così, potrei comprarlo —  
+È come un Pianeta?  
+I Telescopi lo saprebbero —  
+
+Se è invenzione  
+Deve avere un Brevetto.  
+Rabbino del Libro Sapiente  
+Tu non lo sai?

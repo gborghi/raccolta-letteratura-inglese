@@ -30,3 +30,23 @@ His Comrades, shifted like the Flakes
 When Gusts reverse the [[Snow]] —  
 But He — was left alive Because  
 Of Greediness to die —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Combatté come quelli Che nulla hanno da perdere —  
+Offrì Se stesso alle Pallottole  
+Come Uno che d'una Vita ulteriore  
+Non avesse ulteriore Uso —  
+
+Invitò la [[Death|Morte]] — con audace slancio —  
+Ma la [[Death|Morte]] fu Ritrosa con Lui  
+Come gli Altri Uomini, erano Ritrosi con la [[Death|Morte]] —  
+Per Lui — vivere — era Condanna —  
+
+I Suoi Compagni, mutavano come i Fiocchi  
+Quando le Raffiche rovesciano la [[Snow|Neve]] —  
+Ma Lui — fu lasciato vivo a Causa  
+Dell'Avidità di morire —

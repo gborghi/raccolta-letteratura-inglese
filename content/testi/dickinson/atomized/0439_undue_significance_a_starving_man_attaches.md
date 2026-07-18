@@ -24,3 +24,17 @@ But proves us
 That Spices fly  
 In the Receipt — It was the Distance —  
 Was Savory —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Indebita Importanza un uomo affamato attribuisce  
+Al Cibo —  
+Da lontano — Egli sospira — e perciò — Senza Speranza —  
+E perciò — Buono —  
+
+Consumato — dà sollievo — davvero —  
+Ma ci dimostra  
+Che le Spezie svaniscono  
+Nella Ricetta — Era la Distanza —  
+Ad esser Saporita —

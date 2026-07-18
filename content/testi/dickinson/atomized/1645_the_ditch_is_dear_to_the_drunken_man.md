@@ -22,3 +22,15 @@ In her disheveled Sanctity —
 Above him is the sky —  
 Oblivion bending over him  
 And Honor leagues away.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Fosso è caro all'uomo Ubriaco  
+Perché non è forse il suo Letto —  
+Il suo Avvocato — il suo Edificio?  
+Com'è sicuro il suo Capo caduto  
+Nella sua scarmigliata Santità —  
+Sopra di lui è il cielo —  
+L'Oblio che si china su di lui  
+E l'Onore a leghe di distanza.

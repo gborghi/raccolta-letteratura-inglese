@@ -35,3 +35,28 @@ I'm that — or nought —
 Or other thing — if other thing there be —  
 With just this Stipulus —  
 I suit Thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dicesti che io "ero Grande" — un Giorno —  
+Allora "Grande" sia — se ciò Ti piace —  
+O Piccola — o di qualunque taglia —  
+Anzi — son della taglia che Ti conviene —  
+
+Alta — come il Cervo — andrebbe?  
+O più bassa — come lo Scricciolo —  
+O altre altezze di Altri  
+Che ho visto?  
+
+Di' quale — è noioso indovinare —  
+E io devo essere Rinoceronte  
+O Topo —  
+All'istante — per Te —  
+
+Di' dunque — se [[Queen|Regina]] sia —  
+O Paggio — se Ti piace —  
+Son quello — o nulla —  
+O altra cosa — se altra cosa vi sia —  
+Con questa sola Stipula —  
+Che io m'addica a Te —

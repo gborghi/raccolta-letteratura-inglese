@@ -22,3 +22,15 @@ Whose Emerald Nest the Ages spin
 Of mellow — murmuring thread —  
 Whose Beryl Egg, what Schoolboys hunt  
 In "Recess" — Overhead!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una piuma del Caprimulgo  
+Che eterno — canta!  
+Le cui gallerie — sono Aurora —  
+La cui Opera — le Primavere —  
+Il cui Nido di Smeraldo filano le Ere  
+Di morbido — mormorante filo —  
+Il cui Uovo di Berillo, cacciano gli Scolari  
+In "Ricreazione" — Lassù!

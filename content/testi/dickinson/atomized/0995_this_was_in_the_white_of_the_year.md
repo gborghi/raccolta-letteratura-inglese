@@ -23,3 +23,16 @@ Looking back is best that is left
 Or if it be — before —  
 Retrospection is Prospect's half,  
 Sometimes, almost more.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo fu nel Bianco dell'Anno —  
+Quello — fu nel Verde —  
+I Cumuli eran sì ardui allora a pensarsi  
+Come le Margherite ora a vedersi —  
+
+Guardare indietro è il meglio che resta  
+O se pure sia — davanti —  
+La Retrospezione è metà del Prospetto,  
+Talvolta, quasi più.

@@ -41,3 +41,34 @@ My spirit cannot see?
 Who'll let me out some gala day  
 With implements to fly away,  
 Passing Pomposity?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Portami il tramonto in una tazza,  
+Conta i fiaschi del mattino  
+E dimmi quanta [[Dew|Rugiada]],  
+Dimmi fin dove balza il mattino —  
+Dimmi a che [[Time|ora]] dorme il tessitore  
+Che filò l'ampiezza dell'azzurro!  
+
+Scrivimi quante note vi siano  
+Nell'estasi del nuovo Pettirosso  
+Fra i rami stupefatti —  
+Quanti viaggi compie la Tartaruga —  
+Quante coppe assapora l'Ape,  
+La Dissoluta delle Rugiade!  
+
+E ancora, chi pose i piloni dell'Arcobaleno,  
+E ancora, chi guida le docili sfere  
+Con vimini di flessibile azzurro?  
+Di chi le dita infilano la stalattite —  
+Chi conta il wampum della [[Night|notte]]  
+Per vedere che nulla sia dovuto?  
+
+Chi costruì questa piccola [[house|Casa]] Albana  
+E serrò le finestre così strette  
+Che il mio spirito non può vedere?  
+Chi mi farà uscire un giorno di gala  
+Con strumenti per volare via,  
+Oltrepassando la Pomposità?

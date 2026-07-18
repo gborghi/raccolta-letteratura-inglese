@@ -11651,7 +11651,7 @@ l'ultima cittadella, bestemmiando la vita stessa, ve ne furono alcuni,
 ve ne fu uno soprattutto, la cui voce fu udita e la cui
 lancia non fu mai spezzata.
 
-LA FINE
+FINE
 
 
 
@@ -12814,4 +12814,4 @@ Ora, contro tutto ciò, come suo nemico principale, benché egli forse non lo sa
 
 Sentiamo parlare moltissimo in questi giorni della vera essenza del vero [[Christianity|Cristianesimo]], e non soltanto, benché forse più spesso, da parte di coloro che non sono cristiani. Ma se davvero desideriamo saperne qualcosa, vi era qualcosa che è sempre essenziale al [[Christianity|Cristianesimo]], e per lungo [[Time|tempo]] fu persino comune a tutte le forme di [[Christianity|Cristianesimo]]. Se vorremo degnarci di gettare uno sguardo indietro su quelle parole che sono certamente antiche, e che molti scettici piuttosto antiquati suppongono antiquate — se guarderemo alle parole stesse Redenzione e [[Resurrection|Resurrezione]] e Salvezza e Immagine di Dio, vi vedremo, semplicemente fissarci in faccia, tutto ciò che ho detto qui. Fu la religione a rifiutarsi di [[Despair|disperare]] dell'Uomo; è il progresso scientifico e l'evoluzione che già disperano di lui. E non è il Superuomo, ma veramente e realmente il Figlio dell'Uomo, Colui che viene tra le nubi della gloria a giudicare il mondo.
 
-LA FINE
+FINE

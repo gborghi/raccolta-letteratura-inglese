@@ -23,3 +23,16 @@ Invigorated, waded
 In all the deepest Sky  
 Until his little Figure  
 Was forfeited away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Passero prese una Fetta di Ramoscello  
+E la trovò assai buona  
+Credo, perché il suo Piatto vuoto  
+Fu porto alla [[Nature|Natura]] due volte —  
+
+Rinvigorito, guadò  
+In tutto il Cielo più profondo  
+Finché la sua piccola Figura  
+Non andò perduta via —

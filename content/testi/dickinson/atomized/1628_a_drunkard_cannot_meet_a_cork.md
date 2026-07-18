@@ -26,3 +26,19 @@ Of juleps, part are in the Jug
 And more are in the [[Joy|joy]] —  
 Your connoisseur in Liquours  
 Consults the Bumble Bee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Ubriacone non può incontrare un Tappo  
+Senza una Fantasticheria —  
+E così incontrando una Mosca  
+In questo Giorno di Gennaio  
+Giamaiche di Ricordo si destano  
+Che mi mandano dentro barcollando —  
+Il bevitore moderato di Delizia  
+Non merita la [[spring|primavera]] —  
+Dei giulebbi, parte è nella Brocca  
+E più ancora nella [[Joy|gioia]] —  
+Il vostro intenditore di Liquori  
+Consulta il Bombo —

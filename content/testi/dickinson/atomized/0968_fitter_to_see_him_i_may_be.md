@@ -51,3 +51,44 @@ How sweet I shall not lack in Vain —
 But gain — thro' loss — Through Grief — obtain —  
 The [[Beauty]] that reward Him best —  
 The [[Beauty]] of Demand — at Rest —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Più degna di vederLo, potrò essere  
+Per il lungo Impedimento — Grazia — per Me —  
+Con Estati, e con Inverni, crescere,  
+Qualche Anno che passa — un tratto donare  
+
+Da farmi la più bella della Terra —  
+L'Attesa — allora — parrà valere tanto  
+Che imputerò con mezza [[Pain|pena]]  
+La colpa d'essere stata scelta — allora —  
+
+[[Time|Tempo]] d'anticipare il Suo Sguardo —  
+Dapprima — Diletto — e poi — Sorpresa —  
+Il rigirare e rigirare il mio volto  
+In cerca di Prova che sia la Grazia —  
+
+Che lasciò dietro Un Giorno — Perché meno  
+Cerchi Conferma, Quella — sia Questa —  
+
+Soltanto non devo farmi così nuova  
+Che Lui s'inganni — e chieda di me  
+A me — quando la prima volta alla [[Door|Porta]]  
+Andrò — per non andare Altrove mai più —  
+
+Soltanto non devo mutare così bella  
+Che sospiri — "L'Altra — Lei — è Dove?"  
+L'[[Love|Amore]], però, mi vestirà a dovere  
+Sarò perfetta — al Suo sguardo —  
+
+Se scorgerà l'altra [[Truth|Verità]] —  
+Sopra una più Eccellente Giovinezza —  
+
+1012  
+
+Che dolcezza non mancherò in Vano —  
+Ma guadagnare — per perdita — Per Dolore — ottenere —  
+La [[Beauty|Bellezza]] che meglio Lo ricompensa —  
+La [[Beauty|Bellezza]] della Richiesta — in Quiete —

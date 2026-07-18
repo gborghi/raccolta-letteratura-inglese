@@ -22,3 +22,15 @@ Escape it — there is but a chance —
 When consciousness and clay  
 Lean forward for a final glance —  
 Disprove that and you may —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Potere è una crescita familiare —  
+Non estranea — non a venire —  
+Accanto a noi come un blando Abisso  
+In ogni compagnia —  
+Sfuggirgli — non v'è che una possibilità —  
+Quando coscienza e argilla  
+Si protendono per un ultimo sguardo —  
+Confuta questo e potrai —

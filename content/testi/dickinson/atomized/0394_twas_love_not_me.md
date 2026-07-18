@@ -28,3 +28,21 @@ Let Justice not mistake —
 We Two — looked so alike —  
 Which was the Guilty Sake —  
 'Twas [[Love]]'s — Now Strike!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu [[Love|Amore]] — non io —  
+Oh punisci — ti prego —  
+Il Vero morì per Te —  
+Solo Lui — non io —  
+
+Tale [[Guilt|Colpa]] — [[Love|amare]] Te — al sommo!  
+Condannala oltre il Resto —  
+Perdonala — per ultima —  
+Fu vile quanto Gesù — al sommo!  
+
+Che Giustizia non si sbagli —  
+Noi Due — parevamo sì uguali —  
+Quale fosse il Reo Motivo —  
+Fu d'[[Love|Amore]] — Ora Colpisci!

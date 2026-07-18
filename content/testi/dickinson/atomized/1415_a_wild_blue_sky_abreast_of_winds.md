@@ -22,3 +22,15 @@ Some conflict with those upper friends
 So genial in the main  
 That we deplore peculiarly  
 Their arrogant campaign —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un selvaggio cielo Blu a fronte di Venti  
+Che lo minacciavano — corse via  
+E acquattato dietro la sua Gialla [[Door|Porta]]  
+Stava il [[Sun|sole]] ribelle —  
+Qualche conflitto con quegli amici di lassù  
+Così cordiali in sostanza  
+Che deploriamo in modo singolare  
+La loro arrogante campagna —

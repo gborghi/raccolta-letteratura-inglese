@@ -24,3 +24,17 @@ Which was to famish, then or now —
 The difference of Day  
 Ask him unto the [[Gallows]] led —  
 With morning in the sky —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oh Sontuoso momento  
+Va' più lento  
+Che io possa gioire di te —  
+Non sarà mai lo stesso patire fame  
+Ora che vedo abbondanza —  
+
+Che fosse digiunare, allora o adesso —  
+La differenza del Giorno  
+Chiedilo a chi è condotto alla [[Gallows|Forca]] —  
+Con il mattino nel cielo —

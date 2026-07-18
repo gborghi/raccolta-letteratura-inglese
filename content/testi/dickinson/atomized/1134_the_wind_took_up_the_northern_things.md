@@ -33,3 +33,26 @@ Again the smoke from Dwellings [[Rose|rose]]
 The Day abroad was heard —  
 How intimate, a Tempest past  
 The Transport of the Bird —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Wind|Vento]] raccolse le Cose del Nord  
+E le ammucchiò nel sud —  
+Poi diede l'Est all'Ovest  
+E spalancando la bocca  
+
+Le quattro Divisioni della Terra  
+Fece come per divorare  
+Mentre ogni cosa negli angoli strisciava  
+Dietro il potere tremendo —  
+
+Il [[Wind|Vento]] — alle sue Stanze andò  
+E la [[Nature|natura]] s'avventurò fuori —  
+I suoi sudditi sparsi ai loro posti  
+I suoi sistemi disposti intorno  
+
+Di nuovo il fumo dalle Dimore [[Rose|salì]]  
+Il Giorno là fuori si udì —  
+Com'è intimo, passata una Tempesta  
+Il Trasporto dell'Uccello —

@@ -23,3 +23,16 @@ How everlasting are the Lips
 Known only to the [[Dew]] —  
 These are the Brides of permanence  
 Supplanting me and you.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Dominio dura finché ottenuto —  
+Il Possesso altrettanto a lungo —  
+Ma questi — donando mentre fuggono  
+Eternamente appartengono.  
+
+Come eterne sono le Labbra  
+Note soltanto alla [[Dew|Rugiada]] —  
+Queste son le Spose della permanenza  
+Che soppiantano me e te.

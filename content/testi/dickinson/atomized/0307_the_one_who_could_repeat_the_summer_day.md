@@ -25,3 +25,18 @@ The Lingering — and the Stain — I mean —
 When [[Orient]] have been outgrown —  
 And Occident — become Unknown —  
 His Name — remain —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Colui che potesse ripetere il giorno d'[[Summer|Estate]] —  
+Sarebbe più grande di esso — quand'anche Egli  
+Fosse il più Minuto del Genere umano —  
+
+Ed Egli — potesse riprodurre il [[Sun|Sole]] —  
+Nel momento del suo calare —  
+L'Indugiare — e la Macchia — intendo —  
+
+Quando l'[[Orient|Oriente]] sarà oltrepassato —  
+E l'Occidente — divenuto Ignoto —  
+Il suo Nome — resterà —

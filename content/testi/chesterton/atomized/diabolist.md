@@ -313,7 +313,7 @@ and even as I paused a burst of red sparks broke past.
 
 Il [[diabolist|Diabolista]]
 
-di G.K. Chesterton  
+di G.K. Chesterton
 
 Di tanto in tanto ho introdotto nei miei saggi un elemento di [[Truth|verità]]. Sono state menzionate cose realmente accadute, come l'incontro col presidente Kruger o l'essere stato scaraventato fuori da una carrozza. Ciò che ora devo raccontare accadde davvero; eppure non conteneva alcun elemento di politica pratica né di pericolo personale. Fu semplicemente una tranquilla conversazione che ebbi con un altro uomo. Ma quella tranquilla conversazione fu di gran lunga la cosa più terribile che mi sia mai accaduta in vita mia. Accadde tanto tempo fa che non posso essere certo delle parole esatte del dialogo, ma solo delle sue domande e risposte principali; c'è però una frase, in esso, di cui posso rispondere in modo assoluto e parola per parola. Era una frase tanto tremenda che non potrei dimenticarla nemmeno volendo. Fu l'ultima frase pronunciata; e non fu pronunciata a me.
 

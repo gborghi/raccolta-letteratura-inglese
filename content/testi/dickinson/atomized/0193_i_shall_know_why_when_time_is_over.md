@@ -23,3 +23,16 @@ He will tell me what Peter promised,
 And I, for [[Wonder|wonder]] at his woe,  
 I shall forget the drop of anguish  
 That scalds me now, that scalds me now.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Saprò perché, quando il [[Time|tempo]] sarà finito,  
+E avrò cessato di [[Wonder|chiedermi]] perché ;  
+[[Christ|Cristo]] spiegherà ogni singola angoscia  
+Nella chiara aula del cielo.  
+
+Mi dirà ciò che Pietro promise,  
+E io, per lo [[Wonder|stupore]] del suo strazio,  
+Dimenticherò la goccia d'angoscia  
+Che ora mi scotta, che ora mi scotta.

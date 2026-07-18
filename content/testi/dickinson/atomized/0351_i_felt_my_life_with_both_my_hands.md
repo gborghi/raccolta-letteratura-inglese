@@ -33,3 +33,26 @@ I told myself, "Take [[Courage]], Friend —
 That — was a former [[Time|time]] —  
 But we might learn to like the Heaven,  
 As [[Well|well]] as our Old [[Home]]!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tastai la mia vita con entrambe le mani  
+Per vedere se c'era —  
+Tenni il mio spirito allo Specchio,  
+Per provarlo più possibile —  
+
+Rigirai il mio Essere e lo rigirai  
+E sostai a ogni libbra  
+Per chiedere il nome del Padrone —  
+Nel [[Doubt|dubbio]], che io ne conoscessi il Suono —  
+
+Giudicai i miei lineamenti — scossi i miei capelli —  
+Premetti le mie fossette, e attesi —  
+Se esse — ammiccassero in risposta —  
+Convinzione potrebbe, di me —  
+
+Mi dissi: "Prendi [[Courage|Coraggio]], Amica —  
+Quello — era un [[Time|tempo]] di prima —  
+Ma potremmo imparare ad amare il Cielo,  
+Così [[Well|bene]] come la nostra Vecchia [[Home|Casa]]!"

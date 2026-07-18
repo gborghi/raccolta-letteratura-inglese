@@ -23,3 +23,16 @@ Hound cannot overtake the Hare
 That fluttered panting, here —  
 Nor any schoolboy rob the nest  
 Tenderness builded there.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo cuore che sì a lungo si spezzò —  
+Questi piedi che mai vacillarono —  
+Questa [[Faith|fede]] che invano vegliò la stella,  
+Date dolcemente ai morti —  
+
+Il Segugio non può raggiungere la Lepre  
+Che palpitò ansante, qui —  
+Né alcuno scolaro depredare il nido  
+Che Tenerezza vi costruì.

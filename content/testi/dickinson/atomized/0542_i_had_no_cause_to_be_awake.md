@@ -38,3 +38,31 @@ So choosing but a Gown —
 And taking but a [[prayer|Prayer]] —  
 The only Raiment I should need —  
 I struggled — and was There —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non avevo Causa d'esser desta —  
+Il mio Meglio — era andato a [[Sleep|dormire]] —  
+E il Mattino prese una nuova cortesia —  
+E mancò di svegliarli —  
+
+Ma chiamò gli altri — chiaro —  
+E oltrepassò le loro Cortine —  
+Dolce Mattino — quando dormo troppo —  
+Bussa — Rammenta — a Me —  
+
+Guardai l'Aurora — una Volta —  
+E poi guardai Loro —  
+E in me sorse un desiderio —  
+Della stessa Circostanza —  
+
+Era una Pace così Ampia —  
+Non poteva contenere un Sospiro —  
+Era Sabato — divorziato da [[The [[Bells]]|le Campane]] —  
+Era Tramonto — tutto il Giorno —  
+
+Così scegliendo solo una Veste —  
+E prendendo solo una [[prayer|Preghiera]] —  
+L'unico Abito che mi occorresse —  
+Lottai — ed ero Là —

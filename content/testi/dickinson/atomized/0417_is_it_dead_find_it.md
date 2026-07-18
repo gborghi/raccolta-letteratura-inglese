@@ -25,3 +25,18 @@ Of the low Ground?
 Even through them — This  
 Cannot testify —  
 Themself — as dumb —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È morto — Trovatelo —  
+Fuori dal suono — Fuori dalla vista —  
+"Felice"? Chi è più saggio —  
+Tu, o il [[Wind|Vento]]?  
+"Cosciente"? Non vorrai chiederlo —  
+Alla bassa Terra?  
+
+"Nostalgico"? Molti lo incontrarono —  
+Pur attraverso loro — Questo  
+Non può testimoniare —  
+Essi — altrettanto muti —

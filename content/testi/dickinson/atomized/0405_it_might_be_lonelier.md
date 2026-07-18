@@ -33,3 +33,26 @@ It might be easier
 To fail — with Land in Sight —  
 Than gain — My Blue Peninsula —  
 To perish — of Delight —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Potrebbe essere più solo  
+Senza la [[Loneliness|Solitudine]] —  
+Sono così avvezza al mio Destino —  
+Forse l'Altra — la Pace —  
+
+Interromperebbe il Buio —  
+E affollerebbe la piccola Stanza —  
+Troppo scarsa — di Cubiti — per contenere  
+Il Sacramento — di Lui —  
+
+Non sono avvezza alla [[Hope|Speranza]] —  
+Potrebbe intromettersi —  
+La sua dolce parata — profanare il luogo —  
+Ordinato alla [[Suffering|Sofferenza]] —  
+
+Potrebbe essere più facile  
+Fallire — con la Terra in Vista —  
+Che guadagnare — la mia Azzurra Penisola —  
+Perire — di Delizia —

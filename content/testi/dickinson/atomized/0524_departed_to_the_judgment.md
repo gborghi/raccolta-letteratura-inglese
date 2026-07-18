@@ -23,3 +23,16 @@ The flesh surrendered, cancelled,
 The bodiless begun ;  
 Two worlds, like audiences, disperse  
 And leave the [[Soul|soul]] [[Alone|alone]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Partita al giudizio,  
+Un possente pomeriggio ;  
+Grandi nubi chine come uscieri,  
+La creazione a guardare.  
+
+La carne arresa, cancellata,  
+L'incorporeo iniziato ;  
+Due mondi, come platee, si disperdono  
+E lasciano l'[[Soul|anima]] [[Alone|sola]].

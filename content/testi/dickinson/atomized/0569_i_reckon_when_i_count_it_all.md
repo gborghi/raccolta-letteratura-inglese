@@ -33,3 +33,26 @@ Be Beautiful as they prepare
 For Those who worship Them —  
 It is too difficult a Grace —  
 To justify the Dream —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Calcolo — quando conto il tutto —  
+Primi — i Poeti — Poi il [[Sun|Sole]] —  
+Poi l'[[Summer|Estate]] — Poi il Cielo di [[God|Dio]] —  
+E poi — la Lista è finita —  
+
+Ma, a riguardare — i Primi paiono  
+Comprendere il Tutto —  
+Gli Altri sembrano uno Spettacolo superfluo —  
+Così scrivo — Poeti — Tutto —  
+
+La loro [[Summer|Estate]] — dura un Anno Intero —  
+Possono permettersi un [[Sun|Sole]]  
+Che l'Oriente — stimerebbe stravagante —  
+E se il Cielo Ulteriore —  
+
+Sarà Bello come quello che preparano  
+Per Coloro che Li adorano —  
+È una Grazia troppo difficile —  
+Per giustificare il Sogno —

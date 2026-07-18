@@ -25,3 +25,18 @@ Sweet [[Wonder]] —
 A [[Nature]] be  
 Where Saints, and our plain going Neighbor  
 Keep May!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oltre questo Maggio  
+Sappiamo  
+Che ve n'è un Altro —  
+Come belle  
+Le nostre Congetture sullo Straniero!
+
+Alcuni conoscono Colui che Noi conoscemmo —  
+Dolce [[Wonder|Meraviglia]] —  
+Sia una [[Nature|Natura]]  
+Dove i Santi, e il nostro semplice Vicino  
+Serbano il Maggio!

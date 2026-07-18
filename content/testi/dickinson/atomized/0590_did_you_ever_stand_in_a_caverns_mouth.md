@@ -33,3 +33,26 @@ Extemporizing in your ear
 As cool as Satyr's Drums —  
 If you remember, and were saved —  
 It's liker so — it seems —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sei mai stato sulla Bocca d'una Caverna —  
+Ampiezze lontano dal [[Sun|Sole]] —  
+A guardare — e rabbrividire, e mozzarti il respiro —  
+E crederti [[Alone|solo]]  
+
+In un luogo simile, che orrore,  
+Che cosa da Folletti sarebbe —  
+E fuggire, come t'inseguisse?  
+Ecco, la [[Loneliness|Solitudine]] — ha quell'aspetto —  
+
+Hai mai guardato in faccia un Cannone —  
+Fra il cui occhio Giallo —  
+E il tuo — s'interpose il Giudizio —  
+La Questione del "Morire" —  
+
+Improvvisando nel tuo orecchio  
+Freddo come Tamburi di Satiro —  
+Se ricordi, e fosti salvato —  
+È più simile a così — sembra —

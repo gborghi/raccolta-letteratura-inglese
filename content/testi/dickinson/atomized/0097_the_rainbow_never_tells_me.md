@@ -23,3 +23,16 @@ My [[Flowers|flowers]] turn from Forums —
 Yet eloquent declare  
 What Cato couldn't prove me  
 Except the [[Birds|birds]] were here!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'arcobaleno mai mi dice  
+Che raffica e [[Storm|tempesta]] son passate,  
+Eppure è più convincente  
+Della [[philosophy|Filosofia]].  
+
+I miei [[Flowers|fiori]] si volgono dai Fori —  
+Eppure eloquenti dichiarano  
+Ciò che Catone non poté provarmi  
+Se non fossero qui gli [[Birds|uccelli]]!

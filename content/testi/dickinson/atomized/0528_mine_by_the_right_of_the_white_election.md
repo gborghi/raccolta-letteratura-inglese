@@ -24,3 +24,17 @@ Mine — by the [[Grave]]'s Repeal —
 Tilted — Confirmed —  
 Delirious Charter!  
 Mine — long as Ages steal!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mio — per Diritto della Bianca Elezione!  
+Mio — per il Regale Sigillo!  
+Mio — per il Segno nella Scarlatta [[Prison|prigione]] —  
+Sbarre — non possono celare!  
+
+Mio — qui — in Visione — e in Veto!  
+Mio — per la Revoca della [[Grave|Tomba]] —  
+Inclinata — Confermata —  
+Delirante Carta!  
+Mio — finché i Secoli rubano!

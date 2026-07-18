@@ -23,3 +23,16 @@ When [[lovers|Lovers]] be afar —
 Clematis — journeying far —  
 Presents me with a single Curl  
 Of her Electric Hair —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È costume, quando ci separiamo,  
+Un monile — donare —  
+Aiuta a ravvivare la [[Faith|fede]]  
+Quando gli [[lovers|Amanti]] son lontani —  
+
+È vario — come il vario gusto —  
+La Clematide — in viaggio per lontano —  
+Mi dona un unico Ricciolo  
+Della sua Chioma Elettrica —

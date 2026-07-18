@@ -22,3 +22,15 @@ Its soundless travels just arrest
 My slow — terrestrial eye  
 Intent upon its own career  
 What use has it for me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Con che passo soffice incede un Bruco —  
+Ne trovo uno sulla mia Mano  
+Da un tale mondo di velluto viene  
+Tali felpe a comando  
+I suoi viaggi senza suono arrestano appena  
+Il mio lento — occhio terrestre  
+Intento alla propria carriera  
+Che uso ha di me —

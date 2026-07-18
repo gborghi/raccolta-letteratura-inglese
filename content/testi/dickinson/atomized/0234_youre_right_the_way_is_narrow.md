@@ -28,3 +28,21 @@ And after that — there's Heaven —
 The Good Man's — "Dividend" —  
 And Bad Men — "go to Jail" —  
 I guess —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Hai ragione — "la via è stretta" —  
+E "difficile la Porta" —  
+E "pochi sono" — Giusto ancora —  
+Quelli che "vi entrano — per essa" —  
+
+È Costoso — Così le porpore!  
+È solo il prezzo del Respiro —  
+Con il solo "Sconto" della [[Grave|Tomba]] —  
+Detta dai Sensali — "[[Death|Morte]]"!  
+
+E dopo — c'è il Cielo —  
+Il "Dividendo" — dell'Uomo Buono —  
+E i Malvagi — "vanno in Prigione" —  
+Suppongo —

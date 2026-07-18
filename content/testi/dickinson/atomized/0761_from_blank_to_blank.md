@@ -25,3 +25,18 @@ It ends beyond
 Indefinite disclosed —  
 I shut my eyes — and groped as [[Well|well]]  
 'Twas lighter — to be Blind —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Da Vuoto a Vuoto —  
+Una Via senza Filo  
+Spinsi piedi Meccanici —  
+Fermarmi — o perire — o avanzare —  
+Ugualmente indifferente —  
+
+Se un termine raggiunsi  
+Termina oltre  
+Indefinito dischiuso —  
+Chiusi gli occhi — e brancolai [[Well|ugualmente]]  
+Era più chiaro — esser Cieca —

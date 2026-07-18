@@ -23,3 +23,16 @@ To be alive — and Will!
 'Tis able as a [[God]] —  
 The Maker — of Ourselves — be what —  
 Such being Finitude!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Essere vivi — è Potenza —  
+L'Esistenza — in se stessa —  
+Senza ulteriore funzione —  
+Onnipotenza — Abbastanza —  
+
+Essere vivi — e Volere!  
+È potente quanto un [[God|Dio]] —  
+Il Fattore — di Noi stessi — che sarà —  
+Se tale è la Finitudine!

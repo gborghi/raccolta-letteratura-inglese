@@ -32,3 +32,25 @@ With harrowing Iodine —
 Flits — glimmers — proves — dissolves —  
 Returns — suggests — convicts — enchants —  
 Then — flings in Paradise —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Love|Amore]] che una Vita può mostrare Quaggiù  
+Non è che un filamento, lo so,  
+Di quella cosa più divina  
+Che vien meno sul volto del [[Noon|Mezzogiorno]] —  
+E percuote l'Esca nel [[Sun|Sole]] —  
+E impaccia l'Ala di Gabriele —  
+
+È questo — nella Musica — che accenna e ondeggia —  
+E lontano, nei giorni d'[[Summer|Estate]] —  
+Distilla incerta [[Pain|pena]] —  
+È questo che innamora a Oriente —  
+E tinge il Transito a Occidente  
+Di straziante Iodio —  
+
+È questo — che invita — atterrisce — dota —  
+Guizza — riluce — prova — si dissolve —  
+Ritorna — suggerisce — condanna — incanta —  
+Poi — scaglia in Paradiso —

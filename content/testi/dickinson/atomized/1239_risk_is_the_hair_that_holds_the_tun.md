@@ -28,3 +28,21 @@ The "foolish Tun" the Critics say —
 While that delusive Hair  
 Persuasive as Perdition,  
 Decoys its Traveller.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Rischio è il Crine che regge la Botte  
+Seducente nell'Aria —  
+Quella Botte è vuota — ma la Botte —  
+Con Quintali — d'avanzo —  
+
+Troppo ponderosa per sospettare la trappola  
+Adocchia quella sedia incostante  
+E vi si siede per esser lasciata andare  
+Da quel perfido Crine —  
+
+La "Botte sciocca" dicono i Critici —  
+Mentre quel Crine ingannevole  
+Persuasivo come la Perdizione,  
+Adesca il suo Viaggiatore.

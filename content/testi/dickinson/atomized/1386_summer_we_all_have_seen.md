@@ -28,3 +28,21 @@ The Doom to be adored —
 The Affluence conferred —  
 Unknown as to an Ecstasy  
 The Embryo endowed —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Summer|Estate]] — tutti l'abbiamo vista —  
+Alcuni di noi — credettero —  
+Alcuni — i più aspiranti  
+Indubbiamente amarono —  
+
+Ma l'[[Summer|Estate]] non se ne cura —  
+Va per la sua via spaziosa  
+Eleggibile come la [[Moon|luna]]  
+Alla nostra Temerità —  
+
+Il Destino d'essere adorata —  
+L'Opulenza conferita —  
+Ignota come a un'Estasi  
+L'Embrione dotato —

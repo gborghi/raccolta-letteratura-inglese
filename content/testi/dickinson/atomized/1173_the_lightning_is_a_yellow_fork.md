@@ -23,3 +23,16 @@ Of mansions never quite disclosed
 And never quite concealed  
 The Apparatus of the Dark  
 To ignorance revealed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Lightning|Lampo]] è una Forchetta gialla  
+Da Tavole nel cielo  
+Da dita distratte caduta  
+La Posateria tremenda  
+
+Di magioni mai del tutto svelate  
+E mai del tutto celate  
+L'Apparato del Buio  
+All'ignoranza rivelato.

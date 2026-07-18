@@ -23,3 +23,16 @@ And then, that we have followed them,
 We more than half suspect,  
 So intimate have we become  
 With their dear retrospect.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La distanza che i morti han percorso  
+Dapprima non appare —  
+Il loro ritorno sembra possibile  
+Per molti anni ardenti.  
+
+E poi, che li abbiamo seguiti,  
+Più che a metà sospettiamo,  
+Così intimi siamo divenuti  
+Del loro caro sguardo a ritroso.

@@ -23,3 +23,16 @@ When to his Covenant Needle
 The Sailor doubting turns —  
 It will be amply early  
 To ask what treason means.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando l'Astronomo cessa di cercare  
+Il Volto della sua Pleiade —  
+Quando la solitaria Lady britannica  
+Abbandona la Corsa Artica  
+
+Quando al suo Ago d'Alleanza  
+Il Marinaio dubitando si volge —  
+Sarà ampiamente presto  
+Chiedere che cosa significhi tradimento.

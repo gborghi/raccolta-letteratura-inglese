@@ -23,3 +23,16 @@ To lend an Ample Sinew
 Unto a Nameless Man —  
 Whose Homely Benediction  
 No other — stopped to earn —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Offrire coraggioso soccorso  
+A Vite che stanno [[Alone|sole]] —  
+Quando Uno ha mancato di fermarle —  
+È Umano — ma Divino  
+
+Prestare un Ampio Nerbo  
+A un Uomo senza Nome —  
+La cui Umile Benedizione  
+Nessun altro — si fermò a guadagnare —

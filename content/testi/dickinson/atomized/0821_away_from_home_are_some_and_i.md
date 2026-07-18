@@ -23,3 +23,16 @@ The Habit of a Foreign Sky
 We — difficult — acquire  
 As Children, who remain in Face  
 The more their Feet retire.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lontani da [[Home|Casa]] sono alcuni ed io —  
+Essere un Emigrante  
+In una Metropoli di Case  
+È facile, forse —  
+
+L'Abitudine d'un Cielo Straniero  
+Noi — a fatica — acquisiamo  
+Come Bambini, che restano nel Volto  
+Quanto più i loro Piedi si ritirano.

@@ -21,3 +21,14 @@ Forgetting to return,
 We make the wise distinction still,  
 Soever made in vain,  
 The sagest [[Time|time]] to dam the [[Sea|sea]] is when the [[Sea|sea]] is gone —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mandiamo l'Onda a cercare l'Onda —  
+Commissione così divina,  
+Il Messaggero innamorato anch'esso,  
+Dimentico di tornare,  
+Facciamo ancora la savia distinzione,  
+Per quanto fatta invano,  
+Il [[Time|tempo]] più saggio per arginare il [[Sea|mare]] è quando il [[Sea|mare]] è andato —

@@ -22,3 +22,15 @@ The blonde Assassin passes on —
 The [[Sun]] proceeds unmoved  
 To measure off another Day  
 For an Approving [[God]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Apparentemente senza sorpresa  
+Per alcun Fiore felice  
+Il [[Frost|Gelo]] lo decapita nel suo gioco —  
+In accidentale potere —  
+Il biondo Assassino passa oltre —  
+Il [[Sun|Sole]] procede impassibile  
+A misurare un altro Giorno  
+Per un [[God|Dio]] che Approva.

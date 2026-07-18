@@ -22,3 +22,15 @@ But when all Space has been beheld
 And all Dominion shown  
 The smallest Human Heart's extent  
 Reduces it to none.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Vita che abbiamo è molto grande.  
+La Vita che vedremo  
+La supera, lo sappiamo, perché  
+È Infinità.  
+Ma quando tutto lo Spazio sarà contemplato  
+E ogni Dominio mostrato  
+L'estensione del più piccolo Cuore Umano  
+La riduce a nulla.

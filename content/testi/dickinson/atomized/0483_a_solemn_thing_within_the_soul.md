@@ -32,3 +32,25 @@ But solemnest — to know
 Your chance in Harvest moves  
 A little nearer — Every [[Sun]]  
 The Single — to some lives.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cosa Solenne dentro l'[[Soul|Anima]]  
+Sentirsi maturare —  
+E pendere dorata — mentre più in alto —  
+Le Scale del Creatore si fermano —  
+E nel Frutteto molto più in basso —  
+Senti un Essere — cadere —  
+
+Meraviglioso — sentire il [[Sun|Sole]]  
+Ancora affaccendato sulla Guancia  
+Che credevi finita —  
+Freddo d'occhio, e critico dell'Opera —  
+Sposta il picciolo — un poco —  
+Per dare al tuo Nocciolo — uno sguardo —  
+
+Ma più solenne — sapere  
+Che la tua sorte nella Mietitura si fa  
+Un poco più vicina — Ogni [[Sun|Sole]]  
+L'Unico — per alcune vite.

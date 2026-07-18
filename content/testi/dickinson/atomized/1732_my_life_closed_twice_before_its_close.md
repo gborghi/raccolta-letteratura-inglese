@@ -23,3 +23,16 @@ So huge, so hopeless to conceive
 As these that twice befell.  
 Parting is all we know of heaven,  
 And all we need of hell.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La mia vita si chiuse due volte prima della sua chiusura—  
+Resta ancora da vedere  
+Se l'[[Immortality|Immortalità]] non sveli  
+Un terzo evento a me  
+
+Così immenso, così disperato a concepirsi  
+Come questi che due volte accaddero.  
+Separarsi è tutto ciò che sappiamo del cielo,  
+E tutto ciò che ci occorre dell'inferno.

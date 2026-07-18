@@ -26,3 +26,19 @@ Force Flame
 And with a Blonde push  
 Over your impotence  
 Flits Steam.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Bandisci l'Aria dall'Aria —  
+Dividi la Luce se osi —  
+Si ritroveranno  
+Mentre Cubi in una Goccia  
+O Granuli di Forma  
+Combaciano  
+Veli non possono annullare  
+Gli Odori tornano interi  
+Forza la Fiamma  
+E con una Bionda spinta  
+Sopra la tua impotenza  
+Guizza il Vapore.

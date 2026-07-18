@@ -22,3 +22,15 @@ And while by standing on my Heart
 I still can reach the top  
 Efface the mountain with your face  
 And catch me ere I drop
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cumulo degli Anni non è così alto  
+Come quando venisti la prima volta  
+Ma si innalza ogni Giorno  
+Dal Pavimento del ricordo  
+E finché stando in piedi sul mio Cuore  
+Posso ancora toccarne la cima  
+Cancella la montagna col tuo volto  
+E afferrami prima ch'io cada

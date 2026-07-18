@@ -28,3 +28,21 @@ But somewhere — in my [[Soul]] — I know —
 I've met the Thing before —  
 It just reminded me — 'twas all —  
 And came my way no more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Pensiero mi salì alla mente oggi —  
+Che avevo avuto già —  
+Ma non conclusi — tempo addietro —  
+Non saprei fissare l'Anno —  
+
+Né dove andò — né perché venne  
+La seconda [[Time|volta]] a me —  
+Né con certezza, che cosa fosse —  
+Ho io l'Arte di dire —  
+
+Ma in qualche luogo — nella mia [[Soul|Anima]] — so —  
+Ho già incontrato quella Cosa —  
+Mi ha soltanto rammentato — ecco tutto —  
+E non venne più sulla mia via —

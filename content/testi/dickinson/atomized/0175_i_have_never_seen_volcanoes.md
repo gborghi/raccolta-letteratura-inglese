@@ -38,3 +38,31 @@ If some loving Antiquary,
 On Resumption Morn,  
 Will not cry with [[Joy|joy]] "Pompeii"!  
 To the Hills return!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ho mai visto "Vulcani" —  
+Ma, quando i Viaggiatori narrano  
+Come quelle vecchie — flemmatiche [[Mountains|montagne]]  
+Di solito così quiete —  
+
+Rechino dentro — spaventosa Artiglieria,  
+[[Fire|Fuoco]], e fumo, e cannone,  
+Prendendo Villaggi a colazione,  
+E atterrendo gli Uomini —  
+
+Se la quiete è Vulcanica  
+Nel volto umano  
+Quando su un [[Pain|dolore]] [[titanic|Titanico]]  
+I lineamenti restano al loro posto —  
+
+Se alla fine l'angoscia che cova  
+Non avrà il sopravvento —  
+E la palpitante Vigna  
+Nella [[Dust|polvere]], sarà gettata?  
+
+Se qualche amoroso Antiquario,  
+Nel Mattino della Resurrezione,  
+Non griderà con [[Joy|gioia]] "Pompei"!  
+Alle Colline ritorna!

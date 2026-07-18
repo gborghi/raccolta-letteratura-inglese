@@ -23,3 +23,16 @@ The Thunder crumbled like a stuff
 How good to be in Tombs  
 Where [[Nature]]'s Temper cannot reach  
 Nor vengance ever comes
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le Nuvole unirono le loro Schiene  
+Il Nord cominciò a spingere  
+Le Foreste galopparono fino a cadere  
+Il [[Lightning|Lampo]] giocava come topi  
+
+Il Tuono si sbriciolò come una stoffa  
+Che bello stare nelle Tombe  
+Dove l'Ira della [[Nature|Natura]] non giunge  
+Né vendetta arriva mai

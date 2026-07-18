@@ -23,3 +23,16 @@ Glows Central — like a [[Jewel]]
 Between Diverging Golds —  
 The Minor One — that gleamed behind —  
 And Vaster — of the World's.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quel primo Giorno, quando lodasti Me, Dolce,  
+E dicesti che ero forte —  
+E che potevo esser grande, se volevo —  
+Quel Giorno — fra i Giorni —  
+
+Arde Centrale — come un [[Jewel|Gioiello]]  
+Fra Ori Divergenti —  
+Il Minore — che brillava dietro —  
+E il più Vasto — del Mondo.

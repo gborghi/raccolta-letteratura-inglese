@@ -23,3 +23,16 @@ Is an unfurnished Circumstance
 Possession is to One  
 As an Estate perpetual  
 Or a reduceless Mine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Possedere l'Arte dentro l'[[Soul|Anima]]  
+L'[[Soul|Anima]] intrattenere  
+Con il [[Silence|Silenzio]] per Compagnia  
+E mantenere Festa  
+
+È una Circostanza spoglia  
+Il Possesso è per Uno  
+Come un Podere perpetuo  
+O una Miniera che mai scema.

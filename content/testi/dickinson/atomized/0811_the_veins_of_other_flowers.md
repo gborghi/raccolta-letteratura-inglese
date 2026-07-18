@@ -23,3 +23,16 @@ We pass, and she abides.
 We conjugate Her Skill  
 While She creates and federates  
 Without a syllable.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le Vene degli altri [[Flowers|Fiori]]  
+Sono gli Scarlatti [[Flowers|Fiori]]  
+Finché la [[Nature|Natura]] non abbia agio per Termini  
+Come "Ramo," e "Giugulare."  
+
+Noi passiamo, e lei rimane.  
+Noi coniughiamo la Sua Arte  
+Mentre Lei crea e federa  
+Senza una sillaba.

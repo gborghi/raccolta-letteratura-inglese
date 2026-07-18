@@ -28,3 +28,21 @@ An Hour to rear supreme
 His Continents of Light —  
 Then dangle from the Housewife's Broom —  
 His Boundaries — forgot —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Ragno regge una Palla d'Argento  
+In Mani inavvertite —  
+E danzando piano tra Sé e Sé  
+Il suo Filo di Perla — dipana —  
+
+Si adopra da Nulla a Nulla —  
+In Commercio inconsistente —  
+Soppianta i nostri Arazzi coi Suoi —  
+In metà del tempo —  
+
+Un'Ora per innalzare supremi  
+I suoi Continenti di Luce —  
+Poi penzolare dalla Scopa della Massaia —  
+I suoi Confini — dimenticati —

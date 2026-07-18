@@ -21,3 +21,14 @@ Indicative that Suns go down —
 
 The Notice to the startled Grass  
 That Darkness — is about to pass —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL PRATO —  
+
+Presentimento — è quella lunga [[Shadow|Ombra]] — sul Prato —  
+Indice che i Soli tramontano —  
+
+L'Avviso all'Erba trasalita  
+Che la Tenebra — sta per passare —

@@ -23,3 +23,16 @@ As my thought — today —
 As should sound —  
 "Forbid us not" —  
 Some like "Emily."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Insegnagli — Quando compone i nomi —  
+Uno così — da dire —  
+Sulle sue labbra — di Bacca — balbettanti —  
+Che suoni — a me —  
+Fosse il mio Orecchio — vicino al suo nido —  
+Come il mio pensiero — oggi —  
+Che suoni —  
+"Non ci vietate" —  
+Qualcosa come "Emily."

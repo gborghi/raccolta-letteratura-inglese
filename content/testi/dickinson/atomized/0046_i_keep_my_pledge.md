@@ -25,3 +25,18 @@ by Bobolink from lane.
 Blossom and I —  
 Her oath, and mine —  
 Will surely come again.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mantengo il mio pegno.  
+Non fui chiamata —  
+La [[Death|Morte]] non si accorse di me.  
+Porto la mia [[Rose|Rosa]].  
+Rinnovo la promessa,  
+Per ogni Ape santificata —  
+Per la Margherita chiamata dal pendio —  
+per il Bobolink dal sentiero.  
+Il Bocciolo ed io —  
+Il suo giuramento, e il mio —  
+Di certo torneremo ancora.

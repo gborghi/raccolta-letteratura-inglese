@@ -23,3 +23,16 @@ Is the eclat of [[Death]] —
 Oh, thou unknown Renown  
 That not a Beggar would accept  
 Had he the power to spurn —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quel breve — potenziale fremito  
+Che ognuno può fare una volta sola —  
+Quel Trambusto così illustre  
+Da essere quasi Conseguenza —  
+
+È l'eclat della [[Death|Morte]] —  
+Oh, tu Rinomanza ignota  
+Che non un Mendicante accetterebbe  
+Avesse il potere di sdegnarla —

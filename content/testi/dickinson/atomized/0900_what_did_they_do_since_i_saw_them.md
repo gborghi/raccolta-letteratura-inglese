@@ -33,3 +33,26 @@ Not if the Just suspect me
 And offer a Reward  
 Would I restore my Booty  
 To that Bold Person, [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che fecero Loro da quando Li vidi?  
+Furono laboriosi?  
+Tante domande da porre Loro  
+Ho io la brama  
+
+Che potessi carpire i Loro Volti  
+Che potessero le Loro labbra rispondere  
+Non prima che all'ultima fosse risposto  
+Partirebbero per il Cielo.  
+
+Non se la Loro Comitiva attendesse,  
+Non se parlare con Me  
+Fosse per Loro ormai, Nostalgia  
+Dopo l'[[Eternity|Eternità]].  
+
+Non se i Giusti mi sospettassero  
+E offrissero una Ricompensa  
+Renderei il mio Bottino  
+A quella Persona Ardita, [[God|Dio]] —

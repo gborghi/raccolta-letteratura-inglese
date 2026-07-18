@@ -24,3 +24,17 @@ Incur the Risk
 What Buccaneer would ride  
 Without a surety from the [[Wind]]  
 Or schedule of the Tide —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Giù per la bizzarra corrente del [[Time|Tempo]]  
+Senza un remo  
+Siamo costretti a veleggiare  
+Nostro Porto un segreto  
+Nostro Forse una Burrasca  
+Quale Capitano vorrebbe  
+Correre il Rischio  
+Quale Bucaniere cavalcherebbe  
+Senza una garanzia dal [[Wind|Vento]]  
+O un orario della Marea —

@@ -29,3 +29,22 @@ The sage cannot conjecture
 The bravest die  
 As ignorant of their resumption  
 As you or I —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I fatti al nostro fianco non sono mai improvvisi  
+Finché non si guardano intorno  
+E allora ci spaventano come uno spettro  
+Che sporge dal Suolo —  
+
+L'altezza del nostro portentoso Vicino  
+Mai la conosciamo —  
+Finché chiamati a riconoscerlo  
+Da un Addio —  
+
+Addio verso dove  
+Il saggio non può congetturare  
+I più coraggiosi muoiono  
+Ignari della loro ripresa  
+Quanto te o me —

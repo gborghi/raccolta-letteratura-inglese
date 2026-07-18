@@ -23,3 +23,16 @@ By what mystic mooring
 She is held to-day, —  
 This is the errand of the eye  
 Out upon the bay.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se la mia barca affondò in [[Sea|mare]],  
+Se incontrò burrasche,  
+Se verso isole incantate  
+Piegò le sue docili vele ;  
+
+A quale mistico ormeggio  
+Ella sia oggi trattenuta, —  
+Questa è la missione dell'occhio  
+Là fuori sulla baia.

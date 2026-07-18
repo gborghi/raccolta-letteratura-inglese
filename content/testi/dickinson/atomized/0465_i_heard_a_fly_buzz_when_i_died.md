@@ -33,3 +33,26 @@ With Blue — uncertain stumbling Buzz —
 Between the light — and me —  
 And then the Windows failed — and then  
 I could not see to see—
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Udii ronzare una Mosca — quando morii —  
+La Quiete nella Stanza  
+Era come la Quiete nell'Aria —  
+Tra i Sussulti della [[Storm|Tempesta]] —  
+
+Gli Occhi intorno — li avevano spremuti asciutti —  
+E i Respiri si serravano saldi  
+Per quell'ultimo Assalto — quando il [[King|Re]]  
+Fosse testimoniato — nella Stanza —  
+
+Legai i miei Ricordi — Cedetti con firma  
+Quale porzione di me fosse  
+Assegnabile — e fu allora che  
+S'interpose una Mosca —  
+
+Con Azzurro — incerto inciampante Ronzio —  
+Tra la luce — e me —  
+E poi le Finestre mancarono — e poi  
+Non potevo vedere per vedere—

@@ -19,3 +19,12 @@ WERE BORN TODAY
 Lest any [[Doubt|doubt]] that we are glad that they were born Today  
 Whose having lived is held by us in noble Holiday  
 Without the date, like Consciousness or [[Immortality]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+NACQUERO OGGI  
+
+Perché nessuno [[Doubt|dubiti]] che siamo lieti che siano nati Oggi  
+Il cui esser vissuti noi serbiamo in nobile Festa  
+Senza la data, come la Coscienza o l'[[Immortality|Immortalità]] —

@@ -22,3 +22,15 @@ A homelier maturing —
 A process in the Bur —  
 That teeth of Frosts [[Alone|alone]] disclose  
 In far October Air.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci sono due Maturazioni — una — di vista —  
+Le cui forze in Sfera [[Wind|s'avvolgono]]  
+Finché il prodotto di Velluto  
+Non cada speziato al suolo —  
+Una maturazione più umile —  
+Un processo dentro il Riccio —  
+Che denti di Geli [[Alone|soltanto]] dischiudono  
+Nella lontana Aria d'Ottobre.

@@ -23,3 +23,16 @@ It is as old as [[God]] —
 Indeed — 'twas built by him —  
 He sent his Son to test the Plank,  
 And he pronounced it firm.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come fragili sono i Piloni  
+Su cui la nostra [[Faith|Fede]] cammina —  
+Nessun Ponte quaggiù vacilla tanto —  
+Eppure nessuno ha tale Folla.  
+
+È antico quanto [[God|Dio]] —  
+Anzi — fu costruito da lui —  
+Mandò suo Figlio a saggiare l'Asse,  
+Ed egli la dichiarò salda.

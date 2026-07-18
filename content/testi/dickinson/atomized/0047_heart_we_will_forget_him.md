@@ -23,3 +23,16 @@ When you have done, pray tell me
 That I may straight begin!  
 Haste! lest while you're lagging  
 I remember him!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cuore! Lo dimenticheremo!  
+Tu ed io — stanotte!  
+Tu puoi dimenticare il calore che diede —  
+Io dimenticherò la luce!  
+
+Quando avrai finito, ti prego dimmelo  
+Che io possa subito cominciare!  
+Presto! ché mentre tu indugi  
+Io lo ricordi!

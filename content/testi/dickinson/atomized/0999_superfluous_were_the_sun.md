@@ -28,3 +28,21 @@ Upon His dateless Fame
 Our Periods may lie  
 As [[Stars]] that drop anonymous  
 From an abundant sky.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Superfluo sarebbe il [[Sun|Sole]]  
+Quando l'Eccellenza fosse morta  
+Egli sarebbe superfluo ogni Giorno  
+Perché ogni Giorno si direbbe  
+
+Quella sillaba la cui [[Faith|Fede]]  
+Appena la salva dalla [[Despair|Disperazione]]  
+E il cui "Ti incontrerò" esita  
+Se [[Love|Amore]] domanda "Dove"?  
+
+Sulla Sua Fama senza data  
+I nostri Periodi possono giacere  
+Come [[Stars|Stelle]] che cadono anonime  
+Da un cielo abbondante.

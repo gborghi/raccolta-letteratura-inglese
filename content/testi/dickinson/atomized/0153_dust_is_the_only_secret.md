@@ -33,3 +33,26 @@ Builds, like a Bird, too!
 [[Christ]] robs the Nest —  
 Robin after Robin  
 Smuggled to Rest!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Dust|Polvere]] è il solo Segreto —  
+La [[Death|Morte]], il solo  
+Di cui non puoi sapere tutto  
+Nella sua "città natale."  
+
+Nessuno conosce "suo Padre" —  
+Non fu mai un Ragazzo —  
+Non ebbe compagni di gioco,  
+Né "Prima [[history|storia]]" —  
+
+Industriosa! Laconica!  
+Puntuale! Pacata!  
+Audace come un Brigante!  
+Più quieta d'una Flotta!  
+
+Costruisce, come un Uccello, anche!  
+[[Christ|Cristo]] depreda il Nido —  
+Pettirosso dopo Pettirosso  
+Trafugato al Riposo!

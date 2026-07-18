@@ -23,3 +23,16 @@ Society enough.
 By just a Second's right —  
 [[Death]] tenderly assists Him  
 And then absconds from Sight.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Pain|Il Dolore]] non ha che una Conoscenza  
+Ed è la [[Death|Morte]] —  
+L'uno per l'altra  
+Società a sufficienza.  
+
+[[Pain|Il Dolore]] è il Socio più Giovane  
+Per il diritto d'un solo Secondo —  
+La [[Death|Morte]] teneramente Lo assiste  
+E poi si dilegua dalla Vista.

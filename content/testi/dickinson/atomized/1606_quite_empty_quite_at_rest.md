@@ -23,3 +23,16 @@ She does not ask for [[Noon]] —
 She does not ask for Boon,  
 Crumbless and homeless, of but one request —  
 The [[Birds]] she lost —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Del tutto vuota, del tutto in quiete,  
+La Pettirossa serra il suo Nido, e prova le Ali.  
+Non conosce una Rotta  
+Ma volge la sua Arte  
+Verso Primavere vociferate —  
+Non chiede il [[Noon|Mezzogiorno]] —  
+Non chiede Grazia,  
+Senza briciole e senza casa, di una sola richiesta —  
+Gli [[Birds|Uccelli]] che ha perduto —

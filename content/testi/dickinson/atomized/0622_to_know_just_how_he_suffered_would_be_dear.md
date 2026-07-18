@@ -48,3 +48,41 @@ How conscious consciousness could grow,
 
 Till [[Love|love]] that was, and [[Love|love]] too blest to be,  
 Meet—and the junction be [[Eternity]]?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+CARO —  
+
+SAPERE solo come soffrì sarebbe caro;  
+Sapere se qualche occhio umano fosse accanto  
+A cui potesse affidare lo sguardo vacillante,  
+Finché non si posò fermo sul Paradiso.  
+
+Sapere se fu paziente, in parte contento,  
+Se moriva come pensava, o diversamente;  
+Fu un giorno gradevole per morire,  
+E il sole gli volgeva incontro il viso?  
+
+Quale fu il suo estremo pensiero, della [[Home|casa]], di [[God|Dio]],  
+O che cosa dissero i lontani  
+Alla notizia che egli cessò l'umana [[Nature|natura]]  
+In un giorno simile?  
+E desideri, ne ebbe alcuno?  
+Solo il suo sospiro, accentato,  
+Mi sarebbe stato leggibile.  
+E fu fiducioso finché  
+Il Male non si dileguò nell'eterno [[Well|bene]]?  
+
+E se parlò, quale nome fu il migliore,  
+Quale il primo,  
+Con quale s'interruppe  
+Nel massimo sopore?  
+
+Ebbe paura, o fu tranquillo?  
+Poteva egli sapere  
+Quanto cosciente la coscienza possa crescere,  
+654  
+
+Finché l'[[Love|amore]] che fu, e l'[[Love|amore]] troppo beato per essere,  
+S'incontrino—e la giunzione sia l'[[Eternity|Eternità]]?

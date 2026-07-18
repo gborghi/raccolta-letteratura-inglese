@@ -27,3 +27,20 @@ Than could Border Ballad —
 Or Biscayan [[Hymn]] —  
 Neither introduction  
 Need You — unto Him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mai per la Società  
+Egli cercherà invano —  
+Chi la propria conoscenza  
+Coltiva — Degli Uomini  
+Uomini più Saggi possono stancarsi —  
+Ma l'Uomo interiore  
+
+Mai conobbe Sazietà —  
+Meglio intrattiene  
+Di quanto potesse Ballata di Frontiera —  
+O [[Hymn|Inno]] Biscaglino —  
+Né presentazione  
+Ti occorre — presso di Lui —

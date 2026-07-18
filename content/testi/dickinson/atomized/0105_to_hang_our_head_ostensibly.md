@@ -23,3 +23,16 @@ Affords the sly presumption
 That in so dense a fuzz —  
 You — too — take Cobweb attitudes  
 Upon a plane of Gauze!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chinare il capo — ostensibilmente —  
+E in seguito, scoprire  
+Che tale non era la postura  
+Della nostra mente immortale —  
+
+Concede la sorniona presunzione  
+Che in così densa lanugine —  
+Tu — pure — assuma pose di Ragnatela  
+Sopra un piano di Garza!

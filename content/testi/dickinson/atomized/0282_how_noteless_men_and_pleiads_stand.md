@@ -28,3 +28,21 @@ Why didn't we detain Them?
 The Heavens with a smile,  
 Sweep by our disappointed Heads  
 Without a syllable —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come inosservati stanno Uomini, e Pleiadi,  
+Finché un cielo improvviso  
+Rivela il fatto che Uno è rapito  
+Per sempre dall'Occhio —  
+
+Membri dell'Invisibile,  
+Esistenti, mentre fissiamo,  
+In Opportunità senza Leghe,  
+Irraggiungibili, come l'Aria —  
+
+Perché non Li abbiamo trattenuti?  
+I Cieli con un sorriso,  
+Passano sui nostri Capi delusi  
+Senza una sillaba —

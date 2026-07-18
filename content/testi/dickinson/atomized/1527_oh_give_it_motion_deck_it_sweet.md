@@ -22,3 +22,15 @@ To that Pink stranger we call [[Dust]] —
 Acquainted more with that  
 Than with this horizontal one  
 That will not lift its Hat —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oh dagli Moto — adornalo dolce  
+Con Arteria e Vena —  
+Sulle sue Labbra serrate posa parole —  
+Fidanzalo di nuovo  
+A quella Rosea straniera che chiamiamo [[Dust|Polvere]] —  
+Più in confidenza con quella  
+Che con questo orizzontale  
+Che non solleverà il Cappello —

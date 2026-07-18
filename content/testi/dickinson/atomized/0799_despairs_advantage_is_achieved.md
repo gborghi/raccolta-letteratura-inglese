@@ -29,3 +29,22 @@ Of Savors — make us conscious —
 As did ourselves partake —  
 Affliction feels impalpable  
 Until Ourselves are struck —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il vantaggio della [[Despair|Disperazione]] è conquistato  
+Dal [[Suffering|soffrire]] — [[Despair|Disperazione]] —  
+Per essere assistiti dal Rovescio  
+Il Rovescio si deve aver patito —
+
+La Dignità del [[Suffering|Soffrire]] come  
+La Dignità della [[Death|Morte]]  
+Si accerta assaggiando —
+
+Come nessun'altra Bocca  
+
+Di Sapori — può farci consapevoli —  
+Come il nostro stesso assaggiare —  
+L'Afflizione pare impalpabile  
+Finché Noi stessi non siamo colpiti —

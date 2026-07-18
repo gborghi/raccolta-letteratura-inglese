@@ -28,3 +28,21 @@ Indifference to Him —
 The Dower — as the Doom —  
 His Office — but to execute  
 Fate's — Telegram — to Him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Futuro — mai parlò —  
+Né vorrà — come il Muto —  
+Rivelare con un cenno — una sillaba  
+Del Suo Profondo Avvenire —  
+
+Ma quando la Notizia è matura —  
+La presenta — nell'Atto —  
+Prevenendo Preparazione —  
+Fuga — o Sostituto —  
+
+Indifferente a Lui —  
+La Dote — come la Condanna —  
+Suo Ufficio — solo eseguire  
+Del Fato — il Telegramma — a Lui —

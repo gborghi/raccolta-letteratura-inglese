@@ -23,3 +23,16 @@ A Competition in my sense
 With something hid in Her —  
 And as she vanishes, Remorse  
 I saw no more of Her.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non posso incontrare la [[Spring|Primavera]] impassibile —  
+Sento l'antico [[Desire|desiderio]] —  
+Una Fretta mista a un indugio,  
+Un Mandato a esser bella —  
+
+Una Gara dentro il mio senso  
+Con qualcosa in Lei nascosto —  
+E come svanisce, Rimorso  
+Non vidi più nulla di Lei.

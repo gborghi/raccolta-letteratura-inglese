@@ -25,3 +25,18 @@ Forget the secret of His wing
 And perish — but a Bough between —  
 Oh, Groping feet —  
 Oh [[Phantom]] [[Queen]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non probabile — la più esile Possibilità —  
+Un sorriso di meno — una parola di troppo  
+E lontana dal Cielo come il Resto —  
+L'[[Soul|Anima]] così prossima al Paradiso —  
+
+E se l'Uccello da [[Journey|viaggio]] lontano —  
+Confuso dai Dolci — come i Mortali — sono —  
+Scordasse il segreto della Sua ala  
+E perisse — solo un Ramo di mezzo —  
+Oh, piedi Brancolanti —  
+Oh [[Phantom|Spettrale]] [[Queen|Regina]]!

@@ -32,3 +32,25 @@ That suddenly looks into ours
 With a metallic grin —  
 The Cordiality of [[Death]] —  
 Who drills his Welcome in —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quell'Orrore del dopo — che eravamo noi —  
+A passare il Molo in sfacelo —  
+Proprio quando la Briciola di Granito cedette —  
+Nostro Salvatore, per un Capello —  
+
+Un secondo ancora, e caduti troppo a fondo  
+Perché il Pescatore possa scandagliare —  
+Il solo profilo del Pensiero  
+Intorpidisce il Ricordo —  
+
+La possibilità — di passare  
+Senza la Campana d'un Momento —  
+Alla presenza della Congettura —  
+È come un Volto d'Acciaio —  
+Che d'improvviso guarda nel nostro  
+Con un ghigno metallico —  
+La Cordialità della [[Death|Morte]] —  
+Che trapana dentro il suo Benvenuto —

@@ -38,3 +38,31 @@ Had [[Nature]] any supple Face
 Or could she one contemn —  
 Had [[Nature]] an Apostate —  
 That Mushroom — it is Him!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Fungo è l'[[Elf|Elfo]] delle Piante —  
+A Sera, non è —  
+Al Mattino, in una Capanna Tartufata  
+Si arresta sopra un Punto  
+
+Come se indugiasse da sempre  
+Eppure la sua intera Carriera  
+È più breve dell'Indugio d'un Serpente  
+E più fugace d'una Zizzania —  
+
+È il Giocoliere della Vegetazione —  
+Il Germe dell'Alibi —  
+Come una Bolla antecede  
+E come una Bolla, fugge —  
+
+Sento come se l'Erba fosse lieta  
+Che esso s'interrompa —  
+Questo furtivo rampollo  
+Della circospetta [[Summer|Estate]].  
+
+Avesse la [[Nature|Natura]] un Volto duttile  
+O potesse disprezzarne uno —  
+Avesse la [[Nature|Natura]] un Apostata —  
+Quel Fungo — è Lui!

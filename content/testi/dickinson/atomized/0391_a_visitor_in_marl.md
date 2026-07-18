@@ -28,3 +28,21 @@ But whom his fingers touched —
 And where his feet have run —  
 And whatsoever Mouth be kissed —  
 Is as it had not been —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Visitatore in Marna —  
+Che influenza i [[Flowers|Fiori]] —  
+Finché sono ordinati come Busti —  
+Ed Eleganti — come Vetro —  
+
+Che fa visita nella [[Night|Notte]] —  
+E appena prima del [[Sun|Sole]] —  
+Conclude il suo scintillante colloquio —  
+Accarezza — e se n'è andato —  
+
+Ma ciò che le sue dita hanno toccato —  
+E dove i suoi piedi hanno corso —  
+E qualunque Bocca abbia baciato —  
+È come non fosse mai stata —

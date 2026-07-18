@@ -23,3 +23,16 @@ For Pattern is the Mind bestowed
 That imitating her  
 Our most ignoble Services  
 Exhibit worthier.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi va a pranzo deve portare il suo Banchetto  
+O trovare misero il Convito —  
+La Tavola non è apparecchiata fuori  
+Finché non è apparecchiata dentro.  
+
+Ché a Modello è data la Mente  
+Perché imitandola  
+I nostri più ignobili Servigi  
+Si mostrino più degni.

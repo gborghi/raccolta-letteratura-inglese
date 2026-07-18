@@ -83,9 +83,9 @@ Through the [[Snow|snow]] and rain.
 
 # i re magi
 
-I MAGI  
+I RE MAGI  
 
-di G.K. Chesterton  
+di G.K. Chesterton
 
 Cammina lieve, sotto [[Snow|neve]] o pioggia,  
 per trovare il luogo dove gli uomini possono pregare;  
@@ -219,9 +219,9 @@ Through the [[Snow|snow]] and rain.
 
 # i re magi
 
-I MAGI  
+I RE MAGI  
 
-di G.K. Chesterton  
+di G.K. Chesterton
 
 Cammina lieve, sotto [[Snow|neve]] o pioggia,  
 per trovare il luogo dove gli uomini possono pregare;  

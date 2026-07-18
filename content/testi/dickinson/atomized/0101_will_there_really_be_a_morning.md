@@ -28,3 +28,21 @@ Oh some Scholar! Oh some Sailor!
 Oh some Wise Men from the skies!  
 Please to tell a little [[Pilgrim]]  
 Where the place called "Morning" lies!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci sarà davvero un "Mattino"?  
+Esiste una cosa come il "Giorno"?  
+Potrei vederlo dalle [[Mountains|montagne]]  
+Se fossi alta come loro?  
+
+Ha piedi come gigli d'[[Water|Acqua]]?  
+Ha piume come un Uccello?  
+Vien portato da paesi famosi  
+Di cui non ho mai sentito?  
+
+Oh qualche Dotto! Oh qualche Marinaio!  
+Oh qualche Saggio dai cieli!  
+Vi prego dite a una piccola [[Pilgrim|Pellegrina]]  
+Dove giace il luogo detto "Mattino"!

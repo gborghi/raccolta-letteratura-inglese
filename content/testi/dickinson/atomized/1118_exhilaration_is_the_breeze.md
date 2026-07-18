@@ -23,3 +23,16 @@ Returns us not, but after [[Time|time]]
 We soberly descend  
 A little newer for the term  
 Upon Enchanted Ground —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Esultanza è la Brezza  
+Che ci solleva dal Suolo  
+E ci [[Leaves|lascia]] in un altro luogo  
+Di cui non si trova enunciato —  
+
+Non ci riporta, ma dopo [[Time|tempo]]  
+Sobriamente discendiamo  
+Un poco più nuovi per quella sosta  
+Su Suolo Incantato —

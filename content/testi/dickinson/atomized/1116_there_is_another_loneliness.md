@@ -23,3 +23,16 @@ But [[Nature|nature]], sometimes, sometimes thought
 And whoso it befall  
 Is richer than could be revealed  
 By mortal numeral —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un'altra [[Loneliness|Solitudine]]  
+Senza cui molti muoiono —  
+Non la genera mancanza d'amico  
+O circostanze di Sorte  
+
+Ma [[Nature|natura]], a volte, a volte il pensiero  
+E colui al quale accade  
+È più ricco di quanto potrebbe svelare  
+Un numerale mortale —

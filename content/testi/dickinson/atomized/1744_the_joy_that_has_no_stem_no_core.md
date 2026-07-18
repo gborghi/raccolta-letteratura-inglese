@@ -23,3 +23,16 @@ By fundamental palates
 Those products are preferred  
 Impregnable to transit  
 And patented by pod.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Joy|gioia]] che non ha stelo né torsolo,  
+Né seme che possiamo seminare,  
+È commestibile al [[Longing|desiderio]].  
+Ma ablativa a mostrarsi.  
+
+Da palati fondamentali  
+Son preferiti quei prodotti  
+Inespugnabili al transito  
+E brevettati dal baccello.

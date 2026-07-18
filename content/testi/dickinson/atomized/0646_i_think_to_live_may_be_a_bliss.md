@@ -50,3 +50,43 @@ How bountiful the Dream —
 What Plenty — it would be —  
 Had all my Life but been Mistake  
 Just rectified — in Thee
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Penso che Vivere — possa essere una Beatitudine  
+Per chi osa tentare —  
+Oltre il mio limite concepire —  
+Il mio labbro — testimoniare —  
+
+Penso che il Cuore che prima portavo  
+Potrebbe allargarsi — finché a me  
+L'Altro, come la piccola Riva  
+Appaia — dinanzi al [[Sea|Mare]] —  
+
+Penso che i Giorni — potrebbero ognuno  
+Stare in Ordinazione —  
+E la Maestà — essere più facile —  
+Di una specie inferiore —  
+
+Nessun torpido allarme — che venga Differenza —  
+Nessun Folletto — sulla Fioritura —  
+Nessun sussulto nell'Orecchio dell'Apprensione,  
+Nessuna Bancarotta — nessuna Condanna —  
+
+Ma Certezze di [[Sun|Sole]] —  
+Mezza estate — nella Mente —  
+Un Sud costante — sull'[[Soul|Anima]] —  
+Il Suo [[Time|tempo]] Polare — alle spalle —  
+
+La Visione — a lungo ponderata —  
+Così plausibile diviene  
+Che stimo la finzione — reale —  
+Il Reale — fittizio sembra —  
+
+Com'è generoso il Sogno —  
+682  
+
+Che Abbondanza — sarebbe —  
+Fosse stata tutta la mia Vita solo Errore  
+Appena rettificato — in Te

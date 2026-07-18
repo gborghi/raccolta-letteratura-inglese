@@ -55,3 +55,48 @@ The Bravest — of the Host —
 Surrendering — the last —  
 Nor even of Defeat — aware —  
 What cancelled by the [[Frost]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un fiore che le [[Bees|Api]] preferiscono —  
+E le Farfalle — [[Desire|desiderano]] —  
+A conquistare il Democratico Purpureo  
+Il Colibrì — aspira —  
+
+E Qualsivoglia Insetto passi —  
+Un Miele porta via  
+Proporzionato alla sua propria penuria  
+E alla sua — capacità —  
+
+Il suo volto è più tondo della [[Moon|Luna]]  
+E più rubicondo della Veste  
+O dell'Orchidea nel Pascolo —  
+O del Rododendro — indossato —  
+
+Ella non attende Giugno —  
+Prima che il Mondo sia Verde —  
+Il suo robusto piccolo Sembiante  
+Contro il [[Wind|Vento]] — si scorge —  
+
+Contendendo con l'Erba —  
+Prossima Parente a Lei stessa —  
+Per Privilegio di Zolla e di [[Sun|Sole]] —  
+Dolci Litiganti per la Vita —  
+
+E quando le Colline sian piene —  
+E nuove fogge soffino —  
+Non ritratta una sola spezia  
+Per fitta di [[Jealousy|gelosia]] —  
+
+Il suo Pubblico — sia il [[Noon|Mezzogiorno]] —  
+400  
+
+La sua [[Providence|Provvidenza]] — il [[Sun|Sole]] —  
+Il suo Progresso — dall'Ape — proclamato —  
+In sovrana — Melodia senza Deviazioni —  
+
+La più Prode — della Schiera —  
+Ad arrendersi — ultima —  
+Né pur della Sconfitta — consapevole —  
+Quando cancellata dal [[Frost|Gelo]] —

@@ -39,3 +39,32 @@ We hated [[Death]] and hated Life
 And nowhere was to go —  
 Than [[Sea]] and continent there is  
 A larger — it is Woe —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Frost|Gelo]] della [[Death|Morte]] era sul Vetro —  
+"Metti al sicuro il tuo Fiore" disse.  
+Come Marinai in lotta con una Falla  
+Combattemmo la [[Mortality|Mortalità]].  
+
+Il nostro Fiore passivo tenemmo verso il [[Sea|Mare]] —  
+Verso il Monte — Verso il [[Sun|Sole]] —  
+Ma perfino sul suo Scarlatto scaffale  
+A strisciare il [[Frost|Gelo]] cominciò —  
+
+Lo forzammo indietro  
+Noi stessi ci incuneammo  
+Fra lui e lei,  
+Ma facile come lo stretto Serpente  
+Biforcò la sua via avanzando  
+
+Finché tutta la sua inerme [[Beauty|bellezza]] si piegò  
+E allora la nostra ira cominciò —  
+Lo cacciammo fino al suo Burrone  
+Lo inseguimmo fino alla sua Tana —  
+
+Odiammo la [[Death|Morte]] e odiammo la Vita  
+E non v'era dove andare —  
+Di [[Sea|Mare]] e continente esiste  
+Un più vasto — è il Dolore —

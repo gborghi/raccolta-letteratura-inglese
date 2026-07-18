@@ -23,3 +23,16 @@ In Their Eternal Faces
 The [[Sun]] — with just delight  
 Looks long — and last — and golden —  
 For fellowship — at [[Night|night]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le [[Mountains|Montagne]] — crescono inosservate —  
+Le Loro figure Purpuree s'innalzano  
+Senza sforzo — Sfinimento —  
+Aiuto — o Applauso —  
+
+Nei Loro Volti Eterni  
+Il [[Sun|Sole]] — con puro diletto  
+Guarda a lungo — e ultimo — e dorato —  
+In cerca di compagnia — a [[Night|notte]] —

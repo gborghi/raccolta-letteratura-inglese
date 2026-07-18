@@ -38,3 +38,31 @@ Till then — dreaming I am sewing
 Fetch the seam I missed —  
 Closer — so I — at my sleeping —  
 Still surmise I stitch —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non riporre il mio Filo e Ago —  
+Comincerò a Cucire  
+Quando gli [[Birds|uccelli]] cominceranno a fischiare —  
+Punti Migliori — così —  
+
+Questi erano storti — la vista mi si fece obliqua —  
+Quando la mente — sarà chiara  
+Farò cuciture — che l'impegno d'una [[Queen|Regina]]  
+Non arrossirebbe a dir sue —  
+
+Orli — troppo fini per l'occhio d'una Dama  
+Fino al Nodo invisibile —  
+Pieghe — di delicata intermittenza —  
+Come un Punto punteggiato —  
+
+Lascia il mio Ago nel solco —  
+Dove l'ho posato —  
+Saprò fare i punti a zigzag  
+Dritti — quando sarò forte —  
+
+Fino ad allora — sognando di cucire  
+Porta la cucitura che ho mancato —  
+Più vicino — così io — nel mio sonno —  
+Creda ancora di cucire —

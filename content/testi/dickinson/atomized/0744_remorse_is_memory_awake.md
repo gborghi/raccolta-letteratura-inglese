@@ -28,3 +28,21 @@ Remorse is cureless,---the disease
 Not even [[God]] can heal;  
 For 't is his institution,---  
 The complement of hell.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il rimorso è [[Memory|memoria]] desta,  
+Le sue compagnie in fermento,---  
+Una presenza di atti passati  
+Alla [[Window|finestra]] e alla [[Door|porta]].  
+
+Il suo passato disposto innanzi all'[[Soul|anima]],  
+E illuminato con un fiammifero,  
+Per facilitarne la lettura  
+Del suo condensato dispaccio.  
+
+Il rimorso è incurabile,---il male  
+Che nemmeno [[God|Dio]] può sanare;  
+Poiché è sua istituzione,---  
+Il complemento dell'inferno.

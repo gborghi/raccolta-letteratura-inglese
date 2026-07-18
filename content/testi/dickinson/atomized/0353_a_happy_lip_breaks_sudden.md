@@ -22,3 +22,15 @@ But this one, wears its merriment
 So patient — like a [[Pain|pain]] —  
 Fresh gilded — to elude the eyes  
 Unqualified, to scan —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un labbro felice — erompe improvviso —  
+Non ti dichiara come  
+Contemplava — sorridendo —  
+Solo consumato — ora —  
+Ma questo, porta la sua allegria  
+Così paziente — come una [[Pain|pena]] —  
+Dorata di fresco — per eludere gli occhi  
+Non qualificati, a scrutare —

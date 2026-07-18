@@ -22,3 +22,15 @@ Though to trust us — seems to us
 More respectful — "We are [[Dust]]" —  
 We apologize to thee  
 For thine own Duplicity —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Padre Celeste" — prendi a te  
+La suprema iniquità  
+Foggiata dalla tua candida Mano  
+In un momento di contrabbando —  
+Benché fidarti di noi — ci sembri  
+Più rispettoso — "Noi siamo [[Dust|Polvere]]" —  
+Ci scusiamo con te  
+Della tua stessa Doppiezza —

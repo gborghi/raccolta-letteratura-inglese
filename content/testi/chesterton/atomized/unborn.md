@@ -53,7 +53,7 @@ If only I were born.
 
 "Per il Bimbo [[unborn|Non Nato]]"  
 
-di G.K. Chesterton  
+di G.K. Chesterton
 
 Se gli alberi fossero alti e corte le erbe,  
 come in qualche folle fiaba,  
@@ -129,7 +129,7 @@ If only I were born.
 
 "Per il Bimbo [[unborn|Non Nato]]"  
 
-di G.K. Chesterton  
+di G.K. Chesterton
 
 Se gli alberi fossero alti e corte le erbe,  
 come in qualche folle fiaba,  

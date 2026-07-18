@@ -23,3 +23,16 @@ Maybe, we shouldn't mind them —
 Unless they didn't come —  
 Then — maybe, it would puzzle us  
 To find our way [[Home]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ho nient'altro — da portare, Lo sai —  
+Così continuo a portare Questi —  
+Come la [[Night|Notte]] continua a recare [[Stars|Stelle]]  
+Ai nostri occhi familiari —  
+
+Forse, non ci baderemmo —  
+Se non fosse che potrebbero non venire —  
+Allora — forse, ci confonderebbe  
+Trovare la via di [[Home|Casa]] —

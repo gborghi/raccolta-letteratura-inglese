@@ -22,3 +22,15 @@ What are the sinews of such cordage for
 Except to bear  
 The [[Ship|ship]] might be of satin had it not to fight —  
 To walk on seas requires cedar Feet
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+SOPPORTATO  
+
+C'è una forza nel provare che si può sopportare  
+Benché laceri —  
+A che servono i nervi di tale cordame  
+Se non a reggere  
+La [[Ship|nave]] potrebbe esser di raso se non dovesse lottare —  
+Camminare sui mari richiede Piedi di cedro

@@ -23,3 +23,16 @@ A Fan, perhaps, a Friend's Regret
 And Certainty that one  
 No color in the Rainbow  
 Perceive, when you are gone.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ai Morenti serve ben poco, Cara,  
+un Bicchiere d'[[Water|Acqua]] è tutto,  
+il Volto discreto d'un Fiore  
+a punteggiare il Muro,  
+
+un Ventaglio, forse, il Rimpianto d'un Amico  
+e la Certezza che alcuno  
+nessun colore nell'Arcobaleno  
+percepisca, quando te ne sei andata.

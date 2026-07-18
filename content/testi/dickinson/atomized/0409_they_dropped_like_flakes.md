@@ -24,3 +24,17 @@ They perished in the Seamless Grass —
 No eye could find the place —  
 But [[God]] can summon every face  
 Of his Repealless — List.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Caddero come Fiocchi —  
+Caddero come [[Stars|Stelle]] —  
+Come Petali da una [[Rose|Rosa]] —  
+Quando d'improvviso attraverso Giugno  
+Un [[Wind|vento]] con le dita — passa —  
+
+Perirono nell'Erba Senza Cuciture —  
+Nessun occhio poteva trovare il luogo —  
+Ma [[God|Dio]] può convocare ogni volto  
+Della sua Irrevocabile — Lista.

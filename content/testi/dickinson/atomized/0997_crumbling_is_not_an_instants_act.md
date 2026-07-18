@@ -28,3 +28,21 @@ Ruin is formal — Devil's work
 Consecutive and slow —  
 Fail in an instant, no man did  
 Slipping — is Crash's law.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sgretolarsi non è Atto d'un istante  
+Una pausa fondamentale  
+I processi di Dilapidazione  
+Sono Decadimenti organizzati.  
+
+È prima una Ragnatela sull'[[Soul|Anima]]  
+Una Cuticola di [[Dust|Polvere]]  
+Un Tarlo dentro l'Asse  
+Una Ruggine Elementale —  
+
+La Rovina è formale — opera del Diavolo  
+Consecutiva e lenta —  
+Fallire in un istante, nessun uomo lo fece  
+Scivolare — è la legge del Crollo.

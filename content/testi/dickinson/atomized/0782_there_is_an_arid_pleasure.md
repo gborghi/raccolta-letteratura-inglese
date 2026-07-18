@@ -23,3 +23,16 @@ Yet one — rejoices [[Flowers]] —
 And one — the [[Flowers]] abhor —  
 The finest Honey — curdled —  
 Is worthless — to the Bee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un arido Piacere —  
+Tanto diverso dalla [[Joy|Gioia]] —  
+Quanto il [[Frost|Gelo]] è diverso dalla [[Dew|Rugiada]] —  
+Di eguale elemento — essi sono —  
+
+Eppure uno — rallegra i [[Flowers|Fiori]] —  
+E uno — i [[Flowers|Fiori]] lo aborrono —  
+Il Miele più fine — cagliato —  
+È senza valore — per l'Ape —

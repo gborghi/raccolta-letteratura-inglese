@@ -23,3 +23,16 @@ Went to Heaven perhaps at [[Death]]
 And perhaps he didn't  
 [[Moses]] wasn't fairly used —  
 Ananias wasn't —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così mi sfilo le Calze  
+Guadando nell'[[Water|Acqua]]  
+Per amore della Disobbedienza  
+Ragazzo che visse per il "si deve"  
+
+Andò in Cielo forse alla [[Death|Morte]]  
+E forse non ci andò  
+[[Moses|Mosè]] non fu trattato con giustizia —  
+Anania nemmeno —

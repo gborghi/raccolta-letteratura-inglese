@@ -28,3 +28,21 @@ They Trying on the Utmost
 The Morning it is new  
 Is Terribler than wearing it  
 A whole existence through.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre lo temevamo, venne —  
+Ma venne con meno [[Fear|paura]]  
+Perché temerlo così a lungo  
+L'aveva quasi reso bello —  
+
+C'è un Adattarsi — uno Sgomento —  
+Un Adattarsi — una [[Despair|Disperazione]]  
+È più duro sapere che è Dovuto  
+Che sapere che è Qui.  
+
+Il Provarsi l'Estremo  
+Il Mattino in cui è nuovo  
+È più Terribile che indossarlo  
+Per un'intera esistenza.

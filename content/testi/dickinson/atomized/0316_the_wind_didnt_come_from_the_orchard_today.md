@@ -42,3 +42,35 @@ And a hoarse "Get out of the way, I say,"
 Who'd be the [[Fool|fool]] to stay?  
 Would you — Say —  
 Would you be the [[Fool|fool]] to stay?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+OGGI —  
+
+Il [[Wind|Vento]] non è venuto dal Frutteto — oggi —  
+Da più lontano di così —  
+Né si è fermato a giocare col Fieno —  
+Né ha scrollato un Cappello —  
+È un tipo transitivo — assai —  
+Contaci pure —  
+
+Se lascia una Lappola alla [[Door|porta]]  
+Sappiamo che ha scalato un Abete —  
+Ma l'Abete è Dove — Dichiara —  
+Ci sei mai stato?  
+
+Se porta Odori di Trifogli —  
+E quello è affar Suo — non Nostro —  
+Allora è stato coi Falciatori —  
+Ad affilar via le Ore  
+In dolci pause di Fieno —  
+Il Suo Modo — d'un Giorno di Giugno —  
+
+Se scaglia Sabbia, e Ciottoli —  
+Cappelli di Ragazzini — e Stoppie —  
+Con un Campanile ogni tanto —  
+E un rauco "Via dalla strada, dico,"  
+Chi sarebbe il [[Fool|folle]] a restare?  
+Lo saresti tu — Di' —  
+Saresti tu il [[Fool|folle]] a restare?

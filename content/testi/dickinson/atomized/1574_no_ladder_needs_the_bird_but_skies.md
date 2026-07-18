@@ -22,3 +22,15 @@ The implements of bliss are few —
 As Jesus says of Him,  
 "Come unto me" the moiety  
 That wafts the cherubim.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuna scala occorre all'uccello se non cieli  
+Per situare le sue ali,  
+Né la torva bacchetta d'alcun capo  
+Lo accusa mentre canta.  
+Gli strumenti della beatitudine son pochi —  
+Come Gesù dice di Sé,  
+"Venite a me" la metà  
+Che sospinge i cherubini.

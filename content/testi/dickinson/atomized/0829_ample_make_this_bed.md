@@ -23,3 +23,16 @@ Be its Mattress straight —
 Be its Pillow round —  
 Let no Sunrise' yellow noise  
 Interrupt this Ground —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ampio fate questo Letto —  
+Fate questo Letto con Timore —  
+In esso attendete che il Giudizio irrompa  
+Eccellente e Giusto.  
+
+Sia dritto il suo Materasso —  
+Sia tondo il suo Guanciale —  
+Che nessun giallo strepito d'Aurora  
+Interrompa questo Suolo —

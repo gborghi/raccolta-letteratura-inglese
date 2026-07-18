@@ -43,3 +43,36 @@ But this sort, grieved myself,
 And so, I thought the other way,  
 How just this [[Time|time]], some perfect year —  
 Themself, should come to me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu proprio in questo [[Time|tempo]], l'anno scorso, che morii.  
+So che sentii il Granturco,  
+Quando fui portata oltre le Fattorie —  
+Aveva i Pennacchi —  
+
+Pensai come giallo sarebbe apparso —  
+Quando [[Richard]] fosse andato al mulino —  
+E allora, volli uscire,  
+Ma qualcosa trattenne la mia volontà.  
+
+Pensai proprio come Rosse — le Mele incuneate  
+Fra le giunture della Stoppia —  
+E i Carri chini intorno ai campi  
+A raccogliere le Zucche —  
+
+Mi chiesi a chi sarei mancata, meno,  
+E quando il Ringraziamento, fosse giunto,  
+Se il Padre avrebbe moltiplicato i piatti —  
+Per fare una Somma pari —  
+
+E se avrebbe velato la gioia di [[Christmas|Natale]]  
+La mia Calza appesa troppo in alto  
+Perché alcun Babbo Natale raggiunga  
+L'Altitudine di me —  
+
+Ma questa sorta, mi affliggeva,  
+E così, pensai all'inverso,  
+Come proprio in questo [[Time|tempo]], in qualche anno perfetto —  
+Loro stessi, verrebbero da me —

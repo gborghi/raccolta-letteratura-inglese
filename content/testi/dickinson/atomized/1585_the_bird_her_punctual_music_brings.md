@@ -22,3 +22,15 @@ What respite from her thrilling toil
 Did [[Beauty]] ever take —  
 But Work might be electric Rest  
 To those that [[Magic]] make —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Uccello la sua puntuale musica porta  
+E la depone al suo posto —  
+Il suo posto è nel Cuore Umano  
+E nella Grazia Celeste —  
+Quale tregua dalla sua vibrante fatica  
+Si prese mai la [[Beauty|Bellezza]] —  
+Ma il Lavoro può essere elettrico Riposo  
+Per quelli che fanno [[Magic|Magia]] —

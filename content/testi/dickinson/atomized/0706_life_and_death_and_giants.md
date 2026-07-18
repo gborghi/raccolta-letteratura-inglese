@@ -20,3 +20,13 @@ Minor — Apparatus — Hopper of the Mill —
 Beetle at the Candle —  
 Or a Fife's Fame —  
 Maintain — by Accident that they proclaim —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vita, e [[Death|Morte]], e Giganti —  
+Quali Questi — son quieti —  
+Minori — Apparati — Tramoggia del Mulino —  
+Scarabeo alla Candela —  
+O Fama d'un Piffero —  
+Si mantengono — per l'Accidente che proclamano —

@@ -33,3 +33,26 @@ Refining these impatient Ores
 With Hammer, and with Blaze  
 Until the Designated Light  
 Repudiate the Forge —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Osi vedere un'[[Soul|Anima]] al Calor Bianco? —  
+Allora rannicchiati presso la [[Door|porta]] —  
+Rosso — è il colore comune del [[Fire|Fuoco]] —  
+Ma quando il vivido Minerale  
+
+Ha vinto le condizioni della Fiamma,  
+Vibra fuor della Fucina  
+Senza colore, ma con la luce  
+Di Vampa non consacrata.  
+
+Il minimo Villaggio ha il suo Fabbro  
+La cui Incudine dal suono uguale  
+Sta simbolo della Fucina più fine  
+Che senza suono tira — dentro —  
+
+Raffinando questi Minerali impazienti  
+Con Martello, e con Vampa  
+Finché la Luce Designata  
+Ripudi la Fucina —

@@ -23,3 +23,16 @@ Oftener by the Claw of [[Dragon]]
 Than the Hand of Friend  
 Guides the Little One predestined  
 To the Native Land.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lontano dall'[[Love|Amore]] il Padre Celeste  
+guida il [[Child|Fanciullo]] Eletto,  
+più spesso per Regno di Rovi  
+che per il Prato mite.  
+
+Più spesso con l'Artiglio del [[Dragon|Drago]]  
+che con la Mano dell'Amico  
+guida il Piccolo predestinato  
+alla Terra Natale.

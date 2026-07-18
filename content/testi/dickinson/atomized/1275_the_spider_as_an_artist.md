@@ -23,3 +23,16 @@ By every Broom and Bridget
 Throughout a Christian Land —  
 Neglected Son of Genius  
 I take thee by the Hand —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Ragno come [[artist|Artista]]  
+Non è mai stato assunto —  
+Benché il suo Merito insigne  
+Sia liberamente attestato  
+
+Da ogni Scopa e Bridget  
+Per tutta una Terra Cristiana —  
+Figlio negletto del Genio  
+Ti prendo per la Mano —

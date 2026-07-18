@@ -33,3 +33,26 @@ I'll institute an "Action" —
 I'll vindicate the law —  
 Jove! Choose your counsel —  
 I retain "[[Shaw]]"!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avevo alcune cose che chiamavo mie —  
+E [[God]], alcune che chiamava sue,  
+Finché, di recente, una Pretesa rivale  
+Turbò queste amicizie.  
+
+La proprietà, il mio [[Garden|giardino]],  
+Che avendo seminato con cura,  
+Egli reclama il grazioso acro,  
+E vi manda un Balivo.  
+
+Il rango delle parti  
+Vieta pubblicità,  
+Ma la Giustizia è più sublime  
+Di armi, o lignaggio.  
+
+Intenterò una "Causa" —  
+Rivendicherò la legge —  
+Giove! Scegli il tuo avvocato —  
+Io ingaggio "[[Shaw]]"!

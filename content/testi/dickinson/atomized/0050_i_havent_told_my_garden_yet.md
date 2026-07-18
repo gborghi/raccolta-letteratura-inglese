@@ -33,3 +33,26 @@ Nor lisp it at the table —
 Nor heedless by the way  
 Hint that within the [[Riddle]]  
 One will walk today —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non l'ho ancora detto al mio [[Garden|giardino]] —  
+Perché non abbia a vincermi.  
+Non ho ora forza abbastanza  
+Per rivelarlo all'Ape —  
+
+Non lo nominerò per strada  
+Ché le botteghe mi fisserebbero —  
+Che una così timida — così ignara  
+Abbia la faccia di morire.  
+
+I pendii non devono saperlo —  
+Dove ho tanto vagato —  
+Né dirlo alle foreste amorose  
+Il giorno in cui me ne andrò —  
+
+Né sussurrarlo a tavola —  
+Né distratta per via  
+Accennare che dentro l'[[Riddle|Enigma]]  
+Qualcuno camminerà oggi —

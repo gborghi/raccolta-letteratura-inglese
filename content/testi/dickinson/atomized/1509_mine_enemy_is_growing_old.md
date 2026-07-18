@@ -23,3 +23,16 @@ Let him be quick — the Viand flits —
 It is a faded Meat —  
 Anger as soon as fed is dead —  
 'Tis starving makes it fat —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Nemico Mio invecchia —  
+Ho infine la [[Revenge|Vendetta]] —  
+Il Palato dell'Odio si dilegua —  
+Se alcuno vuol vendicarsi  
+
+Sia rapido — la Vivanda fugge —  
+È una Carne sbiadita —  
+L'Ira appena nutrita è morta —  
+È il digiuno che la fa grassa —

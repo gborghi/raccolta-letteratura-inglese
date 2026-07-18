@@ -33,3 +33,26 @@ Looking on — is the Department
 Of its Audience —  
 But Transaction — is assisted  
 By no Countenance —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Crescita d'Uomo — come Crescita di [[Nature|Natura]] —  
+Gravita all'interno —  
+Atmosfera, e [[Sun|Sole]] la assecondano —  
+Ma essa si muove — da [[Alone|sola]] —  
+
+Ognuna — il suo arduo Ideale  
+Deve compiere — da Sé —  
+Attraverso la prodezza solitaria  
+Di una Vita Silenziosa —  
+
+Sforzo — è la sola condizione —  
+Pazienza di Se stessa —  
+Pazienza delle forze avverse —  
+E intatta Fede —  
+
+Guardare — è il Compito  
+Del suo Pubblico —  
+Ma la Transazione — è assistita  
+Da nessun Volto —

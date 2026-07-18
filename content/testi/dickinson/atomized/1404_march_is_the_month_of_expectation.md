@@ -22,3 +22,15 @@ We try to show becoming firmness —
 But pompous [[Joy]]  
 Betrays us, as his first Betrothal  
 Betrays a Boy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Marzo è il Mese dell'Attesa.  
+Le cose che non sappiamo —  
+Le Persone della profezia  
+Stanno arrivando ora —  
+Cerchiamo di mostrare decorosa fermezza —  
+Ma una pomposa [[Joy|Gioia]]  
+Ci tradisce, come il primo Fidanzamento  
+Tradisce un Ragazzo.

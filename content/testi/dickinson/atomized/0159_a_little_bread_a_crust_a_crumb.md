@@ -27,3 +27,20 @@ Is plenty! Is enough!
 A Sailor's business is the shore!  
 A Soldier's — balls! Who asketh more,  
 Must seek the neighboring life!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un po' di pane — una crosta — una briciola —  
+Un po' di fiducia — una damigiana —  
+Possono tenere in vita l'[[Soul|anima]] —  
+Non pingue, badate! ma respirante — calda —  
+Cosciente — come il vecchio [[Napoleon|Napoleone]],  
+La [[Night|notte]] prima della [[Crown|Corona]]!  
+
+Un lotto modesto — Una fama minuta —  
+Una breve Campagna di puntura e dolcezza  
+È molto! È abbastanza!  
+L'affare del Marinaio è la riva!  
+Del Soldato — le palle! Chi chiede di più,  
+Cerchi la vita vicina!

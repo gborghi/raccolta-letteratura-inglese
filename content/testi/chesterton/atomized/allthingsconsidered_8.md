@@ -6031,25 +6031,7 @@ and hell are a woman who is not dignified and a man who is.
 
 Del tutto ugualmente sottile e spirituale è l'idea che sta dietro il ridere degli stranieri. Concerne la quasi tormentosa [[Truth|verità]] di una cosa che è simile a noi stessi e tuttavia diversa da noi stessi. Nessuno ride di ciò che è interamente estraneo; nessuno ride di una palma. Ma è buffo vedere la familiare immagine di Dio travestita dietro la barba nera di un francese o la faccia nera di un negro. Non c'è nulla di buffo nei suoni che sono del tutto disumani, l'ululato delle belve o del [[Wind|vento]]. Ma se un uomo comincia a parlare come noi, e però tutte le sillabe gli escono diverse, allora, se si è uomini, ci si sente inclini a ridere, benché, se si è gentiluomini, si resista all'inclinazione.
 
-Il signor Max Beerbohm, ricordo, professava di comprendere le prime due
-forme dell'arguzia popolare, ma diceva che la terza lo lasciava del
-tutto perplesso. Non riusciva a capire perché ci dovesse essere
-qualcosa di comico nel [[cheese|formaggio]] andato a male. Posso dirglielo
-subito. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre
-lui cercava qualcosa di ignorante e sciocco. Il [[cheese|formaggio]]
-andato a male è comico perché è (come lo straniero o l'uomo caduto sul
-selciato) il tipo del passaggio o della trasgressione al di là di un
-grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia
-il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato
-a male simboleggia lo sbalorditivo prodigio della materia che assume
-vitalità. Simboleggia l'origine stessa della vita. Ed è solo di
-questioni così solenni come l'origine della vita che la
-[[democracy|democrazia]] si degna di scherzare. Così, per esempio, la
-[[democracy|democrazia]] scherza sul [[Marriage|matrimonio]], perché il
-[[Marriage|matrimonio]] è parte del genere umano. Ma la
-[[democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero
-[[Love|Amore]], perché il Libero [[Love|Amore]] è un pezzo di
-pedanteria saccente.
+Il signor Max Beerbohm, lo ricordo, dichiarava di comprendere le prime due forme dello spirito popolare, ma diceva che la terza lo lasciava del tutto perplesso. Non riusciva a capire perché ci dovesse essere alcunché di buffo nel [[cheese|formaggio]] andato a male. Posso spiegarglielo all'istante. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre egli cercava qualcosa d'ignorante e sciocco. Il [[cheese|formaggio]] andato a male è buffo perché è (come lo straniero o l'uomo caduto sul selciato) il tipo del passaggio o della trasgressione attraverso un grande confine mistico. Il [[cheese|formaggio]] andato a male simboleggia il mutamento dall'inorganico all'organico. Il [[cheese|formaggio]] andato a male simboleggia lo strabiliante prodigio della materia che assume vitalità. Simboleggia l'origine stessa della vita. Ed è soltanto su faccende solenni come l'origine della vita che la [[democracy|democrazia]] si degna di scherzare. Così, per esempio, la [[democracy|democrazia]] scherza sul [[Marriage|matrimonio]], perché il [[Marriage|matrimonio]] è una parte del genere umano. Ma la [[democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero [[Love|Amore]], perché il Libero [[Love|Amore]] è un pezzo di saccenteria.
 
 In verità, si troverà per lo più che la facezia popolare non è vera alla lettera, ma è vera nello spirito. La facezia volgare è di solito, nel modo più bizzarro, la [[Truth|verità]] e tuttavia non il fatto. Per esempio, non è affatto vero che le suocere siano, come categoria, opprimenti e intollerabili; la maggior parte di esse sono insieme devote e utili. Tutte le suocere che ho mai avuto erano ammirevoli. Eppure la leggenda dei giornali umoristici è profondamente vera. Richiama l'attenzione sul fatto che è assai più difficile essere una buona suocera che essere buoni in qualsiasi altra concepibile relazione della vita. Le caricature hanno raffigurato la peggiore suocera come un [[Monster|mostro]], per esprimere il fatto che la migliore suocera è un problema. Lo stesso vale per le perpetue facezie dei giornali umoristici sulle mogli bisbetiche e i mariti succubi. È tutta una frenetica esagerazione, ma è l'esagerazione di una [[Truth|verità]]; laddove tutte le moderne declamazioni sulle donne oppresse sono le esagerazioni di una falsità. Se leggete anche i migliori tra gli intellettuali d'oggi, li troverete affermare che nella massa della [[democracy|democrazia]] la donna è il bene mobile del suo signore, al pari della sua vasca o del suo letto. Ma se leggete la letteratura comica della [[democracy|democrazia]], troverete che è il signore a nascondersi sotto il letto per sfuggire all'ira del suo bene mobile. Questo non è il fatto, ma è assai più vicino alla [[Truth|verità]]. Ogni uomo sposato sa benissimo, non solo di non considerare la propria moglie un bene mobile, ma che nessun uomo può mai concepibilmente averlo fatto. La facezia sta per una [[Truth|verità]] ultima, e questa è una [[Truth|verità]] sottile. Non è facilissima da enunciare correttamente. La si può, forse, enunciare nel modo più corretto dicendo che, anche se l'uomo è il capo della [[house|casa]], egli sa d'esserne la polena.
 
@@ -6279,22 +6261,7 @@ Parlando dell'istinto che rende ricca la gente, lo stesso scrittore osserva:
 
 Sfortunatamente, però, Mida poteva fallire; e fallì. Il suo sentiero non condusse infallibilmente verso l'alto. Egli morì di fame perché ogni volta che toccava un biscotto o un panino al prosciutto, quello si tramutava in oro. Era questo l'intero senso della storia, per quanto lo scrittore debba sopprimerlo con delicatezza, scrivendo così vicino a un ritratto di Lord Rothschild. Le antiche favole dell'umanità sono, invero, insondabilmente sagge; ma non dobbiamo lasciarcele espurgare nell'interesse del signor Vanderbilt. Non dobbiamo lasciar rappresentare [[King|re]] Mida come un esempio di [[success|successo]]; egli fu un fallito di specie insolitamente penosa. Inoltre, aveva le orecchie d'asino. Inoltre (come la maggior parte delle altre persone eminenti e facoltose) si sforzava di celare il fatto. Fu il suo barbiere (se ben ricordo) a dover essere trattato in confidenza riguardo a questa particolarità; e il suo barbiere, invece di comportarsi come un intraprendente adepto della scuola del Riesci-a-ogni-costo e di provare a ricattare [[King|re]] Mida, se ne andò e sussurrò questo splendido pettegolezzo mondano alle canne, che se ne dilettarono immensamente. Si dice che anch'esse lo sussurrassero mentre i venti le facevano ondeggiare avanti e indietro. Io guardo con reverenza il ritratto di Lord Rothschild; leggo con reverenza le imprese del signor Vanderbilt. So di non poter trasformare in oro tutto ciò che tocco; ma so anche di non averci mai provato, avendo una predilezione per altre sostanze, come l'erba e il buon vino. So che questa gente ha certamente avuto successo in qualcosa; che ha certamente sopraffatto qualcuno; so che sono re in un senso in cui nessun uomo fu mai re prima; che creano mercati e scavalcano continenti. Eppure mi sembra sempre che vi sia qualche piccolo fatto domestico che essi vanno celando, e talvolta ho creduto di udire sul [[Wind|vento]] la risata e il sussurro delle canne.
 
-Almeno, [[Hope|speriamo]] che tutti vivremo abbastanza da vedere questi assurdi
-libri sul [[success|Successo]] coperti da un giusto scherno e dall'oblio.
-Non insegnano alla gente a riuscire, ma le insegnano
-a essere snob; diffondono una sorta di malvagia poesia della mondanità.
-I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa
-diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]?
-Cent'anni fa avevamo l'ideale dell'Apprendista Operoso;
-si diceva ai ragazzi che con la parsimonia e il lavoro sarebbero tutti diventati Lord Mayor.
-Era illusorio, ma era virile, e aveva un minimo di [[Truth|verità]] morale.
-Nella nostra società, la temperanza non aiuterà un pover'uomo ad arricchirsi,
-ma può aiutarlo a rispettare sé stesso.  Il buon lavoro non lo renderà
-ricco, ma il buon lavoro può renderlo un buon lavoratore.
-L'Apprendista Operoso si [[Rose|elevò]] per virtù poche e anguste invero,
-ma pur sempre virtù.  Ma che cosa diremo del vangelo predicato
-al nuovo Apprendista Operoso; l'Apprendista che si eleva non
-per le sue virtù, ma dichiaratamente per i suoi vizi?
+Almeno, [[Hope|speriamo]] di vivere tutti abbastanza a lungo da vedere questi assurdi libri sul [[success|Successo]] ricoperti di una giusta derisione e dimenticanza. Essi non insegnano alla gente a riuscire, ma le insegnano a essere snob; diffondono una sorta di malvagia poesia della mondanità. I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]? Cento anni fa avevamo l'ideale del Garzone Diligente; ai ragazzi si diceva che con parsimonia e lavoro sarebbero tutti diventati Lord Sindaci. Era fallace, ma era virile, e conteneva un minimo di [[Truth|verità]] morale. Nella nostra società la temperanza non aiuterà un uomo povero ad arricchirsi, ma può aiutarlo a rispettare se stesso. Il buon lavoro non ne farà un uomo ricco, ma il buon lavoro può farne un buon lavoratore. Il Garzone Diligente si [[Rose|elevava]] grazie a virtù invero poche e anguste, ma pur sempre virtù. Ma che cosa diremo del vangelo predicato al nuovo Garzone Diligente; il Garzone che si eleva non per le sue virtù, ma dichiaratamente per i suoi vizi?
 
 
 

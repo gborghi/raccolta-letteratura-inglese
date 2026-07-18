@@ -24,3 +24,17 @@ And independent as the [[Sun]]
 Associates or glows [[Alone|alone]],  
 Fulfilling absolute Decree  
 In casual simplicity —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Com'è felice la piccola Pietra  
+Che vaga per la [[Road|Strada]] [[Alone|sola]],  
+E non si cura di Carriere  
+E mai teme le Esigenze —  
+La cui Veste di Bruno elementare  
+Un Universo di passaggio indossò,  
+E indipendente come il [[Sun|Sole]]  
+Si accompagna o brilla [[Alone|sola]],  
+Compiendo Decreto assoluto  
+In casuale semplicità —

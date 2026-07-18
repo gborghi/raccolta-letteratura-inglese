@@ -189,7 +189,7 @@ still be in everything and not merely in all.
 
 Su una Strana [[City|Città]]
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Da [[Common Man|The Common Man]]
 (Originariamente in The New Witness, 25-11-21)

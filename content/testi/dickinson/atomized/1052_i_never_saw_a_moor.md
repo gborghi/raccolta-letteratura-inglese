@@ -23,3 +23,16 @@ I never spoke with [[God]],
 Nor visited in Heaven--  
 Yet certain am I of the spot  
 As if the Checks were given--
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ho mai visto una Brughiera--  
+Non ho mai visto il [[Sea|Mare]]--  
+Eppure so come appare l'Erica  
+E che cosa sia un'Onda.  
+
+Non ho mai parlato con [[God|Dio]],  
+Né sono stata in visita in Cielo--  
+Eppure son certa del luogo  
+Come se i Biglietti fossero dati--

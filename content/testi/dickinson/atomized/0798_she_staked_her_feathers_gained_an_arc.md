@@ -23,3 +23,16 @@ And now, among Circumference —
 Her steady Boat be seen —  
 At [[Home|home]] — among the Billows — As  
 The Bough where she was born —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Puntò le sue Piume — Guadagnò un Arco —  
+Esitò — [[Rose|Risalì]] ancora —  
+Questa [[Time|volta]] — oltre la stima  
+Dell'Invidia, o degli Uomini —  
+
+E ora, fra la Circonferenza —  
+Si vede la sua salda Barca —  
+A [[Home|casa]] — fra i Flutti — Come  
+Il Ramo dove nacque —

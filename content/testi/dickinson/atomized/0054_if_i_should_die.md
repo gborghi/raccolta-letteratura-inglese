@@ -32,3 +32,25 @@ It makes the parting tranquil
 And keeps the [[Soul|soul]] serene —  
 That gentlemen so sprightly  
 Conduct the pleasing scene!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se io dovessi morire,  
+E tu dovessi vivere —  
+E il [[Time|tempo]] gorgogliasse avanti —  
+E il mattino splendesse —  
+E il [[Noon|mezzogiorno]] ardesse —  
+Come ha sempre fatto —  
+Se gli [[Birds|Uccelli]] costruissero così presto  
+E le [[Bees|Api]] andassero indaffarate —  
+Si potrebbe partire a scelta  
+Dall'impresa di quaggiù!  
+È dolce sapere che i titoli terranno  
+Quando giaceremo con le Margherite —  
+Che il Commercio continuerà —  
+E i Traffici voleranno svelti —  
+Rende la partenza tranquilla  
+E mantiene serena l'[[Soul|anima]] —  
+Che signori così brillanti  
+Conducano la piacevole scena!

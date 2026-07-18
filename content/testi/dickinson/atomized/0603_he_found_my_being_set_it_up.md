@@ -23,3 +23,16 @@ Be faithful — in his absence —
 And he would come again —  
 With Equipage of Amber —  
 That [[Time|time]] — to take it [[Home]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Egli trovò il mio Essere — lo eresse —  
+Lo aggiustò al suo posto —  
+Poi vi incise il suo nome — sopra —  
+E gli ordinò verso l'Est  
+
+Di restar fedele — in sua assenza —  
+E lui sarebbe tornato —  
+Con Equipaggio d'Ambra —  
+Quella [[Time|volta]] — per portarlo a [[Home|Casa]] —

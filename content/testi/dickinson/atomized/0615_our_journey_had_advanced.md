@@ -28,3 +28,21 @@ Retreat — was out of [[Hope]] —
 Behind — a Sealed Route —  
 [[Eternity]]'s White [[Flag]] — Before —  
 And [[God]] — at every Gate —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il nostro [[Journey|viaggio]] era avanzato —  
+I nostri piedi erano quasi giunti  
+A quello strano Bivio nella [[Road|Strada]] dell'Essere —  
+[[Eternity|Eternità]] — per Nome —  
+
+Il nostro passo prese improvviso timore —  
+I nostri piedi — riluttanti — guidavano —  
+Davanti — c'erano Città — ma nel Mezzo —  
+La Foresta dei Morti —  
+
+Ritirarsi — era fuori d'ogni [[Hope|Speranza]] —  
+Dietro — una Via Sigillata —  
+La Bianca [[Flag|Bandiera]] dell'[[Eternity|Eternità]] — Davanti —  
+E [[God|Dio]] — a ogni Porta —

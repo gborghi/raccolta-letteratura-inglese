@@ -33,3 +33,26 @@ I [[Fear|fear]] me this — is [[Loneliness]] —
 The Maker of the [[Soul|soul]]  
 Its Caverns and its Corridors  
 Illuminate — or seal —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Loneliness|Solitudine]] che Non si osa sondare —  
+E che si oserebbe congetturare  
+Quanto calarsi a scandagliare la sua [[Grave|Tomba]]  
+Per accertarne la misura —  
+
+La [[Loneliness|Solitudine]] il cui peggiore allarme  
+È che possa vedere se stessa —  
+E perire dinanzi a sé  
+Per un solo scrutinio —  
+
+L'Orrore da non esplorare —  
+Ma costeggiato nel Buio —  
+Con la Coscienza sospesa —  
+E l'Essere sotto Chiave —  
+
+Io [[Fear|temo]] che questo — sia [[Loneliness|Solitudine]] —  
+Il Creatore dell'[[Soul|anima]]  
+Le sue Caverne e i suoi Corridoi  
+Illumini — o sigilli —

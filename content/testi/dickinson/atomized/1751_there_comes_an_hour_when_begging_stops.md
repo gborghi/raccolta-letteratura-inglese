@@ -20,3 +20,13 @@ Perceive their [[prayer]] is vain.
 "Thou shalt not" is a kinder [[Sword|sword]]  
 Than from a disappointing [[God]]  
 "Disciple, call again."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Viene un'ora in cui il mendicare cessa,  
+Quando le lunghe labbra intercedenti  
+Avvertono che la loro [[prayer]] è vana.  
+"Tu non devi" è [[Sword|spada]] più gentile  
+Che da un [[God]] che delude  
+"Discepolo, torna a chiedere."

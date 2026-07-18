@@ -24,3 +24,17 @@ Whom Fate Ordain —
 And Who can add a [[Crown]]  
 To Him who doth continual  
 Conspire against His Own
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi [[Court|Corte]] ottiene dentro di Sé  
+Vede in ogni Uomo un [[King|Re]] —  
+E la [[Poverty|Povertà]] di Monarchia  
+È cosa interiore —  
+
+Nessun Uomo depone  
+Chi il Fato Ordina —  
+E Chi può aggiungere una [[Crown|Corona]]  
+A Colui che di continuo  
+Cospira contro la Propria

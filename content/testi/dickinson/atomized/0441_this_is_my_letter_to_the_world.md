@@ -23,3 +23,16 @@ Her Message is committed
 To Hands I cannot see —  
 For [[Love|love]] of Her — Sweet — countrymen —  
 Judge tenderly — of Me
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa è la mia [[Letter|lettera]] al Mondo  
+Che mai scrisse a Me —  
+Le semplici Notizie che la [[Nature|Natura]] disse —  
+Con tenera Maestà  
+
+Il suo Messaggio è affidato  
+A Mani che non posso vedere —  
+Per [[Love|amore]] di Lei — Dolci — compatrioti —  
+Giudicate teneramente — Me

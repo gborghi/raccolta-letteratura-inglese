@@ -25,3 +25,18 @@ Not so fast!
 Apostle is askew!  
 Corinthians 1. 15. narrates  
 A Circumstance or two!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Seminato nel disonore"!  
+Ah! Davvero!  
+Può questo "disonore" essere?  
+Se fossi io la metà così fine  
+Non noterei nessuno!  
+
+"Seminato nella corruzione"!  
+Non così in fretta!  
+L'Apostolo è di traverso!  
+Corinzi 1. 15. narra  
+Una Circostanza o due!

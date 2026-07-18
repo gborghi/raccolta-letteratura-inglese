@@ -33,3 +33,26 @@ We parted with a contract
 To cherish, and to write  
 But Heaven made both, impossible  
 Before another [[Night|night]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Parlavamo come fanno le Ragazze —  
+Affettuose, e fino a tardi —  
+Speculavamo serene, su ogni argomento, tranne la [[Grave|Tomba]] —  
+Che di noi, non era affare —  
+
+Maneggiavamo Destini, fredde —  
+Come noi — Dispensatrici — fossimo —  
+E [[God|Dio]], un Convitato Quieto  
+Della nostra [[Authority|Autorità]] —  
+
+Ma con più affetto, indugiavamo su Noi stesse  
+Quali un giorno — saremmo —  
+Quando da Ragazze a Donne, dolcemente innalzate  
+Noi — occuperemmo — un Grado —  
+
+Ci separammo con un patto  
+Di volerci care, e di scriverci  
+Ma il Cielo rese entrambi, impossibili  
+Prima di un'altra [[Night|notte]].

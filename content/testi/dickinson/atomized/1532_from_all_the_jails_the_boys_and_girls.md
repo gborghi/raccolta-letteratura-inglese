@@ -23,3 +23,16 @@ They [[Storm|storm]] the Earth and stun the Air,
 A Mob of solid Bliss —  
 Alas — that Frowns should lie in wait  
 For such a Foe as this —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Da tutte le Prigioni i Ragazzi e le Ragazze  
+Balzano in estasi —  
+Amato unico Pomeriggio  
+Che la [[Prison|Prigione]] non trattiene  
+
+[[Storm|Assaltano]] la Terra e stordiscono l'Aria,  
+Una Folla di solida Beatitudine —  
+Ahimè — che Cipigli stiano in agguato  
+Per un Nemico come questo —

@@ -23,3 +23,16 @@ To such, if they should whisper
 Of morning and the moor,  
 They bear no other errand,  
 And I, no other [[prayer]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I miei mazzolini sono per i Prigionieri —  
+Occhi spenti — in attesa,  
+Dita negate al cogliere,  
+Pazienti fino al Paradiso.  
+
+A costoro, se sussurrassero  
+Del mattino e della brughiera,  
+Non recano altro messaggio,  
+E io, nessun'altra [[prayer|preghiera]].

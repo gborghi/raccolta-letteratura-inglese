@@ -455,22 +455,7 @@ Email: martin@gkc.org.uk
 
 <span class="qlang-split" data-lang="it"></span>
 
-Almeno, [[Hope|speriamo]] che tutti vivremo abbastanza da vedere questi assurdi
-libri sul [[success|Successo]] coperti da un giusto scherno e dall'oblio.
-Non insegnano alla gente a riuscire, ma le insegnano
-a essere snob; diffondono una sorta di malvagia poesia della mondanità.
-I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa
-diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]?
-Cent'anni fa avevamo l'ideale dell'Apprendista Operoso;
-si diceva ai ragazzi che con la parsimonia e il lavoro sarebbero tutti diventati Lord Mayor.
-Era illusorio, ma era virile, e aveva un minimo di [[Truth|verità]] morale.
-Nella nostra società, la temperanza non aiuterà un pover'uomo ad arricchirsi,
-ma può aiutarlo a rispettare sé stesso.  Il buon lavoro non lo renderà
-ricco, ma il buon lavoro può renderlo un buon lavoratore.
-L'Apprendista Operoso si [[Rose|elevò]] per virtù poche e anguste invero,
-ma pur sempre virtù.  Ma che cosa diremo del vangelo predicato
-al nuovo Apprendista Operoso; l'Apprendista che si eleva non
-per le sue virtù, ma dichiaratamente per i suoi vizi?
+Almeno, [[Hope|speriamo]] di vivere tutti abbastanza a lungo da vedere questi assurdi libri sul [[success|Successo]] ricoperti di una giusta derisione e dimenticanza. Essi non insegnano alla gente a riuscire, ma le insegnano a essere snob; diffondono una sorta di malvagia poesia della mondanità. I Puritani denunciano di continuo i libri che infiammano la lussuria; che cosa diremo dei libri che infiammano le passioni più vili dell'avarizia e dell'[[Pride|orgoglio]]? Cento anni fa avevamo l'ideale del Garzone Diligente; ai ragazzi si diceva che con parsimonia e lavoro sarebbero tutti diventati Lord Sindaci. Era fallace, ma era virile, e conteneva un minimo di [[Truth|verità]] morale. Nella nostra società la temperanza non aiuterà un uomo povero ad arricchirsi, ma può aiutarlo a rispettare se stesso. Il buon lavoro non ne farà un uomo ricco, ma il buon lavoro può farne un buon lavoratore. Il Garzone Diligente si [[Rose|elevava]] grazie a virtù invero poche e anguste, ma pur sempre virtù. Ma che cosa diremo del vangelo predicato al nuovo Garzone Diligente; il Garzone che si eleva non per le sue virtù, ma dichiaratamente per i suoi vizi?
 
 --------------------------------------------------------------------------
 [[[Home|inizio]]] Su alle Opere di G.K.Chesterton sul Web.

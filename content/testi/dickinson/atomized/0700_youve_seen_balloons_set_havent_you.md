@@ -38,3 +38,31 @@ The Crowd — retire with an Oath —
 The [[Dust]] in Streets — go down —  
 And Clerks in Counting Rooms  
 Observe — "'Twas only a Balloon" —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avete visto Palloni tramontare — Non è vero?  
+Così maestosi ascendono —  
+È come se Cigni — Vi avessero scartato,  
+Per Doveri di Diamante —  
+
+I loro Liquidi Piedi escono lievi  
+Sopra un [[Sea|Mare]] di Biondo —  
+Sdegnano l'Aria, come fosse troppo vile  
+Per Creature così rinomate —  
+
+I loro Nastri appena oltre l'occhio —  
+Lottano — alcuni — per il Respiro —  
+Eppure la Folla applaude, in basso —  
+Non chiederebbe il bis — alla [[Death|Morte]] —  
+
+La Creatura Dorata si tende — e rotea —  
+Inciampa frenetica in un [[Tree|Albero]] —  
+[[Tears|Squarcia]] le sue Vene imperiali —  
+E precipita nel [[Sea|Mare]] —  
+
+La Folla — si ritira con un'Imprecazione —  
+La [[Dust|Polvere]] nelle Strade — si posa —  
+E gli Impiegati nelle Stanze dei Conti  
+Osservano — "Era soltanto un Pallone" —

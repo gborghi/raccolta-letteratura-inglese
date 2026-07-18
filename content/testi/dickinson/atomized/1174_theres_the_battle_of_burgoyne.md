@@ -22,3 +22,15 @@ Put their work away
 But that solemn War  
 Could you comprehend it  
 You would chastened stare —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco la Battaglia di Burgoyne —  
+Finita, ogni Giorno,  
+Per il [[Time|Tempo]] in cui Uomo e Bestia  
+Ripongono il loro lavoro  
+"Tramonto" suona maestoso —  
+Ma quella Guerra solenne  
+Se tu potessi comprenderla  
+Fisseresti, castigato —

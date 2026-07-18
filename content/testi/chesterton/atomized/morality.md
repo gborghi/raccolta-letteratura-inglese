@@ -189,7 +189,7 @@ most when we have nearly lost them.
 
 [[morality|Moralità]] Negativa e Positiva
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Illustrated [[London]] News (ILN), 3 gennaio 1920
 ----------------------------------------------------------------------------

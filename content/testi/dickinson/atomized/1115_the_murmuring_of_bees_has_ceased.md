@@ -30,3 +30,23 @@ Till what we speculate, has been
 And thoughts we will not show  
 More intimate with us become  
 Than Persons, that we know.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mormorio delle [[Bees|Api]], è cessato  
+Ma il mormorio di alcuni  
+Posteriori, profetici,  
+È giunto simultaneo.  
+I metri più bassi dell'Anno  
+Quando il riso della [[Nature|Natura]] è finito  
+Le Rivelazioni del [[The Book|Libro]]  
+La cui Genesi fu giugno.  
+Creature appropriate al suo mutare  
+Manda la Madre Tipica  
+Come l'Accento sfuma in intervallo  
+Fra Amici che si separano  
+Finché ciò che congetturiamo, è stato  
+E pensieri che non mostreremo  
+Ci divengono più intimi  
+Delle Persone, che conosciamo.

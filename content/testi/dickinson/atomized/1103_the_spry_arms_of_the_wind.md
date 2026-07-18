@@ -28,3 +28,21 @@ To ascertain the [[house|House]]
 And is the [[Soul|soul]] at [[Home]]  
 And hold the Wick of mine to it  
 To light, and then return —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le agili Braccia del [[Wind|Vento]]  
+Se potessi infilarmici in mezzo  
+Ho una commissione imminente  
+In una Zona attigua —  
+
+Non mi curerei di fermarmi  
+Il mio Procedimento non è lungo  
+Il [[Wind|Vento]] potrebbe attendere fuori dal Cancello  
+O andarsene a spasso per la Città.  
+
+Per accertare la [[house|Casa]]  
+E se l'[[Soul|anima]] è a [[Home|Casa]]  
+E accostarvi il mio Stoppino  
+Per accenderlo, e poi tornare —

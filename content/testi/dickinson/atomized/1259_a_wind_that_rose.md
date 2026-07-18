@@ -23,3 +23,16 @@ A [[Wind]] that woke a lone Delight
 Like Separation's Swell  
 Restored in Arctic Confidence  
 To the Invisible —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un [[Wind|Vento]] che [[Rose|si levò]]  
+Benché non una Foglia  
+In alcuna Foresta si scotesse  
+Ma con se stesso freddo s'ingaggiò  
+Oltre il Reame dell'Uccello —  
+Un [[Wind|Vento]] che destò una Delizia solitaria  
+Come il Gonfio della Separazione  
+Restituito in Artica Fiducia  
+All'Invisibile —

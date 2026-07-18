@@ -23,3 +23,16 @@ Thine is the stillest [[Night|night]]
 Thine the securest Fold  
 Too near Thou art for seeking Thee  
 Too tender, to be told.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Abbassa le Sbarre, O [[Death|Morte]] —  
+Le stanche Greggi rientrano  
+Il cui belato cessa di ripetersi  
+Il cui vagare è compiuto —  
+
+Tua è la più quieta [[Night|notte]]  
+Tuo il più sicuro Ovile  
+Troppo vicina Sei perché Ti si cerchi  
+Troppo tenera, per esser detta.

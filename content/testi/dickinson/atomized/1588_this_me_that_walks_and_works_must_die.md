@@ -24,3 +24,17 @@ The Rumor's Gate was shut so tight
 Before my mind was born  
 Not even a Prognostic's push  
 Can make a Dent thereon —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+MORIRE,  
+
+Questo Me — che cammina e opera — deve morire,  
+Un Giorno sereno o in tempesta,  
+Avversità se così sarà  
+O selvaggia prosperità  
+La Porta della Diceria fu serrata così stretta  
+Prima che nascesse la mia mente  
+Che nemmeno la spinta d'un Pronostico  
+Può farvi un'Ammaccatura —

@@ -23,3 +23,16 @@ Did the "Paradise" — persuaded —
 Yield her moat of pearl —  
 Would the Eden be an Eden,  
 Or the Earl — an Earl?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sciogliesse la Campanula la sua cintura  
+All'Ape [[Lover|amante]]  
+Santificherebbe l'Ape la Campanula  
+Quanto un tempo?  
+
+Cedesse il "Paradiso" — persuaso —  
+Il suo fossato di perla —  
+Sarebbe l'Eden un Eden,  
+O il Conte — un Conte?

@@ -38,3 +38,31 @@ But then I promised ne'er to tell —
 How could I break My Word?  
 So go your Way — and I'll go Mine —  
 No [[Fear|fear]] you'll miss the [[Road]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Mormorio tra gli Alberi — da notare —  
+Non abbastanza forte — per esser [[Wind|Vento]] —  
+Una Stella — non tanto lontana da cercarla —  
+Né tanto vicina — da trovarla —  
+
+Un lungo — lungo Giallo — sul Prato —  
+Un Brusio — come di piedi —  
+Non udibile — come il Nostro — a Noi —  
+Ma più garbato — Più Dolce —  
+
+Un Affrettarsi a [[Home|Casa]] di piccoli Uomini  
+Verso Case inavvertite —  
+Tutto questo — e altro — se lo dicessi —  
+Non sarebbe mai creduto —  
+
+Di Pettirossi nel Lettino a rotelle  
+Quanti ne scorgo  
+Le cui Camicie da notte non celavano le Ali —  
+Benché li udissi provare —  
+
+Ma poi promisi di non dirlo mai —  
+Come potrei infrangere la Mia Parola?  
+Va' per la tua Via — io andrò per la Mia —  
+Nessun [[Fear|timore]] che tu perda la [[Road|Strada]].

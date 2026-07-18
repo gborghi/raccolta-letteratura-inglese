@@ -24,3 +24,17 @@ Her [[Ghost|ghost]] strolled softly o'er the [[Hill|hill]]
 Yesterday, and Today,  
 Her vestments as the silver fleece —  
 Her countenance as spray.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Morì giocando,  
+Sgambettò via  
+Il suo affitto d'ore screziate,  
+Poi affondò gaia come un Turco  
+Su un Giaciglio di [[Flowers|fiori]].  
+
+Il suo [[Ghost|spettro]] passeggiò lieve sulla [[Hill|collina]]  
+Ieri, e Oggi,  
+Le sue vesti come il vello d'argento —  
+Il suo volto come spuma.

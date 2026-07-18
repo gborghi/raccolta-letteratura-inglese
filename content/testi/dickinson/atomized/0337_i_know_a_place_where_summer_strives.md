@@ -28,3 +28,21 @@ Into the lap of Adamant —
 And spices — and the [[Dew]] —  
 That stiffens quietly to Quartz —  
 Upon her Amber Shoe —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conosco un luogo dove l'[[Summer|Estate]] lotta  
+Con un [[Frost|Gelo]] così esperto —  
+Lei — ogni anno — riconduce le sue Margherite —  
+Annotando in breve — "Perdute" —  
+
+Ma quando il [[Wind|Vento]] del Sud agita gli Stagni  
+E si dibatte nei viottoli —  
+Il Cuore Le duole, per il Suo [[Vow|Voto]] —  
+E lei versa morbidi Ritornelli  
+
+Nel grembo dell'Adamante —  
+E spezie — e la [[Dew|Rugiada]] —  
+Che s'irrigidisce quieta in Quarzo —  
+Sulla sua Scarpa d'Ambra —

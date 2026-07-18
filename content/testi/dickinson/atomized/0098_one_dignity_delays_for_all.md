@@ -33,3 +33,26 @@ How pomp surpassing ermine,
 When simple you and I  
 Present our meek escutcheon,  
 And claim the rank to die !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una dignità attende tutti,  
+Un pomeriggio mitrato.  
+Nessuno può evitare questa porpora,  
+Nessuno eludere questa [[Crown|corona]].  
+
+Carrozza assicura, e valletti,  
+Camera e pompa e folla ;  
+[[Bells|Campane]], anche, nel villaggio,  
+Mentre passiamo in grande.  
+
+Che dignitosi accompagnatori,  
+Che servizio quando sostiamo !  
+Con che lealtà al congedo  
+Levano i loro cento cappelli !  
+
+Che pompa che supera l'ermellino,  
+Quando semplici tu ed io  
+Presentiamo il nostro umile stemma,  
+E reclamiamo il rango di morire !

@@ -22,3 +22,15 @@ Which helpless [[Nature]] drops
 When pushed upon a scene  
 Repugnant to her probity —  
 Shame is the tint divine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Vergogna è lo scialle di Rosa  
+In cui avvolgiamo l'[[Soul|Anima]]  
+Per non farle infestare gli Occhi —  
+Il Velo elementale  
+Che l'inerme [[Nature|Natura]] lascia cadere  
+Quando sospinta su una scena  
+Ripugnante alla sua probità —  
+La Vergogna è la tinta divina.

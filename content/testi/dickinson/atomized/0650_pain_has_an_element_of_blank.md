@@ -23,3 +23,16 @@ It has no Future — but itself —
 Its Infinite realms contain  
 Its Past — enlightened to perceive  
 New Periods — of [[Pain]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Pain|Dolore]] — ha un Elemento di Vuoto —  
+Non sa ricordare  
+Quando cominciò — o se vi fu  
+Un [[Time|tempo]] in cui non era —  
+
+Non ha Futuro — che se stesso —  
+I suoi regni Infiniti contengono  
+Il suo Passato — illuminato a percepire  
+Nuovi Periodi — di [[Pain|Dolore]].

@@ -23,3 +23,16 @@ To lack of it is Woe —
 To own of it is Wound —  
 Not elsewhere — if in Paradise  
 Its Tantamount be found —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco questo piccolo Flagello —  
+Il Dono d'ogni vivente —  
+Tanto comune quanto ignoto  
+Il suo nome è [[Love|Amore]] —  
+
+Mancarne è Pena —  
+Possederne è Ferita —  
+Non altrove — se non in Paradiso  
+Se ne trova l'Equivalente —

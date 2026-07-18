@@ -33,3 +33,26 @@ On fine — Arterial Canvas —
 A Cheek — perchance a Brow —  
 The Star's whole Secret — in the Lake —  
 Eyes were not meant to know.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Esterno — dall'Interno  
+Deriva la sua Grandezza —  
+È Duca, o [[Dwarf|Nano]], a seconda  
+Di com'è l'Umore Centrale —  
+
+Il fine — invariabile Asse  
+Che regola la [[Wheel|Ruota]] —  
+Benché i Raggi — girino — più vistosi  
+E gettino [[Dust|polvere]] — intanto.  
+
+L'Interno — dipinge l'Esterno —  
+Il Pennello senza la Mano —  
+Il suo Quadro pubblica — preciso —  
+Com'è l'interno Marchio —  
+
+Su fine — Tela Arteriosa —  
+Una Guancia — forse una Fronte —  
+L'intero Segreto della Stella — nel Lago —  
+Occhi non eran fatti per saperlo.

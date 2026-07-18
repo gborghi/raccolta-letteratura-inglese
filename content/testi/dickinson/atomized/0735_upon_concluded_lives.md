@@ -23,3 +23,16 @@ Make Lacerating Tune —
 To Ears the Dying Side —  
 'Tis Coronal — and Funeral —  
 Saluting — in the [[Road]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su Vite Concluse  
+Nulla cade più freddo —  
+Dei dolci Calcoli della Vita —  
+Il mischiarsi di [[Bells|Campane]] e Drappi —  
+
+Fanno Melodia Lacerante —  
+Per Orecchie dal Lato dei Morenti —  
+È Corona — e Funerale —  
+Che si salutano — nella [[Road|Strada]] —

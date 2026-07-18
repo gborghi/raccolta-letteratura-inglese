@@ -28,3 +28,21 @@ The quiet nonchalance of [[Death|death]]
 No daybreak can bestir ;  
 The slow archangel's syllables  
 Must awaken her.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su questa lunga [[Storm|tempesta]] l'arcobaleno [[Rose|sorse]],  
+In questo tardo mattino il [[Sun|sole]] ;  
+Le nubi, come elefanti svogliati,  
+Si trascinarono giù per gli orizzonti.  
+
+Gli [[Birds|uccelli]] [[Rose|sorsero]] sorridenti nei nidi,  
+Le burrasche erano davvero finite ;  
+Ahimè !  come ignari erano gli occhi  
+Su cui l'[[Summer|estate]] splendeva !  
+
+La quieta noncuranza della [[Death|morte]]  
+Nessun'alba può ridestare ;  
+Le sillabe del lento arcangelo  
+Dovranno svegliarla.

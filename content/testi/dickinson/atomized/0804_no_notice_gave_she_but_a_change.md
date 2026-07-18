@@ -38,3 +38,31 @@ Her Warm return, if so she chose —
 And We — imploring drew —  
 Removed our invitation by  
 As Some She never knew —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessun Avviso diede Lei, se non un Mutamento —  
+Nessun Messaggio, se non un Sospiro —  
+Per Chi, il [[Time|Tempo]] non bastò  
+Perché Lei lo specificasse.  
+
+Non era calda, benché l'[[Summer|Estate]] splendesse  
+Né scrupolosa del freddo  
+Benché Brina su Brina, il costante [[Frost|Gelo]]  
+Sul Suo Seno si ammucchiasse —  
+
+Di modi schivi — non si spaventò  
+Benché tutto il Villaggio guardasse —  
+Ma tenne alta la Sua gravità —  
+E incontrò lo sguardo — diretta —  
+
+E quando adagiata come un Seme  
+In Terra con cura predisposta  
+Verso l'Eterna [[Spring|Primavera]]  
+E d'ostacolo solo un Tumulo  
+
+Al Suo Caldo ritorno, se così avesse voluto —  
+E Noi — imploranti ci accostammo —  
+Respinse il nostro invito  
+Come di Alcuni che mai conobbe —

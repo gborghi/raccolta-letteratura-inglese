@@ -36,3 +36,29 @@ May not at last avail?
 That, weary of this Beggar's face —  
 They may not finally say, Yes —  
 To drive her from the Hall?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se potessi corromperli con una [[Rose|Rosa]]  
+Porterei loro ogni fiore che cresce  
+Da Amherst al Kashmir!  
+Non mi fermerei per [[Night|notte]], o [[Storm|tempesta]] —  
+Né [[Frost|gelo]], né [[Death|morte]], né alcuno —  
+Tanto caro sarebbe il mio compito!  
+
+Se indugiassero per un Uccello  
+Il mio Tamburino si udrebbe per primo  
+Fra i Boschi d'Aprile!  
+Instancabile, per tutta l'[[Summer|estate]],  
+Solo per prorompere in più selvaggio [[Song|canto]]  
+Quando l'[[Winter|Inverno]] scuotesse i rami!  
+
+E se mi udissero!  
+Chi può dire  
+Che una tale importunità  
+Non possa alfine giovare?  
+
+Che, stanchi del volto di questa Mendicante —  
+Non possano infine dire, Sì —  
+Per scacciarla dalla Sala?

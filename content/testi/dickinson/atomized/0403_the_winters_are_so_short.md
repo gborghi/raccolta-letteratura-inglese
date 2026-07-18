@@ -33,3 +33,26 @@ And so there was a [[deluge|Deluge]] —
 And swept the World away —  
 But Ararat's a Legend — now —  
 And no one credits Noah —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli Inverni sono così brevi —  
+A stento sono giustificata  
+Nel mandar via tutti gli [[Birds|Uccelli]] —  
+E nel trasferirmi in un Baccello —  
+
+Io stessa — appena sistemata —  
+I Febi hanno cominciato —  
+E allora — è [[Time|tempo]] di levare la mia Tenda —  
+E aprire [[house|Casa]] — di nuovo —  
+
+Sono per lo più, interruzioni —  
+La mia [[Summer|Estate]] — è depredata —  
+Perché ci fu un [[Winter|Inverno]] — una volta —  
+E tutto il Bestiame — morì di fame —  
+
+E così ci fu un [[deluge|Diluvio]] —  
+E spazzò via il Mondo —  
+Ma l'Ararat è una Leggenda — ormai —  
+E nessuno crede a Noè —

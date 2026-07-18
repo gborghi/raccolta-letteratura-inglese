@@ -33,3 +33,26 @@ Nor like Himself — the Art
 Upon the [[Window]] Pane  
 To gad my little Being out —  
 And not begin — again —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avrebbe affamato un Moscerino —  
+vivere piccolo quanto me —  
+eppure ero una [[Child|Bimba]] viva —  
+con la necessità del Cibo  
+
+su di me — come un Artiglio —  
+non potevo strapparla via  
+più di quanto potessi blandire una Sanguisuga —  
+o costringere un [[Dragon|Drago]] — a muoversi —  
+
+Non avevo — come il Moscerino —  
+il privilegio di volare  
+e cercarmi un Pranzo da sola —  
+quanto più potente Lui — di me —  
+
+Né come Lui — l'Arte  
+sul Vetro della [[Window|Finestra]]  
+di sbattere via il mio piccolo Essere —  
+e non ricominciare — di nuovo —

@@ -23,3 +23,16 @@ Quite Opposite — How Complicate
 The Discipline of Man —  
 Compelling Him to Choose Himself  
 His Preappointed [[Pain]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Esperienza è la [[Road|Strada]] Angolata  
+Preferita contro la Mente  
+Per — [[Paradox|Paradosso]] — dalla Mente stessa —  
+Presumendo che conduca  
+
+All'Opposto affatto — Com'è Complicata  
+La Disciplina dell'Uomo —  
+Che Lo costringe a Scegliersi da Sé  
+La Sua [[Pain|Pena]] Prestabilita —

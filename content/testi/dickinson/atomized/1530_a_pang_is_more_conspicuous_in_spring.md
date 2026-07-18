@@ -22,3 +22,15 @@ When what they sung for is undone
 Who cares about a Blue Bird's Tune —  
 Why, [[Resurrection]] had to wait  
 Till they had moved a Stone —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Fitta è più cospicua in [[spring|Primavera]]  
+In contrasto con le cose che cantano  
+Non solo [[Birds|Uccelli]] — ma Menti —  
+Minute Rifulgenze e Venti —  
+Quando ciò per cui cantavano è disfatto  
+Chi si cura del Canto di un Uccello Azzurro —  
+Ebbene, la [[Resurrection|Resurrezione]] dovette attendere  
+Che avessero smosso una Pietra —

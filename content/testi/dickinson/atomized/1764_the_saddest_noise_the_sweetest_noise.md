@@ -38,3 +38,31 @@ An ear can break a human heart
 As quickly as a spear,  
 We wish the ear had not a heart  
 So dangerously near.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il rumore più triste, il rumore più dolce,  
+Il rumore più folle che cresce, —  
+Gli [[Birds|uccelli]], lo fanno in [[Spring|primavera]],  
+Al chiudersi delizioso della [[Night|notte]].  
+
+Fra la linea di marzo e d'aprile —  
+Quella frontiera magica  
+Oltre cui l'[[Summer|estate]] esita,  
+Quasi troppo celestialmente vicina.  
+
+Ci fa pensare a tutti i morti  
+Che passeggiarono con noi qui,  
+Dalla stregoneria della separazione  
+Resi crudelmente più cari.  
+
+Ci fa pensare a ciò che avemmo,  
+E a ciò che ora rimpiangiamo.  
+Quasi vorremmo che quelle gole di sirena  
+Andassero a non cantare mai più.  
+
+Un orecchio può spezzare un cuore umano  
+Rapido come una lancia,  
+Vorremmo che l'orecchio non avesse un cuore  
+Così pericolosamente vicino.

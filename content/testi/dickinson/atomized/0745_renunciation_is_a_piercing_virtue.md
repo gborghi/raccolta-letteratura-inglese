@@ -30,3 +30,23 @@ Unto itself —
 When larger function —  
 Make that appear —  
 Smaller — that Covered Vision — Here —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Renunciation|Rinuncia]] — è una [[Virtue|Virtù]] pungente —  
+Il lasciare andare  
+Una Presenza — per un'Attesa —  
+Non ora —  
+Il cavarsi gli Occhi —  
+Proprio all'Alba —  
+Perché il Giorno —  
+Il Gran Progenitore del Giorno —  
+Non superi  
+La [[Renunciation|Rinuncia]] — è lo Scegliere  
+Contro se stessa —  
+Se stessa a giustificare  
+Dinanzi a se stessa —  
+Quando più vasta funzione —  
+Faccia apparire —  
+Più piccola — quella Visione Coperta — Qui —

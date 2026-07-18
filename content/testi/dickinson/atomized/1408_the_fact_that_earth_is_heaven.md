@@ -22,3 +22,15 @@ Not only must confirm us
 That it is not for us  
 But that it would affront us  
 To dwell in such a place —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Fatto che la Terra sia Cielo —  
+Che il Cielo sia Cielo o no  
+Se non un Affidavit  
+Di quel Luogo preciso  
+Non solo deve confermarci  
+Che non è per noi  
+Ma che ci offenderebbe  
+Dimorare in un simile luogo —

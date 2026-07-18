@@ -28,3 +28,21 @@ I've Rubies — live the Evening [[Blood]] —
 And Topaz — like the star!  
 'Twould be "a Bargain" for a Jew!  
 Say — may I have it — Sir?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Venni a comprare un sorriso — oggi —  
+Ma un solo singolo sorriso —  
+Il più piccolo sul tuo volto  
+Mi andrà altrettanto [[Well|bene]] —  
+Quello che a nessun altro mancherebbe  
+Brillava così minuto —  
+Sto supplicando al "banco" — signore —  
+Potreste permettervi di vendere —  
+Ho Diamanti — sulle dita —  
+Sapete cosa sono i Diamanti?  
+Ho Rubini — come il [[Blood|Sangue]] della Sera —  
+E Topazi — come la stella!  
+Sarebbe "un Affare" per un Ebreo!  
+Dite — posso averlo — Signore?

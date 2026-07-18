@@ -22,3 +22,15 @@ Pausing in Front of our Palsied Faces
 [[Time]] compassion took —  
 Arks of Reprieve he offered to us —  
 Ararats — we took —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Parlavamo l'uno con l'altro l'uno dell'altro  
+Benché nessuno dei due parlasse —  
+Ascoltavamo le Corse dei secondi  
+E gli Zoccoli dell'[[Clock|Orologio]] —  
+Sostando davanti ai nostri Volti Paralizzati  
+Il [[Time|Tempo]] ebbe compassione —  
+Arche di Tregua ci offrì —  
+Ararat — noi prendemmo —

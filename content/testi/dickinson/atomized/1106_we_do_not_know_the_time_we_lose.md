@@ -23,3 +23,16 @@ A firm appearance still inflates
 The card — the chance — the friend —  
 The spectre of solidities  
 Whose substances are sand —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non conosciamo il [[Time|tempo]] che perdiamo —  
+Il momento tremendo è  
+E prende il suo posto fondamentale  
+Tra le certezze —  
+
+Una salda apparenza ancora gonfia  
+La carta — la sorte — l'amico —  
+Lo spettro di solidità  
+Le cui sostanze sono sabbia —

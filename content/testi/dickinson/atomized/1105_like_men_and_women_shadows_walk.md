@@ -22,3 +22,15 @@ To Neighbors doubtless of their own
 Not quickened to perceive  
 Minuter landscape as Ourselves  
 And Boroughs where we live —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come Uomini e Donne le Ombre camminano  
+Sui Colli Oggi —  
+Con qua e là un possente Inchino  
+O una Cortesia strascicata  
+Verso Vicini certo di loro stirpe  
+Non desti a percepire  
+Paesaggio più minuto quali Noi  
+E i Borghi dove viviamo —

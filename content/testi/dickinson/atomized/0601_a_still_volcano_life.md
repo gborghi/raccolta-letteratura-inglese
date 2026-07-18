@@ -28,3 +28,21 @@ The Solemn — Torrid — Symbol —
 The lips that never lie —  
 Whose hissing Corals part — and shut —  
 And Cities — ooze away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una quieta — Vita — di Vulcano —  
+Che guizzava nella [[Night|notte]] —  
+Quando era buio abbastanza per agire  
+Senza cancellare la vista —  
+
+Un placido — Stile di Terremoto —  
+Troppo sottile per sospettarlo  
+Alle nature al di qua di Napoli —  
+Il Nord non sa scorgere  
+
+Il Solenne — Torrido — Simbolo —  
+Le labbra che mai mentono —  
+I cui Coralli sibilanti si aprono — e serrano —  
+E le Città — colano via —

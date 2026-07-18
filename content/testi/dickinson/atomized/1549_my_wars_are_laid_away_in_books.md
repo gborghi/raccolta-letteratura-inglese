@@ -26,3 +26,19 @@ How sweet if I am not forgot
 By Chums that passed away —  
 Since Playmates at threescore and ten  
 Are such a scarcity —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le mie Guerre son riposte nei Libri —  
+Mi resta una Battaglia ancora —  
+Un Nemico che non ho mai visto  
+Ma che spesso mi ha squadrata —  
+E ha esitato fra me  
+E altri al mio fianco,  
+Ma scelse il migliore — Trascurando me — finché  
+Tutti gli altri, son morti —  
+Che dolcezza se non sarò scordata  
+Dai Compagni trapassati —  
+Poiché Compagni di gioco a settant'anni  
+Sono una tale rarità —

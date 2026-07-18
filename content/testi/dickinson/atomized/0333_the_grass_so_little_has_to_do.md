@@ -38,3 +38,31 @@ And then, in Sovereign Barns to dwell —
 And dream the Days away,  
 The Grass so little has to do  
 I wish I were a Hay —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Erba così poco ha da fare —  
+Una Sfera di semplice Verde —  
+Con sole Farfalle da covare  
+E [[Bees|Api]] da intrattenere —  
+
+E ondeggiare tutto il giorno a graziose Melodie  
+Che le Brezze portano con sé —  
+E tenere il Sole in grembo  
+E inchinarsi a ogni cosa —  
+
+E infilare le Rugiade, tutta la [[Night|notte]], come Perle —  
+E farsi così fine  
+Che una Duchessa sarebbe troppo comune  
+Per un tale riguardo —  
+
+E anche quando muore — trapassare  
+In Odori così divini —  
+Come umili spezie, poste a [[Sleep|dormire]] —  
+O Nardi, che periscono —  
+
+E poi, dimorare in Granai Sovrani —  
+E sognare via i Giorni,  
+L'Erba così poco ha da fare  
+Vorrei essere un Fieno —

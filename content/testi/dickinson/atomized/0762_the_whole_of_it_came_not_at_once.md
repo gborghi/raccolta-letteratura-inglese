@@ -28,3 +28,21 @@ Then mashes it to [[Death|death]] —
 Contenteder if once —  
 Than dying half — then rallying  
 For consciouser Eclipse —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Tutto non venne in una volta —  
+Fu Assassinio per gradi —  
+Una Stoccata — e poi per la Vita una possibilità —  
+La Beatitudine di cauterizzare —  
+
+Il Gatto concede tregua al Topo  
+Lo allenta dai suoi denti  
+Quanto basta perché la [[Hope|Speranza]] illuda —  
+Poi lo schiaccia a [[Death|morte]] —  
+
+È il premio della Vita — morire —  
+Più contenti se in una volta —  
+Che morire a metà — poi riaversi  
+Per più consapevole Eclissi —

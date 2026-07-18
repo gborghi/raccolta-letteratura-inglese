@@ -28,3 +28,21 @@ The Shiverers round Farmers' doors —
 For whose reluctant Crumb —  
 We stipulate — till pitying Snows  
 Persuade our Feathers [[Home]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non è che il Morire ci ferisca tanto —  
+È il Vivere — che ci ferisce di più —  
+Ma il Morire — è una via diversa —  
+Una Specie dietro la [[Door|Porta]] —  
+
+L'Usanza del Sud — dell'Uccello —  
+Che prima che i Geli siano attesi —  
+Accetta una Latitudine migliore —  
+Noi — siamo gli [[Birds|Uccelli]] — che restano.  
+
+I Tremanti alle porte dei Contadini —  
+Per la cui Briciola riluttante —  
+Mercanteggiamo — finché Nevi pietose  
+Persuadono le nostre Piume a [[Home|Casa]].

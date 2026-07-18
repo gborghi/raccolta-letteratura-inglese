@@ -23,3 +23,16 @@ No Sinew can afford —
 The Cargo of Themselves —  
 Too infinite for Consciousness'  
 Slow capabilities.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tale è la Forza della Felicità —  
+Il Minimo — può sollevare una Tonnellata  
+Assistito dal suo stimolo —  
+
+Chi la Miseria — sostiene —  
+Nessun Tendine può reggere —  
+Il Carico di Se Stessi —  
+Troppo infinito per le lente  
+Capacità della Coscienza.

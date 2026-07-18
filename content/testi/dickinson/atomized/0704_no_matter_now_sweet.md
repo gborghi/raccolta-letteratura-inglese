@@ -33,3 +33,26 @@ Ermine — my familiar Gown —
 Say — Sweet — then  
 Won't you wish you'd smiled — just —  
 Me upon?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non importa — ora — Dolce —  
+Ma quando sarò Conte —  
+Non vorrai aver parlato  
+A quella scialba Fanciulla?  
+
+Banale una Parola — appena —  
+Banale — un Sorriso —  
+Ma non vorrai averne concesso uno  
+Quando sarò Conte?  
+
+Non ne avrò bisogno — allora —  
+Basteranno — gli Stemmi —  
+Aquile sulle mie Fibbie —  
+Sulla mia Cintura — anche —  
+
+Ermellino — la mia Veste familiare —  
+Di' — Dolce — allora  
+Non vorrai aver sorriso — appena —  
+A me?

@@ -23,3 +23,16 @@ Of Periods of Seas —
 Unvisited of Shores —  
 Themselves the Verge of Seas to be —  
 [[Eternity]] — is Those —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come se il [[Sea|Mare]] si aprisse  
+E mostrasse un ulteriore [[Sea|Mare]] —  
+E quello — un altro ancora — e i Tre  
+Non fossero che presunzione —  
+
+Di Periodi di Mari —  
+Non visitati da Rive —  
+Essi stessi Orlo di Mari a venire —  
+[[Eternity|Eternità]] — è Quelli —

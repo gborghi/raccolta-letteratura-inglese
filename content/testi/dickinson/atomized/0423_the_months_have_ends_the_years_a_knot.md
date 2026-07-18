@@ -30,3 +30,23 @@ The manner of the Children —
 Who weary of the Day —  
 Themself — the noisy Plaything  
 They cannot put away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+I Mesi hanno fini — gli Anni — un nodo —  
+Che nessuna Potenza può sciogliere  
+Per stendere un poco più oltre  
+Una Matassa di Miseria —  
+
+La Terra ripone queste vite stanche  
+Nei suoi Cassetti misteriosi —  
+Troppo teneramente, perché alcuno [[Doubt|dubiti]]  
+Di un estremo Riposo —  
+
+Alla maniera dei Bambini —  
+Che stanchi del Giorno —  
+Essi stessi — il chiassoso Balocco  
+Che non riescono a riporre —

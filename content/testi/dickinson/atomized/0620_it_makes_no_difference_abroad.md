@@ -28,3 +28,21 @@ Auto da Fe — and Judgment —
 Are nothing to the Bee —  
 His separation from His [[Rose]] —  
 To Him — sums Misery —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non fa differenza là fuori —  
+Le [[Seasons|Stagioni]] — calzano — uguali —  
+I Mattini sbocciano in Meriggi —  
+E spaccano i loro Baccelli di Fiamma —  
+
+Selvatici [[Flowers|fiori]] — ardono nei Boschi —  
+I Ruscelli sbattono — tutto il Giorno —  
+Nessun Uccello nero smorza il suo Banjo —  
+Per il Calvario che passa —  
+
+Auto da Fé — e Giudizio —  
+Sono nulla per l'Ape —  
+La sua separazione dalla Sua [[Rose|Rosa]] —  
+Per Lui — somma la Miseria —

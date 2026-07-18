@@ -33,3 +33,26 @@ Behold the keenest marksman-
 The most accomplished host!  
 [[Time]]'s sublimest target  
 Is a [[Soul|soul]] "forgot"!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è una parola  
+Che porta una [[Sword|spada]]  
+Può trafiggere un uomo armato -  
+Scaglia le sue sillabe uncinate  
+Ed è muta di nuovo -  
+Ma dove cadde  
+I Salvati lo diranno  
+Nel giorno patriottico,  
+Qualche Fratello con spalline  
+Rese il suo respiro!
+
+Dovunque corre il [[Sun|sole]] senza fiato -  
+Dovunque vaga il giorno -  
+Là è il suo assalto silenzioso -  
+Là è la sua vittoria!  
+Ecco il tiratore più acuto -  
+La schiera più compiuta!  
+Il bersaglio più sublime del [[Time|Tempo]]  
+È un'[[Soul|anima]] "dimenticata"!

@@ -22,3 +22,15 @@ That purled a moment since with Glee —
 Is it Delight or Woe —  
 Or Terror — that do decorate  
 This livid interview —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La voce di lui decrepita era di [[Joy|Gioia]] —  
+Le parole di lei tanto vacillavano  
+Quanto antica dev'essere la Novella d'[[Love|Amore]]  
+Per rendere vecchie le Labbra  
+Che un momento fa gorgogliavano di Letizia —  
+È Delizia o Pena —  
+O Terrore — ciò che decora  
+Questo livido colloquio —

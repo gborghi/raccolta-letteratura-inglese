@@ -23,3 +23,16 @@ With Us, 'tis Harvest all the Year
 For when the Frosts begin  
 We just reverse the Zodiac  
 And fetch the Acres in.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I Prodotti della mia Fattoria son questi  
+sufficienti per i Miei  
+e qua e là un Beneficio  
+al Granaio d'un Vicino.  
+
+Da Noi, è Raccolto tutto l'Anno  
+ché quando i Geli cominciano  
+noi solo invertiamo lo Zodiaco  
+e portiamo dentro gli Acri.

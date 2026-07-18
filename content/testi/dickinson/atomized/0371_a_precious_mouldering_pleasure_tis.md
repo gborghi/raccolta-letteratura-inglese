@@ -50,3 +50,43 @@ His presence is Enchantment —
 You beg him not to go —  
 Old Volume shake their Vellum Heads  
 And tantalize — just so —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un prezioso — ammuffito piacere — è —  
+Incontrare un Libro Antico —  
+Nell'Abito stesso che il suo Secolo portava —  
+Un privilegio — io penso —  
+
+Prendere la sua Mano venerabile —  
+E scaldandola nella nostra —  
+Fare un passo indietro — o due —  
+Ai Tempi in cui lui — era giovane —  
+
+Le sue curiose opinioni — ispezionare —  
+Il suo pensiero accertare  
+Su Temi che toccano la nostra mente comune —  
+La Letteratura dell'Uomo —  
+
+Cosa interessava di più — gli Studiosi —  
+Quali Competizioni correvano —  
+Quando [[Plato|Platone]] — era una Certezza —  
+E Sofocle — un Uomo —  
+
+Quando Saffo — era Fanciulla viva —  
+E [[Beatrice]] portava  
+La Veste che [[Dante]] — deificò —  
+Fatti di Secoli prima  
+
+Egli attraversa — familiare —  
+Come Uno che venisse in Città —  
+E ti dicesse che tutti i tuoi [[Dreams|Sogni]] — eran veri —  
+Lui visse — dove i [[Dreams|Sogni]] nacquero —  
+
+La sua presenza è Incantesimo —  
+389  
+
+Lo supplichi di non andare —  
+Vecchi Volumi scuotono le Teste di Pergamena  
+E tentano — proprio così —

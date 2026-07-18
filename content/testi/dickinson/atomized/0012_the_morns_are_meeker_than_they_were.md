@@ -23,3 +23,16 @@ The maple wears a gayer scarf -
 The field - a scarlet gown -  
 Lest I sh'd seem old fashioned  
 I'll put a trinket on!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le mattine sono più miti di un tempo -  
+Le noci si fanno brune -  
+La guancia della bacca è più paffuta -  
+La [[Rose|Rosa]] è fuori città -
+
+L'acero porta una sciarpa più gaia -  
+Il campo - una veste scarlatta -  
+Perché io non sembri fuori moda  
+Mi metterò un monile!

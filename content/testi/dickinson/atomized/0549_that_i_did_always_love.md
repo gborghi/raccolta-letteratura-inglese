@@ -28,3 +28,21 @@ This — dost thou [[Doubt|doubt]] — Sweet —
 Then have I  
 Nothing to show  
 But Calvary —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che io abbia sempre [[Love|amato]]  
+Ti porto Prova  
+Che finché non amai  
+Non vissi mai — Abbastanza —  
+
+Che io [[Love|amerò]] per sempre —  
+Ti argomento  
+Che l'[[Love|amore]] è vita —  
+E la vita ha [[Immortality|Immortalità]] —  
+
+Questo — lo [[Doubt|dubiti]] — Dolce —  
+Allora non ho  
+Nulla da mostrare  
+Se non il Calvario —

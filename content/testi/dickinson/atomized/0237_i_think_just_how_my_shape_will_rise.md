@@ -33,3 +33,26 @@ And so I con that thing — "forgiven" —
 Until — delirious — borne —  
 By my long bright — and longer — trust —  
 I drop my Heart — unshriven!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Penso proprio a come la mia forma sorgerà —  
+Quando sarò "perdonata" —  
+Finché Capelli — e Occhi — e timido Capo —  
+Non siano fuori vista — in Cielo —  
+
+Penso proprio a come peseranno le mie labbra —  
+Di informe — tremante — [[prayer|preghiera]] —  
+Perché tu — così tardi — mi "Consideri" —  
+Il "Passero" della tua Cura —  
+
+Rammento che dell'Angoscia — mandata —  
+Alcuni cumuli furono spostati via —  
+Prima che il mio semplice petto — si spezzasse —  
+E perché non questa — se quelli?  
+
+E così ripeto quella cosa — "perdonata" —  
+Finché — delirante — sorretta —  
+Dalla mia lunga luminosa — e più lunga — fiducia —  
+Lascio cadere il mio Cuore — senza assoluzione!

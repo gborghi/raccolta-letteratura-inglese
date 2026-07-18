@@ -50,3 +50,43 @@ He — must pass the Crystal Angle
 That obscure Her face —  
 He — must have achieved in person  
 Equal Paradise —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Suo Dolce turno di lasciare la Dimora  
+Venne per la Via più Oscura —  
+Carrozze — di Certo — e Ospiti — anche —  
+Ma per Festa  
+
+È Impresa più pietosa  
+Di quella del Carico [[Sea|Mare]]  
+Che sui Ricci tentò capriole  
+Che aveva gettato via —  
+
+Mai Sposa ebbe tale Adunanza —  
+Mai parenti s'inginocchiarono  
+A salutare una Fronte così bella —  
+Ghirlanda sia davvero —  
+
+Più adatti i Piedi — di Lei dinanzi a noi —  
+Di qualunque Fronte  
+Arte di [[Snow|Neve]] — o Inganno di Giglio  
+Possano mai concedere  
+
+Del Padre Suo — Chiunque Le chieda —  
+Egli cercherà tanto in alto  
+Quanto la Palma — che serve il [[Desert|Deserto]] —  
+Per ottenere il Cielo —  
+
+Distanza — sia il Suo solo Moto —  
+Se è No — oppure Sì —  
+Acquiescenza — o Diniego —  
+Chiunque indovini —  
+
+Egli — deve passare l'Angolo di Cristallo  
+687  
+
+Che oscura il Suo volto —  
+Egli — deve avere raggiunto in persona  
+Eguale Paradiso —

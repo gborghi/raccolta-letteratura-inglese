@@ -29,3 +29,22 @@ That scalps your naked [[Soul]] —
 
 When Winds take Forests in the Paws —  
 The Universe — is still —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Egli brancica alla tua [[Soul|Anima]]  
+Come i Suonatori sui Tasti  
+Prima di calarvi la Musica piena —  
+Ti stordisce per gradi —  
+Prepara la tua fragile [[Nature|Natura]]  
+Al Colpo Etereo  
+Con Martelli più fiochi — uditi più lontano —  
+Poi più vicini — Poi così lenti  
+Che il tuo Respiro ha [[Time|tempo]] di raddrizzarsi —  
+Il tuo Cervello — di gorgogliare Fresco —  
+Vibra — Una — imperiale — Folgore —  
+Che scotenna la tua nuda [[Soul|Anima]] —  
+
+Quando i Venti prendono le Foreste nelle Zampe —  
+L'Universo — è immoto —

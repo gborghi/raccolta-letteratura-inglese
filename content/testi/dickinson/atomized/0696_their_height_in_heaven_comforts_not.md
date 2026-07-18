@@ -33,3 +33,26 @@ Better than larger values —
 That show however true —  
 This timid life of Evidence  
 Keeps pleading — "I don't know."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La loro Altezza in Cielo non consola —  
+La loro Gloria — nulla per me —  
+Era meglio imperfetto — com'era —  
+Sono finita — non posso vedere —  
+
+La [[house|Casa]] della Supposizione —  
+La Frontiera Baluginante che  
+Rasenta gli Acri del Forse —  
+A Me — appare malsicura —  
+
+La Ricchezza che avevo — mi contentava —  
+Se era di più modesta misura —  
+Pure l'avevo contata finché  
+Piacque ai miei stretti Occhi —  
+
+Meglio di valori più grandi —  
+Che per quanto veri si mostrino —  
+Questa timida vita di Evidenza  
+Seguita a supplicare — "Non so."

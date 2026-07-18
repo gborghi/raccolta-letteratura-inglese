@@ -23,3 +23,16 @@ With Martial Hand she strokes the Hair
 Upon my wincing Head —  
 "All" Rogues "shall have their part in" what —  
 The Phosphorous of [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi cerca il mio Guanciale la Notte —  
+Con schietto volto indagatore —  
+"L'hai fatto" o "Non l'hai fatto," a chiedere —  
+È la "[[Conscience|Coscienza]]" — dell'[[Childhood|Infanzia]] la [[Nurse|Nutrice]] —  
+
+Con Mano Marziale liscia i Capelli  
+Sul mio Capo che trasale —  
+"Tutti" i Furfanti "avranno la loro parte in" cosa —  
+Il Fosforo di [[God|Dio]] —

@@ -38,3 +38,31 @@ And the Mountain to the Evening
 Fit His Countenance —  
 Indicating, by no Muscle —  
 The Experience —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fioritura sulla Montagna — dichiarata —  
+Innocente d'un Nome —  
+Efflorescenza d'un Tramonto —  
+Riprodotta — uguale —  
+
+Se avessi Seme, la mia Semina di Porpora  
+Doterebbe il Giorno —  
+Non un Tema di Crepuscolo —  
+Si mostrerebbe per svanire —  
+
+Chi per arare — alla Montagna  
+Viene, e scompare —  
+Di chi sia la Sua Fama, o il declino,  
+Testimone, qui non c'è —  
+
+Mentre io dichiaro — i Petali Solenni,  
+Fino al Nord — e all'Est,  
+Fino al Sud e all'Ovest — espandendosi —  
+Culminano — in Riposo —  
+
+E la Montagna alla Sera  
+Adatta il Suo Volto —  
+Senza indicare, con Muscolo alcuno —  
+L'Esperienza —

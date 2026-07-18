@@ -26,3 +26,19 @@ Or that that went to [[Sleep|sleep]]
 
 With "if I could" endeavoring  
 Without the strength to shape?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi sente più la mancanza,  
+La mano che accudisce,  
+O il cuore così dolcemente portato,  
+Ch'è due volte più greve di com'era  
+Perché la mano è andata?  
+
+Chi benedice più,  
+Il labbro che può,  
+O quello che andò a [[Sleep|dormire]]  
+
+Con "se potessi" sforzandosi  
+Senza la forza di dar forma?

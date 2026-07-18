@@ -33,3 +33,26 @@ Yet might — by relation
 To that Repealless thing —  
 A Being — impotent to end —  
 When once it has begun —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un'Angoscia — in una Folla —  
+Una Cosa Minore — a udirla —  
+Eppure, per la singola Cerbiatta  
+Assalita dai Segugi  
+
+È Terrore consumato  
+Come se Legioni d'Allarme  
+Balzassero, a ranghi pieni, sull'Esercito —  
+Sono le Unità — a fare lo Sciame —  
+
+Una piccola Sanguisuga — sui Visceri —  
+La scheggia, nel Polmone —  
+Il Tappo tolto — a un'Arteria —  
+Contano appena — come Danni —  
+
+Eppure potrebbero — in rapporto  
+A quella cosa Irrevocabile —  
+Un Essere — impotente a finire —  
+Una volta che è cominciato —

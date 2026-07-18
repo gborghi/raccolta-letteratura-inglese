@@ -26,3 +26,19 @@ To hide my strategy too late
 To wiser be too soon —  
 For miseries so halcyon  
 The happiness atone —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Pensavo che il Treno non venisse mai —  
+Che lento cantava il fischio —  
+Non credo che un Uccello stizzoso  
+Così piagnucolasse per la [[spring|Primavera]] —  
+Insegnai al mio Cuore cento volte  
+Esattamente cosa dire —  
+Provocante [[Lover|Amante]], quando venisti  
+Il suo Trattato volò via  
+Per celare la mia strategia troppo tardi  
+Per esser più saggia troppo presto —  
+Ché miserie così alcionie  
+La felicità le espia —

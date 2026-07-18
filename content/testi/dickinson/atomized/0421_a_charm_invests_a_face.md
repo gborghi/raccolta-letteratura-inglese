@@ -23,3 +23,16 @@ But peers beyond her mesh —
 And wishes — and denies —  
 Lest Interview — annul a want  
 That Image — satisfies —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Fascino riveste un volto  
+Imperfettamente scorto —  
+La Dama non osa alzare il Velo  
+Per [[Fear|timore]] che si dissolva —  
+
+Ma spia oltre la sua trama —  
+E desidera — e nega —  
+Perché il Colloquio — non annulli una brama  
+Che l'Immagine — appaga —

@@ -39,3 +39,32 @@ Till I could take the Balance
 That tips so frequent, now,  
 It takes me all the while to poise —  
 And then — it doesn't stay —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Pregavo, all'inizio, Bambina,  
+Perché mi dicevano di farlo —  
+Ma smisi, quando in grado d'intuire  
+Cosa sarebbe la [[prayer|preghiera]] — per me —  
+
+Se credevo che [[God|Dio]] si guardasse intorno,  
+Ogni [[Time|volta]] che il mio occhio di Bimba  
+Si fissava pieno, e fermo, sul suo  
+Con onestà di Bimba —  
+
+E gli dicevo cosa avrei voluto, oggi,  
+E parti del suo piano remoto  
+Che mi confondevano —  
+Il lato commisto  
+Della sua Divinità —  
+
+E spesso da allora, nel Pericolo,  
+Calcolo la forza che sarebbe  
+Avere un [[God|Dio]] così forte  
+Da reggere la mia vita per me  
+
+Finché potessi prendere la Bilancia  
+Che trabocca così spesso, ora,  
+Che mi ci vuole tutto il tempo a librarla —  
+E poi — non resta ferma —

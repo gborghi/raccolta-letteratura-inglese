@@ -33,3 +33,26 @@ Her Memories like Strains — Review —
 When Orchestra is dumb —  
 The Violin in Baize replaced —  
 And Ear — and Heaven — numb —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come un Qualche Miracolo all'Antica  
+Quando la Stagione estiva è compiuta —  
+Pare il Ricordo dell'[[Summer|Estate]]  
+E le Vicende di Giugno  
+
+Tanto infinita [[Tradition|Tradizione]]  
+Quanto gli Allori di Cenerentola —  
+O Little John — in Verde di [[Lincoln]] —  
+O le Gallerie di Barbablù —  
+
+Le sue [[Bees|Api]] hanno un Ronzio fittizio —  
+I suoi Fiori, come [[A Dream|un Sogno]] —  
+Ci esaltano — fin quasi al pianto —  
+Così plausibili — sembrano —  
+
+Le sue Memorie come Melodie — Ritornano —  
+Quando l'Orchestra è muta —  
+Il Violino riposto nel suo Panno —  
+E Orecchio — e Cielo — attoniti —

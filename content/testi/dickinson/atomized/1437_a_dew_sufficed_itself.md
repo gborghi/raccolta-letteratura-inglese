@@ -33,3 +33,26 @@ Attested to this Day
 That awful [[Tragedy]]  
 By Transport's instability  
 And Doom's celerity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una [[Dew|Rugiada]] bastò a se stessa —  
+E appagò una Foglia  
+E sentì «che vasto destino» —  
+«Com'è misera la Vita!»  
+
+Il [[Sun|Sole]] uscì al lavoro —  
+Il Giorno uscì a giocare  
+E mai più quella [[Dew|Rugiada]] fu vista  
+Dalla Fisionomia  
+
+Se dal Giorno Rapita  
+O prosciugata dal [[Sun|Sole]]  
+Nel [[Sea|Mare]] passando  
+Eternamente ignoto  
+
+Attestano a tutt'oggi  
+Quell'orrenda [[Tragedy|Tragedia]]  
+L'instabilità del Trasporto  
+E la celerità del Fato.

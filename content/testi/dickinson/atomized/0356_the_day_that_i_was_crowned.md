@@ -33,3 +33,26 @@ The Grace that I — was chose —
 To Me — surpassed the [[Crown]]  
 That was the Witness for the Grace —  
 'Twas even that 'twas Mine —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Giorno in cui fui incoronata  
+Era come gli altri Giorni —  
+Finché non venne l'Incoronazione —  
+E allora — fu Altrimenti —  
+
+Come il Carbonio nel Carbone  
+E il Carbonio nella Gemma  
+Sono Uno — eppure il primo  
+Sarebbe spento per un Diadema —  
+
+Mi [[Rose|alzai]], e tutto era piano —  
+Ma quando il Giorno declinò  
+Io ed Esso, in Maestà  
+Fummo egualmente — adornati —  
+
+La Grazia che io — fui scelta —  
+Per Me — superava la [[Crown|Corona]]  
+Che era il Testimone della Grazia —  
+Fu proprio il fatto che fosse Mia —

@@ -48,3 +48,41 @@ We would not have Correct —
 
 And [[Immortality]] — can be almost —  
 Not quite — Content —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sono pensieri — e un solo Cuore —  
+E Vecchio Sole — intorno —  
+A far — i frugali — Contenti —  
+E due o tre — per Compagnia —  
+In un giorno di Festa —  
+Affollato — come Sacramento —  
+
+Libri — quando l'Unità —  
+Risparmi l'Inquilino — abbastanza a lungo —  
+Un Quadro — se gli Importa —  
+Esso stesso — Galleria troppo rara —  
+Per volerne di più —  
+
+[[Flowers|Fiori]] — per non far gli Occhi — impacciati —  
+Quando nevica —  
+Un Uccello — se loro — preferiscono —  
+Benché d'[[Winter|Inverno]] il [[Fire|fuoco]] — canti chiaro come Piviere —  
+Al nostro — orecchio —  
+
+Un Paesaggio — non così grande  
+Da soffocare l'Occhio —  
+Una [[Hill|Collina]] — forse —  
+Forse — il profilo di un Mulino  
+Girato dal [[Wind|Vento]] —  
+Benché questi — siano lussi —  
+
+Sono pensieri — e solo due Cuore —  
+E il Cielo — intorno —  
+Almeno — una Contraffazione —  
+Che non vorremmo Corretta —  
+521  
+
+E l'[[Immortality|Immortalità]] — può essere quasi —  
+Non del tutto — Contenta —

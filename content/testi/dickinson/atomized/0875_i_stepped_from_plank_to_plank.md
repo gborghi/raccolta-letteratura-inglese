@@ -23,3 +23,16 @@ I knew not but the next
 Would be my final inch —  
 This gave me that precarious Gait  
 Some call Experience.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Passavo di Asse in Asse  
+Con andare lento e cauto  
+Le [[Stars|Stelle]] intorno al Capo sentivo  
+Intorno ai Piedi il [[Sea|Mare]].  
+
+Non sapevo se il prossimo  
+Sarebbe stato il mio pollice finale —  
+Questo mi diede quell'Andatura precaria  
+Che alcuni chiamano Esperienza.

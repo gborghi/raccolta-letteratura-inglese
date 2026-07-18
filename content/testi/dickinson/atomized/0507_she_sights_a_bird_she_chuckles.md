@@ -28,3 +28,21 @@ The Hopes so juicy ripening —
 You almost bathed your Tongue —  
 When Bliss disclosed a hundred Toes —  
 And fled with every one —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avvista un Uccello — ridacchia —  
+Si appiattisce — poi striscia —  
+Corre senza parvenza di zampe —  
+I suoi occhi si dilatano in Globi —  
+
+Le sue Mascelle fremono — contratte — affamate —  
+I suoi Denti quasi non resistono —  
+Balza, ma il Pettirosso balzò per primo —  
+Ah, Micia, della Sabbia,  
+
+Le Speranze che maturavano sì succose —  
+Quasi vi bagnasti la Lingua —  
+Quando la Beatitudine svelò cento Dita —  
+E fuggì con ognuna —

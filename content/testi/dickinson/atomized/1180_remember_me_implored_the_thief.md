@@ -28,3 +28,21 @@ Of all we are allowed to [[Hope|hope]]
 But Affidavit stands  
 That this was due where most we [[Fear|fear]]  
 Be unexpected Friends.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Ricordati di me" implorò il Ladro!  
+Oh Ospitalità!  
+Mio Ospite "Oggi in Paradiso"  
+Io ti do garanzia.  
+
+Che la Cortesia rimarrà intatta  
+Quando la Delizia sarà [[Dust|Polvere]]  
+Con cui citiamo questo supremo caso  
+Di Fiducia ricompensata.  
+
+Di tutto ciò che ci è dato [[Hope|sperare]]  
+Solo l'Affidavit sta  
+Che ciò era dovuto dove più [[Fear|temiamo]]  
+Siano inattesi Amici.

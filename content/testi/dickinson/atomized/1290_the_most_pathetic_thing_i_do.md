@@ -22,3 +22,15 @@ But when I break it with the news
 You knew it was not true  
 I wish I had not broken it —  
 Goliah — so would you —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La cosa più patetica che faccio  
+È fingere che ho tue notizie —  
+Fingo finché il mio Cuore  
+Quasi ci crede anch'esso  
+Ma quando lo spezzo con la notizia  
+Che tu sapevi non era vero  
+Vorrei non averlo spezzato —  
+Golia — anche tu lo vorresti —

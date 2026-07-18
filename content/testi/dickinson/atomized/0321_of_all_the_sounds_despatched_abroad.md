@@ -51,3 +51,44 @@ Off Deserts, in the Sky,
 Had parted Rank,  
 Then knit, and swept —  
 In Seamless Company —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di tutti i Suoni spediti per il mondo,  
+Non c'è Carica per me  
+Come quell'antica misura tra i Rami —  
+Quella Melodia senza frase —  
+Che il [[Wind]] fa — operando come una Mano,  
+Le cui dita Pettinano il Cielo —  
+Poi tremano giù — con ciuffi di Melodia —  
+Concessa agli Dei, e a me —  
+
+Eredità, essa è, per noi —  
+Oltre l'Arte di Guadagnarla —  
+Oltre il tratto che può sottrarre  
+Il Ladro, poiché il Guadagno  
+Non è ottenuto dalle dita —  
+Ed è più interno dell'Osso —  
+Nascosto d'oro, per l'intero dei Giorni,  
+E persino nell'Urna,  
+Non posso giurare che la gaia [[Dust]]  
+Non si levi e giochi  
+In qualche strana foggia tutta sua,  
+Qualche più bizzarra Festa,  
+Quando i Venti girano in tondo a Bande —  
+E tamburellano sulla [[Door|porta]],  
+E [[Birds]] prendono posto, lassù,  
+A far loro da Orchestra.  
+
+Invoco per Lui grazia di Rami d'[[Summer]],  
+Se un tale Reietto esista —  
+Che mai udì quel Canto senza carne —  
+Levarsi — solenne — sul [[Tree]],  
+Come se qualche Carovana di Suono  
+335  
+
+Via dai Deserti, nel Cielo,  
+Avesse rotto le File,  
+Poi riannodato, e spazzato via —  
+In Compagnia senza Cuciture —

@@ -33,3 +33,26 @@ Taught Me — by [[Time]] — the lower Way —
 Conviction — Every day —  
 That Life like This — is stopless —  
 Be Judgment — what it may —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vivo con Lui — vedo il Suo volto —  
+Non vado più via  
+Per Visita — o Tramonto —  
+Sola intimità della [[Death|Morte]]  
+
+L'Unico — che precede la Mia —  
+E ciò — per il Diritto ch'Egli  
+Presenta una Pretesa invisibile —  
+Nessun connubio — a Me concesso —  
+
+Vivo con Lui — odo la Sua Voce —  
+Sto in vita — Oggi —  
+A testimoniare la Certezza  
+Dell'[[Immortality|Immortalità]] —  
+
+Insegnata a Me — dal [[Time|Tempo]] — la Via più bassa —  
+Convinzione — Ogni giorno —  
+Che una Vita come Questa — non ha sosta —  
+Sia il Giudizio — ciò che vuole —

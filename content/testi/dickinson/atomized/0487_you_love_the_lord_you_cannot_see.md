@@ -23,3 +23,16 @@ An Ample [[Letter]] — How you miss —
 And would delight to see —  
 But then His [[house|House]] — is but a Step —  
 And Mine's — in Heaven — You see.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tu [[Love|ami]] il Signore — che non puoi vedere —  
+Gli scrivi — ogni giorno —  
+Un biglietto — quando ti svegli —  
+E più avanti nel Giorno.  
+
+Un'Ampia [[Letter|Lettera]] — Quanto ti manca —  
+E che delizia sarebbe vederla —  
+Ma la Sua [[house|Casa]] — è solo un Passo —  
+E la Mia — è in Cielo — Vedi.

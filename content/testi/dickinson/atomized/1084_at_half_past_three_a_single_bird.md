@@ -28,3 +28,21 @@ At Half past Seven, Element
 Nor Implement, be seen —  
 And Place was where the Presence was  
 Circumference between.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alle Tre e mezza, un solo Uccello  
+A un Cielo silenzioso  
+Propose soltanto un solo termine  
+Di cauta melodia.  
+
+Alle Quattro e mezza, l'Esperimento  
+Aveva soggiogato la prova  
+Ed ecco, il Suo argenteo Principio  
+Soppiantò tutto il resto.  
+
+Alle Sette e mezza, né Elemento  
+Né Strumento, si scorge —  
+E il Luogo era dove la Presenza era stata  
+Circonferenza in mezzo.

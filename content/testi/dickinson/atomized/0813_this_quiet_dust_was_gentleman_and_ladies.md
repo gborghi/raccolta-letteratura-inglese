@@ -23,3 +23,16 @@ This Passive Place a [[Summer]]'s nimble mansion
 Where Bloom and [[Bees]]  
 Exists an Oriental Circuit  
 Then cease, like these —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa quieta [[Dust|Polvere]] fu Gentiluomini e Dame  
+E Ragazzi e Fanciulle —  
+Fu riso e talento e Sospiri  
+E Vesti e Riccioli.  
+
+Questo Luogo Passivo agile dimora dell'[[Summer|Estate]]  
+Dove Fioritura e [[Bees|Api]]  
+Esiste un Circuito Orientale  
+Poi cessano, come questi —

@@ -57,3 +57,50 @@ As old as thee — how soon?
 One — Birthday more — or Ten?  
 Let me — choose!  
 Ah, Sir, None!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Anno fa — annota cosa?  
+[[God|Dio]] — sillaba la parola! Io — non posso —  
+Fu Grazia? Non quello —  
+Fu Gloria? Quello — andrà bene —  
+Sillaba più piano — Gloria —  
+
+Tale Anniversario sarà —  
+A volte — non spesso — nell'[[Eternity|Eternità]] —  
+Quando più Divisi, che dal comune Dolore —  
+Guarda — si nutrono l'uno del volto dell'altro — così —  
+In pasto dubbioso, se sia possibile  
+Che il loro Banchetto sia vero —  
+
+Assaggiai — incurante — allora —  
+Non sapevo che il Vino  
+Venisse una volta per Mondo — Tu lo sapevi?  
+Oh, me l'avessi detto —  
+Questa Sete brucerebbe — più lieve — ora —  
+Dicesti che a te doleva — di più —  
+Il mio — era un Petto di Ghianda —  
+E non poteva sapere come cresce l'affetto  
+In più Irsuta Veste —  
+Forse — non potevo —  
+Ma, avessi tu guardato dentro —  
+Un Gigante — occhio a occhio con te, ci sarebbe stato —  
+Non Ghianda — allora —  
+
+Così — Dodici mesi fa —  
+Respirammo —  
+Poi lasciammo cadere l'Aria —  
+Chi la resse meglio?  
+308  
+
+Fu questa — la più paziente —  
+Perché era un [[Child|Bambino]], sai —  
+E non sapeva valutare — l'Aria?  
+
+Se essere "Maggiore" — significa più [[Pain|pena]] —  
+Sono abbastanza vecchia, oggi, ne son certa — allora —  
+Vecchia quanto te — fra quanto?  
+Un — Compleanno ancora — o Dieci?  
+Lascia — ch'io scelga!  
+Ah, Signore, Nessuno!

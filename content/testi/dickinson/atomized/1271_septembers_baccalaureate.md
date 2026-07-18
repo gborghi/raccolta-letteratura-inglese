@@ -23,3 +23,16 @@ That hints without assuming —
 An Innuendo sear  
 That makes the Heart put up its Fun  
 And turn Philosopher.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Baccalaureato di Settembre  
+Una combinazione è  
+Di Grilli — Corvi — e Retrospetti  
+E una Brezza dissimulatrice  
+
+Che allude senza presumere —  
+Un'Insinuazione riarsa  
+Che fa al Cuore riporre il suo Svago  
+E volgersi Filosofo.

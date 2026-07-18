@@ -33,3 +33,26 @@ Then — too — be comprehended —
 What sorer — puzzled me —  
 Why Heaven did not break away —  
 And tumble — Blue — on me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi turbava poiché un tempo ero —  
+Perché un tempo ero [[Child|Bambina]] —  
+Concludendo come un Atomo — cadesse —  
+E pure i Cieli — reggessero —  
+
+I Cieli pesavano di più — di gran lunga —  
+Eppure Azzurri — e saldi — stavano —  
+Senza un Bullone — che io potessi provare —  
+Capirebbero — i Giganti?  
+
+La Vita mi pose — problemi più grandi —  
+Alcuni li serberò — da risolvere  
+Finché l'Algebra non sia più facile —  
+O dimostrata più semplice — lassù —  
+
+Allora — anche — sarà compreso —  
+Ciò che più aspro — mi confondeva —  
+Perché il Cielo non si staccasse —  
+E rovinasse — Azzurro — su di me —

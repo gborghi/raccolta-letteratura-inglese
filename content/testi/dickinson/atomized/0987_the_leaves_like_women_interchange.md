@@ -23,3 +23,16 @@ The Parties in both cases
 Enjoining secrecy —  
 Inviolable compact  
 To notoriety.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le [[Leaves|Foglie]] come Donne si scambiano  
+Confidenza Esclusiva —  
+Un poco di cenni e un poco  
+Portentosa inferenza.  
+
+Le Parti in entrambi i casi  
+Ingiungono segretezza —  
+Patto inviolabile  
+Verso la notorietà.

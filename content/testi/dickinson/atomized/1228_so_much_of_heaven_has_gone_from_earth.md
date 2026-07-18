@@ -28,3 +28,21 @@ Too much of Proof affronts Belief
 The Turtle will not try  
 Unless you leave him — then return  
 And he has hauled away.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tanto di Cielo se n'è andato dalla Terra  
+Che un Cielo deve esserci  
+Non fosse che a racchiudere i Santi  
+Per Affidavit attestati.  
+
+Il Missionario presso la Talpa  
+Deve provare che esiste un Firmamento  
+La Posizione senza dubbio addurrebbe  
+Ma io che scusa ho?  
+
+Troppa Prova offende la Fede  
+La Tartaruga non ci prova  
+Se non la lasci — e poi ritorni  
+E lei si è trascinata via.

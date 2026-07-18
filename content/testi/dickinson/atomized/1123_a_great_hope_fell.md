@@ -34,3 +34,27 @@ A closing of the simple lid
 That opened to the [[Sun|sun]]  
 Until the tender Carpenter  
 Perpetual nail it down —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una grande [[Hope|Speranza]] cadde  
+Non udisti rumore  
+La Rovina era dentro  
+Oh scaltro naufragio che non narrò storia  
+E non lasciò entrare Testimone  
+
+La mente fu costruita per possente Carico  
+Progettata per l'occasione tremenda  
+Quante volte naufraga in [[Sea|Mare]]  
+In apparenza, sulla Terra  
+
+Un non ammettere la ferita  
+Finché si fece così larga  
+Che tutta la mia Vita vi era entrata  
+E c'erano abissi accanto  
+
+Un chiudersi del semplice coperchio  
+Che si apriva al [[Sun|sole]]  
+Finché il tenero Falegname  
+Perpetuo non lo inchiodi —

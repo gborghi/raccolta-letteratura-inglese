@@ -34,3 +34,27 @@ And if it had not been so far —
 And any one I knew  
 Were going — I had often thought  
 How noteless — I could die —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ero la più minuta della [[house|Casa]] —  
+Presi la Stanza più piccola —  
+A [[Night|notte]], il mio piccolo Lume, e il Libro —  
+E un Geranio —  
+
+Così appostata potevo cogliere la Zecca  
+Che mai cessava di cadere —  
+E solo il mio Cestino —  
+Lasciatemi pensare — ne sono certa —  
+Che questo era tutto —  
+
+Non parlavo mai — se non interpellata —  
+E allora, era breve e sommesso —  
+Non potevo sopportare di vivere — ad alta voce —  
+Tanto il Chiasso mi faceva vergogna —  
+
+E se non fosse stato così lontano —  
+E qualcuno ch'io conoscessi  
+Vi andasse — avevo spesso pensato  
+Come senza nota — potessi morire —

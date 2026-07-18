@@ -38,3 +38,31 @@ And then to lay them quiet back —
 And go about its care —  
 As if the little Ebon Box  
 Were none of our affair!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+In Cofanetto d'Ebano, quando gli anni saranno volati  
+Scrutare con reverenza,  
+Detergendo la vellutata [[Dust|polvere]]  
+Che le Estati vi hanno sparso!  
+
+Tenere una [[Letter|lettera]] contro la luce —  
+Fatta ormai Fulva, dal [[Time|tempo]] —  
+Compitare le sillabe sbiadite  
+Che ci accesero come Vino!  
+
+Forse d'un Fiore la guancia avvizzita  
+Tra le sue scorte trovare —  
+Colto lontano, un mattino —  
+Da galante — marcescente mano!  
+
+Un ricciolo, forse, da fronti  
+Che la nostra Costanza dimenticò —  
+Forse, un Antico monile —  
+Montato in fogge svanite!  
+
+E poi riporli quieti —  
+E tornare alle proprie cure —  
+Come se il piccolo Cofanetto d'Ebano  
+Non fosse affar nostro!

@@ -28,3 +28,21 @@ To lack — enamor Thee —
 Tho' the Divinity —  
 Be only  
 Me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sono gli Opposti — che adescano —  
+Gli Uomini Deformi — meditano la Grazia —  
+Fuochi vivi — chi è Senza coperta —  
+Gli Smarriti — il volto del Giorno —  
+
+I Ciechi — stimano che sia  
+Patrimonio Bastante — il vedere —  
+Il Prigioniero — soffoca di nuovo —  
+Nel credere — che i Mendichi — giochino —  
+
+Mancare — Ti innamora —  
+Benché la Divinità —  
+Sia soltanto  
+Io —

@@ -24,3 +24,17 @@ Grapples with a Theme stubborn as [[Sublime]]
 Able as the [[Dust]] to equip its feature  
 Adequate as Drums  
 To enlist the Tomb.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alcuni non li vediamo più, Dimore di [[Wonder|Meraviglia]]  
+Occupano per noi benché forse per loro  
+Più semplici siano i Giorni della Supposizione  
+Che ci lasciano presumere  
+
+Quell'obliqua Credenza che chiamiamo Congettura  
+Si avvinghia a un Tema ostinato come il [[Sublime]]  
+Capace come la [[Dust|Polvere]] di armarne il volto  
+Adeguata come Tamburi  
+Ad arruolare la Tomba.

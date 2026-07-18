@@ -23,3 +23,16 @@ The Martyr Painters — never spoke —
 Bequeathing — rather — to their Work —  
 That when their conscious fingers cease —  
 Some seek in Art — the Art of Peace —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I Poeti Martiri — non dissero —  
+Ma forgiarono in sillaba il loro Spasimo —  
+Ché quando il loro nome mortale sia muto —  
+La loro sorte mortale — incoraggi Alcuni —  
+
+I Pittori Martiri — mai parlarono —  
+Legando — piuttosto — alla loro Opera —  
+Ché quando le loro dita consapevoli cessano —  
+Alcuni cerchino nell'Arte — l'Arte della Pace —

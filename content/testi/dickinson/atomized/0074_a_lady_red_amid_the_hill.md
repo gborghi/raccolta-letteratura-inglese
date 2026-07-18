@@ -33,3 +33,26 @@ And yet, how still the Landscape stands!
 How nonchalant the Hedge!  
 As if the "[[Resurrection]]"  
 Were nothing very strange!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Dama rossa — fra la [[Hill|Collina]]  
+Il suo annuale segreto serba!  
+Una Dama bianca, dentro il Campo  
+In placido Giglio dorme!  
+
+Le linde Brezze, con le loro Scope —  
+Spazzano valle — e [[Hill|collina]] — e [[Tree|albero]]!  
+Vi prego, Mie graziose Massaie!  
+Chi mai sarà l'atteso?  
+
+I Vicini ancora non sospettano!  
+I Boschi si scambiano un sorriso!  
+Frutteto, e Ranuncolo, e Uccello —  
+Fra così poco tempo!  
+
+Eppure, com'è immoto il Paesaggio!  
+Com'è noncurante la Siepe!  
+Come se la "[[Resurrection|Resurrezione]]"  
+Non fosse nulla di molto strano!

@@ -23,3 +23,16 @@ The [[Sun]] went up — no Man looked on —
 The Earth and I and One  
 A nameless Bird — a Stranger  
 Were Witness for the [[Crown]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Sun|Sole]] calò — nessun Uomo guardava —  
+La Terra ed io, [[Alone|soli]],  
+Eravamo presenti alla Maestà —  
+Egli trionfò, e proseguì —  
+
+Il [[Sun|Sole]] sorse — nessun Uomo guardava —  
+La Terra ed io e Uno  
+Un Uccello senza nome — uno Straniero  
+Fummo Testimoni per la [[Crown|Corona]] —

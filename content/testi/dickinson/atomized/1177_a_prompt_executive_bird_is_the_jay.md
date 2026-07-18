@@ -23,3 +23,16 @@ Sitting a Bough like a Brigadier
 Confident and straight —  
 Much is the mien of him in March  
 As a Magistrate —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un pronto — esecutivo Uccello è la Ghiandaia —  
+Audace come l'[[Hymn|Inno]] d'un Balivo —  
+Fragile e Breve di qualità —  
+Mandato in ogni linea —  
+
+Siede su un Ramo come un Brigadiere  
+Sicura e diritta —  
+Molto è il suo contegno in Marzo  
+Quale un Magistrato —

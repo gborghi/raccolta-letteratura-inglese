@@ -23,3 +23,16 @@ How cordial is the mystery!
 The hospitable Pall  
 A "this way" beckons spaciously —  
 A Miracle for all!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuna Vita può trapassare senza pompa —  
+La più umile carriera  
+Verso lo stesso Corteo si avvia  
+Di quella qui esaltata —  
+
+Com'è cordiale il mistero!  
+L'ospitale Drappo funebre  
+Un "per di qua" accenna con ampiezza —  
+Un Miracolo per tutti!

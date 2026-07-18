@@ -23,3 +23,16 @@ In [[Cave]] if I presumed to hide
 The Walls — begun to tell —  
 Creation seemed a mighty Crack —  
 To make me visible —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al mio orecchio pronto le [[Leaves|Foglie]] — confabularono —  
+I Cespugli — erano [[Bells|Campane]] —  
+Non potevo trovare un Riparo  
+Dalle sentinelle della [[Nature|Natura]] —  
+
+Se in [[Cave|Grotta]] presumevo di celarmi  
+Le Pareti — presero a dire —  
+Il Creato pareva un possente Crepaccio —  
+Per farmi visibile —

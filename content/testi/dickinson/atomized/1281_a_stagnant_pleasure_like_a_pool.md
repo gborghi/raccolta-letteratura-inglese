@@ -23,3 +23,16 @@ Impeding navigation bright
 Of Shadows going down  
 Yet even this shall rouse itself  
 When freshets come along.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un piacere stagnante come una Pozza  
+Che lascia crescere i suoi Giunchi  
+Finché incuranti vi cadono dentro  
+E rendono lenta l'[[Water|Acqua]]  
+
+Impedendo la navigazione lucente  
+Delle Ombre che scendono  
+Eppure anch'esso si ridesterà  
+Quando giungeranno le piene.

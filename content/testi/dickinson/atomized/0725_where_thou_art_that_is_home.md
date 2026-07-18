@@ -30,3 +30,23 @@ Where Thou art not — is Woe —
 Tho' Bands of Spices — row —  
 What Thou dost not — [[Despair]] —  
 Tho' Gabriel — praise me — Sire —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dove Tu sei — quello — è [[Home|Casa]] —  
+Cashmere — o Calvario — lo stesso —  
+Rango — o Vergogna —  
+Stimo appena il Nome del Luogo —  
+Purché io possa Venire —  
+
+Ciò che Tu fai — è Delizia —  
+La Servitù come Gioco — sia dolce —  
+[[Imprisonment|Prigionia]] — Contentezza —  
+E la Condanna — Sacramento —  
+Solo Noi due — insieme —  
+
+Dove Tu non sei — è Pena —  
+Benché Schiere di Spezie — remino —  
+Ciò che Tu non fai — [[Despair|Disperazione]] —  
+Benché Gabriele — mi lodi — Sire —

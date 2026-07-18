@@ -30,3 +30,23 @@ Had but the Tale a warbling Teller —
 All the Boys would come —  
 Orpheus' Sermon captivated —  
 It did not condemn —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Bible|Bibbia]] è un Volume antico —  
+Scritto da uomini sbiaditi  
+Su suggerimento di Santi Spettri —  
+Soggetti — Betlemme —  
+L'Eden — l'antica Dimora —  
+[[Satan|Satana]] — il Brigadiere —  
+Giuda — il Grande Insolvente —  
+Davide — il Trovatore —  
+Il Peccato — un distinto Precipizio  
+Cui altri devono resistere —  
+I Ragazzi che "credono" sono assai soli —  
+Gli altri Ragazzi sono "perduti" —  
+Avesse la Storia un Narratore canoro —  
+Verrebbero tutti i Ragazzi —  
+Il Sermone di Orfeo incantava —  
+Non condannava —

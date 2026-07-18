@@ -23,3 +23,16 @@ So unsuspected violets
 Within the fields lie low ;  
 Too late for striving fingers  
 That passed, an hour ago.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A portata di mano !  
+Avrei potuto toccare !  
+Sarei potuta passare di là !  
+Vagare lieve per il villaggio,  
+Vagare via altrettanto lieve !  
+Così insospettate violette  
+Nei campi giacciono basse ;  
+Troppo tardi per dita anelanti  
+Che passarono, un'ora fa.

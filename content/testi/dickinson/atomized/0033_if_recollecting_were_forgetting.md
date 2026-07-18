@@ -22,3 +22,15 @@ And if to miss - were merry -
 And to mourn were gay,  
 How very blithe the maiden  
 Who gathered these today!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oh se ricordare fosse dimenticare -  
+Allora io non ricordo!  
+E se dimenticare - rammentare -  
+Quanto ero vicina ad aver dimenticato!  
+E se rimpiangere - fosse lieto -  
+E far cordoglio fosse gaio,  
+Che gioconda la fanciulla  
+Che colse questi oggi!

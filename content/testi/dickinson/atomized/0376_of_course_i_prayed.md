@@ -25,3 +25,18 @@ I had not had — but for Yourself —
 To leave me in the Atom's Tomb —  
 Merry, and Nought, and gay, and numb —  
 Than this smart Misery.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Certo — pregai —  
+E [[God]] se ne Curò?  
+Se ne curò quanto se sull'Aria  
+Un Uccello — avesse battuto il piede —  
+Gridando "Datemi" —  
+La mia Ragione — la Vita —  
+Non l'avrei avuta — se non per Te —  
+Sarebbe miglior [[Charity]]  
+Lasciarmi nella Tomba dell'Atomo —  
+Allegra, e Nulla, e gaia, e intorpidita —  
+Che questa acuta Sofferenza.

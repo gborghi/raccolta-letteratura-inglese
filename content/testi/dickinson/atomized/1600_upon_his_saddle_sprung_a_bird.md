@@ -22,3 +22,15 @@ And then he lifted up his Throat
 And squandered such a Note  
 A Universe that overheard  
 Is stricken by it yet —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sul suo Arcione balzò un Uccello  
+E attraversò mille Alberi  
+Prima che un Recinto senza Pedaggio  
+La sua Fantasia compiacesse  
+E poi sollevò la Gola  
+E sperperò una tale Nota  
+Che un Universo che origliava  
+Ne è colpito ancora —

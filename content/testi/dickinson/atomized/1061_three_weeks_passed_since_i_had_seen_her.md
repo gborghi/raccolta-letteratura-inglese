@@ -28,3 +28,21 @@ Borne without dissent of Either
 To the Parish [[Night|night]] —  
 Of the Separated Parties  
 Which be out of sight?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tre Settimane passate da che L'avevo vista —  
+Qualche Malattia l'aveva afflitta  
+Fu con Testo e Canto di Villaggio  
+Che La rividi poi  
+
+E una Compagnia — nostro piacere  
+Discorrere [[Alone|da soli]] —  
+Cortese ora con me come con chiunque —  
+Cortese verso nessuno —  
+
+Portata senza dissenso di Alcuno  
+Alla [[Night|notte]] della Parrocchia —  
+Delle Parti Separate  
+Quale sarà fuori di vista?

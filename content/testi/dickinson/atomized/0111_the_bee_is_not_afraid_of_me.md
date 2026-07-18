@@ -23,3 +23,16 @@ The brooks laugh louder when I come,
 The breezes madder play.  
 Wherefore, mine eyes, thy silver mists ?  
 Wherefore, O [[Summer|summer]]'s day ?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'ape non ha paura di me,  
+io conosco la farfalla ;  
+la gente graziosa dei boschi  
+mi accoglie cordialmente.  
+
+I ruscelli ridono più forte quando arrivo,  
+le brezze giocano più folli.  
+Perché, occhi miei, le vostre nebbie d'argento ?  
+Perché, o giorno d'[[Summer|estate]] ?

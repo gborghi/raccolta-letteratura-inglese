@@ -55,3 +55,48 @@ The Owner of this [[house|House]]
 A Stranger He must be —  
 [[Eternity]]'s Acquaintances  
 Are mostly so — to me.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi occupa questa [[house|Casa]]?  
+Un Estraneo devo giudicare  
+Poiché Nessuno conosce la Sua Circostanza —  
+È [[Well|bene]] che il nome e l'età  
+
+Sian scritti sulla [[Door|Porta]]  
+O avrei [[Fear|paura]] a sostare  
+Dove nemmeno un Cane Onesto  
+Incoraggia ad accostarsi.  
+
+Pare una Città curiosa —  
+Alcune Case molto antiche,  
+Alcune — erette appena questo Pomeriggio,  
+Fossi costretta a costruire  
+
+Non sarebbe fra  
+Abitanti così quieti  
+Ma dove i [[Birds|Uccelli]] si radunano  
+E i Ragazzi fossero possibili.  
+
+Prima che Io stessa nascessi  
+Fu colonizzata, così dicono,  
+Un Territorio per gli [[Ghosts|Spettri]] —  
+E gli Scoiattoli, un tempo.  
+
+Finché un Pioniere, come  
+Spesso fanno i Coloni  
+Amando la quiete del Luogo  
+Ne attrasse altri —  
+
+E da un Insediamento  
+934  
+
+Una Capitale è cresciuta  
+Distinta per la gravità  
+Di ogni Cittadino.  
+
+Il Padrone di questa [[house|Casa]]  
+Un Estraneo dev'essere —  
+Le Conoscenze dell'[[Eternity|Eternità]]  
+Lo sono per lo più — per me.

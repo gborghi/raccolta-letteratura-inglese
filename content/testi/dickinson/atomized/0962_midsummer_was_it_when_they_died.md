@@ -23,3 +23,16 @@ The Corn, her furthest kernel filled
 Before the coming Flail —  
 When These — leaned unto Perfectness —  
 Through Haze of Burial —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mezza estate, era, quando Morirono —  
+Un [[Time|tempo]] pieno, e perfetto —  
+L'[[Summer|Estate]] si chiuse su se stessa  
+In Fioritura Consumata —  
+
+Il Grano, colmato il suo chicco estremo  
+Prima del Correggiato imminente —  
+Quando Questi — s'inclinarono alla Perfezione —  
+Attraverso Foschia di Sepoltura —

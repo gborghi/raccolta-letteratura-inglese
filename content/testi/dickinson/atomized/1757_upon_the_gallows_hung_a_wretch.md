@@ -22,3 +22,15 @@ The one who bore him tottered in , —
 For this was woman's son.  
 "'Twere all I had," she stricken gasped —  
 Oh, what a livid boon!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sulla [[Gallows|forca]] pendeva uno sciagurato,  
+Troppo sozzo per l'inferno  
+Cui la legge gli dava diritto.  
+Mentre calava il sipario della [[Nature|natura]]  
+Colei che lo generò entrò barcollando , —  
+Perché questo era figlio di donna.  
+"Era tutto ciò che avevo," ansimò straziata —  
+Oh, che livido dono!

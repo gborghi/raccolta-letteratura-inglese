@@ -23,3 +23,16 @@ To Necromancy and the Trades
 Remote to understand  
 Behold our spacious Citizen  
 Unto a Juggler turned —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Nature|Natura]] finge d'esser posata  
+All'occasione, grandiosa  
+Ma si chiuda la nostra osservazione  
+Le sue pratiche si estendono  
+
+Alla Negromanzia e ai Mestieri  
+Remoti da comprendere  
+Ecco la nostra spaziosa Cittadina  
+In Giocoliera mutata —

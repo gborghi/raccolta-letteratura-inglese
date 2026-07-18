@@ -28,3 +28,21 @@ And though the Woe you have Today
 Be larger — As the [[Sea]]  
 Exceeds its Unremembered Drop —  
 They're [[Water]] — equally —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È bene — il guardare indietro al Dolore —  
+Ripatire un Giorno —  
+Che credemmo il Possente Funerale —  
+Di Ogni [[Joy|Gioia]] Concepita —  
+
+Ricordare come l'Erba Operosa  
+S'intromise — filo a filo —  
+Finché tutto il Dolore con l'[[Summer|Estate]] — ondeggiò  
+E nessuno poté vedere la pietra.  
+
+E benché la Pena che hai Oggi  
+Sia più grande — Come il [[Sea|Mare]]  
+Eccede la sua Goccia Scordata —  
+Sono [[Water|Acqua]] — ugualmente —

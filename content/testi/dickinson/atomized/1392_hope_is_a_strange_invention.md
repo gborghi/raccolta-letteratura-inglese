@@ -23,3 +23,16 @@ Of this electric Adjunct
 Not anything is known  
 But its unique momentum  
 Embellish all we own —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Hope|Speranza]] è una strana invenzione —  
+Un Brevetto del Cuore —  
+In azione incessante  
+Eppure mai si consuma —  
+
+Di questa elettrica Aggiunta  
+Nulla è conosciuto  
+Se non l'unico suo slancio  
+Abbellisce quanto abbiamo —

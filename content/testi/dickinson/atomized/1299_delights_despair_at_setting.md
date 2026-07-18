@@ -23,3 +23,16 @@ Enchantment's Perihelion
 Mistaken oft has been  
 For the Authentic orbit  
 Of its Anterior [[Sun]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Despair|Disperazione]] della Delizia al tramonto  
+È che la Delizia è meno  
+Della [[Longing|Brama]] sufficiente  
+Che così impoverisce.  
+
+Il Perielio dell'Incanto  
+Spesso è stato scambiato  
+Per l'orbita Autentica  
+Del suo [[Sun|Sole]] Anteriore.

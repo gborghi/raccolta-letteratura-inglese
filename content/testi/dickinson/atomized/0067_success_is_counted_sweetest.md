@@ -28,3 +28,21 @@ As he, defeated, dying,
 On whose forbidden ear  
 The distant strains of triumph  
 Break, agonized and clear.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[success|SUCCESSO]] è stimato più dolce  
+Da chi non riesce mai.  
+Per comprendere un nettare  
+Occorre il più acerbo bisogno.  
+
+Nessuno di tutta la schiera purpurea  
+Che oggi prese la [[Flag|bandiera]]  
+Sa dire la definizione,  
+Così chiara, della vittoria,  
+
+Come colui che, vinto, morente,  
+Al cui orecchio interdetto  
+I lontani accordi del trionfo  
+Rompono, straziati e chiari.

@@ -26,3 +26,19 @@ Their hock and sherry draw,
 
 Why, I will lend until just then,  
 But not an hour more!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Forse vorresti comprare un fiore ?  
+Ma io non potrei mai vendere.  
+Se vuoi prenderlo in prestito  
+Finché la giunchiglia  
+
+Non slacci la sua cuffia gialla  
+Sotto la [[Door|porta]] del villaggio,  
+Finché le [[Bees|api]], dai filari di trifoglio  
+Non attingano il loro hock e sherry,  
+
+Ebbene, presterò fino ad allora,  
+Ma non un'ora di più!

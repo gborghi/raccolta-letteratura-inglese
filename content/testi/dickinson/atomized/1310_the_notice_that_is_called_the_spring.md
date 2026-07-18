@@ -23,3 +23,16 @@ Not any [[house|House]] the [[Flowers]] keep —
 The [[Birds]] enamor Care —  
 Our salary the longest Day  
 Is nothing but a Bier.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Annuncio che si chiama [[Spring|Primavera]]  
+È a un mese soltanto da qui —  
+Riponi mio Cuore la tua Canuta opera  
+E prendi una Sedia Rosea.  
+
+Non una [[house|Casa]] i [[Flowers|Fiori]] tengono —  
+Gli [[Birds|Uccelli]] innamorano la Cura —  
+Il nostro salario il Giorno più lungo  
+Non è nient'altro che un Feretro.

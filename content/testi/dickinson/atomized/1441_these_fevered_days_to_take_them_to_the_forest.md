@@ -20,3 +20,13 @@ These Fevered Days — to take them to the Forest
 Where Waters cool around the mosses crawl —  
 And shade is all that devastates the stillness  
 Seems it sometimes this would be all —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+FORESTA  
+
+Questi Giorni Febbrili — portarli alla Foresta  
+Dove Acque fresche strisciano attorno ai muschi —  
+E l'ombra è tutto ciò che devasta la quiete  
+Sembra a volte che questo sarebbe tutto —

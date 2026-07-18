@@ -30,3 +30,23 @@ We — tell a Hurt — to cool it —
 This Mourner — to the Sky  
 A little further reaches — instead —  
 Brave Black Berry —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+La Mora — porta una Spina nel fianco —  
+Ma nessun Uomo L'ha udita gridare —  
+Offre la Sua Bacca, ugualmente  
+Alla Pernice — e al Ragazzo —  
+
+A volte si regge alla Staccionata —  
+O lotta fino a un [[Tree|Albero]] —  
+O stringe una Roccia, con entrambe le Mani —  
+Ma non per [[Sympathy|Compassione]] —  
+
+Noi — raccontiamo una Ferita — per lenirla —  
+Questa Dolente — verso il Cielo  
+Un poco più oltre si protende — invece —  
+Coraggiosa Mora —

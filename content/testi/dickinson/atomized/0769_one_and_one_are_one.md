@@ -23,3 +23,16 @@ Life — just — or [[Death]] —
 Or the Everlasting —  
 More — would be too vast  
 For the [[Soul]]'s Comprising —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uno e Uno — sono Uno —  
+Due — si smetta d'usarlo —  
+[[Well|Bene]] abbastanza per le Scuole —  
+Ma per la Scelta Minore —  
+
+La Vita — appena — o la [[Death|Morte]] —  
+O l'Eterno —  
+Di più — sarebbe troppo vasto  
+Perché l'[[Soul|Anima]] lo Comprenda —

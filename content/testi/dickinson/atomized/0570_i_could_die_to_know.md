@@ -27,3 +27,20 @@ Coals — from a [[rolling|Rolling]] Load — rattle — how — near —
 To the very Square — His foot is passing —  
 Possibly, this moment —  
 While I — dream — Here —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Potrei morire — per sapere —  
+È una conoscenza da nulla —  
+Gli Strilloni salutano la [[Door|Porta]] —  
+I Carri — passano sobbalzando —  
+La faccia audace del Mattino — fissa dentro la [[Window|finestra]] —  
+Fosse solo mio — lo Statuto della più piccola Mosca —  
+
+Le Case incalzano la [[house|Casa]]  
+Con le loro Spalle di Mattoni —  
+Carboni — da un Carico [[rolling|Rotolante]] — sferragliano — quanto — vicino —  
+Alla Piazza stessa — dove passa il Suo piede —  
+Forse, in questo istante —  
+Mentre io — sogno — Qui —

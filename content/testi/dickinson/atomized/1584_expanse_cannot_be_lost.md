@@ -31,3 +31,24 @@ Escape more slowly
 To thy Tracts of Sheen —  
 The Tent is listening,  
 But the Troops are gone!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Distesa non può perdersi —  
+Non [[Joy|Gioia]], ma un Decreto  
+È la Deità —  
+La sua Scena, l'Infinito —  
+La cui Porta di voci fu serrata così stretta  
+Prima che il mio Raggio fosse seminato,  
+Che nemmeno la spinta d'un Prognostico  
+Poté farvi un'Ammaccatura —  
+
+Il Mondo che tu hai aperto  
+Si chiude per te,  
+Ma non [[Alone|solo]],  
+Noi tutti ti abbiamo seguito —  
+Fuggi più lentamente  
+Verso le tue Distese di Splendore —  
+La Tenda è in ascolto,  
+Ma le Truppe sono andate!

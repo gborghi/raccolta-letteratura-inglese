@@ -23,3 +23,16 @@ Contentment's quiet Suburb —
 Affliction cannot stay  
 In Acres — Its Location  
 Is Illocality —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una vicinanza alla Tremendità —  
+Un'Agonia procura —  
+L'Afflizione percorre l'Illimitatezza —  
+Vicinanza alle Leggi  
+
+Quieto Sobborgo dell'Appagamento —  
+L'Afflizione non può stare  
+In Acri — la Sua Sede  
+È Illocalità —

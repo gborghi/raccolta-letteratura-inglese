@@ -25,3 +25,18 @@ Their artless currency —
 Of Counterfeits he is so shy  
 Do one advance so near  
 As to behold his ample flight —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Mercante del Pittoresco  
+Ha un Banco e vendite  
+Ma è presente o negativo  
+Precisamente secondo le richieste —  
+Per i Bambini è piccolo nel prezzo  
+E grande in cortesia —  
+Gli si addice meglio d'un assegno  
+La loro ingenua moneta —  
+Dei Contraffatti è così schivo  
+Che uno s'avvicini tanto  
+Da scorgere il suo ampio volo —

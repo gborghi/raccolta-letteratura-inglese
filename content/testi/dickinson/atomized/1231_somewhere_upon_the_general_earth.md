@@ -28,3 +28,21 @@ Reserving that but just to prove
 Another Date of Thee —  
 Oh [[God]] of Width, do not for us  
 Curtail [[Eternity]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+In qualche luogo sulla Terra universale  
+Esiste essa stessa Oggi —  
+La [[Magic|Magia]] passiva ma esistente  
+Che mi consacrò —  
+
+Indifferenti [[Seasons|Stagioni]] senza dubbio giocano  
+Là dove io per il diritto d'essere —  
+Pagherei ogni Atomo che sono  
+Fuorché l'[[Immortality|Immortalità]] —  
+
+Serbando quella solo per provare  
+Un'altra Data di Te —  
+Oh [[God|Dio]] di Vastità, non ci volere  
+Accorciare l'[[Eternity|Eternità]]!

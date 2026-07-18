@@ -35,3 +35,28 @@ If you'll just tell me so —
 Than when — a little dull Balm grown —  
 Over this [[Pain|pain]] of mine —  
 You sting — again!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tu mi [[Love|ami]] — ne sei certa —  
+Non [[Fear|temerò]] lo sbaglio —  
+Non mi sveglierò ingannata —  
+Un ghignante mattino —  
+Per trovare l'Aurora andata —  
+E i Frutteti — intatti —  
+E Dollie — sparita!  
+
+Non devo trasalire — sei certa —  
+Che quella [[Night|notte]] mai verrà —  
+Quando impaurita — corro da Te a [[Home|casa]] —  
+Per trovare le finestre buie —  
+E niente più Dollie — bada —  
+Proprio nessuna?  
+
+Sii certa d'esser certa — sai —  
+Lo sopporterò meglio ora —  
+Se solo me lo dirai —  
+Che quando — cresciuto un piccolo ottuso Balsamo —  
+Sopra questo mio [[Pain|dolore]] —  
+Tu pungi — ancora!

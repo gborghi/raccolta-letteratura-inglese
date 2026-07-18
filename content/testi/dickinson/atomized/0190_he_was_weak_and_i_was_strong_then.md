@@ -28,3 +28,21 @@ Day knocked — and we must part —
 Neither — was strongest — now —  
 He strove — and I strove — too —  
 We didn't do it — tho'!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lui era debole, e io ero forte — allora —  
+Così Lui si lasciò condurre dentro —  
+Io ero debole, e Lui era forte allora —  
+Così mi lasciai condurre — a [[Home|Casa]].  
+
+Non era lontano — la [[Door|porta]] era vicina —  
+Non era buio — perché Lui veniva — anche —  
+Non c'era rumore, perché Lui non disse nulla —  
+Era tutto ciò che mi importava sapere.  
+
+Il Giorno bussò — e dovemmo separarci —  
+Nessuno — era il più forte — ormai —  
+Lui lottò — e lottai — anch'io —  
+Ma non ci riuscimmo — però!

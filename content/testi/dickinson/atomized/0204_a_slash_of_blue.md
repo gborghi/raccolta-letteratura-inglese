@@ -23,3 +23,16 @@ Some Ruby Trousers hurried on —
 A Wave of Gold —  
 A Bank of Day —  
 This just makes out the Morning Sky.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uno squarcio di Blu —  
+Una spazzata di Grigio —  
+Qualche chiazza scarlatta lungo la via,  
+Compongono un Cielo di Sera —  
+Un po' di porpora — scivolato in mezzo —  
+Certi Calzoni di Rubino infilati in fretta —  
+Un'Onda d'Oro —  
+Una Sponda di Giorno —  
+Questo appena compone il Cielo del Mattino.

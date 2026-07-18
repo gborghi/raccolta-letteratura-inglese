@@ -24,3 +24,17 @@ The abdication of Belief
 Makes the Behavior small —  
 Better an ignis fatuus  
 Than no illume at all —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quelli — morendo allora,  
+Sapevano dove andavano —  
+Andavano alla Mano Destra di [[God|Dio]] —  
+Quella Mano è amputata ora  
+E [[God|Dio]] non si può trovare —  
+
+L'abdicazione della Fede  
+Rende il Contegno piccolo —  
+Meglio un ignis fatuus  
+Che nessun lume affatto —

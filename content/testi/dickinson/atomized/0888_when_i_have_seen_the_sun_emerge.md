@@ -23,3 +23,16 @@ Without the incident of Fame
 Or accident of Noise —  
 The Earth has seemed to me a Drum,  
 Pursued of little Boys
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando ho visto il [[Sun|Sole]] emergere  
+Dalla sua stupefacente [[house|Casa]] —  
+E lasciare un Giorno a ogni [[Door|Porta]]  
+Un'Opera, in ogni luogo —  
+
+Senza l'incidente della Fama  
+O l'accidente del Rumore —  
+La Terra mi è parsa un Tamburo,  
+Inseguito da piccoli Ragazzi

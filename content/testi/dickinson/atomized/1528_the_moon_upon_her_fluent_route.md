@@ -23,3 +23,16 @@ If Aims impel these Astral Ones
 The ones allowed to know  
 Know that which makes them as forgot  
 As [[Dawn]] forgets them — now —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Moon|Luna]] sul suo fluente Percorso  
+Sprezzante di una [[Road|Strada]] —  
+L'Etrusco Argomento della Stella  
+Sostanzia un [[God|Dio]] —  
+
+Se Scopi spingono questi Esseri Astrali  
+Quelli cui è concesso sapere  
+Sanno ciò che li rende dimenticati  
+Come l'[[Dawn|Alba]] li dimentica — ora —

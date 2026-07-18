@@ -31,3 +31,24 @@ Without the [[Snow]]'s Tableau
 Because I see — New Englandly —  
 The [[Queen]], discerns like me —  
 Provincially —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Pettirosso è il mio Criterio di Melodia —  
+Perché io cresco — dove crescono i Pettirossi —  
+Ma, fossi nata Cuculo —  
+Giurerei su di lui —  
+L'[[Ode|ode]] familiare — governa il [[Noon|Mezzogiorno]] —  
+Il Ranuncolo, è il mio Capriccio di Fioritura —  
+Perché, siamo germogliati dal Frutteto —  
+Ma, fossi nata in Britannia,  
+Sdegnerei le Margherite —  
+Nulla se non la Noce — s'addice a Ottobre —  
+Perché, nel suo cadere,  
+Le [[Seasons|Stagioni]] volano via — mi è insegnato —  
+Senza il Tableau della [[Snow|Neve]]  
+L'[[Winter|Inverno]], sarebbe menzogna — per me —  
+Perché io vedo — alla maniera del New England —  
+La [[Queen|Regina]], discerne come me —  
+Provincialmente —

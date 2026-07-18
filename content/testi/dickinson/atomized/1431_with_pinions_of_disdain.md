@@ -26,3 +26,19 @@ instructing by the same —
 How little work it be —  
 To put off filaments like this  
 for [[Immortality|immortality]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Con Penne di Sdegno  
+L'[[Soul|anima]] può volare più lontano  
+Di qualunque piuma registrata  
+in Ornitologia —  
+Solleva questa sordida Carne  
+Oltre il suo ottuso — controllo  
+E durante la sua elettrica burrasca —  
+Il [[Body|corpo]] è un'[[Soul|anima]] —  
+istruendo con ciò stesso —  
+Quanto poca fatica sia —  
+Deporre filamenti come questi  
+per l'[[Immortality|immortalità]]

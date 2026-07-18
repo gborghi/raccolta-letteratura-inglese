@@ -57,3 +57,50 @@ Then bear her to the greenwood, and build for her a bower,
 And give her what she asketh, [[Jewel|jewel]], or bird, or flower —  
 And bring the fife, and trumpet, and beat upon the drum —  
 And bid the world Goodmorrow, and go to glory [[Home|home]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Destatevi muse nove, cantatemi un canto divino,  
+Svolgete il filo solenne, e legate il mio [[Valentine|Valentino]]!  
+
+Oh la Terra fu fatta per gli [[lovers|amanti]], per la [[Damsel|damigella]], e lo spasimante senza speranza,  
+Per i sospiri, e il dolce sussurrare, e l'[[unity|unità]] fatta di due.  
+Ogni cosa va a corteggiare, in terra, o [[Sea|mare]], o aria,  
+[[God|Dio]] nulla ha fatto di solo tranne te nel Suo mondo così bello!  
+La sposa, e poi lo sposo, i due, e poi l'uno,  
+Adamo, ed Eva, sua consorte, la [[Moon|luna]], e poi il [[Sun|sole]];  
+La vita prova il precetto, chi obbedisce sarà felice,  
+Chi non vuol servire il sovrano, sia appeso al fatale [[Tree|albero]].  
+Gli alti cercano gli umili, i grandi cercano i piccoli,  
+Nessuno che cerchi non trova, su questa sfera terrestre;  
+L'ape fa la [[Court|corte]] al fiore, il fiore la sua supplica accoglie,  
+E fanno lieto sposalizio, con cento [[Leaves|foglie]] per invitati;  
+Il [[Wind|vento]] corteggia i rami, i rami son conquistati,  
+E il padre affettuoso domanda la fanciulla per il figlio.  
+La [[Storm|tempesta]] cammina lungo la riva mormorando un canto luttuoso,  
+L'onda con occhio così pensoso, guarda per vedere la [[Moon|luna]],  
+I loro spiriti s'incontrano, fanno i loro voti solenni,  
+Non più egli canta luttuoso, ella la sua tristezza perde.  
+Il verme corteggia il mortale, la [[Death|morte]] reclama una sposa viva,  
+La [[Night|Notte]] al giorno è maritata, il mattino alla sera;  
+La Terra è una lieta [[Damsel|damigella]], e il cielo un cavaliere fedele,  
+E la Terra è assai civetta, e pare invano supplicare.  
+Ora all'applicazione, alla lettura del rotolo,  
+Al portarti a giudizio, e schierare la tua [[Soul|anima]]:  
+Tu sei un assolo umano, un essere freddo, e solo,  
+Non avrai compagno gentile, mieti ciò che hai seminato.  
+Non hai mai ore silenziose, e minuti troppo lunghi,  
+E gran copia di triste riflessione, e lamento invece di [[Song|canto]]?  
+1  
+
+C'è Sarah, ed Eliza, ed Emeline così bella,  
+E Harriet, e Susan, e colei dai capelli ricciuti!  
+I tuoi occhi sono tristemente accecati, ma pure puoi vedere  
+Sei fanciulle sincere, e leggiadre sedute sull'[[Tree|albero]];  
+Avvicinati a quell'[[Tree|albero]] con cautela, poi arrampicati ardito,  
+E afferra colei che ami, senza curarti di spazio, o [[Time|tempo]]!  
+Poi portala al bosco verde, e costruiscile una pergola,  
+E dalle ciò che chiede, [[Jewel|gioiello]], o uccello, o fiore —  
+E porta il piffero, e la tromba, e batti sul tamburo —  
+E dai al mondo il Buongiorno, e vattene in gloria a [[Home|casa]]!

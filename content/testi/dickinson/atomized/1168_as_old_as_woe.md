@@ -25,3 +25,18 @@ Together chiefest they ard found
 But seldom side by side  
 From neither of them tho' he try  
 Can Human [[Nature|nature]] hide
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Antico quanto il Dolore —  
+Quanto è antico?  
+Circa diciottomila anni —  
+Antico quanto la Beatitudine  
+Quanto è antico  
+Sono di anni uguali  
+
+Insieme perlopiù si trovano  
+Ma di rado fianco a fianco  
+Da nessuno dei due, per quanto tenti  
+Può l'umana [[Nature|natura]] celarsi

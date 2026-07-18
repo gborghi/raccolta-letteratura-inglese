@@ -27,3 +27,20 @@ And Human [[Nature]] hid
 We comprehended by the Awe  
 As those that Dissolution saw  
 The Poppy in the Cloud
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era un Giorno all'apparenza quieto —  
+Non c'era male in terra o cielo —  
+Finché col [[Sun|sole]] che calava  
+Vagò un Rosso accidentale  
+Una Tinta a Passeggio, si sarebbe detto  
+A occidente della Città —  
+
+Ma quando la Terra prese a tremare  
+E le Case svanirono con un boato  
+E l'umana [[Nature|Natura]] si nascose  
+Comprendemmo dallo Sgomento  
+Come chi vide la Dissoluzione  
+Il Papavero nella Nuvola

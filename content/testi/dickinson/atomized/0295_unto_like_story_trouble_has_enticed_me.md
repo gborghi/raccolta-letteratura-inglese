@@ -40,3 +40,33 @@ Let me not shame their [[Sublime|sublime]] deportments —
 Drilled bright —  
 Beckoning — Etruscan invitation —  
 Toward Light —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A simile Storia — l'Affanno mi ha attratta —  
+Come caddero i Congiunti —  
+Fratelli e Sorella — che preferirono la Gloria —  
+E la loro giovane volontà  
+Piegata al Patibolo, o in Segrete — cantarono —  
+Finché [[God|Dio]] compì il suo [[Time|tempo]] —  
+Quando lasciarono andare l'ignominia — sorridendo —  
+E la Vergogna tacque —  
+
+A Stemmi intuiti, la mia lamentosa fantasia, mi conduce,  
+Portati con grazia  
+Da Teste respinte — nel paese più basso —  
+Dagli onori di là —  
+Tale spirito ne fa perpetua menzione,  
+Che io — fatta ardita —  
+Marcio marziale — alla mia Crocifissione —  
+Come Trombe — rullassero —  
+
+Piedi, piccoli come i miei — hanno marciato in Rivoluzione  
+Saldi al Tamburo —  
+Mani — non così forti — li issarono — a testimonianza —  
+Quando la Parola si fece muta —  
+Ch'io non disonori i loro [[Sublime|sublimi]] contegni —  
+Addestrati a splendore —  
+Accennando — Etrusco invito —  
+Verso la Luce —

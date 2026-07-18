@@ -22,3 +22,15 @@ Repealed from observation —
 A Party that we knew —  
 More distant in an instant  
 Than [[Dawn]] in Timbuctoo.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come [[Bells|Campanelli]] di slitta paiono d'[[Summer|estate]]  
+O [[Bees|Api]], apparse a [[Christmas|Natale]] —  
+Così fatati — così fittizi  
+Si fanno gli individui  
+Revocati dall'osservazione —  
+Una Compagnia che conoscevamo —  
+Più distante in un istante  
+Che l'[[Dawn|Alba]] a Timbuctù.

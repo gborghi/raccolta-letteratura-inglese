@@ -38,3 +38,31 @@ The Fruit perverse to plucking,
 But leaning to the Sight  
 With the ecstatic limit  
 Of unobtained Delight —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Scomparire accresce —  
+L'Uomo che fugge via  
+È tinto per un istante  
+D'[[Immortality|Immortalità]]  
+
+Ieri appena un Vagabondo —  
+Oggi adagiato nella [[Memory|Memoria]]  
+Con superstizioso valore  
+Armeggiamo con l'"Ancora"  
+
+Ma il "Mai" lontano quanto l'Onore  
+Ritira la Cosa senza pregio  
+E impotenti a custodire  
+Ci affrettiamo ad adornare —  
+
+Della [[Death|Morte]] la funzione più severa  
+Che proprio mentre discerniamo  
+L'Eccellenza ci sfida —  
+Colta allora più al sicuro  
+
+Il Frutto ritroso al cogliere,  
+Ma proteso alla Vista  
+Con l'estatico limite  
+Di Delizia non ottenuta —

@@ -38,3 +38,31 @@ What Duplicate — exist —
 What Parallel can be —  
 Of the Significance of This —  
 To Universe — and Me?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuna Folla mai avvenuta  
+Esibisce — suppongo  
+Quella Generale Adunanza  
+Che la [[Resurrection|Resurrezione]] — raduna —
+
+La Circonferenza sia piena —  
+La [[Grave|Tomba]] a lungo costretta  
+Affermi il suo Vitale Privilegio —  
+La [[Dust|Polvere]] — si unisca — e viva —
+
+Sugli Atomi — si posino i lineamenti —  
+Tutte le Moltitudini che furono  
+Svaniscono al Confronto —  
+Come Soli — dissolvono una stella —
+
+La Solennità — prevalga —  
+Il suo Individuale Destino  
+Possieda ogni distinta Coscienza —  
+Augusta — Assorta — Attonita —
+
+Quale Duplicato — esiste —  
+Quale Parallelo può darsi —  
+Del Significato di Questo —  
+Per l'Universo — e per Me?

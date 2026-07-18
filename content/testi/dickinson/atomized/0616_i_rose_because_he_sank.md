@@ -42,3 +42,35 @@ And so with Thews of [[Hymn]] —
 And Sinew from within —  
 And ways I knew not that I knew — till then —  
 I lifted Him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io [[Rose|sorsi]] — perché Lui affondò —  
+Pensavo sarebbe stato l'opposto —  
+Ma quando il suo potere cadde —  
+La mia [[Soul|Anima]] si fece dritta.  
+
+Rincuorai il mio Principe languente —  
+Cantai salde — piane — Salmodie —  
+Soccorsi il suo Velo — con l'[[Hymn|Inno]] —  
+
+E quando le Rugiade si ritrassero  
+Che tenevano rigida la sua Fronte —  
+Lo incontrai —  
+Balsamo a Balsamo —  
+
+Gli dissi che il Migliore — deve passare  
+Per questo basso Arco di Carne —  
+Nessun Elmo così ardito  
+Da sdegnare la [[Grave|Tomba]] —  
+
+Gli dissi di Mondi che conoscevo  
+Dove crescevano Imperatori —  
+Che si ricordavano di noi  
+Se eravamo fedeli —  
+
+E così con Muscoli d'[[Hymn|Inno]] —  
+E Nervo di dentro —  
+E modi che non sapevo di sapere — fino ad allora —  
+Lo sollevai —

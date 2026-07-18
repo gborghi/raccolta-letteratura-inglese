@@ -23,3 +23,16 @@ I scanned his narrow realm
 I gave him leave to live  
 Lest Gratitude revive the snake  
 Though smuggled his reprieve
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Venne il suo turno di mendicare —  
+Il mendicare per la vita  
+È diverso da ogni altra Elemosina  
+È Penuria in Capo —  
+
+Scrutai il suo angusto regno  
+Gli diedi licenza di vivere  
+Perché la Gratitudine non ravvivasse la serpe  
+Benché contrabbandata la sua grazia

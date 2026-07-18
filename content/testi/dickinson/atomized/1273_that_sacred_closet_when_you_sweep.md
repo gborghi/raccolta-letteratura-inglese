@@ -28,3 +28,21 @@ August the [[Dust]] of that Domain —
 Unchallenged — let it lie —  
 You cannot supersede itself  
 But it can [[Silence|silence]] you —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quel sacro Ripostiglio quando lo spazzi —  
+Intitolato "[[Memory|Memoria]]" —  
+Scegli una Scopa reverente —  
+E fallo in silenzio.  
+
+Sarà un Lavoro di sorpresa —  
+Oltre all'[[Identity|Identità]]  
+Di altri Interlocutori  
+Una probabilità —  
+
+Augusta la [[Dust|Polvere]] di quel Dominio —  
+Incontestata — lasciala giacere —  
+Tu non puoi soppiantarla  
+Ma essa ti può [[Silence|zittire]] —

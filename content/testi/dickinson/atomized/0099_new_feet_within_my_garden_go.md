@@ -23,3 +23,16 @@ New children play upon the green,
 New weary [[Sleep|sleep]] below ;  
 And still the pensive [[spring]] returns,  
 And still the punctual [[Snow|snow]] !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nuovi piedi nel mio [[Garden|giardino]] vanno,  
+Nuove dita smuovono la zolla ;  
+Un trovatore sull'olmo  
+Tradisce la [[Solitude|solitudine]].  
+
+Nuovi bambini giocano sul prato,  
+Nuovi stanchi nel [[Sleep|sonno]] di sotto ;  
+E ancora la pensosa [[spring|primavera]] ritorna,  
+E ancora la puntuale [[Snow|neve]] !

@@ -23,3 +23,16 @@ The [[Sea]] said "Go" to the [[Sea]].
 The [[Sea]] said "I am he  
 You cherished" — "Learned Waters —  
 Wisdom is stale to Me" —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Sea|Mare]] disse "Vieni" al Ruscello —  
+Il Ruscello disse "Lasciami crescere" —  
+Il [[Sea|Mare]] disse "Allora sarai un [[Sea|Mare]] —  
+Io voglio un Ruscello — Vieni ora"!  
+
+Il [[Sea|Mare]] disse "Va'" al [[Sea|Mare]].  
+Il [[Sea|Mare]] disse "Io sono colui  
+Che amavi" — "Acque Dotte —  
+La Saggezza è stantia per Me" —

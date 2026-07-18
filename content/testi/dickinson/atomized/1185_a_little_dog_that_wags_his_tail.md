@@ -33,3 +33,26 @@ Another class remind me
 Who neither please nor play  
 But not to make a "bit of noise"  
 Beseech each little Boy —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un piccolo Cane che scodinzola  
+E non conosce altra [[Joy|gioia]]  
+Di un tale piccolo Cane io  
+Son fatta memore da un Bimbo  
+
+Che folleggia tutto il vivo Giorno  
+Senza una causa terrena  
+Perché è un piccolo Bimbo  
+Onestamente suppongo —  
+
+La Gatta che nell'Angolo dimora  
+Il suo Giorno marziale ha scordato  
+Il Topo ormai non più che una [[Tradition]]  
+Della sua Sorte senza desideri  
+
+Un'altra classe mi rammentano  
+Che né compiacciono né giocano  
+Ma di non fare "un po' di rumore"  
+Supplicano ogni piccolo Bimbo —

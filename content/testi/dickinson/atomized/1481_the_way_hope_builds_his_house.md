@@ -23,3 +23,16 @@ Abode in as supreme
 This superficies  
 As if it were of Ledges smit  
 Or mortised with the Laws —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il modo in cui la [[Hope|Speranza]] costruisce la sua [[house|Casa]]  
+Non è con un basamento —  
+Né Trave — possiede quell'Edificio  
+Ma soltanto Pinnacolo —  
+
+Abitata come suprema  
+Questa superficie  
+Come fosse forgiata di Rupi  
+O incastrata con le Leggi —

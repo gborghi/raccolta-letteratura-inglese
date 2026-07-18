@@ -28,3 +28,21 @@ Nor separate, Herself and Me
 By Distances become —  
 A single Bloom we constitute  
 Departed, or at [[Home]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Qui, dove le Margherite si adattano al mio Capo  
+È più facile giacere  
+E ogni Erba che gioca là fuori  
+È dispiaciuta, un poco, per me.  
+
+Dove non ho paura di andare  
+Posso affidare il mio Fiore —  
+Chi non fu Nemico di Me  
+Sarà gentile, con Lei.  
+
+Né separate, Lei ed Io  
+Divenute per Distanze —  
+Un solo Bocciolo costituiamo  
+Partite, o a [[Home|Casa]] —

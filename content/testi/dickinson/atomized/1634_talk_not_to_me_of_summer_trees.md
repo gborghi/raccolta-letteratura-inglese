@@ -22,3 +22,15 @@ And winds do go that way at [[Noon|noon]]
 To their Ethereal Homes  
 Whose Bugles call the least of us  
 To undepicted Realms
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non parlarmi di Alberi d'[[Summer|Estate]]  
+Il fogliame della mente  
+È un Tabernacolo per [[Birds|Uccelli]]  
+Di specie non corporea  
+E i venti vanno per quella via a [[Noon|mezzogiorno]]  
+Verso le loro Eteree Dimore  
+Le cui Trombe chiamano il più piccolo di noi  
+A Reami non raffigurati

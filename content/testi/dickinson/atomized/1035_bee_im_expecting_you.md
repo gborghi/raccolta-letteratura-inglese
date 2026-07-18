@@ -28,3 +28,21 @@ You'll get my [[Letter]] by
 The seventeenth; Reply  
 Or better, be with me —  
 Yours, Fly.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ape! Ti sto aspettando!  
+Dicevo proprio Ieri  
+A Qualcuno che conosci  
+Che eri attesa —  
+
+Le Rane sono a [[Home|Casa]] dalla Settimana scorsa —  
+Sistemate, e al lavoro —  
+Gli [[Birds|Uccelli]], quasi tutti tornati —  
+Il Trifoglio caldo e folto —  
+
+Riceverai la mia [[Letter|Lettera]] entro  
+Il diciassette; Rispondi  
+O meglio, vieni da me —  
+Tua, la Mosca.

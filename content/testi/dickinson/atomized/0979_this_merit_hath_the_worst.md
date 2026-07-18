@@ -23,3 +23,16 @@ The Maimed may pause, and breathe,
 And glance securely round —  
 The Deer attracts no further  
 Than it resists — the Hound —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo Merito ha il peggio —  
+Non può essere di nuovo —  
+Quando il Fato ha schernito per l'ultima volta  
+E scagliato la Sua Pietra più lontana —
+
+Il Mutilato può sostare, e respirare,  
+E guardarsi intorno al sicuro —  
+Il Cervo non attrae più in là  
+Di quanto resiste — il Segugio —

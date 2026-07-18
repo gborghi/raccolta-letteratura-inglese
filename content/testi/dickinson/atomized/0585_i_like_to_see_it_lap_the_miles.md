@@ -34,3 +34,27 @@ And neigh like Boanerges —
 Then — punctual as a Star  
 Stop — docile and omnipotent  
 At its own [[Stable|stable]] [[Door|door]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi piace vederlo lambire le [[Miles|Miglia]] —  
+E leccarsi via le Valli —  
+E fermarsi a nutrirsi alle Cisterne —  
+E poi — con passo prodigioso  
+
+Aggirare un Cumulo di [[Mountains|Montagne]] —  
+E sprezzante sbirciare  
+Nelle Baracche — ai margini delle Strade —  
+E poi tagliare una Cava  
+
+Su misura delle sue Costole  
+E strisciare in mezzo  
+Lamentandosi tutto il tempo  
+In orrida — ululante strofa —  
+Poi rincorrersi giù per la [[Hill|Collina]] —  
+
+E nitrire come Boanerges —  
+Poi — puntuale come una Stella  
+Fermarsi — docile e onnipotente  
+Alla propria [[Stable|stalla]], alla [[Door|porta]] —

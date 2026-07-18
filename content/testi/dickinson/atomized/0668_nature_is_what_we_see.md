@@ -26,3 +26,19 @@ Nay — [[Nature]] is Harmony —
 Yet have no art to say —  
 So impotent Our Wisdom is  
 To her Simplicity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La "[[Nature|Natura]]" è ciò che vediamo —  
+La [[Hill|Collina]] — il Pomeriggio —  
+Lo Scoiattolo — l'Eclissi — il Bombo —  
+Anzi — la [[Nature|Natura]] è Paradiso —  
+La [[Nature|Natura]] è ciò che udiamo —  
+Il Bobolink — il [[Sea|Mare]] —  
+Il Tuono — il Grillo —  
+Anzi — la [[Nature|Natura]] è Armonia —  
+La [[Nature|Natura]] è ciò che sappiamo —  
+Ma non abbiamo arte per dirlo —  
+Tanto impotente è la Nostra Sapienza  
+Dinanzi alla sua Semplicità.

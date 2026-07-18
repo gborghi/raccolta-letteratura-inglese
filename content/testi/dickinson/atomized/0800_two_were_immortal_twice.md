@@ -23,3 +23,16 @@ That our ignoble Eyes
 The quality conceive  
 Of Paradise superlative —  
 Through their Comparative.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Due — furono immortali due volte —  
+Privilegio di pochi —  
+L'[[Eternity|Eternità]] — ottenuta — nel [[Time|Tempo]] —  
+Divinità Rovesciata —
+
+Perché i nostri ignobili Occhi  
+Concepiscano la qualità  
+Del Paradiso superlativo —  
+Attraverso il loro Comparativo.

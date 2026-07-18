@@ -22,3 +22,15 @@ For Captain was the Butterfly
 For Helmsman was the Bee  
 And an entire universe  
 For the delighted crew.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un morbido [[Sea|Mare]] lavava intorno alla [[house|Casa]]  
+Un [[Sea|Mare]] d'Aria d'[[Summer|Estate]]  
+E [[Rose|s'alzavano]] e ricadevano le [[Magic|magiche]] Assi  
+Che navigavano senza pensiero —  
+Ché Capitano era la Farfalla  
+Ché Timoniere era l'Ape  
+E un universo intero  
+Per l'equipaggio deliziato.

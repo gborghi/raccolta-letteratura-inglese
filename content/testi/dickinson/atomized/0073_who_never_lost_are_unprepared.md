@@ -33,3 +33,26 @@ How many Bullets bearest?
 Hast Thou the Royal scar?  
 Angels! Write "Promoted"  
 On this Soldier's brow!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi mai non perse, è impreparato  
+Un Diadema a trovare!  
+Chi mai non ebbe sete  
+Fiaschi, e Tamarindo Rinfrescante!  
+
+Chi mai non scalò la lega estenuante —  
+Può un tale piede esplorare  
+I territori purpurei  
+Sulla riva di Pizarro?  
+
+Quante Legioni vinte —  
+Dirà l'Imperatore?  
+Quanti Vessilli presi  
+Nel Giorno della Rivoluzione?  
+
+Quante Pallottole porti?  
+Hai Tu la cicatrice Regale?  
+Angeli! Scrivete "Promosso"  
+Sulla fronte di questo Soldato!

@@ -33,3 +33,26 @@ Convex — and Concave Witness —
 Back — toward [[Time]] —  
 And forward —  
 Toward the [[God]] of Him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Time|TEMPO]] —  
+
+Le Ammirazioni — e i Disprezzi — del [[Time|tempo]] —  
+Si mostrano più giusti — attraverso una Tomba Aperta —  
+Il Morire — quasi fosse un'Altezza  
+Riorganizza la Stima  
+E ciò che non vedevamo  
+Distinguiamo chiaro —  
+E per lo più — non vediamo  
+Ciò che vedevamo prima —  
+
+È Visione Composta —  
+Luce — che dischiude Luce —  
+Il Finito — fornito  
+Dell'Infinito —  
+Testimone Convesso — e Concavo —  
+Indietro — verso il [[Time|Tempo]] —  
+E avanti —  
+Verso il [[God|Dio]] di Lui —

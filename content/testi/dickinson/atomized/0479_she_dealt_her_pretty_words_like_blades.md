@@ -28,3 +28,21 @@ To Ache is human — not polite —
 The Film upon the eye  
 [[Mortality]]'s old Custom —  
 Just locking up — to Die.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dispensava le sue graziose parole come Lame —  
+Come scintillanti brillavano —  
+E ognuna metteva a nudo un Nervo  
+O si trastullava con un Osso —  
+
+Lei mai pensò — di ferire —  
+Quello — non è Affare dell'Acciaio —  
+Una smorfia volgare nella Carne —  
+Come mal la sopportano le Creature —  
+
+Dolere è umano — non educato —  
+Il Velo sopra l'occhio  
+Vecchia Usanza della [[Mortality|Mortalità]] —  
+Solo serrarsi — per Morire.

@@ -22,3 +22,15 @@ Oh [[Shadow]] on the Grass
 While I delay to guess  
 Some other thou wilt consecrate —  
 Oh Unelected Face —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oh [[Shadow]] sull'Erba,  
+Sei tu un Passo oppure no?  
+Va', fatti bello mio Candidato  
+Mio nominato Cuore —  
+Oh [[Shadow]] sull'Erba  
+Mentre indugio a indovinare  
+Qualche altro consacrerai —  
+Oh Volto Non Eletto —

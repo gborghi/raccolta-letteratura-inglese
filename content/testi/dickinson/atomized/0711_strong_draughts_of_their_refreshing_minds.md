@@ -23,3 +23,16 @@ To go elastic — Or as One
 The Camel's trait — attained —  
 How powerful the Stimulus  
 Of an Hermetic Mind —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Forti Sorsi delle Loro Menti Ristoratrici  
+Bere — abilita la Mia  
+Per [[Desert|Deserto]] o per la Selva  
+Come portasse Vino Sigillato —  
+
+Ad andare elastica — O come Chi  
+Del Cammello il tratto — ha raggiunto —  
+Quanto potente lo Stimolo  
+D'una Mente Ermetica —

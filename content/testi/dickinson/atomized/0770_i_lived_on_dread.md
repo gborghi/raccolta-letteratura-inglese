@@ -24,3 +24,17 @@ As 'twere a Spur — upon the [[Soul]] —
 A [[Fear]] will urge it where  
 To go without the Sceptre's aid  
 Were Challenging [[Despair]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vivevo di Terrore —  
+Per Quelli che conoscono  
+Lo Stimolo che c'è  
+Nel Pericolo — Ogni altro impulso  
+È inerte — e senza Vita —  
+
+Come fosse uno Sprone — sull'[[Soul|Anima]] —  
+Una [[Fear|Paura]] la incalza dove  
+Andare senza l'aiuto dello Scettro  
+Sarebbe Sfidare la [[Despair|Disperazione]].

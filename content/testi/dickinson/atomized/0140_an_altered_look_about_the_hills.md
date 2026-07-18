@@ -30,3 +30,23 @@ All this and more I cannot tell —
 A furtive look you know as [[Well|well]] —  
 And Nicodemus' Mystery  
 Receives its annual reply!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uno sguardo mutato sui colli —  
+Una luce di Tiro riempie il villaggio —  
+Un'aurora più ampia nel mattino —  
+Un crepuscolo più fondo sul prato —  
+Un'impronta di un piede vermiglio —  
+Un dito purpureo sul pendio —  
+Una mosca impertinente sul vetro —  
+Un ragno di nuovo al suo mestiere —  
+Un incedere più tronfio in Chanticleer —  
+Un fiore atteso in ogni dove —  
+Un'ascia che canta stridula nei boschi —  
+Odori di felce su strade non battute —  
+Tutto questo e più ch'io non so dire —  
+Uno sguardo furtivo che conosci [[Well|bene]] —  
+E il Mistero di Nicodemo  
+Riceve la sua annuale risposta!

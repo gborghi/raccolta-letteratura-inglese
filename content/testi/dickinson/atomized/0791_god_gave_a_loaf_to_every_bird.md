@@ -33,3 +33,26 @@ I [[Wonder|wonder]] how the Rich — may feel —
 An Indiaman — An Earl —  
 I deem that I — with but a Crumb —  
 Am Sovereign of them all —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[God|Dio]] diede una Pagnotta a ogni Uccello —  
+Ma solo una Briciola — a Me —  
+Non oso mangiarla — pur se muoio di fame —  
+Mio pungente lusso —  
+
+Possederla — toccarla —  
+Provare l'impresa — che fece mia la Pallina —  
+Troppo felice — per la mia sorte di Passero —  
+Per Brama più Ampia —  
+
+Potrebbe esserci Carestia — tutt'intorno —  
+Non sentirei la mancanza d'una Spiga —  
+Tanta Abbondanza sorride alla mia Mensa —  
+Sì bello appare il mio Granaio —  
+
+Mi [[Wonder|domando]] cosa provino i Ricchi —  
+Un Mercante delle Indie — un Conte —  
+Ritengo che Io — con una sola Briciola —  
+Sia Sovrana di tutti loro —

@@ -23,3 +23,16 @@ On her departing span
 No wilderness remain  
 As dauntless in the [[house|House]] of [[Death]]  
 As if it were her own —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa docile seppellite  
+Mentre noi che osiamo vivere  
+Accusiamo la brevità solare  
+Che scintillò fino alla [[Grave]].  
+
+Sul suo arco che si congeda  
+Nessun deserto rimanga  
+Impavida nella [[house|Casa]] della [[Death]]  
+Come se fosse la sua —

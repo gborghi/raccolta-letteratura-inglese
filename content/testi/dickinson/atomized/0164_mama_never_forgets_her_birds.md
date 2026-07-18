@@ -22,3 +22,15 @@ As when her little mortal nest
 With cunning care she wove —  
 If either of her "sparrows fall,"  
 She "notices," above.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mamma non dimentica mai i suoi [[Birds|uccelli]],  
+Benché in un altro [[Tree|albero]] —  
+Guarda giù altrettanto spesso  
+E altrettanto teneramente  
+Come quando il suo piccolo nido mortale  
+Con cura sagace intrecciava —  
+Se uno dei suoi "passeri cade,"  
+Lei "se ne avvede," lassù.

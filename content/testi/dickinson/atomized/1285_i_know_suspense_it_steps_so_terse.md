@@ -23,3 +23,16 @@ Is always at the [[Window]]
 Though lately I descry  
 And mention to my Horses  
 The need is not of me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conosco l'Attesa — incede così brusca  
+E si volge via così debole —  
+Inoltre — l'Attesa è di buon vicinato  
+Quando passo a cavallo —  
+
+È sempre alla [[Window|Finestra]]  
+Benché da poco io scorga  
+E dica ai miei Cavalli  
+Il bisogno non è di me —

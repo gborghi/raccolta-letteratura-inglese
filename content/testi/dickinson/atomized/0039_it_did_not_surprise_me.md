@@ -33,3 +33,26 @@ This was but a story —
 What and if indeed  
 There were just such coffin  
 In the heart instead?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non mi sorprese —  
+Così dissi — o pensai —  
+Lei scuoterà le sue penne  
+E il nido dimenticato,  
+
+Traverserà foreste più vaste —  
+Costruirà su rami più gai,  
+Sussurrerà in Orecchio più moderno  
+Gli antiquati voti di [[God]] —  
+
+Questo era solo un Uccellino —  
+E che, e se fosse  
+Uno dentro il mio petto  
+Ad avermi lasciata?  
+
+Questa era solo una storia —  
+E che, e se davvero  
+Ci fosse proprio tale bara  
+Nel cuore invece?

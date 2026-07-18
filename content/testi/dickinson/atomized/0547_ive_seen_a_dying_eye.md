@@ -22,3 +22,15 @@ And then, obscure with fog,
 And then be soldered down,  
 Without disclosing what it be,  
 'T were blessed to have seen.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho visto un occhio morente  
+Correre e ricorrere per una stanza  
+In cerca di qualcosa, così pareva,  
+Poi farsi più annuvolato ;  
+E poi, oscuro di nebbia,  
+E poi venire saldato,  
+Senza svelare che cosa fosse,  
+Che benedetto sarebbe stato vedere.

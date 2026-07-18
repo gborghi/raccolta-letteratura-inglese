@@ -38,3 +38,31 @@ The [[Silence]] condescended —
 Creation stopped — for Me —  
 But awed beyond my errand —  
 I worshipped — did not "pray" —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era giunto il mio tempo per la [[prayer|Preghiera]] —  
+Nessun'altra Arte — sarebbe valsa —  
+Alla mia Tattica mancava un rudimento —  
+Creatore — Eri tu?  
+
+[[God|Dio]] cresce in alto — così chi prega  
+Orizzonti — deve ascendere —  
+E così salii sul Nord  
+Per vedere questo Curioso Amico —  
+
+La Sua [[house|Casa]] non c'era — segno alcuno non aveva Lui —  
+Né da Camino — né da [[Door|Porta]]  
+Potevo inferirne la Residenza —  
+Vaste Praterie d'Aria  
+
+Non rotte da un Colono —  
+Erano tutto ciò che vedevo —  
+Infinitudine — Non avevi Tu un Volto  
+Ch'io potessi mirarTi?  
+
+Il [[Silence|Silenzio]] condiscese —  
+La Creazione si fermò — per Me —  
+Ma intimorita oltre la mia missione —  
+Adorai — non "pregai" —

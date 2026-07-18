@@ -22,3 +22,15 @@ So satisfied to go
 Where none of us should be  
 Immediately — that Anguish stooped  
 Almost to [[Jealousy]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così fiera era di morire  
+Che tutti ci fece vergognare  
+Che ciò che avevamo caro, così ignoto  
+Al suo [[Desire|desiderio]] sembrasse —  
+Così appagata di andare  
+Dove nessuno di noi sarebbe stato  
+Subito — che l'Angoscia si chinò  
+Quasi fino alla [[Jealousy|Gelosia]] —

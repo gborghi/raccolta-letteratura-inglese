@@ -28,3 +28,21 @@ It's like the Morning —
 Best — when it's done —  
 And the Everlasting Clocks —  
 Chime — [[Noon]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È come la Luce —  
+Una Delizia senza foggia —  
+È come l'Ape —  
+Una Melodia — senza data —  
+
+È come i Boschi —  
+Privata — Come la Brezza —  
+Senza frase — eppure scuote  
+Gli Alberi più fieri —  
+
+È come il Mattino —  
+Migliore — quando è finito —  
+E gli Orologi Eterni —  
+Rintoccano — [[Noon|Mezzogiorno]]!

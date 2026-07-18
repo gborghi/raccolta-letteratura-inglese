@@ -23,3 +23,16 @@ A Bird to overhear
 Delight without a Cause —  
 Arrestless as invisible —  
 A matter of the Skies.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È una Gioia solitaria —  
+Eppure santifica la Mente —  
+Con bella associazione —  
+Lontano sopra il [[Wind|Vento]]  
+
+Un Uccello udito per caso  
+Diletto senza una Causa —  
+Incoercibile quanto invisibile —  
+Cosa che è dei Cieli.

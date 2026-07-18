@@ -23,3 +23,16 @@ A Chance's faintest Tincture
 And in the former Dram  
 Enchantment makes ingredient  
 As certainly as Doom —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Impossibilità, come Vino  
+Esalta l'Uomo  
+Che la gusta; la Possibilità  
+È senza sapore — Unisci  
+
+D'un Caso la più tenue Tintura  
+E nel primo Sorso  
+L'Incanto si fa ingrediente  
+Certo quanto il Destino —

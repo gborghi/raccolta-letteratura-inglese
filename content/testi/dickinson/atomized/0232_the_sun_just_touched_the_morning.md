@@ -32,3 +32,25 @@ The Morning — fluttered — staggered —
 Felt feebly — for Her [[Crown]] —  
 Her unanointed forehead —  
 Henceforth — Her only One!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Sun|Sole]] — sfiorò appena la Mattina —  
+La Mattina — Felice creatura —  
+Credette che Egli fosse venuto a restare —  
+E la Vita sarebbe stata tutta [[spring|Primavera]]!  
+
+Si sentì più che suprema —  
+Una Cosa Innalzata — Eterea!  
+D'ora in poi — per Lei — Che Festa!  
+Intanto — il Suo [[King|Re]] roteante —  
+Trascinava — lento — lungo i Frutteti —  
+I Suoi alteri — Orli scintillanti —  
+Lasciando una nuova necessità!  
+Il bisogno di Diademi!  
+
+La Mattina — palpitò — vacillò —  
+Tastò debolmente — cercando la Sua [[Crown|Corona]] —  
+La Sua fronte non consacrata —  
+D'ora in poi — la Sua sola ed unica!

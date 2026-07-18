@@ -22,3 +22,15 @@ Life's empty Pack is heaviest,
 As every Porter knows —  
 In vain to punish Honey —  
 It only sweeter grows.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le sue Perdite fanno vergognare i nostri Guadagni —  
+Portava il vuoto Fardello della Vita  
+Con tanta gagliardia come se l'Oriente  
+Le oscillasse sulla Schiena.  
+Il vuoto Fardello della Vita è il più pesante,  
+Come ogni Facchino sa —  
+Vano punire il Miele —  
+Non fa che crescere più dolce.

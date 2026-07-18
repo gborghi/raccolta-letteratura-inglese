@@ -23,3 +23,16 @@ Good to know, and not tell,
 Best, to know and tell,  
 Can one find the rare Ear  
 Not too dull —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Bello nascondersi, e sentirli in caccia!  
+Meglio, esser trovati,  
+Se lo si vuole, s'intende,  
+La Volpe si confà al Segugio —  
+
+Bello sapere, e non dire,  
+Ottimo, sapere e dire,  
+Se si trova il raro Orecchio  
+Non troppo ottuso —

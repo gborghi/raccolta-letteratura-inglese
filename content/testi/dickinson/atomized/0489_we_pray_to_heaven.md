@@ -27,3 +27,20 @@ There's no Geography —
 
 But State — Endowal — Focus —  
 Where — Omnipresence — fly?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Preghiamo — il Cielo —  
+Ciarliamo — del Cielo —  
+Raccontiamo — quando i Vicini muoiono —  
+A quale [[Clock|ora]] verso il cielo — fuggirono —  
+Chi li vide — Perché volare?  
+
+È il Cielo un Luogo — un Firmamento — un [[Tree|Albero]]?  
+La via angusta del Dove è per Noi stessi —  
+Per i Morti  
+Non c'è Geografia —  
+
+Ma Stato — Dote — Fuoco —  
+Dove — l'Onnipresenza — vola?

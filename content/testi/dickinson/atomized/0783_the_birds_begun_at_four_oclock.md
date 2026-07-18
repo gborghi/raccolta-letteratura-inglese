@@ -43,3 +43,36 @@ The [[Sun]] engrossed the East —
 The Day controlled the World —  
 The Miracle that introduced  
 Forgotten, as fulfilled.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli [[Birds|Uccelli]] cominciarono alle Quattro in [[Clock|punto]] —  
+Il loro periodo per l'[[Dawn|Alba]] —  
+Una Musica numerosa come lo spazio —  
+Ma vicina come il [[Noon|Mezzogiorno]] —  
+
+Non potevo contarne la Forza —  
+Le loro Voci si spendevano  
+Come Ruscello dopo Ruscello si dona  
+Per moltiplicare lo Stagno.  
+
+Testimoni non ne avevano —  
+Salvo qualche uomo occasionale —  
+In umile industria abbigliato —  
+Per sorprendere il Mattino —  
+
+Né era per applauso —  
+Per quanto potessi accertare —  
+Ma indipendente Estasi  
+Di Divinità e di Uomini —  
+
+Alle Sei, il Diluvio era finito —  
+Nessun Tumulto c'era stato  
+Di Vestizione, o Partenza —  
+Eppure la Banda se n'era andata —  
+
+Il [[Sun|Sole]] assorbì l'Est —  
+Il Giorno governò il Mondo —  
+Il Miracolo che l'aveva introdotto  
+Dimenticato, come compiuto.

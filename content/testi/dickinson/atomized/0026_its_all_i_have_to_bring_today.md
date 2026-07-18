@@ -22,3 +22,15 @@ Be sure you count — should I forget
 Some one the sum could tell —  
 This, and my heart, and all the [[Bees]]  
 Which in the Clover dwell.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È tutto ciò che ho da portare oggi —  
+Questo, e il mio cuore accanto —  
+Questo, e il mio cuore, e tutti i campi —  
+E tutti i vasti prati —  
+Bada a contare — dovessi io scordare  
+Qualcuno la somma saprebbe dire —  
+Questo, e il mio cuore, e tutte le [[Bees]]  
+Che nel Trifoglio dimorano.

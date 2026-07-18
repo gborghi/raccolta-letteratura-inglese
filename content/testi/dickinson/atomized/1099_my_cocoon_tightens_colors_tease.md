@@ -28,3 +28,21 @@ So I must baffle at the Hint
 And cipher at the Sign  
 And make much blunder, if at last  
 I take the clue divine —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio Bozzolo si stringe — i Colori tentano —  
+Vado tastando in cerca d'Aria —  
+Un'oscura capacità di Ali  
+Avvilisce la Veste che indosso —  
+
+Un potere di Farfalla dev'esserci —  
+L'Attitudine a volare  
+Prati di Maestà implica  
+E facili Volteggi di Cielo —  
+
+Così devo smarrirmi al Cenno  
+E decifrare a stento il Segno  
+E molto sbagliare, se alfine  
+Colgo l'indizio divino —

@@ -23,3 +23,16 @@ Possession, not optional —
 Upon an unsuspecting Heir —  
 Duke in a moment of Deathlessness  
 And [[God]], for a Frontier.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho paura di possedere un [[Body|Corpo]] —  
+Ho paura di possedere un'[[Soul|Anima]] —  
+Profonda — precaria Proprietà —  
+Possesso, non facoltativo —  
+
+[[Double|Duplice]] Patrimonio — vincolato a piacere  
+Su un Erede ignaro —  
+Duca in un attimo d'Immortalità  
+E [[God|Dio]], per Frontiera.

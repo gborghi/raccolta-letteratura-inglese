@@ -31,3 +31,24 @@ From just the Purple Flower beyond
 Until constrained to clutch it  
 If Doom itself were the result,  
 The boldest leaped, and clutched it —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di [[Death|Morte]] provo a pensare così —  
+Il [[Well|Pozzo]] in cui ci depongono  
+Non è che la Sembianza del Ruscello  
+Che non minacciava di ucciderci,  
+Ma d'invitare con quello Sgomento  
+Che è il Gusto della dolcezza  
+Verso lo stesso Fiore Esperio,  
+Adescando solo per accoglierci —
+
+Ricordo bene quando da [[Child|Bambina]]  
+Vagando con Compagni più audaci  
+Fin dove un Ruscello che pareva un [[Sea|Mare]]  
+Ci tratteneva col suo fragore  
+Proprio dal Fiore Purpureo di là  
+Finché costretti a ghermirlo  
+Fosse il Destino stesso l'esito,  
+Il più audace balzò, e lo ghermì —

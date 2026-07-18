@@ -26,3 +26,19 @@ A single [[Time|time]]
 To be remembered what —  
 Worthy to be forgot  
 Is my renown
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Essere da te dimenticata  
+Supera la [[Memory|Memoria]]  
+Di altre menti  
+Il Cuore non può dimenticare  
+Se non contempla  
+Ciò che rifiuta  
+Fui considerata allora  
+Sollevata dall'oblio  
+Una sola [[Time|volta]]  
+Per esser ricordata che —  
+Degna d'essere dimenticata  
+È la mia fama

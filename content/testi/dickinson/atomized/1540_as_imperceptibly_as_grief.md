@@ -30,3 +30,23 @@ And thus, without a Wing
 Or service of a Keel  
 Our [[Summer]] made her light escape  
 Into the Beautiful.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Impercettibilmente come il Dolore  
+L'[[Summer|Estate]] svanì via —  
+Troppo impercettibile alfine  
+Per sembrare Perfidia —  
+Una Quiete distillata  
+Come Crepuscolo da tempo iniziato,  
+O la [[Nature|Natura]] che trascorre con se stessa  
+Un appartato Pomeriggio —  
+Il Buio scese più presto —  
+Il Mattino brillò straniero —  
+Una Grazia cortese, eppure straziante,  
+Come Ospite, che vorrebbe andarsene —  
+E così, senza un'Ala  
+O servizio di Chiglia  
+La nostra [[Summer|Estate]] compì la sua lieve fuga  
+Nel Bello.

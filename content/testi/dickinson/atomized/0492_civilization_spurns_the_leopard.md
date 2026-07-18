@@ -28,3 +28,21 @@ Pity — the Pard — that left her Asia —
 Memories — of Palm —  
 Cannot be stifled — with Narcotic —  
 Nor suppressed — with Balm —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Civiltà — sdegna — il Leopardo!  
+Fu il Leopardo — audace?  
+I Deserti — mai rimproverarono il suo Raso —  
+L'Etiope — il suo Oro —  
+Fulvi — i suoi Costumi —  
+Ella ne era Conscia —  
+Screziata — la sua Bruna Veste —  
+Questa era la [[Nature|natura]] del Leopardo — Signor —  
+Deve — un custode — accigliarsi?  
+
+Compiangete — il Pardo — che lasciò la sua Asia —  
+Memorie — di Palma —  
+Non si soffocano — con Narcotico —  
+Né si placano — con Balsamo —

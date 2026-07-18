@@ -29,3 +29,22 @@ The morning lit — the [[Birds]] arose —
 The [[Monster]]'s faded eyes  
 Turned slowly to his native coast —  
 And peace — was Paradise!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un'orrenda Tempesta schiacciò l'aria —  
+Le nubi eran scarne, e rade —  
+Un Nero — come di Manto di Spettro  
+Celò Cielo e Terra alla vista.  
+
+Le creature ridacchiavano sui Tetti —  
+E fischiavano nell'aria —  
+E scuotevano i pugni —  
+E digrignavano i denti —  
+E agitavano i capelli frenetici.  
+
+Il mattino s'accese — gli [[Birds|Uccelli]] si levarono —  
+Gli occhi spenti del [[Monster|Mostro]]  
+Si volsero lenti alla costa natia —  
+E la pace — era Paradiso!

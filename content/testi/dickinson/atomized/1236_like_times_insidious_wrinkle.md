@@ -23,3 +23,16 @@ The [[Frost]] himself so comely
 Dishevels every prime  
 Asserting from his Prism  
 That none can punish him
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come l'insidiosa ruga del [[Time|Tempo]]  
+Su un Volto amato  
+Stringiamo la Grazia più forte  
+Pur risentendo della piega  
+
+Il [[Frost|Gelo]] stesso così leggiadro  
+Scompiglia ogni fioritura  
+Asserendo dal suo Prisma  
+Che nessuno può punirlo

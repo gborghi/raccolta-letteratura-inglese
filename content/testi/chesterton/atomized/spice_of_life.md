@@ -11244,7 +11244,7 @@ THE SPICE OF LIFE
 
 by
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Sul [[Essay|Saggio]] Un estratto dall'ultimo paragrafo di un [[Essay|saggio]] introduttivo
 agli Essays of the Year 1931-32. Pubblicato da The Argonaut Press, 1932

@@ -33,3 +33,26 @@ It — may jolt the Hand
 That adjusts the Hair  
 That secures [[Eternity]]  
 From presenting — Here —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Crisi è un Capello  
+Verso cui le forze strisciano  
+Oltre cui le forze retrocedono  
+Se giunge nel [[Sleep|sonno]]  
+
+Sospendere il Respiro  
+È il più che possiamo  
+Ignari se sia Vita o [[Death|Morte]]  
+Sottilmente in bilico.  
+
+Che un istante spinga  
+O un Atomo prema  
+O un Cerchio esiti  
+Nella Circonferenza  
+
+Ciò — può scuotere la Mano  
+Che regola il Capello  
+Che trattiene l'[[Eternity|Eternità]]  
+Dal presentarsi — Qui —

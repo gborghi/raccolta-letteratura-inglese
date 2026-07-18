@@ -23,3 +23,16 @@ All men meet as if
 Each foreclosed a news —  
 Fresh as a Cargo from Batize  
 [[Nature]]'s qualities —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo che il [[Sun|Sole]] appare  
+Come altera il Mondo —  
+Carri come messaggeri corrono qua e là  
+Ieri è vecchio —  
+
+Tutti gli uomini s'incontrano come se  
+Ognuno serbasse una notizia —  
+Fresche come un Carico da Batize  
+Le qualità della [[Nature|Natura]] —

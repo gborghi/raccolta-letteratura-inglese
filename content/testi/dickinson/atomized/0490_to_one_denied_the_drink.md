@@ -23,3 +23,16 @@ To lead Him to the [[Well]]
 And let Him hear it drip  
 Remind Him, would it not, somewhat  
 Of His condemned lip?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A Chi è negato di bere  
+Dire che cosa sia l'[[Water|Acqua]]  
+Sarebbe più acuto, non è vero  
+Che lasciarglielo supporre?  
+
+Condurlo fino al [[Well|Pozzo]]  
+E fargli udire il gocciolìo  
+Gli rammenterebbe, non è vero, un poco  
+Il Suo labbro condannato?

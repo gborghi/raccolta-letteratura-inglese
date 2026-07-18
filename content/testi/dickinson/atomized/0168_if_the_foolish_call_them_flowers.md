@@ -38,3 +38,31 @@ Low amid that glad Belles lettres
 Grant that we may stand,  
 [[Stars]], amid profound Galaxies —  
 At that grand "Right hand"!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se gli stolti, li chiamano "[[Flowers|fiori]]" —  
+Occorre che i più saggi, dicano?  
+Se i Sapienti li "Classificano"  
+Va altrettanto [[Well|bene]]!  
+
+Chi legge le "Rivelazioni"  
+Non deve criticare  
+Chi legge la stessa Edizione —  
+Con Occhi annebbiati!  
+
+Potessimo stare con quel Vecchio "[[Moses|Mosè]]" —  
+Negata "Canaan" —  
+Scrutare come lui, il paesaggio maestoso  
+Dall'altra parte —  
+
+Senza dubbio, giudicheremmo superflue  
+Molte Scienze,  
+Non coltivate dagli Angeli dotti  
+In cieli scolastici!  
+
+Umili fra quelle liete Belles lettres  
+Concedi che possiamo stare,  
+[[Stars|Stelle]], fra Galassie profonde —  
+A quella grande "Destra"!

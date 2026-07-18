@@ -23,3 +23,16 @@ Of Heaven above the firmest proof
 We fundamental know  
 Except for its marauding Hand  
 It had been Heaven below.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Immortale è una parola ampia  
+Quando ciò che ci serve è accanto  
+Ma quando ci [[Leaves|lascia]] per un [[Time|tempo]]  
+È una necessità.  
+
+Del Cielo lassù la prova più ferma  
+Che in fondo conosciamo  
+Se non fosse per la sua Mano predatrice  
+Sarebbe stato Cielo quaggiù.

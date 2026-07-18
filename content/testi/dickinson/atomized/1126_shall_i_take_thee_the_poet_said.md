@@ -28,3 +28,21 @@ That portion of the Vision
 The Word applied to fill  
 Not unto nomination  
 The Cherubim reveal —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dovrò prenderti, disse il Poeta  
+Per la parola proposta?  
+Sta' schierata con i Candidati  
+Finché non abbia meglio vagliato —  
+
+Il Poeta scrutò la Filologia  
+E quando stava per chiamare  
+Il Candidato sospeso  
+Entrò non convocata —  
+
+Quella porzione della Visione  
+Che la Parola doveva colmare  
+Non alla nomina  
+I Cherubini rivelano —

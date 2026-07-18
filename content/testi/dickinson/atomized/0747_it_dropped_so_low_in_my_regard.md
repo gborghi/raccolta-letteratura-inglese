@@ -23,3 +23,16 @@ Yet blamed the Fate that flung it — less
 Than I denounced Myself,  
 For entertaining Plated Wares  
 Upon my Silver Shelf —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cadde così in basso — nella mia Stima —  
+Lo udii colpire il Suolo —  
+E andare in pezzi sulle Pietre  
+In [[Bottom|fondo]] alla mia Mente —  
+
+Eppure incolpai il Fato che lo scagliò — meno  
+Di quanto denunciai Me stessa,  
+Per aver accolto Stoviglie Placcate  
+Sul mio Ripiano d'Argento —

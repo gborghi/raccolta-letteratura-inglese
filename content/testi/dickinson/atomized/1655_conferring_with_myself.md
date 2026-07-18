@@ -22,3 +22,15 @@ How paltry looked my cares
 My practise how absurd  
 Superfluous my whole career  
 Beside this travelling Bird
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conferendo con me stessa  
+Il mio straniero scomparve  
+Benché prima su una bacca grassa  
+Miracolosamente banchettasse  
+Che meschine parvero le mie cure  
+La mia pratica che assurda  
+Superflua l'intera mia carriera  
+Accanto a questo Uccello viaggiatore

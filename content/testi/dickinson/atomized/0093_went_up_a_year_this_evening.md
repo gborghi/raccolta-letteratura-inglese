@@ -38,3 +38,31 @@ Ascended from our vision
 To Countenances new!  
 A Difference — A Daisy —  
 Is all the rest I knew!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Salì un anno fa questa sera!  
+Lo ricordo [[Well|bene]]!  
+Senza [[Bells|campane]] né evviva  
+Lo diranno gli astanti!  
+Lieto — come verso il villaggio —  
+Tranquillo — come verso il riposo —  
+Contrito — come verso la Cappella  
+Questo umile Turista [[Rose|salì]]!  
+Non parlò di ritorno!  
+Non alluse a nessun [[Time|tempo]]  
+In cui, propizi i venti —  
+Potremmo attenderlo!  
+Fu grato per le Rose  
+Nel vario bouquet della vita —  
+Parlò sommesso di nuove specie  
+Da cogliere un altro giorno;  
+Ingannando così lo [[Wonder|stupore]]  
+Il prodigioso più vicino venne —  
+Mani s'affaccendarono agli ormeggi —  
+La [[Crown|corona]] crebbe rispettosa —  
+Ascese dalla nostra vista  
+Verso Volti nuovi!  
+Una Differenza — Una Margherita —  
+È tutto il resto che seppi!

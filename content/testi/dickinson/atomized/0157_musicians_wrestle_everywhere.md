@@ -34,3 +34,27 @@ Of vanished Dames — and Men!
 Some — think it service in the place  
 Where we — with late — celestial face —  
 Please [[God]] — shall Ascertain!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Musicisti lottano ovunque —  
+Tutto il giorno — nell'aria affollata  
+Odo la contesa d'argento —  
+E — sveglia — molto prima del mattino —  
+Tale rapimento irrompe sulla città  
+Che penso sia quella "Nuova Vita"!  
+
+Se non è Uccello — non ha nido —  
+Né "Banda" — in ottone e scarlatto — vestita —  
+Né Tamburello — né Uomo —  
+Non è [[Hymn|Inno]] letto dal pulpito —  
+Le "[[Stars|Stelle]] del Mattino" guidarono il Soprano  
+Nel primo Pomeriggio del [[Time|Tempo]]!  
+
+Alcuni — dicono — sono "le Sfere" — in gioco!  
+Alcuni dicono la splendente Maggioranza  
+Di Dame svanite — e Uomini!  
+Alcuni — la credono funzione nel luogo  
+Dove noi — con tardo — celestiale volto —  
+Piaccia a [[God|Dio]] — l'Accerteremo!

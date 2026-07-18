@@ -28,3 +28,21 @@ Edifice of Ocean
 Thy tumultuous Rooms  
 Suit me at a venture  
 Better than the Tombs
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fortezza incarnata  
+Qui è riposta  
+Nelle rapide Partizioni  
+Del tremendo [[Sea|Mare]] —  
+
+Balbettio dei Felici  
+Cavillo degli Audaci  
+Canuto il Compimento  
+Ma il [[Sea|Mare]] è vecchio  
+
+Edificio d'Oceano  
+Le tue tumultuose Stanze  
+Mi si confanno all'azzardo  
+Meglio delle Tombe

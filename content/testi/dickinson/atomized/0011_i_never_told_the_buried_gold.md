@@ -39,3 +39,32 @@ Could a shrewd advise me
 We might e'en divide -  
 Should a shrewd betray me -  
 "Atropos" decide -
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non dissi mai dell'oro sepolto  
+Sulla [[Hill|collina]] che giace -  
+Vidi il [[Sun|sole]], compiuta la sua razzia -  
+Accucciarsi basso a custodire la preda -
+
+Stava così vicino  
+Come qui tu stavi -  
+Un passo era fra noi -  
+Avesse solo un serpente tagliato il roveto  
+La mia vita sarebbe stata perduta.
+
+Era un bottino meraviglioso.  
+Io [[Hope|spero]] fosse onesto guadagno -  
+Erano i lingotti più belli  
+Che mai baciarono la vanga.
+
+Se serbare il segreto -  
+Se rivelarlo -  
+Se mentre pondero  
+Kidd d'improvviso salpi -
+
+Potesse un astuto consigliarmi  
+Potremmo pur dividere -  
+Dovesse un astuto tradirmi -  
+"Atropo" decida -

@@ -23,3 +23,16 @@ How dreary — to be — Somebody!
 How public — like a Frog —  
 To tell one's name — the livelong June —  
 To an admiring Bog!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io sono Nessuno! Tu chi sei?  
+Sei — Nessuno — anche tu?  
+Allora siamo in due!  
+Non dirlo! lo strombazzerebbero — sai.  
+
+Che tristezza — essere — Qualcuno!  
+Che cosa pubblica — come una Rana —  
+Dire il proprio nome — per tutto giugno —  
+A un Pantano in ammirazione!

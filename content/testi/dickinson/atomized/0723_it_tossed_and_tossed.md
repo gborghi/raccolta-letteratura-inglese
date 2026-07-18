@@ -28,3 +28,21 @@ Ah, Brig — Good [[Night]]
 To Crew and You —  
 The Ocean's Heart too smooth — too Blue —  
 To break for You —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sbandava — e sbandava —  
+Un piccolo Brigantino che conoscevo — colto dalla Raffica —  
+Girava — e girava —  
+E brancolava delirante, verso il Mattino —  
+
+Scivolava — e scivolava —  
+Come Uno che ubriaco — incede —  
+Il suo bianco piede inciampò —  
+Poi sparì alla vista —  
+
+Ah, Brigantino — Buona [[Night|Notte]]  
+A Ciurma e a Te —  
+Il Cuore dell'Oceano troppo liscio — troppo Azzurro —  
+Per spezzarsi per Te —

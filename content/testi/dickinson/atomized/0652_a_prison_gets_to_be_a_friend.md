@@ -55,3 +55,48 @@ The [[Liberty]] we knew
 Avoided — like [[A Dream|a Dream]] —  
 Too wide for any [[Night]] but Heaven —  
 If That — indeed — redeem —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una [[Prison|Prigione]] arriva a essere amica —  
+Fra il suo volto Ponderoso  
+E il Nostro — s'esprime una Parentela —  
+E nei suoi Occhi stretti —  
+
+Giungiamo a guardare con gratitudine  
+Il Raggio assegnato  
+Che ci porge — fissato come il nostro cibo —  
+E bramato — allo stesso modo —  
+
+Impariamo a conoscere le Assi —  
+Che rispondono ai Nostri piedi —  
+Suono così misero — dapprima —  
+Né mai ora — così dolce —  
+
+Come sguazzare nelle Pozze —  
+Quando la [[Memory|Memoria]] era un Fanciullo —  
+Ma un Circuito più Ritroso —  
+Una Geometrica [[Joy|Gioia]] —  
+
+La Postura della Chiave  
+Che interrompe il Giorno  
+Al Nostro Sforzo — Non così reale  
+Il Freno della [[Liberty|Libertà]] —  
+
+Quanto questo Acciaio Fantasma —  
+I cui tratti — Giorno e [[Night|Notte]] —  
+Ci sono presenti — come i Nostri —  
+E altrettanto — senza scampo —  
+
+Il Giro stretto — la Misura —  
+691  
+
+Il lento scambio di [[Hope|Speranza]] —  
+Per qualcosa di più passivo — Appagamento  
+Troppo ripido per alzare lo sguardo —  
+
+La [[Liberty|Libertà]] che conoscevamo  
+Evitata — come [[A Dream|un Sogno]] —  
+Troppo vasta per ogni [[Night|Notte]] tranne il Cielo —  
+Se Quello — davvero — redime —

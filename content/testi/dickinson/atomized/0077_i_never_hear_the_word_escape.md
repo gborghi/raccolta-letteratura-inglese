@@ -23,3 +23,16 @@ I never hear of prisons broad
 By soldiers battered down,  
 But I tug childish at my bars  
 Only to fail again!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non odo mai la parola "fuga"  
+Senza un più rapido [[Blood|sangue]],  
+Un'improvvisa attesa  
+Un'attitudine al volo!  
+
+Non odo mai di vaste prigioni  
+Da soldati abbattute,  
+Senza tirare infantile le mie sbarre  
+Solo per fallire ancora!

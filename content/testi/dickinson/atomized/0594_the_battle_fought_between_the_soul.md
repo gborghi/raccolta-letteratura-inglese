@@ -28,3 +28,21 @@ Nor [[history|History]] — record it —
 As Legions of a [[Night]]  
 The Sunrise scatters — These endure —  
 Enact — and terminate —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Battaglia combattuta tra l'[[Soul|Anima]]  
+E Nessuno — è quella  
+Fra tutte le Battaglie in corso —  
+Di gran lunga la Maggiore —  
+
+Nessuna Notizia ne giunge fuori —  
+La sua Campagna Incorporea  
+Si stabilisce, e termina —  
+Invisibile — Ignota —  
+
+Né la [[history|Storia]] — la registra —  
+Come Legioni d'una [[Night|Notte]]  
+Che l'Alba disperde — Queste durano —  
+Agiscono — e terminano —

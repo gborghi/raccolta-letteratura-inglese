@@ -38,3 +38,31 @@ So I begin to ransack!
 How is it Hearts, with Thee?  
 Art thou within the little Barn  
 [[Love]] provided Thee?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cauta, scrutai la mia piccola vita —  
+Vagliai ciò che sarebbe sfiorito  
+Da ciò che sarebbe durato finché Teste come la mia  
+Fossero deposte a sognare.  
+
+Riposi il secondo in un Granaio —  
+Il primo, lo dispersi al vento.  
+Andai un mattino d'[[Winter|inverno]]  
+Ed ecco - il mio Fieno inestimabile  
+
+Non era sull'"Impalcatura" —  
+Non era sulla "Trave" —  
+E da florida Fattrice —  
+Cinica, divenni.  
+
+Se fu un Ladro a farlo —  
+Se fu il [[Wind|vento]] —  
+Se la Divinità è innocente —  
+Il mio compito è, scoprirlo!  
+
+Così comincio a rovistare!  
+Come va, Cuori, con Te?  
+Sei tu dentro il piccolo Granaio  
+Che l'[[Love|Amore]] Ti provvide?

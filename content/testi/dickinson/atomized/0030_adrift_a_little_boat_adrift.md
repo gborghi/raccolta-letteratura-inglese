@@ -29,3 +29,22 @@ Just as the [[Dawn|dawn]] was red
 One little boat — o'erspent with gales —  
 Retrimmed its masts — redecked its sails —  
 And shot — exultant on!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alla deriva! Una piccola barca alla deriva!  
+E la [[Night|notte]] sta scendendo!  
+Nessuno guiderà una piccola barca  
+Fino al paese più vicino?  
+
+Così dicono i Marinai — proprio ieri —  
+Mentre il crepuscolo era bruno  
+Una piccola barca cedette la sua lotta  
+E gorgogliando affondò giù e giù.  
+
+Così dicono gli angeli — proprio ieri —  
+Mentre l'[[Dawn|alba]] era rossa  
+Una piccola barca — sfinita dalle burrasche —  
+Rialzò gli alberi — rifece le vele —  
+E filò — esultante avanti!

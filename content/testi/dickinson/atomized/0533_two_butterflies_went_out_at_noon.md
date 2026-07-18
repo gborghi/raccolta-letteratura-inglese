@@ -28,3 +28,21 @@ If spoken by the distant Bird —
 If met in Ether [[Sea]]  
 By Frigate, or by Merchantman —  
 No notice — was — to me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Due farfalle uscirono a [[Noon|Mezzogiorno]] —  
+E danzarono il valzer su una Fattoria —  
+Poi passarono dritte oltre il Firmamento  
+E riposarono, su un Raggio —  
+
+E poi — insieme presero il largo  
+Sopra un [[Sea|Mare]] splendente —  
+Benché mai, in alcun Porto —  
+Il loro arrivo, menzionato — sia —  
+
+Se dette dall'Uccello distante —  
+Se incontrate nell'Etereo [[Sea|Mare]]  
+Da Fregata, o da Mercantile —  
+Nessuna notizia — giunse — a me —

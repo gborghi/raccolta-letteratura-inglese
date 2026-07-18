@@ -23,3 +23,16 @@ Impanelled from no [[Summer]] brief —
 With limit of [[Decay]] —  
 'Twas [[Noon]] — without the News of [[Night]] —  
 Nay, [[Nature]], it was Day —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al mio piccolo Focolare venne il Suo [[Fire|fuoco]] —  
+E tutta la mia [[house|Casa]] in ardore  
+Ondeggiò e vibrò, di luce improvvisa —  
+Era Aurora — era il Cielo —  
+
+Insediato da nessuna breve [[Summer|Estate]] —  
+Con limite di [[Decay|Declino]] —  
+Era [[Noon|Mezzogiorno]] — senza Notizia di [[Night|Notte]] —  
+No, [[Nature|Natura]], era Giorno —

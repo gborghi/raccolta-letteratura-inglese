@@ -25,3 +25,18 @@ Nor any flight
 But he doth there preside  
 What omnipresence lies in wait  
 For her to be a Bride
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tutto ciò che faccio  
+È in rassegna  
+Alla sua mente innamorata  
+So che il suo occhio  
+Ovunque io vada  
+Incalza da presso  
+Non v'è Porto  
+Né fuga alcuna  
+Dove egli non presieda  
+Quale onnipresenza sta in agguato  
+Perché ella sia Sposa

@@ -23,3 +23,16 @@ Cautious, hint to any Captive
 You have passed enfranchised feet!  
 Anecdotes of air in Dungeons  
 Have sometimes proved deadly sweet!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Parla con prudenza a un Mendicante  
+Di "Potose," e delle miniere!  
+Con reverenza, all'Affamato  
+Delle tue vivande, e dei tuoi vini!  
+
+Cauto, accenna a qualunque Prigioniero  
+Che sei passato con piedi affrancati!  
+Aneddoti d'aria nelle Segrete  
+Si son rivelati a volte mortalmente dolci!

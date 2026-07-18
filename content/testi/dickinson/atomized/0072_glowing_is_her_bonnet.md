@@ -28,3 +28,21 @@ Save by loving sunrise
 Looking for her face.  
 Save by feet unnumbered  
 Pausing at the place.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ardente è la sua Cuffia,  
+Ardente è la sua Guancia,  
+Ardente è la sua Gonnella,  
+Eppure non può parlare.  
+
+Meglio come la Margherita  
+Dall'[[Summer|Estivo]] [[Hill|colle]]  
+Svanire non registrata  
+Se non dal rivo lacrimoso —  
+
+Se non dall'aurora amorosa  
+Che cerca il suo volto.  
+Se non da piedi innumerevoli  
+Che sostano su quel luogo.

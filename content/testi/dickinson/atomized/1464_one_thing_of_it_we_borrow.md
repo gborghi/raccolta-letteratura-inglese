@@ -22,3 +22,15 @@ One thing of it we covet —
 The power to forget —  
 The Anguish of the Avarice  
 Defrays the Dross of it —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una cosa ne prendiamo in prestito  
+E promettiamo di renderla —  
+Il Bottino e la Pena  
+D'averne conosciuto la Dolcezza —  
+Una cosa ne bramiamo —  
+Il potere di dimenticare —  
+L'Angoscia dell'Avarizia  
+Ne ripaga la Scoria —

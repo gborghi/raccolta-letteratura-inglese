@@ -39,3 +39,32 @@ So safer — guess — with just my [[Soul|soul]]
 Upon the [[Window]] pane —  
 Where other Creatures put their eyes —  
 Incautious — of the [[Sun]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prima che mi si spegnesse l'occhio  
+Amavo vedere [[Well|bene]] quanto —  
+Le altre Creature, che hanno Occhi  
+E non conoscono altra via —  
+
+Ma se mi si dicesse — Oggi —  
+Che potrei avere il cielo  
+Per mio — vi dico che il mio Cuore  
+Si spaccherebbe, per la mia misura —  
+
+I Prati — miei —  
+Le [[Mountains|Montagne]] — mie —  
+Tutte le Foreste — [[Stars|Stelle]] senza misura —  
+Tanto [[Noon|Mezzogiorno]] quanto potessi prenderne  
+Fra i miei occhi finiti —  
+
+I Moti degli [[Birds|Uccelli]] in tuffo —  
+La [[Road|Strada]] d'Ambra del Mattino —  
+Per miei — da guardare a mio piacere —  
+La Notizia mi fulminerebbe —  
+
+Più sicuro — direi — con la sola mia [[Soul|anima]]  
+Sul vetro della [[Window|Finestra]] —  
+Dove le altre Creature posano gli occhi —  
+Incaute — del [[Sun|Sole]] —

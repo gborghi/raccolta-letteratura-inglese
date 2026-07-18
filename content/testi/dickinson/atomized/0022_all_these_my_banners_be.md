@@ -37,3 +37,30 @@ Let us chant it softly —
 
 To him who keeps an Orchis' heart —  
 The swamps are pink with June.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tutti questi i miei vessilli siano.  
+Semino il mio corteo  
+In Maggio —  
+Sorge schiera dopo schiera —  
+Poi dorme di nuovo in pompa —  
+Mio presbiterio — tutta la piana  
+Oggi.  
+
+Perdere — se si può ritrovare —  
+Mancare — se ci si incontrerà —  
+Il Ladro non può rubare — allora —  
+Il Sensale non può ingannare.  
+Innalza dunque lieta i poggetti  
+Tu piccola vanga mia  
+Lasciando angoli per la Margherita  
+E per l'Aquilegia —  
+Tu ed io il segreto  
+Del Croco conosciamo —  
+Cantiamolo sommessi —  
+"Non c'è più [[Snow|neve]]!"  
+
+A chi serba un cuore d'Orchidea —  
+Le paludi sono rosa di Giugno.

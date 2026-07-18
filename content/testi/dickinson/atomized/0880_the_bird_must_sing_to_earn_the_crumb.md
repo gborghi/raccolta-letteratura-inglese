@@ -23,3 +23,16 @@ To gain renown of Lady's Drawer
 But if the Lady come  
 But once a Century, the [[Rose]]  
 Superfluous become —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Uccello deve cantare per guadagnarsi la Briciola  
+Qual merito ha la Melodia  
+Se Colazione non garantisce  
+
+La [[Rose|Rosa]] contenta può fiorire  
+Per ottenere fama nel Cassetto della Dama  
+Ma se la Dama viene  
+Solo una volta al Secolo, la [[Rose|Rosa]]  
+Superflua diviene —

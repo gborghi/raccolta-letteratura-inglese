@@ -23,3 +23,16 @@ That if it be, it be at best
 An ablative estate —  
 This instigates an appetite  
 Precisely opposite.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che mai più ritornerà  
+È ciò che fa la vita così dolce.  
+Credere ciò che non crediamo  
+Non esalta.  
+
+Che se pur sia, sia al più  
+Un possesso ablativo —  
+Questo istiga un appetito  
+Precisamente opposto.

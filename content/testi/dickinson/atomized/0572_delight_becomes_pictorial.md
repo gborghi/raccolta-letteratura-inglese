@@ -23,3 +23,16 @@ The Mountain — at a given distance —
 In Amber — lies —  
 Approached — the Amber flits — a little —  
 And That's — the Skies —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Delizia — si fa pittorica —  
+Se contemplata attraverso il [[Pain|Dolore]] —  
+Più bella — perché impossibile  
+Di ogni guadagno —  
+
+La Montagna — a una data distanza —  
+Nell'Ambra — giace —  
+Avvicinata — l'Ambra guizza — un poco —  
+E Quelli — sono i Cieli —

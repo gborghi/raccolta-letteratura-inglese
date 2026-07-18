@@ -33,3 +33,26 @@ A Reef - crawled easy from the [[Sea]]
 Eats off the Brittle Line -  
 The Sailor doesn't know the Stroke -  
 Until He's past the [[Pain]] -
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo lascio a volte, per un Attimo —  
+Il Pensiero d'esser viva —  
+Anonimo Diletto saperlo —  
+E più Folle — concepirlo —  
+
+Consola una Pena sì mostruosa  
+Che se lacerasse tutto il Giorno,  
+Senza un istante di Tregua —  
+Parrebbe troppo lontano — Morire —  
+
+Il Delirio - distrae il Misero  
+Per Cui nitrisce il Patibolo -  
+Il Moto dell'Amaca culla le Teste  
+Così prossime al Paradiso -  
+
+Uno Scoglio - strisciato lieve dal [[Sea|Mare]]  
+Divora la Fragile Linea -  
+Il Marinaio non sa il Colpo -  
+Finché non è oltre il [[Pain|Dolore]] -

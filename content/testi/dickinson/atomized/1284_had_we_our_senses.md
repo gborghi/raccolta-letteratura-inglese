@@ -23,3 +23,16 @@ Had we the eyes without our Head —
 How [[Well|well]] that we are Blind —  
 We could not look upon the Earth —  
 So utterly unmoved —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avessimo i nostri sensi  
+Ma forse è [[Well|bene]] che non siano a [[Home|Casa]]  
+Così intimi con la [[Madness|Follia]]  
+Egli con essi vi è esposto  
+
+Avessimo gli occhi senza la Testa —  
+Che [[Well|bene]] che siamo Ciechi —  
+Non potremmo guardare la Terra —  
+Così del tutto impassibili —

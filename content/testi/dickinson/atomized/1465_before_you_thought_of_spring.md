@@ -30,3 +30,23 @@ To some superior [[Tree]]
 Without a single Leaf  
 And shouts for [[Joy|joy]] to Nobody  
 But his seraphic [[Self|self]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prima che pensassi alla [[spring|Primavera]]  
+Se non come Congettura  
+Vedi — [[God|Dio]] benedica la sua subitaneità —  
+Un Tipo nei Cieli  
+Di Tinte indipendenti  
+Un poco logoro dal tempo  
+Vesti rincuoranti  
+Di Indaco e Bruno —  
+Con esemplari di [[Song|Canto]]  
+Come perché tu scelga —  
+Discrezione nell'intervallo  
+Con gaie soste se ne va  
+Verso un [[Tree|Albero]] superiore  
+Senza una sola Foglia  
+E grida di [[Joy|gioia]] a Nessuno  
+Se non al suo serafico [[Self|sé]] —

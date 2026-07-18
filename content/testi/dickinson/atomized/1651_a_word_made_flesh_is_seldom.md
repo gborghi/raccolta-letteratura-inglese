@@ -31,3 +31,24 @@ It may expire if He —
 Could condescension be  
 Like this consent of Language  
 This loved Philology.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Verbo fatto Carne è di rado  
+E tremando condiviso  
+Né forse allora riferito  
+Ma se non ho errato  
+Ognuno di noi ha gustato  
+Con estasi furtive  
+Il cibo stesso dibattuto  
+Per la nostra specifica forza —  
+
+Un Verbo che respira distinto  
+Non ha il potere di morire  
+Coesivo come lo Spirito  
+Può spirare se Egli —  
+"Fatto Carne e dimorò fra noi"  
+Potesse condiscendenza essere  
+Come questo consenso del Linguaggio  
+Questa amata Filologia.

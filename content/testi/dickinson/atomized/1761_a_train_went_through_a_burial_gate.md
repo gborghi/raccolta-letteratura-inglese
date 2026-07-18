@@ -23,3 +23,16 @@ And then adjusted his little notes,
 And bowed and sang again.  
 Doubtless, he thought it meet of him  
 To say good-by to men.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un corteo varcò la porta d'un cimitero,  
+Un uccello proruppe nel canto,  
+E trillò, e fremette, e scosse la gola  
+Finché tutto il camposanto risuonò ;  
+
+E poi aggiustò le sue piccole note,  
+E s'inchinò e cantò di nuovo.  
+Senza dubbio, pensò che gli si addicesse  
+Dire addio agli uomini.

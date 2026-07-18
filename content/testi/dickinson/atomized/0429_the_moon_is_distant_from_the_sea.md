@@ -28,3 +28,21 @@ Oh, Signor, Thine, the Amber Hand —
 And mine — the distant [[Sea]] —  
 Obedient to the least command  
 Thine eye impose on me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Moon]] è distante dal [[Sea]] —  
+Eppure, con Mani d'Ambra —  
+Lei lo guida — docile come un Fanciullo —  
+Lungo Sabbie designate —  
+
+Lui non sbaglia mai un Grado —  
+Obbediente al Suo Occhio  
+Viene fin qui — verso la Città —  
+Fin lì — se ne va —  
+
+Oh, Signor, Tua, la Mano d'Ambra —  
+E mio — il distante [[Sea]] —  
+Obbediente al minimo comando  
+Che il tuo occhio m'imponga —

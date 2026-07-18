@@ -28,3 +28,21 @@ Mine be the Ministry
 When thy Thirst comes —  
 And Hybla Balms —  
 Dews of Thessaly, to fetch —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Mondo — sembra Polveroso  
+Quando Ci fermiamo a Morire —  
+Vogliamo la [[Dew|Rugiada]] — allora —  
+Gli Onori — sanno di secco —  
+
+Le Bandiere — vessano un volto Morente —  
+Ma il più piccolo Ventaglio  
+Mosso dalla Mano di un amico —  
+Rinfresca — come la [[Rain|Pioggia]] —  
+
+Mio sia il Ministero  
+Quando verrà la tua Sete —  
+E i Balsami di Ibla —  
+Rugiade di Tessaglia, a recare —

@@ -33,3 +33,26 @@ What need of Day —
 To Those whose Dark — hath so — surpassing [[Sun]] —  
 It deem it be — Continually —  
 At the Meridian?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ti vedo meglio — nel Buio —  
+non mi occorre una Luce —  
+l'[[Love|Amore]] di Te — sia un Prisma —  
+che supera il Violetto —  
+
+Ti vedo meglio per gli Anni  
+che s'ingobbiscono frammezzo —  
+la Lampada del Minatore — basti —  
+ad annullare la Miniera —  
+
+E nella [[Grave|Tomba]] — Ti vedo al meglio —  
+i suoi piccoli Pannelli sono  
+ardenti — tutti rosseggianti — della Luce  
+che tenni sì alta, per Te —  
+
+Che bisogno del Giorno —  
+per Quelli il cui Buio — ha un sì — eccelso [[Sun|Sole]] —  
+da stimare che sia — di Continuo —  
+al Meridiano?

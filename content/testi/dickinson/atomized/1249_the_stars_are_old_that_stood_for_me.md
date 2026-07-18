@@ -23,3 +23,16 @@ Presuming on that lone result
 Her infinite disdain  
 But vanquished her with my defeat  
 'Twas Victory was slain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le [[Stars|Stelle]] sono antiche, che stavano per me —  
+L'Ovest un poco logoro —  
+Eppur più nuovo splende il solo Oro  
+Che mai mi importò guadagnare —  
+
+Presumendo su quel solitario esito  
+Il suo infinito sdegno  
+Ma la vinsi con la mia disfatta  
+Fu la Vittoria a esser uccisa.

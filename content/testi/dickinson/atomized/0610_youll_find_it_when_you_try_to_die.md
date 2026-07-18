@@ -33,3 +33,26 @@ And Thought of them — so fair invites —
 It looks too tawdry Grace  
 To stay behind — with just the Toys  
 We bought — to ease their place —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo scoprirai — quando cercherai di morire —  
+tanto più Facile lasciare andare —  
+ricordando quelli che andarono —  
+di cui non potevi fare a meno — lo sai.  
+
+E benché i loro posti un poco colmati —  
+come i loro nomi di Marmo  
+di Muschio — mai si fecero sì pieni —  
+che tu scegliessi i nomi più nuovi —  
+
+E quando questo Mondo — arretra più lontano —  
+come il Morire — dicono — fa —  
+l'antico [[Love|amore]] — più distinto cresce —  
+e soppianta il recente —  
+
+E il Pensiero di loro — sì dolce invita —  
+che pare Grazia troppo vile  
+restare indietro — con i soli Balocchi  
+che comprammo — per lenire il loro posto —

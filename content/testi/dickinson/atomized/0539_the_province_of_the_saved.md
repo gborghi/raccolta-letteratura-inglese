@@ -28,3 +28,21 @@ To qualify [[Despair]]
 To Those who failing new —  
 Mistake Defeat for [[Death]] — Each [[Time|time]] —  
 Till acclimated — to —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Provincia dei Salvati  
+Dovrebbe essere l'Arte — Di salvare —  
+Per Perizia acquisita in Se stessi —  
+La Scienza della [[Grave|Tomba]]  
+
+Nessun Uomo può comprendere  
+Se non Colui che ha patito  
+La Dissoluzione — in Se stesso —  
+Quell'Uomo — sia qualificato  
+
+A qualificare la [[Despair|Disperazione]]  
+Per Quelli che, nuovi al fallire —  
+Scambiano la Sconfitta per [[Death|Morte]] — Ogni [[Time|volta]] —  
+Finché acclimatati — a —

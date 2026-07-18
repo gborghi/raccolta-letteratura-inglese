@@ -35,3 +35,28 @@ How different Victory
 To Him who has it — and the One  
 Who to have had it, would have been  
 Contenteder — to die —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La mia Porzione è Sconfitta — oggi —  
+Fortuna più pallida che Vittoria —  
+Meno Peana — meno [[Bells|Campane]] —  
+I Tamburi non Mi seguono — con musiche —  
+Sconfitta — un mezzo — alquanto più lento —  
+Più Arduo delle Palle di cannone —  
+
+È popolata d'Ossa e macchia —  
+E Uomini troppo rigidi per chinarsi ancora —,  
+E Cumuli di solido Gemito —  
+E Schegge di Vuoto — in Occhi di Ragazzo —  
+E brandelli di [[prayer|Preghiera]] —  
+E la sorpresa della [[Death|Morte]],  
+Stampata visibile — nella Pietra —  
+
+C'è qualcosa di più fiero, laggiù —  
+Le Trombe lo dicono all'Aria —  
+Com'è diversa la Vittoria  
+Per Chi la possiede — e per Colui  
+Che ad averla avuta, sarebbe stato  
+Più Contento — di morire —

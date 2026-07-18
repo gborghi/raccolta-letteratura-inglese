@@ -33,3 +33,26 @@ Our panting Ankle barely passed —
 When [[Night]] devoured the [[Road]] —  
 But we — stood whispering in the [[house|House]] —  
 And all we said — was "Saved"!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Della Tribolazione, questi sono Essi,  
+Denotati dal Bianco —  
+Le Vesti Lustrinate, un Rango minore  
+Di Vincitori — designano —  
+
+Tutti questi — vinsero —  
+Ma quelli che trionfarono più volte —  
+Non vestono nulla di più comune della [[Snow]] —  
+Nessun Ornamento, se non Palme —  
+
+La Resa — è una sorta ignota —  
+Su questo suolo superiore —  
+La Disfatta — un'Angoscia oltrepassata —  
+Ricordata, come il Miglio  
+
+Che la nostra Caviglia ansante superò appena —  
+Quando la [[Night]] divorò la [[Road]] —  
+Ma noi — stavamo sussurrando nella [[house|Casa]] —  
+E tutto ciò che dicemmo — fu "Salvi"!

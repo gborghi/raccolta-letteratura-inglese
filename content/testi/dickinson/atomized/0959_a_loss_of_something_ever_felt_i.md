@@ -33,3 +33,26 @@ And a Suspicion, like a Finger
 Touches my Forehead now and then  
 That I am looking oppositely  
 For the site of the Kingdom of Heaven —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una perdita di qualcosa sempre sentii —  
+La prima che potessi ricordare  
+Privata ero — di cosa non sapevo  
+Troppo giovane perché alcuno sospettasse  
+
+Una Dolente camminava tra i bambini  
+Io nondimeno andavo attorno  
+Come chi lamenta un Dominio  
+Essendone il solo Principe scacciato —  
+
+Più adulta, Oggi, d'una sessione più saggia  
+E più fioca, anche, com'è la Saggezza —  
+Mi trovo ancora a cercare sommessamente  
+I miei Palazzi Delinquenti —  
+
+E un Sospetto, come un Dito  
+Tocca la mia Fronte di tanto in tanto  
+Che io stia guardando dalla parte opposta  
+Al sito del Regno dei Cieli —

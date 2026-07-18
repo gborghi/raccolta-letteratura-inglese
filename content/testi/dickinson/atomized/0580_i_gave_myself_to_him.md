@@ -33,3 +33,26 @@ At least — 'tis Mutual — Risk —
 Some — found it — Mutual Gain —  
 Sweet Debt of Life — Each [[Night]] to owe —  
 Insolvent — every [[Noon]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi diedi a Lui —  
+E presi Lui stesso, in Pagamento,  
+Il solenne contratto di una Vita  
+Fu ratificato, così —  
+
+La Ricchezza potrebbe deludere —  
+Io stessa rivelarmi più povera  
+Di quanto questo gran Compratore sospetti,  
+Il Possesso Quotidiano — dell'[[Love|Amore]]  
+
+Svalutare la Visione —  
+Ma finché il Mercante non compri —  
+Ancora [[Fable|Favola]] — nelle Isole delle Spezie —  
+I sottili Carichi — giacciono —  
+
+Almeno — è Mutuo — il Rischio —  
+Alcuni — lo trovarono — Mutuo Guadagno —  
+Dolce Debito di Vita — da dovere ogni [[Night|Notte]] —  
+Insolvente — ogni [[Noon|Mezzogiorno]] —

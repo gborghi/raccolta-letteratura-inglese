@@ -27,3 +27,20 @@ Whose service — is to You —
 Her latest Worship — When the Day  
 Fades from the Firmament away —  
 To lift Her Brows on You —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dolci [[Mountains|Montagne]] — non Mi dite menzogna —  
+Mai Mi negate — Mai fuggite —  
+Quegli stessi Occhi immutabili  
+Si volgono a Me — quando manco — o fingo,  
+O prendo i nomi Regali invano —  
+Il loro lontano — lento — Sguardo di Viola —  
+
+Mie Forti Madonne — Custodite ancora —  
+La Suora Ribelle — sotto il [[Hill|Colle]] —  
+Il cui servizio — è per Voi —  
+Il Suo ultimo Culto — Quando il Giorno  
+Svanisce via dal Firmamento —  
+Levare i Cigli su di Voi —

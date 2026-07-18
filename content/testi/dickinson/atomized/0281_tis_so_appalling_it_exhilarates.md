@@ -42,3 +42,35 @@ And so of Woe, bleak dreaded — come,
 It sets the Fright at [[Liberty|liberty]] —  
 And Terror's free —  
 Gay, Ghastly, Holiday!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È così spaventoso — che esalta —  
+Così oltre l'Orrore, che quasi Avvince —  
+L'[[Soul|Anima]] lo fissa, sicura —  
+Un Sepolcro, non teme [[Frost|gelo]], mai più —  
+
+Scrutare uno [[Ghost|Spettro]], fa svenire —  
+Ma lottando, lo si vince —  
+Com'è facile, il Tormento, ora —  
+La Suspense segava tanto —  
+
+La [[Truth|Verità]], è Nuda, e Fredda —  
+Ma quella reggerà —  
+Se alcuni non sono certi —  
+Mostriamo loro — la [[prayer|preghiera]] —  
+Ma noi, che sappiamo,  
+Smettiamo di sperare, ora —  
+
+Guardare la [[Death|Morte]], è Morire —  
+Basta lasciar andare il Respiro —  
+E non il cuscino alla tua Guancia  
+Così Dorme —  
+
+Altri, Possono lottare —  
+La tua, è compiuta —  
+E così del Dolore, cupo temuto — venga,  
+Mette lo Spavento in [[Liberty|libertà]] —  
+E il Terrore è libero —  
+Gaia, Spettrale, Festa!

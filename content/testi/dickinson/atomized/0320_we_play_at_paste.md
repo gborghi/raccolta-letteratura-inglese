@@ -23,3 +23,16 @@ The Shapes — though — were similar —
 And our new Hands  
 Learned Gem-Tactics —  
 Practicing Sands —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Giochiamo a Pasta di vetro —  
+Finché degni, di Perla —  
+Poi, lasciamo la Pasta —  
+E ci stimiamo [[Fool|folli]] —  
+
+Le Forme — però — erano simili —  
+E le nostre nuove Mani  
+Appresero Tattiche di Gemma —  
+Esercitandosi a Sabbie —

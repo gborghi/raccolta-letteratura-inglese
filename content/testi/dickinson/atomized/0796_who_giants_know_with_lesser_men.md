@@ -23,3 +23,16 @@ A Smaller, could not be perturbed —
 The [[Summer]] Gnat displays —  
 Unconscious that his single Fleet  
 Do not comprise the skies —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chi conosce Giganti, con Uomini minori  
+È incompleto, e schivo —  
+Perché la [[Greatness|Grandezza]], è a disagio  
+In minore Compagnia —  
+
+Un Più Piccolo, non potrebbe turbarsi —  
+Il Moscerino d'[[Summer|Estate]] lo mostra —  
+Inconsapevole che la sua unica Flotta  
+Non comprende i cieli —

@@ -38,3 +38,31 @@ The Housewife's gentle Task —
 How pleasanter — said she  
 Unto the Sofa opposite —  
 The Sleet — than May, no Thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Night|Notte]] era vasta, e arredata scarna  
+Con una sola Stella —  
+Che ogni volta che incontrava una Nube —  
+Si spegneva da sé — per [[Fear|paura]] —  
+
+Il [[Wind|Vento]] inseguiva il piccolo Cespuglio —  
+E scacciava le [[Leaves|Foglie]]  
+Lasciate da Novembre — poi s'arrampicava  
+E si crucciava nelle Gronde —  
+
+Nessuno Scoiattolo usciva —  
+I passi tardivi d'un Cane  
+Come Felpa intermittente, si udivano  
+Giù per la Strada vuota —  
+
+Tastare se le Imposte tengono —  
+E più vicino al [[Fire|fuoco]] —  
+Accostare la sua piccola Sedia a Dondolo —  
+E rabbrividire per i Poveri —  
+
+Gentile Compito della Massaia —  
+Quanto più gradevole — disse lei  
+Al Sofà di fronte —  
+Il Nevischio — che Maggio, senza Te —

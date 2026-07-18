@@ -22,3 +22,15 @@ Then recollect a Ball, she got —
 And hold upon the Twig,  
 Convulsive, while the Music broke —  
 Like Beads — among the Bog —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo sorriso aveva forma d'altri sorrisi —  
+Le Fossette vi correvano lungo —  
+Eppure feriva, come un Uccello  
+Che si levasse, per cantare,  
+Poi ricordasse una Pallottola, ricevuta —  
+E s'aggrappasse al Ramoscello,  
+Convulso, mentre la Musica si spezzava —  
+Come Perline — nella Palude —

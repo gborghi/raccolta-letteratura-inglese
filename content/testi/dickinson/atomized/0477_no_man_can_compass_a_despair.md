@@ -28,3 +28,21 @@ At estimating [[Pain]] —
 Whose own — has just begun —  
 His ignorance — the Angel  
 That pilot Him along —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessun Uomo può percorrere una [[Despair|Disperazione]] —  
+Come attorno a una [[Road|Strada]] senza Meta  
+Non più svelto di un Miglio per volta  
+Il Viaggiatore procede —  
+
+Inconsapevole dell'Ampiezza —  
+Inconsapevole che il [[Sun|Sole]]  
+Stia tramontando sul Suo cammino —  
+Così esatto è Colui  
+
+Nel valutare la [[Pain|Pena]] —  
+La cui — è appena cominciata —  
+La sua ignoranza — l'Angelo  
+Che Lo pilota lungo la via —

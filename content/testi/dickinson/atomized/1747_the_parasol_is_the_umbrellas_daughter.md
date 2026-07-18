@@ -23,3 +23,16 @@ The former assists a siren
 In her serene display;  
 But her father is borne and honored,  
 And borrowed to this day.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il parasole è la figlia dell'ombrello,  
+E frequenta un ventaglio  
+Mentre suo padre affronta la tempesta  
+E abbrevia la [[Rain|pioggia]].  
+
+La prima assiste una sirena  
+Nel suo sereno sfoggio;  
+Ma suo padre è portato e onorato,  
+E preso in prestito ancor oggi.

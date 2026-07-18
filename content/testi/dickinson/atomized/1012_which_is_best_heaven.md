@@ -24,3 +24,17 @@ Superior to the one
 The "Bush" may yield me  
 Or may not  
 Too late to choose again.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quale è meglio? Il Cielo —  
+O soltanto il Cielo a venire  
+Con quel vecchio Codicillo di [[Doubt|Dubbio]]?  
+Non posso non stimare  
+
+L'"Uccello in Mano"  
+Superiore a quello  
+Che il "Cespuglio" può darmi  
+O può non darmi  
+Troppo tardi per scegliere di nuovo.

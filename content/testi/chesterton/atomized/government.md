@@ -217,7 +217,7 @@ are to leave anything whatever of the rights of man.
 
 [[government|Il governo]] e i diritti dell'uomo
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Illustrated [[London]] News, 30 luglio 1921
 ----------------------------------------------------------------------------

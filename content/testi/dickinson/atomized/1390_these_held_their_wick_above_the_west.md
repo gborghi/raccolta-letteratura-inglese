@@ -23,3 +23,16 @@ Then waned without disparagement
 In a dissembling Hue  
 That would not let the Eye decide  
 Did it abide or no —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questi tennero il loro Stoppino alto sull'Ovest —  
+Fino a quando il Rosso declinasse —  
+O come l'Ambra lo aiutasse —  
+Sfidava ogni definirsi —  
+
+Poi calarono senza discredito  
+In una Tinta dissimulante  
+Che non lasciava all'Occhio decidere  
+Se rimanesse o no —

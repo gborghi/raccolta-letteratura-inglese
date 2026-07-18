@@ -23,3 +23,16 @@ A Rich man — might not notice it —
 Yet — to my frugal Eye,  
 Of more Esteem than Ducats —  
 Oh find it — Sir — for me!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho perso un Mondo — l'altro giorno!  
+Qualcuno l'ha trovato?  
+Lo riconoscerete dalla Fila di [[Stars|Stelle]]  
+Legata intorno alla sua fronte.  
+
+Un Ricco — potrebbe non notarlo —  
+Eppure — al mio frugale Occhio,  
+Di più Pregio che Ducati —  
+Oh trovatelo — Signore — per me!

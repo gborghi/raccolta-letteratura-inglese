@@ -22,3 +22,15 @@ Or [[Sun]]'s extinction, be observed —
 'Twas not so large that I  
 Could lift my Forehead from my work  
 For Curiosity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Mancare Tutto — Mi impedì  
+Di mancare Cose minori.  
+Se nulla di più grande che d'un Mondo  
+Il Distacco da un Cardine —  
+O l'estinzione del [[Sun|Sole]], fosse osservato —  
+Non era così grande che Io  
+Potessi alzare la Fronte dal mio lavoro  
+Per Curiosità.

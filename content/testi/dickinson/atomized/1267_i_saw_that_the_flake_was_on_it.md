@@ -23,3 +23,16 @@ But "you" — she returned with valor
 Sagacious of my mistake  
 "Have altered — Accept the pillage  
 For the progress' sake" —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vidi che il Fiocco v'era sopra  
+Ma tramai col [[Time|Tempo]] per disputare —  
+"Immutata" insistetti con un candore  
+Che mi costò l'onesto Cuore —  
+
+Ma "tu" — ella ribatté con valore  
+Sagace del mio sbaglio  
+"Sei mutata — Accetta il saccheggio  
+In nome del progresso" —

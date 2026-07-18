@@ -33,3 +33,26 @@ When duller than our dullness
 The Busy Darling lay —  
 So busy was she — finishing —  
 So leisurely — were We —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Sua ultima [[Summer|Estate]] fu —  
+Eppure Noi non lo indovinammo —  
+Se più tenera operosità  
+La Pervadeva, pensavamo  
+
+Una forza ulteriore di vita  
+Sviluppata dal di dentro —  
+Quando la [[Death|Morte]] illuminò tutta la brevità  
+Rese chiara la fretta —  
+
+Ci stupimmo della nostra cecità  
+Quando nulla restava da vedere  
+Se non il Suo Cippo di Carrara —  
+Della Nostra Stupidità —  
+
+Quando più inerte della nostra inerzia  
+Giaceva l'Indaffarata Cara —  
+Così occupata era — a finire —  
+Così placidi — eravamo Noi —

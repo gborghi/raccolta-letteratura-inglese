@@ -38,3 +38,31 @@ To Being, somewhere — Motion — Breath —
 Though Centuries beyond,  
 And every limit a Decade —  
 I'll shiver, satisfied.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho lasciato cadere il Cervello — La mia [[Soul|Anima]] è intorpidita —  
+Le Vene che solevano correre  
+Si arrestano paralizzate — è Paralisi  
+Resa più perfetta nella pietra  
+
+La Vitalità è Scolpita e fredda.  
+Il mio nervo giace nel Marmo —  
+Una Donna che Respirava  
+Ieri — Dotata di Paradiso.  
+
+Non muta — avevo una specie che si muoveva —  
+Un Senso che colpiva e scuoteva —  
+Istinti di [[Dance|Danza]] — una parte di capriola —  
+Un'Attitudine da Uccello —  
+
+Chi forgiò Carrara in me  
+E cesellò tutta la mia melodia  
+Fosse Stregoneria — fosse [[Death|Morte]] —  
+Ho ancora una possibilità di tendere  
+
+All'Essere, in qualche luogo — Moto — Respiro —  
+Pur Secoli più in là,  
+E ogni limite un Decennio —  
+Rabbrividirò, soddisfatta.

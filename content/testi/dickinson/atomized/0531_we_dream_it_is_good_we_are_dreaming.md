@@ -33,3 +33,26 @@ Cool us to Shafts of Granite —
 With just an Age — and Name —  
 And perhaps a phrase in Egyptian —  
 It's prudenter — to dream —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sogniamo — è bene che stiamo sognando —  
+Ci farebbe male — fossimo svegli —  
+Ma poiché è recita — uccidici,  
+E noi recitiamo — un urlo —  
+
+Che male c'è? Gli Uomini muoiono — esternamente —  
+È una [[Truth|verità]] — di [[Blood|Sangue]] —  
+Ma noi — moriamo nel Dramma —  
+E il Dramma — non è mai morto —  
+
+Cauti — Ci scuotiamo l'un l'altro —  
+E l'uno o l'altra — apre gli occhi —  
+Che il Fantasma — non provi l'Errore —  
+E la livida Sorpresa  
+
+Ci geli in Colonne di Granito —  
+Con solo un'Età — e un Nome —  
+E forse una frase in Egizio —  
+È più prudente — sognare —

@@ -23,3 +23,16 @@ Their names, unless you know them,
 'Twere useless tell.  
 Of bumble-[[Bees|bees]] and other nations  
 The grass is full.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La popolazione più importante  
+Dimora inosservata,  
+Hanno un paradiso a ogni istante  
+Nessun inferno.  
+
+I loro nomi, se non li conosci,  
+Sarebbe inutile dirli.  
+Di [[Bees|bombi]] e di altre nazioni  
+L'erba è piena.

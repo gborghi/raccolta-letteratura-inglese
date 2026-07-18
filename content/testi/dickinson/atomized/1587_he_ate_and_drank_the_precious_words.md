@@ -23,3 +23,16 @@ He danced along the dingy Days
 And this Bequest of Wings  
 Was but a Book — What [[Liberty]]  
 A loosened spirit brings —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mangiò e bevve le Parole preziose —  
+Il suo Spirito si fece robusto —  
+Non seppe più d'esser povero,  
+Né che la sua forma era [[Dust|Polvere]] —  
+
+Danzò lungo i Giorni squallidi  
+E questo Lascito d'Ali  
+Era solo un Libro — Che [[Liberty|Libertà]]  
+Porta uno spirito sciolto —

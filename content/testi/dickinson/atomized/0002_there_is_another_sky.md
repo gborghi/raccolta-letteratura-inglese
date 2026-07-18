@@ -28,3 +28,21 @@ in its unfading [[Flowers|flowers]]
 I hear the bright bee hum,  
 prithee, my Brother,  
 into my [[Garden|garden]] come!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+c'è un altro cielo  
+sempre sereno e bello,  
+e c'è un altro splendore di sole,  
+benché là sia tenebra -  
+non curarti dei boschi appassiti, Austin,  
+non curarti dei campi silenziosi -  
+qui c'è un piccolo bosco  
+la cui foglia è sempre verde -  
+qui c'è un [[Garden|giardino]] più luminoso -  
+dove mai un [[Frost|gelo]] è stato,  
+nei suoi [[Flowers|fiori]] che non sfioriscono  
+odo la chiara ape ronzare,  
+ti prego, Fratello mio,  
+nel mio [[Garden|giardino]] vieni!

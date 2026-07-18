@@ -27,3 +27,20 @@ Because beside the [[Door]]
 It must be competitions  
 Some unsuspecting [[Horse]] was tied  
 Surveying his [[Despair]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quanti disegni possono morire  
+In un breve Pomeriggio  
+Del tutto ignoti  
+A coloro che più riguardano —  
+L'uomo che non si perse  
+Perché per accidente  
+Deviò della larghezza d'un Nastro  
+Dalla sua rotta consueta —  
+L'[[Love|Amore]] che non volle tentare  
+Perché accanto alla [[Door|Porta]]  
+Dovevano esserci gare  
+Un ignaro [[Horse|Cavallo]] stava legato  
+A contemplare la sua [[Despair|Disperazione]]

@@ -23,3 +23,16 @@ I could not deem these Planetary forces
 Annulled —  
 But suffered an Exchange of Territory —  
 Or World —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non conobbe declino, né Diminuzione —  
+Ma vasta — serena —  
+Arse ancora — finché per Dissoluzione —  
+Venne meno agli Uomini —  
+
+Non potei credere queste forze Planetarie  
+Annullate —  
+Ma sottoposte a uno Scambio di Territorio —  
+O di Mondo —

@@ -33,3 +33,26 @@ A Vest that like her Bodice, danced —
 To the immortal tune —  
 Till those two troubled — little Clocks  
 Ticked softly into one.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Rose|Rosa]] scorrazzava sulla sua guancia —  
+Il suo Corsetto [[Rose|si sollevava]] e ricadeva —  
+Il suo grazioso parlare — come uomini ubriachi —  
+Barcollava pietoso —  
+
+Le sue dita armeggiavano al lavoro —  
+L'ago non voleva andare —  
+Cosa affliggesse una Fanciulla così sveglia —  
+Capirlo mi lasciava perplessa —  
+
+Finché di fronte — scorsi una guancia  
+Che portava un'altra [[Rose|Rosa]] —  
+Proprio di fronte — un Altro parlare  
+Che come l'Ubriaco va —  
+
+Un Panciotto che come il suo Corsetto, danzava —  
+Sull'immortale melodia —  
+Finché quei due turbati — piccoli Orologi  
+Ticchettarono piano in uno solo.

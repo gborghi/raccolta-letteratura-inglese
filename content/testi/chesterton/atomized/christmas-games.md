@@ -261,7 +261,7 @@ world was made entirely for the games of children.
 
 Il Natale e i primi giochi
 
-G. K. Chesterton
+G. K. Chesterton  
 
 ----------------------------------------------------------------------------
 

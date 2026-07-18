@@ -26,3 +26,19 @@ And the Earth — they tell me —
 On its axis turned!  
 Wonderful Rotation!  
 By but twelve performed!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sovente i boschi sono rosa —  
+Sovente sono bruni.  
+Sovente le colline si spogliano  
+Dietro la mia città natale.  
+Spesso una vetta è incoronata  
+Che ero solita vedere —  
+E altrettanto spesso una fenditura  
+Dove essa soleva stare —  
+E la Terra — mi dicono —  
+Sul suo asse ha girato!  
+Meravigliosa Rotazione!  
+Da soli dodici compiuta!

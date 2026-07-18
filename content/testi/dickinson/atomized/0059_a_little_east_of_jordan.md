@@ -33,3 +33,26 @@ Light swung the silver fleeces
 "Peniel" Hills beyond,  
 And the bewildered Gymnast  
 Found he had worsted [[God]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un poco a Est del Giordano,  
+Narrano gli Evangelisti,  
+Un Ginnasta e un Angelo  
+Lottarono a lungo e duro —  
+
+Finché il mattino toccando il monte —  
+E [[Jacob]], facendosi forte,  
+L'Angelo chiese permesso  
+Di far Colazione — di tornare —  
+
+Non così, disse l'astuto [[Jacob]]!  
+"Non ti lascerò andare  
+Se non mi benedici" — Straniero!  
+Il che fu concesso —  
+
+Lievi ondeggiarono i velli d'argento  
+Oltre i Colli di "Peniel",  
+E lo sbigottito Ginnasta  
+Scoprì d'aver battuto [[God]]!

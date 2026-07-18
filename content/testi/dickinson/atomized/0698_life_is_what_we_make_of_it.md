@@ -33,3 +33,26 @@ His sure foot preceding —
 Tender Pioneer —  
 Base must be the Coward  
 Dare not venture — now —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Vita — è ciò che ne facciamo —  
+La [[Death|Morte]] — non la conosciamo —  
+La familiarità di [[Christ|Cristo]] con Lei  
+La giustifica — però —  
+
+Lui — non si fiderebbe di un estraneo —  
+Altri — potrebbero tradire —  
+Solo la Sua propria garanzia —  
+Quella — Mi basta —  
+
+Tutta l'altra Distanza  
+Egli l'ha percorsa per primo —  
+Nessun Nuovo Miglio rimane —  
+Fin dove è il Paradiso —  
+
+Il Suo piede sicuro precede —  
+Tenero Pioniere —  
+Vile dev'essere il Codardo  
+Che non osa avventurarsi — ora —

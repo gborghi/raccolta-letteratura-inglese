@@ -23,3 +23,16 @@ Could not again be proved —
 As fair — as our idea —  
 To Him of adequate [[Desire|desire]]  
 No further 'tis, than Here —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cielo è a tal segno della Mente  
+Che fosse la Mente dissolta —  
+Il Sito — di esso — da Architetto  
+Non potrebbe di nuovo esser provato —  
+
+È vasto — quanto la nostra Capacità —  
+Bello — quanto la nostra idea —  
+Per Chi è di adeguato [[Desire|desiderio]]  
+Più lontano non è, che Qui —

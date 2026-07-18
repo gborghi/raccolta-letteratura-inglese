@@ -38,3 +38,31 @@ Itself be fairer — we suppose —
 But how Ourself, shall be  
 Adorned, for a Superior Grace —  
 Not yet, our eyes can see —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il "Cielo" ha Segni diversi — per me —  
+Talvolta, penso che il [[Noon|Mezzogiorno]]  
+Non sia che un simbolo del Luogo —  
+E quando ancora, all'[[Dawn|Alba]],  
+
+Uno sguardo possente corre intorno al Mondo  
+E si posa sulle Colline —  
+Un Timore che possa essere così  
+S'insinua nell'Ignoranza —  
+
+Il Frutteto, quando il [[Sun|Sole]] vi batte —  
+Il Trionfo degli [[Birds|Uccelli]]  
+Quando insieme fanno Vittoria —  
+Certi Carnevali di Nuvole —  
+
+L'Estasi di un Giorno compiuto —  
+Che ritorna verso Occidente —  
+Tutto questo — ci ricorda il luogo  
+Che gli Uomini chiamano "paradiso" —  
+
+Più bello esso stesso — supponiamo —  
+Ma come Noi stessi, saremo  
+Adornati, per una Grazia Superiore —  
+Non ancora, i nostri occhi possono vedere —

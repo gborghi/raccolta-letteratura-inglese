@@ -23,3 +23,16 @@ Security the same insures
 To our assaulted Minds —  
 The staple must be optional  
 That an Immortal binds.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di Paolo e Sila si racconta  
+Che in [[Prison|Prigione]] furono posti  
+Ma quando andarono a prenderli  
+Essi non v'erano invece.  
+
+Sicurezza uguale assicura  
+Alle nostre Menti assalite —  
+Facoltativo dev'essere il ferro  
+Che un Immortale avvince.

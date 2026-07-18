@@ -23,3 +23,16 @@ To enter, it would not aspire —
 But may it not [[Despair|despair]]  
 That it is not a [[Cavalier]],  
 To dare and perish there?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non saprebbe se fosse respinto,  
+Questo prode piccolo fiore —  
+Com'è dunque sicuro essere un fiore  
+Se qualcuno volesse violarlo.  
+
+A entrare, non aspirerebbe —  
+Ma non può forse [[Despair|disperare]]  
+Di non essere un [[Cavalier|Cavaliere]],  
+Da osare e perirvi?

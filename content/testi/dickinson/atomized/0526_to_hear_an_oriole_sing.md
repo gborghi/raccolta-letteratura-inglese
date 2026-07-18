@@ -33,3 +33,26 @@ Is of within.
 The "Tune is in the [[Tree]] —"  
 The [[skeptic|Skeptic]] — showeth me —  
 "No Sir! In Thee!"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Udire un Rigogolo cantare  
+Può essere cosa comune —  
+O soltanto divina.  
+
+Non dipende dall'Uccello  
+Che canta uguale, inascoltato,  
+Come dinanzi a una Folla —  
+
+La Foggia dell'Orecchio  
+Veste ciò che ode  
+Di Bigio, o di chiaro —  
+
+Così che sia Runa,  
+O che non sia nulla  
+È cosa di dentro.  
+
+"La Melodia è nell'[[Tree|Albero]] —"  
+Lo [[skeptic|Scettico]] — mi mostra —  
+"No Signore! In Te!"

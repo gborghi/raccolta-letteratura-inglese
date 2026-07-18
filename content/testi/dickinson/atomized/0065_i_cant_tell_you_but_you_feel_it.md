@@ -38,3 +38,31 @@ Rather — Heaven's "Peter Parley"!
 By which Children slow  
 To sublimer Recitation  
 Are prepared to go!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non so dirtelo — ma tu lo senti —  
+Né tu puoi dirlo a me —  
+Santi, con rapite lavagna e matita  
+Risolvete il nostro Giorno d'Aprile!  
+
+Più dolce d'una svanita festa  
+Da un prato svanito!  
+Più rapido degli zoccoli di Cavalieri  
+Attorno a una Cornice di sogno!  
+
+Modesti, camminiamovi in mezzo  
+Coi nostri volti velati —  
+Come dicono i cortesi Arcangeli  
+Facciano incontrando [[God]]!  
+
+Non a me — cianciarne!  
+Non a te — dire  
+A qualche Dama alla moda  
+"Incantevole Giorno d'Aprile"!  
+
+Piuttosto — il "Peter Parley" del Cielo!  
+Col quale i Bambini lenti  
+A più sublime Recitazione  
+Sono preparati ad andare!

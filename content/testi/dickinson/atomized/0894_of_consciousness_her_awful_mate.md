@@ -23,3 +23,16 @@ The deepest hid is sighted first
 And scant to Him the Crowd —  
 What triple Lenses burn upon  
 The Escapade from [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Della Coscienza, sua tremenda Compagna  
+L'[[Soul|Anima]] non può liberarsi —  
+Tanto varrebbe occultarla  
+Dietro gli Occhi di [[God|Dio]].  
+
+Il più profondo nascosto è avvistato per primo  
+E scarsa è per Lui la Folla —  
+Quali triple Lenti ardono sopra  
+La Fuga da [[God|Dio]] —

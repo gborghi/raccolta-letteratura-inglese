@@ -30,3 +30,23 @@ Instead of Morning — Had'st thou broached
 Thy little Plan to Die —  
 Dissuade thee, if I could not, Sweet,  
 I might have aided — thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È l'Alba — Piccola Fanciulla — Non hai Tu  
+Alcun Posto nel Giorno?  
+Non era tua usanza, indugiare così —  
+Riprendi la tua operosità —  
+
+È [[Noon|Mezzogiorno]] — Mia piccola Fanciulla —  
+Ahimè — e dormi tu ancora?  
+Il Giglio — in attesa di Nozze —  
+L'Ape — Hai tu dimenticato?  
+
+Mia piccola Fanciulla — È [[Night|Notte]] — Ahimè  
+Che [[Night|Notte]] debba esser per te  
+Invece di Mattino — Avessi tu confidato  
+Il tuo piccolo Piano di Morire —  
+Dissuaderti, se non avessi potuto, Dolce,  
+Avrei potuto aiutare — te —

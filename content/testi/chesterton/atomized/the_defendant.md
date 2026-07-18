@@ -5861,6 +5861,6 @@ giudicati, non sarà per la trasgressione meramente intellettuale di
 non saper apprezzare le altre nazioni, ma per la suprema trasgressione spirituale
 di non saper apprezzare noi stessi.
 
-LA FINE
+FINE
 
 BILLING AND SONS, LTD., STAMPATORI, GUILDFORD

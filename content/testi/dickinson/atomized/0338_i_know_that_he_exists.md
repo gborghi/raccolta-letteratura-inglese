@@ -33,3 +33,26 @@ Would not the fun
 Look too expensive!  
 Would not the jest —  
 Have crawled too far!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+So che Egli esiste.  
+Da qualche parte — nel [[Silence|Silenzio]] —  
+Ha nascosto la sua rara vita  
+Ai nostri occhi grossolani.  
+
+È il gioco d'un istante.  
+È un tenero Agguato —  
+Solo perché la Beatitudine  
+Si guadagni la propria sorpresa!  
+
+Ma — se il gioco  
+Si facesse serio da trafiggere —  
+Se la gioia — si vetrificasse —  
+Nello sguardo — rigido — della [[Death|Morte]] —  
+
+Non parrebbe il divertimento  
+Troppo costoso!  
+Non si sarebbe lo scherzo —  
+Trascinato troppo oltre!

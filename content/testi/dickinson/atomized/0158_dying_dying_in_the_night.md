@@ -28,3 +28,21 @@ Somebody run to the great gate
 And see if Dollie's coming! Wait!  
 I hear her feet upon the stair!  
 [[Death]] won't hurt — now Dollie's here!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Morire! Morire nella [[Night|notte]]!  
+Non porterà qualcuno la luce  
+Perché io veda che via prendere  
+Nella [[Snow|neve]] eterna?  
+
+E "Gesù"! Dov'è andato Gesù?  
+Dicevano che Gesù — sempre veniva —  
+Forse non conosce la [[house|Casa]] —  
+Di qua, Gesù, Fatelo passare!  
+
+Qualcuno corra al gran cancello  
+E veda se Dollie arriva! Aspetta!  
+Sento i suoi passi sulla scala!  
+La [[Death|Morte]] non farà male — ora che Dollie è qui!

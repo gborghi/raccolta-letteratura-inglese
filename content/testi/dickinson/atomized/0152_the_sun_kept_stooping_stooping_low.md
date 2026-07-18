@@ -31,3 +31,24 @@ Who once the Cockade wore —
 
 Charged from my chimney corner —  
 But Nobody was there!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Sun|Sole]] continuava a chinarsi — chinarsi — basso!  
+Le Colline a incontrarlo si [[Rose|levarono]]!  
+Dalla sua parte, che Transazione!  
+Dalla loro, che Riposo!  
+
+Sempre più fonda si fece la macchia  
+Sul vetro della [[Window|finestra]] —  
+Sempre più fitti stavano i piedi  
+Finché il Tirio  
+
+Fu gremito denso di Armate —  
+Così gaie, così Brigadiere —  
+Che sentii fremiti marziali  
+Io che un tempo portai la Coccarda —  
+
+Caricai dal mio angolo del camino —  
+Ma Nessuno c'era!

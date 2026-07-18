@@ -23,3 +23,16 @@ Bestirs itself — puts on its Coat,
 And scans with fatal promptness  
 For Trains that moment out of sight,  
 Unconscious of his smartness.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Summer|Estate]] che non apprezzammo,  
+I suoi tesori erano così facili  
+Ci istruisce ora partendo  
+E il riconoscimento pigro —  
+
+Si riscuote — indossa il suo Cappotto,  
+E scruta con fatale prontezza  
+In cerca di Treni in quell'attimo svaniti,  
+Ignaro della propria sveltezza.

@@ -25,3 +25,18 @@ The Capsule of the Mind
 
 Exhibit here, as doth a Burr —  
 Germ's Germ be where?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le Cose Migliori dimorano fuori dalla Vista  
+La Perla — il Giusto — il Nostro Pensiero.  
+
+I più fuggono l'Aria Pubblica  
+Legittimi, e Rari —  
+
+La Capsula del [[Wind|Vento]]  
+La Capsula della Mente  
+
+Si esibiscono qui, come fa una Lappola —  
+Il Germe del Germe dove sia?

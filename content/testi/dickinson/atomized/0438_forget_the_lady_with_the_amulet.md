@@ -32,3 +32,25 @@ That cooled the Forehead of the [[Hill]] —
 While Other — went the [[Sea]] to fill —  
 And Other — went to turn the Mill —  
 I'll do thy Will —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dimenticare! La dama con l'Amuleto  
+Dimenticare che lo portava sul Cuore  
+Perché vi respirava contro  
+Fu Tradimento fra loro?  
+
+Negare! Negò la [[Rose|Rosa]] la sua Ape —  
+Per Privilegio di Gioco  
+O Astuzia di Farfalla  
+O Occasione — il suo Signore lontano?  
+
+La dama con l'Amuleto — affronterà —  
+L'Ape — deposta nel Mausoleo —  
+Ripudi la sua Sposa —  
+Ma più a lungo del piccolo Rivo —  
+Che rinfrescò la Fronte della [[Hill|Collina]] —  
+Mentre un Altro — andava a colmare il [[Sea|Mare]] —  
+E un Altro — andava a girare il Mulino —  
+Io farò il tuo Volere —

@@ -23,3 +23,16 @@ And get the Dimples ready —
 And [[Wonder|wonder]] we could care  
 For that old — faded Midnight —  
 That frightened — but an Hour —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando la [[Night|Notte]] è quasi finita —  
+E l'Alba si fa così vicina  
+Che possiamo toccare gli Spazi —  
+È [[Time|tempo]] di lisciare i Capelli —  
+
+E preparare le Fossette —  
+E [[Wonder|stupirci]] d'aver potuto curarci  
+Di quella vecchia — sbiadita Mezzanotte —  
+Che spaventò — solo un'Ora —

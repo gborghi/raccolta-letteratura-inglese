@@ -22,3 +22,15 @@ If Bird the [[Silence|silence]] contradict
 Or flower presume to show  
 In that low [[Summer|summer]] of the West  
 Impossible to know —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un sentiero di Giallo guidava l'occhio  
+Verso un Bosco di Porpora  
+Esser suoi soffici abitanti  
+Supera la [[Solitude|solitudine]]  
+Se Uccello il [[Silence|silenzio]] contraddica  
+O fiore presuma mostrarsi  
+In quella bassa [[Summer|estate]] dell'Ovest  
+Impossibile sapere —

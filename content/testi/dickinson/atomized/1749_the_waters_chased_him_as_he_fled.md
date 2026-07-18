@@ -24,3 +24,17 @@ For every palate in the Year" —
 To this revolting bliss  
 The object floating at his side  
 Made no distinct reply.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le acque lo inseguivano mentre fuggiva,  
+Non osando guardare indietro —  
+Un flutto gli sussurrò all'Orecchio,  
+"Vieni a [[Home|casa]] con me, amico mio —  
+Il mio salotto è di vetro assolto,  
+La mia dispensa ha un pesce  
+Per ogni palato dell'Anno" —  
+A questa ripugnante beatitudine  
+L'oggetto che fluttuava al suo fianco  
+Non diede risposta distinta.

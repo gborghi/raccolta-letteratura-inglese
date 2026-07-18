@@ -23,3 +23,16 @@ A Furlong than a League
 Inflicts a pricklier [[Pain|pain]],  
 Till We, who smiled at Pyrenees —  
 Of Parishes, complain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Congiunto ci manca più  
+Quando è concesso vederlo  
+Che quando sottratto da Oceani  
+Alla possibilità  
+
+Un Furlong più d'una Lega  
+Infligge una [[Pain|pena]] più pungente,  
+Finché Noi, che sorridemmo ai Pirenei —  
+Di Parrocchie, ci lagniamo.

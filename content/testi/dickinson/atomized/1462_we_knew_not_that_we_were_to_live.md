@@ -22,3 +22,15 @@ As lightly as an Option Gown
 Till asked to take it off —  
 By his intrusion, [[God]] is known —  
 It is the same with Life —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non sapevamo che avremmo vissuto —  
+Né quando — dovremo morire —  
+La nostra ignoranza — è la nostra corazza —  
+Indossiamo la [[Mortality|Mortalità]]  
+Lieve come un Abito a scelta  
+Finché non ci chiedono di toglierlo —  
+Dalla sua intrusione si conosce [[God|Dio]] —  
+Lo stesso è della Vita —

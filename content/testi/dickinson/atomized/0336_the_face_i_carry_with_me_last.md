@@ -33,3 +33,26 @@ And then — he'll turn me round and round —
 To an admiring sky —  
 As one that bore her Master's name —  
 Sufficient Royalty!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il volto che porto con me — ultimo —  
+Quando esco dal [[Time|Tempo]] —  
+Per prendere il mio Rango — accanto — a Occidente —  
+Quel volto — sarà proprio il tuo —  
+
+Lo consegnerò all'Angelo —  
+Quello — Signore — fu il mio Grado —  
+Nei Regni — avete udito i Risorti —  
+Farvi cenno — forse.  
+
+Lo prenderà — lo scruterà — si farà da parte —  
+Tornerà — con una tale [[Crown|corona]]  
+Quale Gabriele — mai vi danzò intorno —  
+E mi pregherà d'indossarla —  
+
+E poi — mi volgerà intorno e intorno —  
+Verso un cielo in ammirazione —  
+Come colei che portò il nome del suo Maestro —  
+Regalità sufficiente!

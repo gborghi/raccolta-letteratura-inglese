@@ -30,3 +30,23 @@ When you were willing —
 Shall it come?  
 Tell Carlo —  
 He'll tell me!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che farò — uggiola tanto —  
+Questo piccolo Segugio dentro il Cuore  
+Tutto il giorno e la [[Night|notte]] con latrati e sussulti —  
+E tuttavia, non se ne va —  
+Lo slegheresti tu, fossi tu me —  
+Smetterebbe di gemere — se a Te —  
+Lo mandassi — anche ora?  
+
+Non ti darebbe noia —  
+Presso la tua sedia — o, sullo stuoino —  
+O se osasse — arrampicarsi sul tuo vertiginoso ginocchio —  
+O — talvolta correrti a fianco —  
+Quando tu volessi —  
+Verrà?  
+Dillo a Carlo —  
+Lui lo dirà a me!

@@ -21,3 +21,14 @@ My [[Nature]] underlie —
 [[Truth]] is good Health — and Safety, and the Sky.  
 How meagre, what an [[Exile]] — is a Lie,  
 And Vocal — when we die —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Contraffazione — una Persona Placcata —  
+Non vorrei essere —  
+Quali che siano gli strati d'Iniquità  
+Che alla mia [[Nature|Natura]] soggiacciono —  
+La [[Truth|Verità]] è buona Salute — e Salvezza, e il Cielo.  
+Che misera cosa, quale [[Exile|Esilio]] — è una Menzogna,  
+E Vocale — quando moriamo —

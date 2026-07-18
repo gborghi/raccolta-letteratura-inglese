@@ -40,3 +40,33 @@ My Classics vail their faces -
 My [[Faith|faith]] that Dark adores -  
 Which from it's solemn abbeys -  
 Such [[Resurrection|resurrection]] pours!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I piedi di chi cammina verso [[Home|casa]]  
+Con sandali più gai vanno -  
+Il croco - finché non sorge -  
+Il vassallo della [[Snow|neve]] -  
+Le labbra all'Alleluia  
+Lunghi anni di pratica portarono -  
+Finché a poco a poco, questi Barcaioli  
+Camminarono - cantando - sulla riva  
+
+Le perle sono gli spiccioli del Tuffatore  
+Estorti al [[Sea|mare]] -  
+Le ali - il carro del Serafino -  
+Pedone un tempo - come noi -  
+La [[Night|Notte]] è la tela del mattino -  
+Il furto - eredità -  
+La [[Death|Morte]] - solo la nostra rapita attenzione  
+All'[[Immortality|immortalità]].  
+
+Le mie cifre non sanno dirmi  
+Quanto lontano è il villaggio -  
+I cui contadini sono gli angeli -  
+I cui cantoni punteggiano i cieli -  
+I miei Classici velano il volto -  
+La mia [[Faith|fede]] che il Buio adora -  
+Che dalle sue solenni abbazie -  
+Tale [[Resurrection|resurrezione]] riversa!

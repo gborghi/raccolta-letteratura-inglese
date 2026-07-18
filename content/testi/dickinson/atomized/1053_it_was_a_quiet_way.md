@@ -34,3 +34,27 @@ No [[Seasons]] were to us —
 It was not [[Night]] nor Morn —  
 But Sunrise stopped upon the place  
 And fastened it in [[Dawn]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu un modo quieto —  
+Chiese se ero sua —  
+Non diedi risposta di Lingua  
+Ma risposta di Occhi —  
+E poi mi portò via  
+Dinanzi a questo mortale rumore  
+Con rapidità, come di Carri  
+E distanza, come di Ruote.  
+Questo Mondo si staccò  
+Come Acri dai piedi  
+Di chi si sporge da un Pallone  
+Sopra una strada d'Etere.  
+Il Golfo alle spalle non era,  
+I Continenti erano nuovi —  
+[[Eternity|Eternità]] era, prima  
+Che l'[[Eternity|Eternità]] fosse dovuta.  
+Non c'erano [[Seasons|Stagioni]] per noi —  
+Non era [[Night|Notte]] né Mattino —  
+Ma il Sorgere del Sole si fermò sul luogo  
+E lo fissò nell'[[Dawn|Alba]].

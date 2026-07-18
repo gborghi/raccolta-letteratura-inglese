@@ -23,3 +23,16 @@ Whose [[Summer]] set in [[Summer]], till
 The Centuries of June  
 And Centuries of August cease  
 And Consciousness — is [[Noon]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è una Zona i cui Anni uguali  
+Nessun Solstizio interrompe —  
+Il cui [[Sun|Sole]] costruisce perpetuo [[Noon|Mezzogiorno]]  
+Le cui perfette [[Seasons|Stagioni]] attendono —  
+
+La cui [[Summer|Estate]] posa nell'[[Summer|Estate]], finché  
+I Secoli di Giugno  
+E i Secoli di Agosto cessano  
+E la Coscienza — è [[Noon|Mezzogiorno]].

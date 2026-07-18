@@ -22,3 +22,15 @@ Of Retrospect the Arrow
 That power to repair  
 Departed with the Torment  
 Become, alas, more fair —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fare della Routine uno Stimolo  
+Ricorda che può cessare —  
+La Capacità di Terminare  
+È una Grazia Specifica —  
+Della Retrospezione la Freccia  
+Quel potere di riparare  
+Partito con il Tormento  
+Divenuto, ahimè, più bello —

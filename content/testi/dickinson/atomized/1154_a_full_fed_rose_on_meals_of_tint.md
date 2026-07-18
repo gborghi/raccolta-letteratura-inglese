@@ -22,3 +22,15 @@ The Forfeit is of Creature fair
 Itself, adored before  
 Submitting for our unknown sake  
 To be esteemed no more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una [[Rose|Rosa]] ben nutrita a pasti di Tinta  
+Un Pranzo per un'Ape  
+Nel corso del [[Noon|Meriggio]] divenne -  
+Ogni fulgida [[Mortality|Mortalità]]  
+Il Pegno è della Creatura bella  
+Se stessa, adorata prima  
+Che si sottomette per il nostro ignoto bene  
+A non essere stimata più —

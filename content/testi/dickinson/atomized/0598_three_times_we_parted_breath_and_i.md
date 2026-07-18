@@ -35,3 +35,28 @@ The Waves grew sleepy — Breath — did not —
 The Winds — like Children — lulled —  
 Then Sunrise kissed my Chrysalis —  
 And I stood up — and lived —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Tre volte — ci separammo — il Respiro — ed io —  
+Tre volte — Lui non volle andare —  
+Ma tentava di muovere l'esanime Ventaglio  
+Che le Acque — tentavano d'arrestare.  
+
+Tre Volte — i Flutti mi gettarono in alto —  
+Poi mi ripresero — come una Palla —  
+Poi mi fecero facce Blu in faccia —  
+E spinsero via una vela  
+
+Che strisciò Leghe lontano — Mi piaceva vederla —  
+Pensando — mentre muoio —  
+Com'è dolce contemplare una Cosa  
+Dove volti Umani — siano —  
+
+Le Onde si fecero sonnolente — il Respiro — no —  
+I Venti — come Bimbi — si acquietarono —  
+Poi l'Alba baciò la mia Crisalide —  
+E mi levai — e vissi —

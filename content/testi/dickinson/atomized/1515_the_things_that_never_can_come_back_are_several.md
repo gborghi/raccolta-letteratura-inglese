@@ -29,3 +29,22 @@ Foretold Locations —
 The Spirit does not stand —  
 Himself — at whatsoever Fathom  
 His Native Land —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+PARECCHIE —  
+
+Le Cose che mai possono tornare, sono parecchie —  
+[[Childhood|Infanzia]] — certe forme di [[Hope|Speranza]] — i Morti —  
+Benché le Gioie — come gli Uomini — possano a volte fare un [[Journey|Viaggio]] —  
+E ancora rimanere —  
+Non piangiamo il Viaggiatore, o il Marinaio,  
+Le loro Rotte sono belle —  
+Ma pensiamo ingranditi a tutto ciò che ci diranno  
+Tornando qui —  
+"Qui!" Vi sono "Qui" tipici —  
+Luoghi Predetti —  
+Lo Spirito non si ferma —  
+Egli stesso — a qualsivoglia Fondale  
+La sua Terra Natale —

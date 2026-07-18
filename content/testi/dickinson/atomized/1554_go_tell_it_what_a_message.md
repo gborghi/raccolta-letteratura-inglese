@@ -22,3 +22,15 @@ Obeyed — a Lure — a [[Longing]]?
 Oh [[Nature]] — none of this —  
 To Law — said sweet Thermopylae  
 I give my dying Kiss —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Va' e dillo" — Che Messaggio —  
+A chi — è specificato —  
+Non mormorio — non tenerezza —  
+Ma semplicemente — noi — obbedimmo —  
+Obbedimmo — a un'Esca — a una [[Longing|Brama]]?  
+Oh [[Nature|Natura]] — niente di questo —  
+Alla Legge — disse la dolce Termopili  
+Io do il mio Bacio morente —

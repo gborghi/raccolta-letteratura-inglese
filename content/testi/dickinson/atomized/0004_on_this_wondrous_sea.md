@@ -29,3 +29,22 @@ The anchors fast -
 Thither I pilot thee -  
 Land Ho! [[Eternity]]!  
 Ashore at last!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Scrivi! Compagno, scrivi!  
+
+Su questo [[Sea|mare]] meraviglioso  
+Veleggiando in silenzio,  
+Ehi! Pilota, ehi!  
+Conosci tu la riva  
+Dove non rugge frangente -  
+Dove la [[Storm|tempesta]] è finita?  
+
+Nel pacifico occidente  
+Molte le vele in riposo -  
+Le ancore salde -  
+Là io ti piloto -  
+Terra in vista! [[Eternity|Eternità]]!  
+A riva finalmente!

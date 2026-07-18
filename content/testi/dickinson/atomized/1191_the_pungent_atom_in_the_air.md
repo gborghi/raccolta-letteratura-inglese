@@ -23,3 +23,16 @@ For what Department of Delight
 As positive are we  
 As Limit of Dominion  
 Or Dams — of Ecstasy —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il pungente atomo nell'Aria  
+Non ammette [[debate]] —  
+Tutto ciò che ha nome dai Giorni d'[[Summer]]  
+Ha abbandonato la nostra Tenuta —  
+
+Di quale Dipartimento di Delizia  
+Siamo noi altrettanto certi  
+Quanto del Limite del Dominio  
+O delle Dighe — dell'Estasi —

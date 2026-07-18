@@ -42,3 +42,35 @@ Darkness intersect her face —
 And put out her eye —  
 [[Nature]] hesitate — before  
 [[Memory]] and I —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando speravo, ricordo  
+Proprio il luogo dove stavo —  
+A una [[Window|Finestra]] volta a Ovest —  
+L'Aria più aspra — era buona —  
+
+Nessun Nevischio poteva mordermi —  
+Nessun [[Frost|gelo]] raffreddarmi —  
+Era la [[Hope|Speranza]] a tenermi calda —  
+Non scialle di Merino —  
+
+Quando temevo — ricordo  
+Proprio il Giorno che era —  
+Mondi distesi al [[Sun|Sole]] —  
+Eppure come gelava la [[Nature|Natura]] —  
+
+Ghiaccioli sopra la mia [[Soul|anima]]  
+Pungevano Azzurri e Freddi —  
+L'Uccello lodava ovunque —  
+Solo Io — ero immobile —  
+
+E il Giorno in cui disperai —  
+Questo — se io lo scordo  
+Lo farà la [[Nature|Natura]] — che sia [[Night|Notte]]  
+Dopo che il [[Sun|Sole]] è tramontato —  
+Il Buio le intersechi il volto —  
+E le spenga l'occhio —  
+La [[Nature|Natura]] esiti — dinanzi  
+Alla [[Memory|Memoria]] e a me —

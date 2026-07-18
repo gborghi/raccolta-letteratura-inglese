@@ -28,3 +28,21 @@ Please, Pater, pretty soon!
 And view the Landscape o'er"  
 Not Father's [[Bells|bells]] — nor Factories,  
 Could scare us any more!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dove [[Bells|campane]] non spaventano più il mattino —  
+Dove il trambusto mai non giunge —  
+Dove Gentiluomini assai svelti  
+son costretti a restare nelle stanze —  
+
+Dove Bimbi stanchi placidi [[Sleep|dormono]]  
+per Secoli di [[Noon|mezzogiorno]]  
+Questo luogo è Beatitudine — questa città è Cielo —  
+Ti prego, Pater, presto presto!  
+
+"Oh potessimo salire dove stette [[Moses]],  
+e contemplare il Paesaggio intero"  
+Non le [[Bells|campane]] del Padre — né le Fabbriche,  
+potrebbero spaventarci mai più!

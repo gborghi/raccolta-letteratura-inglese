@@ -22,3 +22,15 @@ Invites and then retards the [[Truth]]
 Lest Certainty be sere  
 Compared with the delicious throe  
 Of transport thrilled with [[Fear]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dolce Scetticismo del Cuore —  
+Che sa — e non sa —  
+E ondeggia come una Flotta di Balsamo —  
+Affrontata dalla [[Snow|neve]] —  
+Invita e poi ritarda la [[Truth|Verità]]  
+Perché la Certezza non sia arida  
+A paragone del delizioso spasimo  
+Del trasporto fremente di [[Fear|Paura]] —

@@ -50,3 +50,43 @@ With Spices — in the Hem —
 How mean — to those that see —  
 Vandyke's Delineation  
 Of [[Nature]]'s — [[Summer]] Day!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli Alberi come Nappe — battevano — e oscillavano —  
+Pareva levarsi una Melodia  
+Da Creature in Miniatura  
+Ad accompagnare il [[Sun|Sole]] —  
+
+Lontani Salteri d'[[Summer|Estate]] —  
+Che innamorano l'Orecchio  
+Mai ancora hanno saziato —  
+Più remoti — quando più belli  
+
+Il [[Sun|Sole]] splendeva intero a intervalli —  
+Poi a Metà — poi celato del tutto —  
+Come se Egli fosse facoltativo  
+E avesse Tenute di Nuvola  
+
+Bastanti ad avvolgerlo  
+In eterno alla vista —  
+Se non fosse un suo capriccio  
+Lasciar crescere i Frutteti —  
+
+Un Uccello sedeva noncurante sul recinto —  
+Uno spettegolava nel Viottolo  
+Su faccende d'argento incantò un Serpente  
+Che appena si avvolgeva attorno a un Sasso —  
+
+Vividi [[Flowers|Fiori]] fendevano un Calice  
+E si libravano su uno Stelo  
+Come Bandiere Trattenute — Dolcemente issate —  
+Con Spezie — nell'Orlo —  
+
+Era di più — non posso dirlo —  
+637  
+
+Com'è misera — per chi vede —  
+La Delineazione di Vandyke  
+Della [[Nature|Natura]] — nel Giorno d'[[Summer|Estate]]!

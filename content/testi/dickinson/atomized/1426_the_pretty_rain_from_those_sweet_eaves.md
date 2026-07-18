@@ -23,3 +23,16 @@ The wrestle in her simple Throat
 To hold the feeling down  
 That vanquished her — defeated Feat —  
 Was Fervor's sudden [[Crown]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La bella [[Rain|Pioggia]] da quelle dolci Gronde  
+I suoi Occhi involontari —  
+Prese il suo proprio Cuore, e il nostro,  
+Di [[Innocent|innocente]] Sorpresa —  
+
+La lotta nella sua semplice Gola  
+Per trattenere il sentimento  
+Che la vinse — Impresa sconfitta —  
+Fu del Fervore l'improvvisa [[Crown|Corona]] —

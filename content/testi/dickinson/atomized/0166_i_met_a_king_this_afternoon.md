@@ -50,3 +50,43 @@ I question if the Royal Coach
 Round which the Footmen wait  
 Has the significance, on high,  
 Of this Barefoot Estate!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho incontrato un [[King|Re]] questo pomeriggio!  
+Non aveva una [[Crown|Corona]], invero,  
+Un piccolo Cappello di Palma era tutto,  
+Ed era scalzo, temo!  
+
+Ma certa sono che Ermellino portava  
+Sotto il blu della sua Giacca stinta —  
+E certa sono, che il cimiero recava  
+Anche in tasca di quella Giacca!  
+
+Ché troppo maestoso era per un Conte —  
+Un Marchese non andrebbe sì grandioso!  
+Era forse uno Zar minuto —  
+Un Papa, o qualcosa di tal genere!  
+
+Se devo dirvelo, d'un [[Horse|Cavallo]]  
+Il mio Monarca lentigginoso teneva le redini —  
+Senza dubbio una Bestia stimabile,  
+Ma per nulla disposta a correre!  
+
+E che carro! Finché vivo  
+Oserò presumere di vedere  
+Un altro veicolo simile  
+A quello che allora mi trasportò!  
+
+Due altri Principi cenciosi  
+Del suo stato regale partecipavano!  
+Senza dubbio la prima escursione  
+Che questi sovrani mai fecero!  
+
+Mi chiedo se la Regale Carrozza  
+174  
+
+Attorno a cui i Valletti attendono  
+Abbia il significato, lassù,  
+Di questo Scalzo Regno!

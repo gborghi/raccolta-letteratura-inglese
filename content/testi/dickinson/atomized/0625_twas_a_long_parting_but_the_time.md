@@ -33,3 +33,26 @@ Was Bridal — e'er like This?
 A Paradise — the Host —  
 And Cherubim — and Seraphim —  
 The unobtrusive Guest —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu un lungo Distacco — ma il [[Time|tempo]]  
+Del Colloquio — era Giunto —  
+Dinanzi al Seggio del Giudizio di [[God|Dio]] —  
+L'ultima — e seconda [[Time|volta]]  
+
+Questi [[lovers|Amanti]] senza Carne s'incontrarono —  
+Un Cielo in uno Sguardo —  
+Un Cielo di Cieli — il Privilegio  
+Degli Occhi l'uno dell'altra —  
+
+Nessuna Vita — su di Loro —  
+Abbigliati come il nuovo  
+[[unborn|Non nato]] — se non che Avevano contemplato —  
+Nati più infiniti — ora —  
+
+Fu mai Sposalizio — simile a Questo?  
+Un Paradiso — l'Anfitrione —  
+E Cherubini — e Serafini —  
+L'Ospite discreto —

@@ -23,3 +23,16 @@ But perishes — to live anew —
 But just anew to die —  
 Annihilation — plated fresh  
 With [[Immortality]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Attesa — è più Ostile della [[Death|Morte]] —  
+La [[Death|Morte]] — per quanto Vasta,  
+È Solo [[Death|Morte]], e non può crescere —  
+L'Attesa — non conclude —  
+
+Ma perisce — per vivere di nuovo —  
+Ma solo di nuovo per morire —  
+Annientamento — placcato a nuovo  
+D'[[Immortality|Immortalità]] —

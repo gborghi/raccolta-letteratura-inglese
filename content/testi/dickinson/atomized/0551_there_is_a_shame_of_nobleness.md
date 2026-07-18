@@ -23,3 +23,16 @@ A best Disgrace — a Brave Man feels —
 Acknowledged — of the Brave —  
 One More — "Ye Blessed" — to be told —  
 But that's — Behind the [[Grave]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è una Vergogna di Nobiltà —  
+Di fronte a Ricchezza Improvvisa —  
+Una più fine Vergogna d'Estasi —  
+Rea di Se Stessa —  
+
+Una suprema Disgrazia — la prova un Uomo Coraggioso —  
+Riconosciuta — dai Coraggiosi —  
+Una Ancora — "Voi Benedetti" — da sentirsi dire —  
+Ma quella è — Oltre la [[Grave|Tomba]] —

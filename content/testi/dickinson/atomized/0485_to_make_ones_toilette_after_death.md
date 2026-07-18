@@ -23,3 +23,16 @@ That's easier — than Braid the Hair —
 And make the Bodice gay —  
 When eyes that fondled it are wrenched  
 By Decalogues — away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Farsi la Toletta — dopo che la [[Death|Morte]]  
+Ha fatto fredda la Toletta  
+Del solo Gusto che ci premeva compiacere  
+È difficile, eppure —  
+
+È più facile — che Intrecciare i Capelli —  
+E fare gaio il Corpetto —  
+Quando gli occhi che lo vezzeggiavano son strappati  
+Dai Decaloghi — via —

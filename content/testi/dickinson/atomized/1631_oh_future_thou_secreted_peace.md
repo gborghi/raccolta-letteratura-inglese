@@ -22,3 +22,15 @@ No circuit sage of all the course
 Descried by cunning Men  
 To balk thee of thy sacred Prey —  
 Advancing to thy Den —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Oh Futuro! tu celata pace  
+O sotterraneo dolore —  
+Non v'è errante via di grazia  
+Che conduca lontano da te —  
+Nessun saggio giro dell'intero corso  
+Scorto da Uomini astuti  
+Per sottrarti la tua sacra Preda —  
+Che avanza verso la tua Tana —

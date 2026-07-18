@@ -31,3 +31,24 @@ There — sandals for the Barefoot —
 There — gathered from the gales —  
 Do the blue havens by the hand  
 Lead the wandering Sails.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un povero — lacero cuore — un cuore a brandelli —  
+Che si sedette a riposare —  
+Né notò che il Giorno in Riflusso  
+Fluiva argento verso Ovest —  
+Né notò che la [[Night|Notte]] scendeva soave —  
+Né la Costellazione ardere —  
+Intento alla visione  
+Di latitudini ignote.  
+
+Gli angeli — passando per quella via  
+Scorsero questo cuore polveroso —  
+Teneramente lo sollevarono dalla fatica  
+E lo portarono a [[God|Dio]] —  
+Là — sandali per lo Scalzo —  
+Là — raccolte dalle burrasche —  
+I porti azzurri per mano  
+Guidano le Vele erranti.

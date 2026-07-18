@@ -23,3 +23,16 @@ To [[Winter|winter]] to remove
 With [[Winter|winter]] to abide  
 Go manacle your icicle  
 Against your Tropic Bride.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu qui che la mia [[Summer|estate]] si fermò  
+Quale maturità dopo di allora  
+Verso altra scena o altra [[Soul|anima]]  
+La mia sentenza era iniziata.  
+
+All'[[Winter|inverno]] trasferirsi  
+Con l'[[Winter|inverno]] dimorare  
+Va' ad ammanettare il tuo ghiacciolo  
+Contro la tua Sposa Tropicale.

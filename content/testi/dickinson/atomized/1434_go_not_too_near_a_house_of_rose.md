@@ -23,3 +23,16 @@ Nor try to tie the Butterfly,
 Nor climb the Bars of Ecstasy,  
 In insecurity to lie  
 Is [[Joy]]'s insuring quality.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non andare troppo vicino a una [[house|Casa]] di [[Rose|Rosa]] —  
+La depredazione di una Brezza —  
+O l'inondazione di una [[Dew|Rugiada]]  
+Spaventa via le sue mura —  
+
+Né provare a legare la Farfalla,  
+Né scalare le Sbarre dell'Estasi,  
+Giacere nell'insicurezza  
+È della [[Joy|Gioia]] la qualità che assicura.

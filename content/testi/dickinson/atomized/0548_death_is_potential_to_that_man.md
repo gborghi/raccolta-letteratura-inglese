@@ -23,3 +23,16 @@ Of these Two — [[God]] remembers
 The longest — for the friend —  
 Is integral — and therefore  
 Itself dissolved — of [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Death|Morte]] è potenziale per quell'Uomo  
+Che muore — e per il suo amico —  
+Oltre ciò — inavvertita  
+Da Chiunque tranne [[God|Dio]] —  
+
+Di questi Due — [[God|Dio]] ricorda  
+Più a lungo — perché l'amico —  
+È parte integrante — e perciò  
+Esso stesso dissolto — di [[God|Dio]] —

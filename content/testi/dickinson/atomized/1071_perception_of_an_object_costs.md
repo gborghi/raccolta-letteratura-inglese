@@ -23,3 +23,16 @@ The Object Absolute — is nought —
 Perception sets it fair  
 And then upbraids a Perfectness  
 That situates so far —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La percezione di un oggetto costa  
+Precisa la perdita dell'Oggetto —  
+La Percezione in sé un Guadagno  
+Che risponde al suo Prezzo —  
+
+L'Oggetto Assoluto — è nulla —  
+La Percezione lo fa bello  
+E poi rimprovera una Perfezione  
+Che si situa così lontano —

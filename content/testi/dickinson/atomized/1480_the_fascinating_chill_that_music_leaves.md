@@ -22,3 +22,15 @@ In timid and tumultuous soil
 A fine — estranging creature —  
 To something upper wooing us  
 But not to our Creator —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il fascinoso brivido che la musica [[Leaves|lascia]]  
+È la conferma della Terra  
+Dell'impedimento dell'Estasi —  
+È germinazione del Rapimento  
+In suolo timido e tumultuoso  
+Una fine — estraniante creatura —  
+Che a qualcosa di superno ci corteggia  
+Ma non al nostro Creatore —

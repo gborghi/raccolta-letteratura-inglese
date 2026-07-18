@@ -23,3 +23,16 @@ To fetch Her Grace — and Hue —
 And Fairness — and Renown —  
 The Firmament's — To Pluck Her —  
 And fetch Her Thee — be mine —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ella dimora nella Terra —  
+Dove le Giunchiglie — stanno —  
+Il suo Creatore — la Sua Metropoli —  
+L'Universo — la Sua Ancella —  
+
+Per attingere la Sua Grazia — e Tinta —  
+E Bellezza — e Fama —  
+Del Firmamento — il Coglierla —  
+E portarla a Te — sia mio —

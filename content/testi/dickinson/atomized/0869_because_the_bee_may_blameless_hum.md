@@ -28,3 +28,21 @@ So Wings bestow on Me
 Or Petals, or a Dower of Buzz  
 That Bee to ride, or Flower of Furze  
 I that way worship Thee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perché l'Ape può ronzare senza colpa  
+Per Te un'Ape io divento  
+Porgi ascolto anche a Me.  
+
+Perché i [[Flowers|Fiori]] senza timore  
+Possono levare uno sguardo al tuo, una Fanciulla  
+Sempre un Fiore vorrebbe essere.  
+
+Né i Pettirossi, i Pettirossi devono nascondersi  
+Quando Tu nelle loro Cripte intrudi  
+Dunque Ali concedi a Me  
+O Petali, o una Dote di Ronzio  
+Quell'Ape da cavalcare, o Fiore di Ginestra  
+Io in quel modo Ti adoro.

@@ -33,3 +33,26 @@ Not a Mention, whose small Pebble
 Wrinkled any [[Sea]],  
 Unto Such, were such Assembly  
 'Twere Thanksgiving Day.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Giorno v'è della Serie  
+Detto Giorno del Ringraziamento.  
+Celebrato parte a Tavola  
+Parte in [[Memory|Memoria]].  
+
+Né Patriarca né Micia  
+Io disseco la Recita  
+Pare al mio Incappucciato pensiero  
+Riflesso di Festa.  
+
+Non fosse stata la brusca Sottrazione  
+Dalla Somma di un tempo —  
+Non un Acro o una Didascalia  
+Dove un tempo era una Stanza —  
+
+Non una Menzione, il cui piccolo Ciottolo  
+Increspò alcun [[Sea|Mare]],  
+Per Costoro, fosse tale Assemblea  
+Sarebbe Giorno del Ringraziamento.

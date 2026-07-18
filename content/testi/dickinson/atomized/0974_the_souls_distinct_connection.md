@@ -23,3 +23,16 @@ As [[Lightning]] on a Landscape
 Exhibits Sheets of Place —  
 Not yet suspected — but for Flash —  
 And Click — and Suddenness.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il distinto legame dell'[[Soul|Anima]]  
+Con l'[[Immortality|immortalità]]  
+È svelato al meglio dal Pericolo  
+O da rapida Calamità —  
+
+Come il [[Lightning|Lampo]] su un Paesaggio  
+Esibisce Distese di Luogo —  
+Non ancora sospettate — se non per il Guizzo —  
+E lo Scatto — e la Subitaneità.

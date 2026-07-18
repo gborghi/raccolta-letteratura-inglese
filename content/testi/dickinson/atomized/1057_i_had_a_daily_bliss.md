@@ -23,3 +23,16 @@ Till when around a Height
 It wasted from my sight  
 Increased beyond my utmost scope  
 I learned to estimate.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avevo una Beatitudine quotidiana  
+Che guardavo mezza indifferente  
+Finché d'improvviso la percepii muoversi —  
+Cresceva mentre la inseguivo  
+
+Finché quando dietro un'Altura  
+Svanì dalla mia vista  
+Accresciuta oltre la mia estrema portata  
+Imparai a stimare.

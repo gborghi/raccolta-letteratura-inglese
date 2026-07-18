@@ -37,3 +37,30 @@ The Sunrise — Sire — compelleth Me —
 Because He's Sunrise — and I see —  
 Therefore — Then —  
 I [[Love|love]] Thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Perché [[Love|amo]]" Voi, Signore?  
+Perché —  
+Il [[Wind|Vento]] non richiede all'Erba  
+Risposta — del Perché quando Lui passa  
+Lei non sappia restare al suo posto.  
+
+Perché Lui sa — e  
+Voi no —  
+E Noi non sappiamo —  
+Basta per Noi  
+La Saggezza che sia così —  
+
+Il [[Lightning|Lampo]] — mai chiese a un Occhio  
+Perché si chiudesse — quando Lui era accanto —  
+Perché sa che non può parlare —  
+E ragioni non contenute —  
+— Nel Discorso —  
+Ve ne sono — predilette da Gente più Delicata —  
+
+L'Aurora — Sire — mi costringe —  
+Perché Lui è Aurora — e io vedo —  
+Perciò — Allora —  
+Io [[Love|amo]] Te —

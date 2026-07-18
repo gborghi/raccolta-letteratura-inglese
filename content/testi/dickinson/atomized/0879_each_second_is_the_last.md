@@ -23,3 +23,16 @@ To fail within a Chance —
 How terribler a thing  
 Than perish from the Chance's list  
 Before the Perishing!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ogni Secondo è l'ultimo  
+Forse, rammenta l'Uomo  
+Che appena misura l'incoscienza  
+Il [[Sea|Mare]] e il Pennone frammezzo.  
+
+Mancare dentro una Possibilità —  
+Quanto più terribile cosa  
+Che perire dalla lista della Possibilità  
+Prima del Perire!

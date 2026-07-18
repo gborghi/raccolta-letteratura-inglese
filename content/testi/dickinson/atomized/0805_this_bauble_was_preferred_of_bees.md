@@ -23,3 +23,16 @@ Did [[Noon]] — enamel — in Herself
 Was [[Summer]] to a Score  
 Who only knew of Universe —  
 It had created Her.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo Gingillo fu prediletto dalle [[Bees|Api]] —  
+Dalle Farfalle ammirato  
+A Celesti — Disperate Distanze —  
+Fu giustificato dall'Uccello —  
+
+Il [[Noon|Mezzogiorno]] — smaltò — in Sé Stessa  
+Fu [[Summer|Estate]] per una Schiera  
+Che dell'Universo sapeva solo —  
+Che aveva creato Lei.

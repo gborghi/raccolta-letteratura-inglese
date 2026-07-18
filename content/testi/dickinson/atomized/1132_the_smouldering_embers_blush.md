@@ -22,3 +22,15 @@ Soft stirs the news of Light
 The stolid seconds glow  
 One requisite has [[Fire]] that lasts  
 [[Prometheus]] never knew —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le braci covanti arrossiscono —  
+Oh Cuori dentro il Carbone  
+Sei tu sopravvissuto a tanti anni?  
+Le braci covanti sorridono —  
+Lieve si desta la novella di Luce  
+Gli impassibili secondi ardono  
+Un requisito ha il [[Fire|Fuoco]] che dura  
+Che [[Prometheus|Prometeo]] mai conobbe —

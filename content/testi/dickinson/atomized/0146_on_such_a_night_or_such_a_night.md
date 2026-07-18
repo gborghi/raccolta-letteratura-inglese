@@ -43,3 +43,36 @@ Playmates, and holidays, and nuts —
 And visions vast and small —  
 Strange that the feet so precious charged  
 Should reach so small a goal!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+In una [[Night|notte]] così, o una [[Night|notte]] così,  
+A qualcuno importerebbe  
+Se una così piccola figura  
+Scivolasse quieta dalla sua sedia —  
+
+Così quieta — Oh come quieta,  
+Che nessuno saprebbe  
+Se non che la piccola figura  
+Dondolava più piano — avanti e indietro —  
+
+In un'[[Dawn|alba]] così, o un'[[Dawn|alba]] così —  
+Sospirerebbe qualcuno  
+Che una così piccola figura  
+Giacesse in sonno troppo profondo  
+
+Perché Chanticleer la destasse —  
+O la [[house|casa]] in fermento di sotto —  
+O l'uccello frivolo nel frutteto —  
+O un compito mattutino da fare?  
+
+C'era una piccola figura paffuta  
+Per ogni piccolo poggio —  
+Aghi operosi, e rocchetti di filo —  
+E piedi arrancanti dalla scuola —  
+
+Compagni di gioco, e vacanze, e noci —  
+E visioni vaste e piccole —  
+Strano che piedi di sì prezioso carico  
+Dovessero giungere a meta così piccola!

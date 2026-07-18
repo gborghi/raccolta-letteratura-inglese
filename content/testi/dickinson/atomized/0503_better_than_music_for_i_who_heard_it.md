@@ -45,3 +45,38 @@ Let me not spill — its smallest cadence —
 Humming — for promise — when [[Alone|alone]] —  
 Humming — until my faint Rehearsal —  
 Drop into tune — around the Throne —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Meglio — che Musica! Perché io — che l'udii —  
+Ero avvezza — agli [[Birds|Uccelli]] — prima —  
+Questa — era diversa — Era [[Translation|Traduzione]] —  
+Di tutte le arie che sapevo — e più —  
+
+Non era contenuta — come altra stanza —  
+Nessuno poté suonarla — la seconda [[Time|volta]] —  
+Ma il Compositore — perfetto Mozart —  
+Perisca con lui — quella Rima senza Chiave!  
+
+Così — i Bimbi — cui narrarono come i Ruscelli in Eden —  
+Gorgogliassero una migliore — Melodia —  
+Con arguzia inferiscono — la gran resa di Eva —  
+Che incalzava i piedi — che non — volevano — fuggire —  
+
+I Bimbi — maturati — sono più savi — perlopiù —  
+L'Eden — una leggenda — vagamente narrata —  
+Eva — e l'Angoscia — racconto di Nonna —  
+Ma — io dicevo un'aria — che udii —  
+
+Non tale melodia — la Chiesa — battezza —  
+Quando l'ultimo Santo — sale le Navate —  
+Non tale stanza fende il [[Silence|silenzio]] —  
+Quando la Redenzione batte le sue [[Bells|Campane]] —  
+
+Ch'io non versi — la sua minima cadenza —  
+Canticchiando — per promessa — quando [[Alone|sola]] —  
+Canticchiando — finché la mia fioca Prova —  
+Non cada in tono — intorno al Trono —

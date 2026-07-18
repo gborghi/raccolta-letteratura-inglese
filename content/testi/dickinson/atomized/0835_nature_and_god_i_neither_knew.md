@@ -23,3 +23,16 @@ Yet Neither told — that I could learn —
 My Secret as secure  
 As Herschel's private interest  
 Or Mercury's affair —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Nature|Natura]] e [[God|Dio]] — io non conoscevo  
+Eppure Entrambi così [[Well|bene]] mi conoscevano  
+Che trasalirono, come Esecutori  
+Della mia [[Identity|identità]].  
+
+Eppure Nessuno disse — ch'io potessi apprendere —  
+Il mio Segreto sicuro  
+Quanto il privato interesse di Herschel  
+O la faccenda di Mercurio —

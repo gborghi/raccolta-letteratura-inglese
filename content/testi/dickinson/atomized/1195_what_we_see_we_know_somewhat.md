@@ -23,3 +23,16 @@ I shall vote for Lands with Locks
 Granted I can pick 'em —  
 Transport's doubtful Dividend  
 Patented by Adam.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ciò che vediamo lo sappiamo alquanto  
+Non fosse che un poco —  
+Ciò che non congetturiamo lo facciamo  
+Benché si mostri così volubile  
+
+Voterò per Terre con Serrature  
+Purché io possa scassinarle —  
+Del Trasporto il dubbio Dividendo  
+Brevettato da Adamo.

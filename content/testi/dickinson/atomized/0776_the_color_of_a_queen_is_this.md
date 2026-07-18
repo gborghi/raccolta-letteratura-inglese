@@ -23,3 +23,16 @@ And when at [[Night|night]] — Auroran widths
 Fling suddenly on men —  
 'Tis this — and Witchcraft — [[Nature|nature]] keeps  
 A Rank — for Iodine —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Colore di una [[Queen|Regina]], è questo —  
+Il Colore di un [[Sun|Sole]]  
+Al tramonto — questo e Ambra —  
+Berillo — e questo, a [[Noon|Mezzogiorno]] —  
+
+E quando a [[Night|notte]] — ampiezze d'Aurora  
+Si gettano d'improvviso sugli uomini —  
+È questo — e Stregoneria — la [[Nature|natura]] serba  
+Un Rango — per lo Iodio —

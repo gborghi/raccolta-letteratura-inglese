@@ -50,3 +50,43 @@ Though flown
 Shall in distant [[Tree|tree]]  
 Bright melody for me  
 Return.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho un Uccello a [[spring|primavera]]  
+Che per me sola canta -  
+La [[spring|primavera]] seduce.  
+E quando l'[[Summer|estate]] s'avvicina -  
+E quando la [[Rose|Rosa]] appare,  
+Robin se n'è andato.  
+
+Pure io non mi dolgo  
+Sapendo che quell'Uccello mio  
+Benché volato via -  
+Impara oltre il [[Sea|mare]]  
+Melodia nuova per me  
+E tornerà.  
+
+Salde in mano più sicura  
+Tenute in una Terra più vera  
+Sono le mie -  
+E benché ora partano,  
+Dico al mio cuore dubbioso  
+Che sono tue.  
+
+In un più sereno Splendore,  
+In una luce più dorata  
+Vedo  
+Ogni piccolo [[Doubt|dubbio]] e [[Fear|timore]],  
+Ogni piccola discordia di qui  
+Rimossa.  
+
+Allora non mi dorrò,  
+Sapendo che quell'Uccello mio  
+Benché volato via  
+8  
+
+In un [[Tree|albero]] lontano  
+Chiara melodia per me  
+Riporterà.

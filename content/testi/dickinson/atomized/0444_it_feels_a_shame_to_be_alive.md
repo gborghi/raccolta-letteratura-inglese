@@ -38,3 +38,31 @@ It may be — a Renown to live —
 I think the Man who die —  
 Those unsustained — Saviors —  
 Present Divinity —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sembra una vergogna essere Vivi —  
+Quando Uomini così valorosi — son morti —  
+Si invidia l'Illustre [[Dust|Polvere]] —  
+Cui fu concesso — un tale Capo —  
+
+La Pietra — che dice difendendo Chi  
+Questo Spartano depose  
+Quel poco di Lui che noi — possedevamo  
+In Pegno per la [[Liberty|Libertà]] —  
+
+Il prezzo è grande — Sublimemente pagato —  
+Meritiamo noi — una Cosa —  
+Che vive — come Dollari — da accumulare  
+Prima che si possa ottenere?  
+
+Valiamo noi che attendiamo — abbastanza —  
+Perché una così Enorme Perla  
+Come la vita — si dissolva — per Noi —  
+Nell'orrida — Coppa della Battaglia?  
+
+Sarà forse — una Gloria vivere —  
+Io penso che l'Uomo che muore —  
+Quei non sorretti — Salvatori —  
+Presentino la Divinità —

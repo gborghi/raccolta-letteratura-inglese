@@ -23,3 +23,16 @@ Other Courtesies have been —
 Other Courtesy may be —  
 We commend ourselves to thee  
 Paragon of Chivalry.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ricorda il Volto di me  
+Quando nella tua Felicità,  
+Atteso in Paradiso oggi  
+Ospite mio di certo —  
+
+Altre Cortesie vi sono state —  
+Altra Cortesia potrà esservi —  
+Ci raccomandiamo a te  
+Paragone di Cavalleria.

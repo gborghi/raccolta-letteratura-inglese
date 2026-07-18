@@ -31,3 +31,24 @@ Were Tenderer — diviner
 The Transitive toward.  
 A Bayonet's contrition  
 Is nothing to the Dead.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio Trionfo durò finché i Tamburi  
+Ebbero lasciato i Morti [[Alone|soli]]  
+E allora deposi la mia Vittoria  
+E castigata avanzai furtiva  
+Fin dove i Volti compiuti  
+Volsero su di me Conclusione  
+E allora odiai la Gloria  
+E desiderai essere Loro.  
+
+Ciò che sarà si scorge meglio  
+Quando è anche stato —  
+Potesse il Prospetto sapere di Retrospetto  
+Le tirannie degli Uomini  
+Sarebbero più Tenere — più divino  
+Il Transitivo verso.  
+La contrizione d'una Baionetta  
+È nulla per i Morti.

@@ -23,3 +23,16 @@ Thrice to the floating casement
 The Patriarch's bird returned,  
 [[Courage]]! My brave Columba!  
 There may yet be land
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora una volta, la mia Colomba ora smarrita  
+Scuote le sue ali perplesse  
+Ancora una volta la sua padrona, sull'abisso  
+Getta la sua turbata domanda —  
+
+Tre volte alla finestra galleggiante  
+Tornò l'uccello del Patriarca,  
+[[Courage|Coraggio]]! Mia prode Columba!  
+Terra ancora può esserci

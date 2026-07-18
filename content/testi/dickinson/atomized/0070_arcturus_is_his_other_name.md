@@ -48,3 +48,41 @@ Will lift his little girl —
 
 Old fashioned — naught — everything —  
 Over the stile of "Pearl."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Arcturus" è il suo altro nome —  
+Preferirei chiamarlo "Stella."  
+È assai meschino da parte della Scienza  
+Andare a interferire!  
+Ho ucciso un verme l'altro giorno —  
+Un "Sapiente" di passaggio  
+Mormorò "Resurgam" — "Centopiedi"!  
+"Oh Signore — come siamo fragili"!  
+Colgo un fiore dai boschi —  
+Un [[Monster|mostro]] con una lente  
+Computa gli stami in un soffio —  
+E la mette in una "classe"!  
+Mentre io prendevo la Farfalla  
+Un tempo nel mio cappello —  
+Lui siede eretto in "Bacheche" —  
+Le [[Bells|campanule]] del Trifoglio scordò.  
+Ciò che un tempo era "Cielo" È "Zenit" ora —  
+Dove mi proponevo d'andare  
+Quando la breve mascherata del [[Time|Tempo]] fosse compiuta  
+È mappato e cartografato anch'esso.  
+E se i poli si mettessero a folleggiare  
+E si reggessero sulla testa!  
+[[Hope|Spero]] d'esser pronta al "peggio" —  
+Qualunque burla accada!  
+Forse il "Regno dei Cieli" è cambiato —  
+[[Hope|Spero]] che i "Bambini" là  
+Non siano "alla nuova moda" quando verrò —  
+Né ridano di me — né mi fissino —  
+[[Hope|Spero]] che il Padre nei cieli  
+Sollevi la sua bambina —  
+76  
+
+All'antica — nulla — ogni cosa —  
+Oltre la scaletta di "Perla."

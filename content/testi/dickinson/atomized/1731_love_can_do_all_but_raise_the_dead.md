@@ -23,3 +23,16 @@ But [[Love|love]] is tired and must [[Sleep|sleep]],
 And hungry and must graze  
 And so abets the shining Fleet  
 Till it is out of gaze.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Love|Amore]] può tutto tranne risuscitare i Morti  
+[[Doubt|dubito]] che persino questo  
+a un tale gigante fosse negato  
+se la carne fosse equivalente  
+
+Ma l'[[Love|amore]] è stanco e deve [[Sleep|dormire]],  
+e affamato e deve pascolare  
+e così asseconda la Flotta splendente  
+finché non è fuori dallo sguardo.

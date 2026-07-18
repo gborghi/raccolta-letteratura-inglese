@@ -28,3 +28,21 @@ Seek — Friend — and see —
 Heaven is shy of Earth — that's all —  
 Bashful Heaven — thy [[lovers|Lovers]] small —  
 Hide — too — from thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fuori di vista? E che importa?  
+Guarda l'Uccello — raggiungerla!  
+Curva su Curva — Volo su Volo —  
+Attorno all'Aria Scoscesa —  
+Pericolo! Che cos'è per Lei?  
+Meglio è fallire — là —  
+Che [[debate|discutere]] — qui —  
+
+Blu è Blu — per tutto il Mondo —  
+Ambra — Ambra — [[Dew|Rugiada]] — [[Dew|Rugiada]] —  
+Cerca — Amico — e vedi —  
+Il Cielo è schivo con la Terra — ecco tutto —  
+Cielo ritroso — i tuoi piccoli [[lovers|Amanti]] —  
+Si nascondono — anch'essi — da te —

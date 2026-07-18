@@ -23,3 +23,16 @@ Of [[Faith|faith]] of others in itself
 As Pyramidal Nerve  
 Behind the most unconscious [[Clock|clock]]  
 What skilful Pointers move —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non scoprire debolezza è  
+L'Artificio della forza —  
+L'Inespugnabilità inerisce  
+Tanto per la Coscienza  
+
+Della [[Faith|fede]] degli altri in essa  
+Quanto per il Nervo Piramidale  
+Dietro il più inconsapevole [[Clock|orologio]]  
+Che abili Lancette muove —

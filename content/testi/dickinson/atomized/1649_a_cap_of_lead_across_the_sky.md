@@ -23,3 +23,16 @@ A Chill came up as from a shaft
 Our [[Noon|noon]] became a [[Well|well]]  
 A Thunder [[Storm|storm]] combines the charms  
 Of [[Winter]] and of Hell.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Berretto di Piombo attraverso il cielo  
+Fu teso stretto e arcigno  
+Non potemmo trovare il possente Volto  
+La Figura s'era ritratta —  
+
+Un Gelo salì come da un cunicolo  
+Il nostro [[Noon|mezzogiorno]] divenne un [[Well|pozzo]]  
+Una [[Storm|tempesta]] di Tuono combina gli incanti  
+Dell'[[Winter|Inverno]] e dell'Inferno.

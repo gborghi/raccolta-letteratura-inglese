@@ -28,3 +28,21 @@ Their Coming, may be known
 By Couriers within —  
 Their going — is not —  
 For they've never gone —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Alone|Sola]], io non posso essere —  
+Ché Schiere — mi visitano —  
+Compagnia senza Registro —  
+Che elude ogni Chiave —  
+
+Non hanno Vesti, né Nomi —  
+Né Almanacchi — né Climi —  
+Ma Dimore comuni  
+Come Gnomi —  
+
+Il loro Venire, si può conoscere  
+Da Corrieri interiori —  
+Il loro andare — no —  
+Perché non se ne sono mai andati —

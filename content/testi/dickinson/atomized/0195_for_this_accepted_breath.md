@@ -33,3 +33,26 @@ Get Saints — with new — unsteady tongue —
 To say what trance below  
 Most like their glory show —  
 Fittest the [[Crown]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per questo — Respiro accettato —  
+Attraverso esso — competere con la [[Death|Morte]] —  
+Colui non può toccare questa [[Crown|Corona]] —  
+Per essa — prendo il mio titolo —  
+Ah, quale regale causa  
+Alla mia necessità — si chinò!  
+
+Nessuna Landa — può esistere  
+Dove questo mi accompagna —  
+Nessun [[Desert|Deserto]] a [[Noon|Mezzogiorno]] —  
+Nessuna [[Fear|paura]] del [[Frost|gelo]] a venire  
+Turba la fioritura perenne —  
+Ma Giugno Certo!  
+
+Che Gabriele — dica — la regale sillaba —  
+Che i Santi — con nuova — malferma lingua —  
+Dicano quale estasi quaggiù  
+Somigli di più alla loro gloria —  
+La più degna della [[Crown|Corona]]!

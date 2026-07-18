@@ -33,3 +33,26 @@ Stabbed — while I sued
 His sweet [[Forgiveness|forgiveness]] —  
 Jesus — it's your little "John"!  
 Don't you know — me?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ha teso la mia [[Faith|fede]] —  
+La trovò cedevole?  
+Ha scosso la mia salda fiducia —  
+Ha ceduto — allora?  
+
+Ha scagliato il mio credo —  
+Ma — l'ha infranto — forse?  
+Straziata — dall'attesa —  
+Non un nervo ha ceduto!  
+
+Mi ha torto — con l'Angoscia —  
+Ma non ho mai dubitato di lui —  
+Benché per quale torto  
+Non abbia mai detto —  
+
+Trafitta — mentre imploravo  
+Il suo dolce [[Forgiveness|perdono]] —  
+Gesù — è il tuo piccolo "John"!  
+Non conosci — me?

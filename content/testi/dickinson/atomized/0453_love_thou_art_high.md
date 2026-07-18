@@ -34,3 +34,27 @@ Smile — and alter — and prattle — and die —
 Bliss — were an Oddity — without thee —  
 Nicknamed by [[God]] —  
 [[Eternity]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Love|Amore]] — tu sei alto —  
+Non posso scalarti —  
+Ma, fossimo Due —  
+Chissà che noi —  
+A turno — sul Chimborazo —  
+Ducali — infine — non si stia ritti accanto a te —  
+
+[[Love|Amore]] — tu sei profondo —  
+Non posso [[Cross|attraversarti]] —  
+Ma, vi fossero Due  
+Invece di Uno —  
+Rematore, e Yacht — in qualche sovrana [[Summer|Estate]] —  
+Chissà — che non si giunga al [[Sun|Sole]]?  
+
+[[Love|Amore]] — tu sei Velato —  
+Pochi — ti contemplano —  
+Sorridono — e mutano — e ciarlano — e muoiono —  
+La Beatitudine — sarebbe una Stranezza — senza te —  
+Soprannominata da [[God|Dio]] —  
+[[Eternity|Eternità]] —

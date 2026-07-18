@@ -23,3 +23,16 @@ We questioned to, again.
 When Cerements let go  
 And Creatures clad in Miracle  
 Go up by Two and Two.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È Angoscia più grande della Delizia  
+È di [[Resurrection|Resurrezione]] la [[Pain|Pena]] —  
+Le Schiere in incontro dal Volto percosso  
+Cui domandammo, di nuovo.
+
+È Trasporto selvaggio quale freme le Tombe  
+Quando i Sudari lasciano la presa  
+E Creature vestite di Miracolo  
+Salgono a Due a Due.

@@ -28,3 +28,21 @@ The Frosts were her condition —
 The Tyrian would not come  
 Until the North — invoke it —  
 Creator — Shall I — bloom?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[God|Dio]] fece una piccola Genziana —  
+Provò — a essere una [[Rose|Rosa]] —  
+E fallì — e tutta l'[[Summer|Estate]] rise —  
+Ma poco prima delle Nevi  
+
+Ecco [[Rose|sorse]] una Creatura Purpurea —  
+Che rapì tutta la [[Hill|Collina]] —  
+E l'[[Summer|Estate]] nascose la Fronte —  
+E lo Scherno — tacque —  
+
+I Geli erano la sua condizione —  
+Il Tirio non sarebbe giunto  
+Finché il Nord — non lo invochi —  
+Creatore — Io — fiorirò?

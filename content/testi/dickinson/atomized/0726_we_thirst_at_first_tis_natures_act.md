@@ -23,3 +23,16 @@ It intimates the finer want —
 Whose adequate supply  
 Is that Great [[Water]] in the West —  
 Termed [[Immortality]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Abbiamo sete dapprima — è Atto di [[Nature|Natura]] —  
+E più tardi — quando moriamo —  
+Un po' d'[[Water|Acqua]] supplichiamo —  
+Da dita che passano —  
+
+Ciò accenna al bisogno più fine —  
+La cui provvista adeguata  
+È quella Grande [[Water|Acqua]] a Occidente —  
+Detta [[Immortality|Immortalità]] —

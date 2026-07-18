@@ -34,3 +34,27 @@ Would not so ravished turn —
 Nor Persian, baffled at her shrine  
 Lift such a Crucifixial sign  
 To her imperial [[Sun]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi toccò, così vivo per sapere  
+Che un tale giorno, così concesso,  
+Brancolai sul suo petto —  
+Era per me un luogo sconfinato  
+E quietato, come il tremendo [[Sea|mare]]  
+Mette a riposo i ruscelli minori.  
+
+E ora, sono diversa da prima,  
+Come se respirassi aria superiore —  
+O sfiorassi una Veste Regale —  
+Anche i miei piedi, che tanto avevano errato —  
+Il mio viso di Zingara — trasfigurato ora —  
+In più tenera Fama —  
+
+In questo Porto, se potessi giungere,  
+Rebecca, verso [[Jerusalem|Gerusalemme]],  
+Non si volgerebbe così rapita —  
+Né la Persiana, confusa al suo altare  
+Leverebbe un tale segno Crocifissale  
+Al suo [[Sun|Sole]] imperiale.

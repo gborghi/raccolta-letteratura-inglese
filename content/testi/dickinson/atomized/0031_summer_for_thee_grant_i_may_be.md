@@ -24,3 +24,17 @@ And row my blossoms o'er!
 Pray gather me -  
 Anemone -  
 Thy flower - forevermore!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Summer]] per te, concedi ch'io sia  
+Quando i giorni d'[[Summer]] saranno volati!  
+La tua musica ancora, quando il Caprimulgo  
+E il Rigogolo - saranno spenti!  
+
+Per fiorire per te, salterò la tomba  
+E remerò oltre i miei fiori!  
+Ti prego coglimi -  
+Anemone -  
+Tuo fiore - per sempre!

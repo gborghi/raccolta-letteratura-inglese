@@ -23,3 +23,16 @@ As Children strictest kept
 Turn soonest to the [[Sea|sea]]  
 Whose nameless Fathoms slink away  
 Beside infinity
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Racchiuse in questa breve Vita  
+Sono magiche estensioni  
+L'[[Soul|anima]] che torna lieve a [[Night|notte]]  
+Per trafugarne più sicura  
+
+Come Bambini tenuti più stretti  
+Si volgono per primi al [[Sea|mare]]  
+I cui Abissi senza nome sgusciano via  
+Accanto all'infinità

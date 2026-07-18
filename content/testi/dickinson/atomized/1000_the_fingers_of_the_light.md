@@ -33,3 +33,26 @@ The Neighbor in the Pool
 Upon His Hip elate  
 Made loud obeisance and the Gnat  
 Held up His Cup for Light.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le Dita della Luce  
+Bussarono lievi sulla Città  
+Con "Io sono grande e non posso attendere  
+Perciò dunque fatemi entrare."  
+
+"Sei in anticipo," rispose la Città,  
+"I miei Volti dormono —  
+Ma giura, e ti lascerò passare,  
+Che non li sveglierai."  
+
+L'Ospite accomodante acconsentì  
+Ma una volta dentro la Città  
+Il trasporto del Suo Sembiante  
+Svegliò Fanciulla e Uomo  
+
+Il Vicino nello Stagno  
+Esultante sul Suo Fianco  
+Fece sonoro ossequio e il Moscerino  
+Levò la Sua Coppa alla Luce.

@@ -28,3 +28,21 @@ The smallest Housewife in the grass,
 Yet take her from the Lawn  
 And somebody has lost the face  
 That made Existence — [[Home]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tranne che al Cielo, lei è nulla.  
+Tranne che per gli Angeli — sola.  
+Tranne che per qualche Ape vagabonda  
+Un fiore sbocciato in più.  
+
+Tranne che per i venti — provinciale.  
+Tranne che dalle Farfalle  
+Inosservata come una sola [[Dew|rugiada]]  
+Che posa sull'Acro.  
+
+La più piccola Massaia nell'erba,  
+Pure toglietela dal Prato  
+E qualcuno ha perduto il volto  
+Che faceva dell'Esistenza — [[Home|Casa]]!

@@ -23,3 +23,16 @@ Invest this alabaster Zest
 In the Delights of [[Dust]] —  
 Remitted — since it flitted it  
 In recusance august.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lodatelo — è morto —  
+Non può ardere —  
+Scaldate quest'inclemente Orecchio  
+Con l'encomio che ha meritato  
+Da quando fu raccolto qui —  
+Investite questo Zelo d'alabastro  
+Nelle Delizie della [[Dust|Polvere]] —  
+Rimesso — da che lo fuggì  
+In augusta recusanza.

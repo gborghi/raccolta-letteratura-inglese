@@ -23,3 +23,16 @@ How mighty to the insecure
 Thy Physiognomy  
 To whom not any Face cohere —  
 Unless concealed in thee
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come salda deve apparire l'[[Eternity|Eternità]]  
+A uomini in rovina come me  
+Il solo Possesso Adamantino  
+In tutta l'[[Identity|Identità]] —  
+
+Come possente all'insicuro  
+La tua Fisionomia  
+Per cui nessun Volto ha coesione —  
+Se non celato in te

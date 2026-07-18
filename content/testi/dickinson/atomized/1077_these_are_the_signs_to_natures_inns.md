@@ -28,3 +28,21 @@ For Sureties of her staunch Estate
 Her undecaying Cheer  
 The Purple in the East is set  
 And in the North, the Star —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Queste sono le Insegne delle Locande della [[Nature|Natura]] —  
+Il suo invito ampio  
+A Chiunque sia affamato  
+Di gustare il suo mistico Pane —  
+
+Questi sono, della [[Nature|Natura]], i riti della [[house|Casa]] —  
+L'Ospitalità  
+Che si apre con eguale ampiezza  
+Al Mendicante e all'Ape  
+
+A Garanzia del suo saldo Dominio  
+Del suo Conforto che non sfiorisce  
+La Porpora a Oriente è posta  
+E a Settentrione, la Stella —

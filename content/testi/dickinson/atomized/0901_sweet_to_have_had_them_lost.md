@@ -24,3 +24,17 @@ Most precious and the Dead —
 Next precious  
 Those that [[Rose|rose]] to go —  
 Then thought of Us, and stayed.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dolce, averli avuti perduti  
+Per la notizia che siano salvi —  
+Quanto più vicini partirono da Noi  
+Tanto più vicini essi, restituiti,  
+
+Staranno alla Nostra Destra —  
+Preziosissimi anche i Morti —  
+Poi preziosi  
+Quelli che si [[Rose|levarono]] per andare —  
+Poi pensarono a Noi, e restarono.

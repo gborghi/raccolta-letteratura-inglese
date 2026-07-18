@@ -26,3 +26,19 @@ I say, As if this little flower
 To Eden, wandered in —  
 What then? Why nothing,  
 Only, your inference therefrom!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come se un piccolo fiore Artico  
+Sull'orlo polare —  
+Se ne andasse vagando giù per le Latitudini  
+Finché perplesso giungesse  
+A continenti d'[[Summer|estate]] —  
+A firmamenti di [[Sun|sole]] —  
+A strane, luminose folle di [[Flowers|fiori]] —  
+E [[Birds|uccelli]], di lingua straniera!  
+Dico, Come se questo piccolo fiore  
+Nell'Eden, vagando entrasse —  
+E poi? Ebbene nulla,  
+Solo, la vostra inferenza da ciò!

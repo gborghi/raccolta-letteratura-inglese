@@ -23,3 +23,16 @@ By means of it — in [[God]]'s Ear —
 If then He hear —  
 This sums the Apparatus  
 Comprised in [[Prayer]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Prayer|Preghiera]] è il piccolo strumento  
+Con cui gli Uomini giungono  
+Dove la Presenza — è loro negata.  
+Scagliano la loro Parola  
+
+Per suo mezzo — nell'Orecchio di [[God|Dio]] —  
+Se poi Egli ode —  
+Questo riassume l'Apparato  
+Compreso nella [[Prayer|Preghiera]] —

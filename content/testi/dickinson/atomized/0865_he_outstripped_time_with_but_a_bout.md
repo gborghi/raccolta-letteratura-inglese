@@ -23,3 +23,16 @@ And He and He in mighty List
 Unto this present, run,  
 The larger Glory for the less  
 A just sufficient Ring.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Superò il [[Time|Tempo]] con una sola Sfida,  
+Superò le [[Stars|Stelle]] e il [[Sun|Sole]]  
+E poi, mai stanco, sfidò [[God|Dio]]  
+Al cospetto del Trono.  
+
+E Lui e Lui in possente Lizza  
+Fino a quest'oggi, corrono,  
+La Gloria più grande per la minore  
+Un'Arena appena sufficiente.

@@ -23,3 +23,16 @@ Or [[Love]] — the two coeval come —
 We both and neither prove —  
 Experience either and consume —  
 For None see [[God]] and live —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Accumularsi come Tuono fino alla fine  
+Poi sgretolarsi via grandioso  
+Mentre ogni Cosa creata si celava  
+Questo — sarebbe Poesia —  
+
+O [[Love|Amore]] — i due vengono coevi —  
+Noi proviamo entrambi e nessuno —  
+Sperimentane uno e ti consumi —  
+Ché Nessuno vede [[God|Dio]] e vive —

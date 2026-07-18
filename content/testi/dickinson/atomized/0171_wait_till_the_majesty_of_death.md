@@ -33,3 +33,26 @@ A Lord, might dare to lift the Hat
 To such a Modest Clay  
 Since that My Lord, "the Lord of Lords"  
 Receives unblushingly!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Aspetta che la Maestà della [[Death|Morte]]  
+Investa una fronte così umile!  
+Quasi un incipriato Lacchè  
+Oserebbe toccarla ora!  
+
+Aspetta che in Vesti Eterne  
+Quel Democratico sia abbigliato,  
+Poi ciancia di "Promozioni" —  
+E di "Rango," e del resto!  
+
+Attorno a questo quieto Cortigiano  
+Ossequiosi Angeli attendono!  
+Ben regale è il suo Seguito!  
+Ben purpureo è il suo stato!  
+
+Un Lord, oserebbe levare il Cappello  
+A così Modesta Creta  
+Poiché quel Mio Signore, "il Signore dei Signori"  
+Riceve senza arrossire!

@@ -22,3 +22,15 @@ Around — across — upon it —
 As one within a Swoon —  
 Goes safely — where an open eye —  
 Would drop Him — Bone by Bone.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un [[Pain|dolore]] — così assoluto —  
+Che inghiotte la sostanza —  
+Poi copre l'Abisso di Trance —  
+Così la [[Memory|Memoria]] può camminare  
+Intorno — attraverso — sopra —  
+Come chi dentro un Deliquio —  
+Va sicuro — dove un occhio aperto —  
+Lo farebbe cadere — Osso per Osso.

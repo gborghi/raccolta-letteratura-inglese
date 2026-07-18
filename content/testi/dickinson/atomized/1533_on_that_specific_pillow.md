@@ -22,3 +22,15 @@ Or usher us — a stranger —
 To situations new  
 The effort to comprise it  
 Is all the [[Soul|soul]] can do.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su quello specifico Cuscino  
+I nostri progetti volano via —  
+Il tremendo Domani della [[Night|Notte]]  
+E se il [[Sleep|sonno]] resterà  
+O ci scorterà — stranieri —  
+A situazioni nuove  
+Lo sforzo di abbracciarlo  
+È tutto ciò che l'[[Soul|anima]] può.

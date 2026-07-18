@@ -33,3 +33,26 @@ Then I — my timid service done —
 Tho' service 'twas, of [[Love]] —  
 Take up my little Violin —  
 And further North — remove.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Credo che l'Ora più lunga di tutte  
+Sia quando i Vagoni sono giunti —  
+E noi aspettiamo la Carrozza —  
+Sembra quasi che il [[Time|Tempo]]  
+
+Indignato — che la [[Joy|Gioia]] fosse giunta —  
+Bloccasse le Lancette Dorate —  
+E non lasciasse passare i Secondi —  
+Ma l'istante più lento — finisce —  
+
+Il Pendolo comincia a contare —  
+Come piccoli Scolari — forte —  
+I passi s'infittiscono — nell'Ingresso —  
+Il Cuore comincia ad affollarsi —  
+
+Allora io — compiuto il mio timido servizio —  
+Benché servizio fosse, d'[[Love|Amore]] —  
+Prendo il mio piccolo Violino —  
+E più a Nord — mi ritiro.

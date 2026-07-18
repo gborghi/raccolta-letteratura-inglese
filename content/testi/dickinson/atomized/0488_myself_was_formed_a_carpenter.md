@@ -28,3 +28,21 @@ My Tools took Human — Faces —
 The Bench, where we had toiled —  
 Against the Man — persuaded —  
 We — Temples build — I said —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io fui formata — Falegname —  
+Un [[Time|tempo]] senza pretese  
+La mia Pialla — ed io, insieme operammo  
+Prima che un Costruttore venisse —  
+
+A misurare i nostri compimenti —  
+Se avessimo l'Arte delle Assi  
+Sviluppata a sufficienza — Ci assumerebbe  
+A Mezzadria —  
+
+I miei Attrezzi presero Umani — Volti —  
+Il Banco, dove avevamo faticato —  
+Contro l'Uomo — persuasero —  
+Noi — Templi costruiamo — dissi —

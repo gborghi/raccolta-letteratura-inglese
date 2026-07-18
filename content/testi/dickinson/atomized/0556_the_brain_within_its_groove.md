@@ -23,3 +23,16 @@ To put a Current back —
 When Floods have slit the Hills —  
 And scooped a Turnpike for Themselves —  
 And trodden out the Mills —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cervello, nel suo Solco  
+Corre uniforme — e fedele —  
+Ma lascia che una Scheggia devii —  
+Sarebbe più facile per Te —  
+
+Ricondurre indietro una Corrente —  
+Quando le Piene hanno fenduto le Colline —  
+E scavato per Sé una Strada Maestra —  
+E calpestato via i Mulini —

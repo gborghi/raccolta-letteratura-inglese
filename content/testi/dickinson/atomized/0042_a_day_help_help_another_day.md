@@ -22,3 +22,15 @@ From marshallings as simple
 The flags of nations swang.  
 Steady — my [[Soul|soul]]: What issues  
 Upon thine arrow hang!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Giorno! Aiuto! Aiuto! Un altro Giorno!  
+Le vostre preghiere, oh Passante!  
+Da una palla così comune  
+Potrebbe datarsi una Vittoria!  
+Da adunate altrettanto semplici  
+Ondeggiarono le bandiere delle nazioni.  
+Salda — mia [[Soul|anima]]: Quali esiti  
+Pendono dalla tua freccia!

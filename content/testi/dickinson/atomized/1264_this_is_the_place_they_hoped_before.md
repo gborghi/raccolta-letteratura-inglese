@@ -22,3 +22,15 @@ Too distant to arrest the feet
 That walk this plank of balm —  
 Before them lies escapeless [[Sea|sea]] —  
 The way is closed they came.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questo è il luogo che speravano prima,  
+Dove io sto sperando ora.  
+Il seme della delusione crebbe  
+Dentro una capsula gaia,  
+Troppo distante per fermare i piedi  
+Che percorrono quest'asse di balsamo —  
+Davanti a loro giace un [[Sea|mare]] senza scampo —  
+Chiusa è la via da cui vennero.

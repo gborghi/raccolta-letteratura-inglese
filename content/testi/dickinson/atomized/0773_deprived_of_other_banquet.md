@@ -28,3 +28,21 @@ A Robin's famine able —
 Red [[Pilgrim]], He and I —  
 A Berry from our table  
 Reserve — for [[Charity|charity]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Privata d'altro Banchetto,  
+Intrattenni Me stessa —  
+Dapprima — scarso nutrimento —  
+Un Pane insufficiente —  
+
+Ma cresciuto per esili aggiunte  
+A misura così stimata  
+Che è abbastanza sontuoso per me —  
+E quasi da bastare  
+
+Alla fame d'un Pettirosso —  
+Rosso [[Pilgrim|Pellegrino]], Lui ed io —  
+Una Bacca della nostra tavola  
+Riserviamo — per [[Charity|carità]] —

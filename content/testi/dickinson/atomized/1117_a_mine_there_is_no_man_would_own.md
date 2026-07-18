@@ -23,3 +23,16 @@ Potosi never to be spent
 But hoarded in the mind  
 What Misers wring their hands tonight  
 For Indies in the Ground!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Miniera c'è che nessun Uomo possiederebbe  
+Se non gli fosse conferita,  
+Sminuendo con ricchezza esclusiva  
+Un Universo accanto —  
+
+Potosi mai da spendere  
+Ma accumulato nella mente  
+Quali Avari si torcono le mani stanotte  
+Per Indie dentro il Suolo!

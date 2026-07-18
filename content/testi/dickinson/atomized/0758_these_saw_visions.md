@@ -31,3 +31,24 @@ These — adjust — that ran to meet us —
 Pearl — for Stocking — Pearl for Shoe —  
 Paradise — the only Palace  
 Fit for Her reception — now —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questi — videro Visioni —  
+Chiudeteli dolcemente —  
+Queste — ebbero Fossette —  
+Spianatele piano —  
+Questa — rivolse accenti d'addio —  
+Presto — Dolce Bocca — a rimpiangerti così —  
+
+Questo — Noi carezzammo —  
+Raso Innumerabile —  
+Queste — tenemmo fra le nostre —  
+Dita della Snella Aurora —  
+Non così arroganti — questo [[Noon|Mezzogiorno]] —  
+
+Questi — componete — che ci correvano incontro —  
+Perla — per Calza — Perla per Scarpa —  
+Paradiso — il solo Palazzo  
+Degno della Sua accoglienza — ora —

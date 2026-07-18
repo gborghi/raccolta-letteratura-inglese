@@ -27,3 +27,20 @@ We deem we dream —
 And that dissolves the days  
 Through which existence strays  
 Homeless at [[Home|home]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Verso il luminoso oriente ella vola,  
+Fratelli del Paradiso  
+Rimandatela a [[Home|casa]],  
+Senza un cambio d'ali,  
+O le comode cose dell'[[Love|Amore]],  
+Indotta a venire.  
+
+Foggiando ciò che è,  
+Scandagliando ciò che era,  
+Crediamo di sognare —  
+E questo dissolve i giorni  
+In cui l'esistenza vaga  
+Senza casa, a [[Home|casa]].

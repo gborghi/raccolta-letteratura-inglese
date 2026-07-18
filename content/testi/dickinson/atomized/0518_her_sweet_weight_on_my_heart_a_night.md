@@ -28,3 +28,21 @@ With Him remain — who unto Me —
 Gave — even as to All —  
 A Fiction superseding [[Faith]] —  
 By so much — as 'twas real —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo dolce Peso sul mio Cuore una [[Night|Notte]]  
+S'era appena degnato di posarsi —  
+Quando, muovendosi, per delizia del Credere,  
+La mia Sposa era scivolata via —
+
+Se fu [[A Dream|un Sogno]] — fatto solido — solo  
+A conferma del Cielo —  
+O se Io stessa fossi sognata da Lei —  
+Il potere di presumerlo —
+
+Resti a Lui — che a Me —  
+Diede — come a Tutti —  
+Una Finzione che soppianta la [[Faith|Fede]] —  
+Di tanto — quanto era reale —

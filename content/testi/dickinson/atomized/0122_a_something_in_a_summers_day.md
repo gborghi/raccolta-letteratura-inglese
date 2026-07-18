@@ -42,3 +42,35 @@ So looking on — the [[Night|night]] — the morn
 Conclude the [[Wonder|wonder]] gay —  
 And I meet, coming thro' the dews  
 Another [[Summer|summer]]'s Day!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un qualcosa in un Giorno d'[[Summer|estate]]  
+Mentre lente le sue fiaccole si consumano  
+Che mi rende solenne.  
+
+Un qualcosa nell'[[Summer|estivo]] [[Noon|mezzogiorno]] —  
+Una profondità — un Azzurro — un profumo —  
+Che trascende l'estasi.  
+
+E ancora dentro un'[[Summer|estiva]] [[Night|notte]]  
+Un qualcosa di così rapente fulgore  
+Che batto le mani a vederlo —  
+
+Poi velo il mio volto troppo indagatore  
+Lascia che una così sottile — scintillante grazia  
+Aleggi troppo lontano per me —  
+
+Le dita di mago mai riposano —  
+Il ruscello purpureo dentro il petto  
+Ancora rode il suo stretto letto —  
+
+Ancora innalza l'Oriente il suo [[Flag]] d'ambra —  
+Guida ancora il [[Sun|sole]] lungo il Dirupo  
+La sua Carovana di Rosso —  
+
+Così guardando — la [[Night|notte]] — il mattino  
+Concludono gaia la [[Wonder|meraviglia]] —  
+E incontro, venendo tra le rugiade  
+Un altro Giorno d'[[Summer|estate]]!

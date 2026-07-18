@@ -29,3 +29,22 @@ Oh Hindred Eye
 That hunted for the Day —  
 The Lord a Candle entertains  
 Entirely for Thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Sun|Sole]] e la [[Moon|Luna]] devono affrettarsi —  
+Le [[Stars|Stelle]] s'affrettano intorno  
+Perché nelle Zone del Paradiso  
+Il Signore [[Alone|soltanto]] è acceso —  
+
+Il Suo Occhio, è l'Oriente e l'Occidente —  
+Il Nord e il Sud quando Egli  
+Concentra il Suo Volto  
+Come Lucciole, fuggono via —  
+
+Oh Povero e Lontano —  
+Oh Occhio Impedito  
+Che andava a caccia del Giorno —  
+Il Signore una Candela mantiene  
+Interamente per Te —

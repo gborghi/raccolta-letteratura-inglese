@@ -35,3 +35,28 @@ A half unconscious [[Queen]] —
 But this [[Time|time]] — Adequate — Erect,  
 With Will to choose, or to reject,  
 And I choose, just a [[Crown]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sono ceduta — Ho smesso d'essere Loro —  
+Il nome che Essi lasciarono cadere sul mio viso  
+Con [[Water|acqua]], nella chiesa di campagna  
+Ha finito di servire, ora,  
+Ed Essi possono riporlo con le mie Bambole,  
+La mia [[Childhood|infanzia]], e il filo di rocchetti,  
+Che ho finito d'infilare — anch'esso —  
+
+Battezzata, prima, senza la scelta,  
+Ma questa [[Time|volta]], consapevolmente, di Grazia —  
+Al nome supremo —  
+Chiamata al mio Pieno — La Mezzaluna cadde —  
+L'intero Arco dell'Esistenza, colmato,  
+Con un piccolo Diadema.  
+
+Il mio secondo Rango — troppo esiguo il primo —  
+Incoronata — Strillante — sul petto di mio Padre —  
+Una [[Queen|Regina]] semi inconsapevole —  
+Ma questa [[Time|volta]] — Adeguata — Eretta,  
+Con Volontà di scegliere, o di rifiutare,  
+E io scelgo, solo una [[Crown|Corona]] —

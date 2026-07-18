@@ -23,3 +23,16 @@ At that enthralling gallop
 That only [[Childhood|childhood]] knows.  
 A snake is [[Summer|summer]]'s treason,  
 And guile is where it goes.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dolce è la palude coi suoi [[Secrets|segreti]],  
+Finché non incontriamo una serpe;  
+Allora sospiriamo per le case,  
+E prendiamo la nostra partenza  
+
+A quel galoppo travolgente  
+Che solo l'[[Childhood|infanzia]] conosce.  
+Una serpe è il tradimento dell'[[Summer|estate]],  
+E inganno è là dove va.

@@ -43,3 +43,36 @@ With infinite Affection —
 And infiniter Care —  
 Her Golden finger on Her lip —  
 Wills [[Silence]] — Everywhere —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Nature|Natura]] — è la Madre più Gentile,  
+Impaziente con nessun [[Child|Bimbo]] —  
+Il più debole — o il più ribelle —  
+Mite il Suo Ammonimento —  
+
+Nella Foresta — e sul [[Hill|Colle]] —  
+Dal Viandante — sia udita —  
+Mentre frena lo Scoiattolo Sfrenato —  
+O l'Uccello troppo impetuoso —  
+
+Com'è bella la Sua Conversazione —  
+Un Pomeriggio d'[[Summer|Estate]] —  
+La Sua Famiglia — la Sua Assemblea —  
+E quando il [[Sun|Sole]] tramonta —  
+
+La Sua Voce tra le Navate  
+Incita la timida [[prayer|preghiera]]  
+Del più minuto Grillo —  
+Del Fiore più indegno —  
+
+Quando tutti i Bimbi [[Sleep|dormono]] —  
+Si volge lontano solo il tempo  
+Che basti ad accendere le Sue lampade —  
+Poi chinandosi dal Cielo —  
+
+Con Affetto infinito —  
+E Cura più infinita —  
+Il Suo dito d'Oro sul labbro —  
+Vuole [[Silence|Silenzio]] — Ovunque —

@@ -23,3 +23,16 @@ She stung Him — sapped His firm Advance —
 But when Her Worst was done  
 And He — unmoved regarded Her —  
 Acknowledged Him a Man.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Sorte Lo uccise, ma Egli non crollò —  
+Ella abbatté — Egli non cadde —  
+Lo impalò sui Suoi pali più feroci —  
+Egli li neutralizzò tutti —  
+
+Ella Lo punse — minò la Sua salda Avanzata —  
+ma quando il Suo Peggio fu compiuto  
+ed Egli — impassibile La guardò —  
+Lo riconobbe un Uomo.

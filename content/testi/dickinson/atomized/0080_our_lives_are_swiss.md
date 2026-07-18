@@ -25,3 +25,18 @@ While like a guard between —
 The solemn Alps —  
 The siren Alps  
 Forever intervene!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le nostre vite sono Svizzere —  
+Così quiete — così Fresche —  
+Finché un qualche strano pomeriggio  
+Le Alpi trascurano le loro Cortine  
+E noi guardiamo più lontano!  
+
+L'[[Italy|Italia]] sta dall'altro lato!  
+Mentre come una guardia in mezzo —  
+Le solenni Alpi —  
+Le Alpi sirene  
+Per sempre s'interpongono!

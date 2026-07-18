@@ -23,3 +23,16 @@ Fame of Myself to lack — Although
 My Name be else Supreme —  
 This were an Honor honorless —  
 A futile Diadem —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fama di Me stessa, a giustificare,  
+Ogni altro Plauso sia  
+Superfluo — un Incenso  
+Oltre la Necessità —  
+
+Fama di Me stessa mancare — Sebbene  
+Il mio Nome sia per il resto Supremo —  
+Questo sarebbe un Onore senza onore —  
+Un futile Diadema —

@@ -23,3 +23,16 @@ That abstinence of mine produce
 A purer food for them, if I succeed,  
 If not I had  
 The transport of the Aim —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi preparo per loro —  
+Cerco il Buio  
+Finché non sono del tutto pronta.  
+Il lavoro è un lavoro sobrio  
+Con questa dolcezza che basta  
+Che l'astinenza mia produca  
+Un cibo più puro per loro, se riesco,  
+Se no, avevo avuto  
+Il rapimento della Meta —

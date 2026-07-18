@@ -29,3 +29,22 @@ Existence — This traversed
 If Other News there be —  
 Or Admirable Show —  
 I'll tell it You —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le Sole Notizie che conosco  
+Sono Bollettini tutto il Giorno  
+Dall'[[Immortality|Immortalità]].  
+
+I Soli Spettacoli che vedo —  
+Domani e Oggi —  
+Forse l'[[Eternity|Eternità]] —  
+
+Il Solo che incontro  
+È [[God|Dio]] — La Sola Via —  
+L'Esistenza — Questa percorsa  
+
+Se Altre Notizie vi saranno —  
+O Spettacolo Mirabile —  
+Ve lo dirò —

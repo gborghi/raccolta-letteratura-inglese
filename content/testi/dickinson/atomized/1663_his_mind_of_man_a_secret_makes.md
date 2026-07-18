@@ -23,3 +23,16 @@ Or even if I deem I do
 He otherwise may know  
 Impregnable to inquest  
 However neighborly —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua mente d'uomo, un segreto fa  
+lo incontro con un sussulto  
+egli porta una circonferenza  
+nella quale non ho parte —  
+
+O anche se credo di averla  
+lui può sapere altrimenti  
+Inespugnabile all'inchiesta  
+per quanto amichevole —

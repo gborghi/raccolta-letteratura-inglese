@@ -23,3 +23,16 @@ A better Coat if he possessed
 Would help him to conceal,  
 Not subjugate, the Mutineer  
 Whose title is "the [[Soul]]."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tentare di parlare, e smarrire la via  
+E domandarla alle [[Tears|Lacrime]],  
+È la dolce [[Poverty|povertà]] della Gratitudine,  
+I Cenci che essa indossa —  
+
+Un Abito migliore, se lo possedesse,  
+L'aiuterebbe a celare,  
+Non a soggiogare, l'Ammutinato  
+Il cui titolo è "l'[[Soul|Anima]]."

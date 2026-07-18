@@ -23,3 +23,16 @@ Depart, before the Host have slid
 The Bolt unto the [[Door]] —  
 To search for the accomplished Guest,  
 Her Visitor, no more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Soul|Anima]] dovrebbe sempre star socchiusa  
+Ché se il Cielo domanda  
+Non sia costretto ad aspettare  
+O timido di disturbarLa  
+
+Parta, prima che l'Ospitante abbia spinto  
+Il Chiavistello sulla [[Door|Porta]] —  
+Per cercare l'Ospite compiuto,  
+Il Suo Visitatore, non più —

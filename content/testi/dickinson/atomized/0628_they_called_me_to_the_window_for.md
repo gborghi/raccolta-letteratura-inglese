@@ -33,3 +33,26 @@ This — too — the Showman rubbed away —
 And when I looked again —  
 Nor Farm — nor Opal Herd — was there —  
 Nor Mediterranean —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi chiamarono alla [[Window|Finestra]], perché  
+"Era il Tramonto" — Qualcuno disse —  
+Io vidi solo una Fattoria di Zaffiro —  
+E appena un unico Gregge —  
+
+Di Vacche d'Opale — a pascer lontano  
+Sopra un [[Hill|Colle]] così vano —  
+Che mentre ancora guardavo — si dissolse —  
+Né Vacche c'erano — né Suolo —  
+
+Ma in loro vece — un [[Sea|Mare]] — dispiegato —  
+E Navi — di tale grandezza  
+Quale un Equipaggio di [[Mountains|Montagne]] — poteva concedersi —  
+E Ponti — da farvi sedere i cieli —  
+
+Anche questo — il Prestigiatore cancellò —  
+E quando guardai di nuovo —  
+Né Fattoria — né Gregge d'Opale — c'era —  
+Né Mediterraneo —

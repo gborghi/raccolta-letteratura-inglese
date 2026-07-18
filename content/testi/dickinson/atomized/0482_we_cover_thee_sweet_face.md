@@ -27,3 +27,20 @@ And blame the scanty [[Love|love]]
 We were Content to show —  
 Augmented — Sweet — a Hundred fold —  
 If Thou would'st take it — now —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ti Copriamo — Dolce Volto —  
+Non perché di Te ci stanchiamo —  
+Ma perché Tu Ti affatichi di Noi —  
+Ricorda — mentre vai —  
+Noi Ti seguiamo finché  
+Tu non ci scorgi — più —  
+E allora — riluttanti — ci voltiamo  
+A contemplarTi ancora e ancora —  
+
+E incolpiamo lo scarso [[Love|amore]]  
+Che ci Contentammo di mostrare —  
+Accresciuto — Dolce — di Cento volte —  
+Se Tu volessi prenderlo — ora —

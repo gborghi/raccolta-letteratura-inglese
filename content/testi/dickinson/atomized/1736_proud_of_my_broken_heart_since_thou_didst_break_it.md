@@ -27,3 +27,20 @@ Was the strong cup of anguish brewed for the Nazarene
 
 Thou can'st not pierce [[Tradition|tradition]] with the peerless puncture,  
 See! I usurped thy crucifix to honor mine!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+INFRANGILO,  
+
+Fiera del mio cuore infranto, poiché tu lo infrangesti,  
+Fiera della [[Pain|pena]] che non sentii fino a te,  
+
+Fiera della mia [[Night|notte]], poiché tu di lune la plachi,  
+Non partecipare alla tua passione, mia [[Humility|umiltà]].  
+
+Tu non puoi vantarti, come Gesù, che bevuta senza compagno  
+Fu la forte coppa d'angoscia versata per il Nazareno  
+
+Tu non puoi trafiggere la [[Tradition|tradizione]] con l'impareggiabile puntura,  
+Vedi! Usurpai il tuo crocifisso per onorare il mio!

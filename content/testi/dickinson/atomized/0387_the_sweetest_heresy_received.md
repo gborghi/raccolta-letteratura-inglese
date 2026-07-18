@@ -23,3 +23,16 @@ The Churches are so frequent —
 The Ritual — so small —  
 The Grace so unavoidable —  
 To fail — is Infidel —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La più dolce Eresia ricevuta  
+Che Uomo e Donna conoscono —  
+L'Uno dell'Altra [[convert|Convertito]] —  
+Benché la [[Faith|Fede]] non accolga che Due —  
+
+Le Chiese sono così frequenti —  
+Il Rituale — così piccolo —  
+La Grazia così inevitabile —  
+Mancare — è da Infedele —

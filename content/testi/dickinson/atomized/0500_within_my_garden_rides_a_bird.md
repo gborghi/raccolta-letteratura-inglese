@@ -38,3 +38,31 @@ But He, the best Logician,
 Refers my clumsy eye —  
 To just vibrating Blossoms!  
 An Exquisite Reply!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel mio [[Garden|Giardino]], cavalca un Uccello  
+Sopra una sola [[Wheel|Ruota]] —  
+I cui raggi fanno una Musica di vertigine  
+Come fosse un Mulino in viaggio —  
+
+Mai non si ferma, ma rallenta  
+Sopra la [[Rose|Rosa]] più Matura —  
+Ne gusta senza posarsi  
+E loda mentre va,  
+
+Finché ogni spezia è assaggiata —  
+E poi il suo Calesse di Fata  
+Turbina in atmosfere più remote —  
+E io raggiungo il mio Cane,  
+
+E Lui ed io, ci confondiamo  
+Se certi, fummo noi —  
+O se portò il [[Garden|Giardino]] nel Cervello  
+Questa Curiosità —  
+
+Ma Lui, il miglior Logico,  
+Rimanda il mio occhio goffo —  
+A Corolle ancora vibranti!  
+Una Risposta Squisita!

@@ -34,3 +34,27 @@ To [[Time]]'s Analysis —
 Be current with the Blind  
 But let not [[Revelation]]  
 By theses be detained —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Lillà è un arbusto antico  
+Ma più antico ancora  
+Il Lillà Firmamentale  
+Sul [[Hill|Colle]] stanotte —  
+Il [[Sun|Sole]] che declina sul suo Corso  
+Lascia in eredità quest'ultima Pianta  
+Alla Contemplazione — non al Tocco —  
+Il Fiore d'Occidente.  
+D'una sola Corolla è l'Ovest —  
+Il Calice è la Terra —  
+Le Capsule Semi bruniti le [[Stars|Stelle]]  
+Lo Scienziato della [[Faith|Fede]]  
+La sua ricerca è appena cominciata —  
+Al di sopra della sua sintesi  
+La Flora inattaccabile  
+All'Analisi del [[Time|Tempo]] —  
+"Occhio non vide" può forse  
+Correre fra i Ciechi  
+Ma non sia la [[Revelation|Rivelazione]]  
+Da tesi trattenuta —

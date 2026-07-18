@@ -50,3 +50,43 @@ Each one salutes me, as he goes,
 And I, my childish Plumes,  
 Lift, in bereaved acknowledgment  
 Of their unthinking Drums —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Temevo tanto quel primo Pettirosso,  
+Ma ora è domato,  
+Mi sono un poco abituata a Lui,  
+Fa un po' male, però —  
+
+Pensavo Se solo potessi vivere  
+Finché quel primo Grido fosse passato —  
+Non tutti i Pianoforti dei Boschi  
+Avrebbero potere di straziarmi —  
+
+Non osavo incontrare i Narcisi —  
+Per [[Fear|paura]] che la loro Veste Gialla  
+Mi trafiggesse con una foggia  
+Così estranea alla mia —  
+
+Volevo che l'Erba s'affrettasse —  
+Così — quando fosse [[Time|tempo]] di vedere —  
+Troppo alta sarebbe, il più alto  
+Dovrebbe protendersi — per guardarmi —  
+
+Non sopportavo che le [[Bees|Api]] venissero,  
+Volevo che restassero lontane  
+In quei paesi oscuri dove vanno,  
+Che parola avevano, per me?  
+
+Sono qui, però; nessuna creatura mancò —  
+Nessun Fiore restò lontano  
+In gentile deferenza a me —  
+La [[Queen|Regina]] del Calvario —  
+
+Ognuno mi saluta, mentre va,  
+364  
+
+E io, i miei Pennacchi infantili,  
+Sollevo, in luttuoso riconoscimento  
+Dei loro Tamburi inconsapevoli —

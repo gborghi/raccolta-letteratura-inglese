@@ -23,3 +23,16 @@ Shot the lithe Sleds like shod vibrations
 Emphasized and gone  
 It is the Past's supreme italic  
 Makes this Present mean —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vetro era la Strada — in Periglio di lustrini  
+[[Tree|Albero]] e Viandante stavano —  
+Colma era l'Aria di allegra ventura  
+Festosa di Ragazzi la [[Road|Strada]] —  
+
+Guizzavano le agili Slitte come vibrazioni ferrate  
+Accentuate e svanite  
+È il corsivo supremo del Passato  
+Che fa meschino questo Presente —

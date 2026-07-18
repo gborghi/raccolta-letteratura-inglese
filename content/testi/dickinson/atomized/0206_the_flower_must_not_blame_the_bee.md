@@ -21,3 +21,14 @@ Too often at her [[Door|door]] —
 But teach the Footman from Vevay —  
 Mistress is "not at [[Home|home]]" — to say —  
 To people — any more!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Fiore non deve biasimare l'Ape —  
+Che cerca la sua felicità  
+Troppo spesso alla sua [[Door|porta]] —  
+
+Ma insegni al Valletto di Vevay —  
+"La Padrona non è in [[Home|casa]]" — a dire —  
+Alla gente — mai più!

@@ -29,3 +29,22 @@ The Miracle to tease
 With Bable of the styles —  
 How "they are Dying mostly — now" —  
 And Customs at "St. James"!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Modo della sua [[Death|Morte]]  
+Quando è Certo che deve morire —  
+Si stima privilegio sceglierlo —  
+Fu la Via del Maggiore Andre —  
+
+Quando la Scelta della Vita — è passata —  
+Resta ancora un [[Love|Amore]]  
+A stipulare il suo piccolo Fato —  
+
+Com'è piccolo in coloro che vivono —  
+
+Il Miracolo di stuzzicare  
+Con Ciance di stili —  
+Come "muoiono per lo più — adesso" —  
+E le Usanze a "St. James"!

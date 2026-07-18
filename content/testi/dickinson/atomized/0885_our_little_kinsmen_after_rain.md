@@ -28,3 +28,21 @@ As I of He, so [[God]] of Me
 I pondered, may have judged,  
 And left the little Angle Worm  
 With Modesties enlarged.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I nostri piccoli Congiunti — dopo la [[Rain|Pioggia]]  
+In abbondanza si possono vedere,  
+Una moltitudine Rosea e Polposa  
+Sul tiepido Suolo.  
+
+Una vita inutile, mi pareva  
+Finché un piccolo Uccello  
+Come a un'Ospitalità  
+Si fece avanti e fece colazione.  
+
+Come Io di Lui, così [[God|Dio]] di Me  
+Ponderavo, può aver giudicato,  
+E lasciai il piccolo Lombrico  
+Con Modestie accresciute.

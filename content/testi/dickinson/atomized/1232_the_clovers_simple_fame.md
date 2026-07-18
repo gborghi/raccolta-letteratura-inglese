@@ -22,3 +22,15 @@ Renown perceives itself
 And that degrades the Flower —  
 The Daisy that has looked behind  
 Has compromised its power —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La semplice Fama del Trifoglio  
+Ricordata dalla Mucca —  
+Vale più di Regni smaltati  
+Di notorietà.  
+La Rinomanza percepisce se stessa  
+E ciò degrada il Fiore —  
+La Margherita che si è guardata indietro  
+Ha compromesso il suo potere —

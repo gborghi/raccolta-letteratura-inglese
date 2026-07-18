@@ -44,3 +44,37 @@ And when the Film had stitched your eyes
 A Creature gasped "Reprieve"!  
 Which Anguish was the utterest — then —  
 To perish, or to live?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era come un Maelstrom, con una tacca,  
+Che più vicino, ogni Giorno,  
+Stringeva la sua [[Wheel|Ruota]] bollente  
+Finché l'Agonia  
+
+Giocò fredda con l'ultimo lembo  
+Del tuo Orlo delirante —  
+E cadesti, perduta,  
+Quando qualcosa si spezzò —  
+E ti lasciò uscire da [[A Dream|un Sogno]] —  
+
+Come se un Folletto con un Calibro —  
+Misurasse le Ore —  
+Finché sentisti il tuo Secondo  
+Pesare, inerme, nelle sue Zampe —  
+
+E non un Nervo — mosso — poteva aiutare,  
+E il senso si faceva torpido —  
+Quando [[God|Dio]] — si ricordò — e il Demonio  
+Lasciò la presa, allora, Vinto —  
+
+Come se la tua Sentenza stesse — pronunciata —  
+E fossi condotta gelata  
+Dal lusso di [[Doubt|Dubbio]] della Segreta  
+Alle Forche, e ai Morti —  
+
+E quando il Velo ti aveva cucito gli occhi  
+Una Creatura ansimò "Grazia"!  
+Quale Angoscia fu la più estrema — allora —  
+Perire, o vivere?

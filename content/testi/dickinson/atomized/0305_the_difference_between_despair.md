@@ -23,3 +23,16 @@ The Mind is smooth — no Motion —
 Contented as the Eye  
 Upon the Forehead of a Bust —  
 That knows — it cannot see —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La differenza tra [[Despair|Disperazione]]  
+E [[Fear|Paura]] — è come Quella  
+Tra l'istante di un Naufragio  
+E quando il Naufragio è stato —  
+
+La Mente è liscia — nessun Moto —  
+Appagata come l'Occhio  
+Sulla Fronte di un Busto —  
+Che sa — di non poter vedere —

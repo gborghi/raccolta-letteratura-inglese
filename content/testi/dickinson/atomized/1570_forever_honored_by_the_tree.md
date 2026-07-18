@@ -23,3 +23,16 @@ They registered in [[Nature]]'s Book
 As Robins — Sire and Son —  
 But Angels have that modest way  
 To screen them from Renown.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per sempre onorato dall'[[Tree|Albero]]  
+La cui Mela consunta dall'Inverno  
+Invitò a Colazione dal Cielo  
+Due Gabrieli Ierimattina.  
+
+Si registrarono nel Libro della [[Nature|Natura]]  
+Come Pettirossi — Padre e Figlio —  
+Ma gli Angeli hanno quel modo modesto  
+Di schermirsi dalla Fama.

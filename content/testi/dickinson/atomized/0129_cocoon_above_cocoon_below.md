@@ -27,3 +27,20 @@ A Butterfly to go!
 A moment to interrogate,  
 Then wiser than a "Surrogate,"  
 The Universe to know!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Bozzolo in alto! Bozzolo in basso!  
+Furtivo Bozzolo, perché nascondi così  
+Ciò che tutto il mondo sospetta?  
+Un'ora, e gaio su ogni [[Tree|albero]]  
+Il tuo segreto, appollaiato in estasi  
+Sfida la [[Imprisonment|prigionia]]!  
+
+Un'ora in Crisalide da passare,  
+Poi gaio sopra l'erba che recede  
+Farfalla andare!  
+Un momento per interrogare,  
+Poi più saggio di un "Surrogato,"  
+L'Universo conoscere!

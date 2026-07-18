@@ -23,3 +23,16 @@ Sweeter — the Surmising Robins —
 Never gladdened [[Tree]] —  
 Than a Solid [[Dawn]] — confronting —  
 Leading to no Day —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I [[Dreams|Sogni]] — van [[Well|bene]] — ma Vegliare è meglio,  
+Se Uno si sveglia al mattino —  
+Se Uno si sveglia a Mezzanotte — meglio —  
+Sognando — l'[[Dawn|Alba]] —  
+
+Più dolci — i Pettirossi del Presagio —  
+Che mai rallegrarono [[Tree|Albero]] —  
+Di una Solida [[Dawn|Alba]] — di fronte —  
+Che non conduce ad alcun Giorno —

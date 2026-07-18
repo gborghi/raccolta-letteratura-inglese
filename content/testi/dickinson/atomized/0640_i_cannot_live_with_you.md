@@ -77,3 +77,70 @@ With just the [[Door]] ajar
 That Oceans are — and [[prayer|Prayer]] —  
 And that White Sustenance —  
 [[Despair]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non posso vivere con Te —  
+Sarebbe Vita —  
+E la Vita è laggiù —  
+Dietro lo Scaffale  
+
+Di cui il Sagrestano tiene la Chiave —  
+Riponendo  
+La nostra Vita — la Sua Porcellana —  
+Come una Tazza —  
+
+Scartata dalla Massaia —  
+Bizzarra — o Rotta —  
+Un Sèvres più nuovo piace —  
+Le Vecchie si crepano —  
+
+Non potrei morire — con Te —  
+Perché Uno deve attendere  
+Per chiudere lo Sguardo dell'Altro —  
+Tu — non potresti —  
+
+E io — Potrei restare accanto  
+E vederTi — gelare —  
+Senza il mio Diritto di [[Frost|Gelo]] —  
+Privilegio della [[Death|Morte]]?  
+
+Né potrei risorgere — con Te —  
+Perché il Tuo Volto  
+Spegnerebbe quello di Gesù —  
+Quella Grazia Nuova  
+
+Brillare piana — e straniera  
+675  
+
+Sul mio Occhio nostalgico —  
+Se non che Tu più di Lui  
+Splendevi più vicino —  
+
+Ci giudicherebbero — Come —  
+Perché Tu — servivi il Cielo — lo sai,  
+O cercavi di farlo —  
+Io non potevo —  
+
+Perché Tu saturavi la Vista —  
+E io non avevo più Occhi  
+Per una sordida eccellenza  
+Quale il Paradiso  
+
+E fossi Tu perduto, io lo sarei —  
+Benché il Mio Nome  
+Risuonasse più alto  
+Nella fama Celeste —  
+
+E fossi Tu — salvato —  
+E io — condannata a essere  
+Dove Tu non fossi —  
+Quel [[Self|sé]] — sarebbe Inferno per Me —  
+
+Così dobbiamo incontrarci separati —  
+Tu là — io — qui —  
+Con solo la [[Door|Porta]] socchiusa  
+Che Oceani sono — e [[prayer|Preghiera]] —  
+E quel Bianco Sostentamento —  
+La [[Despair|Disperazione]] —

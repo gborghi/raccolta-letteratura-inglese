@@ -28,3 +28,21 @@ I've known her — from an ample nation —
 Choose One —  
 Then — close the Valves of her attention —  
 Like Stone —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Soul|Anima]] sceglie la propria Società —  
+Poi — chiude la [[Door|Porta]] —  
+Alla sua divina Maggioranza —  
+Nessuno si presenti più —  
+
+Immota — nota i Cocchi — che sostano —  
+Al suo umile Cancello —  
+Immota — un Imperatore s'inginocchi  
+Sul suo Stuoino —  
+
+L'ho conosciuta — da un'ampia nazione —  
+Scegliere Uno —  
+Poi — chiudere le Valve della sua attenzione —  
+Come Pietra —

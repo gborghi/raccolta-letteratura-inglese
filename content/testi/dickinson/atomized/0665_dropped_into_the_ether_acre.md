@@ -23,3 +23,16 @@ Horses of Blonde — and Coach of Silver —
 Baggage a strapped Pearl —  
 [[Journey]] of Down — and Whip of Diamond —  
 Riding to meet the Earl —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Caduta nell'Acro d'Etere —  
+Con indosso la Veste di Zolla —  
+Cuffia di Merletti Eterni —  
+Spilla — gelata addosso —  
+
+Cavalli di Biondo — e Carrozza d'Argento —  
+Per Bagaglio una Perla legata —  
+[[Journey|Viaggio]] di Piuma — e Frusta di Diamante —  
+Cavalcando incontro al Conte —

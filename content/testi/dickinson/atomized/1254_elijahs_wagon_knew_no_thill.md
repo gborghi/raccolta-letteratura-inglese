@@ -23,3 +23,16 @@ Elijah's [[Journey|journey]] to portray
 Expire with him the skill  
 Who justified Elijah  
 In feats inscrutable —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Carro di Elia non conobbe timone  
+Era [[Innocent|innocente]] di [[Wheel|Ruota]]  
+I cavalli di Elia unici  
+Quanto il suo veicolo —  
+
+Il [[Journey|viaggio]] di Elia a ritrarre  
+Spira con lui la perizia  
+Che giustificò Elia  
+In gesta imperscrutabili —

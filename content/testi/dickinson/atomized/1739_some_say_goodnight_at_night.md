@@ -23,3 +23,16 @@ For parting, that is [[Night|night]],
 And presence, simply [[Dawn|dawn]] —  
 Itself, the purple on the height  
 Denominated morn.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alcuni dicono buonanotte — di [[Night|notte]] —  
+Io dico buonanotte di giorno —  
+Addio — mi dicono i Partenti —  
+Buonanotte, rispondo ancora —  
+
+Poiché separarsi, quella è [[Night|notte]],  
+E presenza, semplicemente [[Dawn|alba]] —  
+Essa stessa, la porpora sull'altura  
+Denominata mattino.

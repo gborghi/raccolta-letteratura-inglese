@@ -23,3 +23,16 @@ Here a star, and there a star,
 Some lose their way.  
 Here a mist, and there a mist,  
 Afterwards—day!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La NOSTRA parte di [[Night|notte]] da portare,  
+la nostra parte di mattino,  
+il nostro vuoto di beatitudine da colmare,  
+il nostro vuoto di disprezzo.  
+
+Qui una stella, e là una stella,  
+alcuni smarriscono la via.  
+Qui una nebbia, e là una nebbia,  
+e dopo—il giorno!

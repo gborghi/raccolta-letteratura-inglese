@@ -21,3 +21,14 @@ As Capsules are for Flower's —
 Or is it the confiding sheen  
 Dissenting to enamor us  
 Of Detriment divine?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Volto in evanescenza adagiato  
+È più distinto del nostro —  
+E il nostro arreso per amor suo  
+Come le Capsule per il Fiore —  
+O è la confidente lucentezza  
+Che dissente dal farci innamorare  
+Del Detrimento divino?

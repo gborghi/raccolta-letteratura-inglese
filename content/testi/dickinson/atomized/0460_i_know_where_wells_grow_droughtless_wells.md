@@ -40,3 +40,33 @@ Shall We remember Parching — then?
 Those Waters sound so grand —  
 I think a little [[Well]] — like Mine —  
 Dearer to understand —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+POZZI —  
+
+So dove crescono Pozzi — Pozzi senza Siccità —  
+Scavati fondi — per giorni d'[[Summer|Estate]] —  
+Dove i Muschi non se ne vanno più —  
+E il Ciottolo — gioca al sicuro —  
+
+È fatto di Braccia — e una Cintura —  
+Una Cintura di Pietra dentellata —  
+Intarsiata di Smeraldo — a metà discesa —  
+E Diamanti — ammucchiati sopra —  
+
+Non ha Secchio — Fossi ricca  
+Un Secchio comprerei —  
+Ho spesso sete — ma le mie labbra  
+Stanno così in alto — Vedi —  
+
+Lessi in un Libro all'Antica  
+Che la Gente "non ha più sete" —  
+Là i Pozzi hanno i loro Secchi —  
+Deve voler dire questo — ne sono certa —  
+
+Ricorderemo l'Arsura — allora?  
+Quelle Acque suonano così grandiose —  
+Credo che un piccolo [[Well|Pozzo]] — come il Mio —  
+Sia più caro da comprendere —

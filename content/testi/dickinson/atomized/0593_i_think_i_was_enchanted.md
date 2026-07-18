@@ -55,3 +55,48 @@ To Tomes of solid Witchcraft —
 Magicians be asleep —  
 But [[Magic]] — hath an Element —  
 Like Deity — to keep —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Credo di essere stata incantata  
+Quando la prima volta, Fanciulla cupa —  
+Lessi quella Dama Straniera —  
+Il Buio — mi parve bello —  
+
+E se fosse [[Noon|mezzogiorno]] di [[Night|notte]] —  
+O soltanto Cielo — a [[Noon|Mezzogiorno]] —  
+Per pura Follia di Luce  
+Non avevo potere di dirlo —  
+
+Le [[Bees|Api]] — divennero come Farfalle —  
+Le Farfalle — come Cigni —  
+S'accostarono — sdegnando l'Erba angusta —  
+E perfino le Arie più umili  
+
+Che la [[Nature|Natura]] mormorava a se stessa  
+Per tenersi in Allegria —  
+Le presi per Giganti — che provavano  
+[[titanic|Titanica]] Opera —  
+
+I Giorni — mossero a Metri Possenti —  
+Il più Dimesso — adorno  
+Come se a un Giubileo  
+Fosse d'un tratto Cresimato —  
+
+Non avrei saputo definire il mutamento —  
+[[conversion|Conversione]] della Mente  
+Come il Santificarsi nell'[[Soul|Anima]] —  
+Si Testimonia — non si Spiega —  
+
+Era una Divina Follia —  
+623  
+
+Il Pericolo d'esser sana  
+Dovessi di nuovo provarlo —  
+È Antidoto volgersi —  
+
+A Tomi di solida Stregoneria —  
+I Maghi dormano pure —  
+Ma la [[Magic|Magia]] — ha un Elemento —  
+Come la Divinità — che dura —

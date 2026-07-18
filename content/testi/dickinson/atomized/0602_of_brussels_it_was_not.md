@@ -33,3 +33,26 @@ The [[Wind]] — unrolled it fast —
 And spread it on the Ground —  
 Upholsterer of the Pines — is He —  
 Upholsterer — of the Pond —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di Bruxelles — non era —  
+Di Kidderminster? No —  
+I Venti lo comprarono dai Boschi —  
+Essi — lo vendettero a me  
+
+Fu un prezzo gentile —  
+Il più povero — poteva pagarlo —  
+Stava nella borsa frugale  
+Del Mendicante — o dell'Uccello —  
+
+Di piccoli Cortili speziati —  
+Di tinta — un tenue Bigio —  
+Di Luce di sole — e di Secco — Composto —  
+Ma, principalmente — di [[Sun|Sole]] —  
+
+Il [[Wind|Vento]] — lo srotolò veloce —  
+E lo distese sul Suolo —  
+Tappezziere dei Pini — è Lui —  
+Tappezziere — dello Stagno —

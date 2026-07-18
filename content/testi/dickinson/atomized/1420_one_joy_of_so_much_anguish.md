@@ -26,3 +26,19 @@ Is part of an inquiry
 That will receive reply  
 When Flesh and Spirit sunder  
 In [[Death]]'s Immediately —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una [[Joy|Gioia]] di tanta angoscia  
+La dolce [[Nature|natura]] ha per me  
+La sfuggo come la [[Despair|Disperazione]]  
+O una cara iniquità —  
+Perché gli [[Birds|Uccelli]], un mattino d'[[Summer|Estate]]  
+Prima del Vivo del Giorno  
+Debbano trafiggere il mio spirito rapito  
+Con Stiletti di Melodia  
+È parte di un'indagine  
+Che avrà risposta  
+Quando Carne e Spirito si scindano  
+Nell'Immediatamente della [[Death|Morte]] —

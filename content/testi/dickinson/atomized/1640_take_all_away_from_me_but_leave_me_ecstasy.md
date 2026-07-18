@@ -21,3 +21,14 @@ And I am richer then than all my Fellow Men —
 Ill it becometh me to dwell so wealthily  
 When at my very [[Door]] are those possessing more,  
 In abject [[Poverty|poverty]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+ESTASI,  
+
+Toglimi tutto, ma lasciami l'Estasi,  
+E sono allora più ricca di tutti i miei Simili —  
+Mal si addice a me dimorare così riccamente  
+Quando alla mia stessa [[Door|Porta]] stanno quelli che posseggono di più,  
+In abietta [[Poverty|povertà]] —

@@ -23,3 +23,16 @@ To Him who strives severe
 At middle of the [[Hill]] —  
 But He who has achieved the Top —  
 All — is the price of All —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il santificarsi del [[Pain|Dolore]]  
+Come il santificarsi del Cielo,  
+Si ottiene a un costo corporeo —  
+La Vetta non è data  
+
+A Chi si sforza duramente  
+A metà della [[Hill|Collina]] —  
+Ma a Chi ha raggiunto la Cima —  
+Tutto — è il prezzo di Tutto —

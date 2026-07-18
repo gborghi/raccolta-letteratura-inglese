@@ -23,3 +23,16 @@ I dwelt too low that any seek —
 Too shy, that any blame —  
 A [[Phoebe]] makes a little print  
 Upon the Floors of Fame —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ero una [[Phoebe]] — niente più —  
+Una [[Phoebe]] — niente meno —  
+La piccola nota che altri lasciavano cadere  
+Io la mettevo al suo posto —  
+
+Dimoravo troppo in basso perché alcuno cercasse —  
+Troppo schiva, perché alcuno biasimasse —  
+Una [[Phoebe]] lascia una piccola impronta  
+Sui Pavimenti della Fama —

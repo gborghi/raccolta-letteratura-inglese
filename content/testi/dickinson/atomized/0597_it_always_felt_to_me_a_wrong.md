@@ -43,3 +43,36 @@ Upon the Broad Possession
 'Twas little — But titled Him — to see —  
 Old Man on Nebo! Late as this —  
 My justice bleeds — for Thee!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi è sempre parso — un torto  
+Fatto — a quel Vecchio [[Moses|Mosè]] —  
+Lasciargli vedere — la Canaan —  
+Senza che vi entrasse —  
+
+E benché in momenti più sobri —  
+Nessun [[Moses|Mosè]] possa esservi  
+Sono convinta — il [[Romance|Romanzo]]  
+In fatto d'ingiuria —  
+
+Supera le più aspre asserite —  
+Di Stefano — o di Paolo —  
+Ché questi — furono solo messi a [[Death|morte]] —  
+Mentre la più scaltra volontà di [[God|Dio]]  
+
+Su [[Moses|Mosè]] — parve avvinghiarsi  
+Con Gioco tantalizzante  
+Come Ragazzo — con Ragazzo più piccolo —  
+Per provare la propria abilità.  
+
+La colpa — fu senza dubbio d'Israele —  
+Io — avrei bandito le Tribù —  
+E scortato il Grande Vecchio [[Moses|Mosè]]  
+In Vesti Pentateucali  
+
+Sul Vasto Possesso  
+Fu poco — Ma Gli diede titolo — a vedere —  
+Vecchio sul Nebo! Tardi com'è —  
+La mia giustizia sanguina — per Te!

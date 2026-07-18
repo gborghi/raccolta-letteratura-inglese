@@ -33,3 +33,26 @@ The Same — afflicted Thomas —
 When Deity assured  
 'Twas better — the perceiving not —  
 Provided it believed —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fiducia nell'Inatteso —  
+Da questa — fu William Kidd  
+Persuaso dell'Oro Sepolto —  
+Come Uno aveva testimoniato —  
+
+Per questa — il vecchio Filosofo —  
+La sua Pietra Talismanica  
+Discerse — ancora negata  
+A sforzo non divino —  
+
+Fu questa — ad allettare [[Columbus|Colombo]] —  
+Quando Genova — si ritrasse  
+Davanti a un'Apparizione  
+Battezzata [[america|America]] —  
+
+La Stessa — afflisse Tommaso —  
+Quando la Deità assicurò  
+Ch'era meglio — il non percepire —  
+Purché si credesse —

@@ -23,3 +23,16 @@ Repudiates it, all the more —
 Because intrinsic size  
 Ignores the possibility  
 Of Calumnies — or Flies.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Grandezza circoscrive — non ha spazio  
+Per mobili meschini —  
+Il Gigante non tollera Moscerino  
+Per Agio di Gigantezza —  
+
+Lo ripudia, tanto più —  
+Perché la grandezza intrinseca  
+Ignora la possibilità  
+Di Calunnie — o Mosche.

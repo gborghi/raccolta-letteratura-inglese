@@ -33,3 +33,26 @@ To be enacted now.
 "Yet saw him face to face" —  
 That very physiognomy  
 I am convinced was this.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessun uomo vide lo sgomento, né nella sua [[house|casa]]  
+Ammise egli un uomo  
+Benché presso la sua tremenda dimora  
+Sia stata l'umana [[Nature|natura]].  
+
+Ignara della sua terribile dimora  
+Finché, affannandosi a fuggire,  
+Una stretta posata sulla comprensione  
+Trattenne la vitalità.  
+
+Il ritorno è una via diversa  
+Che lo Spirito non poté mostrare  
+Poiché respirare è l'unica opera  
+Da compiersi ora.  
+
+"Non sono consumato," scrisse il vecchio [[Moses|Mosè]],  
+"Eppure lo vidi faccia a faccia" —  
+Quella stessa fisionomia  
+Sono convinta fosse questa.

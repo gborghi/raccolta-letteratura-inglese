@@ -23,3 +23,16 @@ Then They will hasten to the [[Door]]
 To call the little Girl  
 Who cannot thank Them for the Ice  
 That filled the lisping full.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non saranno accigliati per sempre — un dolce Giorno  
+Quando scorderò di tormentare —  
+Ricorderanno che fredda apparivo  
+E come dissi solo "Per favore."  
+
+Allora Essi correranno alla [[Door|Porta]]  
+A chiamare la piccola Bimba  
+Che non può ringraziarLi per il Gelo  
+Che colmò del tutto il balbettio.

@@ -33,3 +33,26 @@ Stalking our entire Possession
 On a Hair's result —  
 Then — seesawing — coolly — on it —  
 Trying if it split —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Derubata dalla [[Death|Morte]] — ma fu facile —  
+All'Occhio che veniva meno  
+Potei serbare l'ultimo Bagliore —  
+Derubata dalla [[Liberty|Libertà]]  
+
+Per le Sue Difese Giugulari —  
+Anche questo, sopportai —  
+Cenno di Gloria — lo concedeva —  
+Al Prode Beneamato —  
+
+Frode della Distanza — Frode del Pericolo,  
+Frode della [[Death|Morte]] — da patire —  
+È Munificenza — rispetto alla Vaga  
+Calamità dell'Attesa —  
+
+Che punta il nostro intero Possesso  
+Sull'esito d'un Capello —  
+Poi — in altalena — fredda — vi oscilla —  
+Provando se si spezzi —

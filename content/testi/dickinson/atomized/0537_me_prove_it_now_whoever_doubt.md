@@ -33,3 +33,26 @@ The [[River]] reaches to my Mouth —
 Remember — when the [[Sea]]  
 Swept by my searching eyes — the last —  
 Themselves were quick — with Thee!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io provarlo ora — Chiunque [[Doubt|dubiti]]  
+Io fermarmi a provarlo — ora —  
+Fa' presto — lo Scrupolo! [[Death|Morte]] sia avara  
+Per l'Opportunità —  
+
+Il [[River|Fiume]] arriva ai miei piedi —  
+Ancora — il Mio Cuore è asciutto —  
+Oh [[Lover|Amante]] — la Vita non poté convincere —  
+Possa la [[Death|Morte]] — renderTi capace —  
+
+Il [[River|Fiume]] arriva al Mio Petto —  
+Ancora — ancora — le Mie Mani in alto  
+Proclamano con la Forza che resta —  
+Riconosci Tu l'[[Love|Amore]]?  
+
+Il [[River|Fiume]] arriva alla mia Bocca —  
+Ricorda — quando il [[Sea|Mare]]  
+Passò sui miei occhi in cerca — gli ultimi —  
+Essi erano vivi — di Te!

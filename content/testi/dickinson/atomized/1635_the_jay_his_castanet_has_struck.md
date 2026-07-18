@@ -23,3 +23,16 @@ Of Swarthy Days he is the close
 His Lotus is a chestnut  
 The Cricket drops a sable line  
 No more from yours at present
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Ghiandaia ha battuto la sua Nacchera  
+Metti il tuo manicotto per l'[[Winter|Inverno]]  
+La Stola che ignora la sua voce  
+È impudente verso la [[Nature|natura]]  
+
+Dei Giorni Bruni egli è la chiusa  
+Il suo Loto è una castagna  
+Il Grillo cala una riga di zibellino  
+Nient'altro dal vostro al momento

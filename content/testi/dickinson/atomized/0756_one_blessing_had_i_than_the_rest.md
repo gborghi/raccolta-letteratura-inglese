@@ -38,3 +38,31 @@ Why Bliss so scantily disburse —
 Why Paradise defer —  
 Why Floods be served to Us — in Bowls —  
 I speculate no more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Benedizione ebbi io più delle altre  
+Così più grande ai miei Occhi  
+Che smisi di misurare — soddisfatta —  
+Per questa incantata grandezza —  
+
+Era il limite del mio Sogno —  
+Il fuoco della mia [[prayer|Preghiera]] —  
+Una perfetta — paralizzante Beatitudine —  
+Appagata come [[Despair|Disperazione]] —  
+
+Non seppi più di Bisogno — o Freddo —  
+Fantasmi divengono entrambi  
+Per questo nuovo Valore nell'[[Soul|Anima]] —  
+Suprema Somma Terrena —  
+
+Il Cielo di sotto il Cielo di sopra —  
+Oscurato d'un più acceso Azzurro —  
+Le Latitudini della Vita si chinarono — colme —  
+Il Giudizio perì — anch'esso —  
+
+Perché Beatitudine così scarsamente elargire —  
+Perché il Paradiso differire —  
+Perché Diluvi ci siano serviti — in Ciotole —  
+Io non speculo più —

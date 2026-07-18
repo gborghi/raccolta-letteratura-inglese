@@ -23,3 +23,16 @@ By [[Death]]'s bold Exhibition
 Preciser what we are  
 And the Eternal function  
 Enabled to infer.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un sentimento di compiuto  
+Che si prova presso le Tombe —  
+Un agio del Futuro —  
+Un Deserto di Grandezza.  
+
+Per l'ardita Esibizione della [[Death|Morte]]  
+Più preciso ciò che siamo  
+E l'Eterna funzione  
+Dato ci è inferire.

@@ -23,3 +23,16 @@ Thou settest Earthquake in the South —
 And Maelstrom, in the [[Sea]] —  
 Say, Jesus [[Christ]] of Nazareth —  
 Hast thou no Arm for Me?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Almeno — pregare — resta — resta —  
+Oh Gesù — nell'Aria —  
+Non so quale sia la tua stanza —  
+Sto bussando — dappertutto —  
+
+Tu scateni il Terremoto nel Sud —  
+E il Maelstrom, nel [[Sea|Mare]] —  
+Di', Gesù [[Christ|Cristo]] di Nazareth —  
+Non hai un Braccio per Me?

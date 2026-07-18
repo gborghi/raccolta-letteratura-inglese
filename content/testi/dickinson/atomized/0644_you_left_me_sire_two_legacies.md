@@ -23,3 +23,16 @@ You left me Boundaries of [[Pain]] —
 Capacious as the [[Sea]] —  
 Between [[Eternity]] and [[Time]] —  
 Your Consciousness — and Me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi lasciasti — Sire — due Legati —  
+Un Legato d'[[Love|Amore]]  
+A un Padre Celeste basterebbe  
+Ne avesse avuto l'offerta —  
+
+Mi lasciasti Confini di [[Pain|Dolore]] —  
+Capaci come il [[Sea|Mare]] —  
+Tra l'[[Eternity|Eternità]] e il [[Time|Tempo]] —  
+La Tua Coscienza — e Me —

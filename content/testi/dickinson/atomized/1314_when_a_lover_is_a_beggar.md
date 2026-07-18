@@ -23,3 +23,16 @@ What he begged is then the Beggar —
 Oh disparity —  
 Bread of Heaven resents bestowal  
 Like an obloquy —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando un [[Lover|Amante]] è un Mendicante  
+Abietto è il suo Ginocchio —  
+Quando un [[Lover|Amante]] è un Possessore  
+Diverso è lui —  
+
+Ciò che mendicava è allora il Mendicante —  
+Oh disparità —  
+Il Pane del Cielo si risente del dono  
+Come di un obbrobrio —

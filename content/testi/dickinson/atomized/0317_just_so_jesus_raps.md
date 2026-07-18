@@ -25,3 +25,18 @@ Chilled — or weary —
 It will be ample [[Time|time]] for — me —  
 Patient — upon the steps — until then —  
 Hears! I am knocking — low at thee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Proprio così — Gesù — bussa —  
+Lui — non si stanca —  
+Ultimo — al Battente —  
+E primo — al Campanello.  
+Poi — in divinissima punta di piedi — ritto —  
+Potesse Egli solo scorgere l'[[Soul|anima]] della dama —  
+Quando Egli — si ritira —  
+Infreddolito — o stanco —  
+Sarà ampio [[Time|tempo]] per — me —  
+Paziente — sugli scalini — fino ad allora —  
+Ode! Sto bussando — sommessa a te.

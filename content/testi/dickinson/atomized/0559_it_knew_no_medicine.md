@@ -33,3 +33,26 @@ If momently ajar —
 Temerity — drew near —  
 And sickened — ever afterward  
 For Somewhat that it saw?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non conosceva Medicina —  
+Non era Malattia — allora —  
+Né alcun bisogno di Chirurgia —  
+E dunque — non era [[Pain|Dolore]] —  
+
+Spostò via le Guance —  
+Una Fossetta per [[Time|volta]] —  
+E lasciò il Profilo — più piano —  
+E in luogo della Fioritura  
+
+Lasciò la piccola Tinta  
+Che mai ebbe un Nome —  
+L'avete vista sul volto d'un Calco —  
+Fu il Paradiso — da incolpare —  
+
+Se per un attimo socchiuso —  
+La Temerità — s'accostò —  
+E si ammalò — per sempre poi  
+Per un Qualcosa che vide?

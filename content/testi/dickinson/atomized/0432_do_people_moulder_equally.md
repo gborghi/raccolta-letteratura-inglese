@@ -33,3 +33,26 @@ I need no further Argue —
 That statement of the Lord  
 Is not a controvertible —  
 He told me, [[Death]] was dead —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le Persone marciscono ugualmente,  
+Quelle che seppelliscono, nella [[Grave|Tomba]]?  
+Io credo che una Specie  
+Viva altrettanto certamente  
+
+Di me, che lo testimonio  
+E nego che io — sia morta —  
+E riempio i Polmoni, a Prova —  
+Da Serbatoi — sopra il mio Capo —  
+
+Io vi dico, disse Gesù —  
+Che vi sono qui presenti —  
+Alcuni, che non gusteranno la [[Death|Morte]] —  
+Se Gesù fu sincero —  
+
+Non mi serve altro Argomento —  
+Quella parola del Signore  
+Non è cosa controvertibile —  
+Mi disse, la [[Death|Morte]] era morta —

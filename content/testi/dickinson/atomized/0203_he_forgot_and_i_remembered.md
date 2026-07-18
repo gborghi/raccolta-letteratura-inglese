@@ -23,3 +23,16 @@ Long ago as [[Christ]] and Peter —
 "No" — said Peter, 'twasn't me —  
 Jesus merely "looked" at Peter —  
 Could I do aught else — to Thee?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lui dimenticò — e io — ricordai —  
+Era un fatto d'ogni giorno —  
+Tanto tempo fa quanto [[Christ|Cristo]] e Pietro —  
+Che "si scaldavano" al "[[Fire|fuoco]] del Tempio."  
+
+"Tu eri con lui" — disse "la [[Damsel|Fanciulla]]"?  
+"No" — disse Pietro, non ero io —  
+Gesù soltanto "guardò" Pietro —  
+Potrei fare altro — verso Te?

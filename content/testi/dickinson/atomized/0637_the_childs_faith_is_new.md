@@ -40,3 +40,33 @@ He gains the skill
 Sorrowful — as certain —  
 Men — to anticipate  
 Instead of Kings —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Del [[Child|Bambino]] la [[Faith|fede]] è nuova —  
+Intera — come il Suo Principio —  
+Vasta — come l'Aurora  
+Su Occhi freschi —  
+Mai ebbe un [[Doubt|Dubbio]] —  
+Ride — d'uno Scrupolo —  
+Crede tutto finzione  
+Fuorché il Paradiso —  
+
+Dà credito al Mondo —  
+Stima il Suo Dominio  
+La più vasta delle Sovranità —  
+E [[Caesar|Cesare]] — meschino —  
+Nel Confronto —  
+Imperatore senza fondamento —  
+Sovrano del Nulla —  
+Eppure tutto regge —  
+
+Cresciuto a poco a poco  
+A ritenere errate  
+Le sue graziose stime  
+Di Cose Spinose  
+Acquista l'arte  
+Dolorosa — quanto certa —  
+Uomini — a prevedere  
+Invece di Re —

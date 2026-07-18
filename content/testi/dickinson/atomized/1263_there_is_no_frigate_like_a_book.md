@@ -22,3 +22,15 @@ This Traverse may the poorest take
 Without opress of Toll—  
 How frugal is the Chariot  
 That bears the Human [[Soul|soul]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non c'è Fregata come un Libro  
+Per portarci Terre lontano  
+Né Corsieri come una Pagina  
+Di scalpitante Poesia—  
+Questa Traversata può farla il più povero  
+Senza oppressione di Pedaggio—  
+Com'è frugale il Carro  
+Che porta l'[[Soul|anima]] Umana

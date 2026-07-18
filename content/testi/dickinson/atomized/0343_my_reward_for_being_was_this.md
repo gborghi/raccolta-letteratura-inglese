@@ -26,3 +26,19 @@ I'll unroll Thee —
 Dominions dowerless — beside this Grace —  
 Election — Vote —  
 The Ballots of [[Eternity]], will show just that.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La mia Ricompensa per Essere, fu Questa.  
+Il mio premio — la mia Beatitudine —  
+Un Ammiragliato, meno —  
+Uno Scettro — senza un soldo —  
+E Regni — mera Scoria —  
+
+Quando Troni accostano le mie Mani —  
+Con "Me, Signorina, Me" —  
+Io srotolerò Te —  
+Domini senza dote — accanto a questa Grazia —  
+Elezione — Voto —  
+Le Schede dell'[[Eternity|Eternità]], mostreranno proprio questo.

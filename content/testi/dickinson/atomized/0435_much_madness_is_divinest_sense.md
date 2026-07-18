@@ -22,3 +22,15 @@ In this, as all, prevails.
 Assent, and you are sane ;  
 Demur, — you're straightway dangerous,  
 And handled with a chain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Molta [[Madness|follia]] è divinissimo senno  
+Per un occhio che discerne ;  
+Molto senno la più assoluta [[Madness|follia]].  
+È la maggioranza  
+Che in questo, come in tutto, prevale.  
+Assenti, e sei savio ;  
+Obietta, — e sei subito pericoloso,  
+E trattato con una catena.

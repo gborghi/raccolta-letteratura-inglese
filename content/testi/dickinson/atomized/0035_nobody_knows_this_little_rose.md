@@ -28,3 +28,21 @@ Only a bird will [[Wonder|wonder]];
 Only a breeze will sigh;  
 Ah! little [[Rose|rose]], how easy  
 For such as thee to die!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuno conosce questa piccola [[Rose|rosa]];  
+Potrebbe essere un [[Pilgrim|pellegrino]],  
+Se io non l'avessi colta dalle vie,  
+E sollevata fino a te!  
+
+Solo un'ape ne sentirà la mancanza;  
+Solo una farfalla,  
+Affrettandosi da lungo [[Journey|viaggio]],  
+A giacere sul suo petto.  
+
+Solo un uccello si [[Wonder|stupirà]];  
+Solo una brezza sospirerà;  
+Ah! piccola [[Rose|rosa]], com'è facile  
+Per una come te morire!

@@ -23,3 +23,16 @@ But, lest the [[Soul]] — like fair "Priscilla"
 Choose the Envoy — and spurn the Groom —  
 Vouches, with hyperbolic archness —  
 "[[Miles]]", and "John Alden" were Synonym —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[God|Dio]] è un distante — maestoso [[Lover|Amante]] —  
+Corteggia, come Egli ci dichiara — tramite Suo Figlio —  
+In verità, un Corteggiamento Vicario —  
+"[[Miles]]", e "Priscilla", furono di tal Sorta —  
+
+Ma, perché l'[[Soul|Anima]] — come la bella "Priscilla"  
+Non scelga l'Inviato — e sdegni lo Sposo —  
+Garantisce, con iperbolica malizia —  
+"[[Miles]]", e "John Alden" erano Sinonimo —

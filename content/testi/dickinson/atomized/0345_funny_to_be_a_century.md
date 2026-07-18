@@ -23,3 +23,16 @@ He keeps His [[Secrets]] safely — very —
 Were He to tell — extremely sorry  
 This Bashful Globe of Ours would be —  
 So dainty of Publicity —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Buffo — essere un Secolo —  
+E vedere la Gente — passare —  
+Io — morirei della Stranezza —  
+Ma poi — non sono così posata — come Lui —  
+
+Lui custodisce i Suoi [[Secrets|Segreti]] al sicuro — molto —  
+Se Lui raccontasse — estremamente dolente  
+Questo Nostro Timido Globo sarebbe —  
+Così schivo di Pubblicità —

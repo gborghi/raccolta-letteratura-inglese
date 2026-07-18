@@ -38,3 +38,31 @@ To herself — and men —
 Afterward I learned  
 To her Benefactor  
 Making Gratitude
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Più mi toccò col suo mutismo —  
+Più mi conquistò col modo  
+In cui presentò la sua piccola figura —  
+Supplica essa stessa — di [[Charity|Carità]] —  
+
+Fosse una Briciola tutto il mio avere —  
+Fosse carestia nel paese —  
+Fosse il mio scampo dalla fame —  
+Potrei a tale supplica resistere —  
+
+Non in ginocchio a ringraziarmi  
+Si chinò questa Mendicante dal Cielo —  
+Ma della Briciola partecipò — partì —  
+E ritornò Lassù —  
+
+Supposi — quando improvvisa  
+Tale Lode cominciò  
+Fu come se lo Spazio sedesse cantando  
+A se stesso — e agli uomini —  
+
+Era la Mendicante Alata —  
+In seguito appresi  
+Al suo Benefattore  
+Rendeva Gratitudine

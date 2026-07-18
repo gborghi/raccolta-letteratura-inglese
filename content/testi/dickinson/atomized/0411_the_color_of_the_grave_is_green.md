@@ -43,3 +43,36 @@ You've seen the Color — maybe —
 Upon a Bonnet bound —  
 When that you met it with before —  
 The Ferret — cannot find —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Colore della [[Grave|Tomba]] è Verde —  
+La [[Grave|Tomba]] Esterna — intendo —  
+Non la distingueresti dal Campo —  
+Se non possedesse una Pietra —  
+
+Per aiutare i cari — a trovarla —  
+Troppo infinitamente addormentata  
+Per fermarsi a dir loro dov'è —  
+Ma solo una Margherita — profonda —  
+
+Il Colore della [[Grave|Tomba]] è bianco —  
+La [[Grave|Tomba]] esterna — intendo —  
+Non la distingueresti dai Cumuli —  
+D'[[Winter|Inverno]] — finché il [[Sun|Sole]] —  
+
+Non ha scavato solchi nelle Navate —  
+Allora — più alte della Terra  
+Sorgono le piccole Case-Dimore  
+Dove ognuno — ha lasciato un amico —  
+
+Il Colore della [[Grave|Tomba]] dentro —  
+Il Duplicato — intendo —  
+Non tutte le Nevi potrebbero farlo bianco —  
+Non tutte le Estati — Verde —  
+
+Hai visto quel Colore — forse —  
+Legato a una Cuffia —  
+Quando colui su cui prima lo incontravi —  
+Il Furetto — non sa trovare —

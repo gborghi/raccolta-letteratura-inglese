@@ -28,3 +28,21 @@ Had the Triumph no Conviction
 Of how many be —  
 Stimulated — by the Contrast —  
 Unto Misery —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sorridere indietro dall'Incoronazione  
+Può essere Lusso —  
+Sulle Teste che partirono con noi —  
+Plebe dell'Essere —  
+
+Riconoscere in Processione  
+Quelli che un tempo conoscemmo —  
+Quando Noi stessi eravamo anche polverosi —  
+Secoli fa —  
+
+Se il Trionfo non avesse Convinzione  
+Di quanti siano —  
+Spinti — dal Contrasto —  
+Alla Miseria —

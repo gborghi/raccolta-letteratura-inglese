@@ -28,3 +28,21 @@ Except a Wake of Music
 Accompany their feet —  
 As did the Down emit a Tune —  
 For Ecstasy — of it
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dell'Essere è un Uccello  
+Ciò che più somiglia al Piumino  
+Che un'Agevole Brezza mette a galleggiare  
+Sui Cieli Universali — sopra —  
+
+S'innalza — e muta — e turbina —  
+E si misura con le Nuvole  
+In passo agevole — uniforme — abbagliante —  
+Non diversi gli [[Birds|Uccelli]] —  
+
+Se non che una Scia di Musica  
+Accompagna i loro piedi —  
+Come se il Piumino emettesse un Motivo —  
+Per l'Estasi — di ciò

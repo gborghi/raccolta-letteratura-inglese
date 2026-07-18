@@ -23,3 +23,16 @@ Their dappled [[Journey]] to themselves
 A compensation fair  
 Knock and it shall be opened  
 Is their Theology
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cosmopoliti senza supplica  
+Si posano in ogni Terra  
+I complimenti del Paradiso  
+Da quelli nella mia Mano  
+
+Il loro screziato [[Journey|Viaggio]] a se stessi  
+Un equo compenso  
+Bussate e vi sarà aperto  
+È la loro Teologia

@@ -24,3 +24,17 @@ In the Meadow — when the [[Wind]]
 Runs his fingers thro' it —  
 Deity will see to it  
 That You never do it —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Beauty|Bellezza]] — non ha causa — È —  
+Inseguila, e cessa —  
+Non inseguirla, e rimane —
+
+Raggiungi le Increspature
+
+Nel Prato — quando il [[Wind|Vento]]  
+Vi fa scorrere le dita —  
+La Divinità farà in modo  
+Che Tu non vi riesca mai —

@@ -23,3 +23,16 @@ Fainter [[Leaves]] — to Further [[Seasons]] —
 Dumbly testify —  
 We — who have the Souls —  
 Die oftener — Not so vitally —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Nature|Natura]] — talvolta strina un Arboscello —  
+Talvolta — scotenna un [[Tree|Albero]] —  
+Il suo Popolo Verde lo rammenta  
+Quando non muore —  
+
+[[Leaves|Foglie]] più fioche — a [[Seasons|Stagioni]] più remote —  
+Mutamente testimoniano —  
+Noi — che abbiamo le Anime —  
+Moriamo più spesso — Non così vitalmente —

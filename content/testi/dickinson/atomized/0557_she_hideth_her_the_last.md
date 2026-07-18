@@ -28,3 +28,21 @@ To imitate her life
 As impotent would be  
 As make of Our imperfect Mints,  
 The Julep — of the Bee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ella nasconde Sé per ultima —  
+Ed è la prima, a sorgere —  
+La Sua [[Night|Notte]] appena ricompensa  
+Il Chiudersi dei Suoi occhi —  
+
+Compie il Suo Purpureo Lavoro —  
+E Si ripone via  
+In basse Stanze nella Zolla -  
+Degnamente quanto Noi.  
+
+Imitare la sua vita  
+Tanto impotente sarebbe  
+Quanto trarre dalla Nostra imperfetta Menta,  
+Il Giulebbe — dell'Ape —

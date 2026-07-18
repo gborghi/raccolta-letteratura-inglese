@@ -33,3 +33,26 @@ On every side of mine
 For mine — in Frosts — was sown —  
 And yet, one [[Summer]], we were Queens —  
 But You — were crowned in June —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Noi ci sposammo una [[Summer|estate]] — cara —  
+La tua Visione — fu in Giugno —  
+E quando la tua piccola Vita venne meno,  
+Mi stancai — anch'io — della mia —  
+
+E raggiunta nel Buio —  
+Dove Tu mi avevi deposta —  
+Da Qualcuno che portava una Luce —  
+Io — pure — ricevetti il Segno.  
+
+È vero — i Nostri Futuri stavano diversi —  
+Il tuo Cottage — guardava il [[Sun|sole]] —  
+Mentre Oceani — e il Nord dovevano stare —  
+Da ogni lato del mio  
+
+È vero, il tuo [[Garden|Giardino]] guidò la Fioritura,  
+Ché il mio — nei Geli — fu seminato —  
+Eppure, una [[Summer|Estate]], fummo Regine —  
+Ma Tu — fosti incoronata in Giugno —

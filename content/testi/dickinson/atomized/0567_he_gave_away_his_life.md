@@ -33,3 +33,26 @@ And quickening — as we sowed —
 Just obviated Bud —  
 And when We turned to note the Growth —  
 Broke — perfect — from the Pod —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Diede via la sua Vita —  
+A Noi — Somma Gigantesca —  
+Un'inezia — nella sua propria stima —  
+Ma ingrandita — dalla Fama —  
+
+Finché fece scoppiare i Cuori  
+Che s'illudevano di contenerla —  
+Quando rapida sfuggì al suo limite —  
+E sui Cieli — si dispiegò —  
+
+A Noi tocca — trasalire — e piangere —  
+E [[Wonder|stupirci]] — e [[Decay|sfiorire]]  
+Per il processo graduale dei Fiori —  
+Egli scelse — la Maturità —  
+
+E germinando — mentre seminavamo —  
+Semplicemente scavalcò il Bocciolo —  
+E quando Ci voltammo a osservare la Crescita —  
+Eruppe — perfetto — dal Baccello —

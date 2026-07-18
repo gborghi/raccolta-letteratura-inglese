@@ -23,3 +23,16 @@ But [[Miles]] of Sparks — at Evening —
 Reveal the Width that burned —  
 The Territory Argent — that  
 Never yet — consumed —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Rossa — Vampa — è il Mattino —  
+Il Violetto — è [[Noon|Mezzogiorno]] —  
+Il Giallo — Giorno — declina —  
+E dopo quello — non c'è nulla —  
+
+Ma [[Miles|Miglia]] di Scintille — a Sera —  
+Rivelano l'Ampiezza che bruciò —  
+Il Territorio Argenteo — che  
+Mai ancora — fu consumato —

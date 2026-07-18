@@ -24,3 +24,17 @@ Though where its labors lie
 A bland uncertainty  
 Besets the sight  
 This mighty [[Night|night]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perché dovremmo affrettarci — perché mai?  
+Quando per ogni via voliamo  
+Siamo molestati ugualmente  
+Dall'[[Immortality|immortalità]].  
+Nessuna tregua dall'inferenza  
+Che questo che è iniziato,  
+Benché dove giacciano le sue fatiche  
+Una blanda incertezza  
+Assedia lo sguardo  
+Questa possente [[Night|notte]] —

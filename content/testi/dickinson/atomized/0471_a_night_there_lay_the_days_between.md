@@ -23,3 +23,16 @@ Slow — [[Night]] — that must be watched away —
 As Grains upon a shore —  
 Too imperceptible to note —  
 Till it be [[Night|night]] — no more —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una [[Night|Notte]] — vi stavano i Giorni frammezzo —  
+Il Giorno che era Prima —  
+E il Giorno che era Dietro — erano uno —  
+E ora — era [[Night|Notte]] — era qui —  
+
+Lenta — [[Night|Notte]] — che va vegliata via —  
+Come Grani sopra una riva —  
+Troppo impercettibili da notare —  
+Finché non sia [[Night|notte]] — non più —

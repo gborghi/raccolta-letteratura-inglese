@@ -28,3 +28,21 @@ Oh Life, begun in fluent [[Blood]]
 And consummated dull!  
 Achievement contemplating thee —  
 Feels transitive and cool.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quel vecchio strano è morto da un anno —  
+Ci manca il suo Cappello consueto.  
+Era una sera così luminosa e rigida  
+La sua lampada sbiadita si spense.  
+
+Chi rimpiange il suo Stoppino antiquato —  
+C'è qualche canuto per lui?  
+Attende qualche compagna indurita  
+Il suo rugoso tornare a [[Home|Casa]]?  
+
+Oh Vita, iniziata in fluente [[Blood|Sangue]]  
+E consumata spenta!  
+Il Compimento contemplandoti —  
+Si sente transitorio e freddo.

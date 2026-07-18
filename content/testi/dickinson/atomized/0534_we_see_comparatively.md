@@ -33,3 +33,26 @@ To spare these Striding Spirits
 Some Morning of Chagrin —  
 The waking in a Gnat's — embrace —  
 Our Giants — further on —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vediamo — Comparativamente —  
+La Cosa che torreggiava così alta  
+Che non potevamo afferrarne un segmento  
+Senza aiuto — Ieri —  
+
+Il più fine Verdetto di Stamane —  
+Rende appena degna della fatica —  
+Un solco — la Nostra Cordigliera —  
+Il Nostro Appennino — un Poggio —  
+
+Forse è fatto — per bontà verso noi —  
+L'Angoscia — e la perdita —  
+Lo strappo — ché al Suo Firmamento  
+La Cosa apparteneva a noi —  
+
+Per risparmiare a questi Spiriti a Grandi Passi  
+Qualche Mattino di Cruccio —  
+Il risveglio nell'abbraccio — d'un Moscerino —  
+I Nostri Giganti — più oltre —

@@ -23,3 +23,16 @@ As slightly as the Routes of [[Stars]] —
 Ourselves — asleep below —  
 We know that their superior Eyes  
 Include Us — as they go —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lei Ci manca, non perché vediamo —  
+L'Assenza di un Occhio —  
+Se la sua Mente non l'accompagni  
+Restringe la Società  
+
+Lieve come le Rotte delle [[Stars|Stelle]] —  
+Noi — addormentati sotto —  
+Sappiamo che i loro Occhi superiori  
+Ci comprendono — nel loro andare —

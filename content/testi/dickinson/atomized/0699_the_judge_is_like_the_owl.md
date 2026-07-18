@@ -28,3 +28,21 @@ About the price — 'tis small —
 I only ask a Tune  
 At Midnight — Let the Owl select  
 His favorite Refrain.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Giudice è come il Gufo —  
+L'ho udito dire da mio Padre —  
+E i Gufi nidificano nelle Querce —  
+Ecco dunque un Davanzale d'Ambra —  
+
+Che s'inclinava sul mio Sentiero —  
+Andando verso il Granaio —  
+E se Vi serve da [[house|Casa]] —  
+Non è di per sé invano —  
+
+Quanto al prezzo — è piccolo —  
+Chiedo soltanto una Melodia  
+A Mezzanotte — Lasciate che il Gufo scelga  
+Il suo Ritornello favorito.

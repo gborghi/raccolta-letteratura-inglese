@@ -21,3 +21,14 @@ With one long "Nay" —
 Bliss' early shape  
 Deforming — Dwindling — Gulfing up —  
 [[Time]]'s possibility.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ebbi la Gloria — questo basta —  
+Un Onore, a cui il Pensiero può volgersi  
+Quando Fame minori invitano —  
+Con un lungo "No" —  
+La prima forma della Beatitudine  
+Deformando — Scemando — Inghiottendo —  
+La possibilità del [[Time|Tempo]].

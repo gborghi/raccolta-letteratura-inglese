@@ -23,3 +23,16 @@ Or Gold — who am the Prince of Mines —
 Or Diamonds — when have I  
 A Diadem to fit a Dome —  
 Continual upon me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poco potrei — curarmi di Perle —  
+Io che possiedo l'ampio [[Sea|mare]] —  
+O di Spille — quando l'Imperatore —  
+Di Rubini — mi tempesta —  
+
+O d'Oro — io Principe delle Miniere —  
+O di Diamanti — quando ho  
+Un Diadema a misura di Cupola —  
+Continuo su di me —

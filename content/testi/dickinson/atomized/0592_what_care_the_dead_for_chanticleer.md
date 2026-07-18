@@ -43,3 +43,36 @@ Of Sycamore — or Cinnamon —
 Deposit in a Stone  
 And put a Stone to keep it Warm —  
 Give Spices — unto Men —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che importa ai Morti, di Chanticleer —  
+Che importa ai Morti del Giorno?  
+Tardi la vostra Aurora ne turba il volto —  
+E la Purpurea Baldoria — del Mattino  
+
+Si riversa vuota su di loro  
+Come sulla Fila di Muro  
+Che il Muratore edificò, ieri,  
+E altrettanto fredda —  
+
+Che importa ai Morti dell'[[Summer|Estate]]?  
+Il Solstizio non ebbe [[Sun|Sole]]  
+Che struggesse la [[Snow|Neve]] davanti alla loro Porta —  
+E sapesse Un solo Uccello una Melodia —  
+
+Da far vibrare il loro Orecchio Mortasato  
+Fra tutti gli [[Birds|Uccelli]] che esistono —  
+Questo — diletto al Genere Umano  
+D'ora innanzi sia caro —  
+
+Che importa ai Morti dell'[[Winter|Inverno]]?  
+Loro stessi gelano altrettanto lievi —  
+[[Noon|Mezzogiorno]] di giugno — come [[Night|Notte]] di gennaio —  
+Tanto presto il Sud — la sua Brezza  
+
+Di Sicomoro — o di Cannella —  
+Deporrebbe in una Pietra  
+E metterebbe una Pietra a tenerla Calda —  
+Darebbe Spezie — agli Uomini —

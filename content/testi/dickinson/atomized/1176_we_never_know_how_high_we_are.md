@@ -23,3 +23,16 @@ The [[Heroism]] we recite
 Would be a normal thing  
 Did not ourselves the Cubits warp  
 For [[Fear|fear]] to be a [[King]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non sappiamo mai quanto siamo alti  
+Finché non ci è chiesto di alzarci  
+E allora se siamo fedeli al disegno  
+Le nostre stature toccano i cieli —  
+
+L'[[Heroism|Eroismo]] che recitiamo  
+Sarebbe cosa normale  
+Se noi stessi non torcessimo i Cubiti  
+Per [[Fear|paura]] d'essere un [[King|Re]] —

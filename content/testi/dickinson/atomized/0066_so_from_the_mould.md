@@ -25,3 +25,18 @@ Leap so Highland gay,
 Peasants like me,  
 Peasants like Thee  
 Gaze perplexedly!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così dalla zolla  
+Scarlatto e Oro  
+Più d'un Bulbo sorgerà —  
+Celato via, con astuzia, Da occhi sagaci.  
+
+Così dal Bozzolo  
+Più d'un Verme  
+Balza sì gaio d'Altopiano,  
+Contadini come me,  
+Contadini come Te  
+Guardano perplessi!

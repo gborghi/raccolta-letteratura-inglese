@@ -28,3 +28,21 @@ Recurrent to the After Mind
 That Massacre of Air —  
 The Wound that was not Wound nor Scar  
 But Holidays of War
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La loro Barricata contro il Cielo  
+Gli Alberi marziali ritirano  
+E con una [[Flag|Bandiera]] a ogni svolta  
+I loro Eserciti non sono più.  
+
+Quali Rossicce Soste nella Marcia della [[Nature|Natura]]  
+Essi indichino o causino  
+Un'inferenza di Messico  
+Cancella la Congettura —  
+
+Ricorrente alla Mente di Poi  
+Quel Massacro d'Aria —  
+La Ferita che non fu Ferita né Cicatrice  
+Ma Feste di Guerra

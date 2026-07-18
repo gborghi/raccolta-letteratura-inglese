@@ -23,3 +23,16 @@ A Hoary Boy, I've known to drop
 Whole statured — by the side  
 Of Junior of Fourscore — 'twas Act  
 Not Period — that died.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non tutti muoiono presto, morendo giovani —  
+La Maturità del Fato  
+Si consuma ugualmente  
+In Ere, o in una [[Night|Notte]] —  
+
+Un Fanciullo Canuto, ho visto cadere  
+In piena statura — al fianco  
+D'un Giovane d'Ottant'anni — fu l'Atto  
+Non il Periodo — a morire.

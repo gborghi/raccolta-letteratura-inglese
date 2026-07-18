@@ -25,3 +25,18 @@ Not of detention is Fruition —
 Shudder to attain.  
 Transport's decomposition follows —  
 He is Prism born.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+FALCE?  
+
+Qual è la migliore — la [[Moon|Luna]] o la Falce?  
+Nessuna — disse la [[Moon|Luna]] —  
+È migliore ciò che non è — Conseguitelo —  
+E cancellate il Fulgore.  
+
+Non di detenzione è la Fruizione —  
+Rabbrividite a raggiungere.  
+Segue la decomposizione del Trasporto —  
+Egli è nato Prisma.

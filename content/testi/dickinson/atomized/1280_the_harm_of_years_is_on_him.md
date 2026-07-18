@@ -23,3 +23,16 @@ Forget his Morning Forces —
 The Glory of [[Decay]]  
 Is a minuter Pageant  
 Than least Vitality.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il danno degli Anni è su di lui —  
+L'infamia del [[Time|Tempo]] —  
+Deponetelo come una Moda  
+E date spazio al Dominio.  
+
+Dimenticate le sue Forze del Mattino —  
+La Gloria del [[Decay|Declino]]  
+È una Parata più minuta  
+Della minima Vitalità.

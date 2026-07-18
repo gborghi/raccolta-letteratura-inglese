@@ -24,3 +24,17 @@ The Belles of Paradise are few —
 Not me — nor you —  
 But unsuspected things —  
 Mines have no Wings.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Road|Strada]] per il Paradiso è piana,  
+E ne regge appena uno.  
+Non che non sia salda  
+Ma noi presumiamo  
+Che una [[Road|Strada]] a Fossette  
+Sia più gradita.  
+Le Belle del Paradiso son poche —  
+Non io — non tu —  
+Ma cose insospettate —  
+Le Mine non hanno Ali.

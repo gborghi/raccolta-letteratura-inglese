@@ -43,3 +43,36 @@ No more ashamed —
 No more to hide —  
 Meek — let it be — too proud — for [[Pride]] —  
 Baptized — this Day — a Bride —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi vergogno — mi nascondo —  
+Che diritto ho io — d'essere Sposa —  
+Fino a ieri Fanciulla senza Dote —  
+Nessun luogo per celare il mio Viso abbagliato —  
+Nessuno a insegnarmi quella nuova Grazia —  
+Né a presentare — la mia [[Soul|Anima]] —  
+
+Me — da adornare — Come — dire —  
+Un Monile — a farmi bella —  
+Stoffe di Cachemire —  
+Mai più una Veste di Bigio — ormai —  
+Vesti invece — di Pompadour —  
+Per Me — la mia [[Soul|anima]] — da indossare —  
+
+Dita — a incorniciare i miei Capelli Tondi  
+In Ovale — come portavano le Dame Feudali —  
+Fogge Lontane — Belle —  
+Arte di tenere la Fronte come un Conte —  
+Implorare — come un Caprimulgo —  
+Provare — come una Perla —  
+Poi, quanto al Carattere —  
+Foggiate il mio Spirito arcaico — bianco —  
+Vivo — come un Liquore —  
+Gaio — come Luce —  
+Portatemi il mio miglior [[Pride|Orgoglio]] —  
+Non più vergognosa —  
+Non più nascondermi —  
+Mite — che sia — troppo fiero — per l'[[Pride|Orgoglio]] —  
+Battezzata — in questo Giorno — Sposa —

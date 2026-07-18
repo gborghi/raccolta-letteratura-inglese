@@ -33,3 +33,26 @@ And he will tell you — skill is late —
 A Mightier than He —  
 Has ministered before Him —  
 There's no Vitality.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è un Languore della Vita  
+Più imminente del [[Pain|Dolore]] —  
+È il Successore del [[Pain|Dolore]] — Quando l'[[Soul|Anima]]  
+Ha sofferto quanto può —  
+
+Un Torpore — si diffonde —  
+Un Fosco come Nebbia  
+Avvolge la Coscienza —  
+Come Brume — cancellano una Rupe.  
+
+Il Chirurgo — non impallidisce — al [[Pain|dolore]]  
+Il suo Uso — è severo —  
+Ma digli che ha cessato di sentire —  
+La Creatura lì distesa —  
+
+E ti dirà — l'arte è tardi —  
+Un Più Possente di Lui —  
+Ha officiato prima di Lui —  
+Non c'è Vitalità.

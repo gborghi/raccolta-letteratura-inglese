@@ -22,3 +22,15 @@ The Winds went out their martial ways
 The [[Leaves]] obtained excuse —  
 November hung his Granite Hat  
 Upon a nail of Plush —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Giorno si fece piccolo, serrato stretto  
+Dalla precoce, curva [[Night|Notte]] —  
+Il Pomeriggio nella Sera fonda  
+Lasciò cadere la sua Gialla brevità —  
+I Venti uscirono per le loro vie marziali  
+Le [[Leaves|Foglie]] ottennero congedo —  
+Novembre appese il suo Cappello di Granito  
+A un chiodo di Felpa —

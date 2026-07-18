@@ -22,3 +22,15 @@ As if I asked the [[Orient]]
 Had it for me a morn?  
 And it sh'd lift it's purple dikes  
 And flood me with the [[Dawn]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come se chiedessi una comune elemosina -  
+E nella mia mano stupita,  
+Uno straniero premesse un regno -  
+E io - sbigottita resto -  
+Come se chiedessi all'[[Orient]]  
+Avesse per me un mattino?  
+E quello alzasse le sue dighe di porpora  
+E m'inondasse di [[Dawn]]!

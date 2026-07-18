@@ -42,3 +42,35 @@ Too small — to [[Fear|fear]] —
 Too distant — to endear —  
 And so Men Compromise  
 And just — revere —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Contegno da muovere una [[Queen|Regina]] —  
+Metà [[Child|Bimba]] — Metà Eroina —  
+Un'Orléans nell'Occhio  
+Che depone i suoi modi  
+Per più umile Compagnia  
+Quando nessuno è vicino  
+Persino una Lacrima —  
+Sua frequente Visitatrice —  
+
+Una Cuffia come un Duca —  
+Eppure la Parrucca d'uno Scricciolo  
+Non sarebbe così schiva  
+Del Passante —  
+E Mani — così esili —  
+Da esaltare un Folletto  
+Di Allegria —  
+
+Una Voce che Muta — Bassa  
+E sull'Orecchio può posarsi  
+Come Posa di [[Snow|Neve]] —  
+O volgersi suprema —  
+Come tono di Regno  
+Su Sudditi Diadema —  
+
+Troppo piccola — da [[Fear|temere]] —  
+Troppo distante — per farsi cara —  
+E così gli Uomini Scendono a patti  
+E soltanto — venerano —

@@ -34,3 +34,27 @@ First — at the vat — and latest at the Vine —
 "Found dead" — "of Nectar" —  
 By a humming Coroner —  
 In a By-Thyme!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Noi — Ape ed io — viviamo di bevute —  
+Non è tutto Vin del Reno — da noi —  
+La Vita ha la sua Birra —  
+Ma è più d'un canto del Fosco Borgogna —  
+Che intoniamo — per conforto — quando i Vini — mancano —  
+
+Ci "ubriachiamo"?  
+Chiedetelo agli allegri Trifogli!  
+"Picchiamo" la nostra "Moglie"?  
+Io — mai sposata —  
+Ape — brinda alla sua — in minuscole caraffe —  
+Leggiadre — come gli alberi — sul nostro agile Capo —  
+
+Finché scorre il Reno —  
+Lui ed io — gozzovigliamo —  
+Primi — al tino — e ultimi alla Vite —  
+[[Noon|Mezzogiorno]] — la nostra ultima Coppa —  
+"Trovati morti" — "di Nettare" —  
+Da un ronzante Coroner —  
+In un Cespo di Timo!

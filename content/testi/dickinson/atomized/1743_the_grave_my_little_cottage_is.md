@@ -23,3 +23,16 @@ For two divided, briefly,
 A cycle, it may be,  
 Till everlasting life unite  
 In strong society.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Grave|tomba]] è il mio piccolo cottage,  
+Dove "governando la [[house|casa]]" per te  
+Metto in ordine il mio salotto  
+E apparecchio il tè di marmo.  
+
+Per due divisi, brevemente,  
+Un ciclo, può darsi,  
+Finché vita eterna non unisca  
+In salda società.

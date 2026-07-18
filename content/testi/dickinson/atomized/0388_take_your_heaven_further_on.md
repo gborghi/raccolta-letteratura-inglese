@@ -26,3 +26,19 @@ Nearer to Your Courtesies
 Than this Sufferer polite —  
 Dressed to meet You —  
 See — in White!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Porta il tuo Cielo più lontano —  
+Questo — a Cielo divino se n'è andato —  
+Fossi Tu entrato prima, per errore,  
+Forse, persino Tu avresti visto  
+Un'[[Eternity|Eternità]] — indossata —  
+Ora — suonare a una [[Door|Porta]] più oltre  
+È il massimo per la Tua Mano —  
+Ai Cieli — chiedi scusa —  
+Più vicino alle Tue Cortesie  
+Di questo Sofferente cortese —  
+Vestito per incontrarti —  
+Guarda — di Bianco!

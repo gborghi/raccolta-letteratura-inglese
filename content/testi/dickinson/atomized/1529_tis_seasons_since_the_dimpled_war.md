@@ -22,3 +22,15 @@ Another Massacre before
 So modest and so vain —  
 Without a Formula we fought  
 Each was to each the Pink Redoubt —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Son [[Seasons|Stagioni]] dalla Guerra delle Fossette  
+In cui ognuno di noi fu Conquistatore  
+E ognuno di noi fu ucciso  
+E Secoli ci vorranno e più  
+Prima di un altro Massacro  
+Così modesto e così vano —  
+Senza una Formula combattemmo  
+Ognuno era per l'altro il Roseo Ridotto —

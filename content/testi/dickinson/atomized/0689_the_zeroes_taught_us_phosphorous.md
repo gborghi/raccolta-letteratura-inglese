@@ -22,3 +22,15 @@ Of Opposite — to balance Odd —
 If White — a Red — must be!  
 Paralysis — our Primer — dumb —  
 Unto Vitality!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli Zeri — ci insegnarono — il Fosforo —  
+Imparammo ad amare il [[Fire|Fuoco]]  
+Giocando ai Ghiacciai — da Ragazzi —  
+E l'Esca — indovinata — per potere  
+D'Opposto — a bilanciare il Dispari —  
+Se Bianco — un Rosso — dev'esserci!  
+Paralisi — il nostro Sillabario — muto —  
+Verso la Vitalità!

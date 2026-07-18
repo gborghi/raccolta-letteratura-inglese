@@ -33,3 +33,26 @@ Nought — that We — No Poet's Kinsman —
 Suffocate — with easy woe —  
 What, and if, Ourself a Bridegroom —  
 Put Her down — in [[Italy]]?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le sue — "ultime [[Poems|Poesie]]" —  
+I Poeti — finiti —  
+L'Argento — perito — con la sua Lingua —  
+Non v'è a Memoria — altro gorgoglio,  
+Flauto — o Donna —  
+Così divino —  
+Non alla sua [[Summer|Estate]] — il Mattino  
+Il Pettirosso — proferì Metà dell'Aria —  
+Sgorgata troppo libera per gli Adoranti —  
+Dall'Anglo-Fiorentina —  
+Tarda — la Lode —  
+È vano — conferire  
+Al Capo troppo Alto per [[Crown|Corona]] —  
+Diadema — o Pompa Ducale —  
+Sia la sua [[Grave|Tomba]] — segno sufficiente —  
+Nulla — che Noi — di Nessun Poeta Congiunti —  
+Soffochiamo — con facile pena —  
+Che, e se, Noi stessi uno Sposo —  
+La deponemmo — in [[Italy|Italia]]?

@@ -29,3 +29,22 @@ Not found,
 Argues the Aster still —  
 Reasons the Daffodil  
 Profound!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come lei si ritirano i Santi,  
+Nei loro Chapeaux di [[Fire|fuoco]],  
+Marziali come lei!  
+
+Come lei le Sere rubano  
+Porpora e Cocciniglia  
+Dietro al Giorno!  
+
+"Dipartite" — entrambe — dicono!  
+ossia raccolte via,  
+Non trovate,  
+
+Argomenta ancora l'Astro —  
+Ragiona il Narciso  
+Profondo!

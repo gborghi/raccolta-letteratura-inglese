@@ -29,3 +29,22 @@ Tri Victory
 "My Husband" — women say —  
 Stroking the Melody —  
 Is this — the way?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo divino — è mio!  
+La Sposa — senza il Segno!  
+Grado Acuto — conferito a me —  
+Imperatrice del Calvario!  
+Regale — tutto fuorché la [[Crown|Corona]]!  
+Promessa — senza il deliquio  
+[[God|Dio]] manda a noi Donne —  
+Quando tu — tieni — Granato a Granato —  
+Oro — a Oro —  
+Nata — Sposata — Avvolta nel Sudario —  
+In un Giorno —  
+Triplice Vittoria  
+"Mio Marito" — dicono le donne —  
+Carezzando la Melodia —  
+È questa — la via?

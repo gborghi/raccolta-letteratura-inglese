@@ -33,3 +33,26 @@ Adventure most unto itself
 The [[Soul]] condemned to be —  
 Attended by a single Hound  
 Its own [[Identity|identity]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa Coscienza che è conscia  
+Dei Vicini e del [[Sun|Sole]]  
+Sarà quella conscia della [[Death|Morte]]  
+E che essa [[Alone|sola]]  
+
+Sta attraversando l'intervallo  
+Fra l'Esperienza  
+E il più profondo esperimento  
+Destinato agli Uomini —  
+
+Quanto adeguate a se stessa  
+Saranno le sue proprietà  
+Essa a se stessa e nessuno  
+Farà la scoperta —  
+
+Avventura massima a se stessa  
+L'[[Soul|Anima]] condannata a essere —  
+Scortata da un unico Segugio  
+La propria [[Identity|identità]].

@@ -33,3 +33,26 @@ Our Lord — indeed — made Compound Witness —
 And yet —  
 There's newer — nearer Crucifixion  
 Than That —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Crocifissione è registrata — soltanto —  
+Quante ve ne siano  
+Non è affermato dalla Matematica —  
+O dalla [[history|Storia]] —  
+
+Un Calvario — esibito allo Straniero —  
+Ve ne sono tanti  
+Quante le persone — o le Penisole —  
+Il Getsemani —  
+
+È solo una Provincia — nel Centro dell'Essere —  
+La Giudea —  
+Per [[Journey|Viaggio]] — o Impresa di Crociata —  
+Troppo vicina —  
+
+Nostro Signore — invero — rese Testimonianza Composta —  
+Eppure —  
+C'è più nuova — più vicina Crocifissione  
+Di Quella —

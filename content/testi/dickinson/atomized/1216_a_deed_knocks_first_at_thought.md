@@ -23,3 +23,16 @@ It then goes out an Act
 Or is entombed so still  
 That only to the ear of [[God]]  
 Its Doom is audible —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un'Azione bussa prima al Pensiero  
+E poi — bussa alla Volontà —  
+È quello il luogo di fabbrica  
+E la Volontà a [[Home|Casa]] e in [[Well|salute]]  
+
+Poi esce fuori come Atto  
+O vien sepolta così immota  
+Che solo all'orecchio di [[God|Dio]]  
+La sua Condanna è udibile —

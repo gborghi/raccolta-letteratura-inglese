@@ -55,3 +55,48 @@ Its far — far Treasure to surmise —
 And estimate the Pearl —  
 That slipped my simple fingers through —  
 While just a Girl at School.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le tue Ricchezze — mi insegnarono — la [[Poverty|Povertà]].  
+Io stessa — Milionaria  
+In piccole Ricchezze, quali Fanciulle possono vantare  
+Fino a farmi vasta come Buenos Ayre —  
+
+Tu lasciavi andare alla deriva i tuoi Domini —  
+Un Differente Perù —  
+E io stimai Tutto [[Poverty|Povertà]]  
+A fronte del Patrimonio d'una Vita con te —  
+
+Di Miniere, poco so — io stessa —  
+Soltanto i nomi, delle Gemme —  
+I Colori delle più Comuni —  
+E appena qualcosa dei Diademi —  
+
+Tanto, che se incontrassi la [[Queen|Regina]] —  
+La sua Gloria saprei riconoscerla —  
+Ma questa, dev'essere una Ricchezza diversa —  
+Mancarla — rende così mendichi —  
+
+Son certa che è India — tutto il Giorno —  
+Per chi posa lo sguardo su di Te —  
+Senza misura — senza colpa,  
+Potessi io — essere soltanto l'Ebreo —  
+
+Son certa che è Golconda —  
+Oltre il mio potere di concepire —  
+Avere un sorriso Mio — ogni Giorno,  
+Quanto meglio, di una Gemma!  
+
+Almeno, consola sapere  
+312  
+
+Che esiste — un Oro —  
+Benché io lo dimostri, giusto in [[Time|tempo]]  
+Per contemplarne — la distanza —  
+
+Il suo lontano — lontano Tesoro congetturare —  
+E stimare la Perla —  
+Che scivolò via tra le mie semplici dita —  
+Quand'ero solo una Fanciulla a Scuola.

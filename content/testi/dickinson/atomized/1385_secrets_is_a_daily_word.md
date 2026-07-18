@@ -26,3 +26,19 @@ Nothing with a Tongue or Ear —
 [[Secrets]] stapled there  
 Will emerge but once — and dumb —  
 To the Sepulchre —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"[[Secrets|Segreti]]" è parola quotidiana  
+Eppure non esiste —  
+Attutita — rimette la congettura —  
+Mormorata — è già cessata —  
+Segregati nel Petto Umano  
+Di certo giacciono [[Secrets|segreti]] —  
+Ma da quella Grata inviolata —  
+Non va né viene via  
+Nulla che abbia Lingua od Orecchio —  
+[[Secrets|Segreti]] lì inchiodati  
+Emergeranno una volta sola — e muti —  
+Verso il Sepolcro —

@@ -34,3 +34,27 @@ And so
 Upon Her Bosom — One —  
 And One upon Her Hem —  
 Both lie —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Aurora corre per Entrambi —  
+L'Est — il Suo Purpureo Patto  
+Mantiene con la [[Hill|Collina]] —  
+Il [[Noon|Meriggio]] dispiega il Suo Azzurro  
+Finché un'Ampiezza copra Due —  
+Remotissimi — ancora —  
+
+Né la [[Night|Notte]] dimentica  
+Una Lampada per Ciascuno — da porre —  
+Stoppini assai lontani —  
+Il Nord — la Sua fiammante Insegna  
+Erige nello Iodio —  
+Finché Entrambi — vedano —  
+
+Le Fosche Braccia della Mezzanotte  
+Serrano Emisferi, e Case  
+E così  
+Sul Suo Seno — Uno —  
+E Uno sul Suo Orlo —  
+Entrambi giacciono —

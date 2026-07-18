@@ -48,3 +48,41 @@ I chose this single star
 
 From out the wide [[Night|night]]'s numbers -  
 Sue - forevermore!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Sorella ho nella nostra [[house|casa]] -  
+E una, a una siepe di distanza.  
+Una sola è registrata,  
+Ma entrambe mi appartengono.
+
+Una venne per la [[Road|strada]] che feci io -  
+E portò la mia veste dell'anno scorso -  
+L'altra, come un uccello il nido,  
+Costruì fra i nostri cuori.
+
+Lei non cantava come noi -  
+Era una melodia diversa -  
+Se stessa a sé una musica  
+Come Bombo di giugno.
+
+Oggi è lontano dall'[[Childhood|Infanzia]] -  
+Ma su e giù per le colline  
+Le tenni la mano più stretta -  
+Il che accorciò tutte le [[Miles|miglia]] -
+
+E ancora il suo ronzio  
+Lungo l'anno,  
+Inganna la Farfalla;  
+Ancora nel suo Occhio  
+Le Violette giacciono  
+Marcite da tanti Maggi.
+
+Versai la [[Dew|rugiada]] -  
+Ma presi il mattino;  
+Scelsi quest'unica stella  
+18
+
+Fra le schiere della vasta [[Night|notte]] -  
+Sue - per sempre!

@@ -43,3 +43,36 @@ To pity those that know her not
 Is helped by the regret  
 That those who know her, know her less  
 The nearer her they get.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quale mistero pervade un [[Well|pozzo]]!  
+Che l'[[Water|acqua]] viva così lontano —  
+Un vicino di un altro mondo  
+Che risiede in una giara  
+
+Il cui limite nessuno ha mai visto,  
+Se non il suo coperchio di vetro —  
+Come guardare ogni [[Time|volta]] che vuoi  
+In faccia a un abisso!  
+
+L'erba non sembra impaurita,  
+Spesso mi [[Wonder|domando]] come lui  
+Possa starle così accanto e guardare così ardito  
+Ciò che per me è sgomento.  
+
+Imparentati in qualche modo forse sono,  
+Il giunco sta accanto al [[Sea|mare]] —  
+Dove lui è senza fondo  
+E non tradisce alcuna timidezza  
+
+Ma la [[Nature|natura]] è un'estranea ancora;  
+Quelli che più la citano  
+Non hanno mai varcato la sua [[house|casa]] stregata,  
+Né semplificato il suo [[Ghost|spettro]].  
+
+Compatire quelli che non la conoscono  
+È soccorso dal rimpianto  
+Che chi la conosce, la conosce meno  
+Quanto più le si fa vicino.

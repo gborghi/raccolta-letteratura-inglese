@@ -22,3 +22,15 @@ Behind the [[Hill|hill]] is sorcery
 And everything unknown,  
 But will the secret compensate  
 For climbing it [[Alone|alone]]?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'andare da un mondo che conosciamo  
+A uno che è ancora [[Wonder|meraviglia]]  
+È come l'avversità del [[Child|bimbo]]  
+La cui vista è una [[Hill|collina]],  
+Dietro la [[Hill|collina]] è stregoneria  
+E ogni cosa ignota,  
+Ma il segreto compenserà  
+Lo scalarla da [[Alone|solo]]?

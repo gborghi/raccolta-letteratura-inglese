@@ -23,3 +23,16 @@ And struggle slacker — but to prove
 As hopelessly as I —  
 How many the fictitious Shores —  
 Before the Harbor be —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Molte volte pensai che la Pace fosse giunta  
+Quando la Pace era lontana —  
+Come Naufraghi — credono di scorgere la Terra —  
+Al Centro del [[Sea|Mare]] —  
+
+E lottano più fiacchi — solo per provare  
+Senza speranza quanto me —  
+Quante le Rive fittizie —  
+Prima che il Porto sia —

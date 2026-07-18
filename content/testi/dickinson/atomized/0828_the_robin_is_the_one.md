@@ -28,3 +28,21 @@ The Robin is the One
 That speechless from her Nest  
 Submit that [[Home]] — and Certainty  
 And Sanctity, are best
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Pettirosso è Colui  
+Che interrompe il Mattino  
+Con frettolosi — pochi — espressi Rapporti  
+Quando Marzo è appena giunto —  
+
+Il Pettirosso è Colui  
+Che inonda il [[Noon|Mezzogiorno]]  
+Con la sua cherubica quantità —  
+Un Aprile appena iniziato —  
+
+Il Pettirosso è Colui  
+Che muta dal suo Nido  
+Afferma che [[Home|Casa]] — e Certezza  
+E Santità, sono il meglio

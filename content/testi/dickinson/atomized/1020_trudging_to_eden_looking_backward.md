@@ -23,3 +23,16 @@ Would it comfort — to know I met him —
 And that He didn't look afraid?  
 I couldn't weep — for so many smiling  
 New Acquaintance — this Baby made —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Arrancando verso l'Eden, guardando indietro,  
+incontrai il piccolo Bimbo di Qualcuno  
+Gli chiesi il nome — Egli mi balbettò "Trotwood" —  
+Signora, apparteneva Egli a te?  
+
+Ti consolerebbe — sapere che lo incontrai —  
+e che non sembrava impaurito?  
+Non potei piangere — ché tante sorridenti  
+nuove Conoscenze — questo Bimbo fece —

@@ -50,3 +50,43 @@ How shall we arrange it —
 Tim — was — so — shy?  
 Take us simultaneous — Lord —  
 I — "Tim" — and Me!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non piangiamo — Tim ed io,  
+Siamo fin troppo fieri —  
+Ma sprangiamo forte la [[Door|porta]]  
+Per escludere un amico —  
+
+Poi nascondiamo il volto ardito  
+Fondo nella mano —  
+Per non piangere — Tim ed io —  
+Siamo fin troppo fieri —  
+
+Né a sognare — lui ed io —  
+Ci degniamo —  
+Chiudiamo solo l'occhio bruno  
+Per vedere fino alla fine —  
+
+Tim — vede Casette —  
+Ma, Oh, così in alto!  
+Allora — tremiamo — Tim ed io —  
+E perché io non — pianga —  
+
+Tim — legge un piccolo [[Hymn|Inno]] —  
+E preghiamo entrambi —  
+Per favore, Signore, io e Tim —  
+Sempre smarrita la via!  
+
+Dobbiamo morire — prima o poi —  
+Dicono i Pastori —  
+Tim — morrà — se io — muoio —  
+Io — pure — se lui —  
+
+Come lo combineremo —  
+205  
+
+Tim — era — così — timido?  
+Prendici simultanei — Signore —  
+Io — "Tim" — e Me!

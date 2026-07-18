@@ -23,3 +23,16 @@ I aimed by Pebble — but Myself
 Was all the one that fell —  
 Was it Goliath — was too large —  
 Or was myself — too small?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Presi il mio Potere nella Mano —  
+E andai contro il Mondo —  
+Non era quanto Davide — aveva —  
+Ma io — ero due volte più audace —  
+
+Mirai col Ciottolo — ma Io sola  
+Fui quella che cadde —  
+Fu Golia — a esser troppo grande —  
+O fui io — troppo piccola?

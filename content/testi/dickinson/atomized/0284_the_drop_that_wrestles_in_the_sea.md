@@ -25,3 +25,18 @@ How larger — be?
 The Ocean — smiles — at her Conceit —  
 But she, forgetting Amphitrite —  
 Pleads — "Me"?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Goccia, che lotta nel [[Sea|Mare]] —  
+Dimentica la propria dimora —  
+Come io — verso Te —  
+
+Si sa incenso piccino —  
+Pur piccola — sospira — se il Tutto — è Tutto —  
+Come esser — più grande?  
+
+L'Oceano — sorride — alla sua Presunzione —  
+Ma lei, scordando Anfitrite —  
+Implora — "Me"?

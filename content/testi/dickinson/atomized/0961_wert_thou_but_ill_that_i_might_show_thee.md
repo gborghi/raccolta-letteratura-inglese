@@ -38,3 +38,31 @@ No Service hast Thou, I would not achieve it —
 To die — or live —  
 The first — Sweet, proved I, ere I saw thee —  
 For Life — be [[Love]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fossi Tu solo malato — che io potessi mostrarti  
+Quanto lungo un Giorno saprei sopportare  
+Benché la tua attenzione non si fermi su di me  
+Né il minimo segnale, Mi rassicuri —  
+
+Fossi Tu solo Straniero in paese sgraziato —  
+E Mia — la [[Door|Porta]]  
+Cui Ti fermassi, per un dono di passaggio —  
+Non Più —  
+
+Accusato — fossi Tu — e Io stessa — Tribunale —  
+Colpevole — Condannato — l'Ermellino — non a Me  
+Metà della Condizione, il tuo Rovescio — seguire —  
+Solo per condividere — l'infamia —  
+
+L'Inquilino dell'Angusta Casetta, fossi Tu —  
+Che mi sia permesso d'essere  
+La Massaia nel tuo umile servizio  
+Mi Appaga —  
+
+Non hai Servizio, che io non compirei —  
+Morire — o vivere —  
+Il primo — Dolce, provai, prima di vederti —  
+Perché la Vita — sia [[Love|Amore]] —

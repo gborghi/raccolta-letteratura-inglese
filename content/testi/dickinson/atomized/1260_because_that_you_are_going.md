@@ -65,3 +65,58 @@ If "All is possible with" him
 As he besides concedes  
 He will refund us finally  
 Our confiscated Gods —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché tu te ne vai  
+E mai più tornerai  
+Ed io, per quanto assoluta,  
+Potrei smarrire la tua Traccia —  
+
+Poiché la [[Death|Morte]] è finale,  
+Per quanto prima essa sia,  
+Quest'istante sia sospeso  
+Sopra la [[Mortality|Mortalità]] —  
+
+Significato che ciascuno ha vissuto  
+Per scoprire l'altro  
+Scoperta che non [[God|Dio]] stesso  
+Potrebbe ora annientare  
+
+[[Eternity|Eternità]], Presunzione  
+Nell'istante in cui percepisco  
+Che tu, che eri Esistenza  
+Tu stesso scordasti di vivere —  
+
+La "Vita che è" sarà allora stata  
+Cosa che mai conobbi —  
+Come Paradiso fittizio  
+Fino al Reame di te —  
+
+La "Vita che sarà," per me,  
+Dimora troppo spoglia  
+Se nel Volto del mio Redentore  
+Non riconosco il tuo —  
+
+Dell'[[Immortality|Immortalità]] chi dubita  
+1306  
+
+Può fare cambio con me  
+Ridotta dal tuo Volto che oscura  
+Ogni cosa fuorché Lui —  
+
+Di Cielo e Inferno anche cedo  
+Il Diritto di riprendere  
+A chiunque scambierebbe questo Volto  
+Per il suo Amico meno inestimabile.  
+
+Se "[[God|Dio]] è [[Love|Amore]]" come ammette  
+Pensiamo che me debba essere  
+Poiché egli è un "[[God|Dio]] geloso"  
+Ce lo dice certamente  
+
+Se "Tutto è possibile con" lui  
+Come inoltre concede  
+Egli ci rimborserà infine  
+I nostri Dèi confiscati —

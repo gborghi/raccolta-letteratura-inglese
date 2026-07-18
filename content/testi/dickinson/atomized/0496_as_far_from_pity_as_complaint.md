@@ -28,3 +28,21 @@ To eyelids in the Sepulchre —
 How dumb the Dancer lies —  
 While Color's Revelations break —  
 And blaze — the Butterflies!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lontana dalla pietà, come il lamento —  
+Fredda alla parola — come pietra —  
+Insensibile alla [[Revelation|Rivelazione]]  
+Come se il mio Mestiere fosse l'Osso —  
+
+Lontana dal [[Time|tempo]] — come la [[history|Storia]] —  
+Vicina a te — come l'Oggi —  
+Come i Bambini, alla sciarpa dell'Arcobaleno —  
+O al Giallo gioco del Tramonto  
+
+Per palpebre nel Sepolcro —  
+Come muta giace la Danzatrice —  
+Mentre irrompono le Rivelazioni del Colore —  
+E avvampano — le Farfalle!

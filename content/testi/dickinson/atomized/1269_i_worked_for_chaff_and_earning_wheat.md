@@ -23,3 +23,16 @@ I tasted Wheat and hated Chaff
 And thanked the ample friend —  
 Wisdom is more becoming viewed  
 At distance than at hand.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lavorai per pula e guadagnare Grano  
+Fu superbia e tradimento.  
+Che diritto avevano i Campi di arbitrare  
+In materie ratificate?  
+
+Assaggiai il Grano e odiai la Pula  
+E ringraziai l'amico generoso —  
+La Saggezza è più avvenente vista  
+A distanza che da presso.

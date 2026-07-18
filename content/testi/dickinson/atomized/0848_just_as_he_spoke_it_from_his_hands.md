@@ -23,3 +23,16 @@ According as his skill prefer
 It perish, or endure —  
 Content, soe'er, it ornament  
 His absent character.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così come Egli lo pronunciò dalle sue Mani  
+Questo Edificio resti —  
+Una Torretta in più, una Torretta in meno  
+Disonora il suo Disegno —  
+
+Secondo che la sua arte preferisca  
+Perisca, o duri —  
+Pago, comunque sia, d'ornare  
+Il suo assente carattere.

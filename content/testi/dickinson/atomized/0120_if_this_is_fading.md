@@ -23,3 +23,16 @@ On such a [[Night|night]]
 How proud to shut the eye!  
 Good Evening, gentle Fellow men!  
 Peacock presumes to die!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se questo è "svanire"  
+Oh lasciatemi subito "svanire"!  
+Se questo è "morire"  
+Seppellitemi, in un tale sudario di rosso!  
+Se questo è "[[Sleep|sonno]],"  
+In una simile [[Night|notte]]  
+Che orgoglio chiudere l'occhio!  
+Buona Sera, gentili miei Simili!  
+Il Pavone presume di morire!

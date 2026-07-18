@@ -33,3 +33,26 @@ So I — the undivine abode
 Of His Elect Content —  
 Conform my [[Soul]] — as 'twere a Church,  
 Unto Her Sacrament —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La mia Dignità è tutto il mio [[Doubt|Dubbio]] —  
+Il Suo Merito — tutta la mia [[Fear|paura]] —  
+Al cui confronto, la mia qualità  
+Più umile — appare —  
+
+Che io mi riveli insufficiente  
+Al Suo amato Bisogno —  
+La Principale Apprensione  
+Nella mia Mente affollata —  
+
+È vero — che la Deità a chinarsi  
+Per natura inclina —  
+Ché su nulla più alto di Sé  
+Se stessa può posare —  
+
+Così Io — la dimora non divina  
+Del Suo Eletto Compiacimento —  
+Conformo la mia [[Soul|Anima]] — quasi fosse una Chiesa,  
+Al Sacramento di Lei —

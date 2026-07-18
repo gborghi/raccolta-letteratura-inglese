@@ -23,3 +23,16 @@ If town it have, beyond itself,
 'T is that I cannot say ;  
 I only sigh,—no vehicle  
 Bears me along that way.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una piccola [[Road|strada]] non fatta d'uomo,  
+Consentita all'occhio,  
+Accessibile a stanga d'ape,  
+O a carro di farfalla.  
+
+Se città abbia, oltre se stessa,  
+Questo io non so dire ;  
+Sospiro soltanto,—nessun veicolo  
+Mi porta per quella via.

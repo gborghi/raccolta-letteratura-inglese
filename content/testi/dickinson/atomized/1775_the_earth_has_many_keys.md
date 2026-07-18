@@ -32,3 +32,25 @@ please think about donating a small amount (if you already have - thank
 you!). It helps with the site costs, and any amount is appreciated.  
 Thanks for reading this and I really [[Hope|hope]] you visit Global Grey again - new  
 books are added regularly so you'll always find something of interest :)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La terra ha molte chiavi,  
+Dove melodia non è  
+È la penisola sconosciuta.  
+La [[Beauty|Bellezza]] è il fatto della [[Nature|natura]].  
+
+Ma testimone per la sua terra,  
+E testimone per il suo [[Sea|mare]],  
+Il grillo è il suo estremo  
+Di [[Elegy|elegia]] per me.  
+
+Una breve nota: Ciao! Sono Julie, la donna che gestisce Global Grey - il sito  
+dove questo ebook è stato pubblicato gratuitamente. Queste sono le mie edizioni, e  
+[[Hope|spero]] che vi sia piaciuto leggere proprio questo. Per sostenere il sito, e per  
+permettermi di continuare a offrire questi ebook di qualità (e del tutto gratuiti),  
+pensate per favore a donare una piccola somma (se lo avete già fatto - grazie  
+!). Aiuta con i costi del sito, e qualunque cifra è apprezzata.  
+Grazie per aver letto e [[Hope|spero]] davvero che visitiate di nuovo Global Grey - nuovi  
+libri vengono aggiunti regolarmente, così troverete sempre qualcosa di interesse :)

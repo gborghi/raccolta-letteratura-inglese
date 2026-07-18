@@ -23,3 +23,16 @@ The Dying, is a trifle, past,
 But living, this include  
 The dying multifold — without  
 The Respite to be dead.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Troppo poco era morire per te,  
+Il più umile Greco poteva farlo.  
+Il vivere, Dolcezza, è più costoso —  
+Offro persino quello —  
+
+Il Morire, è un'inezia, passato,  
+Ma il vivere, questo include  
+Il morire moltiplicato — senza  
+La Tregua d'essere morti.

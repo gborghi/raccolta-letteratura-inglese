@@ -23,3 +23,16 @@ That beckoned it away!
 That licked it from the Coast —  
 Nor ever guessed the stately sails  
 My little craft was lost!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era una così piccola — piccola barca  
+che arrancava giù per la baia!  
+Era un così galante — galante [[Sea|mare]]  
+che via la chiamava con un cenno!  
+
+Era un'onda così avida, avida  
+che la leccò via dalla Costa —  
+né mai sospettarono le vele maestose  
+che il mio piccolo scafo era perduto!

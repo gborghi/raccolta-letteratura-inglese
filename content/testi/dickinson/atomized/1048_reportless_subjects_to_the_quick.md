@@ -23,3 +23,16 @@ Reportless Measures, to the Ear
 Susceptive — stimulus —  
 But like an Oriental Tale  
 To others, fabulous —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Soggetti senza resoconto, al Vivo  
+Di continuo rivolti —  
+Ma stranieri come il Dialetto  
+Dei Danesi, per tutti gli altri.  
+
+Misure senza resoconto, all'Orecchio  
+Suscettivo — stimolo —  
+Ma come un Racconto Orientale  
+Per gli altri, favolosi —

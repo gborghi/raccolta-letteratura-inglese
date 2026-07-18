@@ -28,3 +28,21 @@ Joyful — to whom the Sunrise
 Precedes Enamored — Day —  
 Joyful — for whom the Meadow Bird  
 Has ought but [[elegy|Elegy]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I Condannati — guardano l'Aurora  
+Con Delizia diversa —  
+Perché — quando di nuovo arderà lontano  
+[[Doubt|dubitano]] di vederla —  
+
+L'Uomo — che morrà — domani —  
+Tende l'orecchio all'Uccello del Prato —  
+Perché la sua Musica desta la Scure  
+Che reclama la sua testa —  
+
+Gioioso — colui per cui l'Aurora  
+Precede l'Innamorato — Giorno —  
+Gioioso — colui per cui l'Uccello del Prato  
+Ha tutt'altro che [[elegy|Elegia]]!

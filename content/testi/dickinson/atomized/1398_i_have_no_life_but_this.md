@@ -23,3 +23,16 @@ Nor tie to Earths to come —
 Nor Action new —  
 Except through this extent —  
 The Realm of you —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ho Vita se non questa —  
+Da condurla qui —  
+Né alcuna [[Death|Morte]] — se non l'essere  
+Dispersa di là —  
+
+Né legame a Terre a venire —  
+Né Azione nuova —  
+Se non attraverso questa distesa —  
+Il Regno di te —

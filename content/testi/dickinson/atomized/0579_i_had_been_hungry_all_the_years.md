@@ -38,3 +38,31 @@ Nor was I hungry — so I found
 That Hunger — was a way  
 Of Persons outside Windows —  
 The Entering — takes away —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Avevo avuto fame, tutti gli Anni —  
+Il mio [[Noon|Mezzogiorno]] era Giunto — per pranzare —  
+Tremando accostai la Tavola —  
+E toccai il Vino Curioso —  
+
+Era questo che sulle Tavole avevo visto —  
+Quando volgendomi, affamata, Sola  
+Guardavo nelle Finestre, la Ricchezza  
+Che non potevo [[Hope|sperare]] — di Possedere —  
+
+Non conoscevo il Pane abbondante —  
+Era così diverso dalla Briciola  
+Che gli [[Birds|Uccelli]] ed io, spesso avevamo diviso  
+Nella — Sala da Pranzo — della [[Nature|Natura]] —  
+
+L'Abbondanza mi ferì — era così nuova —  
+Mi sentii male — e strana —  
+Come Bacca — di un Cespuglio di Montagna —  
+Trapiantata — su una [[Road|Strada]] —  
+
+Né avevo fame — così scoprii  
+Che la Fame — era un modo  
+Delle Persone fuori dalle Finestre —  
+L'Entrare — la porta via —

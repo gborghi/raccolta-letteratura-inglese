@@ -22,3 +22,15 @@ Which while you taste so native seems
 So easy so to be  
 You cannot comprehend its price  
 Nor its infrequency
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I tuoi pensieri non hanno parole ogni giorno  
+Vengono una [[Time|volta]] sola  
+Come insigni sorsi esoterici  
+Del Vino della comunione  
+Che mentre lo gusti pare così nativo  
+Così facile a essere  
+Che non puoi comprenderne il prezzo  
+Né la sua infrequenza

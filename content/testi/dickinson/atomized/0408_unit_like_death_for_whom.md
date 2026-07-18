@@ -30,3 +30,23 @@ No Chatter — here — no tea —
 So Babbler, and Bohea — stay there —  
 But Gravity — and Expectation — and [[Fear]] —  
 A tremor just, that All's not sure.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Unità, come la [[Death|Morte]], per Chi?  
+Vera, come la Tomba,  
+Che non dice segreto  
+Detto a Lei —  
+La [[Grave|Fossa]] è rigorosa —  
+I Biglietti ammettono  
+Solo due — il Portatore —  
+E il Portato —  
+E posto — per Uno solo —  
+I Vivi — parlano —  
+I Morenti — solo una Sillaba —  
+I Ritrosi Morti — Nessuno —  
+Niente Chiacchiere — qui — niente tè —  
+Dunque Ciarliero, e Bohea — restate là —  
+Ma Gravità — e Attesa — e [[Fear|Paura]] —  
+Un tremito appena, che il Tutto non è certo.

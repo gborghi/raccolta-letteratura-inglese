@@ -23,3 +23,16 @@ I have another trust."
 The Spirit turns away,  
 Just laying off, for evidence,  
 An overcoat of clay.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Death|Morte]] è un dialogo fra  
+lo spirito e la [[Dust|polvere]].  
+"Dissolviti," dice la [[Death|Morte]].  Lo Spirito, "Signore,  
+io ho un'altra fiducia."  
+
+La [[Death|Morte]] ne dubita, argomenta dal suolo.  
+Lo Spirito si volge altrove,  
+Deponendo appena, per prova,  
+Un soprabito d'argilla.

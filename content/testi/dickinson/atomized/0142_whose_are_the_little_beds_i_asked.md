@@ -50,3 +50,43 @@ Then turning from them reverent —
 Their bedtime 'tis, she said —  
 The Bumble [[Bees|bees]] will wake them  
 When April woods are red.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di chi sono i piccoli letti, chiesi  
+Che giacciono nelle valli?  
+Alcuni scossero il capo, altri sorrisero —  
+E nessuno diede risposta.  
+
+Forse non hanno udito, dissi,  
+Domanderò di nuovo —  
+Di chi sono i letti — i letti minuscoli  
+Così fitti sulla piana?  
+
+È Margherita, nel più corto —  
+Un poco più oltre —  
+Più presso alla [[Door|porta]] — a destare il I° —  
+Il piccolo Leontoden.  
+
+È Iris, Signore, e Aster —  
+Anemone, e Campanula —  
+Bartsia, nella coperta rossa —  
+E la paffuta Giunchiglia.  
+
+Intanto, a molte culle  
+Il piede operoso ella moveva —  
+Canterellando la più bizzarra ninnananna  
+Che mai cullasse un [[Child|bimbo]].  
+
+Zitti! Epigea si desta!  
+Il Crocus muove le palpebre —  
+La guancia di Rhodora è cremisi,  
+Sta sognando i boschi!  
+
+Poi volgendosi da loro reverente —  
+149  
+
+È l'ora del loro sonno, disse —  
+Le [[Bees|api]] ronzanti li desteranno  
+Quando i boschi d'Aprile saranno rossi.

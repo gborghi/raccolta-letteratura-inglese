@@ -33,3 +33,26 @@ I, of a finer Famine
 Deem my Supper dry  
 For but a Berry of Domingo  
 And a Torrid Eye —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come il Maelstrom Affamato lambisce le Flotte  
+Come l'Avvoltoio provocato  
+Assale le Nidiate in Valli solitarie  
+Come la Tigre placata  
+
+Da una sola Briciola di [[Blood|Sangue]], digiuna Scarlatta  
+Finché non incontri un Uomo  
+Squisitamente adorno di Vene e Tessuti  
+E ne prende parte — la sua Lingua  
+
+Rinfrescata dal Boccone per un momento  
+Diventa cosa più feroce  
+Finché non stimi i suoi Datteri e il Cacao  
+Un Nutrimento misero  
+
+Io, di più fine Carestia  
+Giudico asciutta la mia Cena  
+Se non per una Bacca di Domingo  
+E un Occhio Torrido —

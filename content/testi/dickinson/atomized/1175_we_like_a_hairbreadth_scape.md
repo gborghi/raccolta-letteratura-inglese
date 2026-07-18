@@ -23,3 +23,16 @@ If we had ventured less
 The Breeze were not so fine  
 That reaches to our utmost Hair  
 Its Tentacles divine.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci piace uno scampo per un Pelo  
+Formicola nella Mente  
+Ben oltre l'Atto o l'Incidente  
+Come paragrafi di [[Wind|Vento]]  
+
+Se avessimo osato meno  
+La Brezza non sarebbe così fine  
+Che giunge al nostro Capello estremo  
+I suoi Tentacoli divini.

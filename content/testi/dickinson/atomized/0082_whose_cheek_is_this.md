@@ -25,3 +25,18 @@ Did cover such with [[Leaves|leaves]],
 But which the cheek —  
 And which the pall  
 My scrutiny deceives.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Di chi è questa guancia?  
+Quale viso di rosa  
+Ha perso oggi un rossore?  
+La trovai — "pleiade" — nei boschi  
+E la portai al sicuro.  
+
+I pettirossi, nella [[Tradition|tradizione]]  
+Ne coprivano di simili con [[Leaves|foglie]],  
+Ma quale la guancia —  
+E quale il drappo  
+Il mio scrutinio inganna.

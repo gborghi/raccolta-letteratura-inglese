@@ -38,3 +38,31 @@ Than Oars divide the Ocean,
 Too silver for a seam —  
 Or Butterflies, off Banks of [[Noon]]  
 Leap, splashless as they swim.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Uccello scese lungo il Sentiero —  
+Non sapeva che lo vedessi —  
+Spezzò in due metà un Lombrico  
+E se lo mangiò, crudo,  
+
+E poi bevve una [[Dew|Rugiada]]  
+Da un'Erba lì opportuna —  
+E poi saltellò di fianco al Muro  
+Per lasciar passare uno Scarabeo —  
+
+Guardò con occhi rapidi  
+Che correvano tutt'intorno —  
+Parevano Perline impaurite, pensai —  
+Mosse il suo Capo di Velluto  
+
+Come chi è in pericolo, Cauto,  
+Gli offrii una Briciola  
+E lui dispiegò le penne  
+E remò verso [[Home|casa]] più lieve —  
+
+Di quanto i Remi dividano l'Oceano,  
+Troppo argenteo per una cucitura —  
+O le Farfalle, giù dalle Rive del [[Noon|Mezzogiorno]]  
+Balzano, senza spruzzi mentre nuotano.

@@ -23,3 +23,16 @@ That fine Suspicion, Natures must
 Permitted to revere  
 Departed Standards and the few  
 Criterion Sources here
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Intraprendere è compiere  
+Sia l'Intraprendere fuso  
+Con fortitudine d'ostacolo  
+E verso incoraggiamento  
+
+Quel fine Sospetto, le Nature devono  
+Ammesse a riverire  
+Norme Dipartite e le poche  
+Fonti di Criterio qui

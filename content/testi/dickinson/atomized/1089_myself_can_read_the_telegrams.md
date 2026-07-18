@@ -23,3 +23,16 @@ The Weather — how the Rains
 In Counties have begun.  
 'Tis News as null as nothing,  
 But sweeter so — than none.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io stessa so leggere i Telegrammi  
+Una [[Letter|Lettera]] su tutto per me  
+L'ascesa delle Azioni e il Regresso  
+E ciò che dicono i Mercati  
+
+Il Tempo — come le Piogge  
+Nelle Contee son cominciate.  
+Son Notizie nulle come il niente,  
+Ma più dolci così — che nessuna.

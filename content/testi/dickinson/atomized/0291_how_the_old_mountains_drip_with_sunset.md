@@ -43,3 +43,36 @@ These are the Visions flitted Guido —
 Titian — never told —  
 Domenichino dropped his pencil —  
 Paralyzed, with Gold —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come le vecchie [[Mountains|Montagne]] grondano di Tramonto  
+Come le Tsughe ardono —  
+Come il Bruno Felceto è drappeggiato in Cenere  
+Dal [[Sun|Sole]] Stregone —  
+
+Come i vecchi Campanili porgono lo Scarlatto  
+Finché la Sfera è colma —  
+Ho io il labbro del Fenicottero  
+Da osare di dirlo?  
+
+Poi, come il [[Fire|Fuoco]] rifluisce come Flutti —  
+Sfiorando tutta l'Erba  
+Con un lineamento — di Zaffiro — che parte —  
+Come passata una Duchessa —  
+
+Come un piccolo Crepuscolo striscia sul Villaggio  
+Finché le Case si cancellano  
+E lo strano [[Flambeau]], che nessun uomo porta  
+Baluginano sulla Strada —  
+
+Com'è [[Night|Notte]] — in Nido e Canile —  
+E dove era il Bosco —  
+Solo una Cupola d'Abisso s'Inchina  
+Nella [[Solitude|Solitudine]] —  
+
+Queste sono le Visioni che sfiorarono Guido —  
+Tiziano — mai le disse —  
+Domenichino lasciò cadere la matita —  
+Paralizzato, dall'Oro —

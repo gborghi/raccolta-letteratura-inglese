@@ -22,3 +22,15 @@ The hand that paused to gather
 Upon this [[Summer]]'s day  
 Will idle lie — in Auburn —  
 Then take my [[Flowers|flowers]] — pray!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando le Rose cesseranno di fiorire, Signore,  
+E le Violette saranno finite —  
+Quando i Bombi in volo solenne  
+Saranno passati oltre il [[Sun]] —  
+La mano che indugiò a cogliere  
+In questo giorno d'[[Summer]]  
+Giacerà oziosa — in Auburn —  
+Allora prendi i miei [[Flowers|fiori]] — ti prego!

@@ -22,3 +22,15 @@ To go its convalescent way
 So shameless is to see  
 More genuine were Perfidy  
 Than such Fidelity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cuore guarito mostra la sua lieve cicatrice  
+Con gemito confidenziale —  
+Non risana la [[Mortality|Mortalità]]  
+Tessuti davvero lacerati —  
+Andarsene per la sua via convalescente  
+È così spudorato a vedersi  
+Più genuina sarebbe Perfidia  
+Di tale Fedeltà.

@@ -24,3 +24,17 @@ It's too Rouge —
 The Dead shall go in White —  
 So Sunset shuts my question down  
 With Cuffs of Chrysolite!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non può essere "[[Summer|Estate]]"!  
+Quella — è passata!  
+È presto — ancora — per la "[[spring|Primavera]]"!  
+C'è quella lunga città di Bianco — da [[Cross|attraversare]] —  
+Prima che i Merli cantino!  
+Non può essere "Morire"!  
+È troppo Rouge —  
+I Morti andranno in Bianco —  
+Così il Tramonto chiude la mia domanda  
+Con Polsini di Crisolito!

@@ -50,3 +50,43 @@ She squanders on your Ear
 Such Arguments of Pearl —  
 You beg the Robin in your Brain  
 To keep the other — still —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La riconoscerai — dal Piede —  
+La più piccola Mano di Gomma-gutta  
+Con Dita — dove le Dita del piede dovrebbero stare —  
+Offenderebbe di più la Sabbia —  
+
+Che lo Stivaletto di questa Strana Creatura —  
+Aggiustato da una Poppa —  
+Senza Bottone — potrei giurarlo —  
+Sopra un Arto di Velluto —  
+
+La riconoscerai — dal Panciotto —  
+Attillato — Arancio — Bruno —  
+Dentro una Giacca più spenta —  
+Che indossava quando nacque —  
+
+Il suo Berretto è piccolo — e aderente —  
+Costruito per i Venti —  
+Passerebbe per Scapigliata — da poco lontano —  
+Ma quando Lei più Vicina sta —  
+
+Tanto più fine è della Lana —  
+Che non ne senti la Cucitura —  
+Né è Allacciato a un Nastro —  
+Né sorretto — da una Tesa —  
+
+La riconoscerai — dalla Voce —  
+Dapprima — un Tono incerto —  
+Un dolce tentativo — ma come Marzo  
+Ad Aprile — s'affretta —  
+
+Lei prodiga al tuo Orecchio  
+668  
+
+Tali Argomenti di Perla —  
+Che preghi il Pettirosso nel tuo Cervello  
+Di tenere l'altro — zitto —

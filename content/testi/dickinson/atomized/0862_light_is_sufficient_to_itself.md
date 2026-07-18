@@ -23,3 +23,16 @@ But not for Compensation —
 It holds as large a Glow  
 To Squirrel in the Himmaleh  
 Precisely, as to you.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Luce basta a se stessa —  
+Se Altri vogliono vedere  
+La si può avere sui Vetri delle [[Window|Finestre]]  
+Certe Ore del Giorno.  
+
+Ma non per Compenso —  
+Serba un Bagliore altrettanto grande  
+Per lo Scoiattolo sull'Himmaleh  
+Esattamente, come per te.

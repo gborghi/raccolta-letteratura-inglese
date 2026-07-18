@@ -23,3 +23,16 @@ Secure against its own —
 No treason it can [[Fear|fear]] —  
 Itself — its Sovereign — of itself  
 The [[Soul]] should stand in Awe —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'[[Soul|Anima]] a se stessa  
+È un'amica imperiale —  
+O la più straziante Spia —  
+Che un Nemico — possa inviare —  
+
+Sicura contro i suoi —  
+Nessun tradimento può [[Fear|temere]] —  
+Se stessa — suo Sovrano — di se stessa  
+L'[[Soul|Anima]] dovrebbe stare in Soggezione —

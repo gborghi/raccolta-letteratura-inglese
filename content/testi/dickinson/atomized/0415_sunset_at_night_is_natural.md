@@ -23,3 +23,16 @@ Eclipses be — predicted —
 And Science bows them in —  
 But do one face us suddenly —  
 [[Jehovah]]'s Watch — is wrong.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tramonto di [[Night|Notte]] — è naturale —  
+Ma Tramonto sull'[[Dawn|Alba]]  
+Rovescia la [[Nature|Natura]] — Maestro —  
+Così Mezzanotte — è dovuta — a [[Noon|Mezzogiorno]].  
+
+Le Eclissi sono — predette —  
+E la Scienza le accoglie con inchino —  
+Ma ne affronti una all'improvviso —  
+L'Orologio di [[Jehovah|Geova]] — è sbagliato.

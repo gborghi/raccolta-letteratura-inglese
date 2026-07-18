@@ -23,3 +23,16 @@ Afterward — in the Meadow —
 Swinging her Beryl Bell —  
 The Mold-life — all forgotten — now —  
 In Ecstasy — and Dell —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Attraverso la Zolla Scura — come [[Education|Educazione]] —  
+Il Giglio passa sicuro —  
+Sente il suo bianco piede — nessuna trepidazione —  
+La sua [[Faith|fede]] — nessuna [[Fear|paura]] —  
+
+Dopo — nel Prato —  
+Dondolando la sua Campana di Berillo —  
+La vita nella Muffa — tutta dimenticata — ora —  
+In Estasi — e Valle —

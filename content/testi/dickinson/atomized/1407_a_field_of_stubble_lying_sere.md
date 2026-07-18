@@ -22,3 +22,15 @@ Accosted by a timid Bird
 Irresolute of Alms —  
 Is often seen — but seldom felt,  
 On our [[New England]] Farms —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Campo di Stoppie, disteso arido  
+Sotto il secondo [[Sun|Sole]] —  
+Le sue Fatiche gettate a Gente Screziata —  
+I suoi Trionfi — al Bidone —  
+Accostato da un timido Uccello  
+Irresoluto d'Elemosina —  
+Si vede spesso — ma di rado si sente,  
+Nelle nostre Fattorie del [[New England]] —

@@ -23,3 +23,16 @@ Her favor — is the best Disdain
 Toward Artifice of [[Time]] — or Men —  
 But Her Disdain — 'twere lighter bear  
 A finger of Enamelled [[Fire]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Mia [[Soul|Anima]] — mi accusò — E io tremai —  
+Come Lingua di Diamante avesse oltraggiato  
+Tutto il resto mi accusò — e io sorrisi —  
+La Mia [[Soul|Anima]] — quel Mattino — era la Mia amica —  
+
+Il Suo favore — è il miglior Disdegno  
+Verso l'Artificio del [[Time|Tempo]] — o degli Uomini —  
+Ma il Suo Disdegno — più lieve sarebbe reggere  
+Un dito di [[Fire|Fuoco]] Smaltato —

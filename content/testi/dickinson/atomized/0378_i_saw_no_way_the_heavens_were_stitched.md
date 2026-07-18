@@ -25,3 +25,18 @@ And back it slid — and I [[Alone|alone]] —
 A Speck upon a Ball —  
 Went out upon Circumference —  
 Beyond the Dip of Bell —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Non vedevo Via — I Cieli erano cuciti —  
+Sentii le Colonne serrarsi —  
+La Terra invertì i suoi Emisferi —  
+Toccai l'Universo —  
+
+E indietro scivolò — e io [[Alone|sola]] —  
+Un Puntino sopra una Sfera —  
+Uscii sulla Circonferenza —  
+Oltre il Rintocco di Campana —

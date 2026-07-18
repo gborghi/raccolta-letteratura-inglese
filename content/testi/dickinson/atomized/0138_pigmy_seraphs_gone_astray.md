@@ -32,3 +32,25 @@ I had rather dwell like her
 Than be "[[Duke of Exeter]]" —  
 Royalty enough for me  
 To subdue the Bumblebee.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Pigmei serafini — smarriti —  
+Gente di velluto da Vevay —  
+Belle di qualche perduto giorno d'[[Summer|estate]] —  
+Esclusiva Consorteria delle [[Bees|Api]] —  
+[[Paris|Parigi]] non saprebbe disporre la piega  
+Cinta giù di Smeraldo —  
+[[Venice|Venezia]] non saprebbe esibire una stoffa  
+Di tinta così lucente e mite —  
+Mai una tale Imboscata  
+Quale di rovo e foglia schierata  
+Per la mia piccola damigella di damasco —  
+
+Preferirei indossare la sua grazia  
+Che il volto distinto di un Conte —  
+Preferirei dimorare come lei  
+Che essere "[[Duke of Exeter|Duca di Exeter]]" —  
+Regalità che a me basta  
+Il soggiogare il Bombo.

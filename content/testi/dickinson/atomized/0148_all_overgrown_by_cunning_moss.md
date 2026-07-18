@@ -28,3 +28,21 @@ Soft fall the sounds of Eden
 Upon her puzzled ear —  
 Oh what an afternoon for Heaven,  
 When "Bronte" entered there!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tutta ricoperta di muschio astuto,  
+Tutta cosparsa d'erbacce,  
+La piccola gabbia di "Currer Bell"  
+Nella quieta "Haworth" posata.  
+
+Raccolta da molti vagabondaggi —  
+Il Getsemani può dire  
+Per quale estatica angoscia  
+Ella giunse all'Asfodelo!  
+
+Lievi cadono i suoni dell'Eden  
+Sul suo orecchio perplesso —  
+Oh che pomeriggio per il Cielo,  
+Quando "Bronte" vi entrò!

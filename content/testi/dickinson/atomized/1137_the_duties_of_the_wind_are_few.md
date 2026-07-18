@@ -33,3 +33,26 @@ The limitations of the [[Wind]]
 Do he exist, or die,  
 Too wise he seems for Wakelessness,  
 However, know not i.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I doveri del [[Wind|Vento]] son pochi,  
+Gettare le navi, in [[Sea|Mare]],  
+Fondare Marzo, scortare le Piene,  
+E annunciare la [[Liberty|Libertà]].  
+
+I piaceri del [[Wind|Vento]] son vasti,  
+Dimorare in mezzo all'Estensione,  
+Restare, o vagare,  
+Speculare, o intrattenere Foreste.  
+
+I congiunti del [[Wind|Vento]] son Vette  
+Azof — l'Equinozio,  
+E con Uccello e Asteroide  
+Un commercio d'inchini.  
+
+I limiti del [[Wind|Vento]]  
+Ch'egli esista, o muoia,  
+Troppo saggio pare per il Non-risveglio,  
+Comunque, non so io.

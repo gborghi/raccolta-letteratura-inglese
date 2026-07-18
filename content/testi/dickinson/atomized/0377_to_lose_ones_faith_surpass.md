@@ -23,3 +23,16 @@ Inherited with Life —
 Belief — but once — can be —  
 Annihilate a single clause —  
 And Being's — Beggary —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perdere la propria [[Faith|fede]] — supera  
+La perdita di un Patrimonio —  
+Perché i Patrimoni si possono  
+Ricostituire — la [[Faith|fede]] no —  
+
+Ereditata con la Vita —  
+La Credenza — una volta sola — può darsi —  
+Annientane una sola clausola —  
+E dell'Essere è — Mendicità —

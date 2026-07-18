@@ -23,3 +23,16 @@ To His exclusion, who prepare
 By Processes of Size  
 For the Stupendous Vision  
 Of his diameters —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Time|Tempo]] pare sì vasto che se non fosse  
+Per un'[[Eternity|Eternità]] —  
+[[Fear|temo]] che questa Circonferenza  
+Assorba la mia Finitezza —  
+
+A esclusione di Lui, che prepara  
+Con Processi di Grandezza  
+Alla Stupenda Visione  
+Dei suoi diametri —

@@ -27,3 +27,20 @@ We nearer steal to Thee, —
 Enamoured of the parting west,  
 The peace, the flight, the amethyst,  
 [[Night]]'s possibility !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La margherita segue dolce il [[Sun|sole]],  
+e quando il suo aureo cammino è compiuto,  
+siede timida ai suoi piedi.  
+Lui, camminando, trova il fiore vicino.  
+"Perché, predone, sei tu qui ?  
+"Perché, signore, l'[[Love|amore]] è dolce !"  
+
+Noi siamo il fiore, Tu il [[Sun|sole]] !  
+Perdonaci, se al declinar dei giorni,  
+più vicino a Te ci rubiamo, —  
+Innamorati dell'occidente che si congeda,  
+la pace, il volo, l'ametista,  
+la possibilità della [[Night]] !

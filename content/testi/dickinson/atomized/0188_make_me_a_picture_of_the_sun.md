@@ -30,3 +30,23 @@ Or Butterflies — that "bloom"?
 Then — skip — the [[Frost|frost]] — upon the lea —  
 And skip the Russet — on the [[Tree|tree]] —  
 Let's play those — never come!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fammi un ritratto del [[Sun|sole]] —  
+Così potrò appenderlo in camera —  
+E fingere di scaldarmi  
+Quando gli altri lo chiamano "Giorno"!  
+
+Disegnami un Pettirosso — su uno stelo —  
+Così, per sentirlo, sognerò,  
+E quando i Frutteti cessano il loro canto —  
+Metti via — la mia finzione —  
+
+Dimmi se davvero — fa caldo a [[Noon|mezzogiorno]] —  
+Se sono i Ranuncoli — che "sfiorano" —  
+O le Farfalle — che "fioriscono"?  
+Poi — salta — il [[Frost|gelo]] — sul prato —  
+E salta la Ruggine — sull'[[Tree|albero]] —  
+Giochiamo che quelli — non vengano mai!

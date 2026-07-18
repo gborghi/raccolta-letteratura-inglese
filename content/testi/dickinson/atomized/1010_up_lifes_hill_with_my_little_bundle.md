@@ -23,3 +23,16 @@ Older feel than the [[Hope]] that prompted —
 Spotless be from blame  
 Heart that proposed as Heart that accepted  
 Homelessness, for [[Home]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su per il [[Hill|Colle]] della Vita col mio piccolo Fardello  
+Se lo trovo ripido —  
+Se uno Scoraggiamento mi trattiene —  
+Se il mio passo più nuovo  
+
+Si sente più vecchio della [[Hope|Speranza]] che lo spinse —  
+Immacolato sia da biasimo  
+Il Cuore che propose come il Cuore che accettò  
+L'esser senza Dimora, per [[Home|Dimora]] —

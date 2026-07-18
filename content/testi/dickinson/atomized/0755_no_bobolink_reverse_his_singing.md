@@ -25,3 +25,18 @@ Best Horizon — gone —
 Whose Music be His  
 Only Anodyne —  
 Brave Bobolink —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessun Bobolink — inverte il Suo Canto  
+Quando l'unico [[Tree|Albero]]  
+Che mai gli premesse occupare  
+Dal Contadino sia —  
+
+Spaccato fino alla Radice —  
+Il Suo Spazioso Futuro —  
+Miglior Orizzonte — perduto —  
+Lui la cui Musica sia il Suo  
+Unico Anodino —  
+Coraggioso Bobolink —

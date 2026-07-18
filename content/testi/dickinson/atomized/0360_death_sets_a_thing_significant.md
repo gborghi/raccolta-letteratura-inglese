@@ -38,3 +38,31 @@ Now — when I read — I read not —
 For interrupting [[Tears]] —  
 Obliterate the Etchings  
 Too Costly for Repairs.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Death|Morte]] rende una Cosa significante  
+Davanti a cui l'Occhio era corso via  
+Se una Creatura perita non  
+Ci pregasse teneramente  
+
+Di ponderare piccoli Lavori  
+A Pastello, o in Lana,  
+Con "Questo fu l'ultimo delle Sue dita" —  
+Industriosa finché —  
+
+Il Ditale pesò troppo —  
+I punti si fermarono — da soli —  
+E allora fu riposto tra la [[Dust|Polvere]]  
+Sugli scaffali dell'Armadio —  
+
+Un Libro ho — lo diede un amico —  
+La cui Matita — qua e là —  
+Aveva segnato il passo che Gli piacque —  
+In Riposo — sono le Sue dita —  
+
+Ora — quando leggo — non leggo —  
+Perché [[Tears|Lacrime]] che interrompono  
+Cancellano le Incisioni  
+Troppo Costose da Riparare.

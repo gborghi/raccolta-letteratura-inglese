@@ -35,3 +35,28 @@ Nods from the Seconds slim —
 Decades of Arrogance between  
 The Dial life —  
 And Him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un [[Clock|Orologio]] si fermò —  
+Non quello della Mensola —  
+L'arte più remota di Ginevra  
+Non può far inchinare il burattino —  
+Che or ora penzolava immoto —  
+
+Uno sgomento colse il Gingillo!  
+Le Figure si curvarono, di [[Pain|pena]] —  
+Poi tremando uscirono dai Decimali —  
+Nel [[Noon|Mezzogiorno]] senza Gradi —  
+
+Non si muoverà per i Dottori —  
+Questo Pendolo di [[Snow|neve]] —  
+Il Bottegaio lo importuna —  
+Mentre freddo — incurante No —  
+
+Annuisce dalle lancette Dorate —  
+Annuisce dai Secondi sottili —  
+Decenni d'Arroganza tra  
+La vita del Quadrante —  
+E Lui —

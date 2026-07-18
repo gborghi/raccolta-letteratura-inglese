@@ -41,3 +41,34 @@ In meek array — display you —
 Still to show — how rich I go —  
 Lest Skies impeach a wealth so wonderful —  
 And banish me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Afferrerò — e afferrerò —  
+La prossima — Volta — Potrebbe essere il tocco d'oro —  
+Potrebbe prenderlo —  
+Diamanti — Aspettate —  
+Mi tuffo — solo un poco in ritardo —  
+Ma le [[Stars|stelle]] — vanno piano — per la [[Night|notte]] —  
+
+Vi infilerò — in fine Collana —  
+Tiare — farò — di alcuni —  
+Vi porterò sull'Orlo —  
+Allaccerò una Contessa — con voi —  
+Farò — un Diadema — e rammendo il mio Vecchio —  
+Conterò — Ammasserò — poi perderò —  
+E [[Doubt|dubiterò]] che siate miei —  
+Per avere la [[Joy|gioia]] di sentirlo — ancora —  
+
+Vi mostrerò alla [[Court]] —  
+Vi porterò — come Ornamento  
+Dove le Donne respirano —  
+Che ogni sospiro — vi sollevi  
+Alto — quanto me —  
+
+E — quando morirò —  
+In umile assetto — vi esporrò —  
+Ancora a mostrare — quanto ricca vado —  
+Che i Cieli non accusino ricchezza sì mirabile —  
+E non mi bandiscano —

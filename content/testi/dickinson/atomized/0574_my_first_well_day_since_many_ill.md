@@ -50,3 +50,43 @@ My loss, by sickness — Was it Loss?
 Or that Ethereal Gain  
 One earns by measuring the [[Grave]] —  
 Then — measuring the [[Sun]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio primo Giorno [[Well|sano]] — dopo tanti infermi —  
+Chiesi di uscire all'aperto,  
+E prendere il Sole fra le mani,  
+E vedere le cose in Baccello —  
+
+Un 'bocciolo proprio quando entrai  
+A tentare la Sorte col [[Pain|dolore]] —  
+Incerta se io stessa, o Lui,  
+Si sarebbe mostrato il più Forte.  
+
+L'[[Summer|Estate]] si fece fonda, mentre lottavamo —  
+Lei ripose alcuni [[Flowers|fiori]] —  
+E Altri dalle gote più Rosse — al loro posto —  
+Un modo tenero — illusorio —  
+
+D'ingannare Se stessa, pareva tentasse —  
+Come se davanti a un [[Child|bimbo]]  
+Che sfiorirà — Domani — Arcobaleni tesi  
+Potessero il Sepolcro, celare.  
+
+Diede una foggia alla Noce —  
+Legò i Cappucci ai Semi —  
+Sparse intorno vividi ritagli di Tinta —  
+E lasciò Fili del Brasile  
+
+Su ogni spalla che incontrava —  
+Poi entrambe le sue Mani di Foschia  
+Levò — a celare la sua Grazia d'addio  
+Ai nostri occhi inadatti.  
+
+La mia perdita, per malattia — Fu Perdita?  
+602  
+
+O quel Guadagno Etereo  
+Che si merita misurando la [[Grave|Tomba]] —  
+Poi — misurando il [[Sun|Sole]] —

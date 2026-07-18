@@ -24,3 +24,17 @@ All His East
 He — sovereign as the [[Sun]]  
 Resituated in the West  
 And the [[debate|Debate]] was done.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Disse la [[Death|Morte]] alla Passione  
+"Dammi del tuo un Acro."  
+Disse la Passione, tra Respiri contratti  
+"Mille Volte a Te No."  
+
+Tolse la [[Death|Morte]] alla Passione  
+Tutto il Suo Oriente  
+Lui — sovrano come il [[Sun|Sole]]  
+Si ristabilì a Occidente  
+E il [[debate|Dibattito]] fu concluso.

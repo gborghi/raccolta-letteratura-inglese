@@ -23,3 +23,16 @@ The last — a scanty Number —
 'Twould scarcely fill a Two —  
 The first — a Gnat's Horizon  
 Could easily outgrow —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conosco vite, di cui farei a meno  
+Senza una Sofferenza —  
+Altre — la cui mancanza d'un istante —  
+Sarebbe [[Eternity]] —  
+
+Le ultime — un Numero scarso —  
+A stento riempirebbero un Due —  
+Le prime — l'Orizzonte d'un Moscerino  
+Potrebbe facilmente oltrepassare —

@@ -28,3 +28,21 @@ Never to pass the Angel
 With a glance and a Bow  
 Till I am firm in Heaven  
 Is my intention now.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Nuvola si ritirò dal Cielo  
+Superiore Gloria sia  
+Ma quella Nuvola e le sue Ausiliarie  
+Sono per sempre perdute per me  
+
+Avessi solo scrutato oltre  
+Avessi fissato il Bagliore  
+In un'Ermetica [[Memory|Memoria]]  
+Mi gioverebbe ora.  
+
+Mai più passare oltre l'Angelo  
+Con un'occhiata e un Inchino  
+Finché non sia salda in Cielo  
+È il mio proposito ora.

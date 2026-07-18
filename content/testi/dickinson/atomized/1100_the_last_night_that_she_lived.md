@@ -42,3 +42,35 @@ And we, we placed the hair,
 And drew the head erect;  
 And then an awful leisure was,  
 Our [[Faith|faith]] to regulate.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'ultima [[Night|notte]] che lei visse,  
+Fu una [[Night|notte]] comune,  
+Se non per il morire; questo a noi  
+Rese diversa la [[Nature|natura]].  
+
+Notammo le cose più piccole, —  
+Cose prima trascurate,  
+Da questa gran luce sulle nostre menti  
+Poste in corsivo, per così dire.  
+
+Che altri potessero esistere  
+Mentre lei doveva del tutto finire,  
+Sorse per lei una [[Jealousy|gelosia]]  
+Quasi infinita.  
+
+Aspettammo mentre lei passava;  
+Fu un [[Time|tempo]] angusto,  
+Troppo urtate le nostre anime per parlare,  
+Infine giunse l'annuncio.  
+Lei accennò, e dimenticò;  
+Poi lieve come un giunco  
+Piegato all'[[Water|acqua]], rabbrividì appena,  
+Acconsentì, e fu morta.  
+
+E noi, noi componemmo i capelli,  
+E sollevammo eretto il capo;  
+E poi vi fu un ozio tremendo,  
+La nostra [[Faith|fede]] da regolare.

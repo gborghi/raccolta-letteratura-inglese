@@ -29,3 +29,22 @@ Such trust had one among us,
 Among us not today —  
 We who saw the launching  
 Never sailed the Bay!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poteva vivere — visse —  
+Poteva morire — morì —  
+Poteva sorridere sul tutto  
+Per [[Faith|fede]] in uno che non incontrò,  
+A cui presentare la sua [[Soul|anima]].  
+
+Poteva andare da scena familiare  
+A un luogo mai percorso —  
+Poteva contemplare il [[Journey|viaggio]]  
+Con cuore non perplesso —  
+
+Tale fiducia ebbe uno fra noi,  
+Fra noi non oggi —  
+Noi che vedemmo il varo  
+Mai salpammo la Baia!

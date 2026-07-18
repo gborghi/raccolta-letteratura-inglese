@@ -23,3 +23,16 @@ But intimate Delight.
 Retired, and resumed his transitive Estate —  
 To what delicious Accident  
 Does finest Glory fit!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Uccello più trionfante che mai conobbi o incontrai  
+S'imbarcò oggi sopra un ramoscello  
+E finché il Dominio tramontò  
+Bramavo di contemplare vista così eminente  
+E cantò per nulla di scrutabile  
+Se non intima Delizia.  
+Si ritirò, e riprese il suo transitivo Stato —  
+A quale delizioso Accidente  
+S'addice la Gloria più fina!

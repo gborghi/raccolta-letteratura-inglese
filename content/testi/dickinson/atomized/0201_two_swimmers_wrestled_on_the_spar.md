@@ -23,3 +23,16 @@ The stray ships passing spied a face
 Upon the waters borne,  
 With eyes in [[Death|death]] still begging raised,  
 And hands beseeching thrown.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Due nuotatori lottarono sul pennone  
+Fino al [[Sun|sole]] del mattino,  
+Quando uno si volse sorridendo a riva.  
+O [[God|Dio]], l'altro !  
+
+Le navi erranti passando scorsero un volto  
+Portato sulle acque,  
+Con occhi levati che in [[Death|morte]] ancora imploravano,  
+E mani gettate in supplica.

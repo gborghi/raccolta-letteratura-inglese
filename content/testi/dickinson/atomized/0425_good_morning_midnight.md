@@ -33,3 +33,26 @@ You — are not so fair — Midnight —
 I chose — Day —  
 But — please take a little Girl —  
 He turned away!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Buongiorno — Mezzanotte —  
+Sto tornando a [[Home]] —  
+Il Giorno — si è stancato di Me —  
+Come potevo Io — di Lui?
+
+Il Sole era un dolce luogo —  
+Mi piaceva restare —  
+Ma il Mattino — non mi voleva — ora —  
+Così — Buonanotte — Giorno!
+
+Posso guardare — non posso? —  
+Quando l'Est è Rosso?  
+Le Colline — hanno un modo — allora —  
+Che manda il Cuore — lontano —
+
+Tu — non sei così bella — Mezzanotte —  
+Io scelsi — il Giorno —  
+Ma — ti prego accogli una piccola Bimba —  
+Lui si è voltato via!

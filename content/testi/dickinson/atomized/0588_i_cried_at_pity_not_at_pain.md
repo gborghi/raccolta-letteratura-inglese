@@ -43,3 +43,36 @@ She's "sorry I am dead" — again —
 Just when the [[Grave]] and I —  
 Have sobbed ourselves almost to [[Sleep|sleep]],  
 Our only Lullaby —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Piansi per la Pietà — non per il [[Pain|Dolore]] —  
+Udii una Donna dire  
+"Povera [[Child|Bimba]]" — e qualcosa nella sua voce  
+Mi convinse colpevole — di me —  
+
+Così a lungo venni meno, a me stessa  
+Che pareva la via comune,  
+E Salute, e Riso, cose Curiose —  
+Da guardare, come un Balocco —  
+
+Udire talvolta che i "Ricchi" comprano  
+E vedere il Pacco avvolto —  
+E portato, supponevo — in Cielo,  
+Per bambini, fatti d'Oro —  
+
+Ma non da toccare, o desiderare,  
+O pensare, con un sospiro —  
+E questo e quello — sarebbe stato mio,  
+Avesse [[God|Dio]] voluto altrimenti.  
+
+Vorrei sapere il nome di quella Donna —  
+Così quando passa da queste parti,  
+Da trattenere la mia vita, e tapparmi le orecchie  
+Per [[Fear|paura]] di udirla dire  
+
+Che è "spiacente che io sia morta" — di nuovo —  
+Proprio quando la [[Grave|Tomba]] ed io —  
+Ci siamo singhiozzate quasi fino al [[Sleep|sonno]],  
+Nostra unica Ninnananna —

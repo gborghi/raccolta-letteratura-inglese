@@ -44,3 +44,37 @@ Of Tassels — and of Coaches — soon —
 It's easy as a Sign —  
 The Intuition of the News —  
 In just a Country Town —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'è stata una [[Death|Morte]], nella [[house|Casa]] di Fronte,  
+Non più tardi di Oggi —  
+Lo so, dallo sguardo intorpidito  
+Che tali Case hanno — sempre —  
+
+I Vicini frusciano dentro e fuori —  
+Il Dottore — riparte in carrozza —  
+Una [[Window|Finestra]] si apre come un Baccello —  
+Brusca — meccanicamente —  
+
+Qualcuno scaglia fuori un Materasso —  
+I Bambini passano in fretta —  
+Si [[Wonder|chiedono]] se è morto — lì sopra —  
+Lo facevo anch'io — da Ragazzo —  
+
+Il Ministro — entra rigido —  
+Come se la [[house|Casa]] fosse Sua —  
+E possedesse tutti i Dolenti — ora —  
+E i Ragazzini — per giunta —  
+
+E poi la Modista — e l'Uomo  
+Del Mestiere Spaventoso —  
+A prendere la misura della [[house|Casa]] —  
+
+Ci sarà quella Scura Parata —  
+
+Di Nappe — e di Carrozze — presto —  
+È facile come un Segno —  
+L'Intuizione della Notizia —  
+In una semplice Cittadina di Campagna —

@@ -41,3 +41,34 @@ In bright detachment stand!
 Behold! Whose Multitudes are these?  
 The children of whose turbaned seas —  
 Or what Circassian Land?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Qualche Arcobaleno — che viene dalla Fiera!  
+Qualche Visione del Mondo Cashmere —  
+Con fiducia vedo!  
+Oppure d'un Pavone la purpurea Coda  
+Piuma su piuma — sulla piana  
+Si sperpera via!  
+
+Le sognanti Farfalle si destano!  
+Stagni letargici riprendono il frullo  
+Della spezzata melodia dell'anno scorso!  
+Da qualche vecchia Fortezza sul [[Sun|sole]]  
+Baronali [[Bees]] — marciano — una a una —  
+In mormorante plotone!  
+
+I Pettirossi stanno fitti oggi  
+Come fiocchi di [[Snow|neve]] stavano ieri —  
+Su steccato — e Tetto — e Ramoscello!  
+L'Orchidea si allaccia la piuma  
+Per il suo vecchio [[Lover|amante]] - Don il [[Sun]]!  
+Che rivisita la Palude!  
+
+Senza Comandante! Innumerevoli! Immoti!  
+I Reggimenti di Bosco e [[Hill]]  
+In luminoso distaccamento stanno!  
+Guardate! Di chi sono queste Moltitudini?  
+I figli di quali mari turbantati —  
+O di quale Terra Circassa?

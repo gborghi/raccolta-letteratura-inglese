@@ -33,3 +33,26 @@ In Cups of artificial Drowse
 To steep its shape away —  
 The [[Grave]] — was finished — but the Spade  
 Remained in [[Memory]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Orbata di tutto, andai lontano —  
+Non meno orbata fui  
+Sopra una Nuova Penisola —  
+La [[Grave|Tomba]] mi precedeva —  
+
+Ottenne il mio Alloggio, prima di me —  
+E quando cercai il mio Letto —  
+La [[Grave|Tomba]] era adagiata  
+Sul Guanciale per il mio Capo —  
+
+Mi destai e la trovai già desta —  
+Mi [[Rose|alzai]] — Essa mi seguì —  
+Tentai di perderla tra la Folla —  
+Di smarrirla nel [[Sea|Mare]] —  
+
+In Coppe di Sopore artificiale  
+Di macerarne via la forma —  
+La [[Grave|Tomba]] — era compiuta — ma la Vanga  
+Restò nella [[Memory|Memoria]] —

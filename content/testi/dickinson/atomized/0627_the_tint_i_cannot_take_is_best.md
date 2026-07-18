@@ -43,3 +43,36 @@ Their Graspless manners — mock us —
 Until the Cheated Eye  
 Shuts arrogantly — in the [[Grave]] —  
 Another way — to see —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Tinta che non posso cogliere — è la migliore —  
+Il Colore troppo remoto  
+Perché io possa mostrarlo al Bazar —  
+Una Ghinea per uno sguardo —  
+
+La fine — impalpabile Schiera —  
+Che sfila superba sull'occhio  
+Come la Compagnia di [[Cleopatra]] —  
+Ripetuta — nel cielo —  
+
+I Momenti di Dominio  
+Che accadono all'[[Soul|Anima]]  
+E la lasciano con uno Scontento  
+Troppo squisito — da dire —  
+
+Lo sguardo bramoso — sui Paesaggi —  
+Come se avessero appena represso  
+Qualche Segreto — che premeva  
+Come Carri — nel Panciotto —  
+
+L'Implorare dell'[[Summer|Estate]] —  
+Quell'altra Burla — della [[Snow|Neve]] —  
+Che Imbottisce il Mistero di Tulle,  
+Per [[Fear|timore]] che gli Scoiattoli — sappiano.  
+
+I loro modi Inafferrabili — ci scherniscono —  
+Finché l'Occhio Ingannato  
+Non si chiude arrogante — nella [[Grave|Tomba]] —  
+Un altro modo — di vedere —

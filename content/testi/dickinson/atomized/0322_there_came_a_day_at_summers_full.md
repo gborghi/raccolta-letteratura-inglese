@@ -50,3 +50,43 @@ Sufficient troth, that we shall rise —
 Deposed — at length, the [[Grave]] —  
 To that new [[Marriage]],  
 Justified — through Calvaries of [[Love]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Venne un Giorno nel pieno dell'[[Summer]],  
+Interamente per me —  
+Pensavo che tali fossero per i Santi,  
+Dove le Resurrezioni — sono —  
+
+Il [[Sun]], come sempre, uscì per il mondo,  
+I [[Flowers|fiori]], avvezzi, sbocciarono,  
+Come se nessuna [[Soul|anima]] passasse il solstizio  
+Che fa nuove tutte le cose —  
+
+Il [[Time|tempo]] fu appena profanato, dalla parola —  
+Il simbolo di un verbo  
+Era superfluo, come al Sacramento,  
+Il Guardaroba — del Signore nostro —  
+
+Ognuno era per l'altro La Chiesa Sigillata,  
+Concesso di comunicare questa — [[Time|volta]] —  
+Perché non sembrassimo troppo goffi  
+Alla Cena del [[Lamb]].  
+
+Le Ore scivolarono rapide — come fanno le Ore,  
+Strette forte, da mani avide —  
+Così visi su due Ponti, guardano indietro,  
+Diretti a terre opposte —  
+
+E così quando tutto il [[Time|tempo]] fu colato via,  
+Senza suono esterno  
+Ognuno legò il Crocifisso dell'Altro —  
+Non demmo altro Pegno —  
+
+Fede sufficiente, che risorgeremo —  
+337  
+
+Deposta — alfine, la [[Grave]] —  
+A quel nuovo [[Marriage]],  
+Giustificati — attraverso Calvari d'[[Love]] —

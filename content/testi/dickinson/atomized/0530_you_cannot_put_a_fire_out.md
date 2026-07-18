@@ -23,3 +23,16 @@ You cannot fold a Flood —
 And put it in a Drawer —  
 Because the Winds would find it out —  
 And tell your Cedar Floor —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non si può spegnere un [[Fire|Fuoco]] —  
+Una Cosa che sa accendersi  
+Può andare, da sé, senza Ventaglio —  
+Nella più lenta [[Night|Notte]] —  
+
+Non si può piegare un Diluvio —  
+E riporlo in un Cassetto —  
+Perché i Venti lo scoprirebbero —  
+E lo direbbero al tuo Pavimento di Cedro —

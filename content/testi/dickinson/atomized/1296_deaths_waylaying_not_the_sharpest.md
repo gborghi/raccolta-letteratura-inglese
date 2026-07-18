@@ -22,3 +22,15 @@ No Assault, nor any Menace
 Doth betoken him.  
 But from Life's consummate Cluster —  
 He supplants the Balm.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Agguato della [[Death|Morte]] non è il più affilato  
+Dei furti del [[Time|Tempo]] —  
+Lì saccheggia un Ladro più crudele,  
+[[Silence|Silenzio]] — è il suo nome —  
+Nessun Assalto, né alcuna Minaccia  
+Lo preannuncia.  
+Ma dal Grappolo compiuto della Vita —  
+Egli soppianta il Balsamo.

@@ -23,3 +23,16 @@ Angels when the [[Sun|sun]] is hottest
 May be seen the sands among,  
 Stooping, plucking, sighing, flying ;  
 Parched the [[Flowers|flowers]] they bear along.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Angeli nel primo mattino  
+Si posson vedere fra le rugiade,  
+Chini, coglienti, sorridenti, in volo :  
+Appartengono a loro i boccioli ?  
+
+Angeli quando il [[Sun|sole]] è più ardente  
+Si posson vedere fra le sabbie,  
+Chini, coglienti, sospiranti, in volo ;  
+Riarsi i [[Flowers|fiori]] che portano con sé.

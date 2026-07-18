@@ -23,3 +23,16 @@ A Hint of Ports and Peoples —
 And much not understood —  
 The fairer — for the farness —  
 And for the foreignhood.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un [[Wind|Vento]] del Sud — ha un pathos  
+Di Voce individuale —  
+Come Chi coglie sugli Approdi  
+La parlata di un Emigrante.  
+
+Un Sentore di Porti e di Popoli —  
+E molto non compreso —  
+Più bello — per la lontananza —  
+E per la forestierità.

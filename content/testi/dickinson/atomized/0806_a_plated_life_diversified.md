@@ -23,3 +23,16 @@ A Value struggle — it exist —
 A Power — will proclaim  
 Although Annihilation pile  
 Whole Chaoses on Him —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Vita Placcata — variegata  
+D'Oro e d'Argento [[Pain|Dolore]]  
+A provare la presenza del Minerale  
+In Particelle — è quando  
+
+Un Valore lotta — esso esiste —  
+Un Potere — proclamerà  
+Benché l'Annientamento ammassi  
+Interi Caos su di Lui —

@@ -50,3 +50,43 @@ But Witness for Her Land -
 And Witness for Her [[Sea]] -  
 The Cricket is Her utmost  
 Of [[elegy|Elegy]], to Me -
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Più addentro nell'[[Summer|Estate]] che gli [[Birds|Uccelli]] -  
+Patetica dall'Erba -  
+Una Nazione Minore celebra  
+La sua discreta Messa -  
+
+Nessun Rito si vede -  
+Così graduale la Grazia  
+Una pensosa Consuetudine diviene  
+Che allarga la [[Loneliness|Solitudine]] -  
+
+È più Udibile, al Crepuscolo -  
+Quando il tentativo del Giorno è compiuto -  
+E la [[Nature|Natura]] nulla attende di fare  
+Se non terminare in Melodia -  
+
+Né differenza conosce  
+Di Cadenza, o di Pausa -  
+Ma simultaneo come Uguale -  
+L'Ufficio enfatizza -  
+
+Né so quando cessi -  
+Alle Candele, è qui -  
+Quando l'Alba è - allora non è -  
+Oltre questo, non so di più -  
+
+La Terra ha molte chiavi -  
+Dove Melodia non è  
+È la Penisola Sconosciuta -  
+La [[Beauty|Bellezza]] - è il Fatto della [[Nature|Natura]] -  
+
+Ma Testimone per la Sua Terra -  
+1113  
+
+E Testimone per il Suo [[Sea|Mare]] -  
+Il Grillo è il Suo estremo  
+Di [[elegy|Elegia]], per Me -

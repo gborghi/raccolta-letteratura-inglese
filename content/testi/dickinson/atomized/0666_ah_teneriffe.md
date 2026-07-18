@@ -26,3 +26,19 @@ Heedless — alike — of pomp — or parting
 
 Ah, Teneriffe!  
 I'm kneeling — still —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ah, Teneriffe!  
+Montagna che ti ritrai!  
+Porpore di Ere — sostano per te —  
+Il Tramonto — passa in rivista il suo Reggimento di Zaffiro —  
+Il Giorno — ti lascia cadere il suo Rosso Addio!  
+
+Immobile — Vestita della tua Maglia di ghiacci —  
+Coscia di Granito — e nerbo — d'Acciaio —  
+Incurante — ugualmente — di pompa — o congedo  
+
+Ah, Teneriffe!  
+Io m'inginocchio — ancora —

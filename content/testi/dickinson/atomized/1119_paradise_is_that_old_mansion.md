@@ -21,3 +21,14 @@ Then reversed the [[Door]] —
 Bliss is frugal of her Leases  
 Adam taught her Thrift  
 Bankrupt once through his excesses —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Paradiso è quell'antica dimora  
+Che molti possedettero prima —  
+Occupata da ciascuno un istante  
+Poi rivoltata la [[Door|Porta]] —  
+La Beatitudine è frugale delle sue Locazioni  
+Adamo le insegnò la Parsimonia  
+Fallita una volta per gli eccessi di lui —

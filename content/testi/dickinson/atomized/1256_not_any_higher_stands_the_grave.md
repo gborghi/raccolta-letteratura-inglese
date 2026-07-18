@@ -23,3 +23,16 @@ This latest Leisure equal lulls
 The Beggar and his [[Queen]]  
 Propitiate this Democrat  
 A [[Summer]]'s Afternoon —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non più alta sta la [[Grave|Tomba]]  
+Per gli Eroi che per gli Uomini —  
+Non più vicina per il [[Child|Bimbo]]  
+Che per i torpidi Settant'anni —  
+
+Quest'ultimo Riposo uguale culla  
+Il Mendicante e la sua [[Queen|Regina]]  
+Propiziate questo Democratico  
+Un Pomeriggio d'[[Summer|Estate]] —

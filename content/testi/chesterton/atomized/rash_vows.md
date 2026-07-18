@@ -275,7 +275,7 @@ this is the grinning tyranny of decadence which is called [[Freedom|freedom]].
 
 In difesa dei voti temerari
 
-di G.K. Chesterton  
+di G.K. Chesterton
 
 Versione abbreviata di un capitolo del libro di Chesterton The Defendant.
 

@@ -22,3 +22,15 @@ Go timid, should his final eye
 Determine thee amiss —  
 Go boldly — for thou paid'st his price  
 Redemption — for a Kiss —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Va' lenta, [[Soul|anima]] mia, a nutrirti  
+Del suo raro avvicinarsi —  
+Va' rapida, ché la [[Death|Morte]] Rivale  
+Non prevalga sulla Carrozza —  
+Va' timida, se il suo occhio estremo  
+Ti giudicasse in errore —  
+Va' ardita — ché pagasti il suo prezzo  
+Redenzione — per un Bacio —

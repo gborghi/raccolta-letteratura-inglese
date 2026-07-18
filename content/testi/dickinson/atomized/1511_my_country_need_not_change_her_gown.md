@@ -23,3 +23,16 @@ Great Britain disapproves, "the [[Stars|stars]]";
 Disparagement discreet, —  
 There's something in their attitude  
 That taunts her bayonet.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio paese non deve mutare la sua veste,  
+Il suo triplice abito dolce  
+Come quando fu tagliato a Lexington,  
+E per la prima volta dichiarato "su misura."  
+
+La Gran Bretagna disapprova, "le [[Stars|stelle]]";  
+Denigrazione discreta, —  
+C'è qualcosa nel loro contegno  
+Che ne schernisce la baionetta.

@@ -20,3 +20,13 @@ My Sovereign will relent?
 As trinket — worn by faded [[Child]] —  
 Confronting eyes long — comforted —  
 Blisters the Adamant!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Manderò la piuma del mio Cappello!  
+Chissà — se alla vista di quella  
+Il mio Sovrano non ceda?  
+Come ninnolo — portato da [[Child|Bimba]] sbiadita —  
+Affrontando occhi a lungo — consolati —  
+Piaga l'Adamante!

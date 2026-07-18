@@ -34,3 +34,27 @@ I tell thee while I waited —
 The mystery of Food  
 Increased till I abjured it  
 Subsisting now like [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sei tu la cosa che volevo?  
+Vattene — il mio Dente è cresciuto —  
+Sazia il Palato minore  
+Che non ha digiunato così a lungo —  
+Ti dico che mentre attendevo  
+Il mistero del Cibo  
+Crebbe finché lo abiurai  
+E pranzo senza Come [[God|Dio]] —  
+
+—  
+
+Sei tu la cosa che volevo?  
+Vattene — il mio Dente è cresciuto —  
+Affronta un palato minore  
+Che non potresti tentare così a lungo —  
+
+Ti dico che mentre attendevo —  
+Il mistero del Cibo  
+Crebbe finché lo abiurai  
+Sussistendo ora come [[God|Dio]] —

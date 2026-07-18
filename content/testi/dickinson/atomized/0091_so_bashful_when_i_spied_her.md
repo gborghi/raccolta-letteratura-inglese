@@ -28,3 +28,21 @@ For whom I robbed the dingle,
 For whom betrayed the dell,  
 Many will doubtless ask me,  
 But I shall never tell !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così timida quando la scorsi,  
+Così graziosa, così vergognosa !  
+Così nascosta tra le sue foglioline,  
+Perché nessuno la trovasse ;  
+
+Così senza fiato finché non le passai accanto,  
+Così inerme quando mi volsi  
+E la portai via, riluttante, arrossendo,  
+Oltre i suoi semplici rifugi !  
+
+Per chi depredai la valletta,  
+Per chi tradii il vallone,  
+Molti senza dubbio mi chiederanno,  
+Ma io non lo dirò mai !

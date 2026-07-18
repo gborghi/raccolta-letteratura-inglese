@@ -44,3 +44,37 @@ That Larceny of [[Time|time]] and mind
 That marrow of the Day  
 By spider, or forbid it Lord  
 That I should specify.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Alone|Sola]] e in una Circostanza  
+Riluttante a esser detta  
+Un ragno sulla mia reticenza  
+Assiduamente strisciava  
+
+E tanto più a [[Home|Casa]] di me  
+Immediatamente divenne  
+Che mi sentii un'ospite  
+E in fretta mi ritrassi  
+
+Rivisitando la mia dimora d'un tempo  
+Con articoli di rivendicazione  
+La trovai quietamente assunta  
+A Palestra  
+Dove Tassa dorme e Titolo assente  
+Gli inquilini dell'Aria  
+Perpetua presunzione presero  
+Come fosse ognuno Erede speciale —  
+Se qualcuno mi colpisce per strada  
+Posso rendere il Colpo —  
+Se qualcuno prende la mia proprietà  
+Secondo la Legge  
+Lo Statuto è il mio Dotto amico  
+Ma che riparo può esservi  
+Per un'offesa né qui né là  
+Dunque non in Equità —  
+Quel Furto di [[Time|tempo]] e mente  
+Quel midollo del Giorno  
+Da ragno, o lo vieti il Signore  
+Che io lo specifichi.

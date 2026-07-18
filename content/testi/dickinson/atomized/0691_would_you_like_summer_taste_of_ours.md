@@ -23,3 +23,16 @@ Captive! We bring reprieve of roses!
 Fainting! Flasks of air!  
 Even for [[Death]], a fairy medicine.  
 But, which is it, sir?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vorreste l'[[Summer|estate]]? Assaggiate la nostra.  
+Spezie? Comprate qui!  
+Malato! Abbiamo bacche, per l'arsura!  
+Stanco! Licenze di piume!  
+Perplesso! Tenute di violaceo affanno mai contemplate!  
+Prigioniero! Portiamo tregua di rose!  
+Svenuto! Fiasche d'aria!  
+Persino per la [[Death|Morte]], una medicina di fata.  
+Ma, qual è, signore?

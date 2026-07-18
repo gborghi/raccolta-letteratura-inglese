@@ -61,3 +61,54 @@ And Echoes — Trains away,
 Sneer — "Where"!  
 While the old Couple, just astir,  
 Fancy the Sunrise — left the [[Door|door]] ajar!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conosco certe Case solitarie fuori dalla [[Road|Strada]]  
+Il cui aspetto piacerebbe a un Ladro —  
+Sbarrate di legno,  
+E Finestre che pendono basse,  
+Che invitano a —  
+Un Portico,  
+Dove due potrebbero strisciare —  
+Uno — passi gli Arnesi —  
+L'altro spii —  
+Per accertarsi che Tutto Dorma —  
+Occhi all'antica —  
+Non facili da sorprendere!  
+
+Come ordinata parrebbe la Cucina, di [[Night|notte]],  
+Con solo un [[Clock|Orologio]] —  
+Ma potrebbero imbavagliare il Tic —  
+E i Topi non abbaieranno —  
+E così i Muri — non raccontano —  
+Nessuno — lo farà —  
+
+Un paio d'Occhiali socchiusi appena si muovono —  
+Un Almanacco è all'erta —  
+Fu la Stuoia — ad ammiccare,  
+O una Stella Nervosa?  
+La [[Moon|Luna]] — scivola giù per le scale,  
+Per vedere chi c'è!  
+
+C'è bottino — dove —  
+Boccale, o Cucchiaio —  
+Orecchino — o Pietra —  
+Un Orologio — Qualche Spilla Antica  
+299  
+
+A far coppia con la Nonna —  
+Rimasta a dormire — là —  
+
+Il Giorno — strepita — anche  
+La Furtività — è lenta —  
+Il [[Sun|Sole]] è arrivato fin  
+Al terzo Sicomoro —  
+Strilla Chantecler  
+"Chi va là"?  
+
+E gli Echi — sfilano via,  
+Sogghignano — "Dove"!  
+Mentre la vecchia Coppia, appena desta,  
+Crede che l'Alba — abbia lasciato la [[Door|porta]] socchiusa!

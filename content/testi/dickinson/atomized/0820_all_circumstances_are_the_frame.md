@@ -23,3 +23,16 @@ The Light His Action, and the Dark
 The Leisure of His Will —  
 In Him Existence serve or set  
 A Force illegible.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ogni Circostanza è la Cornice  
+In cui il Suo Volto è posto —  
+Ogni Latitudine esiste per il Suo  
+Sufficiente Continente —  
+
+La Luce il Suo Atto, e il Buio  
+L'Agio della Sua Volontà —  
+In Lui l'Esistenza serve o tramonta  
+Una Forza illeggibile.

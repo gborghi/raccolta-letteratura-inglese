@@ -23,3 +23,16 @@ Maddest Heart that [[God]] created
 Cannot move a sod  
 Pasted by the simple [[Summer|summer]]  
 On the Longed for Dead
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Deposti in [[Nature|Natura]] — così ci basti  
+Il Baccello senza incanto  
+Quando annunciamo esistenza  
+Per il Seme mancante —  
+
+Il più folle Cuore che [[God|Dio]] creò  
+Non può smuovere una zolla  
+Incollata dalla semplice [[Summer|estate]]  
+Sui Morti Sospirati

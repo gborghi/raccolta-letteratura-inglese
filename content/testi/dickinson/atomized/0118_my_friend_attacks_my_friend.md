@@ -22,3 +22,15 @@ How martial is this place!
 Had I a mighty gun  
 I think I'd shoot the human race  
 And then to glory run!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio amico attacca il mio amico!  
+Oh Battaglia pittoresca!  
+Allora anch'io mi faccio Soldato,  
+E lui si fa Satirico!  
+Com'è marziale questo luogo!  
+Avessi un possente fucile  
+Credo che sparerei al genere umano  
+E poi correrei alla gloria!

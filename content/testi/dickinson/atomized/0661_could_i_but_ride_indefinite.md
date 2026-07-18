@@ -36,3 +36,29 @@ And anchor "off the Bar"
 
 What [[Liberty]]! So Captives deem  
 Who tight in Dungeons are.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Potessi solo vagare indefinita  
+Come fa l'Ape del Prato  
+E visitare solo dove mi piacesse  
+E Nessuno visitare me  
+
+E flirtare tutto il Giorno coi Ranuncoli  
+E sposare chi mi pare  
+E dimorare un poco ovunque  
+O meglio, fuggire via  
+
+Senza Polizia che m'insegua  
+O inseguirLo se Lui lo fa  
+Finché non salti Penisole  
+Per fuggire via da me —  
+
+Dissi "Ma solo essere un'Ape"  
+Su una Zattera d'Aria  
+E remare nel Nulla tutto il Giorno  
+E ancorare "al largo della Barra"  
+
+Che [[Liberty|Libertà]]! Così pensano i Prigionieri  
+Che stretti stanno in Segrete.

@@ -23,3 +23,16 @@ Perceiving thee is evidence
 That we are of the sky  
 Partaking thee a guaranty  
 Of [[Immortality|immortality]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Esaltarti — potrei? Allora lo farò  
+Non dicendo nulla di nuovo —  
+Ma solo la più vera [[Truth|verità]]  
+Che tu sei celestiale.  
+
+Percepirti è la prova  
+Che siamo del cielo  
+Prender parte di te una garanzia  
+D'[[Immortality|immortalità]]

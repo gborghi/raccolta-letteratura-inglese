@@ -28,3 +28,21 @@ That Empire — is of Czars —
 As small — they say — as I —  
 Grant me — that day — the royalty —  
 To intercede — for Thee —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Court|Corte]] è lontana —  
+Nessun Arbitro — ho io —  
+Il mio Sovrano è offeso —  
+Per avere la sua grazia — morirei!  
+
+Cercherò i suoi piedi regali —  
+Dirò — Ricorda — [[King|Re]] —  
+Tu stesso — dovrai — un giorno — [[Child|Bimbo]] —  
+Implorare una più grande — cosa —  
+
+Quell'Impero — è degli Zar —  
+Piccoli — dicono — quanto me —  
+Concedimi — quel giorno — la regalità —  
+D'intercedere — per Te —

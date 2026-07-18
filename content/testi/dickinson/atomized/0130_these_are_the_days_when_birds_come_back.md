@@ -37,3 +37,30 @@ Permit a [[Child|child]] to join.
 Thy sacred emblems to partake —  
 They consecrated bread to take  
 And thine immortal wine!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questi sono i giorni in cui gli [[Birds|Uccelli]] tornano —  
+Pochissimi — un Uccello o due —  
+A dare uno sguardo indietro.  
+
+Questi sono i giorni in cui i cieli riprendono  
+I vecchi — vecchi sofismi di Giugno —  
+Un errore azzurro e oro.  
+
+Oh frode che non può ingannare l'Ape —  
+Quasi la tua plausibilità  
+Induce la mia fede.  
+
+Finché file di semi rendano testimonianza —  
+E piano attraverso l'aria mutata  
+Corra una timida foglia.  
+
+Oh Sacramento dei giorni d'[[Summer|estate]],  
+Oh Ultima Comunione nella Foschia —  
+Permetti a un [[Child|bambino]] di unirsi.  
+
+I tuoi sacri emblemi condividere —  
+Il tuo pane consacrato prendere  
+E il tuo vino immortale!

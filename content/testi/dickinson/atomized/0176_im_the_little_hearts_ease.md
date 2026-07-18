@@ -30,3 +30,23 @@ Eden is old fashioned, too!
 Heaven does not change her blue.  
 Nor will I, the little Heart's Ease —  
 Ever be induced to do!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io sono la piccola "Viola del Pensiero"!  
+Non mi curo di cieli imbronciati!  
+Se la Farfalla tarda  
+Posso io, per questo, restare lontana?  
+
+Se il Codardo Bombo  
+Se ne sta nel suo cantuccio al camino,  
+Io, devo essere più risoluta!  
+Chi si scuserà per me?  
+
+Caro, Antiquato, piccolo fiore!  
+Anche l'Eden è antiquato!  
+Gli [[Birds|Uccelli]] sono tipi d'altri tempi!  
+Il Cielo non muta il suo azzurro.  
+Né io, la piccola Viola del Pensiero —  
+Mi lascerò mai indurre a farlo!

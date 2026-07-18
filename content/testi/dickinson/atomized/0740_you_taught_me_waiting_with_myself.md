@@ -28,3 +28,21 @@ The Heaven you know — to understand
 That you be not ashamed  
 Of Me — in [[Christ]]'s bright Audience  
 Upon the further Hand —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi insegnasti l'Attesa con Me Stessa —  
+Appuntamento rigorosamente osservato —  
+Mi insegnasti la fortezza del Fato —  
+Questo — anche — l'ho imparato —  
+
+Un'Altitudine di [[Death|Morte]], che non poteva  
+Escludere più amaramente  
+Di quanto la Vita — avesse fatto — prima —  
+Eppure — c'è una Scienza in più —  
+
+Il Cielo che conosci — comprendere  
+Perché tu non abbia vergogna  
+Di Me — nella luminosa Udienza di [[Christ|Cristo]]  
+Sulla Mano più lontana —

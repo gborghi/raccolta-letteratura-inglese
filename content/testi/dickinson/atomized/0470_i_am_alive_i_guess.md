@@ -50,3 +50,43 @@ How good — to be alive!
 How infinite — to be  
 Alive — two-fold — The Birth I had —  
 And this — besides, in — Thee!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sono viva — suppongo —  
+I Rami sulla mia Mano  
+Son pieni di Convolvolo —  
+E in punta al mio dito —  
+
+Il Carminio — formicola caldo —  
+E se tengo un Vetro  
+Contro la mia Bocca — lo appanna —  
+Prova del Medico — del Respiro —  
+
+Sono viva — perché  
+Non sono in una Stanza —  
+Il Salotto — di Consueto — è —  
+Perché vengano i Visitatori —  
+
+E si chinino — a guardarlo di sbieco —  
+E aggiungano "Come freddo — si fece" —  
+E "Era cosciente — quando entrò  
+Nell'[[Immortality|Immortalità]]?"  
+
+Sono viva — perché  
+Non possiedo una [[house|Casa]] —  
+Intestata a me stessa — precisa —  
+E adatta a nessun altro —  
+
+E segnata col nome della mia Fanciullezza —  
+Perché i Visitatori sappiano  
+Qual è la mia [[Door|Porta]] — e non si sbaglino —  
+E provino un'altra Chiave —  
+
+Che bene — essere viva!  
+494  
+
+Che infinito — essere  
+Viva — due volte — La Nascita che ebbi —  
+E questa — in più, in — Te!

@@ -23,3 +23,16 @@ How many cast a nameless Pod
 Upon the nearest Breeze —  
 Unconscious of the Scarlet Freight —  
 It bear to Other Eyes —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quanti [[Flowers|Fiori]] appassiscono nel Bosco —  
+O periscono sulla [[Hill|Collina]] —  
+Senza il privilegio di sapere  
+Che sono Belli —  
+
+Quanti gettano un Baccello senza nome  
+Sulla Brezza più vicina —  
+Inconsapevoli del Carico Scarlatto —  
+Che porta ad Altri Occhi —

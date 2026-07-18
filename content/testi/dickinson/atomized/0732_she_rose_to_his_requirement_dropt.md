@@ -28,3 +28,21 @@ It lay unmentioned — as the [[Sea]]
 Develop Pearl, and Weed,  
 But only to Himself — be known  
 The Fathoms they abide —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ella [[Rose|si levò]] alla Sua Esigenza — depose  
+I Trastulli della Sua Vita  
+Per assumere l'Opera onorevole  
+Di Donna, e di Moglie —  
+
+Se qualcosa Le mancò nel Suo nuovo Giorno,  
+Di Ampiezza, o di Stupore —  
+O prima Prospettiva — O l'Oro  
+Che nell'uso si consuma,  
+
+Giacque non detto — come il [[Sea|Mare]]  
+Sviluppa Perla, e Alga,  
+Ma solo a Lui — sian note  
+Le Profondità in cui dimorano —

@@ -32,3 +32,25 @@ Contented, known, before —
 The Heaven — unexpected come,  
 To Lives that thought the Worshipping  
 A too presumptuous Psalm —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come [[Flowers|Fiori]], che udirono la novella delle Rugiade,  
+Ma mai stimarono che il premio stillante  
+Attendesse le loro — basse Fronti —  
+O [[Bees|Api]] — che credettero il nome dell'[[Summer|Estate]]  
+Qualche voce di Delirio,  
+Nessuna [[Summer|Estate]] — poteva — per Loro —  
+
+O Creature Artiche, vagamente scosse —  
+Da un Cenno Tropicale — qualche Uccello Viaggiatore  
+Importato nel Bosco —  
+
+O il segnale lucente del [[Wind|Vento]] all'Orecchio —  
+Che rende quel che è umile, e severo,  
+Contento, noto, di prima —  
+
+Il Cielo — giunto inatteso,  
+A Vite che credevano l'Adorare  
+Un Salmo troppo presuntuoso —

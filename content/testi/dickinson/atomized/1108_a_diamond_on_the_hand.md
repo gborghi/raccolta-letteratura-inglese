@@ -22,3 +22,15 @@ Within a Seller's Shrine
 How many sight and sigh  
 And cannot, but are mad for [[Fear|fear]]  
 That any other buy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Diamante sulla Mano  
+Per Consuetudine divenuto Comune  
+Decade dal suo significato  
+La Gemma sarebbe meglio ignota —  
+Nel Sacrario d'un Venditore  
+Quanti guardano e sospirano  
+E non possono, ma impazziscono per [[Fear|paura]]  
+Che un altro compri.

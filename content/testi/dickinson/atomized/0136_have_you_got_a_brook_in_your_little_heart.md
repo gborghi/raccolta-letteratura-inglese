@@ -33,3 +33,26 @@ And later, in August it may be,
 When the meadows parching lie,  
 Beware, lest this little brook of life  
 Some burning [[Noon|noon]] go dry !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Hai un ruscello nel tuo piccolo cuore,  
+Dove [[Flowers|fiori]] timidi sbocciano,  
+E [[Birds|uccelli]] arrossenti scendono a bere,  
+E le ombre tremano tanto ?  
+
+E nessuno sa, tanto quieto scorre,  
+Che vi sia lì alcun ruscello ;  
+Eppure il tuo piccolo sorso di vita  
+Vi è attinto ogni giorno.  
+
+Bada allora al piccolo ruscello in Marzo,  
+Quando i fiumi straripano,  
+E le nevi accorrono in fretta dai colli,  
+E i ponti spesso se ne vanno.  
+
+E più tardi, in Agosto può darsi,  
+Quando i prati giacciono riarsi,  
+Bada, che questo piccolo ruscello di vita  
+In qualche [[Noon|mezzogiorno]] ardente non si secchi !

@@ -23,3 +23,16 @@ At Distance, and Achievement, strains,
 The Foot upon the [[Grave]]  
 Makes effort at conclusion  
 Assisted faint of [[Love]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come piano per [[Noon|Mezzogiorno]] e piano per [[Night|Notte]]  
+Così differiscono Vita e [[Death|Morte]]  
+In positiva Prospettiva —  
+Il Piede sulla Terra  
+
+A Distanza, e Compimento, tende,  
+Il Piede sulla [[Grave|Tomba]]  
+Fa sforzo di conclusione  
+Assistito fioco d'[[Love|Amore]].

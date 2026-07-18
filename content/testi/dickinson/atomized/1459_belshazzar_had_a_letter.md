@@ -22,3 +22,15 @@ In that immortal copy
 The [[Conscience|conscience]] of us all  
 Can read without its glasses  
 On [[Revelation|revelation]]'s wall.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Baldassarre ebbe una [[Letter|lettera]], —  
+Non ne ebbe mai che una ;  
+Il corrispondente di Baldassarre  
+Concluse e cominciò  
+In quella copia immortale  
+Che la [[Conscience|coscienza]] di noi tutti  
+Può leggere senza occhiali  
+Sul muro della [[Revelation|rivelazione]].

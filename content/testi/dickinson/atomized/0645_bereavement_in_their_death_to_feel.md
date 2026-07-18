@@ -28,3 +28,21 @@ Who, vital only to Our Thought —
 Such Presence bear away  
 In dying — 'tis as if Our Souls  
 Absconded — suddenly —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lutto nella loro [[Death|morte]] sentire  
+Di Chi mai abbiamo veduto —  
+Una Vitale Parentela comporta  
+Tra l'[[Soul|Anima]] Nostra e la loro —  
+
+Per l'Estraneo — gli Estranei non fanno lutto —  
+Vi sono amici Immortali  
+Che [[Death|Morte]] vede per prima — è notizia di questo  
+Che paralizza Noi stessi —  
+
+Chi, vitale solo al Nostro Pensiero —  
+Tale Presenza porta via  
+Morendo — è come se le Nostre Anime  
+Fossero fuggite — d'improvviso —

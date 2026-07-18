@@ -23,3 +23,16 @@ The Heaven hath a Hell —
 Itself to signalize —  
 And every sign before the Place  
 Is Gilt with Sacrifice —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un Dente sulla Nostra Pace  
+La Pace non può deturpare —  
+Perché dunque il Dente?  
+Per vivificare la Grazia —  
+
+Il Cielo ha un Inferno —  
+Per segnalare se stesso —  
+E ogni segno davanti al Luogo  
+È Dorato di Sacrificio —

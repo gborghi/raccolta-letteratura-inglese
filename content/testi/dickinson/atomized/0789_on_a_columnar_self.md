@@ -28,3 +28,21 @@ Suffice Us — for a Crowd —
 Ourself — and Rectitude —  
 And that Assembly — not far off  
 From furthest Spirit — [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su un [[Self|Sé]] Colonnare —  
+Com'è ampio affidarsi  
+Nel Tumulto — o all'Estremo —  
+Com'è buona la Certezza  
+
+Che Leva non può scardinare —  
+E Cuneo non può dividere  
+La Convinzione — Quella Base Granitica —  
+Benché Nessuno sia dalla nostra Parte —  
+
+Ci Basti — per una Folla —  
+Noi Stessi — e la Rettitudine —  
+E quell'Assemblea — non lontana  
+Dallo Spirito più remoto — [[God|Dio]] —

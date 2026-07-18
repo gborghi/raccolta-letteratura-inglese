@@ -27,3 +27,20 @@ Upon a [[Winter|winter]]'s day,
 Stands representative in gold  
 Of [[Rose]] and Lily, manifold,  
 And countless Butterfly!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una scienza — così dicono i Sapienti,  
+"Anatomia Comparata" —  
+Per cui un singolo osso —  
+È indotto a svelare un segreto  
+Di qualche raro abitatore del suolo,  
+Altrimenti perito nella pietra —  
+
+Così all'occhio prospettico condotto,  
+Questo umilissimo fiore del prato  
+In un giorno d'[[Winter|inverno]],  
+Sta rappresentante in oro  
+Di [[Rose|Rosa]] e Giglio, moltiplicati,  
+E d'innumerevole Farfalla!

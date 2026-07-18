@@ -23,3 +23,16 @@ The Caspian has its realms of sand,
 Its other realm of [[Sea|sea]].  
 Without the sterile perquisite,  
 No Caspian could be.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perderti — più dolce che guadagnare  
+Tutti gli altri cuori che conobbi.  
+È vero, la siccità è indigente,  
+Ma allora, io ebbi la [[Dew|rugiada]]!  
+
+Il Caspio ha i suoi regni di sabbia,  
+L'altro suo regno di [[Sea|mare]].  
+Senza lo sterile appannaggio,  
+Nessun Caspio potrebbe esistere.

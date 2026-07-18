@@ -23,3 +23,16 @@ Would not a [[God]] of Flint
 Be conscious of a sigh  
 As down His Heaven dropt remote  
 "Just Once" Sweet Deity?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Solo Una Volta! Oh minima Richiesta!  
+Potrebbe l'Adamante rifiutare  
+una Grazia così piccola  
+Posta così scarna,  
+Termini così agonizzanti?  
+Un [[God|Dio]] di Selce non avrebbe  
+Coscienza di un sospiro  
+Mentre giù dal Suo Cielo cadeva remoto  
+"Solo Una Volta" Dolce Deità?

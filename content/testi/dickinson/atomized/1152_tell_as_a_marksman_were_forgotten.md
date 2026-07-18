@@ -44,3 +44,37 @@ Not forsook of [[Faith]] —
 Tell his Arrow sent —  
 [[God]] it is said replies in Person  
 When the cry is meant —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tell come Tiratore — fosse dimenticato  
+Tell — questo Giorno perdura  
+Rubicondo come quella Mela coeva  
+Che la [[Tradition|Tradizione]] reca —  
+
+Fresca come l'Umanità quell'umile storia  
+Benché un più solenne Racconto  
+Fatto canuto nella Ripetizione  
+A stento prevarrebbe —  
+
+Tell aveva un figlio — Chi lo sapeva  
+Non deve attardarsi qui —  
+Chi non sapeva all'Umana [[Nature|Natura]]  
+Sottoscriverà una Lacrima —  
+
+Tell non volle scoprirsi il Capo  
+In Presenza  
+Del Cappello Ducale —  
+Minacciato per ciò di [[Death|Morte]] — da Gessler —  
+La Tirannia escogitò  
+
+Di fare del suo unico Ragazzo un Bersaglio  
+Che sorpassa la [[Death|Morte]] —  
+Impassibile alla suprema supplica dell'[[Love|Amore]]  
+Non abbandonato dalla [[Faith|Fede]] —  
+
+Implorando la [[Mercy|Misericordia]] dell'Onnipotente —  
+Tell la sua Freccia scagliò —  
+[[God|Dio]] si dice risponde in Persona  
+Quando il grido è sincero —

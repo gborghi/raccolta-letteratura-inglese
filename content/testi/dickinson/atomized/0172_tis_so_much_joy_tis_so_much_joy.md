@@ -34,3 +34,27 @@ At first repeat it slow !
 For heaven is a different thing  
 Conjectured, and waked sudden in,  
 And might o'erwhelm me so !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È tanta [[Joy|gioia]] !  È tanta [[Joy|gioia]] !  
+Se fallissi, che [[Poverty|povertà]] !  
+Eppure, povera come sono  
+Ho azzardato un lancio ;  
+Ho vinto!  Sì !  Tanto ho esitato  
+Al di qua della vittoria !  
+
+La vita è solo vita, e la [[Death|morte]] solo [[Death|morte]] !  
+La beatitudine è solo beatitudine e il respiro solo respiro !  
+E se, davvero, fallisco,  
+Almeno sapere il peggio è dolce.  
+La sconfitta non significa che sconfitta,  
+Nulla di più tetro può prevalere !  
+
+E se vinco, — oh, cannone in [[Sea|mare]],  
+Oh, [[Bells|campane]] che state nei campanili,  
+Dapprima ripetetelo piano !  
+Ché il cielo è cosa diversa  
+Congetturato, e destandovisi d'improvviso,  
+E potrebbe così sopraffarmi !

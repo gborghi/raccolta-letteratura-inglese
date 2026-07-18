@@ -34,3 +34,27 @@ In her imperial round —
 Show them this meek appareled thing  
 That could not stop to be a [[King|king]] —  
 Doubtful if it be crowned!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tardò finché lei cessò di sapere —  
+Tardò finché nella sua veste di [[Snow|neve]]  
+Il suo petto amoroso giacque —  
+Un'ora dietro il respiro fuggente —  
+Più tardi d'un'ora appena della [[Death]] —  
+Oh Ieri che t'attardi!  
+
+Avesse lei potuto indovinarlo —  
+Avesse solo un banditore della [[Joy|gioia]]  
+Scalato la lontana [[Hill|collina]] —  
+Non avesse la beatitudine passo sì lento  
+Chissà se questo volto arreso  
+Non sarebbe invitto ancora?  
+
+Oh se fra i partenti vi fosse  
+Qualcuno scordato dalla Vittoria  
+Nel suo giro imperiale —  
+Mostrategli questa mite cosa vestita  
+Che non poté fermarsi a esser [[King|re]] —  
+Incerta se sia incoronata!

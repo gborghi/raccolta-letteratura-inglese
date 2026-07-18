@@ -25,3 +25,18 @@ Who looks for him at morning
 I pray him too — explore  
 The Lark's pure territory —  
 Or the Lapwing's shore!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Ospite è oro e cremisi —  
+Un ospite d'Opale e grigio —  
+D'Ermellino è il suo farsetto —  
+Il suo Cappuccio gaio —  
+
+Giunge in città al calar della notte —  
+Si ferma a ogni [[Door|porta]] —  
+Chi lo cerca al mattino  
+Io lo prego pure — di esplorare  
+Il puro territorio dell'Allodola —  
+O la riva della Pavoncella!

@@ -24,3 +24,17 @@ Mediterranean intonations —
 To a Current's Ear —  
 There is a maritime conviction  
 In the Atmosphere —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Penso che la Radice del [[Wind|Vento]] sia l'[[Water|Acqua]] —  
+Non suonerebbe così profondo  
+Fosse un Prodotto Firmamentale —  
+Arie che nessun Oceano serba —  
+Intonazioni mediterranee —  
+All'Orecchio d'una Corrente —  
+C'è una convinzione marittima  
+Nell'Atmosfera —

@@ -30,3 +30,23 @@ Find quaint employ.
 Some with new - stately feet  
 Pass royal thro' the gate  
 Flinging the problem back, at you and I.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La mia [[Wheel|Ruota]] è nel buio.  
+Non vedo un solo raggio -  
+Eppure so che i suoi piedi grondanti  
+Girano e rigirano.
+
+Il mio piede è sulla marea -  
+Una [[Road|strada]] infrequentata -  
+Eppure hanno tutte le strade  
+Una "Radura" alla fine.
+
+Alcuni hanno lasciato il Telaio -  
+Alcuni - nella tomba operosa  
+Trovano strano impiego.  
+Alcuni con nuovi - maestosi piedi  
+Passano regali per la porta  
+Rigettando il problema, a te e a me.

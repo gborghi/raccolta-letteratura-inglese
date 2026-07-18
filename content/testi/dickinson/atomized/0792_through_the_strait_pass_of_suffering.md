@@ -28,3 +28,21 @@ Their [[Faith|faith]] — the everlasting troth —
 Their Expectation — fair —  
 The Needle — to the North Degree —  
 Wades — so — thro' polar Air!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Attraverso lo stretto passo della [[Suffering|sofferenza]] —  
+I Martiri — persino — passarono.  
+I piedi — sulle Tentazioni —  
+I volti — su [[God|Dio]] —  
+
+Una solenne — assolta — Compagnia —  
+La Convulsione — giocando intorno —  
+Innocua — come strie di Meteora —  
+Sul Vincolo d'un Pianeta —  
+
+La loro [[Faith|fede]] — l'eterna promessa —  
+La loro Attesa — serena —  
+L'Ago — verso il Grado Nord —  
+Avanza — così — per l'Aria polare!

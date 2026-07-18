@@ -24,3 +24,17 @@ And then they grew so jolly
 I did resign the prig,  
 And ten of my once stately toes  
 Are marshalled for a jig!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fiocchi di [[Snow]].  
+
+Contai finché danzarono tanto  
+Che le loro pantofole balzarono per la città,  
+E allora presi una matita  
+Per annotare i ribelli.  
+E allora si fecero così allegri  
+Che io deposi il pedante,  
+E dieci mie dita un tempo maestose  
+Sono schierate per una giga!

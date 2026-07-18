@@ -29,3 +29,22 @@ Could'st credit me? Could'st credit me?
 Gay little Heart —  
 Like Morning Glory!  
 [[Wind]] and [[Sun]] — wilt thee array!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Povero piccolo Cuore!  
+Ti hanno dimenticato?  
+Non ti curar! Non ti curar!  
+
+Fiero piccolo Cuore!  
+Ti hanno abbandonato?  
+Sii debonario! Sii debonario!  
+
+Fragile piccolo Cuore!  
+Io non ti spezzerei —  
+Potresti credermi? Potresti credermi?  
+
+Gaio piccolo Cuore —  
+Come Gloria del Mattino!  
+[[Wind|Vento]] e [[Sun|Sole]] — ti adorneranno!

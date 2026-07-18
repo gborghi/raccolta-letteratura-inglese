@@ -30,3 +30,23 @@ I am spotted — "I am Pardon" —
 I am small — "The Least  
 Is esteemed in Heaven the Chiefest —  
 Occupy my [[house|House]]" —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+"A Me?" Io non ti conosco —  
+Dove sarà la tua [[house|Casa]]?  
+
+"Io sono Gesù — Già di Giudea —  
+Ora — del Paradiso" —  
+
+Carri — ne hai — per condurmi?  
+Questo è lontano da Là —  
+
+"Braccia Mie — Fetonte bastante —  
+Confida nell'Onnipotenza" —  
+
+Sono macchiata — "Io sono Perdono" —  
+Sono piccola — "Il Minimo  
+È stimato in Cielo il Sommo —  
+Occupa la mia [[house|Casa]]" —

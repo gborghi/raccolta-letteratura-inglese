@@ -25,3 +25,18 @@ But she slept.
 'T was short to [[Cross|cross]] the [[Sea|sea]]  
 To look upon her like, alive,  
 But turning back 't was slow.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Andai a ringraziarla,  
+Ma lei dormiva ;  
+Il suo letto una pietra scavata,  
+Con mazzolini al capo e ai piedi,  
+Che i viandanti avevano gettato,  
+
+Venuti a ringraziarla ;  
+Ma lei dormiva.  
+Fu breve [[Cross|attraversare]] il [[Sea|mare]]  
+Per guardare una sua pari, viva,  
+Ma il ritorno fu lento.

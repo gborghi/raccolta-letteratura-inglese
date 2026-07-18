@@ -33,3 +33,26 @@ But Crowns instead, and Courtiers —
 And in the midst so fair,  
 Whose but her shy — immortal face  
 Of whom we're whispering here?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo sopportò finché le semplici vene  
+Tracciarono azzurro sulla sua mano —  
+Finché imploranti, intorno ai suoi quieti occhi  
+Stanno i Pastelli purpurei.  
+
+Finché le Giunchiglie vennero e andarono  
+Non so dirne la somma,  
+E allora cessò di sopportarlo —  
+E coi Santi sedette.  
+
+Non più la sua paziente figura  
+Da incontrare dolce al crepuscolo —  
+Non più la sua timida cuffia  
+Per [[The Village Street|la via del villaggio]] —  
+
+Ma Corone invece, e Cortigiani —  
+E nel mezzo così bella,  
+Di chi se non suo il timido — immortale volto  
+Di colei che qui andiamo sussurrando?

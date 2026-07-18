@@ -22,3 +22,15 @@ Her little figure at the gate
 The Angels must have spied,  
 Since I could never find her  
 Upon the mortal side.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Morì — fu così che morì.  
+E quando il suo respiro fu finito  
+Prese il suo semplice corredo  
+E s'incamminò verso il [[Sun|sole]].  
+La sua piccola figura al cancello  
+Gli Angeli devono aver scorto,  
+Poiché non potei mai trovarla  
+Dal lato mortale.

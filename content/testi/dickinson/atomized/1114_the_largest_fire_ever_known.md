@@ -22,3 +22,15 @@ Consumes and no report to men
 An Occidental Town,  
 Rebuilt another morning  
 To be again burned down.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il più grande [[Fire|Fuoco]] mai conosciuto  
+Accade ogni Pomeriggio —  
+Scoperto è senza sorpresa  
+Procede senza apprensione —  
+Consuma e nessuna notizia agli uomini  
+Una Città d'Occidente,  
+Ricostruita un altro mattino  
+Per essere di nuovo arsa al suolo.

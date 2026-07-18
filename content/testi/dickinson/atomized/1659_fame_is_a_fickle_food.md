@@ -25,3 +25,18 @@ And with ironic caw
 Flap past it to the  
 Farmer's Corn —  
 Men eat of it and die.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La fama è un cibo incostante  
+sopra un piatto mutevole  
+la cui tavola una volta per un  
+Ospite ma non  
+una seconda [[Time|volta]] è apparecchiata.  
+
+Le sue briciole i corvi ispezionano  
+e con gracchio ironico  
+la sorvolano verso il  
+Grano del Contadino —  
+Gli uomini ne mangiano e muoiono.

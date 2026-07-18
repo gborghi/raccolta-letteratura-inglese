@@ -28,3 +28,21 @@ But since We hold a Mutual Disc —
 And front a Mutual Day —  
 Which is the Despot, neither knows —  
 Nor Whose — the Tyranny —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Io faccio il Suo Crescente colmarsi o mancare —  
+La Sua [[Nature|Natura]] è al Pieno  
+O al Quarto — come Io dispongo —  
+Le Sue Maree — Io le governo —  
+
+Egli sta sovrano nel Cielo  
+O brancola, al mio Comando  
+Dietro Nubi inferiori — o attorno  
+Al lento Colonnato d'una Bruma —  
+
+Ma poiché teniamo un Disco Mutuo —  
+E fronteggiamo un Mutuo Giorno —  
+Chi sia il Despota, nessuno dei due sa —  
+Né di Chi — la Tirannia —

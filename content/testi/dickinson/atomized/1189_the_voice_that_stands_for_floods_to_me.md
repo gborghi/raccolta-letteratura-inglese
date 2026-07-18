@@ -23,3 +23,16 @@ What difference in Substance lies
 That what is Sum to me  
 By other Financiers be deemed  
 Exclusive Property!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Voce che vale Diluvi per me  
+Ad alcuni giunge sterile —  
+Il Volto che fa parere gramo il Mattino  
+Splende impotente su di loro —  
+
+Quale differenza giace nella Sostanza  
+Che ciò che per me è Somma  
+Da altri Finanzieri sia stimato  
+Esclusiva Proprietà!

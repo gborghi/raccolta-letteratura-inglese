@@ -33,3 +33,26 @@ To Autocratic Air —
 To favorites — a few —  
 Of the Colossal substance  
 Of [[Immortality]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli istanti Superiori dell'[[Soul|Anima]]  
+Le accadono — [[Alone|sola]] —  
+Quando l'amico — e l'occasione della Terra  
+Si sono infinitamente ritirati —  
+
+O Lei — Ella stessa — ascesa  
+A un'Altezza troppo remota  
+Per Riconoscimento più basso  
+Del suo Onnipotente —  
+
+Questa Abolizione Mortale  
+È rara — ma bella  
+Come Apparizione — soggetta  
+Ad Aria Autocratica —  
+
+Rivelazione dell'[[Eternity|Eternità]]  
+A favoriti — pochi —  
+Della Colossale sostanza  
+Dell'[[Immortality|Immortalità]]

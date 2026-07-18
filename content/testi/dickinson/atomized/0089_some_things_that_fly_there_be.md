@@ -25,3 +25,18 @@ Nor this behooveth me.
 There are that resting, rise.  
 Can I expound the skies?  
 How still the [[Riddle]] lies!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alcune cose che volano vi sono —  
+[[Birds|Uccelli]] — Ore — il Bombo —  
+Di queste nessuna [[elegy|Elegia]].  
+
+Alcune cose che restano vi sono —  
+Dolore — Colline — [[Eternity|Eternità]] —  
+Né questo a me si addice.  
+
+Vi sono che, riposando, sorgono.  
+Posso io spiegare i cieli?  
+Come quieto giace l'[[Riddle|Enigma]]!

@@ -33,3 +33,26 @@ And even when with Cords —
 'Twas lowered, like a Weight —  
 It made no Signal, nor demurred,  
 But dropped like Adamant.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era caldo — al principio — come Noi —  
+Finché vi strisciò sopra  
+Un Freddo — come [[Frost|brina]] su un Vetro —  
+Finché tutta la scena — svanì.
+
+La Fronte copiò la Pietra —  
+Le Dita divennero troppo fredde  
+Per dolere — e come il Ruscello d'un Pattinatore —  
+Gli occhi operosi — si rappresero —
+
+Si irrigidì — questo fu tutto —  
+Serrò Freddo contro Freddo —  
+Moltiplicò indifferenza —  
+Come se l'[[Pride|Orgoglio]] fosse tutto il suo potere —
+
+E perfino quando con Corde —  
+Fu calato, come un Peso —  
+Non fece Segnale, né obiettò,  
+Ma cadde come Adamante.

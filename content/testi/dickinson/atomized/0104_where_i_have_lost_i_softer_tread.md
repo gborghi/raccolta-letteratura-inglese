@@ -32,3 +32,25 @@ Why, I have lost, the people know
 Who dressed in flocks of purest [[Snow|snow]]  
 Went [[Home|home]] a century ago  
 Next Bliss!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dove ho perduto, cammino più lieve —  
+Semino dolce fiore da aiuola di [[Garden|giardino]] —  
+Mi fermo sopra quel capo svanito  
+E piango.  
+
+Chi ho perduto, pia custodisco  
+Da accento aspro, o parola spietata —  
+Come se il loro cuscino udisse,  
+Benché pietra!  
+
+Quando ho perduto, lo saprete da questo —  
+Una Cuffia nera — Una fosca cotta —  
+Un piccolo tremito nella mia voce Come questo!  
+
+Perché ho perduto, lo sa la gente  
+Che vestita in stormi di purissima [[Snow|neve]]  
+Andò a [[Home|casa]] un secolo fa  
+Accanto alla Beatitudine!

@@ -38,3 +38,31 @@ He visited — still flitting —
 Then like a timid Man  
 Again, He tapped — 'twas flurriedly —  
 And I became [[Alone|alone]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Wind|Vento]] — bussò come un Uomo stanco —  
+E come un Ospite — "Avanti"  
+Risposi ardita — entrò allora  
+Dentro la mia Dimora  
+
+Un Rapido — Ospite senza piedi —  
+A cui offrire una Sedia  
+Era impossibile come porgere  
+Un Sofà all'Aria —  
+
+Non aveva Ossa a legarlo —  
+Il suo Parlare era come l'Impeto  
+Di numerosi [[Birds|Colibrì]] in una volta  
+Da un Cespuglio superiore —  
+
+Il suo Volto — un'Onda —  
+Le sue Dita, mentre passava  
+Lasciarono una musica — come di melodie  
+Soffiate tremule nel Vetro —  
+
+Fece visita — sempre svolazzando —  
+Poi come un Uomo timido  
+Di nuovo, bussò — fu frettoloso —  
+E io divenni [[Alone|sola]] —

@@ -38,3 +38,31 @@ I'm confident that Bravoes —
 Perpetual break abroad  
 For Braveries, remote as this  
 In Scarlet Maryland —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quand'ero piccola, una Donna morì —  
+Oggi — il suo Unico Figlio  
+Salì su dal Potomac —  
+Il volto tutto Vittoria  
+
+Per guardarla — Come lente  
+Devono aver girato le [[Seasons|Stagioni]]  
+Finché le Pallottole recisero un Angolo  
+E Lui passò rapido oltre —  
+
+Se [[Pride|orgoglio]] vi sarà in Paradiso —  
+Noi non possiamo deciderlo —  
+Del loro Contegno imperiale —  
+Nessuno testimoniò —  
+
+Ma, fieri in Apparizione —  
+Quella Donna e il suo Figlio  
+Passano avanti e indietro, davanti alla mia Mente  
+Come pure nel cielo —  
+
+Sono certa che Evviva —  
+Perpetui prorompono lassù  
+Per Prodezze, remote come questa  
+Nello Scarlatto Maryland —

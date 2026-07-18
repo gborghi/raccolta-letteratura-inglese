@@ -26,3 +26,19 @@ Hath the perfected Life —
 A past of Plank and Nail  
 And slowness — then the Scaffolds drop  
 Affirming it a [[Soul]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I Puntelli assistono la [[house|Casa]]  
+Finché la [[house|Casa]] è costruita  
+E poi i Puntelli si ritirano  
+E adeguata, eretta,  
+La [[house|Casa]] sostiene se stessa  
+E cessa di ricordare  
+La Trivella e il Carpentiere —  
+Proprio un tale retrospetto  
+Ha la Vita perfezionata —  
+Un passato di Asse e Chiodo  
+E lentezza — poi le Impalcature cadono  
+Affermandola un'[[Soul|Anima]].

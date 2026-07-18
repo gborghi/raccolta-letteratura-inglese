@@ -23,3 +23,16 @@ That fastened it so long
 With indignation,  
 As a Bird  
 Defrauded of its [[Song|song]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come dalla terra il lieve Pallone  
+Non chiede altro che liberazione —  
+Ascensione ciò per cui esisteva,  
+La sua Dimora che si libra.  
+Lo spirito guarda la [[Dust|Polvere]]  
+Che tanto a lungo lo avvinse  
+Con indignazione,  
+Come un Uccello  
+Defraudato del suo [[Song|canto]].

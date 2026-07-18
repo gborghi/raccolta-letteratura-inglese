@@ -23,3 +23,16 @@ Meek at whose everlasting feet
 A Myriad Daisy play —  
 Which, Sir, are you and which am I  
 Upon an August day?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+In terre che mai vidi — dicono  
+Alpi Immortali guardano giù —  
+Le cui Cuffie toccano il firmamento —  
+I cui Sandali toccano la città —  
+
+Miti ai loro piedi eterni  
+Una Miriade di Margherite gioca —  
+Quale, Signore, siete voi e quale sono io  
+In un giorno d'Agosto?

@@ -33,3 +33,26 @@ On here and there — a creature —
 They'd modify the Glee  
 To fit some Crucifixal Clef —  
 Some Key of Calvary —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Mattino dopo la Sciagura —  
+È spesso questa la Via —  
+Supera tutto ciò che [[Rose|sorse]] prima —  
+In assoluto Giubilo —  
+
+Come se la [[Nature|Natura]] non curasse —  
+E ammucchiasse ancora i suoi Fiori —  
+E per ostentare di più una [[Joy|Gioia]]  
+Che la sua Vittima fissava —  
+
+Gli [[Birds|Uccelli]] declamano le loro Melodie —  
+Pronunciando ogni parola  
+Come Martelli — Sapessero di cadere  
+Come Litanie di Piombo —  
+
+Su qua e là — una creatura —  
+Modulerebbero la Gaiezza  
+Per adattarla a una Chiave Crocifissale —  
+A un Tono di Calvario —

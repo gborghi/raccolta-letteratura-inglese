@@ -23,3 +23,16 @@ Lest [[Love]] should value less
 What Loss would value more  
 Had it the stricken privilege,  
 It cherishes before.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non fosse stato questo unico Giorno.  
+O potesse cessare d'essere  
+Come colpito, come superfluo,  
+Sarebbe ogni altro Giorno!  
+
+Perché [[Love|Amore]] non stimi meno  
+Ciò che Perdita stimerebbe più  
+Se avesse lo straziato privilegio,  
+Esso lo predilige prima.

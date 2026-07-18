@@ -25,3 +25,18 @@ Show me Division can split or pare —
 [[Love]] is like [[Death]], during the [[Grave]]  
 [[Love]] is the Fellow of the [[Resurrection]]  
 Scooping up the [[Dust]] and chanting "Live"!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Finché è vivo  
+Finché la [[Death|Morte]] non lo tocca  
+Finché esso ed io lambiamo un'unica Aria  
+Dimoriamo in un solo [[Blood|Sangue]]  
+Sotto un solo Sacramento  
+Mostratemi Divisione che possa scindere o mozzare —  
+
+L'[[Love|Amore]] è come la Vita — solo più lungo  
+L'[[Love|Amore]] è come la [[Death|Morte]], durante la [[Grave|Tomba]]  
+L'[[Love|Amore]] è il Compagno della [[Resurrection|Resurrezione]]  
+Che raccoglie la [[Dust|Polvere]] cantando "Vivi"!

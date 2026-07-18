@@ -26,3 +26,19 @@ Look — if She should know
 Crumb of Mine  
 A Robin's Larder  
 Would suffice to stow —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tanta [[Summer|Estate]]  
+A me per mostrarmi  
+Illegittima —  
+Sarebbe d'un Sorriso il dono d'un minuto  
+Troppo esorbitante  
+
+Per la Signora  
+Con la Ghinea  
+Guarda — se Ella sapesse  
+Che una Briciola Mia  
+La Dispensa d'un Pettirosso  
+Basterebbe a colmare —

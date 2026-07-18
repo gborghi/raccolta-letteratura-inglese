@@ -23,3 +23,16 @@ Did those I loved repose,
 the Daisy would impel me -  
 Philip when bewildered -  
 bore his [[Riddle|riddle]] in -
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se quelli che amavo fossero perduti,  
+la voce del banditore me lo direbbe -  
+Se quelli che amavo fossero ritrovati,  
+[[The [[Bells]]|le campane]] di Gand suonerebbero,  
+
+Se quelli che amavo riposassero,  
+la Margherita mi spingerebbe -  
+Philip quando smarrito -  
+portò dentro il suo [[Riddle|enigma]] -

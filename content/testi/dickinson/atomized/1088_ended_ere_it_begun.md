@@ -23,3 +23,16 @@ Had it been mine, to print!
 Had it been yours, to read!  
 That it was not Our privilege  
 The interdict of [[God]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Finita, prima d'iniziare —  
+Il Titolo era appena detto  
+Quando la Prefazione perì dalla Coscienza  
+La Storia, non rivelata —  
+
+Fosse stato mio, stamparla!  
+Fosse stato vostro, leggerla!  
+Che non fosse Nostro privilegio  
+L'interdetto di [[God|Dio]] —

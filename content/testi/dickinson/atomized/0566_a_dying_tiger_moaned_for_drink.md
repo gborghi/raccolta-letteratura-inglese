@@ -28,3 +28,21 @@ Of [[Water]] — and of me —
 'Twas not his blame — who died  
 While I was reaching him —  
 But 'twas — the fact that He was dead —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una Tigre Morente — gemeva per Bere —  
+Frugai tutta la Sabbia —  
+Colsi lo Stillicidio d'una Roccia  
+E lo portai nella mia Mano —  
+
+I suoi Possenti Globi — nella [[Death|morte]] erano torbidi —  
+Ma cercando — potei vedere  
+Una Visione sulla Retina  
+D'[[Water|Acqua]] — e di me —  
+
+Non fu colpa mia — che accorsi troppo lenta —  
+Non fu colpa sua — che morì  
+Mentre lo raggiungevo —  
+Ma fu — il fatto che Egli era morto —

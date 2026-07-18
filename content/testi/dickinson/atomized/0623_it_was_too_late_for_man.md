@@ -23,3 +23,16 @@ How excellent the heaven,
 When earth cannot be had ;  
 How hospitable, then, the face  
 Of our old neighbor, [[God]] !
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era troppo tardi per l'uomo,  
+Ma presto ancora per [[God|Dio]] ;  
+La creazione impotente ad aiutare,  
+Ma la [[prayer|preghiera]] restava dalla nostra parte.  
+
+Com'è eccellente il cielo,  
+Quando la terra non si può avere ;  
+Com'è ospitale, allora, il volto  
+Del nostro vecchio vicino, [[God|Dio]] !

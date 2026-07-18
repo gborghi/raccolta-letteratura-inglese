@@ -22,3 +22,15 @@ Is just as high as you and I,
 And higher, I believe,  
 So soar away and never sigh  
 And that's the way to grieve —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Farfalla sopra il Cielo,  
+Che non conosce il suo Nome  
+E non ha tasse da pagare  
+E non ha alcuna [[Home|Casa]]  
+È alta proprio quanto te e me,  
+E più alta, io credo,  
+Perciò vola via e non sospirare mai  
+E questo è il modo di piangere —

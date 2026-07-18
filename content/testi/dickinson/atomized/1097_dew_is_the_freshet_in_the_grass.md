@@ -28,3 +28,21 @@ Could Commentators on the Sign
 Of [[Nature]]'s Caravan  
 Obtain "Admission" as a [[Child]]  
 Some Wednesday Afternoon.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Dew|Rugiada]] — è la Piena nell'Erba —  
+È più d'un minuscolo Mulino  
+Che gira inavvertito sotto i nostri piedi  
+E l'Artigiano giace immobile —  
+
+Scorgiamo le Foreste e le Colline  
+Le Tende dello Spettacolo della [[Nature|Natura]]  
+Scambiamo il Fuori per il dentro  
+E riferiamo ciò che abbiamo visto.  
+
+Potessero i Commentatori del Segno  
+Della Carovana della [[Nature|Natura]]  
+Ottenere "Ingresso" come un [[Child|Bambino]]  
+Un qualche Mercoledì Pomeriggio.

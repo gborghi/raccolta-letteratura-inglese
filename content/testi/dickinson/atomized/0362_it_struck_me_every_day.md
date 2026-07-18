@@ -28,3 +28,21 @@ I though that [[Storm]] — was brief —
 The Maddest — quickest by —  
 But [[Nature]] lost the Date of This —  
 And left it in the Sky —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi colpiva — ogni Giorno —  
+Il [[Lightning|Lampo]] era così nuovo  
+Come se la Nube in quell'istante si fendesse  
+E lasciasse passare il [[Fire|Fuoco]] —  
+
+Mi bruciò — nella [[Night|Notte]] —  
+Vescicò fin dentro il Mio Sogno —  
+Tornava fresco a nausearmi la vista —  
+Con ogni Mattino che veniva —  
+
+Pensavo che la [[Storm|Tempesta]] — fosse breve —  
+La più Folle — la più svelta a passare —  
+Ma la [[Nature|Natura]] perse la Data di Questa —  
+E la lasciò nel Cielo —

@@ -26,3 +26,19 @@ Than vaster suing —
 For so to soar away  
 Is our propensity  
 The Day ensuing —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vieni mostra il tuo Petto di Durham  
+A colei che più ti ama,  
+Delizioso Pettirosso —  
+E se non fossi io  
+Almeno dentro il mio [[Tree|Albero]]  
+Fa' la tua dichiarazione —  
+Le tue Nozze così minute  
+Forse sono più astute  
+Di più vasto corteggiare —  
+Ché così volar via  
+È la nostra propensione  
+Il Giorno che segue —

@@ -23,3 +23,16 @@ Garrisoned no [[Soul]] can be
 In the Front of Trouble —  
 [[Love]] is one, not aggregate —  
 Nor is Dying [[Double|double]] —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sicura [[Despair|Disperazione]] è quella che delira —  
+L'Agonia è frugale.  
+Si ripone severa  
+Per la propria lettura.  
+
+Presidiata nessuna [[Soul|Anima]] può essere  
+Al Fronte del Tormento —  
+L'[[Love|Amore]] è uno, non aggregato —  
+Né il Morire è [[Double|doppio]] —

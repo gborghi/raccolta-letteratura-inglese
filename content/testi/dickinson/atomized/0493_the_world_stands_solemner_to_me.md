@@ -32,3 +32,25 @@ A Gratitude — that such be true —
 It had esteemed the Dream —  
 Too beautiful — for Shape to prove —  
 Or posture — to redeem!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+—  
+
+Il Mondo — sta — più solenne — per me —  
+Da che fui sposata — a Lui —  
+Una modestia si addice all'[[Soul|anima]]  
+Che porta il nome — d'un altro —  
+Un [[Doubt|dubbio]] — se sia giusto — davvero —  
+Portare quella perla — perfetta —  
+Che l'Uomo — sulla Donna — stringe —  
+Per serrarne l'[[Soul|anima]] — per sempre —  
+Una [[prayer|preghiera]], che più angelo — si provi —  
+Un più candido Dono — dentro —  
+A quella munificenza, che scelse —  
+Così disadorna — una [[Queen|Regina]] —  
+Una Gratitudine — che ciò sia vero —  
+Aveva stimato il Sogno —  
+Troppo bello — perché Forma lo provi —  
+O posa — lo riscatti!

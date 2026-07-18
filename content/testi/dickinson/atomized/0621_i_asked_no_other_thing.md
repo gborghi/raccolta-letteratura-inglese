@@ -23,3 +23,16 @@ Brazil ?  He twirled a button,
 Without a glance my way :  
 "But, madam, is there nothing else  
 That we can show to-day ?"
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non chiesi altra cosa.  
+Nessun'altra fu negata.  
+Offrii in cambio l'Essere ;  
+Il possente mercante sorrise.  
+
+Il Brasile ?  Girò fra le dita un bottone,  
+Senza uno sguardo verso di me :  
+"Ma, signora, non c'è nient'altro  
+Che possiamo mostrarvi quest'oggi ?"
