@@ -37,16 +37,22 @@ jobs:
         run: npx quartz build
         env:
           NODE_OPTIONS: "--max-old-space-size=14336"
-      - name: Build mobile search index
-        # Derive the light contentIndexMobile.json from the built full index.
-        run: node scripts/make-mobile-index.mjs
+      - name: Inject atom search entries
+        # Merge the committed data/atom_search.json.gz (per-atom search entries) into
+        # the raw contentIndex.json before it gets TF-IDF compressed.
+        run: node scripts/inject-atom-search.mjs
       - name: Compress desktop search index
         # Replace each page's full text with a short snippet + top TF-IDF terms so the
         # desktop contentIndex.json shrinks ~10x (~300MB -> ~26MB) while staying searchable.
-        # Runs AFTER the mobile derivation, which needs the full text.
+        # Also builds the off-site master data/search-full-index.json, which the mobile
+        # derivation step below reads. Must run BEFORE make-mobile-index.mjs.
         run: node scripts/compress-search-index.mjs
         env:
           NODE_OPTIONS: "--max-old-space-size=8192"
+      - name: Build mobile search index
+        # Derive the light contentIndexMobile.json by projecting the master index
+        # that compress-search-index.mjs just built.
+        run: node scripts/make-mobile-index.mjs
       - name: Slim tags index page
         # Replace the ~24MB server-rendered /tags/ aggregator with a lightweight client
         # table (static/tags.json + tags-table.js) so no single file nears the 25 MiB cap.
