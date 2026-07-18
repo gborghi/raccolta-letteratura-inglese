@@ -10,6 +10,7 @@ import path from "node:path"
 import matter from "gray-matter"
 import { fileURLToPath } from "node:url"
 import { execSync } from "node:child_process"
+import zlib from "node:zlib"
 
 // ---- per-work readability (prose only) ----------------------------------------
 const POETRY_FORMS = new Set(["ballad","narrative_poem","lyric","sonnet","shakespearean_sonnet","petrarchan_sonnet","ode","pindaric_ode","elegy","epic","mock_epic","free_verse","blank_verse","heroic_couplet","hexameter_verse","conversation_poem","comic_verse_song","dirge","hymn","litany","inscription","ottava_rima","rhyme_royal","spenserian_stanza","terza_rima","verse_epistle","poem_sequence","riddle","epigram","fragment","dramatic_monologue"])
@@ -202,6 +203,7 @@ const AUTHORS_DIR = path.join(VAULT_ROOT, "Authors")
 // Their work pages, full text, atomized units and index rows are all dropped.
 const EXCLUDE_AUTHORS = new Set(["Hemingway"])
 const CONTENT = path.join(ROOT, "content")
+const DATA = path.join(ROOT, "data")
 
 // Re-stamp content/ as Dropbox-ignored after each regen — main() recreates the dir,
 // which drops any prior flag. content/ stays git-tracked (git syncs it to CI); this only
@@ -474,6 +476,19 @@ function stripLeadingSelfH1(content) {
   return content.replace(/^([ \t]*\r?\n)*[ \t]*#[ \t]+\[\[[^\]]*\]\][^\n]*\r?\n/, "")
 }
 
+// Corpus-wide per-leaf-atom search (data/atom_search.json, SPA only): reduce an
+// atom's markdown body to plain searchable text — strip html markers (atom-split /
+// qlang-split spans, nav), collapse wikilinks to their display label, drop MD
+// syntax chars, collapse whitespace.
+function plainForSearch(md) {
+  return String(md || "")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\[\[([^\]|]+\|)?([^\]]+)\]\]/g, "$2")
+    .replace(/[#>*_`~]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
 // Classify a unit relative path (under an author dir) -> { unitType, order }.
 function classifyUnit(relParts, fileName) {
   const f = fileName.replace(/\.md$/, "")
@@ -540,6 +555,8 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   const workParts = new Map() // work href -> [{ slug, order, relU }] flat "part_NN" excerpts (no chapter layer)
   const atomMeta = new Map() // SPA: frag href -> { title, work, workHref } for EVERY unit (powers #17 chapter cards)
   const atomSourceToFrag = new Map() // "Authors/<Author>/<sub>/<relU>" -> "workSlug#atomId" (subwork href resolution)
+  const atomSearch = {} // SPA: frag (or bare reading slug for atomless works) -> { title, work, text }, corpus-wide search
+  const unitPlainText = new Map() // SPA: reading slug (workSlug) -> plain text of its intro unit, for atomless works
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -636,6 +653,10 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
           const atomIdOf = (it) =>
             it.slug.slice(workSlug.length + 1).replace(/\//g, "--") || "intro"
           const blocks = []
+          const workDirFrags = [] // atomSearch keys emitted for THIS workDir, so a
+          // single-unit work (exactly one leaf atom = the whole work) can be
+          // re-keyed below to its bare reading slug, matching readHrefByWork /
+          // rec.readHref (the canonical link every other index uses for it).
           for (const it of items) {
             const atomId = atomIdOf(it)
             const authPath = `Authors/${author}/${sub}/${it.relU}`
@@ -675,6 +696,10 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             enBody = enBody.replace(/^\|.*$/gm, (row) =>
               row.replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, "[[$1\\|$2]]"),
             )
+            const atomText = plainForSearch(enBody)
+            atomSearch[frag] = { title, work: workLabel, text: atomText }
+            workDirFrags.push(frag)
+            if (isIntro) unitPlainText.set(workSlug, atomText)
             const kind = isIntro ? "intro" : it.unitType
             let block =
               `\n\n<span class="atom-split" data-atom="${esc(atomId)}" ` +
@@ -708,6 +733,18 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
               const kw = keywordCounts(body)
               if (kw.size) excerptsKw[frag] = kw
             }
+          }
+
+          // Single-unit work (exactly one leaf atom emitted): its whole content IS
+          // the work, and every other index (readHrefByWork, rec.readHref) points at
+          // the bare workSlug, not "workSlug#intro"/"#part_01". Re-key so search
+          // results land on the same canonical URL, and Step 2 below doesn't treat
+          // it as already covered under a fragment nobody else links to.
+          if (workDirFrags.length === 1) {
+            const onlyFrag = workDirFrags[0]
+            atomSearch[workSlug] = atomSearch[onlyFrag]
+            delete atomSearch[onlyFrag]
+            unitPlainText.set(workSlug, atomSearch[workSlug].text)
           }
 
           const fm =
@@ -885,7 +922,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag }
+  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText }
 }
 
 async function main() {
@@ -996,7 +1033,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag } = await publishUnits(rawSourceToWork, translations)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText } = await publishUnits(rawSourceToWork, translations)
 
   // Page-less sub-work nodes: their href is the SPA fragment of their source atom, and
   // they emit NO content/works page (see PASS 2). Resolve href from source now, so the
@@ -1019,6 +1056,27 @@ async function main() {
     titleToHref.set(rec._base, frag)
     if (rec.title !== rec._base) titleToHref.set(rec.title, frag)
   }
+
+  // Cover atomless works: a single-unit work IS its own leaf atom, but if the
+  // whole workDir produced no leaf-atom entry (e.g. a readable work with a reading
+  // slug but no atom-level text was captured), add one entry keyed by its bare
+  // reading slug (no #fragment) so it is still corpus-searchable.
+  if (SPA) {
+    const fraggedWorks = new Set(Object.keys(atomSearch).map((f) => f.split("#")[0]))
+    for (const rec of works) {
+      const readSlug = readHrefByWork.get(rec.href)
+      if (!readSlug) continue // no reading page (pure concept note)
+      if (fraggedWorks.has(readSlug)) continue // already covered by its atoms
+      if (atomSearch[readSlug]) continue
+      atomSearch[readSlug] = { title: rec.title, work: rec.title, text: unitPlainText.get(readSlug) || "" }
+    }
+    // Cap every entry's text before writing — full per-atom text made this file
+    // 232MB (over GitHub's 100MB limit). 2000 chars is ample for search terms;
+    // the deployed FlexSearch index truncates far more anyway.
+    for (const k in atomSearch) atomSearch[k].text = String(atomSearch[k].text || "").slice(0, 2000)
+    await fs.writeFile(path.join(DATA, "atom_search.json.gz"), zlib.gzipSync(Buffer.from(JSON.stringify(atomSearch))))
+  }
+
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
