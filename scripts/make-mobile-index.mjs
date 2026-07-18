@@ -30,8 +30,15 @@ const master = JSON.parse(fs.readFileSync(masterPath, "utf8"))
 // Cap links BEFORE projecting so the binary search sizes against the actual bytes
 // that end up on disk (capping after projection would let the chosen term count
 // undershoot the target once the trimmed links shrink the final payload).
+// Mobile index is works-only. Per-atom search entries (keys `workSlug#atomId`)
+// are a DESKTOP searchbar enhancement: they carry no `terms`, so the byte-budget
+// projection has no field to trim on them — 19k atom entries would pin the mobile
+// index at its per-entry floor (~12.8MB) regardless of target. Dropping them
+// restores mobile to its natural works-only size (~7.5MB, under budget). Desktop
+// (contentIndex.json) keeps the full per-leaf index.
 const capped = {}
 for (const [slug, d] of Object.entries(master)) {
+  if (slug.includes("#")) continue
   capped[slug] = { ...d, links: Array.isArray(d.links) ? d.links.slice(0, LINK_CAP) : [] }
 }
 
