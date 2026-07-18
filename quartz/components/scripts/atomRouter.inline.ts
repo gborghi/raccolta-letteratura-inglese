@@ -114,7 +114,15 @@ function chapterOf(t: string): string {
 function leafLabel(a: Atom): string {
   let s = chapterOf(a.title)
   if (a.chapter && s.startsWith(a.chapter)) {
-    s = s.slice(a.chapter.length).replace(/^[\s—–-]+/, "").trim() || s
+    s = s
+      .slice(a.chapter.length)
+      .replace(/^[\s—–-]+/, "")
+      .trim()
+    // A single-leaf story atom's title is often just the chapter name + trailing
+    // punctuation (e.g. Gutenberg "THE GULLY OF BLUEMANSDYKE."), so slicing the
+    // period-less chapter prefix can leave a bare "." — punctuation/whitespace-only,
+    // not caught by an empty check. Fall back to the full label in that case too.
+    if (!s || /^[\s.,;:!?—–-]*$/.test(s)) s = chapterOf(a.title) || a.title
   }
   return s.replace(/^\((?:part|parte)\s*(\d+)\)$/i, "Parte $1")
 }
