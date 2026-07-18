@@ -536,6 +536,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   const workContainers = new Map() // work href -> { slug, title, relU } full-text page (single-essay fallback)
   const workParts = new Map() // work href -> [{ slug, order, relU }] flat "part_NN" excerpts (no chapter layer)
   const atomMeta = new Map() // SPA: frag href -> { title, work, workHref } for EVERY unit (powers #17 chapter cards)
+  const atomSourceToFrag = new Map() // "Authors/<Author>/<sub>/<relU>" -> "workSlug#atomId" (subwork href resolution)
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -636,6 +637,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
             const atomId = atomIdOf(it)
             const authPath = `Authors/${author}/${sub}/${it.relU}`
             const frag = `${workSlug}#${atomId}`
+            atomSourceToFrag.set(authPath, frag)
             // every unit — leaf, aggregate chapter, or work root — resolves into the
             // one work page (aggregates land on their own anchor; the router maps a
             // chapter id to its first leaf).
@@ -873,7 +875,7 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork }
+  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag }
 }
 
 async function main() {
@@ -973,7 +975,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork } = await publishUnits(rawSourceToWork, translations)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag } = await publishUnits(rawSourceToWork, translations)
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
