@@ -32,3 +32,20 @@ test("projectToTarget lands under target and near it", () => {
   assert.ok(size <= target, `size ${size} <= ${target}`)
   assert.ok(size >= target * 0.9, `size ${size} >= ${target * 0.9}`)
 })
+
+test("projected content leads with readable prose snippet, not just terms", () => {
+  const raw = {
+    p0: {
+      title: "t0",
+      slug: "p0",
+      content:
+        "the quick brown fox jumps over the lazy dog while distinctive rare uncommon terms scatter",
+    },
+  }
+  const full = buildFullIndex(raw)
+  const out = projectToTarget(full, 1_000_000)
+  assert.ok(
+    out["p0"].content.startsWith("the quick brown fox"),
+    `content should start with snippet, got: ${out["p0"].content.slice(0, 60)}`,
+  )
+})

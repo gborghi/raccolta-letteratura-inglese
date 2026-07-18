@@ -12,8 +12,9 @@
 // make-mobile-index.mjs) both derive from the SAME master without recomputing
 // TF-IDF twice.
 //
-// title/tags/links/slug are untouched; only `content` (built from top-N terms) is
-// replaced. Run AFTER `npx quartz build` (+ inject-atom-search.mjs).
+// title/tags/links/slug are untouched; only `content` (built from a readable
+// 160-char prose snippet + top-N terms) is replaced. Run AFTER `npx quartz build`
+// (+ inject-atom-search.mjs).
 // NOTE: not idempotent — always run on a freshly built contentIndex.json (the build
 // regenerates it each time), never twice in a row.
 import fs from "fs"
@@ -56,9 +57,12 @@ export function buildFullIndex(rawIndex) {
   // pass 1: per-entry token frequency + document frequency
   const tf = new Map() // slug -> Map(term->count)
   const df = new Map() // term -> #docs
+  const snippets = new Map() // slug -> readable prose snippet (from raw, pre-lowercase text)
   for (const slug of slugs) {
     const it = rawIndex[slug]
-    const text = (it && typeof it.content === "string" ? it.content : "").toLowerCase()
+    const rawText = it && typeof it.content === "string" ? it.content : ""
+    snippets.set(slug, rawText.replace(/\s+/g, " ").trim().slice(0, 160))
+    const text = rawText.toLowerCase()
     const counts = new Map()
     for (const m of text.matchAll(WORD)) {
       const w = m[0]
@@ -87,6 +91,7 @@ export function buildFullIndex(rawIndex) {
       tags: it.tags || [],
       links: it.links || [],
       terms: scored.slice(0, MASTER_CAP),
+      snippet: snippets.get(slug) || "",
     }
   }
   return out
@@ -112,7 +117,8 @@ export function projectToTarget(
       const entry = {}
       for (const f of fields) entry[f] = d[f]
       const terms = Array.isArray(d.terms) ? d.terms.slice(0, n) : []
-      entry.content = terms.map(([w]) => w).join(" ")
+      const termStr = terms.map(([w]) => w).join(" ")
+      entry.content = d.snippet ? `${d.snippet} ${termStr}` : termStr
       out[slug] = entry
     }
     return out
