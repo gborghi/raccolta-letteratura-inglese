@@ -39,3 +39,6 @@ __pycache__/
 debug.log
 sync-v5.log
 gkc_tower_cache.jsonl.*.bak
+
+# master full ranked search index — large, regenerable, never deployed/committed
+data/search-full-index.json
