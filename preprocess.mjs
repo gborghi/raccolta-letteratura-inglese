@@ -483,6 +483,9 @@ function classifyUnit(relParts, fileName) {
   if ((m = f.match(/^Story_(\d+)/i))) return { unitType: "story", order: parseInt(m[1], 10) }
   if ((m = f.match(/^Section_(\d+)/i))) return { unitType: "section", order: parseInt(m[1], 10) }
   if ((m = f.match(/^Scene_(\d+)/i))) return { unitType: "scene", order: parseInt(m[1], 10) }
+  // exchange/monologue leaf of a play scene: "01_exchange_dialogue", "02_monologue_KING_CLAUDIUS"
+  if ((m = f.match(/^(\d+)_(exchange|monologue)_/i)))
+    return { unitType: m[2].toLowerCase(), order: parseInt(m[1], 10) }
   return { unitType: "work", order: 0 }
 }
 
