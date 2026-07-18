@@ -13845,6 +13845,230 @@ If he had found himself inside any ordinary domestic interior, he would instantl
 His first feeling was that he was walking in the most sealed and secret suite of apartments in the [[Castle|castle]] of [[A Dream|a dream]]. All the chambers had that air of perpetually opening inwards which is the [[Soul|soul]] of the Arabian Nights. And the ornament was of the same tradition; gorgeous and flamboyant, yet featureless and stiff. A purple mansion seemed to be built inside a green mansion and a golden mansion inside that. And the quaintly cut doorways or fretted lattices all had wavy lines like a dancing sea, and for some reason (sea-sickness for all he knew) this gave him a feeling as if the place were beautiful but faintly evil: as if it were bored and twisted for the fallen palace of the Worm.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ah! Conoscevo un dottor Gluck,
+
+
+
+E il suo naso aveva un uncino,
+
+
+
+E i suoi atteggiamenti erano tutt'altro che ariani;
+
+
+
+Così gli ho dato tutto il prosciutto
+
+
+
+Che avevo, su una forchetta;
+
+
+
+Perché anch'io sono un [[vegetarian|vegetariano]].»
+
+
+
+«Se lo sei», disse Humphrey Pump, «è meglio che venga a mangiare un po' di verdure. Il Cappello Bianco può essere mangiato freddo - o crudo, del resto. Ma il Macchiabianca vuole una cottura.»
+
+
+
+«Avete ragione, Hump», disse Dalroy, sedendosi con ogni apparenza di silenziosa [[Greed|avidità]]. «Resterò in silenzio. Come dice il poeta:
+
+
+
+"Sono silenzioso al Circolo,"
+
+
+
+Sono silenzioso al pub,
+
+
+
+Sono silenzioso su una dannata vetta nel Darien;
+
+
+
+Perché mi riempio la vita di cose,
+
+
+
+Infilare i piselli con un coltello,
+
+
+
+Perché, in fondo al cuore, sono un [[vegetarian|vegetariano]].»
+
+
+
+Si avventò sul cibo con grande gusto, ne consumò una buona quantità in un [[Time|tempo]] brevissimo, lanciò uno sguardo di cupa invidia alla botte e poi si rialzò di scatto. Afferrò il cartello dell'osteria da dove era appoggiato contro la Pantomime Cottage e lo piantò come una picca nel terreno accanto a lui. Poi ricominciò a cantare, con una voce ancora più forte di prima.
+
+
+
+"O, Lord Ivywood può tagliare,"
+
+
+
+E il suo privilegio è boschivo e fluviale;
+
+
+
+E inoltre è libero di completare,
+
+
+
+Però...»
+
+
+
+«Sapete», disse Hump, finendo anche lui il suo pranzo, «che mi sto un po' stancando di quella particolare melodia?»
+
+
+
+“Stanco, eh?” disse l’indignato irlandese “allora ti canterò una [[Song|canzone]] più lunga, su un motivo ancora peggiore, di vegetariani sempre più numerosi e tu mi vedrai [[Dance|danzare]] altrettanto [[Well|bene]]; danzerò finché non scoppi in [[Dance|lacrime]] e non mi offrirai metà del tuo regno; io chiederò la testa di Mr. Leveson su una padella. Perché, sappi che questa è una [[Tears|canzone]] di origine orientale, che celebra i capricci di un antico Sultano babilonese e dovrebbe essere eseguita in palazzi d’avorio con palme e accompagnamento di bulbul.”
+
+
+
+E cominciò a ruggire un'altra e più antica [[Lyric|canzone]] di sua composizione sull'argomento del vegetarianesimo.
+
+
+
+«Nabucodonosor, il [[King|Re]] degli Ebrei,
+
+
+
+Ha sofferto per idee nuove e originali,
+
+
+
+Si dice che strisciò sulle mani e sulle ginocchia
+
+
+
+Con l'erba in bocca e una [[Crown|corona]] sulla testa,
+
+
+
+Con un wowtyiddly eccetera,
+
+
+
+
+
+"Coloro che percorrono i sentieri tradizionali,"
+
+
+
+Pensava che fosse una maledizione di Dio;
+
+
+
+Ma i pionieri vengono sempre maltrattati,
+
+
+
+Come Nabucodonosor, il [[King|Re]] degli Ebrei».
+
+
+
+Dalroy, mentre cantava questo, iniziò effettivamente ad [[Dance|ballare]] come una ballerina di balletto, un'enorme e ridicola figura alla luce del sole, agitando il cartello di legno sopra la sua testa. [[quoodle|Quoodle]] aprì gli occhi e drizzò le orecchie e sembrò molto interessato a queste straordinarie evoluzioni. Improvvisamente, con uno di quei cambiamenti sorprendenti che possono trasfigurare i cani più sedentari, [[quoodle|Quoodle]] decise che la [[Dance|danza]] era un gioco e iniziò ad abbaiare e a saltellare intorno all'artista, talvolta balzando così in alto da minacciare quasi la gola dell'uomo. Ma, sebbene il marinaio naturalmente sapesse meno dei contadini riguardo ai [[dogs|cani]], ne sapeva abbastanza (come su molte altre cose) per non aver paura, e la voce con cui cantava avrebbe potuto sovrastare l'abbaiare di una muta.
+
+
+
+“I Francesi uccisero il nero Lord Foulon,
+
+
+
+Pensò che fosse una cosa da futurista fare;
+
+
+
+Egli offrì loro erba invece di pane,
+
+
+
+Così lo imbottirono d'erba quando gli tagliarono la testa.
+
+
+
+Con un wowtyiddly eccetera,
+
+
+
+
+
+“Per l'[[Pride|orgoglio]] della sua [[Soul|anima]] egli morì allora,
+
+
+
+Ma naturalmente si tratta sempre di [[Pride|orgoglio]] che gli uomini
+
+
+
+Un uomo avanti rispetto al suo tempo
+
+
+
+Come Nabucodonosor, il [[King|Re]] degli Ebrei.
+
+
+
+
+
+"Simeon Scudder di Styx nel Maine,"
+
+
+
+Pensò alla cosa e ci riprovò;
+
+
+
+Dava buon fieno e [[Water|acqua]] nei secchi
+
+
+
+A mille irlandesi che martellano i binari,
+
+
+
+Con un wowtyiddly eccetera,
+
+
+
+
+
+"Gusti diversi e legati a un palo,"
+
+
+
+Fu cosparso di pece e piume per amore della [[Conscience|coscienza]];
+
+
+
+Ma lapidare i profeti è storia antica,
+
+
+
+Come Nabucodonosor, il [[King|Re]] degli Ebrei».
+
+
+
+In un abbandono insolito anche per lui, aveva danzato tra i cardi fino alla giungla di erbacce cresciuta intorno alla cappella affondata. E il cane, ormai pienamente convinto che non si trattasse solo di un gioco ma di una spedizione, forse addirittura di caccia, correva abbaiando davanti a lui lungo il sentiero che le zampe del suo stesso cane avevano già aperto nel groviglio. Prima che Patrick Dalroy [[Well|bene]] sapesse cosa stava facendo o anche solo ricordasse di avere ancora in mano quella ridicola targa, si ritrovò fuori dal portico aperto di una sorta di torre stretta all'angolo di un edificio che, per quanto ne sapeva, non aveva mai visto prima. [[quoodle|Quoodle]] salì immediatamente quattro o cinque gradini della scala buia all'interno e poi, rialzando le orecchie, si guardò indietro in attesa del suo compagno.
+
+
+
+C'è forse qualcosa che si chiede troppo a un uomo. Se c'è, era chiedere troppo a Patrick Dalroy di non accettare un invito così eccentrico. Immergendo frettolosamente il suo ingombrante vessillo di legno in mezzo ai cardi e all'erba, si piegò con il collo e le spalle gigantesche per entrare nel portico e proseguì a salire le scale. Era completamente buio, e fu solo dopo almeno due giri della scala a chiocciola che vide una luce davanti a sé, e poi sembrava un tipo di squarcio nella parete che gli apparve strappato come la bocca di una [[Cave|grotta]] del Cornovaglia. Era anche così basso che ebbe qualche difficoltà a passarci attraverso con il suo enorme corpo, ma il cane era saltato dentro con un'aria di familiarità e ancora una volta si guardò indietro per vederlo seguire.
+
+
+
+Se si fosse trovato all'interno di un qualsiasi ambiente domestico ordinario, si sarebbe subito pentito della sua evasione e sarebbe tornato indietro. Ma si ritrovò in un contesto che non aveva mai visto prima, o addirittura, in un certo senso, creduto possibile.
+
+
+
+La sua prima sensazione fu di camminare nella suite più sigillata e segreta degli appartamenti nel [[Castle|castello]] del [[A Dream|sogno]]. Tutte le stanze avevano quell'aria di aprirsi continuamente verso l'interno che è la [[Soul|anima]] delle Mille e una notte. E gli ornamenti erano della stessa tradizione; sontuosi e vistosi, ma privi di caratteristiche e rigidi. Una dimora viola sembrava essere costruita all'interno di una dimora verde e una dimora dorata dentro quella. E le porte stranamente intagliate o i reticoli lavorati a giorno avevano tutti linee ondulate come un mare danzante, e per qualche motivo (forse il mal di mare) questo gli dava la sensazione che il luogo fosse bello ma vagamente maligno: come se fosse annoiato e contorto per essere il palazzo caduto del Verme.
+
 
 
 <span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_03" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 3)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt"></span>
