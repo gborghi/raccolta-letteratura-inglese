@@ -924,6 +924,11 @@ async function main() {
         cluster: data.cluster ?? "",
         summary: extractSummary(content),
       }
+      // Hand-rolled frontmatter parser (see parseFrontmatter above) stores every
+      // scalar as a string — booleans included — so "subwork: true" arrives as
+      // the string "true", not the JS boolean.
+      rec._subwork = data.subwork === true || data.subwork === "true"
+      rec._source = typeof data.source === "string" ? data.source.replace(/\\/g, "/") : ""
       let n = 0
       for (const [prefix, field] of AXES) {
         const vals = tags
@@ -976,6 +981,23 @@ async function main() {
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
   const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag } = await publishUnits(rawSourceToWork, translations)
+
+  // Page-less sub-work nodes: their href is the SPA fragment of their source atom, and
+  // they emit NO content/works page (see PASS 2). Resolve href from source now, so the
+  // works index + conceptIndex (PASS 2) + link-rewriting all use the fragment.
+  for (const rec of works) {
+    if (!rec._subwork) continue
+    const frag = atomSourceToFrag.get(rec._source)
+    if (!frag) {
+      console.warn(`subwork: no atom fragment for source "${rec._source}" (title "${rec.title}") — skipping node`)
+      rec._drop = true
+      continue
+    }
+    rec.href = frag
+    rec.readHref = frag
+    rec.parentWork = atomMeta.get(frag)?.work || ""
+    titleToHref.set(rec.title, frag)
+  }
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "excerpts.json"),
     JSON.stringify(excerpts),
@@ -1119,10 +1141,23 @@ async function main() {
 
   // Point each work at its reading page (reader) where one exists; the works table,
   // faceted search and emblems use readHref so selecting a work opens the atoms +
-  // EN/IT toggle instead of the bare KG metadata node.
-  for (const rec of works) rec.readHref = readHrefByWork.get(rec.href) || ""
+  // EN/IT toggle instead of the bare KG metadata node. Sub-work recs already had
+  // their href/readHref resolved to an atom fragment above — leave them alone, or
+  // this lookup (keyed by the ORIGINAL work href, not the fragment) blanks them.
+  for (const rec of works) {
+    if (rec._subwork) continue
+    rec.readHref = readHrefByWork.get(rec.href) || ""
+  }
+  // Drop sub-work recs whose source atom never resolved to a fragment (see the
+  // resolver above), and strip the temp tagging fields before publishing.
+  const worksOut = works
+    .filter((r) => !r._drop)
+    .map((r) => {
+      const { _subwork, _source, _drop, ...clean } = r
+      return clean
+    })
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
-  await fs.writeFile(STATIC_JSON, JSON.stringify(works))
+  await fs.writeFile(STATIC_JSON, JSON.stringify(worksOut))
   await fs.writeFile(KW_JSON, JSON.stringify(topTfIdf(kwCounts)))
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "concepts.json"),
