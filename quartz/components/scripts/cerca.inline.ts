@@ -24,6 +24,7 @@ interface Work {
   settings: string[]
   characters: string[]
   nconnections: number
+  parentWork?: string
 }
 
 interface Facet {
@@ -368,7 +369,7 @@ async function init() {
       pageRows
         .map(
           (r) =>
-            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${esc(r.title)}</a></td>` +
+            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${esc(r.title)}</a>${r.parentWork ? `<span class="lt-cluster"> — ${esc(r.parentWork)}</span>` : ""}</td>` +
             `<td>${esc(r.author)}</td><td class="lt-cluster">${esc(r.cluster)}</td><td class="lt-num">${esc(r.nconnections)}</td></tr>`,
         )
         .join("") +

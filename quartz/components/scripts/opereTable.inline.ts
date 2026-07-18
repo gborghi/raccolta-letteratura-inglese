@@ -33,6 +33,7 @@ interface Work {
   flesch?: number
   fkgrade?: number
   fog?: number
+  parentWork?: string
 }
 
 let cache: Work[] | null = null
@@ -161,7 +162,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       slice
         .map(
           (r) =>
-            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${esc(r.title)}</a></td>` +
+            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${esc(r.title)}</a>${r.parentWork ? `<span class="lt-cluster"> — ${esc(r.parentWork)}</span>` : ""}</td>` +
             `<td>${esc(r.author)}</td>` +
             `<td class="lt-cluster">${esc(r.cluster)}</td>` +
             `<td class="lt-num">${esc(r.nconnections)}</td>` +

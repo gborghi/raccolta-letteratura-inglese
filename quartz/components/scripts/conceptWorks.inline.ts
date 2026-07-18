@@ -23,6 +23,7 @@ interface Work {
   cluster: string
   summary: string
   nconnections: number
+  parentWork?: string
 }
 interface ConceptEntry {
   title: string
@@ -152,7 +153,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       slice
         .map(
           (r) =>
-            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${highlight(r.title, q)}</a></td>` +
+            `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${highlight(r.title, q)}</a>${r.parentWork ? `<span class="lt-cluster"> — ${esc(r.parentWork)}</span>` : ""}</td>` +
             `<td>${esc(r.author)}</td>` +
             `<td class="cw-summary">${highlight(r.summary || "", q)}</td></tr>`,
         )
