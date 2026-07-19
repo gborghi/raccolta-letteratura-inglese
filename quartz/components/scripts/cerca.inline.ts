@@ -60,6 +60,20 @@ function pretty(v: string): string {
   return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
+// index.json is works-only (fast, loaded up front). The ~15k tagged-leaf rows
+// (chapters/parts/sonnets etc. carrying their own tags) live in index_leaf.json —
+// fetched ONCE, lazily, only when the user actually does a tag/facet search or
+// free-text query, since that's the only place leaf-level results show up.
+let leafPromise: Promise<Work[]> | null = null
+function loadLeaf(prefix: string): Promise<Work[]> {
+  if (!leafPromise) {
+    leafPromise = fetch(prefix + "static/index_leaf.json")
+      .then((r) => r.json())
+      .catch(() => [] as Work[])
+  }
+  return leafPromise
+}
+
 async function init() {
   const root = document.getElementById("cerca")
   if (!root || root.dataset.rendered) return
@@ -72,6 +86,20 @@ async function init() {
   } catch {
     root.textContent = "Could not load the works index."
     return
+  }
+  let leafLoaded = false
+  // Kick off (or join) the leaf-shard fetch, merge it into `data` once, refresh the
+  // facet chip counts to include leaf tags, and re-render. Safe to call more than
+  // once — loadLeaf() memoizes the fetch and leafLoaded guards the merge.
+  function ensureLeaves() {
+    if (leafLoaded) return
+    loadLeaf(prefix).then((leafRows) => {
+      if (leafLoaded) return
+      leafLoaded = true
+      data = data.concat(leafRows)
+      rebuildFacets()
+      render()
+    })
   }
 
   // selected tags as "facetKey::value"
@@ -95,21 +123,8 @@ async function init() {
   if (qpAuthor) selected.add(`author::${decodeURIComponent(qpAuthor)}`)
   const qpCluster = params.get("cluster")
   if (qpCluster) selected.add(`cluster::${decodeURIComponent(qpCluster)}`)
-
-  const facetValues: { facet: Facet; values: [string, number][] }[] = FACETS.map((facet) => {
-    const counts = new Map<string, number>()
-    for (const w of data) {
-      const raw = w[facet.key] as unknown
-      const vals = facet.multi
-        ? ((raw as string[]) || [])
-        : raw === "" || raw == null
-          ? []
-          : [String(raw)]
-      for (const v of vals) counts.set(v, (counts.get(v) || 0) + 1)
-    }
-    const values = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-    return { facet, values }
-  })
+  // A deep-linked/preselected tag is already a "search" — go fetch the leaf shard.
+  if (selected.size > 0) ensureLeaves()
 
   const hasValue = (w: Work, key: string, val: string): boolean => {
     const facet = FACETS.find((f) => f.key === key)!
@@ -172,12 +187,15 @@ async function init() {
   search.className = "qtable-search"
   const setPlaceholder = () => {
     search.placeholder =
-      searchMode === "content" ? "Filter full content of the works..." : "Filter results (title/author/cluster)..."
+      searchMode === "content"
+        ? "Filter full content of the works..."
+        : "Filter results (title/author/cluster)..."
   }
   setPlaceholder()
   search.addEventListener("input", () => {
     filter = search.value
     page = 1
+    if (filter) ensureLeaves() // free-text query is a "search" too — needs leaf rows
     renderResults()
   })
 
@@ -258,31 +276,54 @@ async function init() {
   syncToggle()
   controls.appendChild(toggle)
 
-  for (const { facet, values } of facetValues) {
-    const sec = document.createElement("details")
-    sec.className = "cerca-facet"
-    const sum = document.createElement("summary")
-    sum.textContent = `${facet.label} (${values.length})`
-    sec.appendChild(sum)
-    const chips = document.createElement("div")
-    chips.className = "cerca-chips"
-    for (const [val, c] of values) {
-      const token = `${facet.key}::${val}`
-      const chip = document.createElement("button")
-      chip.className = "cerca-chip"
-      chip.dataset.token = token
-      chip.innerHTML = `${esc(facet.multi ? pretty(val) : val)} <span class="cerca-n">${c}</span>`
-      chip.addEventListener("click", () => {
-        if (selected.has(token)) selected.delete(token)
-        else selected.add(token)
-        page = 1
-        render()
-      })
-      chips.appendChild(chip)
+  // Builds (or rebuilds, after the leaf shard merges into `data`) the facet chip
+  // sections + their tag counts. Called once at init (works-only counts) and again
+  // once ensureLeaves() resolves (counts now include leaf-tagged chapters/parts).
+  function rebuildFacets() {
+    const facetValues: { facet: Facet; values: [string, number][] }[] = FACETS.map((facet) => {
+      const counts = new Map<string, number>()
+      for (const w of data) {
+        const raw = w[facet.key] as unknown
+        const vals = facet.multi
+          ? (raw as string[]) || []
+          : raw === "" || raw == null
+            ? []
+            : [String(raw)]
+        for (const v of vals) counts.set(v, (counts.get(v) || 0) + 1)
+      }
+      const values = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      return { facet, values }
+    })
+
+    facetsBox.replaceChildren()
+    for (const { facet, values } of facetValues) {
+      const sec = document.createElement("details")
+      sec.className = "cerca-facet"
+      const sum = document.createElement("summary")
+      sum.textContent = `${facet.label} (${values.length})`
+      sec.appendChild(sum)
+      const chips = document.createElement("div")
+      chips.className = "cerca-chips"
+      for (const [val, c] of values) {
+        const token = `${facet.key}::${val}`
+        const chip = document.createElement("button")
+        chip.className = "cerca-chip" + (selected.has(token) ? " active" : "")
+        chip.dataset.token = token
+        chip.innerHTML = `${esc(facet.multi ? pretty(val) : val)} <span class="cerca-n">${c}</span>`
+        chip.addEventListener("click", () => {
+          if (selected.has(token)) selected.delete(token)
+          else selected.add(token)
+          page = 1
+          ensureLeaves() // selecting any tag counts as "needs leaf results"
+          render()
+        })
+        chips.appendChild(chip)
+      }
+      sec.appendChild(chips)
+      facetsBox.appendChild(sec)
     }
-    sec.appendChild(chips)
-    facetsBox.appendChild(sec)
   }
+  rebuildFacets()
 
   let sortKey: keyof Work = "title"
   let sortDir = 1
@@ -329,8 +370,12 @@ async function init() {
         bv = Number(bv)
       } else {
         // strip a leading article so "The Waste Land" sorts under W, matching /opere
-        av = String(av).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
-        bv = String(bv).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
+        av = String(av)
+          .toLowerCase()
+          .replace(/^\s*(the|a|an)\s+/, "")
+        bv = String(bv)
+          .toLowerCase()
+          .replace(/^\s*(the|a|an)\s+/, "")
       }
       if (av < bv) return -sortDir
       if (av > bv) return sortDir

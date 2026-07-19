@@ -222,6 +222,11 @@ async function markDropboxIgnored(dir) {
 // Where atomized excerpts / play scenes / long-poem sections get published.
 const TESTI_REL = "Testi"
 const STATIC_JSON = path.join(ROOT, "quartz", "static", "index.json")
+// Leaf-fragment rows (~15k tagged leaf atoms not already a subwork rec) used to be
+// appended onto STATIC_JSON, ballooning it 2.37MB -> 9.9MB even though the works-only
+// table (/opere) never reads them. Sharded out here; only by-tag/faceted consumers
+// (cerca.inline.ts) lazy-fetch this on first tag/search interaction.
+const LEAF_JSON = path.join(ROOT, "quartz", "static", "index_leaf.json")
 const KW_JSON = path.join(ROOT, "quartz", "static", "works_kw.json")
 // LLM-extracted per-chapter tags (characters/themes/plot), committed source of
 // truth for #17 chapter interlinking. Optional: absent on a fresh checkout.
@@ -1156,8 +1161,9 @@ async function main() {
   // every row here is additive. Kept OUT of `works` (deliberately, do not push here):
   // every work-level aggregate computed below (authorCounts, wheel sublabels, homepage
   // hero counts, opere.md/cerca.md counts, build summary) reads `works` directly, and a
-  // leaf fragment is not a work. leafFragRows is merged into worksOut — not works — right
-  // before it's written, after all those stats are computed. See worksOut below.
+  // leaf fragment is not a work. leafFragRows is written to its own LEAF_JSON shard —
+  // not merged into `works`/worksOut — right before it's written, after all those
+  // stats are computed. See worksOut/leafOut below.
 
   // Cover atomless works: a single-unit work IS its own leaf atom, but if the
   // whole workDir produced no leaf-atom entry (e.g. a readable work with a reading
@@ -1371,12 +1377,14 @@ async function main() {
     const parentWorkHref = row.href.split("#")[0]
     row.clusters = workClustersByHref.get(parentWorkHref) || []
   }
-  const worksOut = [
-    ...works.filter((r) => !r._drop).map(stripTagFields),
-    ...leafFragRows.map(stripTagFields),
-  ]
+  // index.json stays works-only (fast for /opere and every page that loads it up
+  // front); the ~15k leaf rows go to index_leaf.json, lazy-loaded only by consumers
+  // that actually surface leaf-level tag results (see cerca.inline.ts).
+  const worksOut = works.filter((r) => !r._drop).map(stripTagFields)
+  const leafOut = leafFragRows.map(stripTagFields)
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(worksOut))
+  await fs.writeFile(LEAF_JSON, JSON.stringify(leafOut))
   await fs.writeFile(KW_JSON, JSON.stringify(topTfIdf(kwCounts)))
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "concepts.json"),
