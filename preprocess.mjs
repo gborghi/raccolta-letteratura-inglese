@@ -761,7 +761,10 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
                 topoi: tagAxes.topoi, archetypes: tagAxes.archetypes, motifs: tagAxes.motifs,
                 concepts: tagAxes.concepts, forms: tagAxes.forms, histrefs: tagAxes.histrefs,
                 settings: tagAxes.settings, characters: tagAxes.characters, clusters: tagAxes.clusters,
-                nconnections: flatTags.length, _leaf: true,
+                // Exclude the cluster axis, matching the work-note nconnections
+                // semantics (computed over the 8 non-cluster axes only, see :1062).
+                nconnections: flatTags.filter((t) => !t.startsWith("cluster/")).length,
+                _leaf: true,
               })
             }
             const unitRel = `${TESTI_REL}/${author}/${sub}/${it.relU}`.toLowerCase()
@@ -1150,8 +1153,11 @@ async function main() {
   // Leaf-atom fragment rows: atoms that resolved tags (join or own frontmatter) but
   // are NOT a subwork's source atom (those already got a row via the resolver just
   // above). publishUnits() pre-filtered on the same sourceTagAxes.has() check, so
-  // every row here is additive.
-  works.push(...leafFragRows)
+  // every row here is additive. Kept OUT of `works` (deliberately, do not push here):
+  // every work-level aggregate computed below (authorCounts, wheel sublabels, homepage
+  // hero counts, opere.md/cerca.md counts, build summary) reads `works` directly, and a
+  // leaf fragment is not a work. leafFragRows is merged into worksOut — not works — right
+  // before it's written, after all those stats are computed. See worksOut below.
 
   // Cover atomless works: a single-unit work IS its own leaf atom, but if the
   // whole workDir produced no leaf-atom entry (e.g. a readable work with a reading
@@ -1334,13 +1340,21 @@ async function main() {
     rec.readHref = readHrefByWork.get(rec.href) || ""
   }
   // Drop sub-work recs whose source atom never resolved to a fragment (see the
-  // resolver above), and strip the temp tagging fields before publishing.
-  const worksOut = works
-    .filter((r) => !r._drop)
-    .map((r) => {
-      const { _subwork, _source, _drop, _base, ...clean } = r
-      return clean
-    })
+  // resolver above), and strip the temp tagging fields before publishing. Leaf
+  // fragment rows are appended here — AFTER every work-level stat above has already
+  // read `works` leaf-free — so they still reach quartz/static/index.json without
+  // ever counting toward a work aggregate. They carry no _subwork/_source/_drop/_base
+  // fields, so the strip is a no-op for them; readHref is intentionally left unset —
+  // the table renderers fall back to `r.readHref || r.href`, and href is already the
+  // atom fragment itself.
+  const stripTagFields = (r) => {
+    const { _subwork, _source, _drop, _base, ...clean } = r
+    return clean
+  }
+  const worksOut = [
+    ...works.filter((r) => !r._drop).map(stripTagFields),
+    ...leafFragRows.map(stripTagFields),
+  ]
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(worksOut))
   await fs.writeFile(KW_JSON, JSON.stringify(topTfIdf(kwCounts)))
