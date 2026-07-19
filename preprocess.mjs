@@ -1803,6 +1803,16 @@ Every chapter, story, scene, section and paragraph-level excerpt across the pros
       `  if(m){\n` +
       `    var atom=m[5].replace(/\\//g,"--");\n` +
       `    location.replace(m[1]+"/testi/"+m[2]+"/"+m[3]+"/"+m[4]+"#"+atom);\n` +
+      `    return;\n` +
+      `  }\n` +
+      // Dickinson cluster-SPA restructure: retired per-poem reading + works metadata
+      // URLs (no trailing segment, so the regex above skips them) -> new cluster frag,
+      // via a static lookup map. Fetched only on a 404, no cost on real pages.
+      `  var d=p.match(/^(.*)\\/((?:testi\\/dickinson\\/atomized|works)\\/.+)$/i);\n` +
+      `  if(d){\n` +
+      `    fetch(d[1]+"/static/dickinson_redirects.json").then(function(r){return r.ok?r.json():null;}).then(function(map){\n` +
+      `      if(map&&map[d[2]]) location.replace(d[1]+"/"+map[d[2]]);\n` +
+      `    }).catch(function(){});\n` +
       `  }\n})();\n</script>\n`
     await fs.writeFile(path.join(CONTENT, "404.md"), notFound)
   }

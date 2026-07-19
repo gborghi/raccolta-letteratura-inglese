@@ -39,12 +39,22 @@ for (const m of manifest) {
   block = block.replace(/^source:.*$/m, `source: "${m.newAtomRel}"`)
   // 2. cluster: -> finalLabel (quoted)
   block = block.replace(/^cluster:.*$/m, `cluster: "${m.finalLabel}"`)
-  // 3. subwork: true after `type: work` (skip if already present)
-  if (!/^subwork:\s*true\s*$/m.test(block)) {
-    if (/^subwork:/m.test(block)) block = block.replace(/^subwork:.*$/m, "subwork: true")
-    else block = block.replace(/^(type:\s*work\s*)$/m, `$1${eol}subwork: true`)
-  } else {
+  // 3. subwork: true after `type: work` (skip if already present). Operate on the
+  // line array + rejoin with the detected eol: a regex with `\s*`/`$` on CRLF files
+  // silently swallows the CR into `type`'s value ("work\r"), which then fails the
+  // `data.type === "work"` gate downstream and drops the note entirely.
+  const flines = block.split(/\r?\n/)
+  const hasSub = flines.some((l) => /^subwork:\s*true\s*$/.test(l))
+  if (hasSub) {
     already++
+  } else {
+    const si = flines.findIndex((l) => /^subwork:/.test(l))
+    if (si >= 0) flines[si] = "subwork: true"
+    else {
+      const ti = flines.findIndex((l) => /^type:\s*work\s*$/.test(l))
+      if (ti >= 0) flines.splice(ti + 1, 0, "subwork: true")
+    }
+    block = flines.join(eol)
   }
 
   fs.writeFileSync(p, open + block + close + body)

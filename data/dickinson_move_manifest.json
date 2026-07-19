@@ -160,6 +160,36 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0057_Mr_William_Austin_Dickinson",
+    "atomId": "L0057_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (6).md",
+    "finalLabel": "Alienation · Outsider · Exile",
+    "finalSlug": "alienation-outsider-exile",
+    "newAtomRel": "Authors/Dickinson/Atomized/alienation-outsider-exile/L0057_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0063_Mr_William_Austin_Dickinson",
+    "atomId": "L0063_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (7).md",
+    "finalLabel": "Alienation · Outsider · Exile",
+    "finalSlug": "alienation-outsider-exile",
+    "newAtomRel": "Authors/Dickinson/Atomized/alienation-outsider-exile/L0063_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0070_Mr_William_Austin_Dickinson",
+    "atomId": "L0070_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (8).md",
+    "finalLabel": "Alienation · Outsider · Exile",
+    "finalSlug": "alienation-outsider-exile",
+    "newAtomRel": "Authors/Dickinson/Atomized/alienation-outsider-exile/L0070_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0027_Mr_William_Austin_Dickinson_Thursday_Noon",
     "atomId": "L0027_Mr_William_Austin_Dickinson_Thursday_Noon",
     "kind": "letter",
@@ -180,13 +210,13 @@
     "hasIt": false
   },
   {
-    "srcBase": "L0026_Mrs_A_P_Strong_Tuesday_Evening",
-    "atomId": "L0026_Mrs_A_P_Strong_Tuesday_Evening",
+    "srcBase": "L0429_Mrs_FS_Cooper",
+    "atomId": "L0429_Mrs_FS_Cooper",
     "kind": "letter",
-    "noteFile": null,
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (7).md",
     "finalLabel": "Alienation · Outsider · Exile",
     "finalSlug": "alienation-outsider-exile",
-    "newAtomRel": "Authors/Dickinson/Atomized/alienation-outsider-exile/L0026_Mrs_A_P_Strong_Tuesday_Evening.md",
+    "newAtomRel": "Authors/Dickinson/Atomized/alienation-outsider-exile/L0429_Mrs_FS_Cooper.md",
     "hasIt": false
   },
   {
@@ -420,26 +450,6 @@
     "hasIt": true
   },
   {
-    "srcBase": "L0269_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0269_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Appearance vs Reality · Beauty · Eyes and Sight",
-    "finalSlug": "appearance-vs-reality-beauty-eyes-and-sight",
-    "newAtomRel": "Authors/Dickinson/Atomized/appearance-vs-reality-beauty-eyes-and-sight/L0269_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0270_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0270_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Appearance vs Reality · Beauty · Eyes and Sight",
-    "finalSlug": "appearance-vs-reality-beauty-eyes-and-sight",
-    "newAtomRel": "Authors/Dickinson/Atomized/appearance-vs-reality-beauty-eyes-and-sight/L0270_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
     "srcBase": "1119_Paradise_is_that_old_mansion",
     "atomId": "1119_Paradise_is_that_old_mansion",
     "kind": "poem",
@@ -670,6 +680,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "atomId": "L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (2).md",
+    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
+    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
+    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0014_Mrs_A_P_Strong_MT_HOLYOKE_FEMALE_SEMINA",
     "atomId": "L0014_Mrs_A_P_Strong_MT_HOLYOKE_FEMALE_SEMINA",
     "kind": "letter",
@@ -690,6 +710,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0093_Mrs_Anthon",
+    "atomId": "L0093_Mrs_Anthon",
+    "kind": "letter",
+    "noteFile": "To Mrs. Anthon (Dickinson) (2).md",
+    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
+    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
+    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0093_Mrs_Anthon.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0391_Mrs_Edward_Tuckerman_July_1878",
     "atomId": "L0391_Mrs_Edward_Tuckerman_July_1878",
     "kind": "letter",
@@ -707,6 +737,36 @@
     "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
     "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
     "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0463_Mrs_Jameson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0494_Professor_J_K_Chickering",
+    "atomId": "L0494_Professor_J_K_Chickering",
+    "kind": "letter",
+    "noteFile": "To Professor J. K. Chickering (Dickinson) (2).md",
+    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
+    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
+    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0494_Professor_J_K_Chickering.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0239_the_Misses",
+    "atomId": "L0239_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (10).md",
+    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
+    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
+    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0239_the_Misses.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0220_the_Misses",
+    "atomId": "L0220_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (5).md",
+    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
+    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
+    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0220_the_Misses.md",
     "hasIt": false
   },
   {
@@ -780,6 +840,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0422_Mrs_FS_Cooper",
+    "atomId": "L0422_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (2).md",
+    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
+    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
+    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0422_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0232_the_Misses_Winter_1873",
     "atomId": "L0232_the_Misses_Winter_1873",
     "kind": "letter",
@@ -808,36 +878,6 @@
     "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
     "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/1479_The_Devil_had_he_fidelity.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0015_Mrs_A_P_Strong",
-    "atomId": "L0015_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
-    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
-    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0015_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0025_Mrs_A_P_Strong",
-    "atomId": "L0025_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
-    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
-    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0025_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0464_Mrs_Jameson",
-    "atomId": "L0464_Mrs_Jameson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Bible · Sin and the Fall · Fall from Innocence",
-    "finalSlug": "bible-sin-and-the-fall-fall-from-innocence",
-    "newAtomRel": "Authors/Dickinson/Atomized/bible-sin-and-the-fall-fall-from-innocence/L0464_Mrs_Jameson.md",
-    "hasIt": false
   },
   {
     "srcBase": "1059_Sang_from_the_Heart_Sire",
@@ -1220,6 +1260,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0509_Dr_and_Mrs_Field",
+    "atomId": "L0509_Dr_and_Mrs_Field",
+    "kind": "letter",
+    "noteFile": "To Dr. and Mrs. Field (Dickinson) (2).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0509_Dr_and_Mrs_Field.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0118_Dr_J_G_Holland_and_Mrs_Holland_Friday",
     "atomId": "L0118_Dr_J_G_Holland_and_Mrs_Holland_Friday",
     "kind": "letter",
@@ -1250,6 +1300,26 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (15).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (3).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0164_Mr_Samuel_Bowlers_and_Mrs_Bowles_1863",
     "atomId": "L0164_Mr_Samuel_Bowlers_and_Mrs_Bowles_1863",
     "kind": "letter",
@@ -1267,6 +1337,16 @@
     "finalLabel": "Birds · Music and Song · Nightingale",
     "finalSlug": "birds-music-and-song-nightingale",
     "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0186_Mr_Samuel_Bowlers_and_Mrs_Bowles_Tuesday.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0273_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0273_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (5).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0273_Mr_Thomas_Wentworth_Higginson.md",
     "hasIt": false
   },
   {
@@ -1290,6 +1370,56 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0072_Mr_William_Austin_Dickinson",
+    "atomId": "L0072_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (9).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0072_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0052_Mr_William_Austin_Dickinson_Monday_Morning",
+    "atomId": "L0052_Mr_William_Austin_Dickinson_Monday_Morning",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Monday Morning (Dickinson) (2).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0052_Mr_William_Austin_Dickinson_Monday_Morning.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "atomId": "L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (4).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "atomId": "L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (5).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0071_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "atomId": "L0071_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (5).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0071_Mr_William_Austin_Dickinson_Sunday_Evening.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0034_Mr_William_Austin_Dickinson_Sunday_Evening",
     "atomId": "L0034_Mr_William_Austin_Dickinson_Sunday_Evening",
     "kind": "letter",
@@ -1307,6 +1437,46 @@
     "finalLabel": "Birds · Music and Song · Nightingale",
     "finalSlug": "birds-music-and-song-nightingale",
     "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0049_Mr_William_Austin_Dickinson_Thursday_Evening.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0060_Mr_William_Austin_Dickinson_Tuesday_Noon",
+    "atomId": "L0060_Mr_William_Austin_Dickinson_Tuesday_Noon",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Tuesday Noon (Dickinson) (2).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0060_Mr_William_Austin_Dickinson_Tuesday_Noon.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0025_Mrs_A_P_Strong",
+    "atomId": "L0025_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (10).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0025_Mrs_A_P_Strong.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0004_Mrs_A_P_Strong",
+    "atomId": "L0004_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (2).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0004_Mrs_A_P_Strong.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0008_Mrs_A_P_Strong",
+    "atomId": "L0008_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (3).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0008_Mrs_A_P_Strong.md",
     "hasIt": false
   },
   {
@@ -1357,6 +1527,16 @@
     "finalLabel": "Birds · Music and Song · Nightingale",
     "finalSlug": "birds-music-and-song-nightingale",
     "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0079_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0528_Mrs_Todd",
+    "atomId": "L0528_Mrs_Todd",
+    "kind": "letter",
+    "noteFile": "To Mrs. Todd (Dickinson) (2).md",
+    "finalLabel": "Birds · Music and Song · Nightingale",
+    "finalSlug": "birds-music-and-song-nightingale",
+    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0528_Mrs_Todd.md",
     "hasIt": false
   },
   {
@@ -1417,76 +1597,6 @@
     "finalLabel": "Birds · Music and Song · Nightingale",
     "finalSlug": "birds-music-and-song-nightingale",
     "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0514_H_H_March_1885.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0004_Mrs_A_P_Strong",
-    "atomId": "L0004_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Birds · Music and Song · Nightingale",
-    "finalSlug": "birds-music-and-song-nightingale",
-    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0004_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0012_Mrs_A_P_Strong",
-    "atomId": "L0012_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Birds · Music and Song · Nightingale",
-    "finalSlug": "birds-music-and-song-nightingale",
-    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0012_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0035_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "atomId": "L0035_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Birds · Music and Song · Nightingale",
-    "finalSlug": "birds-music-and-song-nightingale",
-    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0035_Mr_William_Austin_Dickinson_Sunday_Evening.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "atomId": "L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Birds · Music and Song · Nightingale",
-    "finalSlug": "birds-music-and-song-nightingale",
-    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Birds · Music and Song · Nightingale",
-    "finalSlug": "birds-music-and-song-nightingale",
-    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Birds · Music and Song · Nightingale",
-    "finalSlug": "birds-music-and-song-nightingale",
-    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Birds · Music and Song · Nightingale",
-    "finalSlug": "birds-music-and-song-nightingale",
-    "newAtomRel": "Authors/Dickinson/Atomized/birds-music-and-song-nightingale/L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -1580,6 +1690,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0121_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0121_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (9).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0121_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0126_Dr_J_G_Holland_and_Mrs_Holland_August_1879",
     "atomId": "L0126_Dr_J_G_Holland_and_Mrs_Holland_August_1879",
     "kind": "letter",
@@ -1630,6 +1750,56 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0335_Miss_Maria_Whitney",
+    "atomId": "L0335_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (10).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0335_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0317_Miss_Maria_Whitney",
+    "atomId": "L0317_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (4).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0317_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0319_Miss_Maria_Whitney",
+    "atomId": "L0319_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (6).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0319_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0324_Miss_Maria_Whitney",
+    "atomId": "L0324_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (7).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0324_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0330_Miss_Maria_Whitney_1882",
+    "atomId": "L0330_Miss_Maria_Whitney_1882",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney, 1882 (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0330_Miss_Maria_Whitney_1882.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0475_Mr_and_Mrs_George_Montague_1881",
     "atomId": "L0475_Mr_and_Mrs_George_Montague_1881",
     "kind": "letter",
@@ -1637,6 +1807,26 @@
     "finalLabel": "Child · Orphan",
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0475_Mr_and_Mrs_George_Montague_1881.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
+    "atomId": "L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874",
+    "atomId": "L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (5).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874.md",
     "hasIt": false
   },
   {
@@ -1660,6 +1850,26 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (17).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (23).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0137_Mr_Samuel_Bowlers_and_Mrs_Bowles_Written_in_1861_on_the_b",
     "atomId": "L0137_Mr_Samuel_Bowlers_and_Mrs_Bowles_Written_in_1861_on_the_b",
     "kind": "letter",
@@ -1667,6 +1877,36 @@
     "finalLabel": "Child · Orphan",
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0137_Mr_Samuel_Bowlers_and_Mrs_Bowles_Written_in_1861_on_the_b.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0270_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0270_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (3).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0270_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0054_Mr_William_Austin_Dickinson",
+    "atomId": "L0054_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (5).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0054_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0061_Mr_William_Austin_Dickinson_Friday_Morning",
+    "atomId": "L0061_Mr_William_Austin_Dickinson_Friday_Morning",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Friday Morning (Dickinson) (3).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0061_Mr_William_Austin_Dickinson_Friday_Morning.md",
     "hasIt": false
   },
   {
@@ -1680,6 +1920,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0035_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "atomId": "L0035_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0035_Mr_William_Austin_Dickinson_Sunday_Evening.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0058_Mr_William_Austin_Dickinson_Sunday_Morning",
     "atomId": "L0058_Mr_William_Austin_Dickinson_Sunday_Morning",
     "kind": "letter",
@@ -1690,6 +1940,36 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0067_Mr_William_Austin_Dickinson_Thursday_Evening",
+    "atomId": "L0067_Mr_William_Austin_Dickinson_Thursday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Thursday Evening (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0067_Mr_William_Austin_Dickinson_Thursday_Evening.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0019_Mrs_A_P_Strong",
+    "atomId": "L0019_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (8).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0019_Mrs_A_P_Strong.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0026_Mrs_A_P_Strong_Tuesday_Evening",
+    "atomId": "L0026_Mrs_A_P_Strong_Tuesday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong, Tuesday Evening (Dickinson) (3).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0026_Mrs_A_P_Strong_Tuesday_Evening.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0504_Mrs_Carmichael_1885",
     "atomId": "L0504_Mrs_Carmichael_1885",
     "kind": "letter",
@@ -1697,6 +1977,16 @@
     "finalLabel": "Child · Orphan",
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0504_Mrs_Carmichael_1885.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0387_Mrs_Edward_Tuckerman",
+    "atomId": "L0387_Mrs_Edward_Tuckerman",
+    "kind": "letter",
+    "noteFile": "To Mrs. Edward Tuckerman (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0387_Mrs_Edward_Tuckerman.md",
     "hasIt": false
   },
   {
@@ -1730,6 +2020,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
+    "atomId": "L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
+    "kind": "letter",
+    "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson (Dickinson) (3).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0080_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morn",
     "atomId": "L0080_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morn",
     "kind": "letter",
@@ -1737,6 +2037,16 @@
     "finalLabel": "Child · Orphan",
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0080_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morn.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0460_Mrs_Henry_Hills",
+    "atomId": "L0460_Mrs_Henry_Hills",
+    "kind": "letter",
+    "noteFile": "To Mrs. Henry Hills (Dickinson) (6).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0460_Mrs_Henry_Hills.md",
     "hasIt": false
   },
   {
@@ -1750,6 +2060,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0491_Mrs_Joseph_Sweetser",
+    "atomId": "L0491_Mrs_Joseph_Sweetser",
+    "kind": "letter",
+    "noteFile": "To Mrs. Joseph Sweetser (Dickinson) (3).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0491_Mrs_Joseph_Sweetser.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0487_Mrs_Joseph_Sweetser_November_1884",
     "atomId": "L0487_Mrs_Joseph_Sweetser_November_1884",
     "kind": "letter",
@@ -1757,6 +2077,26 @@
     "finalLabel": "Child · Orphan",
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0487_Mrs_Joseph_Sweetser_November_1884.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0256_the_Misses",
+    "atomId": "L0256_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (13).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0256_the_Misses.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0237_the_Misses_1874",
+    "atomId": "L0237_the_Misses_1874",
+    "kind": "letter",
+    "noteFile": "To the Misses, 1874 (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0237_the_Misses_1874.md",
     "hasIt": false
   },
   {
@@ -1770,6 +2110,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0469_the_Rev_F_F_Emerson",
+    "atomId": "L0469_the_Rev_F_F_Emerson",
+    "kind": "letter",
+    "noteFile": "To the Rev. F. F. Emerson (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0469_the_Rev_F_F_Emerson.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0308_the_Rev_Perez_D_Cowan_After_the_death_of_Mr_Co",
     "atomId": "L0308_the_Rev_Perez_D_Cowan_After_the_death_of_Mr_Co",
     "kind": "letter",
@@ -1777,6 +2127,16 @@
     "finalLabel": "Child · Orphan",
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0308_the_Rev_Perez_D_Cowan_After_the_death_of_Mr_Co.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0516_H_H",
+    "atomId": "L0516_H_H",
+    "kind": "letter",
+    "noteFile": "To “H. H.” (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0516_H_H.md",
     "hasIt": false
   },
   {
@@ -1798,6 +2158,16 @@
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/0637_The_Childs_faith_is_new.md",
     "hasIt": true
+  },
+  {
+    "srcBase": "L0464_Mrs_Jameson",
+    "atomId": "L0464_Mrs_Jameson",
+    "kind": "letter",
+    "noteFile": "To Mrs. Jameson (Dickinson) (2).md",
+    "finalLabel": "Child · Orphan",
+    "finalSlug": "child-orphan",
+    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0464_Mrs_Jameson.md",
+    "hasIt": false
   },
   {
     "srcBase": "1201_So_I_pull_my_Stockings_off",
@@ -1877,196 +2247,6 @@
     "finalLabel": "Child · Orphan",
     "finalSlug": "child-orphan",
     "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0303_Mr_Thomas_Wentworth_Higginson_Early_Summer_1880.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0064_Mr_William_Austin_Dickinson_Monday_Morning",
-    "atomId": "L0064_Mr_William_Austin_Dickinson_Monday_Morning",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0064_Mr_William_Austin_Dickinson_Monday_Morning.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "atomId": "L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0067_Mr_William_Austin_Dickinson_Thursday_Evening",
-    "atomId": "L0067_Mr_William_Austin_Dickinson_Thursday_Evening",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0067_Mr_William_Austin_Dickinson_Thursday_Evening.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
-    "atomId": "L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0099_Mrs_Anthon",
-    "atomId": "L0099_Mrs_Anthon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0099_Mrs_Anthon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0100_Mrs_Anthon",
-    "atomId": "L0100_Mrs_Anthon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0100_Mrs_Anthon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0106_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0106_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0106_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
-    "atomId": "L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0124_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0124_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0124_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0128_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0128_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0128_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0129_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0129_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0129_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0255_the_Misses_1881",
-    "atomId": "L0255_the_Misses_1881",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0255_the_Misses_1881.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0309_the_Rev_Perez_D_Cowan",
-    "atomId": "L0309_the_Rev_Perez_D_Cowan",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0309_the_Rev_Perez_D_Cowan.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0324_Miss_Maria_Whitney",
-    "atomId": "L0324_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0324_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0325_Miss_Maria_Whitney_1883",
-    "atomId": "L0325_Miss_Maria_Whitney_1883",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0325_Miss_Maria_Whitney_1883.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
-    "atomId": "L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874",
-    "atomId": "L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0474_the_Rev_F_F_Emerson",
-    "atomId": "L0474_the_Rev_F_F_Emerson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Child · Orphan",
-    "finalSlug": "child-orphan",
-    "newAtomRel": "Authors/Dickinson/Atomized/child-orphan/L0474_the_Rev_F_F_Emerson.md",
     "hasIt": false
   },
   {
@@ -2410,6 +2590,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0511_Mr_Theodore_Holland_1885",
+    "atomId": "L0511_Mr_Theodore_Holland_1885",
+    "kind": "letter",
+    "noteFile": "To Mr. Theodore Holland, 1885 (Dickinson) (2).md",
+    "finalLabel": "Christianity · Faith and Doubt · Doubt",
+    "finalSlug": "christianity-faith-and-doubt-doubt",
+    "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0511_Mr_Theodore_Holland_1885.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0413_Mrs_Edward_Tuckerman_April_1885",
     "atomId": "L0413_Mrs_Edward_Tuckerman_April_1885",
     "kind": "letter",
@@ -2447,66 +2637,6 @@
     "finalLabel": "Christianity · Faith and Doubt · Doubt",
     "finalSlug": "christianity-faith-and-doubt-doubt",
     "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0218_the_Misses_September_1870.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0429_Mrs_FS_Cooper",
-    "atomId": "L0429_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Christianity · Faith and Doubt · Doubt",
-    "finalSlug": "christianity-faith-and-doubt-doubt",
-    "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0429_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0430_Mrs_FS_Cooper",
-    "atomId": "L0430_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Christianity · Faith and Doubt · Doubt",
-    "finalSlug": "christianity-faith-and-doubt-doubt",
-    "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0430_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0432_Mrs_FS_Cooper",
-    "atomId": "L0432_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Christianity · Faith and Doubt · Doubt",
-    "finalSlug": "christianity-faith-and-doubt-doubt",
-    "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0432_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0433_Mrs_FS_Cooper",
-    "atomId": "L0433_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Christianity · Faith and Doubt · Doubt",
-    "finalSlug": "christianity-faith-and-doubt-doubt",
-    "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0433_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0434_Mrs_FS_Cooper",
-    "atomId": "L0434_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Christianity · Faith and Doubt · Doubt",
-    "finalSlug": "christianity-faith-and-doubt-doubt",
-    "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0434_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0435_Mrs_FS_Cooper",
-    "atomId": "L0435_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Christianity · Faith and Doubt · Doubt",
-    "finalSlug": "christianity-faith-and-doubt-doubt",
-    "newAtomRel": "Authors/Dickinson/Atomized/christianity-faith-and-doubt-doubt/L0435_Mrs_FS_Cooper.md",
     "hasIt": false
   },
   {
@@ -2640,6 +2770,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0338_Miss_Maria_Whitney",
+    "atomId": "L0338_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (11).md",
+    "finalLabel": "Crown · Pride · Fortune's Wheel",
+    "finalSlug": "crown-pride-fortunes-wheel",
+    "newAtomRel": "Authors/Dickinson/Atomized/crown-pride-fortunes-wheel/L0338_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0461_Mrs_Henry_Hills_January_1883",
     "atomId": "L0461_Mrs_Henry_Hills_January_1883",
     "kind": "letter",
@@ -2678,16 +2818,6 @@
     "finalSlug": "crown-pride-fortunes-wheel",
     "newAtomRel": "Authors/Dickinson/Atomized/crown-pride-fortunes-wheel/0551_There_is_a_Shame_of_Nobleness.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0242_the_Misses",
-    "atomId": "L0242_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Crown · Pride · Fortune's Wheel",
-    "finalSlug": "crown-pride-fortunes-wheel",
-    "newAtomRel": "Authors/Dickinson/Atomized/crown-pride-fortunes-wheel/L0242_the_Misses.md",
-    "hasIt": false
   },
   {
     "srcBase": "1026_The_Dying_need_but_little_Dear",
@@ -3300,6 +3430,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0120_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0120_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (8).md",
+    "finalLabel": "Death · Silence · Bells",
+    "finalSlug": "death-silence-bells",
+    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0120_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0113_Dr_J_G_Holland_and_Mrs_Holland_1857",
     "atomId": "L0113_Dr_J_G_Holland_and_Mrs_Holland_1857",
     "kind": "letter",
@@ -3350,6 +3490,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0537_Mr_C_H_Clark",
+    "atomId": "L0537_Mr_C_H_Clark",
+    "kind": "letter",
+    "noteFile": "To Mr. C. H. Clark (Dickinson) (2).md",
+    "finalLabel": "Death · Silence · Bells",
+    "finalSlug": "death-silence-bells",
+    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0537_Mr_C_H_Clark.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0342_Mr_F_D_Clark_Late_Autumn_1882",
     "atomId": "L0342_Mr_F_D_Clark_Late_Autumn_1882",
     "kind": "letter",
@@ -3360,6 +3510,46 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0284_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0284_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (11).md",
+    "finalLabel": "Death · Silence · Bells",
+    "finalSlug": "death-silence-bells",
+    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0284_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0286_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0286_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (12).md",
+    "finalLabel": "Death · Silence · Bells",
+    "finalSlug": "death-silence-bells",
+    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0286_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0271_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0271_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (4).md",
+    "finalLabel": "Death · Silence · Bells",
+    "finalSlug": "death-silence-bells",
+    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0271_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0033_Mr_William_Austin_Dickinson",
+    "atomId": "L0033_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (2).md",
+    "finalLabel": "Death · Silence · Bells",
+    "finalSlug": "death-silence-bells",
+    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0033_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0448_Mrs_Henry_Hills_March_1879",
     "atomId": "L0448_Mrs_Henry_Hills_March_1879",
     "kind": "letter",
@@ -3367,6 +3557,16 @@
     "finalLabel": "Death · Silence · Bells",
     "finalSlug": "death-silence-bells",
     "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0448_Mrs_Henry_Hills_March_1879.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0375_Mrs_W_A_Stearns",
+    "atomId": "L0375_Mrs_W_A_Stearns",
+    "kind": "letter",
+    "noteFile": "To Mrs. W. A. Stearns (Dickinson) (2).md",
+    "finalLabel": "Death · Silence · Bells",
+    "finalSlug": "death-silence-bells",
+    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0375_Mrs_W_A_Stearns.md",
     "hasIt": false
   },
   {
@@ -3437,96 +3637,6 @@
     "finalLabel": "Death · Silence · Bells",
     "finalSlug": "death-silence-bells",
     "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0515_H_H.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0120_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0120_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0120_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0121_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0121_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0121_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0122_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0122_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0122_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0228_the_Misses",
-    "atomId": "L0228_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0228_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0314_Miss_Maria_Whitney",
-    "atomId": "L0314_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0314_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0315_Miss_Maria_Whitney_1878",
-    "atomId": "L0315_Miss_Maria_Whitney_1878",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0315_Miss_Maria_Whitney_1878.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0316_Miss_Maria_Whitney",
-    "atomId": "L0316_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0316_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0377_Mrs_W_A_Stearns",
-    "atomId": "L0377_Mrs_W_A_Stearns",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0377_Mrs_W_A_Stearns.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0516_H_H",
-    "atomId": "L0516_H_H",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Death · Silence · Bells",
-    "finalSlug": "death-silence-bells",
-    "newAtomRel": "Authors/Dickinson/Atomized/death-silence-bells/L0516_H_H.md",
     "hasIt": false
   },
   {
@@ -4000,6 +4110,46 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0104_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0104_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (2).md",
+    "finalLabel": "Faith · Providence · Divine Love",
+    "finalSlug": "faith-providence-divine-love",
+    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0104_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0318_Miss_Maria_Whitney",
+    "atomId": "L0318_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (5).md",
+    "finalLabel": "Faith · Providence · Divine Love",
+    "finalSlug": "faith-providence-divine-love",
+    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0318_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (18).md",
+    "finalLabel": "Faith · Providence · Divine Love",
+    "finalSlug": "faith-providence-divine-love",
+    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (19).md",
+    "finalLabel": "Faith · Providence · Divine Love",
+    "finalSlug": "faith-providence-divine-love",
+    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0187_Mr_Samuel_Bowlers_and_Mrs_Bowles_1881",
     "atomId": "L0187_Mr_Samuel_Bowlers_and_Mrs_Bowles_1881",
     "kind": "letter",
@@ -4090,6 +4240,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0198_the_Misses",
+    "atomId": "L0198_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (2).md",
+    "finalLabel": "Faith · Providence · Divine Love",
+    "finalSlug": "faith-providence-divine-love",
+    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0198_the_Misses.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0213_the_Misses_1868",
     "atomId": "L0213_the_Misses_1868",
     "kind": "letter",
@@ -4117,86 +4277,6 @@
     "finalLabel": "Faith · Providence · Divine Love",
     "finalSlug": "faith-providence-divine-love",
     "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0468_the_Rev_F_F_Emerson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0052_Mr_William_Austin_Dickinson_Monday_Morning",
-    "atomId": "L0052_Mr_William_Austin_Dickinson_Monday_Morning",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0052_Mr_William_Austin_Dickinson_Monday_Morning.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0214_the_Misses",
-    "atomId": "L0214_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0214_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0469_the_Rev_F_F_Emerson",
-    "atomId": "L0469_the_Rev_F_F_Emerson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0469_the_Rev_F_F_Emerson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0470_the_Rev_F_F_Emerson",
-    "atomId": "L0470_the_Rev_F_F_Emerson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0470_the_Rev_F_F_Emerson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0479_Mr_and_Mrs_George_Montague",
-    "atomId": "L0479_Mr_and_Mrs_George_Montague",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0479_Mr_and_Mrs_George_Montague.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0480_Mr_and_Mrs_George_Montague_1881",
-    "atomId": "L0480_Mr_and_Mrs_George_Montague_1881",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0480_Mr_and_Mrs_George_Montague_1881.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0490_Mrs_Joseph_Sweetser",
-    "atomId": "L0490_Mrs_Joseph_Sweetser",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Faith · Providence · Divine Love",
-    "finalSlug": "faith-providence-divine-love",
-    "newAtomRel": "Authors/Dickinson/Atomized/faith-providence-divine-love/L0490_Mrs_Joseph_Sweetser.md",
     "hasIt": false
   },
   {
@@ -4580,6 +4660,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0325_Miss_Maria_Whitney_1883",
+    "atomId": "L0325_Miss_Maria_Whitney_1883",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney, 1883 (Dickinson) (2).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0325_Miss_Maria_Whitney_1883.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0343_Mr_F_D_Clark_March_1883",
     "atomId": "L0343_Mr_F_D_Clark_March_1883",
     "kind": "letter",
@@ -4587,6 +4677,16 @@
     "finalLabel": "Flowers · Spring · Garden",
     "finalSlug": "flowers-spring-garden",
     "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0343_Mr_F_D_Clark_March_1883.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (16).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -4607,6 +4707,16 @@
     "finalLabel": "Flowers · Spring · Garden",
     "finalSlug": "flowers-spring-garden",
     "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0145_Mr_Samuel_Bowlers_and_Mrs_Bowles_Sunday_Night.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0278_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0278_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (9).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0278_Mr_Thomas_Wentworth_Higginson.md",
     "hasIt": false
   },
   {
@@ -4647,6 +4757,36 @@
     "finalLabel": "Flowers · Spring · Garden",
     "finalSlug": "flowers-spring-garden",
     "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0053_Mr_William_Austin_Dickinson_Friday_Morning.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0064_Mr_William_Austin_Dickinson_Monday_Morning",
+    "atomId": "L0064_Mr_William_Austin_Dickinson_Monday_Morning",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Monday Morning (Dickinson) (3).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0064_Mr_William_Austin_Dickinson_Monday_Morning.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0074_Mr_William_Austin_Dickinson_Saturday_Morn",
+    "atomId": "L0074_Mr_William_Austin_Dickinson_Saturday_Morn",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Saturday Morn (Dickinson) (2).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0074_Mr_William_Austin_Dickinson_Saturday_Morn.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0068_Mr_William_Austin_Dickinson_Tuesday_Evening",
+    "atomId": "L0068_Mr_William_Austin_Dickinson_Tuesday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Tuesday Evening (Dickinson) (2).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0068_Mr_William_Austin_Dickinson_Tuesday_Evening.md",
     "hasIt": false
   },
   {
@@ -4730,6 +4870,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0430_Mrs_FS_Cooper",
+    "atomId": "L0430_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (8).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0430_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0459_Mrs_Henry_Hills_1882",
     "atomId": "L0459_Mrs_Henry_Hills_1882",
     "kind": "letter",
@@ -4777,6 +4927,16 @@
     "finalLabel": "Flowers · Spring · Garden",
     "finalSlug": "flowers-spring-garden",
     "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0483_Mrs_W_F_Stearns.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0238_the_Misses",
+    "atomId": "L0238_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (9).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0238_the_Misses.md",
     "hasIt": false
   },
   {
@@ -4870,6 +5030,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0470_the_Rev_F_F_Emerson",
+    "atomId": "L0470_the_Rev_F_F_Emerson",
+    "kind": "letter",
+    "noteFile": "To the Rev. F. F. Emerson (Dickinson) (3).md",
+    "finalLabel": "Flowers · Spring · Garden",
+    "finalSlug": "flowers-spring-garden",
+    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0470_the_Rev_F_F_Emerson.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0467_the_Rev_F_F_Emerson_1880",
     "atomId": "L0467_the_Rev_F_F_Emerson_1880",
     "kind": "letter",
@@ -4887,186 +5057,6 @@
     "finalLabel": "Flowers · Spring · Garden",
     "finalSlug": "flowers-spring-garden",
     "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0367_the_Rev_J_L_Jenkins_and_Mrs_Jenkins.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0017_Mrs_A_P_Strong",
-    "atomId": "L0017_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0017_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0054_Mr_William_Austin_Dickinson",
-    "atomId": "L0054_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0054_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0097_Mrs_Anthon",
-    "atomId": "L0097_Mrs_Anthon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0097_Mrs_Anthon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0098_Mrs_Anthon",
-    "atomId": "L0098_Mrs_Anthon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0098_Mrs_Anthon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0104_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0104_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0104_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0109_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0109_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0109_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0117_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0117_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0117_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0239_the_Misses",
-    "atomId": "L0239_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0239_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0241_the_Misses",
-    "atomId": "L0241_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0241_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0253_the_Misses_1881",
-    "atomId": "L0253_the_Misses_1881",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0253_the_Misses_1881.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0288_Mr_Thomas_Wentworth_Higginson_1875",
-    "atomId": "L0288_Mr_Thomas_Wentworth_Higginson_1875",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0288_Mr_Thomas_Wentworth_Higginson_1875.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins",
-    "atomId": "L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0454_Mrs_Henry_Hills",
-    "atomId": "L0454_Mrs_Henry_Hills",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0454_Mrs_Henry_Hills.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0455_Mrs_Henry_Hills",
-    "atomId": "L0455_Mrs_Henry_Hills",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0455_Mrs_Henry_Hills.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0460_Mrs_Henry_Hills",
-    "atomId": "L0460_Mrs_Henry_Hills",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0460_Mrs_Henry_Hills.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0523_Mrs_J_C_Greenough",
-    "atomId": "L0523_Mrs_J_C_Greenough",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Flowers · Spring · Garden",
-    "finalSlug": "flowers-spring-garden",
-    "newAtomRel": "Authors/Dickinson/Atomized/flowers-spring-garden/L0523_Mrs_J_C_Greenough.md",
     "hasIt": false
   },
   {
@@ -5140,6 +5130,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0507_Dr_and_Mrs_Field_1885",
+    "atomId": "L0507_Dr_and_Mrs_Field_1885",
+    "kind": "letter",
+    "noteFile": "To Dr. and Mrs. Field, 1885 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0507_Dr_and_Mrs_Field_1885.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0506_Dr_and_Mrs_Field_1885",
     "atomId": "L0506_Dr_and_Mrs_Field_1885",
     "kind": "letter",
@@ -5150,6 +5150,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0132_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0132_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (15).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0132_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0466_Maggie_Maher_Autumn_1880",
     "atomId": "L0466_Maggie_Maher_Autumn_1880",
     "kind": "letter",
@@ -5157,6 +5167,16 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0466_Maggie_Maher_Autumn_1880.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0521_Miss_Eugenia_Hall",
+    "atomId": "L0521_Miss_Eugenia_Hall",
+    "kind": "letter",
+    "noteFile": "To Miss Eugenia Hall (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0521_Miss_Eugenia_Hall.md",
     "hasIt": false
   },
   {
@@ -5180,6 +5200,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0339_Miss_Maria_Whitney",
+    "atomId": "L0339_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (12).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0339_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0311_Miss_Maria_Whitney",
     "atomId": "L0311_Miss_Maria_Whitney",
     "kind": "letter",
@@ -5187,6 +5217,16 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0311_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0315_Miss_Maria_Whitney_1878",
+    "atomId": "L0315_Miss_Maria_Whitney_1878",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney, 1878 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0315_Miss_Maria_Whitney_1878.md",
     "hasIt": false
   },
   {
@@ -5200,6 +5240,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0328_Miss_Maria_Whitney_Probably_1884",
+    "atomId": "L0328_Miss_Maria_Whitney_Probably_1884",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney, Probably 1884 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0328_Miss_Maria_Whitney_Probably_1884.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0327_Miss_Maria_Whitney_Probably_1884",
     "atomId": "L0327_Miss_Maria_Whitney_Probably_1884",
     "kind": "letter",
@@ -5207,6 +5257,16 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0327_Miss_Maria_Whitney_Probably_1884.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0479_Mr_and_Mrs_George_Montague",
+    "atomId": "L0479_Mr_and_Mrs_George_Montague",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. George Montague (Dickinson) (4).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0479_Mr_and_Mrs_George_Montague.md",
     "hasIt": false
   },
   {
@@ -5220,6 +5280,26 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0480_Mr_and_Mrs_George_Montague_1881",
+    "atomId": "L0480_Mr_and_Mrs_George_Montague_1881",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. George Montague, 1881 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0480_Mr_and_Mrs_George_Montague_1881.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874",
+    "atomId": "L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (3).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0305_Mr_Perez_D_Cowan_Miss_Maria_Whitney_Mr_Bowles_Mr",
     "atomId": "L0305_Mr_Perez_D_Cowan_Miss_Maria_Whitney_Mr_Bowles_Mr",
     "kind": "letter",
@@ -5227,6 +5307,36 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0305_Mr_Perez_D_Cowan_Miss_Maria_Whitney_Mr_Bowles_Mr.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (11).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (13).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (14).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -5300,6 +5410,46 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0269_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0269_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0269_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0276_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0276_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (8).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0276_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0296_Mr_Thomas_Wentworth_Higginson_1877",
+    "atomId": "L0296_Mr_Thomas_Wentworth_Higginson_1877",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson, 1877 (Dickinson) (3).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0296_Mr_Thomas_Wentworth_Higginson_1877.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0302_Mr_Thomas_Wentworth_Higginson_1880",
+    "atomId": "L0302_Mr_Thomas_Wentworth_Higginson_1880",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson, 1880 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0302_Mr_Thomas_Wentworth_Higginson_1880.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0301_Mr_Thomas_Wentworth_Higginson_1880",
     "atomId": "L0301_Mr_Thomas_Wentworth_Higginson_1880",
     "kind": "letter",
@@ -5307,6 +5457,16 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0301_Mr_Thomas_Wentworth_Higginson_1880.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0279_Mr_Thomas_Wentworth_Higginson_August_1870",
+    "atomId": "L0279_Mr_Thomas_Wentworth_Higginson_August_1870",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson, August, 1870 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0279_Mr_Thomas_Wentworth_Higginson_August_1870.md",
     "hasIt": false
   },
   {
@@ -5340,6 +5500,26 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0012_Mrs_A_P_Strong",
+    "atomId": "L0012_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (5).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0012_Mrs_A_P_Strong.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0017_Mrs_A_P_Strong",
+    "atomId": "L0017_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (7).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0017_Mrs_A_P_Strong.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0018_Mrs_A_P_Strong_AMHERST_Jan_29_1850",
     "atomId": "L0018_Mrs_A_P_Strong_AMHERST_Jan_29_1850",
     "kind": "letter",
@@ -5360,6 +5540,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0097_Mrs_Anthon",
+    "atomId": "L0097_Mrs_Anthon",
+    "kind": "letter",
+    "noteFile": "To Mrs. Anthon (Dickinson) (4).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0097_Mrs_Anthon.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0503_Mrs_Carmichael_1884",
     "atomId": "L0503_Mrs_Carmichael_1884",
     "kind": "letter",
@@ -5377,6 +5567,16 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0518_Mrs_E_P_Crowell_March_2_1885.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0403_Mrs_Edward_Tuckerman",
+    "atomId": "L0403_Mrs_Edward_Tuckerman",
+    "kind": "letter",
+    "noteFile": "To Mrs. Edward Tuckerman (Dickinson) (3).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0403_Mrs_Edward_Tuckerman.md",
     "hasIt": false
   },
   {
@@ -5460,6 +5660,76 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0433_Mrs_FS_Cooper",
+    "atomId": "L0433_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (10).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0433_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0437_Mrs_FS_Cooper",
+    "atomId": "L0437_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (14).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0437_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0438_Mrs_FS_Cooper",
+    "atomId": "L0438_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (15).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0438_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0442_Mrs_FS_Cooper",
+    "atomId": "L0442_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (17).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0442_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0426_Mrs_FS_Cooper",
+    "atomId": "L0426_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (4).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0426_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0427_Mrs_FS_Cooper",
+    "atomId": "L0427_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (5).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0427_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0432_Mrs_FS_Cooper",
+    "atomId": "L0432_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (9).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0432_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0425_Mrs_FS_Cooper_1876",
     "atomId": "L0425_Mrs_FS_Cooper_1876",
     "kind": "letter",
@@ -5490,6 +5760,56 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning",
+    "atomId": "L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning",
+    "kind": "letter",
+    "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Thursday Morning (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0453_Mrs_Henry_Hills",
+    "atomId": "L0453_Mrs_Henry_Hills",
+    "kind": "letter",
+    "noteFile": "To Mrs. Henry Hills (Dickinson) (3).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0453_Mrs_Henry_Hills.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0454_Mrs_Henry_Hills",
+    "atomId": "L0454_Mrs_Henry_Hills",
+    "kind": "letter",
+    "noteFile": "To Mrs. Henry Hills (Dickinson) (4).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0454_Mrs_Henry_Hills.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0455_Mrs_Henry_Hills",
+    "atomId": "L0455_Mrs_Henry_Hills",
+    "kind": "letter",
+    "noteFile": "To Mrs. Henry Hills (Dickinson) (5).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0455_Mrs_Henry_Hills.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0458_Mrs_Henry_Hills_1881",
+    "atomId": "L0458_Mrs_Henry_Hills_1881",
+    "kind": "letter",
+    "noteFile": "To Mrs. Henry Hills, 1881 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0458_Mrs_Henry_Hills_1881.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0443_Mrs_Henry_Hills_Christmas_1878",
     "atomId": "L0443_Mrs_Henry_Hills_Christmas_1878",
     "kind": "letter",
@@ -5510,6 +5830,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0523_Mrs_J_C_Greenough",
+    "atomId": "L0523_Mrs_J_C_Greenough",
+    "kind": "letter",
+    "noteFile": "To Mrs. J. C. Greenough (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0523_Mrs_J_C_Greenough.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0416_Mrs_JS_Cooper_June_1874",
     "atomId": "L0416_Mrs_JS_Cooper_June_1874",
     "kind": "letter",
@@ -5517,6 +5847,16 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0416_Mrs_JS_Cooper_June_1874.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0490_Mrs_Joseph_Sweetser",
+    "atomId": "L0490_Mrs_Joseph_Sweetser",
+    "kind": "letter",
+    "noteFile": "To Mrs. Joseph Sweetser (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0490_Mrs_Joseph_Sweetser.md",
     "hasIt": false
   },
   {
@@ -5540,6 +5880,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0496_Professor_J_K_Chickering",
+    "atomId": "L0496_Professor_J_K_Chickering",
+    "kind": "letter",
+    "noteFile": "To Professor J. K. Chickering (Dickinson) (3).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0496_Professor_J_K_Chickering.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0492_Professor_J_K_Chickering_Autumn_1882",
     "atomId": "L0492_Professor_J_K_Chickering_Autumn_1882",
     "kind": "letter",
@@ -5547,6 +5897,56 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0492_Professor_J_K_Chickering_Autumn_1882.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0241_the_Misses",
+    "atomId": "L0241_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (11).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0241_the_Misses.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0228_the_Misses",
+    "atomId": "L0228_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (7).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0228_the_Misses.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0230_the_Misses",
+    "atomId": "L0230_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (8).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0230_the_Misses.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0221_the_Misses_1870",
+    "atomId": "L0221_the_Misses_1870",
+    "kind": "letter",
+    "noteFile": "To the Misses, 1870 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0221_the_Misses_1870.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0255_the_Misses_1881",
+    "atomId": "L0255_the_Misses_1881",
+    "kind": "letter",
+    "noteFile": "To the Misses, 1881 (Dickinson) (3).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0255_the_Misses_1881.md",
     "hasIt": false
   },
   {
@@ -5560,6 +5960,46 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0235_the_Misses_Autumn_1873",
+    "atomId": "L0235_the_Misses_Autumn_1873",
+    "kind": "letter",
+    "noteFile": "To the Misses, Autumn, 1873 (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0235_the_Misses_Autumn_1873.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0471_the_Rev_F_F_Emerson",
+    "atomId": "L0471_the_Rev_F_F_Emerson",
+    "kind": "letter",
+    "noteFile": "To the Rev. F. F. Emerson (Dickinson) (4).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0471_the_Rev_F_F_Emerson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0474_the_Rev_F_F_Emerson",
+    "atomId": "L0474_the_Rev_F_F_Emerson",
+    "kind": "letter",
+    "noteFile": "To the Rev. F. F. Emerson (Dickinson) (6).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0474_the_Rev_F_F_Emerson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0382_To_Mrs_Stearns",
+    "atomId": "L0382_To_Mrs_Stearns",
+    "kind": "letter",
+    "noteFile": "To To Mrs. Stearns (Dickinson) (2).md",
+    "finalLabel": "Friendship · Tears",
+    "finalSlug": "friendship-tears",
+    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0382_To_Mrs_Stearns.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0379_To_Mrs_Stearns_1878",
     "atomId": "L0379_To_Mrs_Stearns_1878",
     "kind": "letter",
@@ -5567,336 +6007,6 @@
     "finalLabel": "Friendship · Tears",
     "finalSlug": "friendship-tears",
     "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0379_To_Mrs_Stearns_1878.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0019_Mrs_A_P_Strong",
-    "atomId": "L0019_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0019_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0038_Mr_William_Austin_Dickinson",
-    "atomId": "L0038_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0038_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0039_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "atomId": "L0039_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0039_Mr_William_Austin_Dickinson_Sunday_Evening.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "atomId": "L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0061_Mr_William_Austin_Dickinson_Friday_Morning",
-    "atomId": "L0061_Mr_William_Austin_Dickinson_Friday_Morning",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0061_Mr_William_Austin_Dickinson_Friday_Morning.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0063_Mr_William_Austin_Dickinson",
-    "atomId": "L0063_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0063_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0275_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0275_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0275_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0276_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0276_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0276_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0278_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0278_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0278_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0302_Mr_Thomas_Wentworth_Higginson_1880",
-    "atomId": "L0302_Mr_Thomas_Wentworth_Higginson_1880",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0302_Mr_Thomas_Wentworth_Higginson_1880.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0326_Miss_Maria_Whitney_1883",
-    "atomId": "L0326_Miss_Maria_Whitney_1883",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0326_Miss_Maria_Whitney_1883.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0328_Miss_Maria_Whitney_Probably_1884",
-    "atomId": "L0328_Miss_Maria_Whitney_Probably_1884",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0328_Miss_Maria_Whitney_Probably_1884.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0329_Miss_Maria_Whitney",
-    "atomId": "L0329_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0329_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0387_Mrs_Edward_Tuckerman",
-    "atomId": "L0387_Mrs_Edward_Tuckerman",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0387_Mrs_Edward_Tuckerman.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0399_Mrs_Edward_Tuckerman_1880",
-    "atomId": "L0399_Mrs_Edward_Tuckerman_1880",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0399_Mrs_Edward_Tuckerman_1880.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0403_Mrs_Edward_Tuckerman",
-    "atomId": "L0403_Mrs_Edward_Tuckerman",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0403_Mrs_Edward_Tuckerman.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0426_Mrs_FS_Cooper",
-    "atomId": "L0426_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0426_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0427_Mrs_FS_Cooper",
-    "atomId": "L0427_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0427_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0428_Mrs_FS_Cooper",
-    "atomId": "L0428_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0428_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0477_Mr_and_Mrs_George_Montague",
-    "atomId": "L0477_Mr_and_Mrs_George_Montague",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0477_Mr_and_Mrs_George_Montague.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0478_Mr_and_Mrs_George_Montague",
-    "atomId": "L0478_Mr_and_Mrs_George_Montague",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0478_Mr_and_Mrs_George_Montague.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0491_Mrs_Joseph_Sweetser",
-    "atomId": "L0491_Mrs_Joseph_Sweetser",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0491_Mrs_Joseph_Sweetser.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0497_Professor_J_K_Chickering",
-    "atomId": "L0497_Professor_J_K_Chickering",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0497_Professor_J_K_Chickering.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0507_Dr_and_Mrs_Field_1885",
-    "atomId": "L0507_Dr_and_Mrs_Field_1885",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0507_Dr_and_Mrs_Field_1885.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0509_Dr_and_Mrs_Field",
-    "atomId": "L0509_Dr_and_Mrs_Field",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0509_Dr_and_Mrs_Field.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0511_Mr_Theodore_Holland_1885",
-    "atomId": "L0511_Mr_Theodore_Holland_1885",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0511_Mr_Theodore_Holland_1885.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0517_H_H",
-    "atomId": "L0517_H_H",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0517_H_H.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0521_Miss_Eugenia_Hall",
-    "atomId": "L0521_Miss_Eugenia_Hall",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Friendship · Tears",
-    "finalSlug": "friendship-tears",
-    "newAtomRel": "Authors/Dickinson/Atomized/friendship-tears/L0521_Miss_Eugenia_Hall.md",
     "hasIt": false
   },
   {
@@ -6158,6 +6268,26 @@
     "finalSlug": "grace-and-redemption-humility-bread-and-wine-eucharist",
     "newAtomRel": "Authors/Dickinson/Atomized/grace-and-redemption-humility-bread-and-wine-eucharist/0885_Our_little_Kinsmen_after_Rain.md",
     "hasIt": true
+  },
+  {
+    "srcBase": "L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (12).md",
+    "finalLabel": "Grace and Redemption · Humility · Bread and Wine Eucharist",
+    "finalSlug": "grace-and-redemption-humility-bread-and-wine-eucharist",
+    "newAtomRel": "Authors/Dickinson/Atomized/grace-and-redemption-humility-bread-and-wine-eucharist/L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (21).md",
+    "finalLabel": "Grace and Redemption · Humility · Bread and Wine Eucharist",
+    "finalSlug": "grace-and-redemption-humility-bread-and-wine-eucharist",
+    "newAtomRel": "Authors/Dickinson/Atomized/grace-and-redemption-humility-bread-and-wine-eucharist/L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
   },
   {
     "srcBase": "L0500_Mr_Thomas_Niles",
@@ -6750,6 +6880,26 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0128_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0128_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (12).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0128_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0130_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0130_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (14).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0130_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0131_Dr_J_G_Holland_and_Mrs_Holland_Christmas_1881",
     "atomId": "L0131_Dr_J_G_Holland_and_Mrs_Holland_Christmas_1881",
     "kind": "letter",
@@ -6760,6 +6910,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0314_Miss_Maria_Whitney",
+    "atomId": "L0314_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (2).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0314_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0321_Miss_Maria_Whitney_Tuesday",
     "atomId": "L0321_Miss_Maria_Whitney_Tuesday",
     "kind": "letter",
@@ -6767,6 +6927,16 @@
     "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
     "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
     "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0321_Miss_Maria_Whitney_Tuesday.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
+    "atomId": "L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (4).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S.md",
     "hasIt": false
   },
   {
@@ -6840,6 +7010,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (8).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0146_Mr_Samuel_Bowlers_and_Mrs_Bowles_March_1862",
     "atomId": "L0146_Mr_Samuel_Bowlers_and_Mrs_Bowles_March_1862",
     "kind": "letter",
@@ -6847,6 +7027,16 @@
     "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
     "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
     "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0146_Mr_Samuel_Bowlers_and_Mrs_Bowles_March_1862.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0513_Mr_Theodore_Holland",
+    "atomId": "L0513_Mr_Theodore_Holland",
+    "kind": "letter",
+    "noteFile": "To Mr. Theodore Holland (Dickinson) (2).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0513_Mr_Theodore_Holland.md",
     "hasIt": false
   },
   {
@@ -6870,6 +7060,46 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0281_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0281_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (10).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0281_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0274_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0274_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (6).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0274_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0288_Mr_Thomas_Wentworth_Higginson_1875",
+    "atomId": "L0288_Mr_Thomas_Wentworth_Higginson_1875",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson, 1875 (Dickinson) (2).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0288_Mr_Thomas_Wentworth_Higginson_1875.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0295_Mr_Thomas_Wentworth_Higginson_1877",
+    "atomId": "L0295_Mr_Thomas_Wentworth_Higginson_1877",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson, 1877 (Dickinson) (2).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0295_Mr_Thomas_Wentworth_Higginson_1877.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0285_Mr_Thomas_Wentworth_Higginson_June_1875",
     "atomId": "L0285_Mr_Thomas_Wentworth_Higginson_June_1875",
     "kind": "letter",
@@ -6877,6 +7107,16 @@
     "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
     "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
     "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0285_Mr_Thomas_Wentworth_Higginson_June_1875.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0021_Mrs_A_P_Strong",
+    "atomId": "L0021_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (9).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0021_Mrs_A_P_Strong.md",
     "hasIt": false
   },
   {
@@ -6927,6 +7167,16 @@
     "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
     "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
     "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0388_Mrs_Edward_Tuckerman_sent_her_friends_at_New.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0440_Mrs_FS_Cooper",
+    "atomId": "L0440_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (16).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0440_Mrs_FS_Cooper.md",
     "hasIt": false
   },
   {
@@ -6990,6 +7240,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0377_Mrs_W_A_Stearns",
+    "atomId": "L0377_Mrs_W_A_Stearns",
+    "kind": "letter",
+    "noteFile": "To Mrs. W. A. Stearns (Dickinson) (3).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0377_Mrs_W_A_Stearns.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0482_Mrs_W_F_Stearns_October_1882",
     "atomId": "L0482_Mrs_W_F_Stearns_October_1882",
     "kind": "letter",
@@ -6997,6 +7257,16 @@
     "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
     "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
     "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0482_Mrs_W_F_Stearns_October_1882.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0497_Professor_J_K_Chickering",
+    "atomId": "L0497_Professor_J_K_Chickering",
+    "kind": "letter",
+    "noteFile": "To Professor J. K. Chickering (Dickinson) (4).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0497_Professor_J_K_Chickering.md",
     "hasIt": false
   },
   {
@@ -7100,6 +7370,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0309_the_Rev_Perez_D_Cowan",
+    "atomId": "L0309_the_Rev_Perez_D_Cowan",
+    "kind": "letter",
+    "noteFile": "To the Rev. Perez D. Cowan (Dickinson) (2).md",
+    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
+    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
+    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0309_the_Rev_Perez_D_Cowan.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0307_the_Rev_Perez_D_Cowan",
     "atomId": "L0307_the_Rev_Perez_D_Cowan",
     "kind": "letter",
@@ -7117,166 +7397,6 @@
     "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
     "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
     "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0381_To_Mrs_Stearns.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0130_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0130_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0130_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0132_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0132_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0132_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0220_the_Misses",
-    "atomId": "L0220_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0220_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0230_the_Misses",
-    "atomId": "L0230_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0230_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0256_the_Misses",
-    "atomId": "L0256_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0256_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0258_the_Misses",
-    "atomId": "L0258_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0258_the_Misses.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0286_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0286_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0286_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0340_Miss_Maria_Whitney",
-    "atomId": "L0340_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0340_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0382_To_Mrs_Stearns",
-    "atomId": "L0382_To_Mrs_Stearns",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0382_To_Mrs_Stearns.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0422_Mrs_FS_Cooper",
-    "atomId": "L0422_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0422_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0452_Mrs_Henry_Hills",
-    "atomId": "L0452_Mrs_Henry_Hills",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0452_Mrs_Henry_Hills.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0453_Mrs_Henry_Hills",
-    "atomId": "L0453_Mrs_Henry_Hills",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0453_Mrs_Henry_Hills.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0494_Professor_J_K_Chickering",
-    "atomId": "L0494_Professor_J_K_Chickering",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0494_Professor_J_K_Chickering.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0496_Professor_J_K_Chickering",
-    "atomId": "L0496_Professor_J_K_Chickering",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0496_Professor_J_K_Chickering.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0537_Mr_C_H_Clark",
-    "atomId": "L0537_Mr_C_H_Clark",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0537_Mr_C_H_Clark.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0538_Mr_C_H_Clark",
-    "atomId": "L0538_Mr_C_H_Clark",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Grief and Loss · Elegy · Clothing and Costume",
-    "finalSlug": "grief-and-loss-elegy-clothing-and-costume",
-    "newAtomRel": "Authors/Dickinson/Atomized/grief-and-loss-elegy-clothing-and-costume/L0538_Mr_C_H_Clark.md",
     "hasIt": false
   },
   {
@@ -7460,6 +7580,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (22).md",
+    "finalLabel": "Imagination · Fragment · Heroic Couplet",
+    "finalSlug": "imagination-fragment-heroic-couplet",
+    "newAtomRel": "Authors/Dickinson/Atomized/imagination-fragment-heroic-couplet/L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0264_Mr_Thomas_Wentworth_Higginson_April_16_1862",
     "atomId": "L0264_Mr_Thomas_Wentworth_Higginson_April_16_1862",
     "kind": "letter",
@@ -7520,6 +7650,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0517_H_H",
+    "atomId": "L0517_H_H",
+    "kind": "letter",
+    "noteFile": "To “H. H.” (Dickinson) (3).md",
+    "finalLabel": "Imagination · Fragment · Heroic Couplet",
+    "finalSlug": "imagination-fragment-heroic-couplet",
+    "newAtomRel": "Authors/Dickinson/Atomized/imagination-fragment-heroic-couplet/L0517_H_H.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "1129_Tell_all_the_Truth_but_tell_it_slant",
     "atomId": "1129_Tell_all_the_Truth_but_tell_it_slant",
     "kind": "poem",
@@ -7568,26 +7708,6 @@
     "finalSlug": "imagination-fragment-heroic-couplet",
     "newAtomRel": "Authors/Dickinson/Atomized/imagination-fragment-heroic-couplet/0569_I_reckon_when_I_count_it_all.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0235_the_Misses_Autumn_1873",
-    "atomId": "L0235_the_Misses_Autumn_1873",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Imagination · Fragment · Heroic Couplet",
-    "finalSlug": "imagination-fragment-heroic-couplet",
-    "newAtomRel": "Authors/Dickinson/Atomized/imagination-fragment-heroic-couplet/L0235_the_Misses_Autumn_1873.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0458_Mrs_Henry_Hills_1881",
-    "atomId": "L0458_Mrs_Henry_Hills_1881",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Imagination · Fragment · Heroic Couplet",
-    "finalSlug": "imagination-fragment-heroic-couplet",
-    "newAtomRel": "Authors/Dickinson/Atomized/imagination-fragment-heroic-couplet/L0458_Mrs_Henry_Hills_1881.md",
-    "hasIt": false
   },
   {
     "srcBase": "1057_I_had_a_daily_Bliss",
@@ -7960,6 +8080,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0326_Miss_Maria_Whitney_1883",
+    "atomId": "L0326_Miss_Maria_Whitney_1883",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney, 1883 (Dickinson) (3).md",
+    "finalLabel": "Joy · Animals · Comic Verse Song",
+    "finalSlug": "joy-animals-comic-verse-song",
+    "newAtomRel": "Authors/Dickinson/Atomized/joy-animals-comic-verse-song/L0326_Miss_Maria_Whitney_1883.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0156_Mr_Samuel_Bowlers_and_Mrs_Bowles_Late_Autumn_1862",
     "atomId": "L0156_Mr_Samuel_Bowlers_and_Mrs_Bowles_Late_Autumn_1862",
     "kind": "letter",
@@ -7990,6 +8120,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0094_Mrs_Anthon",
+    "atomId": "L0094_Mrs_Anthon",
+    "kind": "letter",
+    "noteFile": "To Mrs. Anthon (Dickinson) (3).md",
+    "finalLabel": "Joy · Animals · Comic Verse Song",
+    "finalSlug": "joy-animals-comic-verse-song",
+    "newAtomRel": "Authors/Dickinson/Atomized/joy-animals-comic-verse-song/L0094_Mrs_Anthon.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0408_Mrs_Edward_Tuckerman_June_1883",
     "atomId": "L0408_Mrs_Edward_Tuckerman_June_1883",
     "kind": "letter",
@@ -8000,6 +8140,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0434_Mrs_FS_Cooper",
+    "atomId": "L0434_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (11).md",
+    "finalLabel": "Joy · Animals · Comic Verse Song",
+    "finalSlug": "joy-animals-comic-verse-song",
+    "newAtomRel": "Authors/Dickinson/Atomized/joy-animals-comic-verse-song/L0434_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0373_Mrs_W_A_Stearns_1875",
     "atomId": "L0373_Mrs_W_A_Stearns_1875",
     "kind": "letter",
@@ -8007,26 +8157,6 @@
     "finalLabel": "Joy · Animals · Comic Verse Song",
     "finalSlug": "joy-animals-comic-verse-song",
     "newAtomRel": "Authors/Dickinson/Atomized/joy-animals-comic-verse-song/L0373_Mrs_W_A_Stearns_1875.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0048_Mr_William_Austin_Dickinson_Friday_Morning",
-    "atomId": "L0048_Mr_William_Austin_Dickinson_Friday_Morning",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Joy · Animals · Comic Verse Song",
-    "finalSlug": "joy-animals-comic-verse-song",
-    "newAtomRel": "Authors/Dickinson/Atomized/joy-animals-comic-verse-song/L0048_Mr_William_Austin_Dickinson_Friday_Morning.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Joy · Animals · Comic Verse Song",
-    "finalSlug": "joy-animals-comic-verse-song",
-    "newAtomRel": "Authors/Dickinson/Atomized/joy-animals-comic-verse-song/L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -8248,6 +8378,16 @@
     "finalSlug": "martyrdom-martyr-saint-cross",
     "newAtomRel": "Authors/Dickinson/Atomized/martyrdom-martyr-saint-cross/0964_Unto_Me_I_do_not_know_you.md",
     "hasIt": true
+  },
+  {
+    "srcBase": "L0316_Miss_Maria_Whitney",
+    "atomId": "L0316_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (3).md",
+    "finalLabel": "Martyrdom · Martyr Saint · Cross",
+    "finalSlug": "martyrdom-martyr-saint-cross",
+    "newAtomRel": "Authors/Dickinson/Atomized/martyrdom-martyr-saint-cross/L0316_Miss_Maria_Whitney.md",
+    "hasIt": false
   },
   {
     "srcBase": "L0414_Mrs_Edward_Tuckerman_May_1885",
@@ -8620,6 +8760,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0098_Mrs_Anthon",
+    "atomId": "L0098_Mrs_Anthon",
+    "kind": "letter",
+    "noteFile": "To Mrs. Anthon (Dickinson) (5).md",
+    "finalLabel": "Melancholy · Suffering · Pain and Suffering",
+    "finalSlug": "melancholy-suffering-pain-and-suffering",
+    "newAtomRel": "Authors/Dickinson/Atomized/melancholy-suffering-pain-and-suffering/L0098_Mrs_Anthon.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0444_Mrs_Henry_Hills_January_1879",
     "atomId": "L0444_Mrs_Henry_Hills_January_1879",
     "kind": "letter",
@@ -8637,6 +8787,16 @@
     "finalLabel": "Melancholy · Suffering · Pain and Suffering",
     "finalSlug": "melancholy-suffering-pain-and-suffering",
     "newAtomRel": "Authors/Dickinson/Atomized/melancholy-suffering-pain-and-suffering/L0236_the_Misses_1874.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0473_the_Rev_F_F_Emerson",
+    "atomId": "L0473_the_Rev_F_F_Emerson",
+    "kind": "letter",
+    "noteFile": "To the Rev. F. F. Emerson (Dickinson) (5).md",
+    "finalLabel": "Melancholy · Suffering · Pain and Suffering",
+    "finalSlug": "melancholy-suffering-pain-and-suffering",
+    "newAtomRel": "Authors/Dickinson/Atomized/melancholy-suffering-pain-and-suffering/L0473_the_Rev_F_F_Emerson.md",
     "hasIt": false
   },
   {
@@ -8688,26 +8848,6 @@
     "finalSlug": "melancholy-suffering-pain-and-suffering",
     "newAtomRel": "Authors/Dickinson/Atomized/melancholy-suffering-pain-and-suffering/0985_The_Missing_All_prevented_Me.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0237_the_Misses_1874",
-    "atomId": "L0237_the_Misses_1874",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Melancholy · Suffering · Pain and Suffering",
-    "finalSlug": "melancholy-suffering-pain-and-suffering",
-    "newAtomRel": "Authors/Dickinson/Atomized/melancholy-suffering-pain-and-suffering/L0237_the_Misses_1874.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0238_the_Misses",
-    "atomId": "L0238_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Melancholy · Suffering · Pain and Suffering",
-    "finalSlug": "melancholy-suffering-pain-and-suffering",
-    "newAtomRel": "Authors/Dickinson/Atomized/melancholy-suffering-pain-and-suffering/L0238_the_Misses.md",
-    "hasIt": false
   },
   {
     "srcBase": "1133_The_Snow_that_never_drifts",
@@ -8950,6 +9090,46 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0108_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0108_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (4).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0108_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0109_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0109_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (5).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0109_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0333_Miss_Maria_Whitney",
+    "atomId": "L0333_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (9).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0333_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0331_Miss_Maria_Whitney_1882",
+    "atomId": "L0331_Miss_Maria_Whitney_1882",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney, 1882 (Dickinson) (3).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0331_Miss_Maria_Whitney_1882.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0359_Mr_C_H_Clark",
     "atomId": "L0359_Mr_C_H_Clark",
     "kind": "letter",
@@ -8977,6 +9157,46 @@
     "finalLabel": "Memory and Time · Memory · Nostalgia",
     "finalSlug": "memory-and-time-memory-nostalgia",
     "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0353_Mr_C_H_Clark_January_4_1884.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (2).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (20).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (7).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (9).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -9010,6 +9230,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0023_Mrs_A_P_Strong_Tuesday_Evening",
+    "atomId": "L0023_Mrs_A_P_Strong_Tuesday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong, Tuesday Evening (Dickinson) (2).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0023_Mrs_A_P_Strong_Tuesday_Evening.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0406_Mrs_Edward_Tuckerman_January_1882",
     "atomId": "L0406_Mrs_Edward_Tuckerman_January_1882",
     "kind": "letter",
@@ -9040,6 +9270,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0452_Mrs_Henry_Hills",
+    "atomId": "L0452_Mrs_Henry_Hills",
+    "kind": "letter",
+    "noteFile": "To Mrs. Henry Hills (Dickinson) (2).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0452_Mrs_Henry_Hills.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0450_Mrs_Henry_Hills_Christmas_1879",
     "atomId": "L0450_Mrs_Henry_Hills_Christmas_1879",
     "kind": "letter",
@@ -9060,6 +9300,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0214_the_Misses",
+    "atomId": "L0214_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (4).md",
+    "finalLabel": "Memory and Time · Memory · Nostalgia",
+    "finalSlug": "memory-and-time-memory-nostalgia",
+    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0214_the_Misses.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0210_the_Misses_1865",
     "atomId": "L0210_the_Misses_1865",
     "kind": "letter",
@@ -9077,36 +9327,6 @@
     "finalLabel": "Memory and Time · Memory · Nostalgia",
     "finalSlug": "memory-and-time-memory-nostalgia",
     "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0380_To_Mrs_Stearns_1879.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
-    "atomId": "L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Memory and Time · Memory · Nostalgia",
-    "finalSlug": "memory-and-time-memory-nostalgia",
-    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Memory and Time · Memory · Nostalgia",
-    "finalSlug": "memory-and-time-memory-nostalgia",
-    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Memory and Time · Memory · Nostalgia",
-    "finalSlug": "memory-and-time-memory-nostalgia",
-    "newAtomRel": "Authors/Dickinson/Atomized/memory-and-time-memory-nostalgia/L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -9970,6 +10190,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0106_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0106_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (3).md",
+    "finalLabel": "Mortality · Grave · Memento Mori",
+    "finalSlug": "mortality-grave-memento-mori",
+    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0106_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0111_Dr_J_G_Holland_and_Mrs_Holland_Sabbath_Night",
     "atomId": "L0111_Dr_J_G_Holland_and_Mrs_Holland_Sabbath_Night",
     "kind": "letter",
@@ -9977,6 +10207,16 @@
     "finalLabel": "Mortality · Grave · Memento Mori",
     "finalSlug": "mortality-grave-memento-mori",
     "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0111_Dr_J_G_Holland_and_Mrs_Holland_Sabbath_Night.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (5).md",
+    "finalLabel": "Mortality · Grave · Memento Mori",
+    "finalSlug": "mortality-grave-memento-mori",
+    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -10090,6 +10330,26 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0242_the_Misses",
+    "atomId": "L0242_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (12).md",
+    "finalLabel": "Mortality · Grave · Memento Mori",
+    "finalSlug": "mortality-grave-memento-mori",
+    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0242_the_Misses.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0201_the_Misses",
+    "atomId": "L0201_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (3).md",
+    "finalLabel": "Mortality · Grave · Memento Mori",
+    "finalSlug": "mortality-grave-memento-mori",
+    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0201_the_Misses.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0260_the_Misses_November_1882",
     "atomId": "L0260_the_Misses_November_1882",
     "kind": "letter",
@@ -10128,76 +10388,6 @@
     "finalSlug": "mortality-grave-memento-mori",
     "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/0075_She_died_at_play.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0010_Mrs_A_P_Strong",
-    "atomId": "L0010_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Mortality · Grave · Memento Mori",
-    "finalSlug": "mortality-grave-memento-mori",
-    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0010_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0093_Mrs_Anthon",
-    "atomId": "L0093_Mrs_Anthon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Mortality · Grave · Memento Mori",
-    "finalSlug": "mortality-grave-memento-mori",
-    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0093_Mrs_Anthon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0112_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0112_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Mortality · Grave · Memento Mori",
-    "finalSlug": "mortality-grave-memento-mori",
-    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0112_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Mortality · Grave · Memento Mori",
-    "finalSlug": "mortality-grave-memento-mori",
-    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0221_the_Misses_1870",
-    "atomId": "L0221_the_Misses_1870",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Mortality · Grave · Memento Mori",
-    "finalSlug": "mortality-grave-memento-mori",
-    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0221_the_Misses_1870.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0279_Mr_Thomas_Wentworth_Higginson_August_1870",
-    "atomId": "L0279_Mr_Thomas_Wentworth_Higginson_August_1870",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Mortality · Grave · Memento Mori",
-    "finalSlug": "mortality-grave-memento-mori",
-    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0279_Mr_Thomas_Wentworth_Higginson_August_1870.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0281_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0281_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Mortality · Grave · Memento Mori",
-    "finalSlug": "mortality-grave-memento-mori",
-    "newAtomRel": "Authors/Dickinson/Atomized/mortality-grave-memento-mori/L0281_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
   },
   {
     "srcBase": "1075_The_Sky_is_low_the_Clouds_are_mean",
@@ -10740,6 +10930,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0428_Mrs_FS_Cooper",
+    "atomId": "L0428_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (6).md",
+    "finalLabel": "Nature · Book of Nature · Natural Order",
+    "finalSlug": "nature-book-of-nature-natural-order",
+    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0428_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0199_the_Misses_February_1862",
     "atomId": "L0199_the_Misses_February_1862",
     "kind": "letter",
@@ -10857,76 +11057,6 @@
     "finalLabel": "Nature · Book of Nature · Natural Order",
     "finalSlug": "nature-book-of-nature-natural-order",
     "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0533_the_Misses_March_1886.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0057_Mr_William_Austin_Dickinson",
-    "atomId": "L0057_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Nature · Book of Nature · Natural Order",
-    "finalSlug": "nature-book-of-nature-natural-order",
-    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0057_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0060_Mr_William_Austin_Dickinson_Tuesday_Noon",
-    "atomId": "L0060_Mr_William_Austin_Dickinson_Tuesday_Noon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Nature · Book of Nature · Natural Order",
-    "finalSlug": "nature-book-of-nature-natural-order",
-    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0060_Mr_William_Austin_Dickinson_Tuesday_Noon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0068_Mr_William_Austin_Dickinson_Tuesday_Evening",
-    "atomId": "L0068_Mr_William_Austin_Dickinson_Tuesday_Evening",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Nature · Book of Nature · Natural Order",
-    "finalSlug": "nature-book-of-nature-natural-order",
-    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0068_Mr_William_Austin_Dickinson_Tuesday_Evening.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0070_Mr_William_Austin_Dickinson",
-    "atomId": "L0070_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Nature · Book of Nature · Natural Order",
-    "finalSlug": "nature-book-of-nature-natural-order",
-    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0070_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0071_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "atomId": "L0071_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Nature · Book of Nature · Natural Order",
-    "finalSlug": "nature-book-of-nature-natural-order",
-    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0071_Mr_William_Austin_Dickinson_Sunday_Evening.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
-    "atomId": "L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Nature · Book of Nature · Natural Order",
-    "finalSlug": "nature-book-of-nature-natural-order",
-    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874",
-    "atomId": "L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Nature · Book of Nature · Natural Order",
-    "finalSlug": "nature-book-of-nature-natural-order",
-    "newAtomRel": "Authors/Dickinson/Atomized/nature-book-of-nature-natural-order/L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874.md",
     "hasIt": false
   },
   {
@@ -11110,6 +11240,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0477_Mr_and_Mrs_George_Montague",
+    "atomId": "L0477_Mr_and_Mrs_George_Montague",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. George Montague (Dickinson) (2).md",
+    "finalLabel": "Paradox · Food and Feasting · Aphorism",
+    "finalSlug": "paradox-food-and-feasting-aphorism",
+    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0477_Mr_and_Mrs_George_Montague.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0346_Mr_C_H_Clark_April_18_1883",
     "atomId": "L0346_Mr_C_H_Clark_April_18_1883",
     "kind": "letter",
@@ -11140,6 +11280,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0045_Mr_William_Austin_Dickinson",
+    "atomId": "L0045_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (4).md",
+    "finalLabel": "Paradox · Food and Feasting · Aphorism",
+    "finalSlug": "paradox-food-and-feasting-aphorism",
+    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0045_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0032_Mr_William_Austin_Dickinson_Monday_Morn",
     "atomId": "L0032_Mr_William_Austin_Dickinson_Monday_Morn",
     "kind": "letter",
@@ -11147,6 +11297,36 @@
     "finalLabel": "Paradox · Food and Feasting · Aphorism",
     "finalSlug": "paradox-food-and-feasting-aphorism",
     "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0032_Mr_William_Austin_Dickinson_Monday_Morn.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "atomId": "L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (3).md",
+    "finalLabel": "Paradox · Food and Feasting · Aphorism",
+    "finalSlug": "paradox-food-and-feasting-aphorism",
+    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0039_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "atomId": "L0039_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (3).md",
+    "finalLabel": "Paradox · Food and Feasting · Aphorism",
+    "finalSlug": "paradox-food-and-feasting-aphorism",
+    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0039_Mr_William_Austin_Dickinson_Sunday_Evening.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0041_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "atomId": "L0041_Mr_William_Austin_Dickinson_Sunday_Evening",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (4).md",
+    "finalLabel": "Paradox · Food and Feasting · Aphorism",
+    "finalSlug": "paradox-food-and-feasting-aphorism",
+    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0041_Mr_William_Austin_Dickinson_Sunday_Evening.md",
     "hasIt": false
   },
   {
@@ -11167,6 +11347,16 @@
     "finalLabel": "Paradox · Food and Feasting · Aphorism",
     "finalSlug": "paradox-food-and-feasting-aphorism",
     "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0441_Mrs_FS_Cooper_1885.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0258_the_Misses",
+    "atomId": "L0258_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (14).md",
+    "finalLabel": "Paradox · Food and Feasting · Aphorism",
+    "finalSlug": "paradox-food-and-feasting-aphorism",
+    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0258_the_Misses.md",
     "hasIt": false
   },
   {
@@ -11280,6 +11470,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0478_Mr_and_Mrs_George_Montague",
+    "atomId": "L0478_Mr_and_Mrs_George_Montague",
+    "kind": "letter",
+    "noteFile": "To Mr. and Mrs. George Montague (Dickinson) (3).md",
+    "finalLabel": "Paradox · Food and Feasting · Aphorism",
+    "finalSlug": "paradox-food-and-feasting-aphorism",
+    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0478_Mr_and_Mrs_George_Montague.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "1226_The_Popular_Heart_is_a_Cannon_first",
     "atomId": "1226_The_Popular_Heart_is_a_Cannon_first",
     "kind": "poem",
@@ -11308,86 +11508,6 @@
     "finalSlug": "paradox-food-and-feasting-aphorism",
     "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/0910_Experience_is_the_Angled_Road.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0021_Mrs_A_P_Strong",
-    "atomId": "L0021_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0021_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0033_Mr_William_Austin_Dickinson",
-    "atomId": "L0033_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0033_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0442_Mrs_FS_Cooper",
-    "atomId": "L0442_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0442_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0471_the_Rev_F_F_Emerson",
-    "atomId": "L0471_the_Rev_F_F_Emerson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0471_the_Rev_F_F_Emerson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0473_the_Rev_F_F_Emerson",
-    "atomId": "L0473_the_Rev_F_F_Emerson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Paradox · Food and Feasting · Aphorism",
-    "finalSlug": "paradox-food-and-feasting-aphorism",
-    "newAtomRel": "Authors/Dickinson/Atomized/paradox-food-and-feasting-aphorism/L0473_the_Rev_F_F_Emerson.md",
-    "hasIt": false
   },
   {
     "srcBase": "1108_A_Diamond_on_the_Hand",
@@ -11570,6 +11690,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0099_Mrs_Anthon",
+    "atomId": "L0099_Mrs_Anthon",
+    "kind": "letter",
+    "noteFile": "To Mrs. Anthon (Dickinson) (6).md",
+    "finalLabel": "Rose · Desire · Value and Scarcity",
+    "finalSlug": "rose-desire-value-and-scarcity",
+    "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/L0099_Mrs_Anthon.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0090_Mrs_Anthon_AMHERST_1859",
     "atomId": "L0090_Mrs_Anthon_AMHERST_1859",
     "kind": "letter",
@@ -11577,6 +11707,26 @@
     "finalLabel": "Rose · Desire · Value and Scarcity",
     "finalSlug": "rose-desire-value-and-scarcity",
     "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/L0090_Mrs_Anthon_AMHERST_1859.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0424_Mrs_FS_Cooper",
+    "atomId": "L0424_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (3).md",
+    "finalLabel": "Rose · Desire · Value and Scarcity",
+    "finalSlug": "rose-desire-value-and-scarcity",
+    "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/L0424_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
+    "atomId": "L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
+    "kind": "letter",
+    "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson (Dickinson) (2).md",
+    "finalLabel": "Rose · Desire · Value and Scarcity",
+    "finalSlug": "rose-desire-value-and-scarcity",
+    "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss.md",
     "hasIt": false
   },
   {
@@ -11658,36 +11808,6 @@
     "finalSlug": "rose-desire-value-and-scarcity",
     "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/0872_As_the_Starved_Maelstrom_laps_the_Navies.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0295_Mr_Thomas_Wentworth_Higginson_1877",
-    "atomId": "L0295_Mr_Thomas_Wentworth_Higginson_1877",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Rose · Desire · Value and Scarcity",
-    "finalSlug": "rose-desire-value-and-scarcity",
-    "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/L0295_Mr_Thomas_Wentworth_Higginson_1877.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0296_Mr_Thomas_Wentworth_Higginson_1877",
-    "atomId": "L0296_Mr_Thomas_Wentworth_Higginson_1877",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Rose · Desire · Value and Scarcity",
-    "finalSlug": "rose-desire-value-and-scarcity",
-    "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/L0296_Mr_Thomas_Wentworth_Higginson_1877.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0375_Mrs_W_A_Stearns",
-    "atomId": "L0375_Mrs_W_A_Stearns",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Rose · Desire · Value and Scarcity",
-    "finalSlug": "rose-desire-value-and-scarcity",
-    "newAtomRel": "Authors/Dickinson/Atomized/rose-desire-value-and-scarcity/L0375_Mrs_W_A_Stearns.md",
-    "hasIt": false
   },
   {
     "srcBase": "0107_Twas_such_a_little_little_boat",
@@ -11928,6 +12048,16 @@
     "finalSlug": "sea-water",
     "newAtomRel": "Authors/Dickinson/Atomized/sea-water/0904_Had_I_not_This_or_This_I_said.md",
     "hasIt": true
+  },
+  {
+    "srcBase": "L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
+    "atomId": "L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve (Dickinson) (2).md",
+    "finalLabel": "Sea · Water",
+    "finalSlug": "sea-water",
+    "newAtomRel": "Authors/Dickinson/Atomized/sea-water/L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve.md",
+    "hasIt": false
   },
   {
     "srcBase": "L0231_the_Misses_1872_or_1873",
@@ -12280,6 +12410,36 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0112_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0112_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (6).md",
+    "finalLabel": "Seasons · Winter · Autumn",
+    "finalSlug": "seasons-winter-autumn",
+    "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0112_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0340_Miss_Maria_Whitney",
+    "atomId": "L0340_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (13).md",
+    "finalLabel": "Seasons · Winter · Autumn",
+    "finalSlug": "seasons-winter-autumn",
+    "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0340_Miss_Maria_Whitney.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (10).md",
+    "finalLabel": "Seasons · Winter · Autumn",
+    "finalSlug": "seasons-winter-autumn",
+    "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0153_Mr_Samuel_Bowlers_and_Mrs_Bowles_August_1862",
     "atomId": "L0153_Mr_Samuel_Bowlers_and_Mrs_Bowles_August_1862",
     "kind": "letter",
@@ -12290,6 +12450,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0048_Mr_William_Austin_Dickinson_Friday_Morning",
+    "atomId": "L0048_Mr_William_Austin_Dickinson_Friday_Morning",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson, Friday Morning (Dickinson) (2).md",
+    "finalLabel": "Seasons · Winter · Autumn",
+    "finalSlug": "seasons-winter-autumn",
+    "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0048_Mr_William_Austin_Dickinson_Friday_Morning.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0044_Mr_William_Austin_Dickinson_Saturday_Morn",
     "atomId": "L0044_Mr_William_Austin_Dickinson_Saturday_Morn",
     "kind": "letter",
@@ -12297,6 +12467,16 @@
     "finalLabel": "Seasons · Winter · Autumn",
     "finalSlug": "seasons-winter-autumn",
     "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0044_Mr_William_Austin_Dickinson_Saturday_Morn.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0100_Mrs_Anthon",
+    "atomId": "L0100_Mrs_Anthon",
+    "kind": "letter",
+    "noteFile": "To Mrs. Anthon (Dickinson) (7).md",
+    "finalLabel": "Seasons · Winter · Autumn",
+    "finalSlug": "seasons-winter-autumn",
+    "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0100_Mrs_Anthon.md",
     "hasIt": false
   },
   {
@@ -12327,26 +12507,6 @@
     "finalLabel": "Seasons · Winter · Autumn",
     "finalSlug": "seasons-winter-autumn",
     "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0206_the_Misses_Autumn_1863.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0045_Mr_William_Austin_Dickinson",
-    "atomId": "L0045_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Seasons · Winter · Autumn",
-    "finalSlug": "seasons-winter-autumn",
-    "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0045_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Seasons · Winter · Autumn",
-    "finalSlug": "seasons-winter-autumn",
-    "newAtomRel": "Authors/Dickinson/Atomized/seasons-winter-autumn/L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -13180,6 +13340,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0122_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0122_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (10).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0122_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0320_Miss_Maria_Whitney_1879",
     "atomId": "L0320_Miss_Maria_Whitney_1879",
     "kind": "letter",
@@ -13207,6 +13377,16 @@
     "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
     "finalSlug": "self-knowledge-immortality-self-reliance",
     "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0332_Miss_Maria_Whitney_August_2_1882.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0538_Mr_C_H_Clark",
+    "atomId": "L0538_Mr_C_H_Clark",
+    "kind": "letter",
+    "noteFile": "To Mr. C. H. Clark (Dickinson) (3).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0538_Mr_C_H_Clark.md",
     "hasIt": false
   },
   {
@@ -13250,6 +13430,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (24).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0184_Mr_Samuel_Bowlers_and_Mrs_Bowles_April_1880",
     "atomId": "L0184_Mr_Samuel_Bowlers_and_Mrs_Bowles_April_1880",
     "kind": "letter",
@@ -13257,6 +13447,16 @@
     "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
     "finalSlug": "self-knowledge-immortality-self-reliance",
     "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0184_Mr_Samuel_Bowlers_and_Mrs_Bowles_April_1880.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0289_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0289_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (13).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0289_Mr_Thomas_Wentworth_Higginson.md",
     "hasIt": false
   },
   {
@@ -13330,6 +13530,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0015_Mrs_A_P_Strong",
+    "atomId": "L0015_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (6).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0015_Mrs_A_P_Strong.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0002_Mrs_A_P_Strong",
     "atomId": "L0002_Mrs_A_P_Strong",
     "kind": "letter",
@@ -13360,6 +13570,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0447_Mrs_Henry_Hills_February_1879",
+    "atomId": "L0447_Mrs_Henry_Hills_February_1879",
+    "kind": "letter",
+    "noteFile": "To Mrs. Henry Hills, February, 1879 (Dickinson) (2).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0447_Mrs_Henry_Hills_February_1879.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0465_Mrs_Jameson_1880",
     "atomId": "L0465_Mrs_Jameson_1880",
     "kind": "letter",
@@ -13387,6 +13607,16 @@
     "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
     "finalSlug": "self-knowledge-immortality-self-reliance",
     "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0372_Mrs_W_A_Stearns.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0226_the_Misses",
+    "atomId": "L0226_the_Misses",
+    "kind": "letter",
+    "noteFile": "To the Misses (Dickinson) (6).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0226_the_Misses.md",
     "hasIt": false
   },
   {
@@ -13440,6 +13670,16 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins",
+    "atomId": "L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins",
+    "kind": "letter",
+    "noteFile": "To the Rev. J. L. Jenkins and Mrs. Jenkins (Dickinson) (2).md",
+    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
+    "finalSlug": "self-knowledge-immortality-self-reliance",
+    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0310_the_Rev_Perez_D_Cowan_October_1880",
     "atomId": "L0310_the_Rev_Perez_D_Cowan_October_1880",
     "kind": "letter",
@@ -13458,186 +13698,6 @@
     "finalSlug": "self-knowledge-immortality-self-reliance",
     "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/0798_She_staked_her_Feathers_Gained_an_Arc.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0023_Mrs_A_P_Strong_Tuesday_Evening",
-    "atomId": "L0023_Mrs_A_P_Strong_Tuesday_Evening",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0023_Mrs_A_P_Strong_Tuesday_Evening.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0072_Mr_William_Austin_Dickinson",
-    "atomId": "L0072_Mr_William_Austin_Dickinson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0072_Mr_William_Austin_Dickinson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0074_Mr_William_Austin_Dickinson_Saturday_Morn",
-    "atomId": "L0074_Mr_William_Austin_Dickinson_Saturday_Morn",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0074_Mr_William_Austin_Dickinson_Saturday_Morn.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0271_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0271_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0271_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0273_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0273_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0273_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0274_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0274_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0274_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0284_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0284_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0284_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0289_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0289_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0289_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0297_Mr_Thomas_Wentworth_Higginson",
-    "atomId": "L0297_Mr_Thomas_Wentworth_Higginson",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0297_Mr_Thomas_Wentworth_Higginson.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0317_Miss_Maria_Whitney",
-    "atomId": "L0317_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0317_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0318_Miss_Maria_Whitney",
-    "atomId": "L0318_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0318_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0319_Miss_Maria_Whitney",
-    "atomId": "L0319_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0319_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0330_Miss_Maria_Whitney_1882",
-    "atomId": "L0330_Miss_Maria_Whitney_1882",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0330_Miss_Maria_Whitney_1882.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0331_Miss_Maria_Whitney_1882",
-    "atomId": "L0331_Miss_Maria_Whitney_1882",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0331_Miss_Maria_Whitney_1882.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0333_Miss_Maria_Whitney",
-    "atomId": "L0333_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0333_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0447_Mrs_Henry_Hills_February_1879",
-    "atomId": "L0447_Mrs_Henry_Hills_February_1879",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0447_Mrs_Henry_Hills_February_1879.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0528_Mrs_Todd",
-    "atomId": "L0528_Mrs_Todd",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Self-Knowledge · Immortality · Self-Reliance",
-    "finalSlug": "self-knowledge-immortality-self-reliance",
-    "newAtomRel": "Authors/Dickinson/Atomized/self-knowledge-immortality-self-reliance/L0528_Mrs_Todd.md",
-    "hasIt": false
   },
   {
     "srcBase": "1103_The_spry_Arms_of_the_Wind",
@@ -13758,6 +13818,26 @@
     "finalSlug": "sleep-sleeper-awakes-resurrection",
     "newAtomRel": "Authors/Dickinson/Atomized/sleep-sleeper-awakes-resurrection/0096_Sexton_My_Masters_sleeping_here.md",
     "hasIt": true
+  },
+  {
+    "srcBase": "L0129_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0129_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (13).md",
+    "finalLabel": "Sleep · Sleeper Awakes · Resurrection",
+    "finalSlug": "sleep-sleeper-awakes-resurrection",
+    "newAtomRel": "Authors/Dickinson/Atomized/sleep-sleeper-awakes-resurrection/L0129_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0329_Miss_Maria_Whitney",
+    "atomId": "L0329_Miss_Maria_Whitney",
+    "kind": "letter",
+    "noteFile": "To Miss Maria Whitney (Dickinson) (8).md",
+    "finalLabel": "Sleep · Sleeper Awakes · Resurrection",
+    "finalSlug": "sleep-sleeper-awakes-resurrection",
+    "newAtomRel": "Authors/Dickinson/Atomized/sleep-sleeper-awakes-resurrection/L0329_Miss_Maria_Whitney.md",
+    "hasIt": false
   },
   {
     "srcBase": "L0147_Mr_Samuel_Bowlers_and_Mrs_Bowles_MARCHIONESS",
@@ -13887,16 +13967,6 @@
     "finalLabel": "Sleep · Sleeper Awakes · Resurrection",
     "finalSlug": "sleep-sleeper-awakes-resurrection",
     "newAtomRel": "Authors/Dickinson/Atomized/sleep-sleeper-awakes-resurrection/L0195_the_Misses_Spring_1861.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0198_the_Misses",
-    "atomId": "L0198_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Sleep · Sleeper Awakes · Resurrection",
-    "finalSlug": "sleep-sleeper-awakes-resurrection",
-    "newAtomRel": "Authors/Dickinson/Atomized/sleep-sleeper-awakes-resurrection/L0198_the_Misses.md",
     "hasIt": false
   },
   {
@@ -14320,6 +14390,46 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0124_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0124_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (11).md",
+    "finalLabel": "Sun · Light and Dark · Fire",
+    "finalSlug": "sun-light-and-dark-fire",
+    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0124_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (25).md",
+    "finalLabel": "Sun · Light and Dark · Fire",
+    "finalSlug": "sun-light-and-dark-fire",
+    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (6).md",
+    "finalLabel": "Sun · Light and Dark · Fire",
+    "finalSlug": "sun-light-and-dark-fire",
+    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0436_Mrs_FS_Cooper",
+    "atomId": "L0436_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (13).md",
+    "finalLabel": "Sun · Light and Dark · Fire",
+    "finalSlug": "sun-light-and-dark-fire",
+    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0436_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0439_Mrs_FS_Cooper_1883",
     "atomId": "L0439_Mrs_FS_Cooper_1883",
     "kind": "letter",
@@ -14448,56 +14558,6 @@
     "finalSlug": "sun-light-and-dark-fire",
     "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/0993_We_miss_Her_not_because_We_see.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0424_Mrs_FS_Cooper",
-    "atomId": "L0424_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Sun · Light and Dark · Fire",
-    "finalSlug": "sun-light-and-dark-fire",
-    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0424_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0436_Mrs_FS_Cooper",
-    "atomId": "L0436_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Sun · Light and Dark · Fire",
-    "finalSlug": "sun-light-and-dark-fire",
-    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0436_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0437_Mrs_FS_Cooper",
-    "atomId": "L0437_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Sun · Light and Dark · Fire",
-    "finalSlug": "sun-light-and-dark-fire",
-    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0437_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0438_Mrs_FS_Cooper",
-    "atomId": "L0438_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Sun · Light and Dark · Fire",
-    "finalSlug": "sun-light-and-dark-fire",
-    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0438_Mrs_FS_Cooper.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0440_Mrs_FS_Cooper",
-    "atomId": "L0440_Mrs_FS_Cooper",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Sun · Light and Dark · Fire",
-    "finalSlug": "sun-light-and-dark-fire",
-    "newAtomRel": "Authors/Dickinson/Atomized/sun-light-and-dark-fire/L0440_Mrs_FS_Cooper.md",
-    "hasIt": false
   },
   {
     "srcBase": "1062_He_scanned_it_staggered",
@@ -14910,6 +14970,26 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0038_Mr_William_Austin_Dickinson",
+    "atomId": "L0038_Mr_William_Austin_Dickinson",
+    "kind": "letter",
+    "noteFile": "To Mr. William Austin Dickinson (Dickinson) (3).md",
+    "finalLabel": "Time · Tempus Fugit · Clock",
+    "finalSlug": "time-tempus-fugit-clock",
+    "newAtomRel": "Authors/Dickinson/Atomized/time-tempus-fugit-clock/L0038_Mr_William_Austin_Dickinson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0010_Mrs_A_P_Strong",
+    "atomId": "L0010_Mrs_A_P_Strong",
+    "kind": "letter",
+    "noteFile": "To Mrs. A. P. Strong (Dickinson) (4).md",
+    "finalLabel": "Time · Tempus Fugit · Clock",
+    "finalSlug": "time-tempus-fugit-clock",
+    "newAtomRel": "Authors/Dickinson/Atomized/time-tempus-fugit-clock/L0010_Mrs_A_P_Strong.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0001_Mrs_A_P_Strong_AMHERST_Feb_23_1845",
     "atomId": "L0001_Mrs_A_P_Strong_AMHERST_Feb_23_1845",
     "kind": "letter",
@@ -14947,36 +15027,6 @@
     "finalLabel": "Time · Tempus Fugit · Clock",
     "finalSlug": "time-tempus-fugit-clock",
     "newAtomRel": "Authors/Dickinson/Atomized/time-tempus-fugit-clock/L0005_Mrs_A_P_Strong_Thursday_Sept_26_1845.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0008_Mrs_A_P_Strong",
-    "atomId": "L0008_Mrs_A_P_Strong",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Time · Tempus Fugit · Clock",
-    "finalSlug": "time-tempus-fugit-clock",
-    "newAtomRel": "Authors/Dickinson/Atomized/time-tempus-fugit-clock/L0008_Mrs_A_P_Strong.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Time · Tempus Fugit · Clock",
-    "finalSlug": "time-tempus-fugit-clock",
-    "newAtomRel": "Authors/Dickinson/Atomized/time-tempus-fugit-clock/L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0335_Miss_Maria_Whitney",
-    "atomId": "L0335_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Time · Tempus Fugit · Clock",
-    "finalSlug": "time-tempus-fugit-clock",
-    "newAtomRel": "Authors/Dickinson/Atomized/time-tempus-fugit-clock/L0335_Miss_Maria_Whitney.md",
     "hasIt": false
   },
   {
@@ -15237,16 +15287,6 @@
     "finalLabel": "Transience · Decay · Carpe Diem",
     "finalSlug": "transience-decay-carpe-diem",
     "newAtomRel": "Authors/Dickinson/Atomized/transience-decay-carpe-diem/L0225_the_Misses_1872.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0226_the_Misses",
-    "atomId": "L0226_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Transience · Decay · Carpe Diem",
-    "finalSlug": "transience-decay-carpe-diem",
-    "newAtomRel": "Authors/Dickinson/Atomized/transience-decay-carpe-diem/L0226_the_Misses.md",
     "hasIt": false
   },
   {
@@ -16410,6 +16450,16 @@
     "hasIt": true
   },
   {
+    "srcBase": "L0117_Dr_J_G_Holland_and_Mrs_Holland",
+    "atomId": "L0117_Dr_J_G_Holland_and_Mrs_Holland",
+    "kind": "letter",
+    "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (7).md",
+    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0117_Dr_J_G_Holland_and_Mrs_Holland.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0107_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
     "atomId": "L0107_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
     "kind": "letter",
@@ -16427,6 +16477,16 @@
     "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
     "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
     "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0337_Miss_Maria_Whitney_August_19_1885.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "atomId": "L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+    "kind": "letter",
+    "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (4).md",
+    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
     "hasIt": false
   },
   {
@@ -16457,6 +16517,26 @@
     "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
     "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
     "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0512_Mr_Theodore_Holland.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0297_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0297_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (14).md",
+    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0297_Mr_Thomas_Wentworth_Higginson.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0275_Mr_Thomas_Wentworth_Higginson",
+    "atomId": "L0275_Mr_Thomas_Wentworth_Higginson",
+    "kind": "letter",
+    "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (7).md",
+    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0275_Mr_Thomas_Wentworth_Higginson.md",
     "hasIt": false
   },
   {
@@ -16500,6 +16580,26 @@
     "hasIt": false
   },
   {
+    "srcBase": "L0399_Mrs_Edward_Tuckerman_1880",
+    "atomId": "L0399_Mrs_Edward_Tuckerman_1880",
+    "kind": "letter",
+    "noteFile": "To Mrs. Edward Tuckerman, 1880 (Dickinson) (2).md",
+    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0399_Mrs_Edward_Tuckerman_1880.md",
+    "hasIt": false
+  },
+  {
+    "srcBase": "L0435_Mrs_FS_Cooper",
+    "atomId": "L0435_Mrs_FS_Cooper",
+    "kind": "letter",
+    "noteFile": "To Mrs. F.S. Cooper (Dickinson) (12).md",
+    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0435_Mrs_FS_Cooper.md",
+    "hasIt": false
+  },
+  {
     "srcBase": "L0088_Mrs_Ford",
     "atomId": "L0088_Mrs_Ford",
     "kind": "letter",
@@ -16537,106 +16637,6 @@
     "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
     "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
     "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0306_the_Rev_Perez_D_Cowan_October_26_1870.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0041_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "atomId": "L0041_Mr_William_Austin_Dickinson_Sunday_Evening",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0041_Mr_William_Austin_Dickinson_Sunday_Evening.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "atomId": "L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning",
-    "atomId": "L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0094_Mrs_Anthon",
-    "atomId": "L0094_Mrs_Anthon",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0094_Mrs_Anthon.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0108_Dr_J_G_Holland_and_Mrs_Holland",
-    "atomId": "L0108_Dr_J_G_Holland_and_Mrs_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0108_Dr_J_G_Holland_and_Mrs_Holland.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "atomId": "L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0338_Miss_Maria_Whitney",
-    "atomId": "L0338_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0338_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0339_Miss_Maria_Whitney",
-    "atomId": "L0339_Miss_Maria_Whitney",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0339_Miss_Maria_Whitney.md",
-    "hasIt": false
-  },
-  {
-    "srcBase": "L0513_Mr_Theodore_Holland",
-    "atomId": "L0513_Mr_Theodore_Holland",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
-    "finalSlug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
-    "newAtomRel": "Authors/Dickinson/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/L0513_Mr_Theodore_Holland.md",
     "hasIt": false
   },
   {
@@ -16748,6 +16748,16 @@
     "finalSlug": "war-and-its-cost-american-civil-war-battlefield",
     "newAtomRel": "Authors/Dickinson/Atomized/war-and-its-cost-american-civil-war-battlefield/0754_My_Life_had_stood_a_Loaded_Gun.md",
     "hasIt": true
+  },
+  {
+    "srcBase": "L0253_the_Misses_1881",
+    "atomId": "L0253_the_Misses_1881",
+    "kind": "letter",
+    "noteFile": "To the Misses, 1881 (Dickinson) (2).md",
+    "finalLabel": "War and its Cost · American Civil War · Battlefield",
+    "finalSlug": "war-and-its-cost-american-civil-war-battlefield",
+    "newAtomRel": "Authors/Dickinson/Atomized/war-and-its-cost-american-civil-war-battlefield/L0253_the_Misses_1881.md",
+    "hasIt": false
   },
   {
     "srcBase": "L0204_the_Misses_About_May_30_1863",
@@ -16898,16 +16908,6 @@
     "finalSlug": "war-and-its-cost-american-civil-war-battlefield",
     "newAtomRel": "Authors/Dickinson/Atomized/war-and-its-cost-american-civil-war-battlefield/1511_My_country_need_not_change_her_gown.md",
     "hasIt": true
-  },
-  {
-    "srcBase": "L0201_the_Misses",
-    "atomId": "L0201_the_Misses",
-    "kind": "letter",
-    "noteFile": null,
-    "finalLabel": "War and its Cost · American Civil War · Battlefield",
-    "finalSlug": "war-and-its-cost-american-civil-war-battlefield",
-    "newAtomRel": "Authors/Dickinson/Atomized/war-and-its-cost-american-civil-war-battlefield/L0201_the_Misses.md",
-    "hasIt": false
   },
   {
     "srcBase": "1048_Reportless_Subjects_to_the_Quick",

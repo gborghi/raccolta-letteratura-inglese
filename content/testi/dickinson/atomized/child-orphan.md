@@ -1,0 +1,1319 @@
+---
+title: "To “H. H.”"
+author: "Dickinson"
+unitType: work
+parentWork: "works/child-·-orphan-(dickinson)"
+tags:
+  - graph/excerpt
+  - author/Dickinson
+---
+
+<div class="atom-reader" data-work="testi/dickinson/atomized/child-orphan" data-author="Dickinson" data-workhref="works/child-·-orphan-(dickinson)"></div>
+
+
+<span class="atom-split" data-atom="0196_we_dont_cry_tim_and_i" data-title="196. We don't cry — Tim and I," data-chapter="" data-kind="intro" data-tags="archetype/child,motif/death,concept/grief_and_loss,concept/friendship,concept/faith,concept/childhood_and_growth,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+We don't cry — Tim and I,  
+We are far too grand —  
+But we bolt the [[Door|door]] tight  
+To prevent a friend —  
+
+Then we hide our brave face  
+Deep in our hand —  
+Not to cry — Tim and I —  
+We are far too grand —  
+
+Nor to dream — he and me —  
+Do we condescend —  
+We just shut our brown eye  
+To see to the end —  
+
+Tim — see Cottages —  
+But, Oh, so high!  
+Then — we shake — Tim and I —  
+And lest I — cry —  
+
+Tim — reads a little [[Hymn]] —  
+And we both pray —  
+Please, Sir, I and Tim —  
+Always lost the way!  
+
+We must die — by and by —  
+Clergymen say —  
+Tim — shall — if I — do —  
+I — too — if he —  
+
+How shall we arrange it —  
+205  
+
+Tim — was — so — shy?  
+Take us simultaneous — Lord —  
+I — "Tim" — and Me!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non piangiamo — Tim ed io,  
+Siamo fin troppo fieri —  
+Ma sprangiamo forte la [[Door|porta]]  
+Per escludere un amico —  
+
+Poi nascondiamo il volto ardito  
+Fondo nella mano —  
+Per non piangere — Tim ed io —  
+Siamo fin troppo fieri —  
+
+Né a sognare — lui ed io —  
+Ci degniamo —  
+Chiudiamo solo l'occhio bruno  
+Per vedere fino alla fine —  
+
+Tim — vede Casette —  
+Ma, Oh, così in alto!  
+Allora — tremiamo — Tim ed io —  
+E perché io non — pianga —  
+
+Tim — legge un piccolo [[Hymn|Inno]] —  
+E preghiamo entrambi —  
+Per favore, Signore, io e Tim —  
+Sempre smarrita la via!  
+
+Dobbiamo morire — prima o poi —  
+Dicono i Pastori —  
+Tim — morrà — se io — muoio —  
+Io — pure — se lui —  
+
+Come lo combineremo —  
+205  
+
+Tim — era — così — timido?  
+Prendici simultanei — Signore —  
+Io — "Tim" — e Me!
+
+
+
+<span class="atom-split" data-atom="0218_is_it_true_dear_sue" data-title="218. Is it true, dear Sue?" data-chapter="" data-kind="intro" data-tags="archetype/child,concept/friendship,concept/joy,concept/childhood_and_growth,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+Is it true, dear Sue?  
+Are there two?  
+I shouldn't like to come  
+For [[Fear|fear]] of joggling Him!  
+If I could shut him up  
+In a Coffee Cup,  
+Or tie him to a pin  
+Till I got in —  
+Or make him fast  
+To "Toby's" fist —  
+Hist! Whist! I'd come!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+È vero, cara Sue?  
+Sono in due?  
+Non vorrei venire  
+Per [[Fear|paura]] di scuoterLo!  
+Se potessi rinchiuderlo  
+In una Tazza da Caffè,  
+O legarlo a uno spillo  
+Finché non entro —  
+O fissarlo saldo  
+Al pugno di "Toby" —  
+Zitti! Piano! Verrei!
+
+
+
+<span class="atom-split" data-atom="0227_teach_him_when_he_makes_the_names" data-title="227. Teach Him — When He makes the names —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,concept/love_romantic,concept/unrequited_love,form/lyric,histref/the_bible,cluster/child,cluster/orphan"></span>
+
+
+Teach Him — When He makes the names —  
+Such an one — to say —  
+On his babbling — Berry — lips —  
+As should sound — to me —  
+Were my Ear — as near his nest —  
+As my thought — today —  
+As should sound —  
+"Forbid us not" —  
+Some like "Emily."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Insegnagli — Quando compone i nomi —  
+Uno così — da dire —  
+Sulle sue labbra — di Bacca — balbettanti —  
+Che suoni — a me —  
+Fosse il mio Orecchio — vicino al suo nido —  
+Come il mio pensiero — oggi —  
+Che suoni —  
+"Non ci vietate" —  
+Qualcosa come "Emily."
+
+
+
+<span class="atom-split" data-atom="0231_god_permits_industrious_angels" data-title="231. God permits industrious Angels —" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,motif/the_supernatural,motif/sun,concept/grief_and_loss,concept/faith,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+[[God]] permits industrious Angels —  
+Afternoons — to play —  
+I met one — forgot my Schoolmates —  
+All — for Him — straightway —  
+[[God]] calls [[Home|home]] — the Angels — promptly —  
+At the Setting [[Sun]] —  
+I missed mine — how dreary — Marbles —  
+After playing [[Crown]]!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[God|Dio]] permette ad Angeli industriosi —  
+Nei pomeriggi — di giocare —  
+Ne incontrai uno — scordai i miei Compagni di scuola —  
+Tutti — per Lui — all'istante —  
+[[God|Dio]] richiama a [[Home|casa]] — gli Angeli — puntuale —  
+Al Tramontare del [[Sun|Sole]] —  
+Mi mancò il mio — che tristezza — le Biglie —  
+Dopo aver giocato alla [[Crown|Corona]]!
+
+
+
+<span class="atom-split" data-atom="0454_it_was_given_to_me_by_the_gods" data-title="454. It was given to me by the Gods —" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/childhood,concept/identity,concept/childhood_and_growth,concept/self_and_soul,cluster/child,cluster/orphan"></span>
+
+
+It was given to me by the Gods —  
+When I was a little Girl —  
+They given us Presents most — you know —  
+When we are new — and small.  
+I kept it in my Hand —  
+I never put it down —  
+I did not dare to eat — or [[Sleep|sleep]] —  
+For [[Fear|fear]] it would be gone —  
+I heard such words as "Rich" —  
+When hurrying to school —  
+From lips at Corners of the Streets —  
+And wrestled with a smile.  
+Rich! 'Twas Myself — was rich —  
+To take the name of Gold —  
+And Gold to own — in solid Bars —  
+The Difference — made me bold —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mi fu dato dagli Dei —  
+Quand'ero una piccola Bimba —  
+Ci fanno Doni soprattutto — si sa —  
+Quando siamo nuovi — e piccini.  
+Lo tenevo nella Mano —  
+Non lo posavo mai —  
+Non osavo mangiare — o [[Sleep|dormire]] —  
+Per [[Fear|paura]] che svanisse —  
+Udivo parole come "Ricco" —  
+Correndo in fretta a scuola —  
+Da labbra agli Angoli delle Strade —  
+E lottavo con un sorriso.  
+Ricca! Ero Io — la ricca —  
+A prendere il nome dell'Oro —  
+E Oro possedere — in Lingotti massicci —  
+La Differenza — mi fece audace —
+
+
+
+<span class="atom-split" data-atom="0467_we_do_not_play_on_graves" data-title="467. We do not play on Graves —" data-chapter="" data-kind="intro" data-tags="motif/the_grave,motif/childhood,motif/flowers,concept/grief_and_loss,concept/innocence_and_experience,cluster/child,cluster/orphan"></span>
+
+
+We do not play on Graves —  
+Because there isn't Room —  
+Besides — it isn't even — it slants  
+And People come —  
+
+And put a Flower on it —  
+And hang their faces so —  
+We're fearing that their Hearts will drop —  
+And crush our pretty play —  
+
+And so we move as far  
+As Enemies — away —  
+Just looking round to see how far  
+It is — Occasionally —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non giochiamo sulle Tombe —  
+Perché non c'è Spazio —  
+E poi — non è piano — pende  
+E arriva Gente —  
+
+E vi posa un Fiore —  
+E appende i volti così —  
+Temiamo che i loro Cuori cadano —  
+E schiaccino il nostro bel gioco —  
+
+E così ci spostiamo lontano  
+Come Nemici — via —  
+Solo volgendoci a guardare quanto  
+Sia lontano — Ogni tanto —
+
+
+
+<span class="atom-split" data-atom="0568_we_learned_the_whole_of_love" data-title="568. We learned the Whole of Love —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/the_book,motif/childhood,concept/love_romantic,concept/truth,concept/innocence_and_experience,histref/the_bible,cluster/child,cluster/orphan"></span>
+
+
+We learned the Whole of [[Love]] —  
+The Alphabet — the Words —  
+A Chapter — then the mighty Book —  
+Then — [[Revelation]] closed —  
+
+But in Each Other's eyes  
+An Ignorance beheld —  
+Diviner than the [[Childhood]]'s —  
+And each to each, a [[Child]] —  
+
+Attempted to expound  
+What Neither — understood —  
+Alas, that Wisdom is so large —  
+And [[Truth]] — so manifold!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Imparammo il Tutto dell'[[Love|Amore]] —  
+L'Alfabeto — le Parole —  
+Un Capitolo — poi il possente Libro —  
+Poi — la [[Revelation|Rivelazione]] si chiuse —  
+
+Ma negli occhi l'Uno dell'Altra  
+Un'Ignoranza si scorse —  
+Più divina di quella dell'[[Childhood|Infanzia]] —  
+E l'uno per l'altra, un [[Child|Bambino]] —  
+
+Tentò di spiegare  
+Ciò che Nessuno dei due — comprendeva —  
+Ahimè, che la Saggezza è così vasta —  
+E la [[Truth|Verità]] — così molteplice!
+
+
+
+<span class="atom-split" data-atom="0637_the_childs_faith_is_new" data-title="637. The Child's faith is new —" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/child,archetype/innocent,motif/childhood,motif/dawn,concept/innocence_and_experience,concept/faith_and_doubt,concept/childhood_and_growth,concept/faith,concept/melancholy,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+The [[Child]]'s [[Faith|faith]] is new —  
+Whole — like His Principle —  
+Wide — like the Sunrise  
+On fresh Eyes —  
+Never had a [[Doubt]] —  
+Laughs — at a Scruple —  
+Believes all sham  
+But Paradise —  
+
+Credits the World —  
+Deems His Dominion  
+Broadest of Sovereignties —  
+And [[Caesar]] — mean —  
+In the Comparison —  
+Baseless Emperor —  
+Ruler of Nought —  
+Yet swaying all —  
+
+Grown bye and bye  
+To hold mistaken  
+His pretty estimates  
+Of Prickly Things  
+He gains the skill  
+Sorrowful — as certain —  
+Men — to anticipate  
+Instead of Kings —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Del [[Child|Bambino]] la [[Faith|fede]] è nuova —  
+Intera — come il Suo Principio —  
+Vasta — come l'Aurora  
+Su Occhi freschi —  
+Mai ebbe un [[Doubt|Dubbio]] —  
+Ride — d'uno Scrupolo —  
+Crede tutto finzione  
+Fuorché il Paradiso —  
+
+Dà credito al Mondo —  
+Stima il Suo Dominio  
+La più vasta delle Sovranità —  
+E [[Caesar|Cesare]] — meschino —  
+Nel Confronto —  
+Imperatore senza fondamento —  
+Sovrano del Nulla —  
+Eppure tutto regge —  
+
+Cresciuto a poco a poco  
+A ritenere errate  
+Le sue graziose stime  
+Di Cose Spinose  
+Acquista l'arte  
+Dolorosa — quanto certa —  
+Uomini — a prevedere  
+Invece di Re —
+
+
+
+<span class="atom-split" data-atom="0687_ill_send_the_feather_from_my_hat" data-title="687. I'll send the feather from my Hat!" data-chapter="" data-kind="intro" data-tags="motif/childhood,motif/clothing,concept/mercy,concept/faith,concept/nostalgia,concept/childhood_and_growth,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+I'll send the feather from my Hat!  
+Who knows — but at the sight of that  
+My Sovereign will relent?  
+As trinket — worn by faded [[Child]] —  
+Confronting eyes long — comforted —  
+Blisters the Adamant!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Manderò la piuma del mio Cappello!  
+Chissà — se alla vista di quella  
+Il mio Sovrano non ceda?  
+Come ninnolo — portato da [[Child|Bimba]] sbiadita —  
+Affrontando occhi a lungo — consolati —  
+Piaga l'Adamante!
+
+
+
+<span class="atom-split" data-atom="0717_the_beggar_lad_dies_early" data-title="717. The Beggar Lad — dies early —" data-chapter="" data-kind="intro" data-tags="archetype/orphan,archetype/child,motif/death,concept/poverty,concept/social_injustice,concept/grace_and_redemption,concept/mortality,concept/faith,form/lyric,character/christ,cluster/child,cluster/orphan"></span>
+
+
+The Beggar Lad — dies early —  
+It's Somewhat in the Cold —  
+And Somewhat in the Trudging feet —  
+And haply, in the World —  
+
+The Cruel — smiling — bowing World —  
+That took its Cambric Way —  
+Nor heard the timid cry for "Bread" —  
+"Sweet Lady — [[Charity]]" —  
+
+Among Redeemed Children  
+If Trudging feet may stand  
+The Barefoot [[Time|time]] forgotten — so —  
+The Sleet — the bitter [[Wind]] —  
+
+The Childish Hands that teased for Pence  
+Lifted adoring — them —  
+To Him whom never Ragged — Coat  
+Did supplicate in vain —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Ragazzo Mendicante — muore presto —  
+È in Parte per il Freddo —  
+E in Parte per i piedi in Cammino —  
+E forse, per il Mondo —  
+
+Il Crudele — sorridente — ossequioso Mondo —  
+Che prese la sua Via di Batista —  
+Né udì il timido grido per il "Pane" —  
+"Dolce Signora — [[Charity|Carità]]" —  
+
+Tra i Bambini Redenti  
+Se i piedi in Cammino potranno stare  
+Il [[Time|tempo]] Scalzo dimenticato — così —  
+Il Nevischio — l'aspro [[Wind|Vento]] —  
+
+Le Mani di Bambino che imploravano Soldi  
+Levate adoranti — esse —  
+A Colui che mai Cenciosa — Veste  
+Supplicò invano —
+
+
+
+<span class="atom-split" data-atom="0728_let_us_play_yesterday" data-title="728. Let Us play Yesterday —" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/child,motif/childhood,motif/birds,motif/dawn,concept/innocence_and_experience,concept/childhood_and_growth,concept/nostalgia,concept/faith,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+Let Us play Yesterday —  
+I — the Girl at school —  
+You — and [[Eternity]] — the  
+Untold Tale —  
+
+Easing my famine  
+At my Lexicon —  
+Logarithm — had I — for Drink —  
+'Twas a dry Wine —  
+
+Somewhat different — must be —  
+[[Dreams]] tint the [[Sleep]] —  
+Cunning Reds of Morning  
+Make the Blind — leap —  
+
+Still at the Egg-life —  
+Chafing the Shell —  
+When you troubled the Ellipse —  
+And the Bird fell —  
+
+Manacles be dim — they say —  
+To the new Free —  
+[[Liberty]] — Commoner —  
+Never could — to me —  
+
+'Twas my last gratitude  
+When I slept — at [[Night|night]] —  
+'Twas the first Miracle  
+Let in — with Light —  
+
+Can the Lark resume the Shell —  
+769  
+
+Easier — for the Sky —  
+Wouldn't Bonds hurt more  
+Than Yesterday?  
+
+Wouldn't Dungeons sorer frate  
+On the Man — free —  
+Just long enough to taste —  
+Then — doomed new —  
+
+[[God]] of the Manacle  
+As of the Free —  
+Take not my [[Liberty]]  
+Away from Me —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Giochiamo a Ieri —  
+Io — la Ragazza a scuola —  
+Tu — e l'[[Eternity|Eternità]] — il  
+Racconto Mai narrato —  
+
+Placando la mia fame  
+Sul mio Lessico —  
+Logaritmo — avevo — per Bevanda —  
+Era un Vino secco —  
+
+Alquanto diverso — dev'essere —  
+I [[Dreams|Sogni]] tingono il [[Sleep|Sonno]] —  
+Astuti Rossi del Mattino  
+Fanno il Cieco — balzare —  
+
+Ancora alla vita d'Uovo —  
+Fregando il Guscio —  
+Quando turbasti l'Ellisse —  
+E l'Uccello cadde —  
+
+Le Manette siano fioche — dicono —  
+Per il nuovo Libero —  
+[[Liberty|Libertà]] — più Ordinaria —  
+Mai poté — per me —  
+
+Fu la mia ultima gratitudine  
+Quando dormivo — di [[Night|notte]] —  
+Fu il primo Miracolo  
+Fatto entrare — con la Luce —  
+
+Può l'Allodola riprendere il Guscio —  
+769  
+
+Più facile — per il Cielo —  
+Non ferirebbero i Ceppi di più  
+Che Ieri?  
+
+Non roderebbero le Segrete più aspre  
+L'Uomo — libero —  
+Giusto il tempo d'assaggiare —  
+Poi — condannato di nuovo —  
+
+[[God|Dio]] della Manetta  
+Come del Libero —  
+Non togliere la mia [[Liberty|Libertà]]  
+Via da Me —
+
+
+
+<span class="atom-split" data-atom="0763_he_told_a_homely_tale" data-title="763. He told a homely tale" data-chapter="" data-kind="intro" data-tags="archetype/orphan,archetype/child,motif/birds,motif/the_grave,motif/the_sea,concept/childhood_and_growth,concept/grief_and_loss,concept/grace_and_redemption,concept/the_common_man,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+He told a homely tale  
+And spotted it with [[Tears|tears]] —  
+Upon his infant face was set  
+The Cicatrice of years —  
+
+All crumpled was the cheek  
+No other kiss had known  
+Than flake of [[Snow|snow]], divided with  
+The Redbreast of the Barn —  
+
+If Mother — in the [[Grave]] —  
+Or Father — on the [[Sea]] —  
+Or Father in the Firmament —  
+Or Brethren, had he —  
+
+If Commonwealth below,  
+Or Commonwealth above  
+Have missed a Barefoot Citizen —  
+I've ransomed it — alive —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Raccontò una storia semplice  
+E la macchiò di [[Tears|lacrime]] —  
+Sul suo volto d'infante era impressa  
+La Cicatrice degli anni —  
+
+Tutta gualcita era la guancia  
+Che altro bacio non aveva conosciuto  
+Se non falda di [[Snow|neve]], divisa con  
+Il Pettirosso del Granaio —  
+
+Se Madre — nella [[Grave|Tomba]] —  
+O Padre — sul [[Sea|Mare]] —  
+O Padre nel Firmamento —  
+O Fratelli, avesse —  
+
+Se Comunità di sotto,  
+O Comunità di sopra  
+Hanno perduto un Cittadino Scalzo —  
+Io l'ho riscattato — vivo —
+
+
+
+<span class="atom-split" data-atom="1020_trudging_to_eden_looking_backward" data-title="1020. Trudging to Eden, looking backward," data-chapter="" data-kind="intro" data-tags="archetype/child,archetype/orphan,motif/the_journey,concept/immortality,concept/grief_and_loss,form/lyric,histref/christianity,cluster/child,cluster/orphan"></span>
+
+
+Trudging to Eden, looking backward,  
+I met Somebody's little Boy  
+Asked him his name — He lisped me "Trotwood" —  
+Lady, did He belong to thee?  
+
+Would it comfort — to know I met him —  
+And that He didn't look afraid?  
+I couldn't weep — for so many smiling  
+New Acquaintance — this Baby made —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Arrancando verso l'Eden, guardando indietro,  
+incontrai il piccolo Bimbo di Qualcuno  
+Gli chiesi il nome — Egli mi balbettò "Trotwood" —  
+Signora, apparteneva Egli a te?  
+
+Ti consolerebbe — sapere che lo incontrai —  
+e che non sembrava impaurito?  
+Non potei piangere — ché tante sorridenti  
+nuove Conoscenze — questo Bimbo fece —
+
+
+
+<span class="atom-split" data-atom="1185_a_little_dog_that_wags_his_tail" data-title="1185. A little Dog that wags his tail" data-chapter="" data-kind="intro" data-tags="archetype/child,archetype/innocent,motif/animals,motif/childhood,concept/joy,concept/innocence_and_experience,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+A little Dog that wags his tail  
+And knows no other [[Joy|joy]]  
+Of such a little Dog am I  
+Reminded by a Boy  
+
+Who gambols all the living Day  
+Without an earthly cause  
+Because he is a little Boy  
+I honestly suppose —  
+
+The Cat that in the Corner dwells  
+Her martial Day forgot  
+The Mouse but a [[Tradition]] now  
+Of her desireless Lot  
+
+Another class remind me  
+Who neither please nor play  
+But not to make a "bit of noise"  
+Beseech each little Boy —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un piccolo Cane che scodinzola  
+E non conosce altra [[Joy|gioia]]  
+Di un tale piccolo Cane io  
+Son fatta memore da un Bimbo  
+
+Che folleggia tutto il vivo Giorno  
+Senza una causa terrena  
+Perché è un piccolo Bimbo  
+Onestamente suppongo —  
+
+La Gatta che nell'Angolo dimora  
+Il suo Giorno marziale ha scordato  
+Il Topo ormai non più che una [[Tradition]]  
+Della sua Sorte senza desideri  
+
+Un'altra classe mi rammentano  
+Che né compiacciono né giocano  
+Ma di non fare "un po' di rumore"  
+Supplicano ogni piccolo Bimbo —
+
+
+
+<span class="atom-split" data-atom="1201_so_i_pull_my_stockings_off" data-title="1201. So I pull my Stockings off" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,motif/water,concept/faith_and_doubt,concept/innocence_and_experience,form/lyric,histref/the_bible,cluster/child,cluster/orphan"></span>
+
+
+So I pull my Stockings off  
+Wading in the [[Water]]  
+For the Disobedience' Sake  
+Boy that lived for "or'ter"  
+
+Went to Heaven perhaps at [[Death]]  
+And perhaps he didn't  
+[[Moses]] wasn't fairly used —  
+Ananias wasn't —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così mi sfilo le Calze  
+Guadando nell'[[Water|Acqua]]  
+Per amore della Disobbedienza  
+Ragazzo che visse per il "si deve"  
+
+Andò in Cielo forse alla [[Death|Morte]]  
+E forse non ci andò  
+[[Moses|Mosè]] non fu trattato con giustizia —  
+Anania nemmeno —
+
+
+
+<span class="atom-split" data-atom="1532_from_all_the_jails_the_boys_and_girls" data-title="1532. From all the Jails the Boys and Girls" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/childhood,concept/joy,concept/freedom,concept/education,form/lyric,cluster/child,cluster/orphan"></span>
+
+
+From all the Jails the Boys and Girls  
+Ecstatically leap —  
+Beloved only Afternoon  
+That [[Prison]] doesn't keep  
+
+They [[Storm|storm]] the Earth and stun the Air,  
+A Mob of solid Bliss —  
+Alas — that Frowns should lie in wait  
+For such a Foe as this —
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Da tutte le Prigioni i Ragazzi e le Ragazze  
+Balzano in estasi —  
+Amato unico Pomeriggio  
+Che la [[Prison|Prigione]] non trattiene  
+
+[[Storm|Assaltano]] la Terra e stordiscono l'Aria,  
+Una Folla di solida Beatitudine —  
+Ahimè — che Cipigli stiano in agguato  
+Per un Nemico come questo —
+
+
+
+<span class="atom-split" data-atom="1603_the_going_from_a_world_we_know" data-title="1603. The going from a world we know" data-chapter="" data-kind="intro" data-tags="topos/night_journey,archetype/child,motif/death,motif/childhood,concept/mortality,concept/doubt,cluster/child,cluster/orphan"></span>
+
+
+The going from a world we know  
+To one a [[Wonder|wonder]] still  
+Is like the [[Child|child]]'s adversity  
+Whose vista is a [[Hill|hill]],  
+Behind the [[Hill|hill]] is sorcery  
+And everything unknown,  
+But will the secret compensate  
+For climbing it [[Alone|alone]]?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'andare da un mondo che conosciamo  
+A uno che è ancora [[Wonder|meraviglia]]  
+È come l'avversità del [[Child|bimbo]]  
+La cui vista è una [[Hill|collina]],  
+Dietro la [[Hill|collina]] è stregoneria  
+E ogni cosa ignota,  
+Ma il segreto compenserà  
+Lo scalarla da [[Alone|solo]]?
+
+
+
+<span class="atom-split" data-atom="l0019_mrs_a_p_strong" data-title="To Mrs. A. P. Strong" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/river,concept/friendship,concept/faith,concept/charity,concept/sin_and_the_fall,form/letter,histref/the_bible,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+I haven't thanked you for your [[Letter|letter]] yet, but not for want of gratitude. I will do so now most sincerely, most heartily—gladly and gratefully. You will write me another soon, that I may have four right feelings again! They don't come for the asking. I have been introducing you to me in this [[Letter|letter]] so far; we will traffic in “joys” and “sorrows” some other day. Colds make one very carnal, and the spirit is always afraid of them. You will excuse all mistakes in view of ignorance; all sin, in view of “the fall”; all want of friendly affection, in the sight of the verse, “The deepest stream the stillest runs”; and other general deficiencies, on the ground of universal incapacity! Here is surely room for [[Charity|charity]], and the heavenly visitor wouldn't have come but for these faults. “No loss without a gain.” I called to see your cousins an evening since; they were [[Well|well]], and evidently delighted to see one another—and us.
+
+When your [[Letter|letter]] came, I had two Western cousins—now at South Hadley Seminary—staying their vacation with me. They took an unbounded delight in a sentence I read them; and to pay for it, send you their [[Love|love]].
+
+In the following [[Letter|letter]] appear farther traces of the later and almost invariable custom of using dashes, instead of conventional punctuation. These, however, will not be given generally. In printing her poems it was found necessary to employ usual punctuation, in order that the meaning should be more easily apprehended; and in the letters the same system, often for the same reason, has been adopted.
+
+
+
+
+<span class="atom-split" data-atom="l0026_mrs_a_p_strong_tuesday_evening" data-title="To Mrs. A. P. Strong, Tuesday Evening" data-chapter="" data-kind="intro" data-tags="motif/home,motif/letters_writing,motif/summer,concept/friendship,concept/solitude,concept/memory,concept/renunciation,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+MY DEAR [[Child|CHILD]],—Thank you for that sweet note which came so long ago, and thank you for asking. me to come and visit you, and thank you for loving me, long ago, and to-day, and too for all the sweetness, and all the gentleness, and all the tenderness with which you remember me,—your quaint, old-fashioned friend.
+
+I wanted very much to write you sooner, and I tried frequently, but till now in vain, and as I write to-[[Night|night]], it is with haste, and [[Fear|fear]] lest something still detain me. You know, my dear A., that the [[Summer|summer]] has been warm, that at this pleasant season we have much company, that this irresolute [[Body|body]] refuses to serve sometimes, and the indignant tenant can only hold its peace,—all this you know, for I have often told you, and yet I say it again, if mayhap it persuades you that I do [[Love|love]] you indeed, and have not done neglectfully. . . . I think it was in June that your note reached here, and I did snatch a moment to call upon your friend. Yet I went in the dusk, and it was Saturday evening, so even then, A., you see how cares pursued me. I found her very lovely in what she said to me, and I fancied in her face so, although the gentle dusk would draw her curtain close, and I didn't see her clearly. We talked the most of you,—a theme we surely loved, or we had not discussed it in preference to all. I would [[Love|love]] to meet her again, and give my [[Love|love]] to her, for your sake. You asked me to come and see you—I must speak of that. I thank you, A., but I don't go from [[Home|home]], unless emergency leads me by the hand, and then I do it obstinately, and draw back if I can. Should I ever leave [[Home|home]], which is improbable, I will, with much delight, accept your invitation; till then, my dear A., my warmest thanks are yours, but don't expect me. I'm so old-fashioned, darling, that all your friends would stare. I should have to bring my workbag, and my big spectacles, and I half forgot my grandchildren, and my pincushion, and puss—why, think of it seriously, A.,—do you think it my duty to leave? Will you write me again? Mother and Vinnie send their [[Love|love]], and here's a kiss from me.
+
+
+
+
+<span class="atom-split" data-atom="l0035_mr_william_austin_dickinson_sunday_evening" data-title="To Mr. William Austin Dickinson, Sunday Evening" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/letters_writing,motif/home,concept/communication_and_isolation,concept/desire_and_longing,concept/friendship,form/letter,cluster/child,cluster/orphan"></span>
+
+
+I received your [[Letter|letter]], Austin, permit me to thank you for it and to request some more as soon as it's convenient—permit me to accord with your discreet opinion concerning Swedish Jennie, and to commend the heart brave enough to express it—combating the opinion of two civilized worlds and [[New York]] into the bargain must need considerable daring—indeed, it had never occurred to me that amidst the hallelujahs one tongue would dare be dumb, and much less, I assure you, that this dissenting one should be my romantic brother! For I had looked for delight and a very high style of rapture in such a youth as you. . . .
+
+We have all been rather piqued at Jennie's singing so [[Well|well]], and this first calumnious whisper pleases us so [[Well|well]], we rejoice that we didn't come—our visit is yet before us. . . . You haven't told us yet as you promised about your [[Home|home]]—what kind of people they are—whether you find them pleasant—whether those timid gentlemen have yet “found tongues to say.” Do you find the life and living any more annoying than you at first expected—do you light upon any friends to help the [[Time|time]] away—have you whipped any more bad boys-—all these are solemn questions, pray give them proper heed!
+
+Two weeks of your [[Time|time]] are gone; I can't help wondering sometimes if you would [[Love|love]] to see us, and come to this still homo. . . . A Senior levee was held at Professor and Mrs. Haven's on Tuesday of last week—Vinnie played pretty [[Well|well]]. There's another at the. President's this next Friday evening. Clarum et venerabile Seniors!
+
+
+
+
+<span class="atom-split" data-atom="l0054_mr_william_austin_dickinson" data-title="To Mr. William Austin Dickinson" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/communication_and_isolation,concept/memory_and_time,form/letter,cluster/child,cluster/orphan"></span>
+
+
+Several subsequent letters, all piquant and breezy, but dealing quite entirely with [[Family|family]] matters, experiences with callers, and other personal subjects, have been omitted.
+
+
+
+
+<span class="atom-split" data-atom="l0058_mr_william_austin_dickinson_sunday_morning" data-title="To Mr. William Austin Dickinson, Sunday Morning" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/joy,concept/communication_and_isolation,concept/friendship,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+. . . Father has not got [[Home|home]], and we don't know when to expect him. We had a [[Letter|letter]] from him yesterday, but he didn't say when he should come. He writes that he “should think the whole world was there, and some from other worlds.” He says he meets a great many old friends and acquaintances, and forms a great many new ones—he writes in very fine spirits, and says he enjoys himself very much. . . . I wish you could have gone with him, you would have enjoyed it so, but I did not much suppose that selfish old school would let you. . . . Last week the Senior levee came off at the President's. I believe Professor Haven is to give one soon—and there is to be a reception at Professor Tyler's next Tuesday evening which I shall attend. You see Amherst is growing lively, and by the [[Time|time]] you come everything will be in a buzz. . . . We all send you our [[Love|love]].
+
+
+
+
+<span class="atom-split" data-atom="l0061_mr_william_austin_dickinson_friday_morning" data-title="To Mr. William Austin Dickinson, Friday Morning" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/communication_and_isolation,concept/friendship,concept/apocalypse,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+DEAR AUSTIN,—I presume you remember a story that Vinnie tells of a breach of promise case where the correspondence between the parties consisted of a reply from the girl to one she had never received but was daily expecting. [[Well]], I am writing an answer to the [[Letter|letter]] I haven't had, so you will see the force of the accompanying anecdote. I have been looking for you ever since despatching my last, but this is a fickle world, and it's a great source of complacency that 'twill all be burned up by and by. I should be pleased with a line when you've published your work to father, if it's perfectly convenient!
+
+Your letters are very funny indeed—about the only jokes we have, now you are gone, and I [[Hope|hope]] you will send us one as often as you can. Father takes great delight in your remarks to him—puts on his spectacles and reads them o'er and o'er as if it was a blessing to have an only son. He reads all the letters you write, as soon as he gets them, at the post-office, no matter to whom addressed; then he makes me read them aloud at the supper table again, and when he gets [[Home|home]] in the evening, he cracks a few walnuts, puts his spectacles on, and with your last in his hand, sits down to enjoy the evening. . . . I believe at this moment, Austin, that there's nobody living for whom father has such respect as for you. But my paper is getting low, and I must hasten to tell you that we are very happy to hear good news from you, that we [[Hope|hope]] you'll have pleasant times and learn a great deal while you're gone, and come back to us greater and happier for the life lived at Cambridge. We miss you more and more. I wish that we could see you, but letters come the next—write them often, and tell us everything.
+
+
+
+
+<span class="atom-split" data-atom="l0065_mr_william_austin_dickinson_friday_afternoon" data-title="To Mr. William Austin Dickinson, Friday, Afternoon" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/communication_and_isolation,concept/memory,concept/friendship,concept/joy,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+DEAR AUSTIN,—. . . Some of the letters you've sent us we have received, and thank you for affectionately. Some we have not received, but thank you for the [[Memory|memory]], of which the emblem perished. Where all those letters go, yours and ours, somebody surely knows, but we do not. There's a new postmaster today, but we don't know who's to blame. You never wrote me a [[Letter|letter]], Austin, which I. liked half so [[Well|well]] as the one father brought me. We think of your coming [[Home|home]] with a great deal of happiness, and are glad you want to come.
+
+Father said he never saw you looking in better health or seeming in finer spirits. He didn't say a word about the Hippodrome or the Museum, and he came [[Home|home]] so stem that none of us dared to ask him, and besides grandmother was here, and you certainly don't think I'd allude to a Hippodrome in the presence of that lady! I'd as soon think of popping [[Fire|fire]]-crackers in the presence of Peter the Great. But you'll tell us when you get [[Home|home]]—how soon—how soon! . . . I admire the “Poems” very much. We all send our [[Love|love]] to you—shall write you again [[Sunday]].
+
+
+
+
+<span class="atom-split" data-atom="l0067_mr_william_austin_dickinson_thursday_evening" data-title="To Mr. William Austin Dickinson, Thursday Evening" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/home,concept/loneliness,concept/communication_and_isolation,concept/friendship,concept/faith,form/letter,histref/the_bible,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+. . . G. H. has just retired from an evening's visit here, and I gather my spent energies to write a word to you.
+
+“Blessed are they that are persecuted for righteousness' sake, for they shall have their reward!” Dear Austin, I don't feel funny, and I [[Hope|hope]] you won't laugh at anything I say. I am thinking of you and Vinnie—what nice times you are having, sitting and talking together, while I am lonely here, and I wanted to sit and think of you, and fancy what you were saying, all the evening long, but—ordained otherwise. I [[Hope|hope]] you will have grand times, and don't forget the unit without you, at [[Home|home]].
+
+I have had some things from you to which I perceive no meaning. They either were very vast, or they didn't mean anything, I don't know certainly which. What did you mean by a note you sent me day before yesterday? Father asked me what you wrote, and I gave it to him to read. He looked very much confused, and finally put on his spectacles, which didn't seem to help him much—I don't think a telescope would have assisted him. I [[Hope|hope]] you will write to me—I [[Love|love]] to hear from you, and now Vinnie is gone I shall feel very lonely. . . . [[Love]] for them all if there are those to [[Love|love]] and think of me, and more and most for you, from
+
+
+
+
+<span class="atom-split" data-atom="l0080_mrs_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_thursday_morn" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Thursday Morn" data-chapter="" data-kind="intro" data-tags="topos/temptation,motif/winter,motif/letters_writing,motif/home,concept/friendship,concept/temptation,concept/desire_and_longing,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+DEAR EMILY,—I can't come in this morning, because I am so cold, but you will know I am here ringing the big front [[Door|door]]-bell, and leaving a note for you.
+
+Oh, I want to come in, I have a great mind now to follow little Jane.into your warm sitting-room; are you there, dear Emily?
+
+No, I resist [[Temptation|temptation]] and run away from the [[Door|door]] just as fast as my feet will carry me, lest if I once come in I shall grow so happy that I shall stay there always and never go [[Home|home]] at all. You will have read this note by the [[Time|time]] I reach the office, and you can't think how fast I run.
+
+
+
+
+<span class="atom-split" data-atom="l0081_mrs_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson" data-chapter="" data-kind="intro" data-tags="motif/home,motif/the_road,motif/the_journey,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+P. S. I have just shot past the comer, and now all the wayside houses, and the little gate flies open to see me coming [[Home|home]].
+
+
+
+
+<span class="atom-split" data-atom="l0101_dr_j_g_holland_and_mrs_holland_friday_evening" data-title="To Dr. J. G. Holland, and Mrs. Holland, Friday Evening" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/food_feasting,motif/letters_writing,motif/home,concept/friendship,concept/joy,concept/hope,concept/memory,form/letter,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+Thank you, dear Mrs. Holland—Vinnie and I will come, if you would like to have us. We should have written before, but mother has not been [[Well|well]], and we hardly knew whether we could leave her, but she is better now, and I write quite late this evening, that if you still [[Desire|desire]] it, Vinnie and I will come. Then, dear Mrs. Holland, if agreeable to you, we will take the Amherst train on Tuesday morning, for Springfield, and be with you at [[Noon|noon]].
+
+The cars leave here at nine o'[[Clock|clock]], and I think reach Springfield at twelve. I can think just how we dined with you a year ago from now, and it makes my heart beat faster to think perhaps we'll see you so little while from now.
+
+To live a thousand years would not make me forget the day and [[Night|night]] we spent there, and while I write the words, I don't believe I'm coming, so sweet it seems to me. I [[Hope|hope]] we shall not tire you; with all your other cares, we [[Fear|fear]] we should not come, but you will not let us trouble you, will you, dear Mrs. Holland?
+
+Father and mother ask a very warm remembrance to yourself and Dr. Holland.
+
+We were happy the grapes and figs seemed acceptable to you, and wished there were many more. I am very sorry to hear that “Kate” has such excellent lungs. With all your other cares, it must be quite a trial to you.
+
+It is also a source of pleasure to me that Annie goes to [[Sleep|sleep]], on account of the “interregnum” it must afford to you.
+
+Three days and we are there—happy—very happy! To-morrow I will sew, but I shall think of you, and [[Sunday]] sing and pray—yet I shall not forget you, and Monday's very near, and here's to me on Tuesday! Good-[[Night|night]], dear Mrs. Holland—I see I'm getting wild—you will forgive me all, and not forget me all, though? Vinnie is fast asleep, or her [[Love|love]] would be here—though she is, it is. Once more, if it is fair, we will come on Tuesday, and you [[Love|love]] to have us, but if not convenient, please surely tell us so.
+
+
+
+
+<span class="atom-split" data-atom="l0105_dr_j_g_holland_and_mrs_holland_january_2d" data-title="To Dr. J. G. Holland, and Mrs. Holland, January 2d" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/hope,concept/friendship,concept/joy,concept/immortality_divine,form/letter,cluster/child,cluster/orphan"></span>
+
+
+May it come to-day?
+
+Then New Year the sweetest, and long life the merriest, and the Heaven highest—by and by!
+
+
+
+
+<span class="atom-split" data-atom="l0121_dr_j_g_holland_and_mrs_holland" data-title="To Dr. J. G. Holland, and Mrs. Holland" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/charity,concept/grief_and_loss,form/letter,cluster/child,cluster/orphan"></span>
+
+
+Will some one lay this little flower on Mrs. Holland's pillow?
+
+
+
+
+<span class="atom-split" data-atom="l0125_dr_j_g_holland_and_mrs_holland_spring_1878" data-title="To Dr. J. G. Holland, and Mrs. Holland, Spring, 1878" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/grief_and_loss,concept/faith,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
+
+
+I thought that “Birnam Wood” had “come to Dunsinane.” Where did you pick arbutus? In Broadway, I suppose. They say that [[God]] is everywhere, and yet we always think of Him as somewhat of a recluse. . . . It is hard not to hear again that vital “Sam is coming”—though if grief is a test of a priceless life, he is compensated. He was not ambitious for redemption—that was why it is his. “To him that hath, shall be given.” Were it not for the eyes, we would know of you oftener. Have they no remorse for their selfishness? “This tabernacle” is a blissful trial, but the bliss predominates.
+
+I suppose you will play in the [[Water|water]] at Alexandria Bay, as the baby does at the tub in the drive. . . . Speak to us when your eyes can spare you, and “keep us, at [[Home|home]], or by the way,” as the clergyman says, when he folds the church till another Sabbath.
+
+
+
+
+<span class="atom-split" data-atom="l0126_dr_j_g_holland_and_mrs_holland_august_1879" data-title="To Dr. J. G. Holland, and Mrs. Holland, August, 1879" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/grass,motif/animals,motif/summer,concept/friendship,concept/grief_and_loss,concept/faith,concept/immortality_divine,form/letter,histref/the_bible,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+LOVED AND LITTLE SISTER,—Vinnie brought in a sweet pea to-day, which had a pod on the “off” side. Startled by the omen, I hasten to you.
+
+An unexpected impediment to my reply to your dear last, was a call from my Aunt Elizabeth—“the only male relative on the female side,” and though many days since, its flavor of [[Court|court]]-martial still sets my spirit tingling.
+
+With what dismay I read of those columns of kindred in the [[Bible]]—the Jacobites and the Jebusites and the Hittites and the Jacqueminots!
+
+I am sure you are better, for no rheumatism in its senses would stay after the thermometer struck ninety!
+
+We are revelling in a gorgeous drought.
+
+The grass is painted brown, and how [[Nature|nature]] would look in other than the standard colors, we can all infer. . . . I bade——call on you, but Vinnie said you were “the other side the globe,” yet Vinnie thinks Vermont is in Asia, so I don't intend to be disheartened by trifles.
+
+Vinnie has a new pussy that catches a mouse an hour. We call her the “minute hand.” . . .
+
+Dr. Holland's [[Death|death]], in October of 1881, brought grief to many loving hearts, but to the quiet Amherst household peculiar [[Pain|pain]], voiced in the notes to follow.
+
+We read the words but know them not. We are too frightened with sorrow. If that dear, tired one must [[Sleep|sleep]], could we not see him first?
+
+Heaven is but a little way to one who gave it, here. “Inasmuch,” to him, how tenderly fulfilled!
+
+Our hearts have flown to you before—our breaking voices follow. How can we wait to take you all in our sheltering arms?
+
+Could there be new tenderness, it would be for you, but the heart is full—another throb would split it—nor would we dare to speak to those whom such a grief removes, but we have somewhere heard “A little [[Child|child]] shall lead them.”
+
+
+
+
+<span class="atom-split" data-atom="l0127_dr_j_g_holland_and_mrs_holland_thursday" data-title="To Dr. J. G. Holland, and Mrs. Holland, Thursday" data-chapter="" data-kind="intro" data-tags="motif/lamb,motif/death,concept/grief_and_loss,concept/immortality_divine,concept/faith,concept/friendship,form/letter,histref/the_bible,histref/christianity,character/jesus,cluster/child,cluster/orphan"></span>
+
+
+After a while, dear, you will remember that there is a heaven—but you can't now. Jesus will excuse it. He will remember his shorn [[Lamb|lamb]].
+
+The lost one was on such childlike terms with the Father in Heaven. He has passed from confiding to comprehending—perhaps but a step.
+
+The safety of a beloved lost is the first anguish. With you, that is peace.
+
+I shall never forget the Doctor's [[Prayer|prayer]], my first morning with you—so simple, so believing. That [[God]] must be a friend—that was a different [[God]]—and I almost felt warmer myself, in the midst of a tie so sunshiny.
+
+I am yearning to know if he knew he was fleeing—if he spoke to you. Dare I ask if he suffered? Some one will tell me a very little, when they have the strength. . . . Cling tight to the hearts that will not let you fall.
+
+
+
+
+<span class="atom-split" data-atom="l0137_mr_samuel_bowlers_and_mrs_bowles_written_in_1861_on_the_b" data-title="To Mr. Samuel Bowlers and Mrs. Bowles, Written in 1861, on the birth of a son" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/flowers,motif/lamb,motif/wind,motif/childhood,concept/friendship,concept/childhood_and_growth,concept/hope,concept/joy,form/letter,histref/the_bible,setting/new_york,setting/new_england,cluster/child,cluster/orphan"></span>
+
+
+DEAR MARY,—Can you leave your flower long enough just to look at mine?
+
+Which is the prettiest? I shall tell you myself, some day. I used to come to comfort you, but now to tell you how glad I am, and how glad we all are. . . . You must not stay in [[New York]] any more—you must come back now, and bring the blanket to Massachusetts where we can all look. What a responsible shepherd! Four lambs in one flock! Shall you be glad to see us, or shall we seem old-fashioned, by the face in the crib?
+
+Tell him I've got a pussy for him, with a spotted gown; and a dog with ringlets.
+
+We have very cold days since you went away, and I think you hear the [[Wind|wind]] blow far as the Brevoort House, it comes from so far, and crawls so. Don't let it blow baby away. Will you call him Robert for me? He is the bravest man alive, but his boy has no mamma. That makes us all weep, don't it?
+
+
+
+
+<span class="atom-split" data-atom="l0166_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/flowers,motif/memory,concept/memory,concept/grief_and_loss,concept/death,concept/immortality,form/lyric,form/elegy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+The following lines, sent with [[Flowers|flowers]], have almost as quaint and “seventeenth century” a flavor as the now famous quatrain beginning,—
+
+“A [[Death|death]]-blow is a life-blow to some.” If recollecting were forgetting Then I remember not. And if forgetting, recollecting, How near I had forgot! And if to miss were merry, And if to mourn were gay, How very blithe the fingers That gathered this, to-day!
+
+
+
+
+<span class="atom-split" data-atom="l0179_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="motif/summer,motif/seasons,concept/death,concept/immortality,concept/grief_and_loss,concept/memory,form/elegy,form/lyric,form/letter,cluster/child,cluster/orphan"></span>
+
+
+If we die, will you come for us, as you do for father?
+
+“Not born,” yourself “to die,” you must reverse us all.
+
+Last to adhere When summers swerve away— [[Elegy]] of Integrity
+
+To remember our own Mr. Bowles is all we can do.
+
+With grief it is done, so warmly and long, it can never be new.
+
+
+
+
+<span class="atom-split" data-atom="l0237_the_misses_1874" data-title="To the Misses, 1874" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/birds,motif/suffering,concept/friendship,concept/grief_and_loss,concept/faith,concept/mortality,form/letter,histref/the_bible,character/jesus,character/judas,cluster/child,cluster/orphan"></span>
+
+
+. . . I was sick, little sister, and write you the first that I am able.
+
+The loveliest sermon I ever heard was the disappointment of Jesus in Judas. It was told like a mortal story of intimate young men. I suppose no surprise we can ever have will be so sick as that. The last “I never knew you” may resemble it. I would your hearts could have rested from the first severity before you received this other one, but “not as I will.” I suppose the wild [[Flowers|flowers]] encourage themselves in the dim woods, and the bird that is bruised limps to his house in [[Silence|silence]], but we have human natures, and these are different. It is lovely that Mrs. W——did not disappoint you; not that I thought it possible, but you were so much grieved. . . . A finite life, little sister, is that peculiar garment that were it optional with us we might decline to wear. Tender words to L——, not most, I trust, in need of them.
+
+
+
+
+<span class="atom-split" data-atom="l0254_the_misses_saturday" data-title="To the Misses, Saturday" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/seed_and_germination,motif/death,concept/faith,concept/friendship,concept/resurrection,concept/charity,form/letter,histref/the_bible,character/paul,cluster/child,cluster/orphan"></span>
+
+
+DEAR ONES,—If I linger, this will not reach you before [[Sunday]]; if I do not, I must write you much less than I would [[Love|love]]. “Do unto others as ye would that they should do unto you.” I would rather they would do unto me so.
+
+After infinite wanderings the little note has reached us. It was mailed the twelfth—we received it the twenty-third. The address “Misses Dickinson” misled the rustic eyes—the postmaster knows Vinnie, also by [[Faith|faith]] who Emily is, because his little girl was hurt, and Emily sent her juleps —but he failed of the intellectual grasp to combine the names. So after sending it to all the Mrs. Dickinsons he could discover, he consigned it to us, with the request that we would speedily return it if not ours, that he might renew his research. Almost any one under the circumstances would have doubted if it were theirs, or indeed if they were themself—but to us it was clear. Next [[Time|time]], dears, direct Vinnie, or Emily, and perhaps Mr.——'s astuteness may be adequate. I enclose the battered remains for your Sabbath perusal, and tell you we think of you tenderly, which I trust you often believe.
+
+Maggie is making a flying visit to cattle-show, on her very robust wings—for Maggie is getting corpulent. Vinnie is picking a few seeds—for if a pod “die, shall he not live again”; and with the shutting mail I go to read to mother about the President. When we think of the lone effort to live, and its bleak reward, the mind turns to the myth “for His [[Mercy|mercy]] endureth forever,” with confiding revulsion. Still, when Professor Fisk died on Mount Zion, Dr. Humphrey prayed “to whom shall we turn but thee?” “I have finished,” said Paul, “the [[Faith|faith]].” We rejoice that he did not say discarded it.
+
+The little postman has come—Thomas's “second oldest,” and I close with reluctant and hurrying [[Love|love]].
+
+
+
+
+<span class="atom-split" data-atom="l0256_the_misses" data-title="To the Misses" data-chapter="" data-kind="intro" data-tags="motif/death,motif/flowers,concept/friendship,concept/faith,concept/charity,concept/immortality_divine,form/letter,character/marian_erle,cluster/child,cluster/orphan"></span>
+
+
+DEAR L——,—Thank you, with [[Love|love]], for the kindness; it would be very sweet to claim if we needed it, but we are quite strong, and mother [[Well|well]] as usual, and Vinnie spectacular as Disraeli and sincere as [[Gladstone]],—was only sighing in fun. When she sighs in earnest, Emily's throne will tremble, and she will need both L——and F——; but Vinnie “still prevails.” When one or all of us are lain on “Marian Erle's dim pallet,” so cool that she deplored to live because that she must leave it, L——and the ferns, and F——and her fan shall supplement the angels, if they have not already joined them.
+
+
+
+
+<span class="atom-split" data-atom="l0270_mr_thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/death,motif/animals,motif/summer,motif/prayer,concept/war_and_its_cost,concept/friendship,concept/immortality,concept/the_supernatural,concept/faith,form/letter,histref/american_civil_war,cluster/child,cluster/orphan"></span>
+
+
+DEAR FRIEND,—I did not deem that planetary forces annulled, but suffered an exchange of territory, or world.
+
+I should have liked to see you before you became improbable. War feels to me an oblique place. Should there be other summers, would you perhaps come?
+
+I found you were gone, by accident, as I find systems are, or [[Seasons|seasons]] of the year, and obtain no cause, but suppose it a treason of progress that dissolves as it goes. Carlo still remained, and I told him.
+
+Best gains must have the losses' test, To constitute them gains.
+
+My shaggy ally assented.
+
+Perhaps [[Death|death]] gave me awe for friends, striking sharp and early, for I held them since in a brittle [[Love|love]], of more alarm than peace. I trust you may pass the limit of war; and though not reared to [[Prayer|prayer]], when service is had in church for our arms, I include yourself. . . . I was thinking to-day, as I noticed, that the “[[Supernatural|supernatural]]” was only the natural disclosed.
+
+Not “[[Revelation]]” 'tis that waits, But our unfurnished eyes.
+
+But I [[Fear|fear]] I detain you. Should you, before this reaches you, experience [[Immortality]], who will inform me of the exchange? Could you, with honor, avoid [[Death|death]], I entreat you, sir. It would bereave
+
+
+
+
+<span class="atom-split" data-atom="l0303_mr_thomas_wentworth_higginson_early_summer_1880" data-title="To Mr. Thomas Wentworth Higginson, Early Summer, 1880" data-chapter="" data-kind="intro" data-tags="topos/pastoral_retreat,archetype/child,motif/flowers,motif/birds,motif/childhood,motif/grass,concept/childhood_and_growth,concept/grief_and_loss,concept/wonder,form/letter,setting/pastoral_countryside,cluster/child,cluster/orphan"></span>
+
+
+DEAR FRIEND,—I was touchingly reminded of [a [[Child|child]] who had died] this morning by an Indian woman with gay baskets and a dazzling baby, at the kitchen [[Door|door]]. Her little boy “once died,” she said, [[Death|death]] to her dispelling him. I asked her what the baby liked, and she said “to step.” The prairie before the [[Door|door]] was gay with [[Flowers|flowers]] of hay, and I led her in. She argued with the [[Birds|birds]], she leaned on clover walls and they fell, and dropped her. With jargon sweeter than a bell, she grappled buttercups, and they sank together, the buttercups the heaviest. What sweetest use of days! 'Twas noting some such scene made Vaughan humbly say,—
+
+“My days that are at best but dim and hoary.”
+
+I think it was Vaughan. . . .
+
+
+
+
+<span class="atom-split" data-atom="l0308_the_rev_perez_d_cowan_after_the_death_of_mr_co" data-title="To the Rev. Perez D. Cowan, After the death of Mr. Cowan's little daughter Margie November 8, 1879" data-chapter="" data-kind="intro" data-tags="motif/death,motif/prayer,concept/grief_and_loss,concept/faith,concept/friendship,form/letter,histref/christianity,cluster/child,cluster/orphan"></span>
+
+
+Will it comfort my grieved cousin to know that Emily and Vinnie are among the ones this moment thinking of him with peculiar tenderness, and is his sweet wife too faint to remember to Whom her loved one is consigned?
+
+“Come unto me” could not alarm those minute feet—how sweet to remember.
+
+If you feel able, write a few words; if you do not—remember forgetting is a guile unknown to your faithful cousin
+
+
+
+
+<span class="atom-split" data-atom="l0317_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/forgiveness,concept/grief_and_loss,form/letter,cluster/child,cluster/orphan"></span>
+
+
+Intrusiveness of [[Flowers|flowers]] is brooked by even troubled hearts.
+
+They enter and then knock—then chide their ruthless sweetness, and then remain forgiven.
+
+May these molest as fondly!
+
+
+
+
+<span class="atom-split" data-atom="l0319_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/death,concept/memory,concept/immortality,form/lyric,form/letter,cluster/child,cluster/orphan"></span>
+
+
+The face in evanescence lain Is more distinct than ours, And ours, considered for its sake, As capsules are for [[Flowers|flowers]].
+
+
+
+
+<span class="atom-split" data-atom="l0323_miss_maria_whitney_1883" data-title="To Miss Maria Whitney, 1883?" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/flowers,motif/birds,motif/snow,motif/childhood,concept/friendship,concept/faith,concept/childhood_and_growth,concept/wonder,form/letter,histref/the_bible,setting/a_garden,character/solomon,character/jesus,cluster/child,cluster/orphan"></span>
+
+
+DEAR FRIEND,—Is not an absent friend as mysterious as a bulb in the ground, and is not a bulb the most captivating floral form? Must it not have enthralled the [[Bible]], if we may infer from its selection? “The lily of the field!”
+
+I never pass one without being chagrined for Solomon, and so in [[Love|love]] with “the lily” anew, that were I sure no one saw me, I might make those advances of which in after life I should repent.
+
+The apple-blossoms were slightly disheartened, yesterday, by a [[Snow|snow]]-[[Storm|storm]], but the [[Birds|birds]] encouraged them all that they could—and how fortunate that the little ones had come to cheer their damask brethren!
+
+You spoke of coming “with the apple-blossoms”—which occasioned our solicitude.
+
+The ravenousness of fondness is best disclosed by children. . . .
+
+Is there not a sweet wolf within us that demands its food?
+
+I can easily imagine your fondness for the little life so mysteriously committed to your care. The bird that asks our crumb has a plaintive distinction. I rejoice that it was possible for you to be with it, for I think the early spiritual influences about a [[Child|child]] are more hallowing than we know. The angel begins in the morning in every human life. How small the furniture of bliss! How scant the heavenly fabric!
+
+No ladder needs the bird but skies To situate its wings, Nor any leader's grim baton Arraigns it as it sings. The implements of bliss are few— As Jesus says of Him, “Come unto me” the moiety That wafts the cherubim.
+
+
+
+
+<span class="atom-split" data-atom="l0324_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/stars,motif/wind,motif/bells,concept/friendship,concept/faith,concept/memory,concept/grief_and_loss,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
+
+
+DEAR FRIEND,—You are like [[God]]. We pray to Him, and he answers “No.” Then we pray to Him to rescind the “no,” and He don't answer at all, yet “Seek and ye shall find” is the boon of [[Faith|faith]].
+
+You failed to keep your appointment with the apple-blossoms—the japonica, even, bore an apple to elicit you, but that must be a silver bell which calls the human heart.
+
+I still [[Hope|hope]] that you live, and in lands of consciousness.
+
+It is Commencement now. Pathos is very busy.
+
+The past is not a package one can lay away. I see my father's eyes, and those of Mr. Bowles—those isolated comets. If the future is mighty as the past, what may vista be?
+
+With my foot in a sling from a vicious sprain, and reminded of you almost to [[Tears|tears]] by the week and its witness, I send this sombre word.
+
+The vane defines the [[Wind|wind]].
+
+Where we thought you were, Austin says you are not. How strange to change one's sky, unless one's star go with it, but yours has left an astral wake.
+
+Vinnie gives her hand.
+
+
+
+
+<span class="atom-split" data-atom="l0330_miss_maria_whitney_1882" data-title="To Miss Maria Whitney, 1882" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/stars,motif/the_soul,concept/immortality,concept/death,concept/grief_and_loss,concept/memory,form/elegy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+DEAR FRIEND,—A [[Tree|tree]] your father gave me bore this priceless flower.
+
+Would you accept it because of him—
+
+Who abdicated ambush And went the way of dusk, And now, against his subtle name, There stands an asterisk As confident of him as we; Impregnable we are— The whole of [[Immortality]] Secreted in a star.
+
+
+
+
+<span class="atom-split" data-atom="l0335_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/childhood,motif/home,concept/childhood_and_growth,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+After the birth of Samuel Bowles the Fifth:
+
+
+
+
+<span class="atom-split" data-atom="l0350_mr_c_h_clark_june_7_1883" data-title="To Mr. C. H. Clark, June 7, 1883" data-chapter="" data-kind="intro" data-tags="motif/death,concept/death,concept/grief_and_loss,concept/friendship,concept/faith,concept/heroism_courage,form/letter,histref/christianity,cluster/child,cluster/orphan"></span>
+
+
+I had, dear friend, the deep [[Hope|hope]] that I might see your brother before he passed from life, or rather life we know, and can scarcely express the pang I feel at its last denial.
+
+His rare and hallowed kindness had strangely endeared him, and I cannot be comforted not to thank him before he went so far.
+
+I never had met your brother but once. An unforgotten once—to have seen him but once more would have been almost like an interview with my “Heavenly Father” whom he loved and knew. I [[Hope|hope]] he was able to speak with you in his closing moment. One accent of [[Courage|courage]] as he took his flight would assist your heart. I am eager to know all you may tell me of those final days. We asked for him every morning, in heart, but feared to disturb you by inquiry aloud. I [[Hope|hope]] you are not too far exhausted from your “loved employ.”
+
+To know of you when possible would console us much, and every circumstance of him we had hoped to see. . . .
+
+
+
+
+<span class="atom-split" data-atom="l0360_mr_and_mrs_j_l_jenkins_mrs_hanson_read_mrs_w_a_s_1872" data-title="To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough, 1872?" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,archetype/child,motif/childhood,concept/childhood_and_growth,concept/innocence_and_experience,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+HAPPY “DID” AND MAC,—We can offer you nothing so charming as your own hearts, which we would seek to possess, had we the requisite wiles.
+
+DEAR BOYS,—Please never grow up, which is “far better.” Please never “improve”—you are perfect now.
+
+
+
+
+<span class="atom-split" data-atom="l0361_mr_and_mrs_j_l_jenkins_mrs_hanson_read_mrs_w_a_s" data-title="To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough" data-chapter="" data-kind="intro" data-tags="archetype/child,motif/the_butterfly,motif/flowers,motif/childhood,concept/childhood_and_growth,concept/innocence_and_experience,concept/freedom,concept/joy,form/lyric,form/letter,cluster/child,cluster/orphan"></span>
+
+
+LITTLE WOMEN,—Which shall it be, geraniums or tulips?
+
+The butterfly upon the sky, who doesn't know its name,
+
+And hasn't any tax to pay, and hasn't any [[Home|home]],
+
+Is just as high as you and I, and higher, I believe—
+
+So soar away and never sigh, for that's the way to grieve.
+
+KATIE “DID” FROM KATIE “DIDN'T”
+
+Will the sweet [[Child|child]] who sent me the butterflies, herself a member of the same ethereal nation, accept a rustic kiss, flavored, we trust, with clover?
+
+
+
+
+<span class="atom-split" data-atom="l0364_mr_and_mrs_j_l_jenkins_mrs_hanson_read_mrs_w_a_s_december_1874" data-title="To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, Mrs. A. B. H. Davis, Mrs. H. F. Hills, Mrs. Jameson, Mr. F. F. Emerson, Maggie Maher, Mr. and Mrs. George Montague, Mrs. W. F. Stearns, Mr. J. K. Chickering, Mrs. Joseph Sweetser, Mr. Thomas, Niles, Mrs. Carmichael, Dr. and Mrs. Thomas P. Field, Mr. Theodore Holland, “H. H.,” Miss Eugenia Hall, Mrs. E. P. Crowell, and Mrs. J. C. Greenough, December, 1874" data-chapter="" data-kind="intro" data-tags="motif/childhood,motif/death,motif/winter,concept/childhood_and_growth,concept/memory,concept/faith,concept/grief_and_loss,form/letter,histref/the_bible,character/santa_claus,cluster/child,cluster/orphan"></span>
+
+
+I am sure you must have remembered that father had “become as little children,” or you would never have dared send him a [[Christmas]] gift, for you know how he frowned upon Santa Claus, and all such prowling gentlemen.
+
+
+
+
+<span class="atom-split" data-atom="l0385_mrs_edward_tuckerman" data-title="To Mrs. Edward Tuckerman" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/water,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+To the Same, sent with yellow [[Flowers|flowers]] when the country was drenched in [[Rain|rain]]
+
+
+
+
+<span class="atom-split" data-atom="l0387_mrs_edward_tuckerman" data-title="To Mrs. Edward Tuckerman" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/charity,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+Accompanying a box of the delicious chocolate caramels she
+
+
+
+
+<span class="atom-split" data-atom="l0393_mrs_edward_tuckerman_january_1879" data-title="To Mrs. Edward Tuckerman, January, 1879" data-chapter="" data-kind="intro" data-tags="motif/summer,motif/disease_contagion,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+Your coming is a symptom of [[Summer|summer]].
+
+The symptom excels the malady.
+
+
+
+
+<span class="atom-split" data-atom="l0394_mrs_edward_tuckerman_september_1879" data-title="To Mrs. Edward Tuckerman, September, 1879" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/fear,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+Should dear Mrs. Tuckerman have no pears like mine, I should never cease to be harrowed.
+
+Should she, that also would be dismay.
+
+I incur the peril.
+
+
+
+
+<span class="atom-split" data-atom="l0418_mrs_js_cooper" data-title="To Mrs. J.S. Cooper" data-chapter="" data-kind="intro" data-tags="concept/grief_and_loss,concept/immortality,concept/memory,concept/death,form/letter,cluster/child,cluster/orphan"></span>
+
+
+And to another friend, about the same [[Time|time]], she wrote:—
+
+Should it be possible for me to speak of my father before I behold him, I shall try to do so to you, whom he always remembered.
+
+
+
+
+<span class="atom-split" data-atom="l0460_mrs_henry_hills" data-title="To Mrs. Henry Hills" data-chapter="" data-kind="intro" data-tags="motif/love,concept/friendship,concept/charity,concept/joy,form/aphorism,form/letter,cluster/child,cluster/orphan"></span>
+
+
+DEAR FRIENDS,—Even the simplest solace, with a loved aim, has a heavenly quality.
+
+
+
+
+<span class="atom-split" data-atom="l0464_mrs_jameson" data-title="To Mrs. Jameson" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/animals,motif/childhood,concept/childhood_and_growth,concept/joy,form/letter,character/santa_claus,cluster/child,cluster/orphan"></span>
+
+
+[[Arthur]] forgot to set a trap for Santa Claus, but that industrious mouse will excuse him, if he will steal the cakes instead. And Annie.
+
+
+
+
+<span class="atom-split" data-atom="l0469_the_rev_f_f_emerson" data-title="To the Rev. F. F. Emerson" data-chapter="" data-kind="intro" data-tags="concept/charity,concept/joy,concept/friendship,concept/wonder_and_gratitude,form/letter,cluster/child,cluster/orphan"></span>
+
+
+Mother congratulates Mr. Emerson on the discovery of the “philosopher's stone.” She will never divulge it. It lay just where she thought it did—in making others happy.
+
+
+
+
+<span class="atom-split" data-atom="l0475_mr_and_mrs_george_montague_1881" data-title="To Mr. and Mrs. George Montague, 1881?" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/charity,concept/joy,form/aphorism,form/letter,cluster/child,cluster/orphan"></span>
+
+
+DEAR COOUSIN,—Thank you for the delightful cake, and the heart adjacent.
+
+
+
+
+<span class="atom-split" data-atom="l0487_mrs_joseph_sweetser_november_1884" data-title="To Mrs. Joseph Sweetser, November, 1884" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/rose,motif/death,concept/immortality_divine,concept/faith,concept/friendship,concept/grief_and_loss,form/letter,histref/the_bible,histref/christianity,cluster/child,cluster/orphan"></span>
+
+
+SWEET AND GRACIOUS AUNT KATIE,—The beloved lilies have come, and my heart is so high it overflows, as this was mother's week, Easter in November.
+
+Father [[Rose|rose]] in June, and a little more than a year since, those fair words were fulfilled, “and a little [[Child|child]] shall lead them”—but boundlessness forbids me. . . .
+
+It is very wrong that you were ill, and whom shall I accuse? The enemy, “eternal, invisible, and full of glory” —but He declares himself a friend! It is sweet you are better.
+
+More beating that brave heart has to do before the emerald recess.
+
+With sorrow for Emma's accident, and [[Love|love]] for all who cherish you, including the roses, your velvet allies.
+
+
+
+
+<span class="atom-split" data-atom="l0491_mrs_joseph_sweetser" data-title="To Mrs. Joseph Sweetser" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/flowers,concept/faith,concept/friendship,concept/grief_and_loss,concept/immortality_divine,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
+
+
+DEAR AUNT,—I have found and give it in [[Love|love]], but reluctant to entrust anything so sacred to my father as my grandfather's [[Bible]] to a public messenger, will wait till Mr. Howard comes, whom Mrs. Nellie tells us is due this week. Thank you for loving my father and mother. I [[Hope|hope]] they are with the Source of [[Love|love]]. You did not tell me of your health—I trust because confirmed. Thank you too for sorrow, the one you truly knew.
+
+With Vinnie's affection, in haste and fondness,
+
+
+
+
+<span class="atom-split" data-atom="l0504_mrs_carmichael_1885" data-title="To Mrs. Carmichael, 1885?" data-chapter="" data-kind="intro" data-tags="motif/prayer,motif/death,concept/grief_and_loss,concept/friendship,concept/faith,concept/suffering,form/letter,histref/the_bible,cluster/child,cluster/orphan"></span>
+
+
+My consoleless Vinnie convinces me of the misfortune of having known dear Mrs. Carmichael, whom “to name is to praise,” for indeed, were we both intelligent mourners, I [[Fear|fear]] delight would close; but the “fair uncertainty” aids me, which is denied Vinnie.
+
+Of her noble loss it is needless to speak—that is incalculable.
+
+Of her sweet power to us when we were overwhelmed, that, too, shall be mute. She has “borne our grief and carried our sorrow,” that is the criterion. . . .
+
+Let me [[Hope|hope]] she is [[Well|well]] to-day, and sheltered by every [[Love|love]] she deserves, which were indeed countless.
+
+We congratulate sweet Mrs. Skeel on her beloved booty, and ask a remembrance in her [[Prayer|prayer]] for those of us bereaved.
+
+
+
+
+<span class="atom-split" data-atom="l0516_h_h" data-title="To “H. H.”" data-chapter="" data-kind="intro" data-tags="motif/silence,concept/inexpressibility,concept/friendship,concept/joy,form/letter,cluster/child,cluster/orphan"></span>
+
+
+SWEET FRIENDS,—I send a message by a mouth that cannot speak.
+
+The ecstasy to guess Were a receipted bliss If grace could talk.

@@ -38,7 +38,7 @@ function slugify(label) {
 }
 
 // 1. group
-const files = fs.readdirSync(WORKS).filter((f) => /\(Dickinson\)\.md$/.test(f))
+const files = fs.readdirSync(WORKS).filter((f) => /\(Dickinson\)(\s\(\d+\))?\.md$/.test(f))
 const byCluster = new Map() // label -> {members:[{noteFile, srcBase, kind}], poem, letter}
 for (const f of files) {
   const block = fm(fs.readFileSync(path.join(WORKS, f), "utf8"))

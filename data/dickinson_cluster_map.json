@@ -85,6 +85,21 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (6).md",
+          "srcBase": "L0057_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (7).md",
+          "srcBase": "L0063_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (8).md",
+          "srcBase": "L0070_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. William Austin Dickinson, Thursday Noon (Dickinson).md",
           "srcBase": "L0027_Mr_William_Austin_Dickinson_Thursday_Noon",
           "kind": "letter"
@@ -95,8 +110,8 @@
           "kind": "letter"
         },
         {
-          "noteFile": null,
-          "srcBase": "L0026_Mrs_A_P_Strong_Tuesday_Evening",
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (7).md",
+          "srcBase": "L0429_Mrs_FS_Cooper",
           "kind": "letter"
         }
       ]
@@ -219,16 +234,6 @@
           "noteFile": "741. Drama's Vitallest Expression is the Common Day (Dickinson).md",
           "srcBase": "0741_Dramas_Vitallest_Expression_is_the_Common_Day",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0269_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0270_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
         }
       ]
     },
@@ -352,6 +357,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (2).md",
+          "srcBase": "L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. A. P. Strong, MT. HOLYOKE FEMALE SEMINARY, Jan. 17, 1848 (Dickinson).md",
           "srcBase": "L0014_Mrs_A_P_Strong_MT_HOLYOKE_FEMALE_SEMINA",
           "kind": "letter"
@@ -362,6 +372,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Anthon (Dickinson) (2).md",
+          "srcBase": "L0093_Mrs_Anthon",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Edward Tuckerman, July, 1878 (Dickinson).md",
           "srcBase": "L0391_Mrs_Edward_Tuckerman_July_1878",
           "kind": "letter"
@@ -369,6 +384,21 @@
         {
           "noteFile": "To Mrs. Jameson (Dickinson).md",
           "srcBase": "L0463_Mrs_Jameson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Professor J. K. Chickering (Dickinson) (2).md",
+          "srcBase": "L0494_Professor_J_K_Chickering",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (10).md",
+          "srcBase": "L0239_the_Misses",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (5).md",
+          "srcBase": "L0220_the_Misses",
           "kind": "letter"
         },
         {
@@ -407,6 +437,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (2).md",
+          "srcBase": "L0422_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Misses, Winter, 1873 (Dickinson).md",
           "srcBase": "L0232_the_Misses_Winter_1873",
           "kind": "letter"
@@ -420,21 +455,6 @@
           "noteFile": "1479. The Devil — had he fidelity (Dickinson).md",
           "srcBase": "1479_The_Devil_had_he_fidelity",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0015_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0025_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0464_Mrs_Jameson",
-          "kind": "letter"
         }
       ]
     },
@@ -633,6 +653,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. and Mrs. Field (Dickinson) (2).md",
+          "srcBase": "L0509_Dr_and_Mrs_Field",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, Friday (Dickinson).md",
           "srcBase": "L0118_Dr_J_G_Holland_and_Mrs_Holland_Friday",
           "kind": "letter"
@@ -648,6 +673,16 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (15).md",
+          "srcBase": "L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (3).md",
+          "srcBase": "L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, 1863 (Dickinson).md",
           "srcBase": "L0164_Mr_Samuel_Bowlers_and_Mrs_Bowles_1863",
           "kind": "letter"
@@ -655,6 +690,11 @@
         {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, Tuesday (Dickinson).md",
           "srcBase": "L0186_Mr_Samuel_Bowlers_and_Mrs_Bowles_Tuesday",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (5).md",
+          "srcBase": "L0273_Mr_Thomas_Wentworth_Higginson",
           "kind": "letter"
         },
         {
@@ -668,6 +708,31 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (9).md",
+          "srcBase": "L0072_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Monday Morning (Dickinson) (2).md",
+          "srcBase": "L0052_Mr_William_Austin_Dickinson_Monday_Morning",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (4).md",
+          "srcBase": "L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (5).md",
+          "srcBase": "L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (5).md",
+          "srcBase": "L0071_Mr_William_Austin_Dickinson_Sunday_Evening",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson).md",
           "srcBase": "L0034_Mr_William_Austin_Dickinson_Sunday_Evening",
           "kind": "letter"
@@ -675,6 +740,26 @@
         {
           "noteFile": "To Mr. William Austin Dickinson, Thursday Evening (Dickinson).md",
           "srcBase": "L0049_Mr_William_Austin_Dickinson_Thursday_Evening",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Tuesday Noon (Dickinson) (2).md",
+          "srcBase": "L0060_Mr_William_Austin_Dickinson_Tuesday_Noon",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (10).md",
+          "srcBase": "L0025_Mrs_A_P_Strong",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (2).md",
+          "srcBase": "L0004_Mrs_A_P_Strong",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (3).md",
+          "srcBase": "L0008_Mrs_A_P_Strong",
           "kind": "letter"
         },
         {
@@ -700,6 +785,11 @@
         {
           "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Thursday Morning (Dickinson).md",
           "srcBase": "L0079_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Todd (Dickinson) (2).md",
+          "srcBase": "L0528_Mrs_Todd",
           "kind": "letter"
         },
         {
@@ -730,41 +820,6 @@
         {
           "noteFile": "To “H. H.”, March, 1885 (Dickinson).md",
           "srcBase": "L0514_H_H_March_1885",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0004_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0012_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0035_Mr_William_Austin_Dickinson_Sunday_Evening",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0050_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0163_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         }
       ]
@@ -819,6 +874,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (9).md",
+          "srcBase": "L0121_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, August, 1879 (Dickinson).md",
           "srcBase": "L0126_Dr_J_G_Holland_and_Mrs_Holland_August_1879",
           "kind": "letter"
@@ -844,8 +904,43 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (10).md",
+          "srcBase": "L0335_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (4).md",
+          "srcBase": "L0317_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (6).md",
+          "srcBase": "L0319_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (7).md",
+          "srcBase": "L0324_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney, 1882 (Dickinson) (2).md",
+          "srcBase": "L0330_Miss_Maria_Whitney_1882",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. and Mrs. George Montague, 1881 (Dickinson).md",
           "srcBase": "L0475_Mr_and_Mrs_George_Montague_1881",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (2).md",
+          "srcBase": "L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (5).md",
+          "srcBase": "L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874",
           "kind": "letter"
         },
         {
@@ -859,8 +954,33 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (17).md",
+          "srcBase": "L0166_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (23).md",
+          "srcBase": "L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, Written in 1861, on the birth of a son (Dickinson).md",
           "srcBase": "L0137_Mr_Samuel_Bowlers_and_Mrs_Bowles_Written_in_1861_on_the_b",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (3).md",
+          "srcBase": "L0270_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (5).md",
+          "srcBase": "L0054_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Friday Morning (Dickinson) (3).md",
+          "srcBase": "L0061_Mr_William_Austin_Dickinson_Friday_Morning",
           "kind": "letter"
         },
         {
@@ -869,13 +989,38 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (2).md",
+          "srcBase": "L0035_Mr_William_Austin_Dickinson_Sunday_Evening",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. William Austin Dickinson, Sunday Morning (Dickinson).md",
           "srcBase": "L0058_Mr_William_Austin_Dickinson_Sunday_Morning",
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson, Thursday Evening (Dickinson) (2).md",
+          "srcBase": "L0067_Mr_William_Austin_Dickinson_Thursday_Evening",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (8).md",
+          "srcBase": "L0019_Mrs_A_P_Strong",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong, Tuesday Evening (Dickinson) (3).md",
+          "srcBase": "L0026_Mrs_A_P_Strong_Tuesday_Evening",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Carmichael, 1885 (Dickinson).md",
           "srcBase": "L0504_Mrs_Carmichael_1885",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Edward Tuckerman (Dickinson) (2).md",
+          "srcBase": "L0387_Mrs_Edward_Tuckerman",
           "kind": "letter"
         },
         {
@@ -894,8 +1039,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson (Dickinson) (3).md",
+          "srcBase": "L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Thursday Morn (Dickinson).md",
           "srcBase": "L0080_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morn",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Henry Hills (Dickinson) (6).md",
+          "srcBase": "L0460_Mrs_Henry_Hills",
           "kind": "letter"
         },
         {
@@ -904,8 +1059,23 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Joseph Sweetser (Dickinson) (3).md",
+          "srcBase": "L0491_Mrs_Joseph_Sweetser",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Joseph Sweetser, November, 1884 (Dickinson).md",
           "srcBase": "L0487_Mrs_Joseph_Sweetser_November_1884",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (13).md",
+          "srcBase": "L0256_the_Misses",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses, 1874 (Dickinson) (2).md",
+          "srcBase": "L0237_the_Misses_1874",
           "kind": "letter"
         },
         {
@@ -914,8 +1084,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Rev. F. F. Emerson (Dickinson) (2).md",
+          "srcBase": "L0469_the_Rev_F_F_Emerson",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Rev. Perez D. Cowan, After the death of Mr. Cowan's little daughter Margie November 8, 1879 (Dickinson).md",
           "srcBase": "L0308_the_Rev_Perez_D_Cowan_After_the_death_of_Mr_Co",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To “H. H.” (Dickinson) (2).md",
+          "srcBase": "L0516_H_H",
           "kind": "letter"
         },
         {
@@ -927,6 +1107,11 @@
           "noteFile": "637. The Child's faith is new — (Dickinson).md",
           "srcBase": "0637_The_Childs_faith_is_new",
           "kind": "poem"
+        },
+        {
+          "noteFile": "To Mrs. Jameson (Dickinson) (2).md",
+          "srcBase": "L0464_Mrs_Jameson",
+          "kind": "letter"
         },
         {
           "noteFile": "1201. So I pull my Stockings off (Dickinson).md",
@@ -966,101 +1151,6 @@
         {
           "noteFile": "To Mr. Thomas Wentworth Higginson, Early Summer, 1880 (Dickinson).md",
           "srcBase": "L0303_Mr_Thomas_Wentworth_Higginson_Early_Summer_1880",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0064_Mr_William_Austin_Dickinson_Monday_Morning",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0066_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0067_Mr_William_Austin_Dickinson_Thursday_Evening",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0081_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0099_Mrs_Anthon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0100_Mrs_Anthon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0106_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0124_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0128_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0129_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0138_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0255_the_Misses_1881",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0309_the_Rev_Perez_D_Cowan",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0324_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0325_Miss_Maria_Whitney_1883",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0361_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0474_the_Rev_F_F_Emerson",
           "kind": "letter"
         }
       ]
@@ -1240,6 +1330,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Mr. Theodore Holland, 1885 (Dickinson) (2).md",
+          "srcBase": "L0511_Mr_Theodore_Holland_1885",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Edward Tuckerman, April, 1885 (Dickinson).md",
           "srcBase": "L0413_Mrs_Edward_Tuckerman_April_1885",
           "kind": "letter"
@@ -1257,36 +1352,6 @@
         {
           "noteFile": "To the Misses, September, 1870 (Dickinson).md",
           "srcBase": "L0218_the_Misses_September_1870",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0429_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0430_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0432_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0433_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0434_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0435_Mrs_FS_Cooper",
           "kind": "letter"
         }
       ]
@@ -1361,6 +1426,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (11).md",
+          "srcBase": "L0338_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Henry Hills, January, 1883 (Dickinson).md",
           "srcBase": "L0461_Mrs_Henry_Hills_January_1883",
           "kind": "letter"
@@ -1379,11 +1449,6 @@
           "noteFile": "551. There is a Shame of Nobleness — (Dickinson).md",
           "srcBase": "0551_There_is_a_Shame_of_Nobleness",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0242_the_Misses",
-          "kind": "letter"
         }
       ]
     },
@@ -1697,6 +1762,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (8).md",
+          "srcBase": "L0120_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, 1857 (Dickinson).md",
           "srcBase": "L0113_Dr_J_G_Holland_and_Mrs_Holland_1857",
           "kind": "letter"
@@ -1722,13 +1792,43 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. C. H. Clark (Dickinson) (2).md",
+          "srcBase": "L0537_Mr_C_H_Clark",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. F. D. Clark, Late Autumn, 1882 (Dickinson).md",
           "srcBase": "L0342_Mr_F_D_Clark_Late_Autumn_1882",
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (11).md",
+          "srcBase": "L0284_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (12).md",
+          "srcBase": "L0286_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (4).md",
+          "srcBase": "L0271_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (2).md",
+          "srcBase": "L0033_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Henry Hills, March, 1879 (Dickinson).md",
           "srcBase": "L0448_Mrs_Henry_Hills_March_1879",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. W. A. Stearns (Dickinson) (2).md",
+          "srcBase": "L0375_Mrs_W_A_Stearns",
           "kind": "letter"
         },
         {
@@ -1764,51 +1864,6 @@
         {
           "noteFile": "To “H. H.” (Dickinson).md",
           "srcBase": "L0515_H_H",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0120_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0121_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0122_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0228_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0314_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0315_Miss_Maria_Whitney_1878",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0316_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0377_Mrs_W_A_Stearns",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0516_H_H",
           "kind": "letter"
         }
       ]
@@ -2053,6 +2108,26 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (2).md",
+          "srcBase": "L0104_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (5).md",
+          "srcBase": "L0318_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (18).md",
+          "srcBase": "L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (19).md",
+          "srcBase": "L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, 1881 (Dickinson).md",
           "srcBase": "L0187_Mr_Samuel_Bowlers_and_Mrs_Bowles_1881",
           "kind": "letter"
@@ -2098,6 +2173,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Misses (Dickinson) (2).md",
+          "srcBase": "L0198_the_Misses",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Misses, 1868 (Dickinson).md",
           "srcBase": "L0213_the_Misses_1868",
           "kind": "letter"
@@ -2110,46 +2190,6 @@
         {
           "noteFile": "To the Rev. F. F. Emerson (Dickinson).md",
           "srcBase": "L0468_the_Rev_F_F_Emerson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0052_Mr_William_Austin_Dickinson_Monday_Morning",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0214_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0469_the_Rev_F_F_Emerson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0470_the_Rev_F_F_Emerson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0479_Mr_and_Mrs_George_Montague",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0480_Mr_and_Mrs_George_Montague_1881",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0490_Mrs_Joseph_Sweetser",
           "kind": "letter"
         }
       ]
@@ -2349,8 +2389,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Miss Maria Whitney, 1883 (Dickinson) (2).md",
+          "srcBase": "L0325_Miss_Maria_Whitney_1883",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. F. D. Clark, March, 1883 (Dickinson).md",
           "srcBase": "L0343_Mr_F_D_Clark_March_1883",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (16).md",
+          "srcBase": "L0165_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         },
         {
@@ -2361,6 +2411,11 @@
         {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, Sunday Night (Dickinson).md",
           "srcBase": "L0145_Mr_Samuel_Bowlers_and_Mrs_Bowles_Sunday_Night",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (9).md",
+          "srcBase": "L0278_Mr_Thomas_Wentworth_Higginson",
           "kind": "letter"
         },
         {
@@ -2381,6 +2436,21 @@
         {
           "noteFile": "To Mr. William Austin Dickinson, Friday, Morning (Dickinson).md",
           "srcBase": "L0053_Mr_William_Austin_Dickinson_Friday_Morning",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Monday Morning (Dickinson) (3).md",
+          "srcBase": "L0064_Mr_William_Austin_Dickinson_Monday_Morning",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Saturday Morn (Dickinson) (2).md",
+          "srcBase": "L0074_Mr_William_Austin_Dickinson_Saturday_Morn",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Tuesday Evening (Dickinson) (2).md",
+          "srcBase": "L0068_Mr_William_Austin_Dickinson_Tuesday_Evening",
           "kind": "letter"
         },
         {
@@ -2424,6 +2494,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (8).md",
+          "srcBase": "L0430_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Henry Hills, 1882 (Dickinson).md",
           "srcBase": "L0459_Mrs_Henry_Hills_1882",
           "kind": "letter"
@@ -2446,6 +2521,11 @@
         {
           "noteFile": "To Mrs. W. F. Stearns (Dickinson).md",
           "srcBase": "L0483_Mrs_W_F_Stearns",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (9).md",
+          "srcBase": "L0238_the_Misses",
           "kind": "letter"
         },
         {
@@ -2494,6 +2574,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Rev. F. F. Emerson (Dickinson) (3).md",
+          "srcBase": "L0470_the_Rev_F_F_Emerson",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Rev. F. F. Emerson, 1880 (Dickinson).md",
           "srcBase": "L0467_the_Rev_F_F_Emerson_1880",
           "kind": "letter"
@@ -2501,96 +2586,6 @@
         {
           "noteFile": "To the Rev. J. L. Jenkins and Mrs. Jenkins (Dickinson).md",
           "srcBase": "L0367_the_Rev_J_L_Jenkins_and_Mrs_Jenkins",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0017_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0054_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0097_Mrs_Anthon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0098_Mrs_Anthon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0104_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0109_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0117_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0239_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0241_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0253_the_Misses_1881",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0288_Mr_Thomas_Wentworth_Higginson_1875",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0454_Mrs_Henry_Hills",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0455_Mrs_Henry_Hills",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0460_Mrs_Henry_Hills",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0523_Mrs_J_C_Greenough",
           "kind": "letter"
         }
       ]
@@ -2635,13 +2630,28 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Dr. and Mrs. Field, 1885 (Dickinson) (2).md",
+          "srcBase": "L0507_Dr_and_Mrs_Field_1885",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Dr. and Mrs. Field, 1885 (Dickinson).md",
           "srcBase": "L0506_Dr_and_Mrs_Field_1885",
           "kind": "letter"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (15).md",
+          "srcBase": "L0132_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Maggie Maher, Autumn, 1880 (Dickinson).md",
           "srcBase": "L0466_Maggie_Maher_Autumn_1880",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Eugenia Hall (Dickinson) (2).md",
+          "srcBase": "L0521_Miss_Eugenia_Hall",
           "kind": "letter"
         },
         {
@@ -2655,8 +2665,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (12).md",
+          "srcBase": "L0339_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Miss Maria Whitney (Dickinson).md",
           "srcBase": "L0311_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney, 1878 (Dickinson) (2).md",
+          "srcBase": "L0315_Miss_Maria_Whitney_1878",
           "kind": "letter"
         },
         {
@@ -2665,8 +2685,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Miss Maria Whitney, Probably 1884 (Dickinson) (2).md",
+          "srcBase": "L0328_Miss_Maria_Whitney_Probably_1884",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Miss Maria Whitney, Probably 1884 (Dickinson).md",
           "srcBase": "L0327_Miss_Maria_Whitney_Probably_1884",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. and Mrs. George Montague (Dickinson) (4).md",
+          "srcBase": "L0479_Mr_and_Mrs_George_Montague",
           "kind": "letter"
         },
         {
@@ -2675,8 +2705,33 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. and Mrs. George Montague, 1881 (Dickinson) (2).md",
+          "srcBase": "L0480_Mr_and_Mrs_George_Montague_1881",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (3).md",
+          "srcBase": "L0362_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_Christmas_1874",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Perez D. Cowan, Miss Maria Whitney, Mr. Bowles, Mr. F. D. Clark, and Mr. C. H. Clark (Dickinson).md",
           "srcBase": "L0305_Mr_Perez_D_Cowan_Miss_Maria_Whitney_Mr_Bowles_Mr",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (11).md",
+          "srcBase": "L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (13).md",
+          "srcBase": "L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (14).md",
+          "srcBase": "L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         },
         {
@@ -2715,8 +2770,33 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (2).md",
+          "srcBase": "L0269_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (8).md",
+          "srcBase": "L0276_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson, 1877 (Dickinson) (3).md",
+          "srcBase": "L0296_Mr_Thomas_Wentworth_Higginson_1877",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson, 1880 (Dickinson) (2).md",
+          "srcBase": "L0302_Mr_Thomas_Wentworth_Higginson_1880",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Thomas Wentworth Higginson, 1880 (Dickinson).md",
           "srcBase": "L0301_Mr_Thomas_Wentworth_Higginson_1880",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson, August, 1870 (Dickinson) (2).md",
+          "srcBase": "L0279_Mr_Thomas_Wentworth_Higginson_August_1870",
           "kind": "letter"
         },
         {
@@ -2735,6 +2815,16 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (5).md",
+          "srcBase": "L0012_Mrs_A_P_Strong",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (7).md",
+          "srcBase": "L0017_Mrs_A_P_Strong",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. A. P. Strong, AMHERST, Jan. 29, 1850 (Dickinson).md",
           "srcBase": "L0018_Mrs_A_P_Strong_AMHERST_Jan_29_1850",
           "kind": "letter"
@@ -2745,6 +2835,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Anthon (Dickinson) (4).md",
+          "srcBase": "L0097_Mrs_Anthon",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Carmichael, 1884 (Dickinson).md",
           "srcBase": "L0503_Mrs_Carmichael_1884",
           "kind": "letter"
@@ -2752,6 +2847,11 @@
         {
           "noteFile": "To Mrs. E. P. Crowell, March 2, 1885 (Dickinson).md",
           "srcBase": "L0518_Mrs_E_P_Crowell_March_2_1885",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Edward Tuckerman (Dickinson) (3).md",
+          "srcBase": "L0403_Mrs_Edward_Tuckerman",
           "kind": "letter"
         },
         {
@@ -2795,6 +2895,41 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (10).md",
+          "srcBase": "L0433_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (14).md",
+          "srcBase": "L0437_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (15).md",
+          "srcBase": "L0438_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (17).md",
+          "srcBase": "L0442_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (4).md",
+          "srcBase": "L0426_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (5).md",
+          "srcBase": "L0427_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (9).md",
+          "srcBase": "L0432_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. F.S. Cooper, 1876 (Dickinson).md",
           "srcBase": "L0425_Mrs_FS_Cooper_1876",
           "kind": "letter"
@@ -2810,6 +2945,31 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Thursday Morning (Dickinson) (2).md",
+          "srcBase": "L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Henry Hills (Dickinson) (3).md",
+          "srcBase": "L0453_Mrs_Henry_Hills",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Henry Hills (Dickinson) (4).md",
+          "srcBase": "L0454_Mrs_Henry_Hills",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Henry Hills (Dickinson) (5).md",
+          "srcBase": "L0455_Mrs_Henry_Hills",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Henry Hills, 1881 (Dickinson) (2).md",
+          "srcBase": "L0458_Mrs_Henry_Hills_1881",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Henry Hills, Christmas, 1878 (Dickinson).md",
           "srcBase": "L0443_Mrs_Henry_Hills_Christmas_1878",
           "kind": "letter"
@@ -2820,8 +2980,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. J. C. Greenough (Dickinson) (2).md",
+          "srcBase": "L0523_Mrs_J_C_Greenough",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. J.S. Cooper, June, 1874 (Dickinson).md",
           "srcBase": "L0416_Mrs_JS_Cooper_June_1874",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Joseph Sweetser (Dickinson) (2).md",
+          "srcBase": "L0490_Mrs_Joseph_Sweetser",
           "kind": "letter"
         },
         {
@@ -2835,8 +3005,38 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Professor J. K. Chickering (Dickinson) (3).md",
+          "srcBase": "L0496_Professor_J_K_Chickering",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Professor J. K. Chickering, Autumn, 1882 (Dickinson).md",
           "srcBase": "L0492_Professor_J_K_Chickering_Autumn_1882",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (11).md",
+          "srcBase": "L0241_the_Misses",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (7).md",
+          "srcBase": "L0228_the_Misses",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (8).md",
+          "srcBase": "L0230_the_Misses",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses, 1870 (Dickinson) (2).md",
+          "srcBase": "L0221_the_Misses_1870",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses, 1881 (Dickinson) (3).md",
+          "srcBase": "L0255_the_Misses_1881",
           "kind": "letter"
         },
         {
@@ -2845,173 +3045,28 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Misses, Autumn, 1873 (Dickinson) (2).md",
+          "srcBase": "L0235_the_Misses_Autumn_1873",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Rev. F. F. Emerson (Dickinson) (4).md",
+          "srcBase": "L0471_the_Rev_F_F_Emerson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Rev. F. F. Emerson (Dickinson) (6).md",
+          "srcBase": "L0474_the_Rev_F_F_Emerson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To To Mrs. Stearns (Dickinson) (2).md",
+          "srcBase": "L0382_To_Mrs_Stearns",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To To Mrs. Stearns, 1878 (Dickinson).md",
           "srcBase": "L0379_To_Mrs_Stearns_1878",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0019_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0038_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0039_Mr_William_Austin_Dickinson_Sunday_Evening",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0040_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0061_Mr_William_Austin_Dickinson_Friday_Morning",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0063_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0158_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0160_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0162_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0275_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0276_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0278_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0302_Mr_Thomas_Wentworth_Higginson_1880",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0326_Miss_Maria_Whitney_1883",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0328_Miss_Maria_Whitney_Probably_1884",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0329_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0387_Mrs_Edward_Tuckerman",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0399_Mrs_Edward_Tuckerman_1880",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0403_Mrs_Edward_Tuckerman",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0426_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0427_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0428_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0477_Mr_and_Mrs_George_Montague",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0478_Mr_and_Mrs_George_Montague",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0491_Mrs_Joseph_Sweetser",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0497_Professor_J_K_Chickering",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0507_Dr_and_Mrs_Field_1885",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0509_Dr_and_Mrs_Field",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0511_Mr_Theodore_Holland_1885",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0517_H_H",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0521_Miss_Eugenia_Hall",
           "kind": "letter"
         }
       ]
@@ -3149,6 +3204,16 @@
           "noteFile": "885. Our little Kinsmen — after Rain (Dickinson).md",
           "srcBase": "0885_Our_little_Kinsmen_after_Rain",
           "kind": "poem"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (12).md",
+          "srcBase": "L0159_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (21).md",
+          "srcBase": "L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
         },
         {
           "noteFile": "To Mr. Thomas Niles (Dickinson).md",
@@ -3452,13 +3517,33 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (12).md",
+          "srcBase": "L0128_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (14).md",
+          "srcBase": "L0130_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, Christmas, 1881 (Dickinson).md",
           "srcBase": "L0131_Dr_J_G_Holland_and_Mrs_Holland_Christmas_1881",
           "kind": "letter"
         },
         {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (2).md",
+          "srcBase": "L0314_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Miss Maria Whitney, Tuesday (Dickinson).md",
           "srcBase": "L0321_Miss_Maria_Whitney_Tuesday",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. and Mrs. J. L. Jenkins, Mrs. Hanson Read, Mrs. W. A. Stearns, Mrs. Edward Tuckerman, Mrs. J. S. Cooper, (Dickinson) (4).md",
+          "srcBase": "L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
           "kind": "letter"
         },
         {
@@ -3497,8 +3582,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (8).md",
+          "srcBase": "L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, March, 1862 (Dickinson).md",
           "srcBase": "L0146_Mr_Samuel_Bowlers_and_Mrs_Bowles_March_1862",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Theodore Holland (Dickinson) (2).md",
+          "srcBase": "L0513_Mr_Theodore_Holland",
           "kind": "letter"
         },
         {
@@ -3512,8 +3607,33 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (10).md",
+          "srcBase": "L0281_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (6).md",
+          "srcBase": "L0274_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson, 1875 (Dickinson) (2).md",
+          "srcBase": "L0288_Mr_Thomas_Wentworth_Higginson_1875",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson, 1877 (Dickinson) (2).md",
+          "srcBase": "L0295_Mr_Thomas_Wentworth_Higginson_1877",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Thomas Wentworth Higginson, June, 1875 (Dickinson).md",
           "srcBase": "L0285_Mr_Thomas_Wentworth_Higginson_June_1875",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (9).md",
+          "srcBase": "L0021_Mrs_A_P_Strong",
           "kind": "letter"
         },
         {
@@ -3539,6 +3659,11 @@
         {
           "noteFile": "To Mrs. Edward Tuckerman, sent her friends at New Year's, with the recipe (Dickinson).md",
           "srcBase": "L0388_Mrs_Edward_Tuckerman_sent_her_friends_at_New",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (16).md",
+          "srcBase": "L0440_Mrs_FS_Cooper",
           "kind": "letter"
         },
         {
@@ -3572,8 +3697,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. W. A. Stearns (Dickinson) (3).md",
+          "srcBase": "L0377_Mrs_W_A_Stearns",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. W. F. Stearns, October, 1882 (Dickinson).md",
           "srcBase": "L0482_Mrs_W_F_Stearns_October_1882",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Professor J. K. Chickering (Dickinson) (4).md",
+          "srcBase": "L0497_Professor_J_K_Chickering",
           "kind": "letter"
         },
         {
@@ -3627,6 +3762,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Rev. Perez D. Cowan (Dickinson) (2).md",
+          "srcBase": "L0309_the_Rev_Perez_D_Cowan",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Rev. Perez D. Cowan (Dickinson).md",
           "srcBase": "L0307_the_Rev_Perez_D_Cowan",
           "kind": "letter"
@@ -3634,86 +3774,6 @@
         {
           "noteFile": "To To Mrs. Stearns (Dickinson).md",
           "srcBase": "L0381_To_Mrs_Stearns",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0130_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0132_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0220_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0230_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0256_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0258_the_Misses",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0286_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0340_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0382_To_Mrs_Stearns",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0422_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0452_Mrs_Henry_Hills",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0453_Mrs_Henry_Hills",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0494_Professor_J_K_Chickering",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0496_Professor_J_K_Chickering",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0537_Mr_C_H_Clark",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0538_Mr_C_H_Clark",
           "kind": "letter"
         }
       ]
@@ -3813,6 +3873,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (22).md",
+          "srcBase": "L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Thomas Wentworth Higginson, April 16, 1862 (Dickinson).md",
           "srcBase": "L0264_Mr_Thomas_Wentworth_Higginson_April_16_1862",
           "kind": "letter"
@@ -3843,6 +3908,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To “H. H.” (Dickinson) (3).md",
+          "srcBase": "L0517_H_H",
+          "kind": "letter"
+        },
+        {
           "noteFile": "1129. Tell all the Truth but tell it slant — (Dickinson).md",
           "srcBase": "1129_Tell_all_the_Truth_but_tell_it_slant",
           "kind": "poem"
@@ -3866,16 +3936,6 @@
           "noteFile": "569. I reckon — when I count it all — (Dickinson).md",
           "srcBase": "0569_I_reckon_when_I_count_it_all",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0235_the_Misses_Autumn_1873",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0458_Mrs_Henry_Hills_1881",
-          "kind": "letter"
         }
       ]
     },
@@ -4069,6 +4129,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Miss Maria Whitney, 1883 (Dickinson) (3).md",
+          "srcBase": "L0326_Miss_Maria_Whitney_1883",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, Late Autumn, 1862 (Dickinson).md",
           "srcBase": "L0156_Mr_Samuel_Bowlers_and_Mrs_Bowles_Late_Autumn_1862",
           "kind": "letter"
@@ -4084,23 +4149,23 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Anthon (Dickinson) (3).md",
+          "srcBase": "L0094_Mrs_Anthon",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Edward Tuckerman, June, 1883 (Dickinson).md",
           "srcBase": "L0408_Mrs_Edward_Tuckerman_June_1883",
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (11).md",
+          "srcBase": "L0434_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. W. A. Stearns, 1875 (Dickinson).md",
           "srcBase": "L0373_Mrs_W_A_Stearns_1875",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0048_Mr_William_Austin_Dickinson_Friday_Morning",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         }
       ]
@@ -4218,6 +4283,11 @@
           "noteFile": "964. Unto Me I do not know you — (Dickinson).md",
           "srcBase": "0964_Unto_Me_I_do_not_know_you",
           "kind": "poem"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (3).md",
+          "srcBase": "L0316_Miss_Maria_Whitney",
+          "kind": "letter"
         },
         {
           "noteFile": "To Mrs. Edward Tuckerman, May, 1885 (Dickinson).md",
@@ -4411,6 +4481,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Anthon (Dickinson) (5).md",
+          "srcBase": "L0098_Mrs_Anthon",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Henry Hills, January, 1879 (Dickinson).md",
           "srcBase": "L0444_Mrs_Henry_Hills_January_1879",
           "kind": "letter"
@@ -4418,6 +4493,11 @@
         {
           "noteFile": "To the Misses, 1874 (Dickinson).md",
           "srcBase": "L0236_the_Misses_1874",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Rev. F. F. Emerson (Dickinson) (5).md",
+          "srcBase": "L0473_the_Rev_F_F_Emerson",
           "kind": "letter"
         },
         {
@@ -4444,16 +4524,6 @@
           "noteFile": "985. The Missing All — prevented Me (Dickinson).md",
           "srcBase": "0985_The_Missing_All_prevented_Me",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0237_the_Misses_1874",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0238_the_Misses",
-          "kind": "letter"
         }
       ]
     },
@@ -4582,6 +4652,26 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (4).md",
+          "srcBase": "L0108_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (5).md",
+          "srcBase": "L0109_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (9).md",
+          "srcBase": "L0333_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney, 1882 (Dickinson) (3).md",
+          "srcBase": "L0331_Miss_Maria_Whitney_1882",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. C. H. Clark (Dickinson).md",
           "srcBase": "L0359_Mr_C_H_Clark",
           "kind": "letter"
@@ -4594,6 +4684,26 @@
         {
           "noteFile": "To Mr. C. H. Clark, January 4, 1884 (Dickinson).md",
           "srcBase": "L0353_Mr_C_H_Clark_January_4_1884",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (2).md",
+          "srcBase": "L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (20).md",
+          "srcBase": "L0170_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (7).md",
+          "srcBase": "L0149_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (9).md",
+          "srcBase": "L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         },
         {
@@ -4612,6 +4722,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. A. P. Strong, Tuesday Evening (Dickinson) (2).md",
+          "srcBase": "L0023_Mrs_A_P_Strong_Tuesday_Evening",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Edward Tuckerman, January, 1882 (Dickinson).md",
           "srcBase": "L0406_Mrs_Edward_Tuckerman_January_1882",
           "kind": "letter"
@@ -4627,6 +4742,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Henry Hills (Dickinson) (2).md",
+          "srcBase": "L0452_Mrs_Henry_Hills",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Henry Hills, Christmas, 1879 (Dickinson).md",
           "srcBase": "L0450_Mrs_Henry_Hills_Christmas_1879",
           "kind": "letter"
@@ -4637,6 +4757,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Misses (Dickinson) (4).md",
+          "srcBase": "L0214_the_Misses",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Misses, 1865 (Dickinson).md",
           "srcBase": "L0210_the_Misses_1865",
           "kind": "letter"
@@ -4644,21 +4769,6 @@
         {
           "noteFile": "To To Mrs. Stearns, 1879 (Dickinson).md",
           "srcBase": "L0380_To_Mrs_Stearns_1879",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0136_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         }
       ]
@@ -5104,8 +5214,18 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (3).md",
+          "srcBase": "L0106_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, Sabbath Night (Dickinson).md",
           "srcBase": "L0111_Dr_J_G_Holland_and_Mrs_Holland_Sabbath_Night",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (5).md",
+          "srcBase": "L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         },
         {
@@ -5164,6 +5284,16 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Misses (Dickinson) (12).md",
+          "srcBase": "L0242_the_Misses",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (3).md",
+          "srcBase": "L0201_the_Misses",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Misses, November, 1882 (Dickinson).md",
           "srcBase": "L0260_the_Misses_November_1882",
           "kind": "letter"
@@ -5182,41 +5312,6 @@
           "noteFile": "75. She died at play, (Dickinson).md",
           "srcBase": "0075_She_died_at_play",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0010_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0093_Mrs_Anthon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0112_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0152_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0221_the_Misses_1870",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0279_Mr_Thomas_Wentworth_Higginson_August_1870",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0281_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
         }
       ]
     },
@@ -5495,6 +5590,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (6).md",
+          "srcBase": "L0428_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Misses, February, 1862 (Dickinson).md",
           "srcBase": "L0199_the_Misses_February_1862",
           "kind": "letter"
@@ -5552,41 +5652,6 @@
         {
           "noteFile": "To the Misses, March, 1886 (Dickinson).md",
           "srcBase": "L0533_the_Misses_March_1886",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0057_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0060_Mr_William_Austin_Dickinson_Tuesday_Noon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0068_Mr_William_Austin_Dickinson_Tuesday_Evening",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0070_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0071_Mr_William_Austin_Dickinson_Sunday_Evening",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0363_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0364_Mr_and_Mrs_J_L_Jenkins_Mrs_Hanson_Read_Mrs_W_A_S_December_1874",
           "kind": "letter"
         }
       ]
@@ -5686,6 +5751,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Mr. and Mrs. George Montague (Dickinson) (2).md",
+          "srcBase": "L0477_Mr_and_Mrs_George_Montague",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. C. H. Clark, April 18, 1883 (Dickinson).md",
           "srcBase": "L0346_Mr_C_H_Clark_April_18_1883",
           "kind": "letter"
@@ -5701,8 +5771,28 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (4).md",
+          "srcBase": "L0045_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. William Austin Dickinson, Monday Morn (Dickinson).md",
           "srcBase": "L0032_Mr_William_Austin_Dickinson_Monday_Morn",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Afternoon (Dickinson) (3).md",
+          "srcBase": "L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (3).md",
+          "srcBase": "L0039_Mr_William_Austin_Dickinson_Sunday_Evening",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. William Austin Dickinson, Sunday Evening (Dickinson) (4).md",
+          "srcBase": "L0041_Mr_William_Austin_Dickinson_Sunday_Evening",
           "kind": "letter"
         },
         {
@@ -5713,6 +5803,11 @@
         {
           "noteFile": "To Mrs. F.S. Cooper, 1885 (Dickinson).md",
           "srcBase": "L0441_Mrs_FS_Cooper_1885",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (14).md",
+          "srcBase": "L0258_the_Misses",
           "kind": "letter"
         },
         {
@@ -5771,6 +5866,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Mr. and Mrs. George Montague (Dickinson) (3).md",
+          "srcBase": "L0478_Mr_and_Mrs_George_Montague",
+          "kind": "letter"
+        },
+        {
           "noteFile": "1226. The Popular Heart is a Cannon first — (Dickinson).md",
           "srcBase": "1226_The_Popular_Heart_is_a_Cannon_first",
           "kind": "poem"
@@ -5784,46 +5884,6 @@
           "noteFile": "910. Experience is the Angled Road (Dickinson).md",
           "srcBase": "0910_Experience_is_the_Angled_Road",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0021_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0033_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0143_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0167_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0169_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0442_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0471_the_Rev_F_F_Emerson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0473_the_Rev_F_F_Emerson",
-          "kind": "letter"
         }
       ]
     },
@@ -5922,8 +5982,23 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Anthon (Dickinson) (6).md",
+          "srcBase": "L0099_Mrs_Anthon",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Anthon, AMHERST, 1859 (Dickinson).md",
           "srcBase": "L0090_Mrs_Anthon_AMHERST_1859",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (3).md",
+          "srcBase": "L0424_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson (Dickinson) (2).md",
+          "srcBase": "L0077_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss",
           "kind": "letter"
         },
         {
@@ -5965,21 +6040,6 @@
           "noteFile": "872. As the Starved Maelstrom laps the Navies (Dickinson).md",
           "srcBase": "0872_As_the_Starved_Maelstrom_laps_the_Navies",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0295_Mr_Thomas_Wentworth_Higginson_1877",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0296_Mr_Thomas_Wentworth_Higginson_1877",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0375_Mrs_W_A_Stearns",
-          "kind": "letter"
         }
       ]
     },
@@ -6106,6 +6166,11 @@
           "noteFile": "904. Had I not This, or This, I said, (Dickinson).md",
           "srcBase": "0904_Had_I_not_This_or_This_I_said",
           "kind": "poem"
+        },
+        {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve (Dickinson) (2).md",
+          "srcBase": "L0123_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
+          "kind": "letter"
         },
         {
           "noteFile": "To the Misses, 1872, or 1873 (Dickinson).md",
@@ -6289,13 +6354,38 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (6).md",
+          "srcBase": "L0112_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (13).md",
+          "srcBase": "L0340_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (10).md",
+          "srcBase": "L0155_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, August, 1862 (Dickinson).md",
           "srcBase": "L0153_Mr_Samuel_Bowlers_and_Mrs_Bowles_August_1862",
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson, Friday Morning (Dickinson) (2).md",
+          "srcBase": "L0048_Mr_William_Austin_Dickinson_Friday_Morning",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. William Austin Dickinson, Saturday Morn (Dickinson).md",
           "srcBase": "L0044_Mr_William_Austin_Dickinson_Saturday_Morn",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. Anthon (Dickinson) (7).md",
+          "srcBase": "L0100_Mrs_Anthon",
           "kind": "letter"
         },
         {
@@ -6311,16 +6401,6 @@
         {
           "noteFile": "To the Misses, Autumn, 1863 (Dickinson).md",
           "srcBase": "L0206_the_Misses_Autumn_1863",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0045_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0154_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         }
       ]
@@ -6745,6 +6825,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (10).md",
+          "srcBase": "L0122_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Miss Maria Whitney, 1879 (Dickinson).md",
           "srcBase": "L0320_Miss_Maria_Whitney_1879",
           "kind": "letter"
@@ -6757,6 +6842,11 @@
         {
           "noteFile": "To Miss Maria Whitney, August 2, 1882 (Dickinson).md",
           "srcBase": "L0332_Miss_Maria_Whitney_August_2_1882",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. C. H. Clark (Dickinson) (3).md",
+          "srcBase": "L0538_Mr_C_H_Clark",
           "kind": "letter"
         },
         {
@@ -6780,8 +6870,18 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (24).md",
+          "srcBase": "L0180_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, April, 1880 (Dickinson).md",
           "srcBase": "L0184_Mr_Samuel_Bowlers_and_Mrs_Bowles_April_1880",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (13).md",
+          "srcBase": "L0289_Mr_Thomas_Wentworth_Higginson",
           "kind": "letter"
         },
         {
@@ -6820,6 +6920,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (6).md",
+          "srcBase": "L0015_Mrs_A_P_Strong",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. A. P. Strong (Dickinson).md",
           "srcBase": "L0002_Mrs_A_P_Strong",
           "kind": "letter"
@@ -6835,6 +6940,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Henry Hills, February, 1879 (Dickinson) (2).md",
+          "srcBase": "L0447_Mrs_Henry_Hills_February_1879",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Jameson, 1880 (Dickinson).md",
           "srcBase": "L0465_Mrs_Jameson_1880",
           "kind": "letter"
@@ -6847,6 +6957,11 @@
         {
           "noteFile": "To Mrs. W. A. Stearns (Dickinson).md",
           "srcBase": "L0372_Mrs_W_A_Stearns",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To the Misses (Dickinson) (6).md",
+          "srcBase": "L0226_the_Misses",
           "kind": "letter"
         },
         {
@@ -6875,6 +6990,11 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To the Rev. J. L. Jenkins and Mrs. Jenkins (Dickinson) (2).md",
+          "srcBase": "L0368_the_Rev_J_L_Jenkins_and_Mrs_Jenkins",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To the Rev. Perez D. Cowan, October, 1880 (Dickinson).md",
           "srcBase": "L0310_the_Rev_Perez_D_Cowan_October_1880",
           "kind": "letter"
@@ -6883,96 +7003,6 @@
           "noteFile": "798. She staked her Feathers — Gained an Arc — (Dickinson).md",
           "srcBase": "0798_She_staked_her_Feathers_Gained_an_Arc",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0023_Mrs_A_P_Strong_Tuesday_Evening",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0072_Mr_William_Austin_Dickinson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0074_Mr_William_Austin_Dickinson_Saturday_Morn",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0271_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0273_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0274_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0284_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0289_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0297_Mr_Thomas_Wentworth_Higginson",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0317_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0318_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0319_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0330_Miss_Maria_Whitney_1882",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0331_Miss_Maria_Whitney_1882",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0333_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0447_Mrs_Henry_Hills_February_1879",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0528_Mrs_Todd",
-          "kind": "letter"
         }
       ]
     },
@@ -7041,6 +7071,16 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (13).md",
+          "srcBase": "L0129_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Miss Maria Whitney (Dickinson) (8).md",
+          "srcBase": "L0329_Miss_Maria_Whitney",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles, 'MARCHIONESS' (Dickinson).md",
           "srcBase": "L0147_Mr_Samuel_Bowlers_and_Mrs_Bowles_MARCHIONESS",
           "kind": "letter"
@@ -7103,11 +7143,6 @@
         {
           "noteFile": "To the Misses, Spring, 1861 (Dickinson).md",
           "srcBase": "L0195_the_Misses_Spring_1861",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0198_the_Misses",
           "kind": "letter"
         }
       ]
@@ -7327,6 +7362,26 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (11).md",
+          "srcBase": "L0124_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (25).md",
+          "srcBase": "L0185_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (6).md",
+          "srcBase": "L0144_Mr_Samuel_Bowlers_and_Mrs_Bowles",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (13).md",
+          "srcBase": "L0436_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. F.S. Cooper, 1883 (Dickinson).md",
           "srcBase": "L0439_Mrs_FS_Cooper_1883",
           "kind": "letter"
@@ -7390,31 +7445,6 @@
           "noteFile": "993. We miss Her, not because We see — (Dickinson).md",
           "srcBase": "0993_We_miss_Her_not_because_We_see",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0424_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0436_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0437_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0438_Mrs_FS_Cooper",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0440_Mrs_FS_Cooper",
-          "kind": "letter"
         }
       ]
     },
@@ -7634,6 +7664,16 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mr. William Austin Dickinson (Dickinson) (3).md",
+          "srcBase": "L0038_Mr_William_Austin_Dickinson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. A. P. Strong (Dickinson) (4).md",
+          "srcBase": "L0010_Mrs_A_P_Strong",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. A. P. Strong, AMHERST, Feb. 23, 1845 (Dickinson).md",
           "srcBase": "L0001_Mrs_A_P_Strong_AMHERST_Feb_23_1845",
           "kind": "letter"
@@ -7651,21 +7691,6 @@
         {
           "noteFile": "To Mrs. A. P. Strong, Thursday, Sept. 26, 1845 (Dickinson).md",
           "srcBase": "L0005_Mrs_A_P_Strong_Thursday_Sept_26_1845",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0008_Mrs_A_P_Strong",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0179_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0335_Miss_Maria_Whitney",
           "kind": "letter"
         }
       ]
@@ -7802,11 +7827,6 @@
         {
           "noteFile": "To the Misses, 1872 (Dickinson).md",
           "srcBase": "L0225_the_Misses_1872",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0226_the_Misses",
           "kind": "letter"
         }
       ]
@@ -8396,6 +8416,11 @@
           "kind": "poem"
         },
         {
+          "noteFile": "To Dr. J. G. Holland, and Mrs. Holland (Dickinson) (7).md",
+          "srcBase": "L0117_Dr_J_G_Holland_and_Mrs_Holland",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Dr. J. G. Holland, and Mrs. Holland, Saturday Eve (Dickinson).md",
           "srcBase": "L0107_Dr_J_G_Holland_and_Mrs_Holland_Saturday_Eve",
           "kind": "letter"
@@ -8403,6 +8428,11 @@
         {
           "noteFile": "To Miss Maria Whitney, August 19, 1885 (Dickinson).md",
           "srcBase": "L0337_Miss_Maria_Whitney_August_19_1885",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Samuel Bowlers and Mrs. Bowles (Dickinson) (4).md",
+          "srcBase": "L0141_Mr_Samuel_Bowlers_and_Mrs_Bowles",
           "kind": "letter"
         },
         {
@@ -8418,6 +8448,16 @@
         {
           "noteFile": "To Mr. Theodore Holland (Dickinson).md",
           "srcBase": "L0512_Mr_Theodore_Holland",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (14).md",
+          "srcBase": "L0297_Mr_Thomas_Wentworth_Higginson",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mr. Thomas Wentworth Higginson (Dickinson) (7).md",
+          "srcBase": "L0275_Mr_Thomas_Wentworth_Higginson",
           "kind": "letter"
         },
         {
@@ -8441,6 +8481,16 @@
           "kind": "letter"
         },
         {
+          "noteFile": "To Mrs. Edward Tuckerman, 1880 (Dickinson) (2).md",
+          "srcBase": "L0399_Mrs_Edward_Tuckerman_1880",
+          "kind": "letter"
+        },
+        {
+          "noteFile": "To Mrs. F.S. Cooper (Dickinson) (12).md",
+          "srcBase": "L0435_Mrs_FS_Cooper",
+          "kind": "letter"
+        },
+        {
           "noteFile": "To Mrs. Ford (Dickinson).md",
           "srcBase": "L0088_Mrs_Ford",
           "kind": "letter"
@@ -8458,56 +8508,6 @@
         {
           "noteFile": "To the Rev. Perez D. Cowan, October 26, 1870 (Dickinson).md",
           "srcBase": "L0306_the_Rev_Perez_D_Cowan_October_26_1870",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0041_Mr_William_Austin_Dickinson_Sunday_Evening",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0042_Mr_William_Austin_Dickinson_Sunday_Afternoon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0083_Mrs_Gordon_L_Ford_Mr_Bowdoin_Mrs_Anthon_and_Miss_Thursday_Morning",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0094_Mrs_Anthon",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0108_Dr_J_G_Holland_and_Mrs_Holland",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0175_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0176_Mr_Samuel_Bowlers_and_Mrs_Bowles",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0338_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0339_Miss_Maria_Whitney",
-          "kind": "letter"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0513_Mr_Theodore_Holland",
           "kind": "letter"
         }
       ]
@@ -8570,6 +8570,11 @@
           "noteFile": "754. My Life had stood — a Loaded Gun — (Dickinson).md",
           "srcBase": "0754_My_Life_had_stood_a_Loaded_Gun",
           "kind": "poem"
+        },
+        {
+          "noteFile": "To the Misses, 1881 (Dickinson) (2).md",
+          "srcBase": "L0253_the_Misses_1881",
+          "kind": "letter"
         },
         {
           "noteFile": "To the Misses, About May 30, 1863 (Dickinson).md",
@@ -8645,11 +8650,6 @@
           "noteFile": "1511. My country need not change her gown, (Dickinson).md",
           "srcBase": "1511_My_country_need_not_change_her_gown",
           "kind": "poem"
-        },
-        {
-          "noteFile": null,
-          "srcBase": "L0201_the_Misses",
-          "kind": "letter"
         }
       ]
     },
@@ -8856,5 +8856,5 @@
     }
   },
   "generatedAtoms": 1730,
-  "orphansFolded": 198
+  "orphansFolded": 0
 }
