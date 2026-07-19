@@ -9108,7 +9108,7 @@ Questo secondo capovolgimento della visione avviene di solito se o quando lo stu
 
 
 
-<span class="atom-split" data-atom="story_16_what_might_have_been" data-title="The Glass Walking Stick — What Might Have Been" data-chapter="What Might Have Been" data-kind="story" data-tags="concept/history,concept/critique_of_progress,concept/nationalism_and_patriotism,form/essay,histref/hundred_years_war,histref/the_french_revolution,setting/england,setting/france,character/napoleon,character/sir_thomas_more,character/st_joan_of_arc"></span>
+<span class="atom-split" data-atom="story_16_what_might_have_been" data-title="The Glass Walking Stick — What Might Have Been" data-chapter="What Might Have Been" data-kind="story" data-tags="concept/history,concept/critique_of_progress,concept/nationalism_and_patriotism,concept/alternate_history,form/essay,histref/hundred_years_war,histref/the_french_revolution,setting/england,setting/france,character/napoleon,character/sir_thomas_more,character/st_joan_of_arc"></span>
 
 
 WHAT MIGHT HAVE BEEN

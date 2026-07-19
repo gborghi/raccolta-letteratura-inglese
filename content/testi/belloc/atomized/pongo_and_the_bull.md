@@ -3069,7 +3069,7 @@ It was, as Dolly himself must have felt, an experiment, but it had thoroughly su
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Pongo and the Bull — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/socialism,concept/democracy,concept/power_and_corruption,concept/class_conflict,form/satire,form/novel,histref/irish_question"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Pongo and the Bull — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/socialism,concept/democracy,concept/power_and_corruption,concept/class_conflict,concept/party_politics,form/satire,form/novel,histref/irish_question"></span>
 
 
 Now she was enthroned as the leader of the whole political world; not because she was the Prime Minister’s wife — she had, with the rare and beautiful self-sacrifice of women, married him just before he had arranged with Pongo to go into Opposition — but because among the women who were relatives or wives of the chief politicians of the time she was so much the most intelligent.
@@ -3295,7 +3295,7 @@ As usual! — Pickles hadn’t come up to time!... Peggy cursed them gently and 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Pongo and the Bull — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/power_and_corruption,concept/antisemitism,concept/empire_and_imperialism,form/satire,form/novel"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Pongo and the Bull — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/power_and_corruption,concept/antisemitism,concept/empire_and_imperialism,concept/high_finance,form/satire,form/novel"></span>
 
 
 CHAPTER V

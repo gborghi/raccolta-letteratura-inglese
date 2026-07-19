@@ -4459,7 +4459,7 @@ Less obvious than the complete change in the Press, in its functions and charact
 
 
 
-<span class="atom-split" data-atom="part--part_76" data-title="The Cruise of the Nona (part 76)" data-chapter="part 76" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/democracy,concept/authority,concept/kingship_and_legitimacy,concept/justice,concept/tradition,form/essay"></span>
+<span class="atom-split" data-atom="part--part_76" data-title="The Cruise of the Nona (part 76)" data-chapter="part 76" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/democracy,concept/authority,concept/kingship_and_legitimacy,concept/justice,concept/tradition,concept/parliamentary_corruption,form/essay"></span>
 
 
 But for this evil there is more hope of remedy than there is for the evil of the Press. When any organ of government reaches a certain degree of decay, some other automatically takes its place, and if the substitution is made promptly enough, the State may bridge over the passage without disaster.

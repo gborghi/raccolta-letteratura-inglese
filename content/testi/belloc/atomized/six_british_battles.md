@@ -5126,7 +5126,7 @@ Now, Blanchetaque was an artificial ford. We know this because there is no marl 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_action--part_18" data-title="Six British Battles — Part 5: THE ACTION (part 18)" data-chapter="THE ACTION" data-kind="excerpt" data-tags="motif/river,motif/swords_and_weapons,concept/history,form/history,histref/hundred_years_war,setting/france,character/edward_iii"></span>
+<span class="atom-split" data-atom="chapter_09_the_action--part_18" data-title="Six British Battles — Part 5: THE ACTION (part 18)" data-chapter="THE ACTION" data-kind="excerpt" data-tags="motif/river,motif/swords_and_weapons,motif/the_ford,concept/history,form/history,histref/hundred_years_war,setting/france,character/edward_iii"></span>
 
 
 Again, the reclamation of the land has been carried out with a French thoroughness only too successful in destroying the contours of the old river bed. In the sketch map on I have indicated to the best of my ability the channel of the river at low tide as it appears to have been before reclamation began, but even this can barely be traced upon the levelled, heightened, and now fruitful pastures.
@@ -5458,7 +5458,7 @@ That battle proceeded upon a certain plan thought out in detail, perfectly simpl
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_01" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 1)" data-chapter="THE PLAN OF THE ALLIES" data-kind="excerpt" data-tags="motif/river,concept/history,form/history,histref/the_french_revolution,setting/france,setting/europe"></span>
+<span class="atom-split" data-atom="chapter_12_the_plan_of_the_allies--part_01" data-title="Six British Battles — Part 3: THE PLAN OF THE ALLIES (part 1)" data-chapter="THE PLAN OF THE ALLIES" data-kind="excerpt" data-tags="motif/river,concept/history,concept/military_strategy_generalship,form/history,histref/the_french_revolution,setting/france,setting/europe"></span>
 
 
 PART III. THE PLAN OF THE ALLIES
@@ -5602,7 +5602,7 @@ Evidence of this sort is absolutely conclusive. The plan was not Mack’s; it wa
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_preliminaries_of_the_battl" data-title="Six British Battles — Part 4: THE PRELIMINARIES OF THE BATTLE" data-chapter="THE PRELIMINARIES OF THE BATTL" data-kind="chapter" data-tags="motif/river,concept/history,concept/deception,form/history,histref/the_french_revolution,setting/france"></span>
+<span class="atom-split" data-atom="chapter_13_the_preliminaries_of_the_battl" data-title="Six British Battles — Part 4: THE PRELIMINARIES OF THE BATTLE" data-chapter="THE PRELIMINARIES OF THE BATTL" data-kind="chapter" data-tags="motif/river,concept/history,concept/deception,concept/surprise_in_war,form/history,histref/the_french_revolution,setting/france"></span>
 
 
 PART IV. THE PRELIMINARIES OF THE BATTLE
@@ -5862,7 +5862,7 @@ When day broke, though cavalry had been set forward at greater speed, the heads 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_action--part_06" data-title="Six British Battles — Part 6: THE ACTION (part 6)" data-chapter="THE ACTION" data-kind="excerpt" data-tags="motif/river,concept/history,concept/endurance,form/history,histref/the_french_revolution,setting/france"></span>
+<span class="atom-split" data-atom="chapter_15_the_action--part_06" data-title="Six British Battles — Part 6: THE ACTION (part 6)" data-chapter="THE ACTION" data-kind="excerpt" data-tags="motif/river,concept/history,concept/endurance,concept/logistics_and_supply,form/history,histref/the_french_revolution,setting/france"></span>
 
 
 Kinsky, thus tied to the broken Bridge of Bouvines until Pont-à-Marcq should be forced, saw mid-day come and pass, and still his force and that of the Arch-Duke upon his left were upon the wrong side of the stream.

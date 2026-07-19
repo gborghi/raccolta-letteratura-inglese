@@ -3097,7 +3097,7 @@ Here Mahmoud the great merchant, paused, shut his eyes for a few moments, and co
 
 
 
-<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_05" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 5)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt" data-tags="archetype/trickster,motif/river,concept/economics,concept/deception,concept/power_and_corruption,concept/capitalism,form/satire,setting/the_orient"></span>
+<span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_05" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 5)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt" data-tags="archetype/trickster,motif/river,concept/economics,concept/deception,concept/power_and_corruption,concept/capitalism,concept/free_trade,form/satire,setting/the_orient"></span>
 
 
 “People were also forbidden to swim the river between sunset and sunrise upon the grounds of security and police control, and between sunrise and sunset upon the grounds of decency.

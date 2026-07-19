@@ -707,7 +707,7 @@ Who wants to be a Don.
 
 
 
-<span class="atom-split" data-atom="story_09_the_camel" data-title="The Bad Child’s Book of Beasts — The Camel" data-chapter="The Camel" data-kind="story" data-tags="motif/animals,motif/desert,form/comic_verse_song"></span>
+<span class="atom-split" data-atom="story_09_the_camel" data-title="The Bad Child’s Book of Beasts — The Camel" data-chapter="The Camel" data-kind="story" data-tags="motif/animals,motif/desert,form/comic_verse_song,form/comic_bestiary"></span>
 
 
 The Camel

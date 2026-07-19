@@ -2939,7 +2939,7 @@ Mr. Clutterbuck must not be blamed for an anxiety common to every man of affairs
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/money_and_avarice,concept/greed_and_money,concept/power_and_corruption,concept/empire_and_imperialism,form/satire,histref/boer_war,histref/british_empire,setting/south_africa"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/money_and_avarice,concept/greed_and_money,concept/power_and_corruption,concept/empire_and_imperialism,form/satire,histref/boer_war,histref/british_empire,setting/south_africa,character/mr_clutterbuck"></span>
 
 
 That temper did not betray him. The Government, at the close of the war were more than just — they were bountiful to those who, in the expectation of a prolonged conflict, had accumulated stores for the army.
@@ -3241,7 +3241,7 @@ The converse is not true at all; our public men would accept or reject such an i
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/vanity,form/satire,setting/london"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/vanity,form/satire,setting/london,character/charlie_fitzgerald"></span>
 
 
 The varying codes of varying strata of society are the cause of endless misunderstandings; such a misunderstanding might have arisen now, but once again it was a woman that saved the jar. Mary Smith had unwittingly gone near to the line of offence, in the eyes of Mr. Clutterbuck at least, when she posted her well-meant card for July 2. Mrs. Clutterbuck had not only a wider social experience than her husband, but could also rely upon the instinctive psychology of her sex. She overruled at once, and very wisely, the petty objections of her husband to the form in which the acquaintance had been offered them, and returned, by the morning’s post in the third person and upon pink paper, an acceptance to the kindly summons.
@@ -4427,7 +4427,7 @@ Ozee, xvii. 8.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fanatic,concept/satire_of_society,concept/antisemitism,concept/fanaticism,form/satire,character/tolstoy,character/nietzsche"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fanatic,concept/satire_of_society,concept/antisemitism,concept/fanaticism,form/satire,character/tolstoy,character/nietzsche,character/william_bailey"></span>
 
 
 CHAPTER X
@@ -4647,7 +4647,7 @@ When he had been raised to the peerage as Lord Lambeth, a vigorous man of fifty 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/self_made_man,concept/satire_of_society,concept/empire_and_imperialism,concept/power_and_corruption,concept/money_and_avarice,form/satire,histref/british_empire"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/self_made_man,concept/satire_of_society,concept/empire_and_imperialism,concept/power_and_corruption,concept/money_and_avarice,form/satire,histref/british_empire,character/duke_of_battersea"></span>
 
 
 The newspapers, through which the great mass of our fellow citizens obtain their information, mentioned him not only continually, but with invariable deference, and often with admiration. His efforts in the House of Lords in favour of Bosnian freedom, and in the particular case of Macchabee Czernwitz, had proclaimed just that disinterested enthusiasm which we love to see applied by our great men to foreign affairs; while, nearer home, the Organ Grinders’ Bill, for which he was mainly responsible, was a piece of practical legislation which had obtained general recognition upon both sides of either House.

@@ -4155,7 +4155,7 @@ A ship of pure gold.
 
 
 
-<span class="atom-split" data-atom="story_12_courtesy" data-title="Verses — COURTESY" data-chapter="COURTESY" data-kind="story" data-tags="concept/grace_and_redemption,concept/faith,form/lyric,character/the_virgin_mary,character/gabriel,character/christ"></span>
+<span class="atom-split" data-atom="story_12_courtesy" data-title="Verses — COURTESY" data-chapter="COURTESY" data-kind="story" data-tags="concept/grace_and_redemption,concept/faith,concept/courtesy,form/lyric,character/the_virgin_mary,character/gabriel,character/christ"></span>
 
 
 COURTESY
@@ -5167,7 +5167,7 @@ I put my pleasure in a pint of ale.
 
 
 
-<span class="atom-split" data-atom="story_29_envoi" data-title="Verses — ENVOI" data-chapter="ENVOI" data-kind="story" data-tags="motif/wine_and_drink,motif/food_and_feasting,form/comic_verse_song"></span>
+<span class="atom-split" data-atom="story_29_envoi" data-title="Verses — ENVOI" data-chapter="ENVOI" data-kind="story" data-tags="motif/wine_and_drink,motif/food_and_feasting,form/comic_verse_song,form/envoi"></span>
 
 
 ENVOI

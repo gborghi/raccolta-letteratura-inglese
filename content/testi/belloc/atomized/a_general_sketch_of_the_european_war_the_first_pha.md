@@ -2864,7 +2864,7 @@ Far more important than this display was the opening on the evening of the same 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_first_operations--part_04" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 4)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/endurance,form/nonfiction,form/history,histref/first_world_war,setting/battlefield"></span>
+<span class="atom-split" data-atom="chapter_04_the_first_operations--part_04" data-title="A General Sketch of the European War, the First Phase — Part 3: THE FIRST OPERATIONS (part 4)" data-chapter="THE FIRST OPERATIONS" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/endurance,concept/military_strategy,form/nonfiction,form/history,histref/first_world_war,setting/battlefield"></span>
 
 
 Once Namur was entered, the reduction of the forts was not of immediate importance, though it was immediately and successfully achieved. For the German business was not here, as at Liége, to grasp a railway within the zone of the fortifications, but to destroy the buttress upon which the French depended for their defensive position, and to prevent the French from holding the crossings over the two rivers Sambre and Meuse at their junction.

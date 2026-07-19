@@ -2656,7 +2656,7 @@ McGinty clapped them both on the shoulders. “Tut! These girls! These girls!”
 
 
 
-<span class="atom-split" data-atom="chapter_10_lodge_341_vermissa" data-title="THE VALLEY OF FEAR — Chapter 3: Lodge 341, Vermissa" data-chapter="Lodge 341 Vermissa" data-kind="chapter" data-tags="motif/secrets,motif/money_gold,concept/crime_and_punishment,concept/secrecy_and_concealment,form/detective_fiction,setting/america,setting/industrial_city,character/bill_scanlan"></span>
+<span class="atom-split" data-atom="chapter_10_lodge_341_vermissa" data-title="THE VALLEY OF FEAR — Chapter 3: Lodge 341, Vermissa" data-chapter="Lodge 341 Vermissa" data-kind="chapter" data-tags="motif/secrets,motif/money_gold,motif/counterfeiting,concept/crime_and_punishment,concept/secrecy_and_concealment,form/detective_fiction,setting/america,setting/industrial_city,character/bill_scanlan"></span>
 
 
 CHAPTER 3 — Lodge 341, Vermissa

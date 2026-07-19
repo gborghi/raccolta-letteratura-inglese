@@ -1607,7 +1607,7 @@ Still, it may be of interest to compare the length of lines thus drawn apparentl
 
 
 
-<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_02" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 2)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt" data-tags="motif/the_castle,motif/swords_weapons,concept/war_and_its_cost,form/essay,histref/first_world_war,histref/oliver_cromwell"></span>
+<span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_02" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 2)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt" data-tags="motif/the_castle,motif/swords_weapons,motif/siege_fortification,concept/war_and_its_cost,form/essay,histref/first_world_war,histref/oliver_cromwell"></span>
 
 
 Another novel feature in which this war differs even from the Balkan War is the new value which has been given to howitzer fire, and in particular to its domination over permanent fortification. This is perhaps the most important of all the changes which this war has introduced into military art and it is worth while understanding it clearly. Its main principles are simple enough.
@@ -1711,7 +1711,7 @@ Another unexpected thing in which this war has warranted the old conception of a
 
 
 
-<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_01" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 1)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt" data-tags="concept/deception,concept/truth,concept/war_and_its_cost,concept/authority,form/essay,histref/first_world_war,setting/london"></span>
+<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_01" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 1)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt" data-tags="concept/deception,concept/truth,concept/war_and_its_cost,concept/authority,concept/censorship,form/essay,histref/first_world_war,setting/london"></span>
 
 
 WHAT TO BELIEVE IN WAR NEWS

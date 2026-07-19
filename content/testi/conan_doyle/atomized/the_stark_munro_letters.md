@@ -1463,7 +1463,7 @@ Goodbye, old chap. My foot is upon the threshold of fortune. Congratulate me.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="THE STARK MUNRO LETTERS (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/letters_writing,concept/ambition,concept/friendship,concept/self_made_man_theme,form/epistolary_diary_novel,character/james_cullingworth,character/stark_munro"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="THE STARK MUNRO LETTERS (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/letters_writing,concept/ambition,concept/friendship,concept/self_made_man_theme,concept/medicine,form/epistolary_diary_novel,character/james_cullingworth,character/stark_munro"></span>
 
 
 VI. THE PARADE, BRADFIELD, 7th March, 1882.

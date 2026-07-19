@@ -3090,7 +3090,7 @@ Lowenstein! The name brought back to me the memory of some snippet from a newspa
 
 
 
-<span class="atom-split" data-atom="story_04_adventure_iv_the_adventure_of_the_sussex" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE IV. THE ADVENTURE OF THE SUSSEX VAMPIRE" data-chapter="ADVENTURE IV THE ADVENTURE OF THE SUSSEX" data-kind="story" data-tags="archetype/detective,motif/eyes_and_sight,motif/supernatural,concept/ratiocination_detection,concept/crime_and_punishment,concept/superstition_and_omen,form/detective_fiction,form/short_story,setting/london,character/sherlock_holmes,character/doctor_watson"></span>
+<span class="atom-split" data-atom="story_04_adventure_iv_the_adventure_of_the_sussex" data-title="THE CASE-BOOK OF SHERLOCK HOLMES — ADVENTURE IV. THE ADVENTURE OF THE SUSSEX VAMPIRE" data-chapter="ADVENTURE IV THE ADVENTURE OF THE SUSSEX" data-kind="story" data-tags="archetype/detective,motif/eyes_and_sight,motif/supernatural,motif/vampirism,concept/ratiocination_detection,concept/crime_and_punishment,concept/superstition_and_omen,form/detective_fiction,form/short_story,setting/london,character/sherlock_holmes,character/doctor_watson"></span>
 
 
 ADVENTURE IV. THE ADVENTURE OF THE SUSSEX VAMPIRE

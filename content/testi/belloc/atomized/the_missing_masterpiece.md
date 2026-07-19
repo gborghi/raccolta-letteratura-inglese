@@ -3065,7 +3065,7 @@ The older man and the younger man stood before the Masterpiece of which the elde
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Missing Masterpiece — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/value_and_scarcity,concept/satire_of_society,form/satire,setting/rural_england"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Missing Masterpiece — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/value_and_scarcity,concept/satire_of_society,concept/the_art_market,form/satire,setting/rural_england"></span>
 
 
 “Bourrots will always be worth something,” said Sir Henry carefully. “But it’s only right I should tell you that they are falling in value. Bourrot is still a young man, and he turns out a prodigious amount.”

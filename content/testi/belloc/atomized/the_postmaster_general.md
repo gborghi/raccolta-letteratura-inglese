@@ -4519,7 +4519,7 @@ Now these funds cannot be allowed to lie idle. They must, like other money, earn
 
 
 
-<span class="atom-split" data-atom="part--part_44" data-title="The Postmaster General (part 44)" data-chapter="part 44" data-kind="excerpt" data-tags="motif/money_gold,motif/secrets,concept/power_and_corruption,concept/greed_and_money,concept/satire_of_society,concept/hypocrisy,form/satire,form/novel,setting/london"></span>
+<span class="atom-split" data-atom="part--part_44" data-title="The Postmaster General (part 44)" data-chapter="part 44" data-kind="excerpt" data-tags="motif/money_gold,motif/secrets,concept/power_and_corruption,concept/greed_and_money,concept/satire_of_society,concept/hypocrisy,concept/market_manipulation,form/satire,form/novel,setting/london"></span>
 
 
 They are sometimes very large; in fact, Longpenny House in Longpenny Square was built out of but a fraction of one such fund — which is some indication of their scale.

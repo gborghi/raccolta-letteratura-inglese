@@ -16295,7 +16295,7 @@ La sala da pranzo era marinaresca come la cabina di una nave; ma la sua nota era
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_05" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 5)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/sea_and_voyage,concept/superstition_and_omen,concept/fate_and_free_will,concept/doubt,form/detective_fiction,character/father_brown,character/flambeau"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_05" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 5)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/sea_and_voyage,concept/superstition_and_omen,concept/fate_and_free_will,concept/doubt,concept/atheism,form/detective_fiction,character/father_brown,character/flambeau"></span>
 
 
 "I don't believe in anything," answered Pendragon very briskly,

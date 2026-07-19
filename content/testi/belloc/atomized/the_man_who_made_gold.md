@@ -2571,7 +2571,7 @@ The unfortunate reader — unless he has been so foolish as to skip the Prologue
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Man Who Made Gold — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/letters_writing,concept/education,concept/reason_and_rationalism,concept/superstition_and_omen,form/satire,form/science_fiction"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Man Who Made Gold — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/letters_writing,concept/education,concept/reason_and_rationalism,concept/superstition_and_omen,concept/alchemy,form/satire,form/science_fiction"></span>
 
 
 He was a man typical of his profession and a good hand at his trade : atheist, industrious, clearheaded, very conscientious about his work, trying hard to keep up the standard of his pupils and to give St. Olaf’s the same name in his own branch of Science as it had already gained in Classics and Philosophy, Sophistry, and History.
@@ -2609,7 +2609,7 @@ This was too much! The Reader in Electrochemistry to the University set his teet
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Man Who Made Gold — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fanatic,motif/fire,motif/prayer,concept/the_supernatural,concept/superstition_and_omen,form/satire,form/science_fiction"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Man Who Made Gold — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fanatic,motif/fire,motif/prayer,concept/the_supernatural,concept/superstition_and_omen,concept/drug_addiction,form/satire,form/science_fiction"></span>
 
 
 CHAPTER II
@@ -2823,7 +2823,7 @@ While the lead was melting he fetched Bolter’s strange gift from the drawer in
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Man Who Made Gold — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,motif/fire,motif/death,concept/reason_and_rationalism,concept/secrecy_and_concealment,form/satire,form/science_fiction"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Man Who Made Gold — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,motif/fire,motif/death,motif/transmutation_of_metals,concept/reason_and_rationalism,concept/secrecy_and_concealment,form/satire,form/science_fiction"></span>
 
 
 The metal continued to move, unchanged, save in its passage from the solid to the liquid. It was but molten lead after all. Secretly Lexington felt a sort of relief. He was still in the familiar world, and that silly business in Brecon Street had been a cheat and a folly. He already blamed himself for having allowed himself to be impressed.

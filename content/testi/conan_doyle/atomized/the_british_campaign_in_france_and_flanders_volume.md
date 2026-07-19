@@ -4760,7 +4760,7 @@ EIGHTH DIVISION — GENERAL DAVIES.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 12)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/winter,motif/frost,concept/war_and_its_cost,concept/endurance,concept/nationalism_and_patriotism,form/history,histref/first_world_war,setting/the_battlefield"></span>
+<span class="atom-split" data-atom="chapter_07--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 12)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/winter,motif/frost,motif/trench_warfare,concept/war_and_its_cost,concept/endurance,concept/nationalism_and_patriotism,form/history,histref/first_world_war,setting/the_battlefield"></span>
 
 
 23rd Infantry Brigade. — General Penny.
@@ -5163,7 +5163,7 @@ Such, in a condensed form, was the record of the second Battle of Ypres, which f
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,motif/death,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/self_sacrifice,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,motif/death,motif/barbed_wire,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/self_sacrifice,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 V. THE BATTLE OF RICHEBOURG FESTUBERT
@@ -5588,7 +5588,7 @@ When one considers the enormous scale of the action, the desperate valour of the
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/life_as_a_battle,motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/life_as_a_battle,motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/trench_warfare,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 V. THE BATTLE OF THE SOMME
@@ -6241,7 +6241,7 @@ This month of July was signalised by the last efforts of the Russian Army so lon
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france,character/duke_of_wellington"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france,setting/flanders_belgium,character/duke_of_wellington"></span>
 
 
 VI. THE THIRD BATTLE OF YPRES

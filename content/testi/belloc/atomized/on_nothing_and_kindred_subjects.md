@@ -3219,7 +3219,7 @@ Of the many strange men I have met in my travels he was one of the most strange 
 
 
 
-<span class="atom-split" data-atom="story_27_of_an_unknown_country" data-title="On Nothing and Kindred Subjects — OF AN UNKNOWN COUNTRY" data-chapter="OF AN UNKNOWN COUNTRY" data-kind="story" data-tags="motif/the_book,concept/longing,concept/the_unattainable,concept/imagination,concept/aspiration,form/essay"></span>
+<span class="atom-split" data-atom="story_27_of_an_unknown_country" data-title="On Nothing and Kindred Subjects — OF AN UNKNOWN COUNTRY" data-chapter="OF AN UNKNOWN COUNTRY" data-kind="story" data-tags="topos/the_unknown_country,motif/the_book,concept/longing,concept/the_unattainable,concept/imagination,concept/aspiration,form/essay"></span>
 
 
 OF AN UNKNOWN COUNTRY
@@ -3421,7 +3421,7 @@ When I had got aboard again the ship sailed out and rounded a lighthouse point a
 
 
 
-<span class="atom-split" data-atom="story_30_on_a_young_man_and_an_older_man" data-title="On Nothing and Kindred Subjects — ON A YOUNG MAN AND AN OLDER MAN" data-chapter="ON A YOUNG MAN AND AN OLDER MAN" data-kind="story" data-tags="concept/maturation_and_growth,concept/transience,concept/disillusionment,concept/melancholy,form/essay"></span>
+<span class="atom-split" data-atom="story_30_on_a_young_man_and_an_older_man" data-title="On Nothing and Kindred Subjects — ON A YOUNG MAN AND AN OLDER MAN" data-chapter="ON A YOUNG MAN AND AN OLDER MAN" data-kind="story" data-tags="concept/maturation_and_growth,concept/transience,concept/disillusionment,concept/melancholy,concept/old_age,form/essay"></span>
 
 
 ON A YOUNG MAN AND AN OLDER MAN

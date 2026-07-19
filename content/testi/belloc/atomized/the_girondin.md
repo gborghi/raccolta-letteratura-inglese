@@ -5021,7 +5021,7 @@ He was very greatly fatigued, he had done more than a man should do in every way
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Girondin — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/lover,motif/secrets,motif/night,motif/dawn,motif/concealment_hidden_identity,concept/love_romantic,concept/secrecy_and_concealment,form/historical_novel,setting/pastoral_countryside"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Girondin — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/lover,motif/secrets,motif/night,motif/dawn,motif/concealment_hidden_identity,concept/love_romantic,concept/secrecy_and_concealment,form/historical_novel,setting/pastoral_countryside,character/joyeuse"></span>
 
 
 CHAPTER IX.
@@ -7159,7 +7159,7 @@ It seemed in the small hours to more than one of the men as though something wou
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Girondin — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/rain,motif/fog_and_smoke,motif/dawn,motif/death,motif/horse,concept/war_and_its_cost,form/historical_novel,histref/the_french_revolution,setting/battlefield"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Girondin — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/rain,motif/fog_and_smoke,motif/dawn,motif/death,motif/horse,concept/war_and_its_cost,form/historical_novel,histref/the_french_revolution,histref/battle_of_valmy,setting/battlefield"></span>
 
 
 CHAPTER XXI
@@ -7237,7 +7237,7 @@ It was ten o’clock when the halt came. Till noon there was no further movement
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Girondin — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fog_and_smoke,motif/horse,concept/war_and_its_cost,concept/fear,form/historical_novel,histref/the_french_revolution,setting/battlefield"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Girondin — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fog_and_smoke,motif/horse,concept/war_and_its_cost,concept/fear,form/historical_novel,histref/the_french_revolution,setting/battlefield,character/kellermann"></span>
 
 
 Boutroux and his troop were holding their mounts to the leeward of a great windmill which stood up, sheltering them somewhat from the weather; into the depth of that weather the ill-formed thousands of the army extended, all at haphazard. Beside the mill and along the crest before it were drawn up the foot in every form. Boutroux, from behind his shelter of the mill, saw with a complete indifference battery after battery, six batteries in all, get slowly through the press, and have a way made for them to positions on the ridge of the hill.
@@ -7411,7 +7411,7 @@ Less conscious than a man in a drunken sleep, he knew that they were moving him,
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="The Girondin — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="motif/pain,motif/death,motif/dreams,concept/death,concept/suffering_and_pain,concept/love_romantic,concept/faith,concept/war_and_its_cost,form/historical_novel,histref/the_french_revolution,setting/france"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="The Girondin — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="motif/pain,motif/death,motif/dreams,concept/death,concept/suffering_and_pain,concept/love_romantic,concept/faith,concept/war_and_its_cost,form/historical_novel,histref/the_french_revolution,setting/france,character/boutroux"></span>
 
 
 CHAPTER XXIII.

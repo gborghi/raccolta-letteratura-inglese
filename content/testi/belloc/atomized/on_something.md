@@ -2889,7 +2889,7 @@ He ends his book in a phrase from which I think not a word could be taken nor to
 
 
 
-<span class="atom-split" data-atom="story_15_the_odd_people--part_01" data-title="On Something — THE ODD PEOPLE (part 1)" data-chapter="THE ODD PEOPLE" data-kind="excerpt" data-tags="topos/world_upside_down,motif/prison,concept/satire_of_society,concept/class_conflict,concept/justice,concept/crime_and_punishment,concept/social_injustice,form/satire"></span>
+<span class="atom-split" data-atom="story_15_the_odd_people--part_01" data-title="On Something — THE ODD PEOPLE (part 1)" data-chapter="THE ODD PEOPLE" data-kind="excerpt" data-tags="topos/world_upside_down,motif/prison,concept/satire_of_society,concept/class_conflict,concept/justice,concept/crime_and_punishment,concept/social_injustice,form/satire,form/utopian_satire"></span>
 
 
 THE ODD PEOPLE

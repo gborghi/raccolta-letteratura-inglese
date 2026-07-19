@@ -5669,7 +5669,7 @@ She was of a very different sort from that good tribe of the Moselle valley beyo
 
 
 
-<span class="atom-split" data-atom="story_106_the_single_beverage" data-title="The Path to Rome — The Single Beverage" data-chapter="The Single Beverage" data-kind="story" data-tags="motif/food_and_feasting,concept/wit,concept/solitude,concept/literary_criticism,concept/the_power_of_language,form/travel_writing"></span>
+<span class="atom-split" data-atom="story_106_the_single_beverage" data-title="The Path to Rome — The Single Beverage" data-chapter="The Single Beverage" data-kind="story" data-tags="motif/food_and_feasting,concept/wit,concept/solitude,concept/literary_criticism,concept/the_power_of_language,concept/digression,form/travel_writing"></span>
 
 
 THE SINGLE BEVERAGE
@@ -7145,7 +7145,7 @@ I scrambled down the mountain, for here, on the south side of the pass, there wa
 
 
 
-<span class="atom-split" data-atom="story_171_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="The Second Good Woman" data-kind="story" data-tags="motif/inn_tavern,motif/road,motif/eyes_and_sight,motif/river,concept/virtue,form/travel_writing"></span>
+<span class="atom-split" data-atom="story_171_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="The Second Good Woman" data-kind="story" data-tags="motif/inn_tavern,motif/road,motif/eyes_and_sight,motif/river,concept/virtue,concept/hospitality,form/travel_writing"></span>
 
 
 THE SECOND GOOD WOMAN

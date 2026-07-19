@@ -1372,10 +1372,43 @@ async function main() {
     const key = rec.readHref || rec.href
     if (key) workClustersByHref.set(key, rec.clusters || [])
   }
+  // Fallback join by (author, normalized title) for works whose workDir got
+  // truncated at ~70 chars on disk (see publishUnits): the truncation breaks
+  // BOTH rawSourceToWork's lookup (so parentWorkHref never resolves) AND
+  // workSlug registration in readHrefByWork, so rec.readHref stays "" and the
+  // href-keyed map above misses. The leaf row's `parentWork` label is derived
+  // from the same truncated workDir, so it's a truncated PREFIX of the work
+  // note's real title, not an exact match — compare via normWorkKey (strips
+  // punctuation/case/articles) and match if either normalized string is a
+  // prefix of the other. Also compare a SQUASHED (spaces removed) form: the
+  // on-disk workDir strips apostrophes bare ("Wells's" -> "Wellss") while
+  // normWorkKey turns them into a space ("wells s") — squashing sidesteps
+  // that tokenization mismatch. Scoped per-author to avoid cross-author
+  // collisions. Titles with no matching work note at all (no KG "work" note
+  // was ever created for that atom's parent) legitimately stay clusterless —
+  // there is nothing to inherit.
+  const squash = (s) => s.replace(/\s+/g, "")
+  const worksByAuthorNorm = new Map()
+  for (const rec of works) {
+    if (rec._drop || !rec.title) continue
+    const norm = normWorkKey(rec.title)
+    if (!norm) continue
+    if (!worksByAuthorNorm.has(rec.author)) worksByAuthorNorm.set(rec.author, [])
+    worksByAuthorNorm.get(rec.author).push({ normTitle: norm, sq: squash(norm), clusters: rec.clusters || [] })
+  }
   for (const row of leafFragRows) {
     if (row.clusters && row.clusters.length) continue // sonnets: keep their own
     const parentWorkHref = row.href.split("#")[0]
     row.clusters = workClustersByHref.get(parentWorkHref) || []
+    if (!row.clusters.length && row.parentWork) {
+      const norm = normWorkKey(row.parentWork)
+      const sq = squash(norm)
+      const candidates = worksByAuthorNorm.get(row.author) || []
+      const hit = norm && candidates.find(
+        (c) => c.normTitle.startsWith(norm) || norm.startsWith(c.normTitle) ||
+          c.sq.startsWith(sq) || sq.startsWith(c.sq))
+      if (hit) row.clusters = hit.clusters
+    }
   }
   // index.json stays works-only (fast for /opere and every page that loads it up
   // front); the ~15k leaf rows go to index_leaf.json, lazy-loaded only by consumers

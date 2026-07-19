@@ -1809,7 +1809,7 @@ With these words he begged me to leave him.
 
 
 
-<span class="atom-split" data-atom="story_02_on_clay" data-title="On Anything — ON CLAY" data-chapter="ON CLAY" data-kind="story" data-tags="concept/nature,concept/wonder,concept/cult_of_simplicity,concept/paradox,form/essay,setting/london,setting/england,character/aristotle"></span>
+<span class="atom-split" data-atom="story_02_on_clay" data-title="On Anything — ON CLAY" data-chapter="ON CLAY" data-kind="story" data-tags="motif/clay,concept/nature,concept/wonder,concept/cult_of_simplicity,concept/paradox,form/essay,setting/london,setting/england,character/aristotle"></span>
 
 
 ON CLAY
@@ -1863,7 +1863,7 @@ I can indeed consider no active occupation for a man in which No Book is not a t
 
 
 
-<span class="atom-split" data-atom="story_04_on_irony" data-title="On Anything — ON IRONY" data-chapter="ON IRONY" data-kind="story" data-tags="motif/swords_weapons,concept/truth,concept/justice,concept/wit,concept/satire_of_society,form/essay,form/satire"></span>
+<span class="atom-split" data-atom="story_04_on_irony" data-title="On Anything — ON IRONY" data-chapter="ON IRONY" data-kind="story" data-tags="motif/swords_weapons,concept/truth,concept/justice,concept/wit,concept/satire_of_society,concept/irony,form/essay,form/satire"></span>
 
 
 ON IRONY

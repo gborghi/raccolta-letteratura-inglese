@@ -3637,7 +3637,7 @@ Thus, thus was Mr Burden decided. I that write this love my country, but I loved
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/fame_and_publicity,form/satire,histref/british_empire,setting/london"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/fame_and_publicity,form/satire,histref/british_empire,setting/london,character/emmanuel_burden,character/mr_barnett"></span>
 
 
 CHAPTER VII
@@ -3673,7 +3673,7 @@ Such was Mr Barnett during these rare flashes which his friends already knew, an
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,concept/family,form/satire,histref/british_empire,setting/london"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,concept/family,form/satire,histref/british_empire,setting/london,character/cosmo_burden"></span>
 
 
 Such was the smile which illuminated the very man from within, irradiated his genius and his vision, fascinated for a moment — and was gone.
@@ -3791,7 +3791,7 @@ There were, it is true, upon the walls, reproductions of eighteenth century engr
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,form/satire,histref/british_empire,setting/london"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,form/satire,histref/british_empire,setting/london,character/lord_benthorpe"></span>
 
 
 He stood in the midst of the hall, as might some sea-faring man who had sailed and found a people most unlike his own. He stood and waited. Then the stronger mood returned to him, and he forgot these things; for Lord Benthorpe, Mr Barnett and Mr Harbury had come into the room together. He went forward to meet them.
@@ -4059,7 +4059,7 @@ As for his judgment upon any of the great complexities of modern life, no worse 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/conscience,concept/friendship,form/satire,histref/british_empire,setting/london"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/conscience,concept/friendship,form/satire,histref/british_empire,setting/london,character/mr_abbott"></span>
 
 
 It will not surprise my readers to be told that Mr Abbott’s greeting was emphatic and commonplace, full of “eh’s?” and “Lord love me’s,” and “all this long time’s”; but there lay in it a kind of hint that Mr Abbott knew well enough the cause which had so prolonged that interval.

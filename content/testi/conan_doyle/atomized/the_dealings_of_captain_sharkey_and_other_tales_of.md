@@ -1300,7 +1300,7 @@ CRABBE’S PRACTICE
 
 
 
-<span class="atom-split" data-atom="story_01_tales_of_pirates" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — TALES OF PIRATES" data-chapter="TALES OF PIRATES" data-kind="story" data-tags="archetype/villain,motif/the_sea,motif/ship,motif/flag,form/short_story,form/adventure_fiction,setting/the_sea,character/captain_sharkey"></span>
+<span class="atom-split" data-atom="story_01_tales_of_pirates" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — TALES OF PIRATES" data-chapter="TALES OF PIRATES" data-kind="story" data-tags="archetype/villain,motif/the_sea,motif/ship,motif/flag,motif/piracy,form/short_story,form/adventure_fiction,setting/the_sea,character/captain_sharkey"></span>
 
 
 TALES OF PIRATES
@@ -2257,7 +2257,7 @@ I thought of the stories which I had heard all down the coast of the monstrous c
 
 
 
-<span class="atom-split" data-atom="story_10_jellands_voyage" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — JELLAND’S VOYAGE" data-chapter="JELLANDS VOYAGE" data-kind="story" data-tags="motif/the_sea,concept/money_and_avarice,form/short_story,form/adventure_fiction,setting/the_orient"></span>
+<span class="atom-split" data-atom="story_10_jellands_voyage" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — JELLAND’S VOYAGE" data-chapter="JELLANDS VOYAGE" data-kind="story" data-tags="motif/the_sea,concept/money_and_avarice,concept/gambling,form/short_story,form/adventure_fiction,setting/the_orient"></span>
 
 
 JELLAND’S VOYAGE
@@ -2331,7 +2331,7 @@ JELLAND’S VOYAGE
 
 
 
-<span class="atom-split" data-atom="story_11_j_habakuk_jephsons_statement" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — J. HABAKUK JEPHSON’S STATEMENT" data-chapter="J HABAKUK JEPHSONS STATEMENT" data-kind="story" data-tags="motif/the_sea,motif/ship,motif/secrets,form/short_story,setting/the_sea"></span>
+<span class="atom-split" data-atom="story_11_j_habakuk_jephsons_statement" data-title="THE DEALINGS OF CAPTAIN SHARKEY AND OTHER TALES OF PIRATES — J. HABAKUK JEPHSON’S STATEMENT" data-chapter="J HABAKUK JEPHSONS STATEMENT" data-kind="story" data-tags="motif/the_sea,motif/ship,motif/secrets,motif/shipwreck_derelict,form/short_story,setting/the_sea"></span>
 
 
 J. HABAKUK JEPHSON’S STATEMENT

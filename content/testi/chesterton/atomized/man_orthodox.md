@@ -10269,7 +10269,7 @@ Daily News, 24 agosto 1907
 
 
 
-<span class="atom-split" data-atom="story_86_the_iconoclast" data-title="Man Orthodox — The Iconoclast" data-chapter="The Iconoclast" data-kind="story" data-tags="form/aphorism,form/epigram"></span>
+<span class="atom-split" data-atom="story_86_the_iconoclast" data-title="Man Orthodox — The Iconoclast" data-chapter="The Iconoclast" data-kind="story" data-tags="concept/iconoclasm,form/aphorism,form/epigram"></span>
 
 
 THE ICONOCLAST

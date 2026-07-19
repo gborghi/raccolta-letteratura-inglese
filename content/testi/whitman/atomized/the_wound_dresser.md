@@ -4753,7 +4753,7 @@ of Grass" (1860 Edition).
 
 
 
-<span class="atom-split" data-atom="story_01_story_edifices_sometimes_ranged_along_in" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — story edifices, sometimes ranged along in a row, with their heads to" data-chapter="story edifices sometimes ranged along in" data-kind="story" data-tags="motif/death,concept/suffering_and_pain,concept/death,concept/sympathy,form/nonfiction,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
+<span class="atom-split" data-atom="story_01_story_edifices_sometimes_ranged_along_in" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — story edifices, sometimes ranged along in a row, with their heads to" data-chapter="story edifices sometimes ranged along in" data-kind="story" data-tags="motif/death,concept/suffering_and_pain,concept/death,concept/sympathy,form/nonfiction,histref/american_civil_war,setting/washington_dc,setting/military_hospital,character/walt_whitman"></span>
 
 
 one-story edifices, sometimes ranged along in a row, with their heads to
@@ -7643,7 +7643,7 @@ all, and tell Andrew he must not be discouraged yet.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 3)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/friendship,concept/comradeship,concept/charity,concept/death,concept/suffering,concept/sympathy,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/abraham_lincoln"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 3)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/friendship,concept/comradeship,concept/charity,concept/death,concept/suffering,concept/sympathy,concept/nursing_and_care,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/abraham_lincoln"></span>
 
 
 WALT.

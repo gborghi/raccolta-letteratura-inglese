@@ -3533,7 +3533,7 @@ Never was Europe less conscious of herself, never did she more freely admit the 
 
 
 
-<span class="atom-split" data-atom="story_32_the_human_charlatan" data-title="This and That and the Other — THE HUMAN CHARLATAN" data-chapter="THE HUMAN CHARLATAN" data-kind="story" data-tags="archetype/trickster,concept/deception,concept/hypocrisy,form/essay"></span>
+<span class="atom-split" data-atom="story_32_the_human_charlatan" data-title="This and That and the Other — THE HUMAN CHARLATAN" data-chapter="THE HUMAN CHARLATAN" data-kind="story" data-tags="archetype/trickster,concept/deception,concept/hypocrisy,concept/charlatanism,form/essay"></span>
 
 
 XXXI THE HUMAN CHARLATAN
