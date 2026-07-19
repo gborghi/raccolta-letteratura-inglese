@@ -668,567 +668,340 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_1--01_exchange_dialogue" data-title="Edward III — Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="scenes--scene_1" data-title="Edward III — Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[King]] Edward, the Earl of Derby, the [[Earl of Warwick]], Edward Prince of Wales, Lord Audley and the Comte d’Artois |
-| [[King\|KING]] EDWARD | Robert of Artois, banished though thou be From France thy native country, yet with us Thou shalt retain as great a seigniory: For we create thee [[Earl of Richmond]] here. And now go forwards with our pedigree: Who next succeeded [[King]] Philippe of Beau? |
-| COMTE D’ARTOIS | Three sons of his, which all successively Did sit upon their father’s regal throne, Yet died and left no issue of their loins. |
+| [[King\|KING]] EDWARD | Robert of Artois, banished though thou be<br>From France thy native country, yet with us<br>Thou shalt retain as great a seigniory:<br>For we create thee [[Earl of Richmond]] here.<br>And now go forwards with our pedigree:<br>Who next succeeded [[King]] Philippe of Beau? |
+| COMTE D’ARTOIS | Three sons of his, which all successively<br>Did sit upon their father’s regal throne,<br>Yet died and left no issue of their loins. |
 | [[King\|KING]] EDWARD | But was my mother sister unto those? |
-| COMTE D’ARTOIS | She was, my lord, and only Isabel Was all the daughters that this Philippe had, Whom afterward your father took to wife. And from the fragrant [[Garden\|garden]] of her womb Your gracious [[Self\|self]], the flower of Europe’s [[Hope\|hope]], Derived is inheritor to France. But note the rancour of rebellious minds: When thus the lineage of Beau was out The French obscured your mother’s privilege And, though she were the next of [[Blood\|blood]], proclaimed Jean of the [[house]] of Valois now their [[King\|king]]. The reason was, they say, the realm of France Replete with princes of great parentage Ought not admit a governor to rule Except he be descended of the male. And that’s the special ground of their contempt Wherewith they study to exclude your grace. |
-| [[King\|KING]] EDWARD | But they shall find that forged ground of theirs To be but dusty heaps of brittle sand. |
-| COMTE D’ARTOIS | Perhaps it will be thought a heinous thing That I, a Frenchman, should discover this. But heaven I call to record of my vows: It is not hate nor any private wrong, But [[Love\|love]] unto my country and the right Provokes my tongue thus lavish in report. You are the lineal watchman of our peace, And Jean of Valois indirectly climbs. What then should subjects but embrace their [[King\|king]]? Ah, wherein may our duty more be seen Than striving to rebate a [[Tyrant\|tyrant]]’s [[Pride\|pride]] And place thee, the true shepherd of our commonwealth? |
-| [[King\|KING]] EDWARD | This counsel, Artois, like to fruitful showers, Hath added growth unto my dignity, And by the fiery vigour of thy words Hot [[Courage\|courage]] is engendered in my breast, Which heretofore was raked in ignorance But now doth mount with golden wings of fame And will approve fair Isabel’s descent, Able to yoke their stubborn necks with steel That spurn against my sovereignty in France. Sound a horn A messenger. Lord Audley, know from whence. Enter a messenger, the Duc de Lorraine |
-| AUDLEY | The Duke of Lorraine, having crossed the seas, Entreats he may have conference with your highness. |
-| [[King\|KING]] EDWARD | Admit him, lords, that we may hear the news. (To Lorraine) Say, Duke of Lorraine, wherefore art thou come? 55 |
-| DUC DE LORRAINE | The most renowned prince, [[King]] Jean of France, Doth greet thee, Edward, and by me commands That, forsomuch as by his liberal gift The Guienne dukedom is entailed to thee, Thou do him lowly homage for the same. And for that purpose, here I summon thee Repair to France within these forty days That there, according as the custom is, Thou mayst be sworn true liegeman to our [[King\|king]]; Or else thy title in that province dies And he himself will repossess the place. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_1--02_exchange_king_edward" data-title="Edward III — Scene 1 — exchange (KING EDWARD) [2]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | See how occasion laughs me in the face! No sooner minded to prepare for France But straight I am invited—nay, with threats, Upon a penalty, enjoined to come! ‘Twere but a childish part to say him nay. Lorraine, return this answer to thy lord: I mean to visit him as he requests. But how? Not servilely disposed to bend, But like a conqueror to make him bow. His lame unpolished shifts are come to light, And [[Truth\|truth]] hath pulled the vizard from his face That set a gloss upon his arrogance. Dare he command a fealty in me? Tell him the [[Crown\|crown]] that he usurps is mine, And where he sets his foot he ought to kneel. ’Tis not a petty dukedom that I claim But all the whole dominions of the realm Which if, with grudging, he refuse to yield I’ll take away those borrowed plumes of his, And send him naked to the wilderness. |
-| DUC DE LORRAINE | Then, Edward, here, in spite of all thy lords, I do pronounce defiance to thy face. |
-| PRINCE OF WALES | Defiance, Frenchman? We rebound it back Even to the [[Bottom\|bottom]] of thy master’s throat! And, be it spoke with reverence of the [[King]], My gracious father, and these other lords, I hold thy message but as scurrilous, And him that sent thee like the lazy drone Crept up by stealth unto the eagle’s nest, From whence we’ll shake him with so rough a [[Storm\|storm]] As others shall be warned by his harm. |
-| [[Earl of Warwick\|EARL OF WARWICK]] | (to Lorraine) Bid him leave off the [[Lion\|lion]]’s case he wears Lest, meeting with the [[Lion\|lion]] in the field, He chance to tear him piecemeal for his [[Pride\|pride]]. |
-| COMTE D’ARTOIS | (to Lorraine) The soundest counsel I can give his grace Is to surrender ere he be constrained. A voluntary mischief hath less scorn Than when reproach with violence is borne. |
-| DUC DE LORRAINE | Regenerate traitor, viper to the place Where thou wast fostered in thine infancy! Bear’st thou a part in this conspiracy? Lorraine draws his [[Sword\|sword]] |
-| [[King\|KING]] EDWARD | drawing his [[Sword\|sword]] Lorraine, behold the sharpness of this steel: Fervent [[Desire\|desire]] that sits against my heart Is far more thorny-pricking than this blade That, with the [[Nightingale\|nightingale]], I shall be scarred As oft as I dispose myself to rest Until my colours be displayed in France. This is thy final answer. So be gone. |
-| DUC DE LORRAINE | It is not that, nor any English brave, Afflicts me so, as doth his poisoned view: That is most false, should most of all be true. Exit |
-| [[King\|KING]] EDWARD | Now, lords, our fleeting barque is under sail, Our gage is thrown, and war is soon begun, But not so quickly brought unto an end. Enter Sir William Montague But wherefore comes Sir William Montague? (To Montague) How stands the league between the Scot and us? |
-| MONTAGUE | Cracked and dissevered, my renowned lord. The treacherous [[King]] no sooner was informed Of your withdrawing of your army back But straight, forgetting of his former oath, He made invasion on the bordering towns. Berwick is won, Newcastle spoiled and lost, And now the [[Tyrant\|tyrant]] hath begirt with siege The [[Castle]] of Roxburgh, where, enclosed, The Countess Salisbury is like to perish. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_1--03_exchange_king_edward" data-title="Edward III — Scene 1 — exchange (KING EDWARD) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | (to Warwick) That is thy daughter, Warwick, is it not? Whose husband hath in Bretagne served so long About the planting of Lord Montfort there? |
+| COMTE D’ARTOIS | She was, my lord, and only Isabel<br>Was all the daughters that this Philippe had,<br>Whom afterward your father took to wife.<br>And from the fragrant [[Garden\|garden]] of her womb<br>Your gracious [[Self\|self]], the flower of Europe’s [[Hope\|hope]],<br>Derived is inheritor to France.<br>But note the rancour of rebellious minds:<br>When thus the lineage of Beau was out<br>The French obscured your mother’s privilege<br>And, though she were the next of [[Blood\|blood]], proclaimed<br>Jean of the [[house]] of Valois now their [[King\|king]].<br>The reason was, they say, the realm of France<br>Replete with princes of great parentage<br>Ought not admit a governor to rule<br>Except he be descended of the male.<br>And that’s the special ground of their contempt<br>Wherewith they study to exclude your grace. |
+| [[King\|KING]] EDWARD | But they shall find that forged ground of theirs<br>To be but dusty heaps of brittle sand. |
+| COMTE D’ARTOIS | Perhaps it will be thought a heinous thing<br>That I, a Frenchman, should discover this.<br>But heaven I call to record of my vows:<br>It is not hate nor any private wrong,<br>But [[Love\|love]] unto my country and the right<br>Provokes my tongue thus lavish in report.<br>You are the lineal watchman of our peace,<br>And Jean of Valois indirectly climbs.<br>What then should subjects but embrace their [[King\|king]]?<br>Ah, wherein may our duty more be seen<br>Than striving to rebate a [[Tyrant\|tyrant]]’s [[Pride\|pride]]<br>And place thee, the true shepherd of our commonwealth? |
+| [[King\|KING]] EDWARD | This counsel, Artois, like to fruitful showers,<br>Hath added growth unto my dignity,<br>And by the fiery vigour of thy words<br>Hot [[Courage\|courage]] is engendered in my breast,<br>Which heretofore was raked in ignorance<br>But now doth mount with golden wings of fame<br>And will approve fair Isabel’s descent,<br>Able to yoke their stubborn necks with steel<br>That spurn against my sovereignty in France. |
+| *(didascalia)* | Sound a horn |
+| [[King\|KING]] EDWARD | A messenger. Lord Audley, know from whence. |
+| *(didascalia)* | Enter a messenger, the Duc de Lorraine |
+| AUDLEY | The Duke of Lorraine, having crossed the seas,<br>Entreats he may have conference with your highness. |
+| [[King\|KING]] EDWARD | Admit him, lords, that we may hear the news.<br>(To Lorraine) Say, Duke of Lorraine, wherefore art thou come? 55 |
+| DUC DE LORRAINE | The most renowned prince, [[King]] Jean of France,<br>Doth greet thee, Edward, and by me commands<br>That, forsomuch as by his liberal gift<br>The Guienne dukedom is entailed to thee,<br>Thou do him lowly homage for the same.<br>And for that purpose, here I summon thee<br>Repair to France within these forty days<br>That there, according as the custom is,<br>Thou mayst be sworn true liegeman to our [[King\|king]];<br>Or else thy title in that province dies<br>And he himself will repossess the place. |
+| [[King\|KING]] EDWARD | See how occasion laughs me in the face!<br>No sooner minded to prepare for France<br>But straight I am invited—nay, with threats,<br>Upon a penalty, enjoined to come!<br>‘Twere but a childish part to say him nay.<br>Lorraine, return this answer to thy lord:<br>I mean to visit him as he requests.<br>But how? Not servilely disposed to bend,<br>But like a conqueror to make him bow.<br>His lame unpolished shifts are come to light,<br>And [[Truth\|truth]] hath pulled the vizard from his face<br>That set a gloss upon his arrogance.<br>Dare he command a fealty in me?<br>Tell him the [[Crown\|crown]] that he usurps is mine,<br>And where he sets his foot he ought to kneel.<br>’Tis not a petty dukedom that I claim<br>But all the whole dominions of the realm<br>Which if, with grudging, he refuse to yield<br>I’ll take away those borrowed plumes of his,<br>And send him naked to the wilderness. |
+| DUC DE LORRAINE | Then, Edward, here, in spite of all thy lords,<br>I do pronounce defiance to thy face. |
+| PRINCE OF WALES | Defiance, Frenchman? We rebound it back<br>Even to the [[Bottom\|bottom]] of thy master’s throat!<br>And, be it spoke with reverence of the [[King]],<br>My gracious father, and these other lords,<br>I hold thy message but as scurrilous,<br>And him that sent thee like the lazy drone<br>Crept up by stealth unto the eagle’s nest,<br>From whence we’ll shake him with so rough a [[Storm\|storm]]<br>As others shall be warned by his harm. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | (to Lorraine)<br>Bid him leave off the [[Lion\|lion]]’s case he wears<br>Lest, meeting with the [[Lion\|lion]] in the field,<br>He chance to tear him piecemeal for his [[Pride\|pride]]. |
+| COMTE D’ARTOIS | (to Lorraine)<br>The soundest counsel I can give his grace<br>Is to surrender ere he be constrained.<br>A voluntary mischief hath less scorn<br>Than when reproach with violence is borne. |
+| DUC DE LORRAINE | Regenerate traitor, viper to the place<br>Where thou wast fostered in thine infancy!<br>Bear’st thou a part in this conspiracy? |
+| *(didascalia)* | Lorraine draws his [[Sword\|sword]] |
+| *(didascalia)* | [[King\|KING]] EDWARD drawing his [[Sword\|sword]] |
+| DUC DE LORRAINE | Lorraine, behold the sharpness of this steel:<br>Fervent [[Desire\|desire]] that sits against my heart<br>Is far more thorny-pricking than this blade<br>That, with the [[Nightingale\|nightingale]], I shall be scarred<br>As oft as I dispose myself to rest<br>Until my colours be displayed in France.<br>This is thy final answer. So be gone. |
+| DUC DE LORRAINE | It is not that, nor any English brave,<br>Afflicts me so, as doth his poisoned view:<br>That is most false, should most of all be true. Exit |
+| [[King\|KING]] EDWARD | Now, lords, our fleeting barque is under sail,<br>Our gage is thrown, and war is soon begun,<br>But not so quickly brought unto an end. |
+| *(didascalia)* | Enter Sir William Montague |
+| [[King\|KING]] EDWARD | But wherefore comes Sir William Montague?<br>(To Montague) How stands the league between the Scot and us? |
+| MONTAGUE | Cracked and dissevered, my renowned lord.<br>The treacherous [[King]] no sooner was informed<br>Of your withdrawing of your army back<br>But straight, forgetting of his former oath,<br>He made invasion on the bordering towns.<br>Berwick is won, Newcastle spoiled and lost,<br>And now the [[Tyrant\|tyrant]] hath begirt with siege<br>The [[Castle]] of Roxburgh, where, enclosed,<br>The Countess Salisbury is like to perish. |
+| [[King\|KING]] EDWARD | (to Warwick)<br>That is thy daughter, Warwick, is it not?<br>Whose husband hath in Bretagne served so long<br>About the planting of Lord Montfort there? |
 | [[Earl of Warwick\|EARL OF WARWICK]] | It is, my lord. |
+| [[King\|KING]] EDWARD | Ignoble David, hast thou none to grieve<br>But seely ladies with thy threat’ning arms?<br>But I will make you shrink your snaily horns.<br>(To Audley) First, therefore, Audley, this shall be thy charge:<br>Go levy footmen for our wars in France.<br>(To the Prince of Wales) And, Ned, take muster of our men-at-arms.<br>In every shire elect a several band.<br>Let them be soldiers of a lusty spirit,<br>Such as dread nothing but dishonour’s blot.<br>Be wary therefore, since we do commence<br>A famous war, and with so mighty a nation.<br>(To Derby) Derby, be thou ambassador for us<br>Unto our father-in-law, the Earl of Hainault.<br>Make him acquainted with our enterprise,<br>And likewise will him, with our own allies<br>That are in Flanders, to solicit, too,<br>The Emperor of Almagne in our name.<br>Myself, whilst you are jointly thus employed,<br>Will, with these forces that I have at hand,<br>March and once more repulse the traitorous Scot.<br>But sirs, be resolute. We shall have wars<br>On every side. (To the Prince of Wales) And, Ned, thou must begin<br>Now to forget thy study and thy books,<br>And ure thy shoulders to an armour’s weight. |
+| PRINCE OF WALES | As cheerful sounding to my youthful spleen<br>This tumult is of war’s increasing broils,<br>As at the coronation of a [[King\|king]]<br>The joyful clamours of the people are<br>When ‘Ave Caesar’ they pronounce aloud. |
+| *(didascalia)* | Within this school of [[Honour\|honour]] I shall learn |
+| PRINCE OF WALES | Either to sacrifice my foes to [[Death\|death]],<br>Or, in a rightful quarrel, spend my breath.<br>Then cheerfully forward, each a several way.<br>In great affairs ’tis naught to use delay. Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="scenes--scene_1--04_monologue_king_edward" data-title="Edward III — Scene 1 — monologue (KING EDWARD) [4]" data-chapter="Scene 1" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | Ignoble David, hast thou none to grieve But seely ladies with thy threat’ning arms? But I will make you shrink your snaily horns. (To Audley) First, therefore, Audley, this shall be thy charge: Go levy footmen for our wars in France. (To the Prince of Wales) And, Ned, take muster of our men-at-arms. In every shire elect a several band. Let them be soldiers of a lusty spirit, Such as dread nothing but dishonour’s blot. Be wary therefore, since we do commence A famous war, and with so mighty a nation. (To Derby) Derby, be thou ambassador for us Unto our father-in-law, the Earl of Hainault. Make him acquainted with our enterprise, And likewise will him, with our own allies That are in Flanders, to solicit, too, The Emperor of Almagne in our name. Myself, whilst you are jointly thus employed, Will, with these forces that I have at hand, March and once more repulse the traitorous Scot. But sirs, be resolute. We shall have wars On every side. (To the Prince of Wales) And, Ned, thou must begin Now to forget thy study and thy books, And ure thy shoulders to an armour’s weight. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_1--05_exchange_prince_of_wales" data-title="Edward III — Scene 1 — exchange (PRINCE OF WALES) [5]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE OF WALES | As cheerful sounding to my youthful spleen This tumult is of war’s increasing broils, As at the coronation of a [[King\|king]] The joyful clamours of the people are When ‘Ave Caesar’ they pronounce aloud. Within this school of [[Honour\|honour]] I shall learn Either to sacrifice my foes to [[Death\|death]], Or, in a rightful quarrel, spend my breath. Then cheerfully forward, each a several way. In great affairs ’tis naught to use delay. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--01_exchange_dialogue" data-title="Edward III — Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="scenes--scene_2" data-title="Edward III — Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter the [[Countess of Salisbury]], above |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Alas, how much in vain my poor eyes gaze For succour that my sovereign should send. Ah, cousin Montague, I [[Fear\|fear]] thou wants The lively spirit sharply to solicit With vehement suit the [[King]] in my behalf. Thou dost not tell him what a grief it is To be the scornful captive to a Scot, Either to be wooed with broad untuned oaths, Or forced by rough insulting barbarism. Thou dost not tell him, if he here prevail, How much they will deride us in the North, And in their vile, uncivil, skipping jigs Bray forth their conquest and our overthrow Even in the barren, bleak and fruitless air— Enter below David [[King]] of Scotland and Sir William Douglas with soldiers, meeting the Due de Lorraine (Aside) I must withdraw. The everlasting foe Comes to the wall. I’ll closely step aside And list their babble, blunt and full of [[Pride\|pride]]. The Countess withdraws |
-| [[King\|KING]] OF SCOTLAND | My lord of Lorraine, to our brother of France Commend us as the man in Christendom That we most reverence and entirely [[Love\|love]]. Touching your embassage, return and say That we with England will not enter parley, Nor never make fair weather, or take truce, But burn their neighbour towns, and so persist With eager roads beyond their [[City\|city]] York; And never shall our bonny riders rest, Nor rusting canker have the [[Time\|time]] to eat Their light-borne snaffle, nor their nimble spur, Nor lay aside their jacks of gimmaled mail, Nor hang their staves of grained Scottish ash In peaceful wise upon their [[City\|city]] walls, Nor from their buttoned tawny leathern belts Dismiss their biting whinyards, till your [[King]] Cry out, ‘Enough! Spare England now for pity!’ Farewell, and tell him that you leave us here, Before this [[Castle\|castle]]; say you came from us Even when we had that yielded to our hands. |
-| DUC DE LORRAINE | Take I my leave, and fairly will return Your acceptable greeting to my [[King]]. Exit |
-| [[King\|KING]] OF SCOTLAND | (to Douglas) Now, Douglas, to our former task again For the division of this certain spoil. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Alas, how much in vain my poor eyes gaze<br>For succour that my sovereign should send.<br>Ah, cousin Montague, I [[Fear\|fear]] thou wants<br>The lively spirit sharply to solicit<br>With vehement suit the [[King]] in my behalf.<br>Thou dost not tell him what a grief it is<br>To be the scornful captive to a Scot,<br>Either to be wooed with broad untuned oaths,<br>Or forced by rough insulting barbarism.<br>Thou dost not tell him, if he here prevail,<br>How much they will deride us in the North,<br>And in their vile, uncivil, skipping jigs<br>Bray forth their conquest and our overthrow<br>Even in the barren, bleak and fruitless air— |
+| *(didascalia)* | Enter below David [[King]] of Scotland and Sir William Douglas with soldiers, meeting the Due de Lorraine |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | (Aside) I must withdraw. The everlasting foe<br>Comes to the wall. I’ll closely step aside<br>And list their babble, blunt and full of [[Pride\|pride]].<br>The Countess withdraws |
+| [[King\|KING]] OF SCOTLAND | My lord of Lorraine, to our brother of France<br>Commend us as the man in Christendom<br>That we most reverence and entirely [[Love\|love]].<br>Touching your embassage, return and say<br>That we with England will not enter parley,<br>Nor never make fair weather, or take truce,<br>But burn their neighbour towns, and so persist<br>With eager roads beyond their [[City\|city]] York;<br>And never shall our bonny riders rest,<br>Nor rusting canker have the [[Time\|time]] to eat<br>Their light-borne snaffle, nor their nimble spur,<br>Nor lay aside their jacks of gimmaled mail,<br>Nor hang their staves of grained Scottish ash<br>In peaceful wise upon their [[City\|city]] walls,<br>Nor from their buttoned tawny leathern belts<br>Dismiss their biting whinyards, till your [[King]]<br>Cry out, ‘Enough! Spare England now for pity!’<br>Farewell, and tell him that you leave us here,<br>Before this [[Castle\|castle]]; say you came from us<br>Even when we had that yielded to our hands. |
+| DUC DE LORRAINE | Take I my leave, and fairly will return<br>Your acceptable greeting to my [[King]]. Exit |
+| [[King\|KING]] OF SCOTLAND | (to Douglas)<br>Now, Douglas, to our former task again<br>For the division of this certain spoil. |
 | DOUGLAS | My liege, I crave the lady, and no more. |
-| [[King\|KING]] OF SCOTLAND | Nay, soft ye, sir; first I must make my choice, And first I do bespeak her for myself. |
+| [[King\|KING]] OF SCOTLAND | Nay, soft ye, sir; first I must make my choice,<br>And first I do bespeak her for myself. |
 | DOUGLAS | Why then, my liege, let me enjoy her jewels. |
-| [[King\|KING]] OF SCOTLAND | Those are her own, still liable to her; And who inherits her hath those with all. Enter a Scottish messenger in haste |
-| MESSENGER | My liege, as we were pricking on the hills To fetch in booty, marching hitherward We might descry a mighty host of men. The sun, reflecting on the armour, showed A field of plate; a wood of picks advanced. Bethink your highness speedily herein: An easy march within four hours will bring The hindmost rank unto this place, my liege. |
+| [[King\|KING]] OF SCOTLAND | Those are her own, still liable to her;<br>And who inherits her hath those with all. |
+| *(didascalia)* | Enter a Scottish messenger in haste |
+| MESSENGER | My liege, as we were pricking on the hills<br>To fetch in booty, marching hitherward<br>We might descry a mighty host of men.<br>The sun, reflecting on the armour, showed<br>A field of plate; a wood of picks advanced.<br>Bethink your highness speedily herein:<br>An easy march within four hours will bring<br>The hindmost rank unto this place, my liege. |
 | [[King\|KING]] OF SCOTLAND | Dislodge! Dislodge! It is the [[King]] of England! |
-| DOUGLAS | to the Messenger Jemmy, my man, saddle my bonny black. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--02_exchange_king_of_scotland" data-title="Edward III — Scene 2 — exchange (KING OF SCOTLAND) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| *(didascalia)* | DOUGLAS to the Messenger |
+| [[King\|KING]] OF SCOTLAND | Jemmy, my man, saddle my bonny black. |
 | [[King\|KING]] OF SCOTLAND | Mean’st thou to fight, Douglas? We are too weak. |
 | DOUGLAS | I know it [[Well\|well]], my liege, and therefore fly. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | (coming forward above) My lords of Scotland, will ye stay and drink? |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | (coming forward above)<br>My lords of Scotland, will ye stay and drink? |
 | [[King\|KING]] OF SCOTLAND | She mocks us, Douglas. I cannot endure it. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Say, good my lord, which is he must have the lady, And which her jewels? I am sure, my lords, Ye will not hence till you have shared the spoils. |
-| [[King\|KING]] OF SCOTLAND | She heard the messenger and heard our talk, And now that comfort makes her scorn at us. Enter another Scottish messenger |
-| SECOND MESSENGER | Arm, my good lord! O we are all surprised! After the French ambassador, my liege, And tell him that you dare not ride to York. [[Countess of Salisbury\|COUNTESS OF SALISBURY]] (to the [[King]] of Scotland) Excuse it that your bonny [[Horse\|horse]] is lame. |
-| [[King\|KING]] OF SCOTLAND | aside She heard that too! Intolerable grief! (To the Countess) Woman, farewell, although I do not stay— |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | ‘Tis not for [[Fear\|fear]], and yet you run away. Exeunt Scots O happy comfort, welcome to our [[house]]! The confident and boist’rous boasting Scot, That swore before my walls they would not back For all the armed power of this land, With faceless [[Fear\|fear]] that ever turns his back, Turned hence against the blasting north-east [[Wind\|wind]] Upon the bare report and name of arms! Enter Sir William de Montague with soldiers O [[Summer\|summer]]’s day! See where my cousin comes! |
-| MONTAGUE | How fares my aunt? We are not Scots— Why do you shut your gates against your friends? |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | [[Well]] may I give a welcome, coz, to thee, For thou com’st [[Well\|well]] to chase my foes from hence. |
-| MONTAGUE | The [[King]] himself is come in person hither. Dear aunt, descend, and gratulate his highness. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | How may I entertain his majesty To show my duty and his dignity? Exit from above Enter [[King]] Edward, the [[Earl of Warwick]] and the Comte d’Artois, with others, including Lodowick |
-| [[King\|KING]] EDWARD | What, are the stealing foxes fled and gone Before we could uncouple at their heels? |
-| [[Earl of Warwick\|EARL OF WARWICK]] | They are, my liege, but with a cheerful cry Hot hounds and hardy chase them at the heels. Enter the [[Countess of Salisbury]] below |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Say, good my lord, which is he must have the lady,<br>And which her jewels? I am sure, my lords,<br>Ye will not hence till you have shared the spoils. |
+| [[King\|KING]] OF SCOTLAND | She heard the messenger and heard our talk,<br>And now that comfort makes her scorn at us. |
+| *(didascalia)* | Enter another Scottish messenger |
+| SECOND MESSENGER | Arm, my good lord! O we are all surprised!<br>After the French ambassador, my liege,<br>And tell him that you dare not ride to York. |
+| *(didascalia)* | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] (to the [[King]] of Scotland) |
+| SECOND MESSENGER | Excuse it that your bonny [[Horse\|horse]] is lame. |
+| *(didascalia)* | [[King\|KING]] OF SCOTLAND aside |
+| SECOND MESSENGER | She heard that too! Intolerable grief!<br>(To the Countess) Woman, farewell, although I do not stay— |
+| *(didascalia)* | ‘Tis not for [[Fear\|fear]], and yet you run away. Exeunt Scots |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | O happy comfort, welcome to our [[house]]!<br>The confident and boist’rous boasting Scot,<br>That swore before my walls they would not back<br>For all the armed power of this land,<br>With faceless [[Fear\|fear]] that ever turns his back,<br>Turned hence against the blasting north-east [[Wind\|wind]]<br>Upon the bare report and name of arms! |
+| *(didascalia)* | Enter Sir William de Montague with soldiers |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | O [[Summer\|summer]]’s day! See where my cousin comes! |
+| MONTAGUE | How fares my aunt? We are not Scots—<br>Why do you shut your gates against your friends? |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | [[Well]] may I give a welcome, coz, to thee,<br>For thou com’st [[Well\|well]] to chase my foes from hence. |
+| MONTAGUE | The [[King]] himself is come in person hither.<br>Dear aunt, descend, and gratulate his highness. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | How may I entertain his majesty<br>To show my duty and his dignity? |
+| *(didascalia)* | Exit from above |
+| *(didascalia)* | Enter [[King]] Edward, the [[Earl of Warwick]] and the Comte d’Artois, with others, including Lodowick |
+| [[King\|KING]] EDWARD | What, are the stealing foxes fled and gone<br>Before we could uncouple at their heels? |
+| [[Earl of Warwick\|EARL OF WARWICK]] | They are, my liege, but with a cheerful cry<br>Hot hounds and hardy chase them at the heels. |
+| *(didascalia)* | Enter the [[Countess of Salisbury]] below |
 | [[King\|KING]] EDWARD | This is the Countess, Warwick, is it not? |
-| [[Earl of Warwick\|EARL OF WARWICK]] | Even she, my liege, whose [[Beauty\|beauty]] tyrants’ [[Fear\|fear]]— As a May blossom with pernicious winds— Hath sullied, withered, overcast and done. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | Even she, my liege, whose [[Beauty\|beauty]] tyrants’ [[Fear\|fear]]—<br>As a May blossom with pernicious winds—<br>Hath sullied, withered, overcast and done. |
 | [[King\|KING]] EDWARD | Hath she been fairer, Warwick, than she is? |
-| [[Earl of Warwick\|EARL OF WARWICK]] | My gracious [[King]], fair is she not at all If that her [[Self\|self]] were by to stain herself As I have seen her when she was her [[Self\|self]]. |
-| [[King\|KING]] EDWARD | aside What strange enchantment lurked in those her eyes, When they excelled this excellence they have, That now her dim decline hath power to draw My subject eyes from piercing majesty To gaze on her with doting admiration? |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | (kneeling before [[King]] Edward) In duty, lower than the ground I kneel, And fore my dull knees bow my feeling heart, To witness my obedience to your highness With many millions of a subject’s thanks For this your royal presence, whose approach Hath driven war and danger from my gate. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--03_exchange_king_edward" data-title="Edward III — Scene 2 — exchange (KING EDWARD) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | Lady, stand up. I come to bring thee peace, However thereby I have purchased war. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | (rising) No war to you, my liege. The Scots are gone And gallop [[Home\|home]] toward Scotland with their hate. |
-| [[King\|KING]] EDWARD | (aside) Lest yielding here I pine in shameful [[Love\|love]]— (Aloud) Come, we’ll pursue the Scots. Artois, away! |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | A little while, my gracious sovereign, stay, And let the power of a mighty [[King\|king]] [[Honour]] our roof. My husband, in the wars, When he shall hear it, will triumph for joy. Then, dear my liege, now niggard not thy state; Being at the wall, enter our homely gate. |
-| [[King\|KING]] EDWARD | Pardon me, Countess, I will come no near: I dreamed tonight of treason, and I [[Fear\|fear]]. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | My gracious [[King]], fair is she not at all<br>If that her [[Self\|self]] were by to stain herself<br>As I have seen her when she was her [[Self\|self]]. |
+| *(didascalia)* | [[King\|KING]] EDWARD aside |
+| [[Earl of Warwick\|EARL OF WARWICK]] | What strange enchantment lurked in those her eyes,<br>When they excelled this excellence they have,<br>That now her dim decline hath power to draw<br>My subject eyes from piercing majesty<br>To gaze on her with doting admiration? |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | (kneeling before [[King]] Edward)<br>In duty, lower than the ground I kneel,<br>And fore my dull knees bow my feeling heart,<br>To witness my obedience to your highness<br>With many millions of a subject’s thanks<br>For this your royal presence, whose approach<br>Hath driven war and danger from my gate. |
+| [[King\|KING]] EDWARD | Lady, stand up. I come to bring thee peace,<br>However thereby I have purchased war. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | (rising)<br>No war to you, my liege. The Scots are gone<br>And gallop [[Home\|home]] toward Scotland with their hate. |
+| [[King\|KING]] EDWARD | (aside)<br>Lest yielding here I pine in shameful [[Love\|love]]—<br>(Aloud) Come, we’ll pursue the Scots. Artois, away! |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | A little while, my gracious sovereign, stay,<br>And let the power of a mighty [[King\|king]]<br>[[Honour]] our roof. My husband, in the wars,<br>When he shall hear it, will triumph for joy.<br>Then, dear my liege, now niggard not thy state;<br>Being at the wall, enter our homely gate. |
+| [[King\|KING]] EDWARD | Pardon me, Countess, I will come no near:<br>I dreamed tonight of treason, and I [[Fear\|fear]]. |
 | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Far from this place let ugly treason lie. |
-| [[King\|KING]] EDWARD | (aside) No farther off than her conspiring eye, Which shoots infected [[Poison\|poison]] in my heart Beyond repulse of wit or cure of art. Now in the sun [[Alone\|alone]] it doth not lie With light to take light from a mortal eye; For here two day-[[Stars\|stars]] that mine eyes would see More than the sun steals mine own light from me. Contemplative [[Desire\|desire]], [[Desire\|desire]] to be In contemplation that may master thee. (Aloud) Warwick, Artois, to [[Horse\|horse]] and let’s away! |
+| [[King\|KING]] EDWARD | (aside)<br>No farther off than her conspiring eye,<br>Which shoots infected [[Poison\|poison]] in my heart<br>Beyond repulse of wit or cure of art.<br>Now in the sun [[Alone\|alone]] it doth not lie<br>With light to take light from a mortal eye;<br>For here two day-[[Stars\|stars]] that mine eyes would see<br>More than the sun steals mine own light from me.<br>Contemplative [[Desire\|desire]], [[Desire\|desire]] to be<br>In contemplation that may master thee.<br>(Aloud) Warwick, Artois, to [[Horse\|horse]] and let’s away! |
 | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | What might I speak to make my sovereign stay? |
-| [[King\|KING]] EDWARD | (aside) What needs a tongue to such a speaking eye That more persuades than winning oratory? |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--04_monologue_countess_of_salisbury" data-title="Edward III — Scene 2 — monologue (COUNTESS OF SALISBURY) [4]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Let not thy presence, like the April sun, Flatter our earth and suddenly be done. More happy do not make our outward wall Than thou wilt grace our inner [[house]] withal. Our [[house]], my liege, is like a country swain, Whose habit rude, and manners blunt and plain, Presageth naught, yet inly beautified With bounty’s riches and fair hidden [[Pride\|pride]]. For where the golden ore doth buried lie, The ground, undecked with [[Nature\|nature]]’s tapestry, Seems barren, sere, unfertile, fruitless, dry; And where the upper turf of earth doth boast His [[Pride\|pride]], perfumes and parti-coloured cost, Delve there and find this issue and their [[Pride\|pride]] To [[Spring\|spring]] from ordure and corruptious stied. But, to make up my all-too-long compare, These ragged walls no testimony are What is within, but like a cloak doth hide From weather’s waste the under garnished [[Pride\|pride]]. More gracious than my terms can, let thee be: Entreat thyself to stay a while with me. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--05_exchange_king_edward" data-title="Edward III — Scene 2 — exchange (KING EDWARD) [5]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | As wise as fair—what fond fit can be heard When wisdom keeps the gate as [[Beauty\|beauty]]’s guard? Countess, albeit my business urgeth me It shall attend while I attend on thee. Come on, my lords, here will I host tonight. Exeunt all but Lodowick |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--06_monologue_lodowick" data-title="Edward III — Scene 2 — monologue (LODOWICK) [6]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| LODOWICK | I might perceive his eye in her eye lost, His ear to drink her sweet tongue’s utterance, And changing passion, like inconstant clouds That rack upon the carriage of the winds, Increase and die in his disturbed cheeks. Lo, when she blushed, even then did he look pale, As if her cheeks by some enchanted power Attracted had the cherry [[Blood\|blood]] from his. Anon, with reverent [[Fear\|fear]] when she grew pale, His cheeks put on their scarlet ornaments, But no more like her oriental red Than brick to coral or live things to dead. Why did he then thus counterfeit her looks? If she did blush, ‘twas tender modest shame Being in the sacred presence of a [[King\|king]]. If he did blush, ’twas rude immodest shame To vail his eyes amiss, being a [[King\|king]]. If she looked pale, ‘twas seely woman’s [[Fear\|fear]] To bear herself in presence of a [[King\|king]]. If he looked pale, it was with guilty [[Fear\|fear]] To dote amiss, being a mighty [[King\|king]]. Then, Scottish wars, farewell. I [[Fear\|fear]] ’twill prove A ling’ring English siege of peevish [[Love\|love]]. Enter [[King]] Edward Here comes his highness, walking all [[Alone\|alone]]. Lodowick withdraws |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--07_monologue_king_edward" data-title="Edward III — Scene 2 — monologue (KING EDWARD) [7]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | (aside) She is grown more fairer far since I came hither, Her voice more silver every word than other, Her wit more fluent. What a strange discourse Unfolded she of David and his Scots: ‘Even thus’, quoth she, ‘he spake,’ and then spoke broad, With epithets and accents of the Scot, But somewhat better than the Scot could speak. ‘And thus,’ quoth she, and answered then herself, For who could speak like her? But she herself Breathes from the wall an angel’s note from heaven Of sweet defiance to her barbarous foes. When she would talk of peace, methinks her tongue Commanded war to [[Prison\|prison]]; when of war, It wakened Caesar from his Roman [[Grave\|grave]] To hear war beautified by her discourse; Wisdom is foolishness but in her tongue, [[Beauty]] a slander but in her fair face, There is no [[Summer\|summer]] but in her cheerful looks, Nor frosty [[Winter\|winter]] but in her disdain. I cannot blame the Scots that did besiege her, For she is all the treasure of our land, But call them cowards that they ran away, Having so rich and fair a cause to stay. (Aloud) Art thou there, Lod’wick? Lodowick comes forward Give me ink and paper. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--08_exchange_lodowick_i" data-title="Edward III — Scene 2 — exchange (LODOWICK I) [8]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[King\|KING]] EDWARD | (aside)<br>What needs a tongue to such a speaking eye<br>That more persuades than winning oratory? |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Let not thy presence, like the April sun,<br>Flatter our earth and suddenly be done.<br>More happy do not make our outward wall<br>Than thou wilt grace our inner [[house]] withal.<br>Our [[house]], my liege, is like a country swain,<br>Whose habit rude, and manners blunt and plain,<br>Presageth naught, yet inly beautified<br>With bounty’s riches and fair hidden [[Pride\|pride]].<br>For where the golden ore doth buried lie,<br>The ground, undecked with [[Nature\|nature]]’s tapestry,<br>Seems barren, sere, unfertile, fruitless, dry;<br>And where the upper turf of earth doth boast<br>His [[Pride\|pride]], perfumes and parti-coloured cost,<br>Delve there and find this issue and their [[Pride\|pride]]<br>To [[Spring\|spring]] from ordure and corruptious stied.<br>But, to make up my all-too-long compare,<br>These ragged walls no testimony are<br>What is within, but like a cloak doth hide<br>From weather’s waste the under garnished [[Pride\|pride]].<br>More gracious than my terms can, let thee be:<br>Entreat thyself to stay a while with me. |
+| [[King\|KING]] EDWARD | As wise as fair—what fond fit can be heard<br>When wisdom keeps the gate as [[Beauty\|beauty]]’s guard?<br>Countess, albeit my business urgeth me<br>It shall attend while I attend on thee.<br>Come on, my lords, here will I host tonight. |
+| *(didascalia)* | Exeunt all but Lodowick |
+| LODOWICK | I might perceive his eye in her eye lost,<br>His ear to drink her sweet tongue’s utterance,<br>And changing passion, like inconstant clouds<br>That rack upon the carriage of the winds,<br>Increase and die in his disturbed cheeks.<br>Lo, when she blushed, even then did he look pale,<br>As if her cheeks by some enchanted power<br>Attracted had the cherry [[Blood\|blood]] from his.<br>Anon, with reverent [[Fear\|fear]] when she grew pale,<br>His cheeks put on their scarlet ornaments,<br>But no more like her oriental red<br>Than brick to coral or live things to dead.<br>Why did he then thus counterfeit her looks?<br>If she did blush, ‘twas tender modest shame<br>Being in the sacred presence of a [[King\|king]].<br>If he did blush, ’twas rude immodest shame<br>To vail his eyes amiss, being a [[King\|king]].<br>If she looked pale, ‘twas seely woman’s [[Fear\|fear]]<br>To bear herself in presence of a [[King\|king]].<br>If he looked pale, it was with guilty [[Fear\|fear]]<br>To dote amiss, being a mighty [[King\|king]].<br>Then, Scottish wars, farewell. I [[Fear\|fear]] ’twill prove<br>A ling’ring English siege of peevish [[Love\|love]]. |
+| *(didascalia)* | Enter [[King]] Edward |
+| LODOWICK | Here comes his highness, walking all [[Alone\|alone]]. |
+| *(didascalia)* | Lodowick withdraws |
+| [[King\|KING]] EDWARD | (aside)<br>She is grown more fairer far since I came hither,<br>Her voice more silver every word than other,<br>Her wit more fluent. What a strange discourse<br>Unfolded she of David and his Scots:<br>‘Even thus’, quoth she, ‘he spake,’ and then spoke broad,<br>With epithets and accents of the Scot,<br>But somewhat better than the Scot could speak.<br>‘And thus,’ quoth she, and answered then herself,<br>For who could speak like her? But she herself<br>Breathes from the wall an angel’s note from heaven<br>Of sweet defiance to her barbarous foes.<br>When she would talk of peace, methinks her tongue<br>Commanded war to [[Prison\|prison]]; when of war,<br>It wakened Caesar from his Roman [[Grave\|grave]]<br>To hear war beautified by her discourse;<br>Wisdom is foolishness but in her tongue,<br>[[Beauty]] a slander but in her fair face,<br>There is no [[Summer\|summer]] but in her cheerful looks,<br>Nor frosty [[Winter\|winter]] but in her disdain.<br>I cannot blame the Scots that did besiege her,<br>For she is all the treasure of our land,<br>But call them cowards that they ran away,<br>Having so rich and fair a cause to stay.<br>(Aloud) Art thou there, Lod’wick? |
+| *(didascalia)* | Lodowick comes forward |
+| [[King\|KING]] EDWARD | Give me ink and paper. |
 | LODOWICK | I will, my liege. |
-| [[King\|KING]] EDWARD | And bid the lords hold on their play at chess, For we will walk and meditate [[Alone\|alone]]. |
+| [[King\|KING]] EDWARD | And bid the lords hold on their play at chess,<br>For we will walk and meditate [[Alone\|alone]]. |
 | LODOWICK | I will, my sovereign. Exit |
-| [[King\|KING]] EDWARD | This fellow is [[Well\|well]] read in poetry, And hath a lusty and persuasive spirit. I will acquaint him with my passion, Which he shall [[Shadow\|shadow]] with a veil of lawn, Through which the [[Queen\|queen]] of [[Beauty\|beauty]]’s [[Queen\|queen]] shall see Herself the ground of my infirmity. Enter Lodowick, with pen, ink and paper Hast thou pen, ink and paper ready, Lod’wick? |
+| [[King\|KING]] EDWARD | This fellow is [[Well\|well]] read in poetry,<br>And hath a lusty and persuasive spirit.<br>I will acquaint him with my passion,<br>Which he shall [[Shadow\|shadow]] with a veil of lawn,<br>Through which the [[Queen\|queen]] of [[Beauty\|beauty]]’s [[Queen\|queen]] shall see<br>Herself the ground of my infirmity. |
+| *(didascalia)* | Enter Lodowick, with pen, ink and paper |
+| [[King\|KING]] EDWARD | Hast thou pen, ink and paper ready, Lod’wick? |
 | LODOWICK | Ready, my liege. |
-| [[King\|KING]] EDWARD | Then in the [[Summer\|summer]] arbour sit by me; Make it our council [[house]] or cabinet: Since green our thoughts, green be the conventicle Where we will ease us by disburd’ning them. They sit. Lodowick prepares to write Now, Lod‘wick, invocate some golden muse To bring thee hither an enchanted pen That may for sighs set down true sighs indeed, Talking of grief, to make thee ready groan, And when thou write’st of [[Tears\|tears]], encouch the word Before and after with such sweet laments That it may raise drops in a Tartar’s eye, And make a flint-heart Scythian pitiful— For so much moving hath a poet’s pen. Then, if thou be a poet, move thou so And be enriched by thy sovereign’s [[Love\|love]]. For if the touch of sweet concordant strings Could force attendance in the ears of hell, How much more shall the strains of poets’ wit Beguile and ravish soft and human minds? |
+| [[King\|KING]] EDWARD | Then in the [[Summer\|summer]] arbour sit by me;<br>Make it our council [[house]] or cabinet:<br>Since green our thoughts, green be the conventicle<br>Where we will ease us by disburd’ning them. |
+| *(didascalia)* | They sit. Lodowick prepares to write |
+| [[King\|KING]] EDWARD | Now, Lod‘wick, invocate some golden muse<br>To bring thee hither an enchanted pen<br>That may for sighs set down true sighs indeed,<br>Talking of grief, to make thee ready groan,<br>And when thou write’st of [[Tears\|tears]], encouch the word<br>Before and after with such sweet laments<br>That it may raise drops in a Tartar’s eye,<br>And make a flint-heart Scythian pitiful—<br>For so much moving hath a poet’s pen.<br>Then, if thou be a poet, move thou so<br>And be enriched by thy sovereign’s [[Love\|love]].<br>For if the touch of sweet concordant strings<br>Could force attendance in the ears of hell,<br>How much more shall the strains of poets’ wit<br>Beguile and ravish soft and human minds? |
 | LODOWICK | To whom, my lord, shall I direct my style? |
-| [[King\|KING]] EDWARD | To one that stains the fair and sots the wise, Whose [[Body\|body]] is an abstract or a brief, Contains each general virtue in the world. ‘Better than beautiful’, thou must begin, Devise for fair a fairer word than ‘fair’, And every ornament that thou wouldst praise, Fly it a pitch above the soar of praise. For flattery [[Fear\|fear]] thou not to be convicted, For were thy admiration ten times more, Ten times ten thousand more the worth exceeds Of that thou art to praise thy praise’s worth. Begin; I will to contemplate the while. Forget not to set down how passionate, How heart-sick and how full of languishment Her [[Beauty\|beauty]] makes me. |
+| [[King\|KING]] EDWARD | To one that stains the fair and sots the wise,<br>Whose [[Body\|body]] is an abstract or a brief,<br>Contains each general virtue in the world.<br>‘Better than beautiful’, thou must begin,<br>Devise for fair a fairer word than ‘fair’,<br>And every ornament that thou wouldst praise,<br>Fly it a pitch above the soar of praise.<br>For flattery [[Fear\|fear]] thou not to be convicted,<br>For were thy admiration ten times more,<br>Ten times ten thousand more the worth exceeds<br>Of that thou art to praise thy praise’s worth.<br>Begin; I will to contemplate the while.<br>Forget not to set down how passionate,<br>How heart-sick and how full of languishment<br>Her [[Beauty\|beauty]] makes me. |
 | LODOWICK | Write I to a woman? |
-| [[King\|KING]] EDWARD | What [[Beauty\|beauty]] else could triumph over me, Or who but women do our [[Love\|love]]-lays greet? What think’st thou I did bid thee praise? A [[Horse\|horse]]? |
-| LODOWICK | Of what condition or estate she is ’Twere requisite that I should know, my lord. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--09_monologue_king_edward" data-title="Edward III — Scene 2 — monologue (KING EDWARD) [9]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | Of such estate that hers is as a throne, And my estate the footstool where she treads. Then mayst thou judge what her condition is By the proportion of her mightiness. Write on, while I peruse her in my thoughts.   Her voice to music or the [[Nightingale\|nightingale]]. To music every [[Summer\|summer]]-leaping swain Compares his sunburnt [[Lover\|lover]] when she speaks, And why should I speak of the [[Nightingale\|nightingale]]? The [[Nightingale\|nightingale]] sings of adulterate wrong And that compare is too satirical, For sin, though sin, would not be so esteemed, But rather virtue sin, sin virtue deemed. Her hair far softer than the silkworm’s twist, Like to a flattering glass doth make more fair The yellow amber—‘like a flattering glass’ Comes in too soon: for writing of her eyes I’ll say that like a glass they catch the sun, And thence the hot reflection doth rebound Against my breast and burns my heart within. Ah, what a world of descant makes my [[Soul\|soul]] Upon this voluntary ground of [[Love\|love]]! Come, Lod’wick: hast thou turned thy ink to gold? If not, write but in letters capital My mistress’ name, and it will gild thy paper. Read, Lod’wick, read! Fill thou the empty hollows of mine ears With the sweet hearing of thy poetry! |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--10_exchange_lodowick" data-title="Edward III — Scene 2 — exchange (LODOWICK) [10]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[King\|KING]] EDWARD | What [[Beauty\|beauty]] else could triumph over me,<br>Or who but women do our [[Love\|love]]-lays greet?<br>What think’st thou I did bid thee praise? A [[Horse\|horse]]? |
+| LODOWICK | Of what condition or estate she is<br>’Twere requisite that I should know, my lord. |
+| [[King\|KING]] EDWARD | Of such estate that hers is as a throne,<br>And my estate the footstool where she treads.<br>Then mayst thou judge what her condition is<br>By the proportion of her mightiness.<br>Write on, while I peruse her in my thoughts. |
+| *(didascalia)* |  |
+| [[King\|KING]] EDWARD | Her voice to music or the [[Nightingale\|nightingale]].<br>To music every [[Summer\|summer]]-leaping swain<br>Compares his sunburnt [[Lover\|lover]] when she speaks,<br>And why should I speak of the [[Nightingale\|nightingale]]?<br>The [[Nightingale\|nightingale]] sings of adulterate wrong<br>And that compare is too satirical,<br>For sin, though sin, would not be so esteemed,<br>But rather virtue sin, sin virtue deemed.<br>Her hair far softer than the silkworm’s twist,<br>Like to a flattering glass doth make more fair<br>The yellow amber—‘like a flattering glass’<br>Comes in too soon: for writing of her eyes<br>I’ll say that like a glass they catch the sun,<br>And thence the hot reflection doth rebound<br>Against my breast and burns my heart within.<br>Ah, what a world of descant makes my [[Soul\|soul]]<br>Upon this voluntary ground of [[Love\|love]]!<br>Come, Lod’wick: hast thou turned thy ink to gold?<br>If not, write but in letters capital<br>My mistress’ name, and it will gild thy paper.<br>Read, Lod’wick, read!<br>Fill thou the empty hollows of mine ears<br>With the sweet hearing of thy poetry! |
 | LODOWICK | I have not to a period brought her praise. |
-| [[King\|KING]] EDWARD | Her praise is as my [[Love]]—both infinite, Which apprehend such violent extremes That they disdain an ending period. Her [[Beauty\|beauty]] hath no match but my affection; Hers more than most, mine most, and more than more; Hers more to praise than tell the sea by drops— Nay more!—than drop the massy earth by sands, And sand by sand print them in [[Memory\|memory]]. Then wherefore talk’st thou of a period To that which craves unended admiration? Read. Let us hear. |
-| LODOWICK | (reading) ‘More fair and chaste than is the [[Queen\|queen]] of shades’— |
-| [[King\|KING]] EDWARD | (staying him) That line hath two faults, gross and palpable. Compar’st thou her to the pale [[Queen\|queen]] of [[Night\|night]], Who, being set in dark, seems therefore light? What is she when the sun lifts up his head But like a fading taper, dim and dead? My [[Love\|love]] shall brave the eye of heaven at [[Noon\|noon]], And, being unmasked, outshine the golden sun! |
+| [[King\|KING]] EDWARD | Her praise is as my [[Love]]—both infinite,<br>Which apprehend such violent extremes<br>That they disdain an ending period.<br>Her [[Beauty\|beauty]] hath no match but my affection;<br>Hers more than most, mine most, and more than more;<br>Hers more to praise than tell the sea by drops—<br>Nay more!—than drop the massy earth by sands,<br>And sand by sand print them in [[Memory\|memory]].<br>Then wherefore talk’st thou of a period<br>To that which craves unended admiration?<br>Read. Let us hear. |
+| LODOWICK | (reading)<br>‘More fair and chaste than is the [[Queen\|queen]] of shades’— |
+| [[King\|KING]] EDWARD | (staying him)<br>That line hath two faults, gross and palpable.<br>Compar’st thou her to the pale [[Queen\|queen]] of [[Night\|night]],<br>Who, being set in dark, seems therefore light?<br>What is she when the sun lifts up his head<br>But like a fading taper, dim and dead?<br>My [[Love\|love]] shall brave the eye of heaven at [[Noon\|noon]],<br>And, being unmasked, outshine the golden sun! |
 | LODOWICK | What is the other fault, my sovereign lord? |
 | [[King\|KING]] EDWARD | Read o’er the line again. |
 | LODOWICK | (reading) ‘More fair and chaste’— |
-| [[King\|KING]] EDWARD | (staying him) I did not bid thee talk of chastity, To ransack so the treasure of her mind, For I had rather have her chased than chaste! Out with the [[Moon\|moon]] line! I will none of it. And let me have her likened to the sun- Say she hath thrice more splendour than the sun, That her perfections emulates the sun, That she breeds sweets as plenteous as the sun, That she doth thaw cold [[Winter\|winter]] like the sun, That she doth cheer fresh [[Summer\|summer]] like the sun, That she doth dazzle gazers like the sun, And in this application to the sun Bid her be free and general as the sun, Who smiles upon the basest weed that grows As lovingly as on the fragrant [[Rose\|rose]]. Let’s see what follows that same moonlight line. |
-| LODOWICK | (reading) ‘More fair and chaste than is the [[Queen\|queen]] of shades, More bold in constancy’— |
-| [[King\|KING]] EDWARD | (staying him) In constancy than who? |
-| LODOWICK | (reading) ‘...than Judith was.’ |
-| [[King\|KING]] EDWARD | O monstrous line! Put in the next a [[Sword\|sword]] And I shall woo her to cut off my head! Blot, blot, good Lod’wick. Let us hear the next. |
+| [[King\|KING]] EDWARD | (staying him)<br>I did not bid thee talk of chastity,<br>To ransack so the treasure of her mind,<br>For I had rather have her chased than chaste!<br>Out with the [[Moon\|moon]] line! I will none of it.<br>And let me have her likened to the sun-<br>Say she hath thrice more splendour than the sun,<br>That her perfections emulates the sun,<br>That she breeds sweets as plenteous as the sun,<br>That she doth thaw cold [[Winter\|winter]] like the sun,<br>That she doth cheer fresh [[Summer\|summer]] like the sun,<br>That she doth dazzle gazers like the sun,<br>And in this application to the sun<br>Bid her be free and general as the sun,<br>Who smiles upon the basest weed that grows<br>As lovingly as on the fragrant [[Rose\|rose]].<br>Let’s see what follows that same moonlight line. |
+| LODOWICK | (reading)<br>‘More fair and chaste than is the [[Queen\|queen]] of shades,<br>More bold in constancy’— |
+| [[King\|KING]] EDWARD | (staying him)<br>In constancy than who? |
+| LODOWICK | (reading)<br>‘...than Judith was.’ |
+| [[King\|KING]] EDWARD | O monstrous line! Put in the next a [[Sword\|sword]]<br>And I shall woo her to cut off my head!<br>Blot, blot, good Lod’wick. Let us hear the next. |
 | LODOWICK | There’s all that yet is done. |
-| [[King\|KING]] EDWARD | I thank thee then. Thou hast done little ill, But what is done is passing passing ill. No, let the captain talk of boist’rous war, The prisoner of emurèd dark constraint; The sick man best sets down the pangs of [[Death\|death]], The man that starves the sweetness of a feast, The frozen [[Soul\|soul]] the benefit of [[Fire\|fire]], And every grief his happy opposite. [[Love]] cannot sound [[Well\|well]] but in [[lovers]]’ tongues. Give me the pen and paper. I will write. Lodowick gives him the pen and paper. Enter the [[Countess of Salisbury]] (Aside) But soft—here comes the treasurer of my spirit. (Aloud to Lodowick, showing him the paper in his hand) Lod‘wick, thou know’st not how to draw a battle! These wings, these flankers and these squadrons Argue in thee defective discipline. Thou shouldst have placed this here, this other here— |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--11_exchange_countess_of_salisbury" data-title="Edward III — Scene 2 — exchange (COUNTESS OF SALISBURY) [11]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Pardon my boldness, my thrice-gracious lords. Let my intrusion here be called my duty That comes to see my sovereign how he fares. |
-| [[King\|KING]] EDWARD | (to Lodowick, giving him the paper) Go, draw the same, I tell thee in what form. |
+| [[King\|KING]] EDWARD | I thank thee then. Thou hast done little ill,<br>But what is done is passing passing ill.<br>No, let the captain talk of boist’rous war,<br>The prisoner of emurèd dark constraint;<br>The sick man best sets down the pangs of [[Death\|death]],<br>The man that starves the sweetness of a feast,<br>The frozen [[Soul\|soul]] the benefit of [[Fire\|fire]],<br>And every grief his happy opposite.<br>[[Love]] cannot sound [[Well\|well]] but in [[lovers]]’ tongues.<br>Give me the pen and paper. I will write.<br>Lodowick gives him the pen and paper. |
+| *(didascalia)* | Enter the [[Countess of Salisbury]] |
+| [[King\|KING]] EDWARD | (Aside) But soft—here comes the treasurer of my spirit.<br>(Aloud to Lodowick, showing him the paper in his hand)<br>Lod‘wick, thou know’st not how to draw a battle!<br>These wings, these flankers and these squadrons<br>Argue in thee defective discipline.<br>Thou shouldst have placed this here, this other here— |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Pardon my boldness, my thrice-gracious lords.<br>Let my intrusion here be called my duty<br>That comes to see my sovereign how he fares. |
+| [[King\|KING]] EDWARD | (to Lodowick, giving him the paper)<br>Go, draw the same, I tell thee in what form. |
 | LODOWICK | I go. Exit |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Sorry I am to see my liege so sad. What may thy subject do to drive from thee Thy gloomy consort, sullen [[Melancholy\|melancholy]]? |
-| [[King\|KING]] EDWARD | Ah, lady, I am blunt and cannot strew The [[Flowers\|flowers]] of solace in a ground of shame. Since I came hither, Countess, I am wronged. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Now God forbid that any in my [[house]] Should think my sovereign wrong! Thrice-gentle [[King]], Acquaint me with thy cause of discontent. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Sorry I am to see my liege so sad.<br>What may thy subject do to drive from thee<br>Thy gloomy consort, sullen [[Melancholy\|melancholy]]? |
+| [[King\|KING]] EDWARD | Ah, lady, I am blunt and cannot strew<br>The [[Flowers\|flowers]] of solace in a ground of shame.<br>Since I came hither, Countess, I am wronged. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Now God forbid that any in my [[house]]<br>Should think my sovereign wrong! Thrice-gentle [[King]],<br>Acquaint me with thy cause of discontent. |
 | [[King\|KING]] EDWARD | How near, then, shall I be to remedy? |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | As near, my liege, as all my woman’s power Can pawn itself to buy thy remedy. |
-| [[King\|KING]] EDWARD | If thou speak’st true, then have I my redress. Engage thy power to redeem my joys, And I am joyful, Countess; else I die. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | As near, my liege, as all my woman’s power<br>Can pawn itself to buy thy remedy. |
+| [[King\|KING]] EDWARD | If thou speak’st true, then have I my redress.<br>Engage thy power to redeem my joys,<br>And I am joyful, Countess; else I die. |
 | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | I will, my liege. |
 | [[King\|KING]] EDWARD | Swear, Countess, that thou wilt. |
 | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | By heaven, I will. |
-| [[King\|KING]] EDWARD | Then take thyself a little way aside And tell thyself a [[King\|king]] doth dote on thee. Say that within thy power it doth lie To make him happy, and that thou hast sworn To give him all the joy within thy power- Do this, and tell me when I shall be happy. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | All this is done, my thrice-dread sovereign. That power of [[Love\|love]] that I have power to give Thou hast, with all devout obedience. Employ me how thou wilt in proof thereof. |
+| [[King\|KING]] EDWARD | Then take thyself a little way aside<br>And tell thyself a [[King\|king]] doth dote on thee.<br>Say that within thy power it doth lie<br>To make him happy, and that thou hast sworn<br>To give him all the joy within thy power-<br>Do this, and tell me when I shall be happy. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | All this is done, my thrice-dread sovereign.<br>That power of [[Love\|love]] that I have power to give<br>Thou hast, with all devout obedience.<br>Employ me how thou wilt in proof thereof. |
 | [[King\|KING]] EDWARD | Thou hear’st me say that I do dote on thee. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | If on my [[Beauty\|beauty]], take it if thou canst; Though little, I do prize it ten times less. If on my virtue, take it if thou canst; For virtue’s store, by giving, doth augment. Be it on what it will that I can give, And thou canst take away, inherit it. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | If on my [[Beauty\|beauty]], take it if thou canst;<br>Though little, I do prize it ten times less.<br>If on my virtue, take it if thou canst;<br>For virtue’s store, by giving, doth augment.<br>Be it on what it will that I can give,<br>And thou canst take away, inherit it. |
 | [[King\|KING]] EDWARD | It is thy [[Beauty\|beauty]] that I would enjoy. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | O, were it painted I would wipe it off And dispossess myself to give it thee! But, sovereign, it is soldered to my life: Take one, and both, for, like an humble [[Shadow\|shadow]], It haunts the sunshine of my [[Summer\|summer]]’s life— |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | O, were it painted I would wipe it off<br>And dispossess myself to give it thee!<br>But, sovereign, it is soldered to my life:<br>Take one, and both, for, like an humble [[Shadow\|shadow]],<br>It haunts the sunshine of my [[Summer\|summer]]’s life— |
 | [[King\|KING]] EDWARD | But thou mayst lend it me to sport withal. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | As easy may my intellectual [[Soul\|soul]] Be lent away and yet my [[Body\|body]] live As lend my [[Body\|body]], palace to my [[Soul\|soul]], Away from her and yet retain my [[Soul\|soul]]. My [[Body\|body]] is her bower, her [[Court\|court]], her abbey; And she an angel, pure, divine, unspotted. If I should lend her [[house]], my lord, to thee, I kill my poor [[Soul\|soul]], and my poor [[Soul\|soul]] me. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | As easy may my intellectual [[Soul\|soul]]<br>Be lent away and yet my [[Body\|body]] live<br>As lend my [[Body\|body]], palace to my [[Soul\|soul]],<br>Away from her and yet retain my [[Soul\|soul]].<br>My [[Body\|body]] is her bower, her [[Court\|court]], her abbey;<br>And she an angel, pure, divine, unspotted.<br>If I should lend her [[house]], my lord, to thee,<br>I kill my poor [[Soul\|soul]], and my poor [[Soul\|soul]] me. |
 | [[King\|KING]] EDWARD | Didst thou not swear to give me what I would? |
 | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | I did, my liege, so what you would I could. |
-| [[King\|KING]] EDWARD | I wish no more of thee than thou mayst give, Nor beg I do not, but I rather buy— That is, thy [[Love\|love]]; and for that [[Love\|love]] of thine In rich exchange I tender to thee mine. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--12_monologue_countess_of_salisbury" data-title="Edward III — Scene 2 — monologue (COUNTESS OF SALISBURY) [12]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | But that your lips were sacred, good my lord, You would profane the holy name of [[Love\|love]]. That [[Love\|love]] you offer me you cannot give, For Caesar owes that tribute to his [[Queen\|queen]]. That [[Love\|love]] you beg of me I cannot give, For Sarah owes that duty to her lord. He that doth clip or counterfeit your stamp Shall die, my lord: and will your sacred [[Self\|self]] Commit high treason ‘gainst the [[King\|king]] of heaven To stamp his image in forbidden metal, Forgetting your allegiance and your oath? In violating [[Marriage\|marriage]]’ sacred law You break a greater [[Honour\|honour]] than yourself: To be a [[King\|king]] is of a younger [[house]] Than to be married. Your progenitor, Sole reigning Adam o’er the universe, By God was honoured for a married man, But not by him anointed for a [[King\|king]]. It is a penalty to break your statutes, Though not enacted with your highness’ hand; How much more to infringe the holy act Made by the mouth of God, sealed with his hand! I know my sovereign—in my husband’s [[Love\|love]], Who now doth loyal service in his wars— Doth but so try the wife of Salisbury, Whether she will hear a wanton’s tale or no. Lest being therein guilty by my stay, From that, not from my liege, I turn away. Exit |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--13_exchange_king_edward" data-title="Edward III — Scene 2 — exchange (KING EDWARD) [13]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | Whether is her [[Beauty\|beauty]] by her words divine, Or are her words sweet chaplains to her [[Beauty\|beauty]]? Like as the [[Wind\|wind]] doth beautify a sail And as a sail becomes the unseen [[Wind\|wind]], So do her words her beauties, [[Beauty\|beauty]] words. O, that I were a honey-gathering bee To bear the comb of virtue from this flower, And not a [[Poison\|poison]]-sucking, envious spider To turn the juice I take to deadly venoml Religion is austere, and [[Beauty\|beauty]] gentle— Too strict a guardian for so fair a ward. O, that she were as is the air to me! Why, so she is: for when I would embrace her, This do I (embracing the air), and catch nothing but myself. I must enjoy her, for I cannot beat With reason and reproof fond [[Love\|love]] away. Enter the [[Earl of Warwick]] (Aside) Here comes her father. I will work with him To bear my colours in this field of [[Love\|love]]. |
-| [[Earl of Warwick\|EARL OF WARWICK]] | How is it that my sovereign is so sad? May I, with pardon, know your highness’ grief? An that my old endeavour will remove it, It shall not cumber long your majesty. |
-| [[King\|KING]] EDWARD | A kind and voluntary gift thou proffer’st That I was forward to have begged of thee. But, O, thou world, great [[Nurse\|nurse]] of flattery, Why dost thou tip men’s tongues with golden words, And peise their deeds with weight of heavy lead That fair performance cannot follow promise? O, that a man might hold the heart’s close book And choke the lavish tongue when it doth utter The breath of falsehood not charactered there! |
-| [[Earl of Warwick\|EARL OF WARWICK]] | Far be it from the [[Honour\|honour]] of my age That I should owe bright gold and render lead. Age is a cynic, not a flatterer. I say again that if I knew your grief, And that by me it may be lessened, My proper harm should buy your highness’ good. |
-| [[King\|KING]] EDWARD | These are the vulgar tenders of false men That never pay the duty of their words. Thou wilt not stick to swear what thou hast said, But when thou know’st my griefs condition This rash disgorged vomit of thy word Thou wilt eat up again, and leave me helpless. |
-| [[Earl of Warwick\|EARL OF WARWICK]] | By heaven, I will not, though your majesty Did bid me run upon your [[Sword\|sword]] and die! |
-| [[King\|KING]] EDWARD | Say that my grief is no way medicinable But by the loss and bruising of thine [[Honour\|honour]]? |
-| [[Earl of Warwick\|EARL OF WARWICK]] | If nothing but that loss may vantage you I would account that loss my vantage too. |
+| [[King\|KING]] EDWARD | I wish no more of thee than thou mayst give,<br>Nor beg I do not, but I rather buy—<br>That is, thy [[Love\|love]]; and for that [[Love\|love]] of thine<br>In rich exchange I tender to thee mine. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | But that your lips were sacred, good my lord,<br>You would profane the holy name of [[Love\|love]].<br>That [[Love\|love]] you offer me you cannot give,<br>For Caesar owes that tribute to his [[Queen\|queen]].<br>That [[Love\|love]] you beg of me I cannot give,<br>For Sarah owes that duty to her lord.<br>He that doth clip or counterfeit your stamp<br>Shall die, my lord: and will your sacred [[Self\|self]]<br>Commit high treason ‘gainst the [[King\|king]] of heaven<br>To stamp his image in forbidden metal,<br>Forgetting your allegiance and your oath?<br>In violating [[Marriage\|marriage]]’ sacred law<br>You break a greater [[Honour\|honour]] than yourself:<br>To be a [[King\|king]] is of a younger [[house]]<br>Than to be married. Your progenitor,<br>Sole reigning Adam o’er the universe,<br>By God was honoured for a married man,<br>But not by him anointed for a [[King\|king]].<br>It is a penalty to break your statutes,<br>Though not enacted with your highness’ hand;<br>How much more to infringe the holy act<br>Made by the mouth of God, sealed with his hand!<br>I know my sovereign—in my husband’s [[Love\|love]],<br>Who now doth loyal service in his wars—<br>Doth but so try the wife of Salisbury,<br>Whether she will hear a wanton’s tale or no.<br>Lest being therein guilty by my stay,<br>From that, not from my liege, I turn away. Exit |
+| [[King\|KING]] EDWARD | Whether is her [[Beauty\|beauty]] by her words divine,<br>Or are her words sweet chaplains to her [[Beauty\|beauty]]?<br>Like as the [[Wind\|wind]] doth beautify a sail<br>And as a sail becomes the unseen [[Wind\|wind]],<br>So do her words her beauties, [[Beauty\|beauty]] words.<br>O, that I were a honey-gathering bee<br>To bear the comb of virtue from this flower,<br>And not a [[Poison\|poison]]-sucking, envious spider<br>To turn the juice I take to deadly venoml<br>Religion is austere, and [[Beauty\|beauty]] gentle—<br>Too strict a guardian for so fair a ward.<br>O, that she were as is the air to me!<br>Why, so she is: for when I would embrace her,<br>This do I (embracing the air), and catch nothing but myself.<br>I must enjoy her, for I cannot beat<br>With reason and reproof fond [[Love\|love]] away. |
+| *(didascalia)* | Enter the [[Earl of Warwick]] |
+| [[King\|KING]] EDWARD | (Aside) Here comes her father. I will work with him<br>To bear my colours in this field of [[Love\|love]]. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | How is it that my sovereign is so sad?<br>May I, with pardon, know your highness’ grief?<br>An that my old endeavour will remove it,<br>It shall not cumber long your majesty. |
+| [[King\|KING]] EDWARD | A kind and voluntary gift thou proffer’st<br>That I was forward to have begged of thee.<br>But, O, thou world, great [[Nurse\|nurse]] of flattery,<br>Why dost thou tip men’s tongues with golden words,<br>And peise their deeds with weight of heavy lead<br>That fair performance cannot follow promise?<br>O, that a man might hold the heart’s close book<br>And choke the lavish tongue when it doth utter<br>The breath of falsehood not charactered there! |
+| [[Earl of Warwick\|EARL OF WARWICK]] | Far be it from the [[Honour\|honour]] of my age<br>That I should owe bright gold and render lead.<br>Age is a cynic, not a flatterer.<br>I say again that if I knew your grief,<br>And that by me it may be lessened,<br>My proper harm should buy your highness’ good. |
+| [[King\|KING]] EDWARD | These are the vulgar tenders of false men<br>That never pay the duty of their words.<br>Thou wilt not stick to swear what thou hast said,<br>But when thou know’st my griefs condition<br>This rash disgorged vomit of thy word<br>Thou wilt eat up again, and leave me helpless. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | By heaven, I will not, though your majesty<br>Did bid me run upon your [[Sword\|sword]] and die! |
+| [[King\|KING]] EDWARD | Say that my grief is no way medicinable<br>But by the loss and bruising of thine [[Honour\|honour]]? |
+| [[Earl of Warwick\|EARL OF WARWICK]] | If nothing but that loss may vantage you<br>I would account that loss my vantage too. |
 | [[King\|KING]] EDWARD | Think’st that thou canst unswear thy oath again? |
 | [[Earl of Warwick\|EARL OF WARWICK]] | I cannot, nor I would not if I could. |
 | [[King\|KING]] EDWARD | But if thou dost, what shall I say to thee? |
-| [[Earl of Warwick\|EARL OF WARWICK]] | What may be said to any perjured [[Villain\|villain]] That breaks the sacred warrant of an oath. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | What may be said to any perjured [[Villain\|villain]]<br>That breaks the sacred warrant of an oath. |
 | [[King\|KING]] EDWARD | What wilt thou say to one that breaks an oath? |
-| [[Earl of Warwick\|EARL OF WARWICK]] | That he hath broke his [[Faith\|faith]] with God and man, And from them both stands excommunicate. |
-| [[King\|KING]] EDWARD | What office were it to suggest a man To break a lawful and religious vow? |
+| [[Earl of Warwick\|EARL OF WARWICK]] | That he hath broke his [[Faith\|faith]] with God and man,<br>And from them both stands excommunicate. |
+| [[King\|KING]] EDWARD | What office were it to suggest a man<br>To break a lawful and religious vow? |
 | [[Earl of Warwick\|EARL OF WARWICK]] | An office for the devil, not for man. |
+| [[King\|KING]] EDWARD | That devil’s office must thou do for me,<br>Or break thy oath and cancel all the bonds<br>Of [[Love\|love]] and duty ‘twixt thyself and me.<br>And therefore, Warwick, if thou art thyself,<br>The lord and master of thy word and oath,<br>Go to thy daughter and, in my behalf,<br>Command her, woo her, win her any ways<br>To be my mistress and my secret [[Love\|love]].<br>I will not stand to hear thee make reply;<br>Thy oath break hers, or let thy sovereign die. Exit |
+| [[Earl of Warwick\|EARL OF WARWICK]] | O doting [[King\|king]]! O detestable office!<br>[[Well]] may I tempt myself to wrong myself,<br>When he hath sworn me by the name of God<br>To break a vow made by the name of God.<br>What if I swear by this right hand of mine<br>To cut this right hand off? The better way<br>Were to profane the idol than confound it,<br>But neither will I do. I’ll keep mine oath<br>And to my daughter make a recantation<br>Of all the virtue I have preached to her.<br>I’ll say she must forget her husband, Salisbury—<br>If she remember to embrace the [[King]].<br>I’ll say an oath may easily be broken—<br>But not so easily pardoned, being broken.<br>I’ll say it is true [[Charity\|charity]] to [[Love\|love]]—<br>But not true [[Love\|love]] to be so charitable.<br>I’ll say his [[Greatness\|greatness]] may bear out the shame—<br>But not his kingdom can buy out the sin.<br>I’ll say it is my duty to persuade—<br>But not her honesty to give consent. |
+| *(didascalia)* | Enter the [[Countess of Salisbury]] |
+| [[Earl of Warwick\|EARL OF WARWICK]] | (Aside) See where she comes. Was never father had<br>Against his [[Child\|child]] an embassage so bad. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | My lord and father, I have sought for you.<br>My mother and the peers importune you<br>To keep in presence of his majesty,<br>And do your best to make his highness merry. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | (aside)<br>How shall I enter in this graceless errand?<br>I must not call her [[Child\|child]], for where’s the father<br>That will in such a suit seduce his [[Child\|child]]?<br>Then ‘wife of Salisbury’—shall I so begin?<br>No, he’s my friend, and where is found the friend<br>That will do [[Friendship\|friendship]] such endamagement?<br>(To the Countess) Neither my daughter, nor my dear friend’s wife,<br>I am not Warwick, as thou think‘st I am,<br>But an attorney from the [[Court\|court]] of hell,<br>That thus have housed my spirit in his form<br>To do a message to thee from the [[King]]:<br>‘The mighty [[King]] of England dotes on thee:<br>He that hath power to take away thy life<br>Hath power to take thy [[Honour\|honour]]. Then consent<br>To pawn thine [[Honour\|honour]] rather than thy life;<br>[[Honour]] is often lost and got again,<br>But life, once gone, hath no recovery.<br>The sun that withers hay doth nourish grass,<br>The [[King]] that would distain thee, will advance thee.<br>The poets write that great [[Achilles]]’ spear<br>Could heal the wound it made; the moral is,<br>What mighty men misdo they can amend.<br>The [[Lion\|lion]] doth become his bloody jaws<br>And grace his foragement by being mild<br>When vassal [[Fear\|fear]] lies trembling at his feet.<br>The [[King]] will, in his glory, hide thy shame,<br>And those that gaze on him, to find out thee,<br>Will lose their eyesight looking in the sun.<br>What can one drop of [[Poison\|poison]] harm the sea<br>Whose hugy vastures can digest the ill<br>And make it lose his operation?<br>The [[King]]’s great name will temper thy misdeeds,<br>And give the bitter potion of reproach<br>A sugared, sweet and most delicious taste.<br>Besides, it is no harm to do the thing<br>Which, without shame, could not be left undone.’<br>Thus have I, in his majesty’s behalf,<br>Apparelled sin in virtuous sentences,<br>And dwell upon thy answer in his suit. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Unnatural besiege! Woe me unhappy,<br>To have escaped the danger of my foes<br>And to be ten times worse envir‘ned by friends!<br>Hath he no means to stain my honest [[Blood\|blood]]<br>But to corrupt the author of my [[Blood\|blood]]<br>To be his scandalous and vile solicitor?<br>No marvel though the branch be then infected,<br>When [[Poison\|poison]] hath encompassed the root;<br>No marvel though the leprous infant die,<br>When the stern dame envenometh the dug.<br>Why then, give sin a passport to offend,<br>And youth the dangerous rein of liberty.<br>Blot out the strict forbidding of the law,<br>And cancel every canon that prescribes<br>A shame for shame, or penance for offence.<br>No, let me die if his too boist’rous will<br>Will have it so, before I will consent<br>To be an actor in his graceless lust. |
+| [[Earl of Warwick\|EARL OF WARWICK]] | Why, now thou speak‘st as I would have thee speak!<br>And mark how I unsay my words again:<br>An honourable [[Grave\|grave]] is more esteemed<br>Than the polluted closet of a [[King\|king]].<br>The greater man, the greater is the thing,<br>Be it good or bad, that he shall undertake.<br>An unreputed mote flying in the sun<br>Presents a greater substance than it is.<br>The freshest [[Summer\|summer]]’s day doth soonest taint<br>The loathed carrion that it seems to kiss.<br>Deep are the blows made with a mighty axe.<br>That sin doth ten times aggravate itself<br>That is committed in a holy place.<br>An evil deed done by authority<br>Is sin and subornation. Deck an ape<br>In tissue, and the [[Beauty\|beauty]] of the robe<br>Adds but the greater scorn unto the beast.<br>A spacious field of reasons could I urge<br>Between his glory, daughter, and thy shame:<br>That [[Poison\|poison]] shows worst in a golden cup;<br>Dark [[Night\|night]] seems darker by the [[Lightning\|lightning]] flash;<br>Lilies that fester smell far worse than weeds;<br>And every glory that inclines to sin,<br>The shame is treble by the opposite.<br>So leave I with my blessing in thy bosom,<br>Which then [[convert]] to a most heavy curse<br>When thou [[convert]]’st from [[Honour\|honour]]’s golden name<br>To the black faction of bed-blotting shame. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | I’ll follow thee, and when my mind turns so,<br>My [[Body\|body]] sink my [[Soul\|soul]] in endless woe. Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="scenes--scene_2--14_exchange_king_edward" data-title="Edward III — Scene 2 — exchange (KING EDWARD) [14]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | That devil’s office must thou do for me, Or break thy oath and cancel all the bonds Of [[Love\|love]] and duty ‘twixt thyself and me. And therefore, Warwick, if thou art thyself, The lord and master of thy word and oath, Go to thy daughter and, in my behalf, Command her, woo her, win her any ways To be my mistress and my secret [[Love\|love]]. I will not stand to hear thee make reply; Thy oath break hers, or let thy sovereign die. Exit |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--15_monologue_earl_of_warwick" data-title="Edward III — Scene 2 — monologue (EARL OF WARWICK) [15]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Earl of Warwick\|EARL OF WARWICK]] | O doting [[King\|king]]! O detestable office! [[Well]] may I tempt myself to wrong myself, When he hath sworn me by the name of God To break a vow made by the name of God. What if I swear by this right hand of mine To cut this right hand off? The better way Were to profane the idol than confound it, But neither will I do. I’ll keep mine oath And to my daughter make a recantation Of all the virtue I have preached to her. I’ll say she must forget her husband, Salisbury— If she remember to embrace the [[King]]. I’ll say an oath may easily be broken— But not so easily pardoned, being broken. I’ll say it is true [[Charity\|charity]] to [[Love\|love]]— But not true [[Love\|love]] to be so charitable. I’ll say his [[Greatness\|greatness]] may bear out the shame— But not his kingdom can buy out the sin. I’ll say it is my duty to persuade— But not her honesty to give consent. Enter the [[Countess of Salisbury]] (Aside) See where she comes. Was never father had Against his [[Child\|child]] an embassage so bad. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--16_exchange_countess_of_salisbury" data-title="Edward III — Scene 2 — exchange (COUNTESS OF SALISBURY) [16]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | My lord and father, I have sought for you. My mother and the peers importune you To keep in presence of his majesty, And do your best to make his highness merry. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--17_monologue_earl_of_warwick" data-title="Edward III — Scene 2 — monologue (EARL OF WARWICK) [17]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Earl of Warwick\|EARL OF WARWICK]] | (aside) How shall I enter in this graceless errand? I must not call her [[Child\|child]], for where’s the father That will in such a suit seduce his [[Child\|child]]? Then ‘wife of Salisbury’—shall I so begin? No, he’s my friend, and where is found the friend That will do [[Friendship\|friendship]] such endamagement? (To the Countess) Neither my daughter, nor my dear friend’s wife, I am not Warwick, as thou think‘st I am, But an attorney from the [[Court\|court]] of hell, That thus have housed my spirit in his form To do a message to thee from the [[King]]: ‘The mighty [[King]] of England dotes on thee: He that hath power to take away thy life Hath power to take thy [[Honour\|honour]]. Then consent To pawn thine [[Honour\|honour]] rather than thy life; [[Honour]] is often lost and got again, But life, once gone, hath no recovery. The sun that withers hay doth nourish grass, The [[King]] that would distain thee, will advance thee. The poets write that great [[Achilles]]’ spear Could heal the wound it made; the moral is, What mighty men misdo they can amend. The [[Lion\|lion]] doth become his bloody jaws And grace his foragement by being mild When vassal [[Fear\|fear]] lies trembling at his feet. The [[King]] will, in his glory, hide thy shame, And those that gaze on him, to find out thee, Will lose their eyesight looking in the sun. What can one drop of [[Poison\|poison]] harm the sea Whose hugy vastures can digest the ill And make it lose his operation? The [[King]]’s great name will temper thy misdeeds, And give the bitter potion of reproach A sugared, sweet and most delicious taste. Besides, it is no harm to do the thing Which, without shame, could not be left undone.’ Thus have I, in his majesty’s behalf, Apparelled sin in virtuous sentences, And dwell upon thy answer in his suit. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--18_exchange_countess_of_salisbury" data-title="Edward III — Scene 2 — exchange (COUNTESS OF SALISBURY) [18]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Unnatural besiege! Woe me unhappy, To have escaped the danger of my foes And to be ten times worse envir‘ned by friends! Hath he no means to stain my honest [[Blood\|blood]] But to corrupt the author of my [[Blood\|blood]] To be his scandalous and vile solicitor? No marvel though the branch be then infected, When [[Poison\|poison]] hath encompassed the root; No marvel though the leprous infant die, When the stern dame envenometh the dug. Why then, give sin a passport to offend, And youth the dangerous rein of liberty. Blot out the strict forbidding of the law, And cancel every canon that prescribes A shame for shame, or penance for offence. No, let me die if his too boist’rous will Will have it so, before I will consent To be an actor in his graceless lust. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--19_monologue_earl_of_warwick" data-title="Edward III — Scene 2 — monologue (EARL OF WARWICK) [19]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Earl of Warwick\|EARL OF WARWICK]] | Why, now thou speak‘st as I would have thee speak! And mark how I unsay my words again: An honourable [[Grave\|grave]] is more esteemed Than the polluted closet of a [[King\|king]]. The greater man, the greater is the thing, Be it good or bad, that he shall undertake. An unreputed mote flying in the sun Presents a greater substance than it is. The freshest [[Summer\|summer]]’s day doth soonest taint The loathed carrion that it seems to kiss. Deep are the blows made with a mighty axe. That sin doth ten times aggravate itself That is committed in a holy place. An evil deed done by authority Is sin and subornation. Deck an ape In tissue, and the [[Beauty\|beauty]] of the robe Adds but the greater scorn unto the beast. A spacious field of reasons could I urge Between his glory, daughter, and thy shame: That [[Poison\|poison]] shows worst in a golden cup; Dark [[Night\|night]] seems darker by the [[Lightning\|lightning]] flash; Lilies that fester smell far worse than weeds; And every glory that inclines to sin, The shame is treble by the opposite. So leave I with my blessing in thy bosom, Which then [[convert]] to a most heavy curse When thou [[convert]]’st from [[Honour\|honour]]’s golden name To the black faction of bed-blotting shame. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_2--20_exchange_countess_of_salisbury" data-title="Edward III — Scene 2 — exchange (COUNTESS OF SALISBURY) [20]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | I’ll follow thee, and when my mind turns so, My [[Body\|body]] sink my [[Soul\|soul]] in endless woe. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_3--01_exchange_dialogue" data-title="Edward III — Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="exchange"></span>
+<span class="atom-split" data-atom="scenes--scene_3" data-title="Edward III — Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter at one door the Earl of Derby from France. At another door, enter Lord Audley with a drummer |
-| EARL OF DERBY | Thrice-noble Audley, [[Well\|well]] encountered here. How is it with our sovereign and his peers? |
-| AUDLEY | ‘Tis full a fortnight since I saw his highness, What [[Time\|time]] he sent me forth to muster men, Which I accordingly have done, and bring them hither, In fair array, before his majesty. What news, my lord of Derby, from the Emperor? |
-| EARL OF DERBY | As good as we [[Desire\|desire]]. The Emperor Hath yielded to his highness friendly aid, And makes our [[King\|king]] lieutenant-general In all his lands and large dominions. Then via for the spacious bounds of France! |
+| EARL OF DERBY | Thrice-noble Audley, [[Well\|well]] encountered here.<br>How is it with our sovereign and his peers? |
+| AUDLEY | ‘Tis full a fortnight since I saw his highness,<br>What [[Time\|time]] he sent me forth to muster men,<br>Which I accordingly have done, and bring them hither,<br>In fair array, before his majesty.<br>What news, my lord of Derby, from the Emperor? |
+| EARL OF DERBY | As good as we [[Desire\|desire]]. The Emperor<br>Hath yielded to his highness friendly aid,<br>And makes our [[King\|king]] lieutenant-general<br>In all his lands and large dominions.<br>Then via for the spacious bounds of France! |
 | AUDLEY | What, doth his highness leap to hear these news? |
-| EARL OF DERBY | I have not yet found [[Time\|time]] to open them. The [[King]] is in his closet, malcontent. For what I know not, but he gave in charge Till after dinner none should interrupt him. The Countess Salisbury and her father Warwick, Artois, and all, look underneath the brows. |
-| AUDLEY | Undoubtedly, then, something is amiss. Sound trumpets within |
-| EARL OF DERBY | The trumpets sound. The [[King]] is now abroad. Enter [[King]] Edward |
+| EARL OF DERBY | I have not yet found [[Time\|time]] to open them.<br>The [[King]] is in his closet, malcontent.<br>For what I know not, but he gave in charge<br>Till after dinner none should interrupt him.<br>The Countess Salisbury and her father Warwick,<br>Artois, and all, look underneath the brows. |
+| AUDLEY | Undoubtedly, then, something is amiss. |
+| *(didascalia)* | Sound trumpets within |
+| EARL OF DERBY | The trumpets sound. The [[King]] is now abroad. |
+| *(didascalia)* | Enter [[King]] Edward |
 | COMTE D’ARTOIS | Here comes his highness. |
-| EARL OF DERBY | (to the [[King]]) Befall my sovereign all my sovereign’s wish. |
-| [[King\|KING]] EDWARD | aside Ah, that thou wert a [[Witch\|witch]] to make it so. |
+| EARL OF DERBY | (to the [[King]])<br>Befall my sovereign all my sovereign’s wish. |
+| *(didascalia)* | [[King\|KING]] EDWARD aside |
+| EARL OF DERBY | Ah, that thou wert a [[Witch\|witch]] to make it so. |
 | EARL OF DERBY | The Emperor greeteth you— |
-| [[King\|KING]] EDWARD | aside Would it were the Countess. |
+| *(didascalia)* | [[King\|KING]] EDWARD aside Would it were the Countess. |
 | EARL OF DERBY | —And hath accorded to your highness’ suit. |
-| [[King\|KING]] EDWARD | aside Thou liest. She hath not, but I would she had. |
+| *(didascalia)* | [[King\|KING]] EDWARD aside |
+| EARL OF DERBY | Thou liest. She hath not, but I would she had. |
 | AUDLEY | All [[Love\|love]] and duty to my lord the [[King]]. |
-| [[King\|KING]] EDWARD | aside [[Well]], all but one is none. (To Audley) What news with you? |
-| AUDLEY | I have, my liege, levied those [[Horse\|horse]] and foot, According as your charge, and brought them hither. |
-| [[King\|KING]] EDWARD | Then let those foot trudge hence upon those [[Horse\|horse]], According to our discharge, and be gone. Derby, I’ll look upon the Countess’ mind anon. |
+| *(didascalia)* | [[King\|KING]] EDWARD aside |
+| AUDLEY | [[Well]], all but one is none. (To Audley) What news with you? |
+| AUDLEY | I have, my liege, levied those [[Horse\|horse]] and foot,<br>According as your charge, and brought them hither. |
+| [[King\|KING]] EDWARD | Then let those foot trudge hence upon those [[Horse\|horse]],<br>According to our discharge, and be gone.<br>Derby, I’ll look upon the Countess’ mind anon. |
 | EARL OF DERBY | The Countess’ mind, my liege? |
 | [[King\|KING]] EDWARD | I mean the Emperor. Leave me [[Alone\|alone]]. |
-| AUDLEY | (to Derby) What is his mind? |
-| EARL OF DERBY | Let’s leave him to his [[Humour\|humour]]. Exeunt Derby and Audley |
-| [[King\|KING]] EDWARD | Thus from the heart’s abundance speaks the tongue: ‘Countess’ for ‘Emperor’—and indeed why not? She is as imperator over me, and I to her Am as a kneeling vassal that observes The pleasure or displeasure of her eye. Enter Lodowick (To Lodowick) What says the more-than-[[Cleopatra]]’s match To Caesar now? |
-| LODOWICK | That yet, my liege, ere [[Night\|night]] She will resolve your majesty. Sound drum within |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_3--02_monologue_king_edward" data-title="Edward III — Scene 3 — monologue (KING EDWARD) [2]" data-chapter="Scene 3" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | What drum is this that thunders forth this march To start the tender Cupid in my bosom? Poor sheepskin, how it brawls with him that beateth it! Go, break the thund’ring parchment-[[Bottom\|bottom]] out And I will teach it to conduct sweet lines Unto the bosom of a heavenly nymph; For I will use it as my writing paper, And so reduce him from a scolding drum To be the herald, and dear counsel-bearer, Betwixt a goddess and a mighty [[King\|king]]. Go, bid the drummer learn to touch the lute, Or hang him in the braces of his drum; For now we think it an uncivil thing To trouble heaven with such harsh resounds. Away! Exit Lodowick The quarrel that I have requires no arms But these of mine, and these shall meet my foe In a deep march of penetrable groans. My eyes shall be my arrows, and my sighs Shall serve me as the vantage of the [[Wind\|wind]] To whirl away my sweet’st artillery. Ah, but alas, she wins the sun of me, For that is she herself, and thence it comes That poets term the wanton warrior blind. But [[Love\|love]] hath eyes as judgement to his steps, Till too much loved glory dazzles them— Enter Lodowick How now? |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_3--03_exchange_lodowick" data-title="Edward III — Scene 3 — exchange (LODOWICK) [3]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| LODOWICK | My liege, the drum that struck the lusty march Stands with Prince Edward, your thrice-valiant son. Exit Enter Edward, Prince of Wales |
-| [[King\|KING]] EDWARD | I see the boy. Aside O, how his mother’s face, Modelled in his, corrects my strayed [[Desire\|desire]], And rates my heart, and chides my thievish eye, Who, being rich enough in seeing her, Yet seek elsewhere; and basest theft is that Which cannot cloak itself in [[Poverty\|poverty]]. (To the Prince) Now, boy, what news? |
-| PRINCE OF WALES | I have assembled, my dear lord and father, The choicest buds of all our English [[Blood\|blood]] For our affairs to France, and here we come To take direction from your majesty. |
-| [[King\|KING]] EDWARD | (aside) Still do I see in him delineate His mother’s visage. Those his eyes are hers, Who looking wistly on me make me blush. For faults against themselves give evidence; Lust is a [[Fire\|fire]], and men, like lanterns, show Light lust within themselves, even through themselves. Away, loose silks o’er wavering [[Vanity\|vanity]]! Shall the large limit of fair Brittany By me be overthrown, and shall I not Master this little mansion of myself? Give me an armour of eternal steel: I go to conquer kings; and shall I not then Subdue myself and be my enemy’s friend? It must not be. (To the Prince) Come, boy! Forward! Advance! Let’s with our colours sweet the air of France. Enter Lodowick |
-| LODOWICK | (to the [[King]]) My liege, the Countess, with a smiling cheer, Desires access unto your majesty. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_3--04_monologue_king_edward" data-title="Edward III — Scene 3 — monologue (KING EDWARD) [4]" data-chapter="Scene 3" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | (aside) Why there it goes. That very smile of hers Hath ransomed captive France and set the [[King]], The [[Dauphin]] and the peers at liberty. (To the Prince) Go, leave me, Ned, and revel with thy friends. Exit the Prince of Wales (Aside) Thy mother is but black, and thou, like her, Dost put it in my mind how foul she is. (To Lodowick) Go, fetch the Countess hither in thy hand— Exit Lodowick And let her chase away these [[Winter\|winter]] clouds, For she gives [[Beauty\|beauty]] both to heaven and earth. The sin is more to hack and hew poor men Than to embrace in an unlawful bed The register of all rarieties Since leathern Adam till this youngest hour. Enter Lodowick leading in by the hand the [[Countess of Salisbury]] Go, Lod’wick, put thy hand into my purse— Play, spend, give, riot, waste, do what thou wilt So thou wilt hence awhile and leave me here. Exit Lodowick (To the Countess) Now, my [[Soul\|soul]]’s playfellow, art thou come To speak the more-than-heavenly word of ‘yea’ To my objection in thy beauteous [[Love\|love]]? |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_3--05_exchange_countess_of_salisbury" data-title="Edward III — Scene 3 — exchange (COUNTESS OF SALISBURY) [5]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| AUDLEY | (to Derby)<br>What is his mind? |
+| EARL OF DERBY | Let’s leave him to his [[Humour\|humour]]. |
+| *(didascalia)* | Exeunt Derby and Audley |
+| [[King\|KING]] EDWARD | Thus from the heart’s abundance speaks the tongue:<br>‘Countess’ for ‘Emperor’—and indeed why not?<br>She is as imperator over me, and I to her<br>Am as a kneeling vassal that observes<br>The pleasure or displeasure of her eye. |
+| *(didascalia)* | Enter Lodowick |
+| [[King\|KING]] EDWARD | (To Lodowick) What says the more-than-[[Cleopatra]]’s<br>match<br>To Caesar now? |
+| LODOWICK | That yet, my liege, ere [[Night\|night]]<br>She will resolve your majesty. |
+| *(didascalia)* | Sound drum within |
+| [[King\|KING]] EDWARD | What drum is this that thunders forth this march<br>To start the tender Cupid in my bosom?<br>Poor sheepskin, how it brawls with him that beateth it!<br>Go, break the thund’ring parchment-[[Bottom\|bottom]] out<br>And I will teach it to conduct sweet lines<br>Unto the bosom of a heavenly nymph;<br>For I will use it as my writing paper,<br>And so reduce him from a scolding drum<br>To be the herald, and dear counsel-bearer,<br>Betwixt a goddess and a mighty [[King\|king]].<br>Go, bid the drummer learn to touch the lute,<br>Or hang him in the braces of his drum;<br>For now we think it an uncivil thing<br>To trouble heaven with such harsh resounds. Away! |
+| *(didascalia)* | Exit Lodowick |
+| [[King\|KING]] EDWARD | The quarrel that I have requires no arms<br>But these of mine, and these shall meet my foe<br>In a deep march of penetrable groans.<br>My eyes shall be my arrows, and my sighs<br>Shall serve me as the vantage of the [[Wind\|wind]]<br>To whirl away my sweet’st artillery.<br>Ah, but alas, she wins the sun of me,<br>For that is she herself, and thence it comes<br>That poets term the wanton warrior blind.<br>But [[Love\|love]] hath eyes as judgement to his steps,<br>Till too much loved glory dazzles them— |
+| *(didascalia)* | Enter Lodowick |
+| [[King\|KING]] EDWARD | How now? |
+| LODOWICK | My liege, the drum that struck the lusty march<br>Stands with Prince Edward, your thrice-valiant son. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Enter Edward, Prince of Wales |
+| *(didascalia)* | I see the boy. Aside O, how his mother’s face, |
+| [[King\|KING]] EDWARD | Modelled in his, corrects my strayed [[Desire\|desire]],<br>And rates my heart, and chides my thievish eye,<br>Who, being rich enough in seeing her,<br>Yet seek elsewhere; and basest theft is that<br>Which cannot cloak itself in [[Poverty\|poverty]].<br>(To the Prince) Now, boy, what news? |
+| PRINCE OF WALES | I have assembled, my dear lord and father,<br>The choicest buds of all our English [[Blood\|blood]]<br>For our affairs to France, and here we come<br>To take direction from your majesty. |
+| [[King\|KING]] EDWARD | (aside)<br>Still do I see in him delineate<br>His mother’s visage. Those his eyes are hers,<br>Who looking wistly on me make me blush.<br>For faults against themselves give evidence;<br>Lust is a [[Fire\|fire]], and men, like lanterns, show<br>Light lust within themselves, even through themselves.<br>Away, loose silks o’er wavering [[Vanity\|vanity]]!<br>Shall the large limit of fair Brittany<br>By me be overthrown, and shall I not<br>Master this little mansion of myself?<br>Give me an armour of eternal steel:<br>I go to conquer kings; and shall I not then<br>Subdue myself and be my enemy’s friend?<br>It must not be. (To the Prince) Come, boy! Forward!<br>Advance!<br>Let’s with our colours sweet the air of France. |
+| *(didascalia)* | Enter Lodowick |
+| LODOWICK | (to the [[King]])<br>My liege, the Countess, with a smiling cheer,<br>Desires access unto your majesty. |
+| [[King\|KING]] EDWARD | (aside)<br>Why there it goes. That very smile of hers<br>Hath ransomed captive France and set the [[King]],<br>The [[Dauphin]] and the peers at liberty.<br>(To the Prince) Go, leave me, Ned, and revel with thy friends. |
+| *(didascalia)* | Exit the Prince of Wales |
+| [[King\|KING]] EDWARD | (Aside) Thy mother is but black, and thou, like her,<br>Dost put it in my mind how foul she is.<br>(To Lodowick) Go, fetch the Countess hither in thy hand— |
+| *(didascalia)* | Exit Lodowick |
+| [[King\|KING]] EDWARD | And let her chase away these [[Winter\|winter]] clouds,<br>For she gives [[Beauty\|beauty]] both to heaven and earth.<br>The sin is more to hack and hew poor men<br>Than to embrace in an unlawful bed<br>The register of all rarieties<br>Since leathern Adam till this youngest hour. |
+| *(didascalia)* | Enter Lodowick leading in by the hand the [[Countess of Salisbury]] |
+| [[King\|KING]] EDWARD | Go, Lod’wick, put thy hand into my purse—<br>Play, spend, give, riot, waste, do what thou wilt<br>So thou wilt hence awhile and leave me here. |
+| *(didascalia)* | Exit Lodowick |
+| [[King\|KING]] EDWARD | (To the Countess) Now, my [[Soul\|soul]]’s playfellow, art thou come<br>To speak the more-than-heavenly word of ‘yea’<br>To my objection in thy beauteous [[Love\|love]]? |
 | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | My father on his blessing hath commanded— |
 | [[King\|KING]] EDWARD | That thou shalt yield to me. |
 | [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Ay, dear my liege, your due. |
-| [[King\|KING]] EDWARD | And that, my dearest [[Love\|love]], can be no less Than right for right, and render [[Love\|love]] for [[Love\|love]]. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Than wrong for wrong, and endless hate for hate. But sith I see your majesty so bent That my unwillingness, my husband’s [[Love\|love]], Your high estate, nor no respect respected Can be my help, but that your mightiness Will overbear and awe these dear regards, I bind my discontent to thy content, And what I would not ill compel I will, Provided that yourself remove those lets That stand between your highness’ [[Love\|love]] and mine. |
+| [[King\|KING]] EDWARD | And that, my dearest [[Love\|love]], can be no less<br>Than right for right, and render [[Love\|love]] for [[Love\|love]]. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Than wrong for wrong, and endless hate for hate.<br>But sith I see your majesty so bent<br>That my unwillingness, my husband’s [[Love\|love]],<br>Your high estate, nor no respect respected<br>Can be my help, but that your mightiness<br>Will overbear and awe these dear regards,<br>I bind my discontent to thy content,<br>And what I would not ill compel I will,<br>Provided that yourself remove those lets<br>That stand between your highness’ [[Love\|love]] and mine. |
 | [[King\|KING]] EDWARD | Name them, fair Countess, and by heaven I will. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | It is their lives that stand between our [[Love\|love]] That I would have choked up, my sovereign. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | It is their lives that stand between our [[Love\|love]]<br>That I would have choked up, my sovereign. |
 | [[King\|KING]] EDWARD | Whose lives, my lady? |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | My thrice-loving liege, Your [[Queen]] and Salisbury, my wedded husband, Who, living, have that title in our [[Love\|love]] That we cannot bestow but by their [[Death\|death]]. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | My thrice-loving liege,<br>Your [[Queen]] and Salisbury, my wedded husband,<br>Who, living, have that title in our [[Love\|love]]<br>That we cannot bestow but by their [[Death\|death]]. |
 | [[King\|KING]] EDWARD | Their opposition is beyond our law. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | So is your [[Desire\|desire]]. If the law Can hinder you to execute the one, Let it forbid you to attempt the other. I cannot think you [[Love\|love]] me as you say Unless you do make good what you have sworn. |
-| [[King\|KING]] EDWARD | No more. Thy husband and the [[Queen]] shall die. Fairer thou art by far than [[Hero]] was; Beardless Leander not so strong as I. He swam an easy current for his [[Love\|love]], But I will through a Hellespont of [[Blood\|blood]] To arrive at Sestos, where my [[Hero]] lies. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Nay, you’ll do more. You’ll make the [[River\|river]] too With their heart bloods that keep our [[Love\|love]] asunder, Of which my husband and your wife are twain. |
-| [[King\|KING]] EDWARD | Thy [[Beauty\|beauty]] makes them guilty of their [[Death\|death]], And gives in evidence that they shall die— Upon which verdict I, their judge, condemn them. |
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | O, perjured [[Beauty\|beauty]]! More corrupted judge! When to the great star chamber o‘er our heads The universal sessions calls to ’count This packing evil, we both shall tremble for it. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | So is your [[Desire\|desire]]. If the law<br>Can hinder you to execute the one,<br>Let it forbid you to attempt the other.<br>I cannot think you [[Love\|love]] me as you say<br>Unless you do make good what you have sworn. |
+| [[King\|KING]] EDWARD | No more. Thy husband and the [[Queen]] shall die.<br>Fairer thou art by far than [[Hero]] was;<br>Beardless Leander not so strong as I.<br>He swam an easy current for his [[Love\|love]],<br>But I will through a Hellespont of [[Blood\|blood]]<br>To arrive at Sestos, where my [[Hero]] lies. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Nay, you’ll do more. You’ll make the [[River\|river]] too<br>With their heart bloods that keep our [[Love\|love]] asunder,<br>Of which my husband and your wife are twain. |
+| [[King\|KING]] EDWARD | Thy [[Beauty\|beauty]] makes them guilty of their [[Death\|death]],<br>And gives in evidence that they shall die—<br>Upon which verdict I, their judge, condemn them. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | O, perjured [[Beauty\|beauty]]! More corrupted judge!<br>When to the great star chamber o‘er our heads<br>The universal sessions calls to ’count<br>This packing evil, we both shall tremble for it. |
 | [[King\|KING]] EDWARD | What says my fair [[Love\|love]]? Is she resolute? |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Resolved to be dissolved, and therefore this:<br>Keep but thy word, great [[King]], and I am thine.<br>Stand where thou dost—I’ll part a little from thee—<br>She moves away from the [[King]] |
+| *(didascalia)* | kneeling And see how I will yield me to thy hands. |
+| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Here, by my side, doth hang my wedding knives.<br>She reveals two knives<br>Take thou the one,<br>She offers a knife to the [[King]]<br>and with it kill thy [[Queen]],<br>And learn by me to find her where she lies;<br>And with this other<br>She turns the other knife on herself<br>I’ll dispatch my [[Love\|love]],<br>Which now lies fast asleep within my heart.<br>When they are gone, then I’ll consent to [[Love\|love]].<br>Stir not, lascivious [[King]], to hinder me.<br>My resolution is more nimbler far<br>Than thy prevention can be in my rescue.<br>An if thou stir, I strike. Therefore stand still,<br>And hear the choice that I will put thee to.<br>Either swear to leave thy most unholy suit<br>And never henceforth to solicit me,<br>Or else, by heaven, this sharp-pointed knife<br>Shall stain thy earth with that which thou wouldst stain—<br>My poor, chaste [[Blood\|blood]]. Swear, Edward, swear,<br>Or I will strike and die before thee here. |
+| [[King\|KING]] EDWARD | Even by that power I swear, that gives me now<br>The power to be ashamed of myself,<br>I never mean to part my lips again<br>In any words that tends to such a suit.<br>Arise, true English lady, whom our isle<br>May better boast of than ever Roman might<br>Of her, whose ransacked treasury hath tasked<br>The vain endeavour of so many pens.<br>Arise, and be my fault thy [[Honour\|honour]]’s fame<br>Which after-ages shall enrich thee with.<br>I am awakèd from this idle dream. |
+| *(didascalia)* | The Countess stands |
+| [[King\|KING]] EDWARD | (Calling) Warwick, my son, Derby, Artois and Audley—<br>Brave warriors all, where are you all this while? |
+| *(didascalia)* | Enter all the peers: the [[Earl of Warwick]], the |
+| [[King\|KING]] EDWARD | Prince of Wales, the Earl of Derby, the Comte d’Artois<br>and Lord Audley<br>Warwick, I make thee Warden of the North.<br>Thou, Prince of Wales, and Audley, straight to sea,<br>Scour to Newhaven—some there stay for me.<br>Myself, Artois and Derby will through Flanders<br>To greet our friends there and to crave their aid.<br>This [[Night\|night]] will scarce suffice me to discover<br>My folly’s siege against a faithful [[Lover\|lover]],<br>For ere the sun shall gild the eastern sky<br>We’ll wake him with our martial harmony. |
+| *(didascalia)* | Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="scenes--scene_3--06_monologue_countess_of_salisbury" data-title="Edward III — Scene 3 — monologue (COUNTESS OF SALISBURY) [6]" data-chapter="Scene 3" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Countess of Salisbury\|COUNTESS OF SALISBURY]] | Resolved to be dissolved, and therefore this: Keep but thy word, great [[King]], and I am thine. Stand where thou dost—I’ll part a little from thee— She moves away from the [[King]] kneeling And see how I will yield me to thy hands. Here, by my side, doth hang my wedding knives. She reveals two knives Take thou the one, She offers a knife to the [[King]] and with it kill thy [[Queen]], And learn by me to find her where she lies; And with this other She turns the other knife on herself I’ll dispatch my [[Love\|love]], Which now lies fast asleep within my heart. When they are gone, then I’ll consent to [[Love\|love]]. Stir not, lascivious [[King]], to hinder me. My resolution is more nimbler far Than thy prevention can be in my rescue. An if thou stir, I strike. Therefore stand still, And hear the choice that I will put thee to. Either swear to leave thy most unholy suit And never henceforth to solicit me, Or else, by heaven, this sharp-pointed knife Shall stain thy earth with that which thou wouldst stain— My poor, chaste [[Blood\|blood]]. Swear, Edward, swear, Or I will strike and die before thee here. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_3--07_monologue_king_edward" data-title="Edward III — Scene 3 — monologue (KING EDWARD) [7]" data-chapter="Scene 3" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | Even by that power I swear, that gives me now The power to be ashamed of myself, I never mean to part my lips again In any words that tends to such a suit. Arise, true English lady, whom our isle May better boast of than ever Roman might Of her, whose ransacked treasury hath tasked The vain endeavour of so many pens. Arise, and be my fault thy [[Honour\|honour]]’s fame Which after-ages shall enrich thee with. I am awakèd from this idle dream. The Countess stands (Calling) Warwick, my son, Derby, Artois and Audley— Brave warriors all, where are you all this while? Enter all the peers: the [[Earl of Warwick]], the |
-| [[King\|KING]] EDWARD | Prince of Wales, the Earl of Derby, the Comte d’Artois and Lord Audley Warwick, I make thee Warden of the North. Thou, Prince of Wales, and Audley, straight to sea, Scour to Newhaven—some there stay for me. Myself, Artois and Derby will through Flanders To greet our friends there and to crave their aid. This [[Night\|night]] will scarce suffice me to discover My folly’s siege against a faithful [[Lover\|lover]], For ere the sun shall gild the eastern sky We’ll wake him with our martial harmony. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_4--01_exchange_dialogue" data-title="Edward III — Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="exchange"></span>
+<span class="atom-split" data-atom="scenes--scene_4" data-title="Edward III — Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Jean [[King of France]], his two sons (the [[Dauphin]] and Prince Philippe) and the Duc de Lorraine |
-| [[King of France\|KING OF FRANCE]] | Here, till our navy of a thousand sail Have made a breakfast to our foe by sea, Let us encamp to wait their happy [[Speed\|speed]]. Lorraine, what readiness is Edward in? How hast thou heard that he provided is Of martial furniture for this exploit? |
-| DUC DE LORRAINE | To lay aside unnecessary soothing, And not to spend the [[Time\|time]] in circumstance, ’Tis bruited for a certainty, my lord, That he’s exceeding strongly fortified. His subjects flock as willingly to war As if unto a triumph they were led. |
-| [[Dauphin\|DAUPHIN]] | England was wont to harbour malcontents, Bloodthirsty and seditious Catilines, Spendthrifts, and such as gape for nothing else But change and alteration of the state. And is it possible That they are now so loyal in themselves? |
-| DUC DE LORRAINE | All but the Scot, who solemnly protests, As heretofore I have informed his grace, Never to sheathe his [[Sword\|sword]] or take a truce. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_4--02_monologue_king_of_france" data-title="Edward III — Scene 4 — monologue (KING OF FRANCE) [2]" data-chapter="Scene 4" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King of France\|KING OF FRANCE]] | Ah, that’s the anch’rage of some better [[Hope\|hope]]. But on the other side, to think what friends [[King]] Edward hath retained in Netherland, Among those ever-bibbing epicures— Those frothy Dutchmen, puffed with [[Double\|double]] beer, That drink and swill in every place they come— Doth not a little aggravate mine ire. Besides, we hear the Emperor conjoins And stalls him in his own authority. But all the mightier that their number is The greater glory reaps the victory! Some friends have we beside domestic power— The stern Polonian and the warlike Dane, The [[King]] of Bohême, and of Sicily, Are all become confederates with us And, as I think, are marching hither apace— Sound drums within But soft, I hear the music of their drums, By which I guess that their approach is near. Enter at one door the [[King]] of Bohemia with Danish soldiers and a drummer. Enter at another door a Polish captain with Muscovite and Polish soldiers and a drummer |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_4--03_exchange_king_of_bohemia" data-title="Edward III — Scene 4 — exchange (KING OF BOHEMIA) [3]" data-chapter="Scene 4" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] OF BOHEMIA | [[King]] Jean of France, as league and neighbourhood Requires when friends are any way distressed, I come to aid thee with my country’s force. |
-| POLISH CAPTAIN | (to the [[King of France]]) And from great Moscow, fearful to the Turk, And lofty Poland, [[Nurse\|nurse]] of hardy men, I bring these servitors to fight for thee, Who willingly will venture in thy cause. |
-| [[King of France\|KING OF FRANCE]] | Welcome, Bohemian [[King\|king]], and welcome all. This your great kindness I will not forget. Besides your plentiful rewards in crowns That from our treasury ye shall receive, There comes a harebrained nation, decked in [[Pride\|pride]], The spoil of whom will be a treble gain. And now my [[Hope\|hope]] is full, my joy complete. At sea we are as puissant as the force Of [[Agamemnon]] in the haven of Troy. By land, with Xerxes we compare of strength, Whose soldiers drank up rivers in their thirst. Then, Bayard-like, blind overweening Ned, To reach at our imperial diadem Is either to be swallowed of the waves, Or hacked a-pieces when thou com’st ashore. Enter a French Mariner |
-| MARINER | Near to the coast I have descried, my lord, As I was busy in my watchful charge, The proud armada of [[King]] Edward’s ships, Which, at the first far off when I did ken, Seemed as it were a grove of withered pines, But drawing near, their glorious bright aspect, Their streaming ensigns wrought of coloured silk, Like to a meadow full of sundry [[Flowers\|flowers]], Adorns the naked bosom of the earth. Majestical the order of their course, Figuring the hornèd circle of the [[Moon\|moon]], And on the top gallant of the admiral, And likewise all the handmaids of his train, The arms of England and of France unite Are quartered equally by herald’s art. Thus titely carried with a merry gale They plough the ocean hitherward amain. |
-| [[King of France\|KING OF FRANCE]] | Dare he already crop the fleur-de-lis? I [[Hope\|hope]], the honey being gathered thence, He, with the spider, afterward approached, Shall suck forth deadly venom from the [[Leaves\|leaves]]. But where’s our navy? How are they prepared To wing themselves against this flight of ravens? |
-| MARINER | They, having knowledge brought them by the scouts, Did break from anchor straight and, puffed with rage, No otherwise than were their sails with [[Wind\|wind]], Made forth as when the empty eagle flies To satisfy his hungry, griping maw. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_4--04_monologue_king_of_france" data-title="Edward III — Scene 4 — monologue (KING OF FRANCE) [4]" data-chapter="Scene 4" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King of France\|KING OF FRANCE]] | (giving money) There’s for thy news. Return unto thy barque, And if thou scape the bloody stroke of war And do survive the conflict, come again, And let us hear the manner of the fight. Exit Mariner Mean space, my lords, ’tis best we be dispersed To several places, lest they chance to land. (To the [[King]] of Bohemia) First you, my lord, with your Bohemian troops, Shall pitch your battles on the lower hand. (To the [[Dauphin]] and the Polish captain) My eldest son, the Duke of Normandy, Together with this aid of Muscovites, Shall climb the higher ground another way. Here in the middle coast, betwixt you both, Philippe, my youngest boy, and I will lodge. So, lords, be gone, and look unto your charge, You stand for France, an empire fair and large. Exeunt all but the [[King of France]] and Prince Philippe Now tell me, Philippe, what is thy conceit Touching the challenge that the English make? |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_4--05_exchange_prince_philippe" data-title="Edward III — Scene 4 — exchange (PRINCE PHILIPPE) [5]" data-chapter="Scene 4" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE PHILIPPE | I say, my lord, claim Edward what he can, And bring he ne‘er so plain a pedigree, ’Tis you are in possession of the [[Crown\|crown]], And that’s the surest point of all the law. But were it not, yet ere he should prevail I’ll make a conduit of my dearest [[Blood\|blood]], Or chase those straggling upstarts [[Home\|home]] again. |
-| [[King of France\|KING OF FRANCE]] | [[Well]] said, young Philippe! To an attendant Call for bread and wine That we may cheer our stomachs with repast To look our foes more sternly in the face. Bread and wine are brought forth. The battle is heard afar off. The [[King]] and Prince Philippe sup Now is begun the heavy day at sea. Fight, Frenchmen, fight! Be like the field of bears When they defend their younglings in their caves. Steer, angry Nemesis, the happy helm That with the sulphur battles of your rage The English fleet may be dispersed and sunk. A cannon shot within |
-| PRINCE PHILIPPE | O, father, how this echoing cannon shot, Like sweet harmony, digests my cates! |
-| [[King of France\|KING OF FRANCE]] | Now, boy, thou hear‘st what thund’ring terror ’tis To buckle for a kingdom’s sovereignty. The earth, with giddy trembling when it shakes, Or when the exhalations of the air Breaks in extremity of [[Lightning\|lightning]] flash, Affrights not more than kings when they dispose To show the rancour of their high-swoll’n hearts. Retreat sounds within Retreat is sounded—one side hath the worse. O, if it be the French, sweet fortune turn, And in thy turning, change the froward winds That, with advantage of a favouring sky, Our men may vanquish, and the other fly. Enter the French Mariner My heart misgives. (To the Mariner) Say, [[Mirror\|mirror]] of pale [[Death\|death]], To whom belongs the [[Honour\|honour]] of this day? Relate, I pray thee, if thy breath will serve The sad discourse of this discomfiture. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_4--06_monologue_mariner_i" data-title="Edward III — Scene 4 — monologue (MARINER I) [6]" data-chapter="Scene 4" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| MARINER | I will, my lord. My gracious sovereign, France hath ta‘en the foil, And boasting Edward triumphs with [[success]]. These iron-hearted navies, When last I was reporter to your grace, Both full of angry spleen, of [[Hope\|hope]] and [[Fear\|fear]], Hasting to meet each other in the face, At last conjoined, and by their admiral Our admiral encountered many shot. By this, the other, that beheld these twain Give earnest-penny of a further wreck, Like fiery dragons took their haughty flight; And likewise meeting, from their smoky wombs Sent many grim ambassadors of [[Death\|death]]. Then ’gan the day to turn to gloomy [[Night\|night]], And darkness did as [[Well\|well]] enclose the quick As those that were but newly reft of life. No leisure served for friends to bid farewell, And if it had, the hideous noise was such As each to other seemed deaf and dumb. Purple the sea whose channel filled as fast With streaming gore that from the maimed fell, As did her gushing moisture break into The cranny cleftures of the through-shot planks. Here flew a head dissevered from the trunk; There mangled arms and legs were tossed aloft, As when a whirlwind takes the [[Summer\|summer]] [[Dust\|dust]] And scatters it in middle of the air. Then might ye see the reeling vessels split And, tottering, sink into the ruthless flood Until their lofty tops were seen no more. All shifts were tried, both for defence and hurt. And now the effect of valour and of [[Fear\|fear]], Of resolution and of cowardice, We lively pictured—how the one for fame, The other by compulsion, laid about. Much did the Nonpareil, that brave [[Ship\|ship]]; So did the Black Snake of Boulogne, than which A bonnier vessel never yet spread sail. But all in vain: both sun, the [[Wind\|wind]] and tide Revolted all unto our foemen’s side, That we, perforce, were fain to give them way, And they are landed. Thus my tale is done. We have untimely lost, and they have won. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_4--07_exchange_king_of_france" data-title="Edward III — Scene 4 — exchange (KING OF FRANCE) [7]" data-chapter="Scene 4" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King of France\|KING OF FRANCE]] | Then rests there nothing but, with present [[Speed\|speed]], To join our several forces all in one, And bid them battle ere they range too far. Come, gentle Philippe, let us hence depart; This soldier’s words have pierced thy father’s heart. Exeunt |
+| [[King of France\|KING OF FRANCE]] | Here, till our navy of a thousand sail<br>Have made a breakfast to our foe by sea,<br>Let us encamp to wait their happy [[Speed\|speed]].<br>Lorraine, what readiness is Edward in?<br>How hast thou heard that he provided is<br>Of martial furniture for this exploit? |
+| DUC DE LORRAINE | To lay aside unnecessary soothing,<br>And not to spend the [[Time\|time]] in circumstance,<br>’Tis bruited for a certainty, my lord,<br>That he’s exceeding strongly fortified.<br>His subjects flock as willingly to war<br>As if unto a triumph they were led. |
+| [[Dauphin\|DAUPHIN]] | England was wont to harbour malcontents,<br>Bloodthirsty and seditious Catilines,<br>Spendthrifts, and such as gape for nothing else<br>But change and alteration of the state.<br>And is it possible<br>That they are now so loyal in themselves? |
+| DUC DE LORRAINE | All but the Scot, who solemnly protests,<br>As heretofore I have informed his grace,<br>Never to sheathe his [[Sword\|sword]] or take a truce. |
+| [[King of France\|KING OF FRANCE]] | Ah, that’s the anch’rage of some better [[Hope\|hope]].<br>But on the other side, to think what friends<br>[[King]] Edward hath retained in Netherland,<br>Among those ever-bibbing epicures—<br>Those frothy Dutchmen, puffed with [[Double\|double]] beer,<br>That drink and swill in every place they come—<br>Doth not a little aggravate mine ire.<br>Besides, we hear the Emperor conjoins<br>And stalls him in his own authority.<br>But all the mightier that their number is<br>The greater glory reaps the victory!<br>Some friends have we beside domestic power—<br>The stern Polonian and the warlike Dane,<br>The [[King]] of Bohême, and of Sicily,<br>Are all become confederates with us<br>And, as I think, are marching hither apace— |
+| *(didascalia)* | Sound drums within |
+| [[King of France\|KING OF FRANCE]] | But soft, I hear the music of their drums,<br>By which I guess that their approach is near. |
+| *(didascalia)* | Enter at one door the [[King]] of Bohemia with Danish soldiers and a drummer. Enter at another door a Polish captain with Muscovite and Polish soldiers and a drummer |
+| [[King\|KING]] OF BOHEMIA | [[King]] Jean of France, as league and neighbourhood<br>Requires when friends are any way distressed,<br>I come to aid thee with my country’s force. |
+| POLISH CAPTAIN | (to the [[King of France]])<br>And from great Moscow, fearful to the Turk,<br>And lofty Poland, [[Nurse\|nurse]] of hardy men,<br>I bring these servitors to fight for thee,<br>Who willingly will venture in thy cause. |
+| [[King of France\|KING OF FRANCE]] | Welcome, Bohemian [[King\|king]], and welcome all.<br>This your great kindness I will not forget.<br>Besides your plentiful rewards in crowns<br>That from our treasury ye shall receive,<br>There comes a harebrained nation, decked in [[Pride\|pride]],<br>The spoil of whom will be a treble gain.<br>And now my [[Hope\|hope]] is full, my joy complete.<br>At sea we are as puissant as the force<br>Of [[Agamemnon]] in the haven of Troy.<br>By land, with Xerxes we compare of strength,<br>Whose soldiers drank up rivers in their thirst.<br>Then, Bayard-like, blind overweening Ned,<br>To reach at our imperial diadem<br>Is either to be swallowed of the waves,<br>Or hacked a-pieces when thou com’st ashore. |
+| *(didascalia)* | Enter a French Mariner |
+| MARINER | Near to the coast I have descried, my lord,<br>As I was busy in my watchful charge,<br>The proud armada of [[King]] Edward’s ships,<br>Which, at the first far off when I did ken,<br>Seemed as it were a grove of withered pines,<br>But drawing near, their glorious bright aspect,<br>Their streaming ensigns wrought of coloured silk,<br>Like to a meadow full of sundry [[Flowers\|flowers]],<br>Adorns the naked bosom of the earth.<br>Majestical the order of their course,<br>Figuring the hornèd circle of the [[Moon\|moon]],<br>And on the top gallant of the admiral,<br>And likewise all the handmaids of his train,<br>The arms of England and of France unite<br>Are quartered equally by herald’s art.<br>Thus titely carried with a merry gale<br>They plough the ocean hitherward amain. |
+| [[King of France\|KING OF FRANCE]] | Dare he already crop the fleur-de-lis?<br>I [[Hope\|hope]], the honey being gathered thence,<br>He, with the spider, afterward approached,<br>Shall suck forth deadly venom from the [[Leaves\|leaves]].<br>But where’s our navy? How are they prepared<br>To wing themselves against this flight of ravens? |
+| MARINER | They, having knowledge brought them by the scouts,<br>Did break from anchor straight and, puffed with rage,<br>No otherwise than were their sails with [[Wind\|wind]],<br>Made forth as when the empty eagle flies<br>To satisfy his hungry, griping maw. |
+| [[King of France\|KING OF FRANCE]] | (giving money)<br>There’s for thy news. Return unto thy barque,<br>And if thou scape the bloody stroke of war<br>And do survive the conflict, come again,<br>And let us hear the manner of the fight. Exit Mariner<br>Mean space, my lords, ’tis best we be dispersed<br>To several places, lest they chance to land.<br>(To the [[King]] of Bohemia) First you, my lord, with your Bohemian troops,<br>Shall pitch your battles on the lower hand. |
+| *(didascalia)* | (To the [[Dauphin]] and the Polish captain) |
+| [[King of France\|KING OF FRANCE]] | My eldest son, the Duke of Normandy,<br>Together with this aid of Muscovites,<br>Shall climb the higher ground another way.<br>Here in the middle coast, betwixt you both,<br>Philippe, my youngest boy, and I will lodge.<br>So, lords, be gone, and look unto your charge,<br>You stand for France, an empire fair and large. |
+| *(didascalia)* | Exeunt all but the [[King of France]] and Prince Philippe |
+| [[King of France\|KING OF FRANCE]] | Now tell me, Philippe, what is thy conceit<br>Touching the challenge that the English make? |
+| PRINCE PHILIPPE | I say, my lord, claim Edward what he can,<br>And bring he ne‘er so plain a pedigree,<br>’Tis you are in possession of the [[Crown\|crown]],<br>And that’s the surest point of all the law.<br>But were it not, yet ere he should prevail<br>I’ll make a conduit of my dearest [[Blood\|blood]],<br>Or chase those straggling upstarts [[Home\|home]] again. |
+| *(didascalia)* | [[Well]] said, young Philippe! To an attendant Call for bread and wine |
+| [[King of France\|KING OF FRANCE]] | That we may cheer our stomachs with repast<br>To look our foes more sternly in the face.<br>Bread and wine are brought forth. The battle is heard afar off. The [[King]] and Prince Philippe sup<br>Now is begun the heavy day at sea.<br>Fight, Frenchmen, fight! Be like the field of bears<br>When they defend their younglings in their caves.<br>Steer, angry Nemesis, the happy helm<br>That with the sulphur battles of your rage<br>The English fleet may be dispersed and sunk.<br>A cannon shot within |
+| PRINCE PHILIPPE | O, father, how this echoing cannon shot,<br>Like sweet harmony, digests my cates! |
+| [[King of France\|KING OF FRANCE]] | Now, boy, thou hear‘st what thund’ring terror ’tis<br>To buckle for a kingdom’s sovereignty.<br>The earth, with giddy trembling when it shakes,<br>Or when the exhalations of the air<br>Breaks in extremity of [[Lightning\|lightning]] flash,<br>Affrights not more than kings when they dispose<br>To show the rancour of their high-swoll’n hearts. |
+| *(didascalia)* | Retreat sounds within |
+| *(didascalia)* | Retreat is sounded—one side hath the worse. |
+| [[King of France\|KING OF FRANCE]] | O, if it be the French, sweet fortune turn,<br>And in thy turning, change the froward winds<br>That, with advantage of a favouring sky,<br>Our men may vanquish, and the other fly. |
+| *(didascalia)* | Enter the French Mariner |
+| [[King of France\|KING OF FRANCE]] | My heart misgives. (To the Mariner) Say, [[Mirror\|mirror]] of<br>pale [[Death\|death]],<br>To whom belongs the [[Honour\|honour]] of this day?<br>Relate, I pray thee, if thy breath will serve<br>The sad discourse of this discomfiture. |
+| MARINER | I will, my lord.<br>My gracious sovereign, France hath ta‘en the foil,<br>And boasting Edward triumphs with [[success]].<br>These iron-hearted navies,<br>When last I was reporter to your grace,<br>Both full of angry spleen, of [[Hope\|hope]] and [[Fear\|fear]],<br>Hasting to meet each other in the face,<br>At last conjoined, and by their admiral<br>Our admiral encountered many shot.<br>By this, the other, that beheld these twain<br>Give earnest-penny of a further wreck,<br>Like fiery dragons took their haughty flight;<br>And likewise meeting, from their smoky wombs<br>Sent many grim ambassadors of [[Death\|death]].<br>Then ’gan the day to turn to gloomy [[Night\|night]],<br>And darkness did as [[Well\|well]] enclose the quick<br>As those that were but newly reft of life.<br>No leisure served for friends to bid farewell,<br>And if it had, the hideous noise was such<br>As each to other seemed deaf and dumb.<br>Purple the sea whose channel filled as fast<br>With streaming gore that from the maimed fell,<br>As did her gushing moisture break into<br>The cranny cleftures of the through-shot planks.<br>Here flew a head dissevered from the trunk;<br>There mangled arms and legs were tossed aloft,<br>As when a whirlwind takes the [[Summer\|summer]] [[Dust\|dust]]<br>And scatters it in middle of the air.<br>Then might ye see the reeling vessels split<br>And, tottering, sink into the ruthless flood<br>Until their lofty tops were seen no more.<br>All shifts were tried, both for defence and hurt.<br>And now the effect of valour and of [[Fear\|fear]],<br>Of resolution and of cowardice,<br>We lively pictured—how the one for fame,<br>The other by compulsion, laid about.<br>Much did the Nonpareil, that brave [[Ship\|ship]];<br>So did the Black Snake of Boulogne, than which<br>A bonnier vessel never yet spread sail.<br>But all in vain: both sun, the [[Wind\|wind]] and tide<br>Revolted all unto our foemen’s side,<br>That we, perforce, were fain to give them way,<br>And they are landed. Thus my tale is done.<br>We have untimely lost, and they have won. |
+| [[King of France\|KING OF FRANCE]] | Then rests there nothing but, with present [[Speed\|speed]],<br>To join our several forces all in one,<br>And bid them battle ere they range too far.<br>Come, gentle Philippe, let us hence depart;<br>This soldier’s words have pierced thy father’s heart. |
+| *(didascalia)* | Exeunt |
 
 
 
@@ -1259,109 +1032,60 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_6--01_exchange_dialogue" data-title="Edward III — Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="exchange"></span>
+<span class="atom-split" data-atom="scenes--scene_6" data-title="Edward III — Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[King]] Edward and the Earl of Derby with soldiers and Gobin de Grace |
-| [[King\|KING]] EDWARD | Where is the Frenchman by whose cunning guide We found the shallow of this [[River\|river]] Somme, And had direction how to pass the sea? |
+| [[King\|KING]] EDWARD | Where is the Frenchman by whose cunning guide<br>We found the shallow of this [[River\|river]] Somme,<br>And had direction how to pass the sea? |
 | GOBIN | Here, my good lord. |
 | [[King\|KING]] EDWARD | How art thou called? Tell me thy name. |
 | GOBIN | Gobin de Grace, if please your excellence. |
-| [[King\|KING]] EDWARD | Then, Gobin, for the service thou hast done We here enlarge and give thee liberty, And for a recompense, beside this good, Thou shalt receive five hundred marks in gold. (To Derby) I know not how we should have missed our son, Whom now in heart I wish I might behold. Enter the Comte d’Artois |
-| COMTE D’ARTOIS | Good news, my lord! The Prince is hard at hand, And with him comes Lord Audley and the rest Whom, since our landing, we could never meet. Enter Edward Prince of Wales, Lord Audley and soldiers |
-| [[King\|KING]] EDWARD | Welcome, fair Prince. How hast thou sped, my son, Since thy arrival on the coast of France? |
-| PRINCE OF WALES | Successfully, I thank the gracious heavens. Some of their strongest cities we have won— As Harfleur, Lô, Crotoy and Carentan— And others wasted, leaving at our heels A wide, apparent field and beaten path For solitariness to progress in. Yet those that would submit we kindly pardoned, For who in scorn refused our proffered peace Endured the penalty of sharp [[Revenge\|revenge]]. |
-| [[King\|KING]] EDWARD | Ah, France, why shouldst thou be this obstinate Against the kind embracement of thy friends? How gently had we thought to touch thy breast And set our foot upon thy tender mould, But that in froward and disdainful [[Pride\|pride]] Thou, like a skittish and untamed colt, Dost start aside and strike us with thy heels. But tell me, Ned, in all thy warlike course Hast thou not seen the usurping [[King of France]]? |
-| PRINCE OF WALES | Yes, my good lord, and not two hours ago, With full a hundred thousand fighting men Upon the one side with the [[River\|river]]’s bank, And on the other, both his multitudes. I feared he would have cropped our smaller power, But happily, perceiving your approach, He hath withdrawn himself to Crécy plains, Where, as it seemeth by his good array, He means to bid us battle presently. |
-| [[King\|KING]] EDWARD | He shall be welcome. That’s the thing we crave. Enter Jean [[King of France]], the [[Dauphin]], the |
-| [[King\|KING]] EDWARD | Duc de Lorraine, the [[King]] of Bohemia, young |
-| [[King\|KING]] EDWARD | Prince Philippe and soldiers |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_6--02_monologue_king_of_france" data-title="Edward III — Scene 6 — monologue (KING OF FRANCE) [2]" data-chapter="Scene 6" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King of France\|KING OF FRANCE]] | Edward, know that Jean, the true [[King of France]], Musing thou shouldst encroach upon his land And, in thy tyrannous proceeding, slay His faithful subjects and subvert his towns, Spits in thy face, and, in this manner following, Upbraids thee with thine arrogant intrusion. First, I condemn thee for a fugitive, A thievish pirate and a needy mate, One that hath either no abiding-place Or else, inhabiting some barren soil, Where neither herb or fruitful grain is had, Dost altogether live by pilfering. Next, insomuch thou hast infringed thy [[Faith\|faith]], Broke league and solemn covenant made with me, I hold thee for a false, pernicious wretch. And last of all, although I scorn to cope With one so much inferior to myself, Yet in respect thy thirst is all for gold, Thy labour rather to be feared than loved, To satisfy thy lust, in either part, Here am I come and with me have I brought Exceeding store of treasure, pearl and coin. Leave, therefore, now to persecute the weak, And armed ent‘ring conflict with the armed, Let it be seen, ’mongst other petty thefts, How thou canst win this pillage manfully. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_6--03_monologue_king_edward" data-title="Edward III — Scene 6 — monologue (KING EDWARD) [3]" data-chapter="Scene 6" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | If gall or wormwood have a pleasant taste, Then is thy salutation honey sweet. But as the one hath no such property, So is the other most satirical. Yet wot how I regard thy worthless taunts. If thou have uttered them to soil my fame, Or dim the reputation of my birth, Know that thy wolvish barking cannot hurt. If slyly to insinuate with the world, And with a strumpet’s artificial lime To paint thy vicious and deformed cause, Be [[Well\|well]] assured the counterfeit will fade, And in the end thy foul defects be seen. But if thou didst it to provoke me on, As who should say I were but timorous, Or, coldly negligent, did need a spur, Bethink thyself how slack I was at sea, How, since my landing, I have won no towns, Entered no further but upon the coast, And there have ever since securely slept. But if I have been otherwise employed, Imagine, Valois, whether I intend To skirmish, not for pillage, but for the [[Crown\|crown]] Which thou dost wear and that I vow to have, Or one of us shall fall into his [[Grave\|grave]]. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_6--04_exchange_prince_of_wales" data-title="Edward III — Scene 6 — exchange (PRINCE OF WALES) [4]" data-chapter="Scene 6" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE OF WALES | Look not for [[Cross\|cross]] invectives at our hands, Or railing execrations of despite. Let creeping serpents hid in hollow banks Sting with their tongues; we have remorseless swords, And they shall plead for us and our affairs. Yet thus much briefly, by my father’s leave, As all the immodest [[Poison\|poison]] of thy throat Is scandalous and most notorious lies, And our pretended quarrel is truly just, So end the battle when we meet today: May either of us prosper and prevail Or, luckless cursed, receive eternal shame. |
-| [[King\|KING]] EDWARD | That needs no further question, and I know His [[Conscience\|conscience]] witnesseth it is my right. Therefore, Valois, say: wilt thou yet resign Before the sickle’s thrust into the corn, Or that enkindled fury turn to flame? |
-| [[King of France\|KING OF FRANCE]] | Edward, I know what right thou hast in France, And ere I basely will resign my [[Crown\|crown]] This champaign field shall be a pool of [[Blood\|blood]], And all our prospect as a slaughterhouse. |
-| PRINCE OF WALES | Ay, that approves thee, [[Tyrant\|tyrant]], what thou art. No father, [[King\|king]], or shepherd of thy realm, But one that [[Tears\|tears]] her entrails with thy hands And, like a thirsty tiger, suck’st her [[Blood\|blood]]. |
-| AUDLEY | You peers of France, why do you follow him That is so prodigal to spend your lives? |
-| [[Dauphin\|DAUPHIN]] | Whom should they follow, aged impotent, But he that is their true-born sovereign? |
-| [[King\|KING]] EDWARD | Upbraid’st thou him because within his face [[Time]] hath engraved deep characters of age? Know that these [[Grave\|grave]] scholars of experience, Like stiff-grown oaks, will stand immovable When whirlwind quickly turns up younger trees. |
-| EARL OF DERBY | (to the [[King of France]]) Was ever any of thy father’s [[house]] [[King]] but thyself before this present [[Time\|time]]? (To the French generally) Edward’s great lineage by the mother’s side Five hundred years hath held the sceptre up. Judge then, conspirators, by this descent Which is the true-born sovereign—this, or that. |
-| PRINCE PHILIPPE | (to the [[King of France]]) Father, range your battles. Prate no more. These English fain would spend the [[Time\|time]] in words That, [[Night\|night]] approaching, they might scape unfought. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_6--05_monologue_king_of_france" data-title="Edward III — Scene 6 — monologue (KING OF FRANCE) [5]" data-chapter="Scene 6" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King of France\|KING OF FRANCE]] | Lords and my loving subjects, now’s the [[Time\|time]] That your intended force must bide the touch. Therefore, my friends, consider this in brief. He that you fight for is your natural [[King\|king]]; He against whom you fight a foreigner. He that you fight for rules in clemency, And reigns you with a mild and gentle bit; He against whom you fight, if he prevail, Will straight enthrone himself in tyranny, Make slaves of you and with a heavy hand Curtail and curb your sweetest liberty. Then, to protect your country and your [[King]], Let but the haughty [[Courage\|courage]] of your hearts Answer the number of your able hands, And we shall quickly chase these fugitives. For what’s this Edward but a belly-god, A tender and lascivious wantonness, That th‘other day was almost dead for [[Love\|love]]? And what, I pray you, is his goodly guard? Such as, but scant them of their chines of beef, And take away their downy feather beds, And presently they are as resty-stiff As ’twere a many overridden jades. Then, Frenchmen, scorn that such should be your lords, And rather bind ye them in captive bands. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_6--06_exchange_all_the_french" data-title="Edward III — Scene 6 — exchange (ALL THE FRENCH) [6]" data-chapter="Scene 6" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[King\|KING]] EDWARD | Then, Gobin, for the service thou hast done<br>We here enlarge and give thee liberty,<br>And for a recompense, beside this good,<br>Thou shalt receive five hundred marks in gold.<br>(To Derby) I know not how we should have missed our son,<br>Whom now in heart I wish I might behold. |
+| *(didascalia)* | Enter the Comte d’Artois |
+| COMTE D’ARTOIS | Good news, my lord! The Prince is hard at hand,<br>And with him comes Lord Audley and the rest<br>Whom, since our landing, we could never meet. |
+| *(didascalia)* | Enter Edward Prince of Wales, Lord Audley and soldiers |
+| [[King\|KING]] EDWARD | Welcome, fair Prince. How hast thou sped, my son,<br>Since thy arrival on the coast of France? |
+| PRINCE OF WALES | Successfully, I thank the gracious heavens.<br>Some of their strongest cities we have won—<br>As Harfleur, Lô, Crotoy and Carentan—<br>And others wasted, leaving at our heels<br>A wide, apparent field and beaten path<br>For solitariness to progress in.<br>Yet those that would submit we kindly pardoned,<br>For who in scorn refused our proffered peace<br>Endured the penalty of sharp [[Revenge\|revenge]]. |
+| [[King\|KING]] EDWARD | Ah, France, why shouldst thou be this obstinate<br>Against the kind embracement of thy friends?<br>How gently had we thought to touch thy breast<br>And set our foot upon thy tender mould,<br>But that in froward and disdainful [[Pride\|pride]]<br>Thou, like a skittish and untamed colt,<br>Dost start aside and strike us with thy heels.<br>But tell me, Ned, in all thy warlike course<br>Hast thou not seen the usurping [[King of France]]? |
+| PRINCE OF WALES | Yes, my good lord, and not two hours ago,<br>With full a hundred thousand fighting men<br>Upon the one side with the [[River\|river]]’s bank,<br>And on the other, both his multitudes.<br>I feared he would have cropped our smaller power,<br>But happily, perceiving your approach,<br>He hath withdrawn himself to Crécy plains,<br>Where, as it seemeth by his good array,<br>He means to bid us battle presently. |
+| [[King\|KING]] EDWARD | He shall be welcome. That’s the thing we crave. |
+| *(didascalia)* | Enter Jean [[King of France]], the [[Dauphin]], the |
+| [[King\|KING]] EDWARD | Duc de Lorraine, the [[King]] of Bohemia, young<br><br>Prince Philippe and soldiers |
+| [[King of France\|KING OF FRANCE]] | Edward, know that Jean, the true [[King of France]],<br>Musing thou shouldst encroach upon his land<br>And, in thy tyrannous proceeding, slay<br>His faithful subjects and subvert his towns,<br>Spits in thy face, and, in this manner following,<br>Upbraids thee with thine arrogant intrusion.<br>First, I condemn thee for a fugitive,<br>A thievish pirate and a needy mate,<br>One that hath either no abiding-place<br>Or else, inhabiting some barren soil,<br>Where neither herb or fruitful grain is had,<br>Dost altogether live by pilfering.<br>Next, insomuch thou hast infringed thy [[Faith\|faith]],<br>Broke league and solemn covenant made with me,<br>I hold thee for a false, pernicious wretch.<br>And last of all, although I scorn to cope<br>With one so much inferior to myself,<br>Yet in respect thy thirst is all for gold,<br>Thy labour rather to be feared than loved,<br>To satisfy thy lust, in either part,<br>Here am I come and with me have I brought<br>Exceeding store of treasure, pearl and coin.<br>Leave, therefore, now to persecute the weak,<br>And armed ent‘ring conflict with the armed,<br>Let it be seen, ’mongst other petty thefts,<br>How thou canst win this pillage manfully. |
+| [[King\|KING]] EDWARD | If gall or wormwood have a pleasant taste,<br>Then is thy salutation honey sweet.<br>But as the one hath no such property,<br>So is the other most satirical.<br>Yet wot how I regard thy worthless taunts.<br>If thou have uttered them to soil my fame,<br>Or dim the reputation of my birth,<br>Know that thy wolvish barking cannot hurt.<br>If slyly to insinuate with the world,<br>And with a strumpet’s artificial lime<br>To paint thy vicious and deformed cause,<br>Be [[Well\|well]] assured the counterfeit will fade,<br>And in the end thy foul defects be seen.<br>But if thou didst it to provoke me on,<br>As who should say I were but timorous,<br>Or, coldly negligent, did need a spur,<br>Bethink thyself how slack I was at sea,<br>How, since my landing, I have won no towns,<br>Entered no further but upon the coast,<br>And there have ever since securely slept.<br>But if I have been otherwise employed,<br>Imagine, Valois, whether I intend<br>To skirmish, not for pillage, but for the [[Crown\|crown]]<br>Which thou dost wear and that I vow to have,<br>Or one of us shall fall into his [[Grave\|grave]]. |
+| PRINCE OF WALES | Look not for [[Cross\|cross]] invectives at our hands,<br>Or railing execrations of despite.<br>Let creeping serpents hid in hollow banks<br>Sting with their tongues; we have remorseless swords,<br>And they shall plead for us and our affairs.<br>Yet thus much briefly, by my father’s leave,<br>As all the immodest [[Poison\|poison]] of thy throat<br>Is scandalous and most notorious lies,<br>And our pretended quarrel is truly just,<br>So end the battle when we meet today:<br>May either of us prosper and prevail<br>Or, luckless cursed, receive eternal shame. |
+| [[King\|KING]] EDWARD | That needs no further question, and I know<br>His [[Conscience\|conscience]] witnesseth it is my right.<br>Therefore, Valois, say: wilt thou yet resign<br>Before the sickle’s thrust into the corn,<br>Or that enkindled fury turn to flame? |
+| [[King of France\|KING OF FRANCE]] | Edward, I know what right thou hast in France,<br>And ere I basely will resign my [[Crown\|crown]]<br>This champaign field shall be a pool of [[Blood\|blood]],<br>And all our prospect as a slaughterhouse. |
+| PRINCE OF WALES | Ay, that approves thee, [[Tyrant\|tyrant]], what thou art.<br>No father, [[King\|king]], or shepherd of thy realm,<br>But one that [[Tears\|tears]] her entrails with thy hands<br>And, like a thirsty tiger, suck’st her [[Blood\|blood]]. |
+| AUDLEY | You peers of France, why do you follow him<br>That is so prodigal to spend your lives? |
+| [[Dauphin\|DAUPHIN]] | Whom should they follow, aged impotent,<br>But he that is their true-born sovereign? |
+| [[King\|KING]] EDWARD | Upbraid’st thou him because within his face<br>[[Time]] hath engraved deep characters of age?<br>Know that these [[Grave\|grave]] scholars of experience,<br>Like stiff-grown oaks, will stand immovable<br>When whirlwind quickly turns up younger trees. |
+| EARL OF DERBY | (to the [[King of France]])<br>Was ever any of thy father’s [[house]]<br>[[King]] but thyself before this present [[Time\|time]]?<br>(To the French generally) Edward’s great lineage by the<br>mother’s side<br>Five hundred years hath held the sceptre up.<br>Judge then, conspirators, by this descent<br>Which is the true-born sovereign—this, or that. |
+| PRINCE PHILIPPE | (to the [[King of France]])<br>Father, range your battles. Prate no more.<br>These English fain would spend the [[Time\|time]] in words<br>That, [[Night\|night]] approaching, they might scape unfought. |
+| [[King of France\|KING OF FRANCE]] | Lords and my loving subjects, now’s the [[Time\|time]]<br>That your intended force must bide the touch.<br>Therefore, my friends, consider this in brief.<br>He that you fight for is your natural [[King\|king]];<br>He against whom you fight a foreigner.<br>He that you fight for rules in clemency,<br>And reigns you with a mild and gentle bit;<br>He against whom you fight, if he prevail,<br>Will straight enthrone himself in tyranny,<br>Make slaves of you and with a heavy hand<br>Curtail and curb your sweetest liberty.<br>Then, to protect your country and your [[King]],<br>Let but the haughty [[Courage\|courage]] of your hearts<br>Answer the number of your able hands,<br>And we shall quickly chase these fugitives.<br>For what’s this Edward but a belly-god,<br>A tender and lascivious wantonness,<br>That th‘other day was almost dead for [[Love\|love]]?<br>And what, I pray you, is his goodly guard?<br>Such as, but scant them of their chines of beef,<br>And take away their downy feather beds,<br>And presently they are as resty-stiff<br>As ’twere a many overridden jades.<br>Then, Frenchmen, scorn that such should be your lords,<br>And rather bind ye them in captive bands. |
 | ALL THE FRENCH | Vive le roil God save [[King]] Jean of Francel |
-| [[King of France\|KING OF FRANCE]] | Now, on this plain of Crécy, spread yourselves. And, Edward, when thou dar’st, begin the fight! Exit with the French |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_6--07_monologue_king_edward" data-title="Edward III — Scene 6 — monologue (KING EDWARD) [7]" data-chapter="Scene 6" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] EDWARD | (calling after) We presently will meet thee, Jean of France! (To the English) And, English lords, let us resolve the day Either to clear us of that scandalous crime Or be entombed in our [[innocence]]. (To the Prince of Wales) And, Ned, because this battle is the first That ever yet thou fought’st in pitched field, As ancient custom is of martialists To dub thee with the type of chivalry, In solemn manner we will give thee arms. Come, therefore, heralds; orderly bring forth A strong attirement for the Prince my son. Enter four heralds bringing in a coat armour, a helmet, a lance and a shield Edward Plantagenet, in the name of God, As with this armour I impale thy breast So be thy noble, unrelenting heart Walled in with flint of matchless fortitude That never base affections enter there. The Prince of Wales is invested in armour Fight and be valiant; conquer where thou com’st. (To Derby, Audley and Artois) Now follow, lords, and do him [[Honour\|honour]] too. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_6--08_exchange_earl_of_derby" data-title="Edward III — Scene 6 — exchange (EARL OF DERBY) [8]" data-chapter="Scene 6" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| EARL OF DERBY | Edward Plantagenet, Prince of Wales, As I do set this helmet on thy head Wherewith the chamber of thy brain is fenced, So may thy temples with Bellona’s hand Be still adorned with laurel victory. The helmet is placed on the Prince of Wales Fight and be valiant; conquer where thou com’st. |
-| AUDLEY | Edward Plantagenet, Prince of Wales, Receive this lance into thy manly hand. Use it in fashion of a brazen pen To draw forth bloody stratagems in France, And print thy valiant deeds in [[Honour\|honour]]’s book. The lance is given to the Prince of Wales Fight and be valiant; vanquish where thou com’st. |
-| COMTE D’ARTOIS | Edward Plantagenet, Prince of Wales, Hold, take this target; wear it on thy arm. And may the view thereof, like Perseus’ shield, Astonish and transform thy gazing foes To senseless images of meagre [[Death\|death]]. The shield is given to the Prince of Wales Fight and be valiant; conquer where thou com’st. |
-| [[King\|KING]] EDWARD | Now wants there naught but knighthood, which deferred We leave till thou hast won it in the field. |
-| PRINCE OF WALES | My gracious father and ye forward peers, This [[Honour\|honour]] you have done me animates And cheers my green, yet scarce-appearing, strength With comfortable, good-presaging signs, No otherwise than did old Jacob’s words Whenas he breathed his blessings on his sons. These hallowed gifts of yours, when I profane Or use them not to glory of my God To patronage the fatherless and poor, Or for the benefit of England’s peace, Be numb my joints, wax feeble both mine arms, Wither my heart that, like a sapless tree, I may remain the map of infamy. |
-| [[King\|KING]] EDWARD | Then thus our steeled battles shall be ranged. (To the Prince of Wales) The leading of the vanguard, Ned, is thine, To dignify whose lusty spirit the more We temper it with Audley’s gravity, That [[Courage\|courage]] and experience, joined in one, Your manège may be second unto none. (To all) For the main battles I will guide myself, And Derby in the rearward march behind, That orderly disposed and set in ’ray Let us to [[Horse\|horse]], and God grant us the day! Exeunt |
+| [[King of France\|KING OF FRANCE]] | Now, on this plain of Crécy, spread yourselves.<br>And, Edward, when thou dar’st, begin the fight! |
+| *(didascalia)* | Exit with the French |
+| [[King\|KING]] EDWARD | (calling after)<br>We presently will meet thee, Jean of France!<br>(To the English) And, English lords, let us resolve the day<br>Either to clear us of that scandalous crime<br>Or be entombed in our [[innocence]].<br>(To the Prince of Wales) And, Ned, because this battle is the first<br>That ever yet thou fought’st in pitched field,<br>As ancient custom is of martialists<br>To dub thee with the type of chivalry,<br>In solemn manner we will give thee arms.<br>Come, therefore, heralds; orderly bring forth<br>A strong attirement for the Prince my son. |
+| *(didascalia)* | Enter four heralds bringing in a coat armour, a helmet, a lance and a shield |
+| [[King\|KING]] EDWARD | Edward Plantagenet, in the name of God,<br>As with this armour I impale thy breast<br>So be thy noble, unrelenting heart<br>Walled in with flint of matchless fortitude<br>That never base affections enter there. |
+| *(didascalia)* | The Prince of Wales is invested in armour |
+| [[King\|KING]] EDWARD | Fight and be valiant; conquer where thou com’st.<br>(To Derby, Audley and Artois) Now follow, lords, and do him [[Honour\|honour]] too. |
+| EARL OF DERBY | Edward Plantagenet, Prince of Wales,<br>As I do set this helmet on thy head<br>Wherewith the chamber of thy brain is fenced,<br>So may thy temples with Bellona’s hand<br>Be still adorned with laurel victory. |
+| *(didascalia)* | The helmet is placed on the Prince of Wales |
+| EARL OF DERBY | Fight and be valiant; conquer where thou com’st. |
+| AUDLEY | Edward Plantagenet, Prince of Wales,<br>Receive this lance into thy manly hand.<br>Use it in fashion of a brazen pen<br>To draw forth bloody stratagems in France,<br>And print thy valiant deeds in [[Honour\|honour]]’s book. |
+| *(didascalia)* | The lance is given to the Prince of Wales |
+| AUDLEY | Fight and be valiant; vanquish where thou com’st. |
+| COMTE D’ARTOIS | Edward Plantagenet, Prince of Wales,<br>Hold, take this target; wear it on thy arm.<br>And may the view thereof, like Perseus’ shield,<br>Astonish and transform thy gazing foes<br>To senseless images of meagre [[Death\|death]]. |
+| *(didascalia)* | The shield is given to the Prince of Wales |
+| COMTE D’ARTOIS | Fight and be valiant; conquer where thou com’st. |
+| [[King\|KING]] EDWARD | Now wants there naught but knighthood, which deferred<br>We leave till thou hast won it in the field. |
+| PRINCE OF WALES | My gracious father and ye forward peers,<br>This [[Honour\|honour]] you have done me animates<br>And cheers my green, yet scarce-appearing, strength<br>With comfortable, good-presaging signs,<br>No otherwise than did old Jacob’s words<br>Whenas he breathed his blessings on his sons.<br>These hallowed gifts of yours, when I profane<br>Or use them not to glory of my God<br>To patronage the fatherless and poor,<br>Or for the benefit of England’s peace,<br>Be numb my joints, wax feeble both mine arms,<br>Wither my heart that, like a sapless tree,<br>I may remain the map of infamy. |
+| [[King\|KING]] EDWARD | Then thus our steeled battles shall be ranged.<br>(To the Prince of Wales) The leading of the vanguard, Ned, is thine,<br>To dignify whose lusty spirit the more<br>We temper it with Audley’s gravity,<br>That [[Courage\|courage]] and experience, joined in one,<br>Your manège may be second unto none.<br>(To all) For the main battles I will guide myself,<br>And Derby in the rearward march behind,<br>That orderly disposed and set in ’ray<br>Let us to [[Horse\|horse]], and God grant us the day! |
+| *(didascalia)* | Exeunt |
 
 
 
@@ -1514,64 +1238,35 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_12--01_exchange_dialogue" data-title="Edward III — Scene 12 — exchange (dialogue) [1]" data-chapter="Scene 12" data-kind="exchange"></span>
+<span class="atom-split" data-atom="scenes--scene_12" data-title="Edward III — Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Edward Prince of Wales, Lord Audley and others |
-| PRINCE OF WALES | Audley, the arms of [[Death\|death]] embrace us round And comfort have we none, save that to die We pay sour earnest for a sweeter life. At Crécy field our clouds of warlike smoke Choked up those French mouths and dissevered them, But now their multitudes of millions hide, Masking, as ’twere, the beauteous burning sun, Leaving no [[Hope\|hope]] to us but sullen dark And eyeless terror of all-ending [[Night\|night]]. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_12--02_monologue_audley" data-title="Edward III — Scene 12 — monologue (AUDLEY) [2]" data-chapter="Scene 12" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| AUDLEY | This sudden, mighty and expedient head That they have made, fair Prince, is wonderful. Before us, in the valley, lies the [[King]], Vantaged with all that heaven and earth can yield, His party stronger battled than our whole. His son, the braving Duke of Normandy, Hath trimmed the mountain on our right hand up In shining plate, that now the aspiring [[Hill\|hill]] Shows like a silver quarry, or an orb, Aloft the which the banners, bannerets And new-replenished pennants cuff the air And beat the winds that, for their gaudiness, Struggles to kiss them. On our left hand lies Philippe, the younger issue of the [[King]], Coating the other [[Hill\|hill]] in such array That all his gilded upright pikes do seem Straight trees of gold; the pendant ensigns, [[Leaves\|leaves]], And their device of antique heraldry, Quartered in colours seeming sundry fruits, Makes it the orchard of the Hesperides. Behind us too the [[Hill\|hill]] doth rear his height, For, like a half-[[Moon\|moon]] opening but one way, It rounds us in. There, at our backs, are lodged The fatal crossbows, and the battle there Is governed by the rough Châtillion. Then thus it stands: the valley for our flight The [[King]] binds in, the hills on either hand Are proudly royalizèd by his sons, And on the [[Hill\|hill]] behind stands certain [[Death\|death]] In pay and service with Châtillion. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_12--03_monologue_prince_of_wales" data-title="Edward III — Scene 12 — monologue (PRINCE OF WALES) [3]" data-chapter="Scene 12" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE OF WALES | [[Death]]’s name is much more mighty than his deeds. Thy parcelling this power hath made it more Than all the world! Call it but a power. As many sands as these, my hands, can hold Are but my handful of so many sands, Eas‘ly ta’en up and quickly thrown away. But if I stand to count them, sand by sand, The number would confound my [[Memory\|memory]], And make a thousand millions of a task Which, briefly, is no more in deed than one. These quarters, squadrons and these regiments Before, behind us, and on either hand, Are but a power. When we name a man, His hand, his foot, his head hath several strengths, And, being all but one [[Self\|self]]-instanced strength, Why, all this many, Audley, is but one, And we can call it all but one man’s strength. He that hath far to go tells it by miles; If he should tell the steps it kills his heart. The drops are infinite that make a flood, And yet, thou know’st, we call it but a rain. There is but one France, and one [[King of France\|king of France]]: That France hath no more kings, and that same [[King\|king]] Hath but the puissant legion of one [[King\|king]]. And we have one. Then apprehend no odds, For one to one is fair equality. Enter a Herald from Jean [[King of France]] What tidings, messenger? Be plain and brief. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_12--04_exchange_herald" data-title="Edward III — Scene 12 — exchange (HERALD) [4]" data-chapter="Scene 12" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| HERALD | The [[King of France]], my sovereign lord and master, Greets by me his foe, the Prince of Wales. If thou call forth a hundred men of name— Of lords, knights, squires and English gentlemen— And with thyself and those, kneel at his feet, He straight will fold his bloody colours up And ransom shall redeem lives forfeited. If not, this day shall drink more English [[Blood\|blood]] Than e’er was buried in our British earth. What is thy answer to his proffered [[Mercy\|mercy]]? |
-| PRINCE OF WALES | This heaven that covers France contains the [[Mercy\|mercy]] That draws from me submissive orisons. That such base breath should vanish from my lips To urge the plea of [[Mercy\|mercy]] to a man, The Lord forbid. Return and tell thy [[King]]: My tongue is made of steel, and it shall beg My [[Mercy\|mercy]] on his coward burgonet. Tell him my colours are as red as his, My men as bold, our English arms as strong. Return him my defiance in his face. |
-| HERALD | I go. Exit Enter a Herald from the [[Dauphin]] (Prince Charles of Normandy) |
+| PRINCE OF WALES | Audley, the arms of [[Death\|death]] embrace us round<br>And comfort have we none, save that to die<br>We pay sour earnest for a sweeter life.<br>At Crécy field our clouds of warlike smoke<br>Choked up those French mouths and dissevered them,<br>But now their multitudes of millions hide,<br>Masking, as ’twere, the beauteous burning sun,<br>Leaving no [[Hope\|hope]] to us but sullen dark<br>And eyeless terror of all-ending [[Night\|night]]. |
+| AUDLEY | This sudden, mighty and expedient head<br>That they have made, fair Prince, is wonderful.<br>Before us, in the valley, lies the [[King]],<br>Vantaged with all that heaven and earth can yield,<br>His party stronger battled than our whole.<br>His son, the braving Duke of Normandy,<br>Hath trimmed the mountain on our right hand up<br>In shining plate, that now the aspiring [[Hill\|hill]]<br>Shows like a silver quarry, or an orb,<br>Aloft the which the banners, bannerets<br>And new-replenished pennants cuff the air<br>And beat the winds that, for their gaudiness,<br>Struggles to kiss them. On our left hand lies<br>Philippe, the younger issue of the [[King]],<br>Coating the other [[Hill\|hill]] in such array<br>That all his gilded upright pikes do seem<br>Straight trees of gold; the pendant ensigns, [[Leaves\|leaves]],<br>And their device of antique heraldry,<br>Quartered in colours seeming sundry fruits,<br>Makes it the orchard of the Hesperides.<br>Behind us too the [[Hill\|hill]] doth rear his height,<br>For, like a half-[[Moon\|moon]] opening but one way,<br>It rounds us in. There, at our backs, are lodged<br>The fatal crossbows, and the battle there<br>Is governed by the rough Châtillion.<br>Then thus it stands: the valley for our flight<br>The [[King]] binds in, the hills on either hand<br>Are proudly royalizèd by his sons,<br>And on the [[Hill\|hill]] behind stands certain [[Death\|death]]<br>In pay and service with Châtillion. |
+| PRINCE OF WALES | [[Death]]’s name is much more mighty than his deeds.<br>Thy parcelling this power hath made it more<br>Than all the world! Call it but a power.<br>As many sands as these, my hands, can hold<br>Are but my handful of so many sands,<br>Eas‘ly ta’en up and quickly thrown away.<br>But if I stand to count them, sand by sand,<br>The number would confound my [[Memory\|memory]],<br>And make a thousand millions of a task<br>Which, briefly, is no more in deed than one.<br>These quarters, squadrons and these regiments<br>Before, behind us, and on either hand,<br>Are but a power. When we name a man,<br>His hand, his foot, his head hath several strengths,<br>And, being all but one [[Self\|self]]-instanced strength,<br>Why, all this many, Audley, is but one,<br>And we can call it all but one man’s strength.<br>He that hath far to go tells it by miles;<br>If he should tell the steps it kills his heart.<br>The drops are infinite that make a flood,<br>And yet, thou know’st, we call it but a rain.<br>There is but one France, and one [[King of France\|king of France]]:<br>That France hath no more kings, and that same [[King\|king]]<br>Hath but the puissant legion of one [[King\|king]].<br>And we have one. Then apprehend no odds,<br>For one to one is fair equality. |
+| *(didascalia)* | Enter |
+| PRINCE OF WALES | a Herald from Jean [[King of France]]<br>What tidings, messenger? Be plain and brief. |
+| HERALD | The [[King of France]], my sovereign lord and master,<br>Greets by me his foe, the Prince of Wales.<br>If thou call forth a hundred men of name—<br>Of lords, knights, squires and English gentlemen—<br>And with thyself and those, kneel at his feet,<br>He straight will fold his bloody colours up<br>And ransom shall redeem lives forfeited.<br>If not, this day shall drink more English [[Blood\|blood]]<br>Than e’er was buried in our British earth.<br>What is thy answer to his proffered [[Mercy\|mercy]]? |
+| PRINCE OF WALES | This heaven that covers France contains the [[Mercy\|mercy]]<br>That draws from me submissive orisons.<br>That such base breath should vanish from my lips<br>To urge the plea of [[Mercy\|mercy]] to a man,<br>The Lord forbid. Return and tell thy [[King]]:<br>My tongue is made of steel, and it shall beg<br>My [[Mercy\|mercy]] on his coward burgonet.<br>Tell him my colours are as red as his,<br>My men as bold, our English arms as strong.<br>Return him my defiance in his face. |
+| HERALD | I go. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Enter a Herald from the [[Dauphin]] (Prince Charles of Normandy) |
 | PRINCE OF WALES | What news with thee? |
-| SECOND HERALD | The Duke of Normandy, my lord and master, Pitying thy youth is so engirt with peril, By me hath sent a nimble-jointed jennet, As swift as ever yet thou didst bestride, And therewithal he counsels thee to fly, Else [[Death\|death]] himself hath sworn that thou shalt die. |
-| PRINCE OF WALES | Back with the beast unto the beast that sent him! Tell him I cannot sit a coward’s [[Horse\|horse]]. Bid him today bestride the jade himself, For I will stain my [[Horse\|horse]] quite o‘er with [[Blood\|blood]] And [[Double\|double]]-gild my spurs, but I will catch him. So tell the cap’ring boy, and get thee gone. |
-| SECOND HERALD | I go. Exit Enter a Herald from Prince Philippe, carrying a book |
-| THIRD HERALD | Edward of Wales, Philippe, the second son To the most mighty Christian [[King of France]], Seeing thy [[Body\|body]]’s living date expired, All full of [[Charity\|charity]] and Christian [[Love\|love]] He offers the book to the Prince Commends this book full fairly fraught with prayers To thy fair hand, and for thy hour of life Entreats thee that thou meditate therein, And arm thy [[Soul\|soul]] for her long [[Journey\|journey]] towards. Thus have I done his bidding and return. |
-| PRINCE OF WALES | Herald of Philippe, greet thy lord from me. All good that he can send I can receive. But think’st thou not the unadvised boy Hath wronged himself in thus far tendering me? Haply he cannot pray without the book; I think him no divine extemporal. Then render back this commonplace of [[prayer]] To do himself good in adversity. Besides, he knows not my sins’ quality, And therefore knows no prayers for my avail. Ere [[Night\|night]] his [[prayer]] may be to pray to God To put it in my heart to hear his [[prayer]]. So tell the courtly wanton, and be gone. |
+| SECOND HERALD | The Duke of Normandy, my lord and master,<br>Pitying thy youth is so engirt with peril,<br>By me hath sent a nimble-jointed jennet,<br>As swift as ever yet thou didst bestride,<br>And therewithal he counsels thee to fly,<br>Else [[Death\|death]] himself hath sworn that thou shalt die. |
+| PRINCE OF WALES | Back with the beast unto the beast that sent him!<br>Tell him I cannot sit a coward’s [[Horse\|horse]].<br>Bid him today bestride the jade himself,<br>For I will stain my [[Horse\|horse]] quite o‘er with [[Blood\|blood]]<br>And [[Double\|double]]-gild my spurs, but I will catch him.<br>So tell the cap’ring boy, and get thee gone. |
+| SECOND HERALD | I go. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Enter a Herald from Prince Philippe, carrying a book |
+| THIRD HERALD | Edward of Wales, Philippe, the second son<br>To the most mighty Christian [[King of France]],<br>Seeing thy [[Body\|body]]’s living date expired,<br>All full of [[Charity\|charity]] and Christian [[Love\|love]]<br>He offers the book to the Prince<br>Commends this book full fairly fraught with prayers<br>To thy fair hand, and for thy hour of life<br>Entreats thee that thou meditate therein,<br>And arm thy [[Soul\|soul]] for her long [[Journey\|journey]] towards.<br>Thus have I done his bidding and return. |
+| PRINCE OF WALES | Herald of Philippe, greet thy lord from me.<br>All good that he can send I can receive.<br>But think’st thou not the unadvised boy<br>Hath wronged himself in thus far tendering me?<br>Haply he cannot pray without the book;<br>I think him no divine extemporal.<br>Then render back this commonplace of [[Prayer\|prayer]]<br>To do himself good in adversity.<br>Besides, he knows not my sins’ quality,<br>And therefore knows no prayers for my avail.<br>Ere [[Night\|night]] his [[Prayer\|prayer]] may be to pray to God<br>To put it in my heart to hear his [[Prayer\|prayer]].<br>So tell the courtly wanton, and be gone. |
 | THIRD HERALD | I go. Exit |
-| PRINCE OF WALES | How confident their strength and number makes them! Now, Audley, sound those silver wings of thine, And let those milk-white messengers of [[Time\|time]] Show thy [[Time\|time]]’s learning in this dangerous [[Time\|time]]. Thyself art bruised and bit with many broils, And stratagems fore-past with iron pens Are texted in thine honourable face. Thou art a married man in this distress, But danger woos me as a blushing maid. Teach me an answer to this perilous [[Time\|time]]. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_12--05_exchange_audley" data-title="Edward III — Scene 12 — exchange (AUDLEY) [5]" data-chapter="Scene 12" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| AUDLEY | To die is all as common as to live. The one enchased the other holds in chase. For from the instant we begin to live, We do pursue and hunt the [[Time\|time]] to die. First bud we, then we blow, and after seed, Then presently we fall, and as a shade Follows the [[Body\|body]], so we follow [[Death\|death]]. If then we hunt for [[Death\|death]] why do we [[Fear\|fear]] it? If we [[Fear\|fear]] it, why do we follow it? If we do follow it, how can we shun it? If we do [[Fear\|fear]], with [[Fear\|fear]] we do but aid The thing we [[Fear\|fear]] to seize on us the sooner. If we [[Fear\|fear]] not, then no resolved proffer Can overthrow the limit of our fate. For whether ripe or rotten, drop we shall, As we do draw the lottery of our doom. |
-| PRINCE OF WALES | Ah, good old man! A thousand thousand armours These words of thine have buckled on my back. Ah, what an idiot hast thou made of life To seek the thing it fears, and how disgraced Th‘imperial victory of murd’ring [[Death\|death]], Since all the lives his conquering arrows strike Seek him, and he not them, to shame his glory. I will not give a penny for a life, Nor half a halfpenny to shun grim [[Death\|death]], Since for to live is but to seek to die, And dying but beginning of new life. Let come the hour when he that rules it will. To live or die I hold indifferent still. Exeunt |
+| PRINCE OF WALES | How confident their strength and number makes them!<br>Now, Audley, sound those silver wings of thine,<br>And let those milk-white messengers of [[Time\|time]]<br>Show thy [[Time\|time]]’s learning in this dangerous [[Time\|time]].<br>Thyself art bruised and bit with many broils,<br>And stratagems fore-past with iron pens<br>Are texted in thine honourable face.<br>Thou art a married man in this distress,<br>But danger woos me as a blushing maid.<br>Teach me an answer to this perilous [[Time\|time]]. |
+| AUDLEY | To die is all as common as to live.<br>The one enchased the other holds in chase.<br>For from the instant we begin to live,<br>We do pursue and hunt the [[Time\|time]] to die.<br>First bud we, then we blow, and after seed,<br>Then presently we fall, and as a shade<br>Follows the [[Body\|body]], so we follow [[Death\|death]].<br>If then we hunt for [[Death\|death]] why do we [[Fear\|fear]] it?<br>If we [[Fear\|fear]] it, why do we follow it?<br>If we do follow it, how can we shun it?<br>If we do [[Fear\|fear]], with [[Fear\|fear]] we do but aid<br>The thing we [[Fear\|fear]] to seize on us the sooner.<br>If we [[Fear\|fear]] not, then no resolved proffer<br>Can overthrow the limit of our fate.<br>For whether ripe or rotten, drop we shall,<br>As we do draw the lottery of our doom. |
+| PRINCE OF WALES | Ah, good old man! A thousand thousand armours<br>These words of thine have buckled on my back.<br>Ah, what an idiot hast thou made of life<br>To seek the thing it fears, and how disgraced<br>Th‘imperial victory of murd’ring [[Death\|death]],<br>Since all the lives his conquering arrows strike<br>Seek him, and he not them, to shame his glory.<br>I will not give a penny for a life,<br>Nor half a halfpenny to shun grim [[Death\|death]],<br>Since for to live is but to seek to die,<br>And dying but beginning of new life.<br>Let come the hour when he that rules it will.<br>To live or die I hold indifferent still. |
+| *(didascalia)* | Exeunt |
 
 
 
@@ -1694,108 +1389,69 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_18--01_exchange_dialogue" data-title="Edward III — Scene 18 — exchange (dialogue) [1]" data-chapter="Scene 18" data-kind="exchange"></span>
+<span class="atom-split" data-atom="scenes--scene_18" data-title="Edward III — Scene 18" data-chapter="Scene 18" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter fat one door, as Supplicants, six citizens of Calais in their shirts, barefoot, with halters about their necks. Enter fat another door [[King]] Edward speaking with [[Queen Philippa]]. Enter with them the Earl of Derby and soldiers |
-| [[King\|KING]] EDWARD | No more, [[Queen]] Philip—pacify yourself. Copland, except he can excuse his fault, Shall find displeasure written in our looks. And now, unto this proud, resisting town. Soldiers, assault! I will no longer stay To be deluded by their false delays. Put all to [[Sword\|sword]], and make the spoil your own. |
-| ALL SIX SUPPLICANTS | coming forward [[Mercy]], [[King]] Edward! [[Mercy]], gracious lord! |
-| [[King\|KING]] EDWARD | Contemptuous villains, call ye now for truce? Mine ears are stopped against your bootless cries. Sound drums alarum, draw threat’ning swords! |
-| FIRST SUPPLICANT | Ah, noble prince, take pity on this town, And hear us, mighty [[King]]. We claim the promise that your highness made— The two days’ respite is not yet expired, And we are come with willingness to bear What torturing [[Death\|death]] or punishment you please, So that the trembling multitude be saved. |
-| [[King\|KING]] EDWARD | My promise—[[Well\|well]], I do confess as much. But I require the chiefest citizens And men of most account that should submit. You, peradventure, are but servile grooms, Or some felonious robbers on the sea, Whom, apprehended, law would execute, Albeit severity lay dead in us. No, no—ye cannot overreach us thus. |
-| SECOND SUPPLICANT | The sun, dread lord, that in the western fall Beholds us now low-brought through misery, Did, in the [[Orient\|orient]] purple of the morn, Salute our coming forth when we were known  Or may our portion be with damned fiends. |
-| [[King\|KING]] EDWARD | If it be so, then let our covenant stand. We take possession of the town in peace, But for yourselves, look you for no remorse. But, as imperial justice hath decreed, Your bodies shall be dragged about these walls, And, after, feel the stroke of quartering steel. This is your doom. (To the soldiers) Go, soldiers, see it done. |
-| [[Queen Philippa\|QUEEN PHILIPPA]] | A Ah, be more mild unto these yielding men! It is a glorious thing to stablish peace, And kings approach the nearest unto God By giving life and safety unto men. As thou intendest to be [[King of France\|king of France]], So let her people live to call thee [[King\|king]]. For what the [[Sword\|sword]] cuts down, or [[Fire\|fire]] hath spoiled, Is held in reputation none of ours. |
-| [[King\|KING]] EDWARD | Although experience teach us this is true— That peaceful quietness brings most delight When most of all abuses are controlled— Yet, insomuch it shall be known that we As [[Well\|well]] can master our affections As conquer other by the dint of [[Sword\|sword]], Philip, prevail: we yield to thy request— These men shall live to boast of clemency, And, tyranny, strike terror to thyself. |
+| [[King\|KING]] EDWARD | No more, [[Queen]] Philip—pacify yourself.<br>Copland, except he can excuse his fault,<br>Shall find displeasure written in our looks.<br>And now, unto this proud, resisting town.<br>Soldiers, assault! I will no longer stay<br>To be deluded by their false delays.<br>Put all to [[Sword\|sword]], and make the spoil your own. |
+| *(didascalia)* | ALL SIX SUPPLICANTS coming forward |
+| [[King\|KING]] EDWARD | [[Mercy]], [[King]] Edward! [[Mercy]], gracious lord! |
+| [[King\|KING]] EDWARD | Contemptuous villains, call ye now for truce?<br>Mine ears are stopped against your bootless cries. |
+| *(didascalia)* | Sound drums alarum, draw threat’ning swords! |
+| FIRST SUPPLICANT | Ah, noble prince, take pity on this town,<br>And hear us, mighty [[King]].<br>We claim the promise that your highness made—<br>The two days’ respite is not yet expired,<br>And we are come with willingness to bear<br>What torturing [[Death\|death]] or punishment you please,<br>So that the trembling multitude be saved. |
+| [[King\|KING]] EDWARD | My promise—[[Well\|well]], I do confess as much.<br>But I require the chiefest citizens<br>And men of most account that should submit.<br>You, peradventure, are but servile grooms,<br>Or some felonious robbers on the sea,<br>Whom, apprehended, law would execute,<br>Albeit severity lay dead in us.<br>No, no—ye cannot overreach us thus. |
+| SECOND SUPPLICANT | The sun, dread lord, that in the western fall<br>Beholds us now low-brought through misery,<br>Did, in the [[Orient\|orient]] purple of the morn,<br>Salute our coming forth when we were known |
+| *(didascalia)* |  |
+| SECOND SUPPLICANT | Or may our portion be with damned fiends. |
+| [[King\|KING]] EDWARD | If it be so, then let our covenant stand.<br>We take possession of the town in peace,<br>But for yourselves, look you for no remorse.<br>But, as imperial justice hath decreed,<br>Your bodies shall be dragged about these walls,<br>And, after, feel the stroke of quartering steel.<br>This is your doom. (To the soldiers) Go, soldiers, see it<br>done. |
+| [[Queen Philippa\|QUEEN PHILIPPA]] | A<br>Ah, be more mild unto these yielding men!<br>It is a glorious thing to stablish peace,<br>And kings approach the nearest unto God<br>By giving life and safety unto men.<br>As thou intendest to be [[King of France\|king of France]],<br>So let her people live to call thee [[King\|king]].<br>For what the [[Sword\|sword]] cuts down, or [[Fire\|fire]] hath spoiled,<br>Is held in reputation none of ours. |
+| [[King\|KING]] EDWARD | Although experience teach us this is true—<br>That peaceful quietness brings most delight<br>When most of all abuses are controlled—<br>Yet, insomuch it shall be known that we<br>As [[Well\|well]] can master our affections<br>As conquer other by the dint of [[Sword\|sword]],<br>Philip, prevail: we yield to thy request—<br>These men shall live to boast of clemency,<br>And, tyranny, strike terror to thyself. |
 | SECOND SUPPLICANT | Long live your highness! Happy be your reign! |
-| [[King\|KING]] EDWARD | (to the six Supplicants) Go, get you hencel Return unto the town. And if this kindness hath deserved your [[Love\|love]], Learn then to reverence Edward as your [[King\|king]]. Exeunt the six Supplicants Now might we hear of our affairs abroad, We would till gloomy [[Winter\|winter]] were o’erspent Dispose our men in garrison a while. Enter Copland, with David [[King]] of Scotland as his prisoner But who comes here? |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_18--02_exchange_earl_of_derby" data-title="Edward III — Scene 18 — exchange (EARL OF DERBY) [2]" data-chapter="Scene 18" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[King\|KING]] EDWARD | (to the six Supplicants)<br>Go, get you hencel Return unto the town.<br>And if this kindness hath deserved your [[Love\|love]],<br>Learn then to reverence Edward as your [[King\|king]]. |
+| *(didascalia)* | Exeunt the six Supplicants |
+| [[King\|KING]] EDWARD | Now might we hear of our affairs abroad,<br>We would till gloomy [[Winter\|winter]] were o’erspent<br>Dispose our men in garrison a while. |
+| *(didascalia)* | Enter Copland, with David [[King]] of Scotland as his prisoner |
+| [[King\|KING]] EDWARD | But who comes here? |
 | EARL OF DERBY | Copland, my lord, and David [[King]] of Scots. |
-| [[King\|KING]] EDWARD | Is this the proud, presumptuous squire of the north That would not yield his prisoner to my [[Queen]]? |
-| COPLAND | I am, my liege, a northern squire indeed, But neither proud nor insolent, I trust. |
-| [[King\|KING]] EDWARD | What moved thee, then, to be so obstinate To contradict our royal [[Queen]]’s [[Desire\|desire]]? |
-| COPLAND | No wilful disobedience, mighty lord, But my [[Desert\|desert]], and public law at arms. I took the [[King]], myself, in single fight, And, like a soldier, would be loath to lose The least pre-eminence that I had won. And Copland, straight upon your highness’ charge, Is come to France, and with a lowly mind Doth vail the bonnet of his victory. Receive, dread lord, the custom of my freight, The wealthy tribute of my labouring hands, Which should long since have been surrendered up, Had but your gracious [[Self\|self]] been there in place. |
-| [[Queen Philippa\|QUEEN PHILIPPA]] | But, Copland, thou didst scorn the [[King]]’s command, Neglecting our commission in his name. |
-| COPLAND | His name I reverence, but his person more. His name shall keep me in allegiance still, But to his person I will bend my knee. |
-| [[King\|KING]] EDWARD | (to the [[Queen]]) I pray thee, Philip, let displeasure pass. This man doth please me, and I like his words. For what is he that will attempt great deeds And lose the glory that ensues, the fame? All rivers have recourse unto the sea, And Copland’s [[Faith\|faith]], relation to his [[King\|king]]. (To Copland) Kneel therefore down. He knights him Now rise, [[King]] Edward’s knight. And to maintain thy state, I freely give 96 Five hundred marks a year to thee and thine. Enter the [[Earl of Salisbury]], with a coronet Welcome, Lord Salisbury! What news from Bretagne? |
-| [[Earl of Salisbury\|EARL OF SALISBURY]] | This, mighty [[King]]: the country we have won, And Charles de Montfort, regent of that place, Presents your highness with this coronet, Protesting true allegiance to your grace. |
-| [[King\|KING]] EDWARD | We thank thee for thy service, valiant Earl. Challenge our favour, for we owe it thee. |
-| [[Earl of Salisbury\|EARL OF SALISBURY]] | But now, my lord, as this is joyful news, So must my voice be tragical again, And I must sing of doleful accidents. |
-| [[King\|KING]] EDWARD | What, have our men the overthrow at Poitiers, Or is our son beset with too much odds? |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_18--03_monologue_earl_of_salisbury" data-title="Edward III — Scene 18 — monologue (EARL OF SALISBURY) [3]" data-chapter="Scene 18" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Earl of Salisbury\|EARL OF SALISBURY]] | He was, my lord, and as my worthless [[Self\|self]], With forty other serviceable knights, Under safe conduct of the [[Dauphin]]’s seal, Did travel that way, finding him distressed, A troop of lances met us on the way, Surprised and brought us prisoners to the [[King]], Who, proud of this and eager of [[Revenge\|revenge]], Commanded straight to cut off all our heads. And surely we had died but that the Duke, More full of [[Honour\|honour]] than his angry sire, Procured our quick deliverance from thence. But ere we went, ‘Salute your [[King]],’ quoth he, ‘Bid him provide a funeral for his son. Today our [[Sword\|sword]] shall cut his thread of life And, sooner than he thinks, we’ll be with him To quittance those displeasures he hath done.’ This said, we passed, not daring to reply. Our hearts were dead, our looks diffused and wan. Wand‘ring, at last we climbed unto a [[Hill\|hill]] From whence, although our grief were much before, Yet now to see the occasion with our eyes Did thrice so much increase our heaviness. For there, my lord, O there we did descry Down in a valley how both armies lay. The French had cast their trenches like a ring, And every barricado’s open front Was thick embossed with brazen ordinance. Here stood a battle of ten thousand [[Horse\|horse]], There twice as many pikes in quadrant wise, Here crossbows and there deadly wounding darts, And in the midst, like to a slender point Within the compass of the horizon, As ’twere a rising bubble in the sea, A hazel wand amidst a wood of pines, Or as a bear fast-chained unto a stake, Stood famous Edward, still expecting when Those [[dogs]] of France would fasten on his flesh. Anon, the [[Death\|death]]-procuring knell begins. Off go the cannons that, with trembling noise, Did shake the very mountain where they stood. Then sound the trumpets’ clangour in the air. The battles join, and when we could no more Discern the difference ‘twixt the friend and foe, So intricate the dark confusion was, Away we turned our wat’ry eyes with sighs As black as powder fuming into smoke. And thus, I [[Fear\|fear]], unhappy have I told The most untimely tale of Edward’s fall. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_18--04_exchange_queen_philippa" data-title="Edward III — Scene 18 — exchange (QUEEN PHILIPPA) [4]" data-chapter="Scene 18" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Queen Philippa\|QUEEN PHILIPPA]] | Ah, me! Is this my welcome into France? Is this the comfort that I looked to have When I should meet with my beloved son? Sweet Ned, I would thy mother, in the sea, Had been prevented of this mortal grief. |
-| [[King\|KING]] EDWARD | Content thee, Philip. ’Tis not [[Tears\|tears]] will serve To call him back if he be taken hence. Comfort thyself as I do, gentle [[Queen]], With [[Hope\|hope]] of sharp, unheard-of, dire [[Revenge\|revenge]]! He bids me to provide his funeral! And so I will, but all the peers in France Shall mourners be, and weep out bloody [[Tears\|tears]] Until their empty veins be dry and sere. The pillars of his hearse shall be their bones; The mould that covers him, their [[City\|city]] ashes; His knell, the groaning cries of dying men; And, in the stead of tapers on his tomb, An hundred-fifty towers shall burning blaze While we bewail our valiant son’s decease! Flourish within. Enter a Herald |
-| HERALD | Rejoice, my lord! Ascend the imperial throne! The mighty and redoubted Prince of Wales, Great servitor to bloody Mars in arms, The Frenchman’s terror and his country’s fame, Triumphant rideth like a Roman peer, And, lowly, at his stirrup, comes afoot [[King]] Jean of France together with his son In captive bonds, whose diadem he brings To [[Crown\|crown]] thee with, and to proclaim thee [[King\|king]]. |
-| [[King\|KING]] EDWARD | Away with mourning, Philip! Wipe thine eyes! Sound trumpets! Welcome in Plantagenet! Enter Edward Prince of Wales with Jean [[King of France]] and Prince Philippe as his prisoners. Also enter Lord Audley in a litter borne by the two Squires and the Comte d’Artois As things long lost when they are found again, So doth my son rejoice his father’s heart, For whom, even now, my [[Soul\|soul]] was much perplexed. |
-| [[Queen Philippa\|QUEEN PHILIPPA]] | Be this a token to express my joy— She kisses the Prince of Wales For inward passions will not let me speak. |
-| PRINCE OF WALES | (to [[King]] Edward) My gracious father, here receive thy gift, This wreath of conquest and reward of war, Got with as mickle peril of our lives As e’er was thing of price before this day. Install your highness in your proper right, And herewithal I render to your hands These prisoners, chief occasion of our strife. |
-| [[King\|KING]] EDWARD | (to the [[King of France]]) So, Jean of France, I see you keep your word! You promised to be sooner with ourself Than we did think for, and ’tis so indeed. But had you done at first as now you do, How many civil towns had stood untouched That now are turned to ragged heaps of stones? How many people’s lives mightst thou have saved That are untimely sunk into their graves? |
-| [[King of France\|KING OF FRANCE]] | Edward, recount not things irrevocable. Tell me what ransom thou requir’st to have. |
-| [[King\|KING]] EDWARD | Thy ransom, Jean, hereafter shall be known. But first to England thou must [[Cross\|cross]] the seas To see what entertainment it affords. Howe’er it falls, it cannot be so bad As ours hath been since we arrived in France. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_18--05_exchange_king_of_france" data-title="Edward III — Scene 18 — exchange (KING OF FRANCE) [5]" data-chapter="Scene 18" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King of France\|KING OF FRANCE]] | Accursed man! Of this I was foretold, But did misconstrue what the [[Prophet\|prophet]] told. |
-| PRINCE OF WALES | (to [[King]] Edward) Now, father, this petition Edward makes To thee, whose grace hath been his strongest shield: That as thy pleasure chose me for the man To be the instrument to show thy power, So thou wilt grant that many princes more, Bred and brought up within that little isle, May still be famous for like victories. And for my part, the bloody scars I bear, The weary nights that I have watched in field, 5 The dangerous conflicts I have often had, The fearful menaces were proffered me, The heat and cold, and what else might displease, I wish were now redoubled twentyfold, So that hereafter ages, when they read The painful traffic of my tender youth, Might thereby be inflamed with such resolve As not the territories of France [[Alone\|alone]], But likewise Spain, Turkey and what countries else That justly would provoke fair England’s ire, Might at thy presence tremble and retire. |
-| [[King\|KING]] EDWARD | Here, English lords, we do proclaim a rest, An intercession of our painful arms. Sheathe up your swords, refresh your weary limbs, Peruse your spoils, and after we have breathed A day or two within this haven town, God willing, then for England we’ll be shipped, Where in a happy hour I trust we shall Arrive: three kings, two princes, and a [[Queen\|queen]]. Exeunt |
+| [[King\|KING]] EDWARD | Is this the proud, presumptuous squire of the north<br>That would not yield his prisoner to my [[Queen]]? |
+| COPLAND | I am, my liege, a northern squire indeed,<br>But neither proud nor insolent, I trust. |
+| [[King\|KING]] EDWARD | What moved thee, then, to be so obstinate<br>To contradict our royal [[Queen]]’s [[Desire\|desire]]? |
+| COPLAND | No wilful disobedience, mighty lord,<br>But my [[Desert\|desert]], and public law at arms.<br>I took the [[King]], myself, in single fight,<br>And, like a soldier, would be loath to lose<br>The least pre-eminence that I had won.<br>And Copland, straight upon your highness’ charge,<br>Is come to France, and with a lowly mind<br>Doth vail the bonnet of his victory.<br>Receive, dread lord, the custom of my freight,<br>The wealthy tribute of my labouring hands,<br>Which should long since have been surrendered up,<br>Had but your gracious [[Self\|self]] been there in place. |
+| [[Queen Philippa\|QUEEN PHILIPPA]] | But, Copland, thou didst scorn the [[King]]’s command,<br>Neglecting our commission in his name. |
+| COPLAND | His name I reverence, but his person more.<br>His name shall keep me in allegiance still,<br>But to his person I will bend my knee. |
+| [[King\|KING]] EDWARD | (to the [[Queen]])<br>I pray thee, Philip, let displeasure pass.<br>This man doth please me, and I like his words.<br>For what is he that will attempt great deeds<br>And lose the glory that ensues, the fame?<br>All rivers have recourse unto the sea,<br>And Copland’s [[Faith\|faith]], relation to his [[King\|king]].<br>(To Copland) Kneel therefore down.<br>He knights him<br>Now rise, [[King]] Edward’s knight.<br>And to maintain thy state, I freely give 96<br>Five hundred marks a year to thee and thine. |
+| *(didascalia)* | Enter the [[Earl of Salisbury]], with a coronet |
+| [[King\|KING]] EDWARD | Welcome, Lord Salisbury! What news from Bretagne? |
+| [[Earl of Salisbury\|EARL OF SALISBURY]] | This, mighty [[King]]: the country we have won,<br>And Charles de Montfort, regent of that place,<br>Presents your highness with this coronet,<br>Protesting true allegiance to your grace. |
+| [[King\|KING]] EDWARD | We thank thee for thy service, valiant Earl.<br>Challenge our favour, for we owe it thee. |
+| [[Earl of Salisbury\|EARL OF SALISBURY]] | But now, my lord, as this is joyful news,<br>So must my voice be tragical again,<br>And I must sing of doleful accidents. |
+| [[King\|KING]] EDWARD | What, have our men the overthrow at Poitiers,<br>Or is our son beset with too much odds? |
+| [[Earl of Salisbury\|EARL OF SALISBURY]] | He was, my lord, and as my worthless [[Self\|self]],<br>With forty other serviceable knights,<br>Under safe conduct of the [[Dauphin]]’s seal,<br>Did travel that way, finding him distressed,<br>A troop of lances met us on the way,<br>Surprised and brought us prisoners to the [[King]],<br>Who, proud of this and eager of [[Revenge\|revenge]],<br>Commanded straight to cut off all our heads.<br>And surely we had died but that the Duke,<br>More full of [[Honour\|honour]] than his angry sire,<br>Procured our quick deliverance from thence.<br>But ere we went, ‘Salute your [[King]],’ quoth he,<br>‘Bid him provide a funeral for his son.<br>Today our [[Sword\|sword]] shall cut his thread of life<br>And, sooner than he thinks, we’ll be with him<br>To quittance those displeasures he hath done.’<br>This said, we passed, not daring to reply.<br>Our hearts were dead, our looks diffused and wan.<br>Wand‘ring, at last we climbed unto a [[Hill\|hill]]<br>From whence, although our grief were much before,<br>Yet now to see the occasion with our eyes<br>Did thrice so much increase our heaviness.<br>For there, my lord, O there we did descry<br>Down in a valley how both armies lay.<br>The French had cast their trenches like a ring,<br>And every barricado’s open front<br>Was thick embossed with brazen ordinance.<br>Here stood a battle of ten thousand [[Horse\|horse]],<br>There twice as many pikes in quadrant wise,<br>Here crossbows and there deadly wounding darts,<br>And in the midst, like to a slender point |
+| *(didascalia)* | Within the compass of the horizon, |
+| [[Earl of Salisbury\|EARL OF SALISBURY]] | As ’twere a rising bubble in the sea,<br>A hazel wand amidst a wood of pines,<br>Or as a bear fast-chained unto a stake,<br>Stood famous Edward, still expecting when<br>Those [[dogs]] of France would fasten on his flesh.<br>Anon, the [[Death\|death]]-procuring knell begins.<br>Off go the cannons that, with trembling noise,<br>Did shake the very mountain where they stood.<br>Then sound the trumpets’ clangour in the air.<br>The battles join, and when we could no more<br>Discern the difference ‘twixt the friend and foe,<br>So intricate the dark confusion was,<br>Away we turned our wat’ry eyes with sighs<br>As black as powder fuming into smoke.<br>And thus, I [[Fear\|fear]], unhappy have I told<br>The most untimely tale of Edward’s fall. |
+| [[Queen Philippa\|QUEEN PHILIPPA]] | Ah, me! Is this my welcome into France?<br>Is this the comfort that I looked to have<br>When I should meet with my beloved son?<br>Sweet Ned, I would thy mother, in the sea,<br>Had been prevented of this mortal grief. |
+| [[King\|KING]] EDWARD | Content thee, Philip. ’Tis not [[Tears\|tears]] will serve<br>To call him back if he be taken hence.<br>Comfort thyself as I do, gentle [[Queen]],<br>With [[Hope\|hope]] of sharp, unheard-of, dire [[Revenge\|revenge]]!<br>He bids me to provide his funeral!<br>And so I will, but all the peers in France<br>Shall mourners be, and weep out bloody [[Tears\|tears]]<br>Until their empty veins be dry and sere.<br>The pillars of his hearse shall be their bones;<br>The mould that covers him, their [[City\|city]] ashes;<br>His knell, the groaning cries of dying men;<br>And, in the stead of tapers on his tomb,<br>An hundred-fifty towers shall burning blaze<br>While we bewail our valiant son’s decease! |
+| *(didascalia)* | Flourish within. Enter a Herald |
+| HERALD | Rejoice, my lord! Ascend the imperial throne!<br>The mighty and redoubted Prince of Wales,<br>Great servitor to bloody Mars in arms,<br>The Frenchman’s terror and his country’s fame,<br>Triumphant rideth like a Roman peer,<br>And, lowly, at his stirrup, comes afoot<br>[[King]] Jean of France together with his son<br>In captive bonds, whose diadem he brings<br>To [[Crown\|crown]] thee with, and to proclaim thee [[King\|king]]. |
+| [[King\|KING]] EDWARD | Away with mourning, Philip! Wipe thine eyes! |
+| *(didascalia)* | Sound trumpets! Welcome in Plantagenet! |
+| *(didascalia)* | Enter Edward Prince of Wales with Jean [[King of France]] and Prince Philippe as his prisoners. Also enter Lord Audley in a litter borne by the two Squires and the Comte d’Artois |
+| [[King\|KING]] EDWARD | As things long lost when they are found again,<br>So doth my son rejoice his father’s heart,<br>For whom, even now, my [[Soul\|soul]] was much perplexed. |
+| [[Queen Philippa\|QUEEN PHILIPPA]] | Be this a token to express my joy—<br>She kisses the Prince of Wales<br>For inward passions will not let me speak. |
+| PRINCE OF WALES | (to [[King]] Edward)<br>My gracious father, here receive thy gift,<br>This wreath of conquest and reward of war,<br>Got with as mickle peril of our lives<br>As e’er was thing of price before this day.<br>Install your highness in your proper right,<br>And herewithal I render to your hands<br>These prisoners, chief occasion of our strife. |
+| [[King\|KING]] EDWARD | (to the [[King of France]])<br>So, Jean of France, I see you keep your word!<br>You promised to be sooner with ourself<br>Than we did think for, and ’tis so indeed.<br>But had you done at first as now you do,<br>How many civil towns had stood untouched<br>That now are turned to ragged heaps of stones?<br>How many people’s lives mightst thou have saved<br>That are untimely sunk into their graves? |
+| [[King of France\|KING OF FRANCE]] | Edward, recount not things irrevocable.<br>Tell me what ransom thou requir’st to have. |
+| [[King\|KING]] EDWARD | Thy ransom, Jean, hereafter shall be known.<br>But first to England thou must [[Cross\|cross]] the seas<br>To see what entertainment it affords.<br>Howe’er it falls, it cannot be so bad<br>As ours hath been since we arrived in France. |
+| [[King of France\|KING OF FRANCE]] | Accursed man! Of this I was foretold,<br>But did misconstrue what the [[Prophet\|prophet]] told. |
+| PRINCE OF WALES | (to [[King]] Edward)<br>Now, father, this petition Edward makes<br>To thee, whose grace hath been his strongest shield:<br>That as thy pleasure chose me for the man<br>To be the instrument to show thy power,<br>So thou wilt grant that many princes more,<br>Bred and brought up within that little isle,<br>May still be famous for like victories.<br>And for my part, the bloody scars I bear,<br>The weary nights that I have watched in field, 5<br>The dangerous conflicts I have often had,<br>The fearful menaces were proffered me,<br>The heat and cold, and what else might displease,<br>I wish were now redoubled twentyfold,<br>So that hereafter ages, when they read<br>The painful traffic of my tender youth,<br>Might thereby be inflamed with such resolve<br>As not the territories of France [[Alone\|alone]],<br>But likewise Spain, Turkey and what countries else<br>That justly would provoke fair England’s ire,<br>Might at thy presence tremble and retire. |
+| [[King\|KING]] EDWARD | Here, English lords, we do proclaim a rest,<br>An intercession of our painful arms.<br>Sheathe up your swords, refresh your weary limbs,<br>Peruse your spoils, and after we have breathed<br>A day or two within this haven town,<br>God willing, then for England we’ll be shipped,<br>Where in a happy hour I trust we shall<br>Arrive: three kings, two princes, and a [[Queen\|queen]]. |
+| *(didascalia)* | Exeunt |
 | ADDITIONAL PASSAGE | In Q, the following lines, which are probably a misplaced addition, occur at the end of 8.108, between ‘foot’ and ‘Exeunt’, and fall between what may have been stints by two different authors. They may have been intended to go after either 8.93 or 8.98. |
 | [[King\|KING]] EDWARD | What picture’s this? |
-| PRINCE OF WALES | A pelican, my lord, Wounding her bosom with her crooked beak That so her nest of young ones might be fed With drops of [[Blood\|blood]] that issue from her heart. The motto, ‘Sic et vos’—‘and so should you’. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_18--06_monologue_on" data-title="Edward III — Scene 18 — monologue (ON) [6]" data-chapter="Scene 18" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| ON | the [[Night\|night]] of 28 December 1594, the Christmas revels at Gray’s Inn—one of [[London]]’s law schools—became so uproarious that one performance planned for the occasion had to be abandoned. Eventually ‘it was thought good not to offer anything of account saving dancing and revelling with gentlewomen; and after such sports a [[Comedy\|comedy]] of errors (like to Plautus his Menaechmus) was played by the players. So that [[Night\|night]] was begun, and continued to the end, in nothing but confusion and errors; whereupon it was ever afterwards called “The [[Night]] of Errors”.’ This sounds like a reference to Shakespeare’s play, first printed in the 1623 Folio, which is certainly based in large part on the Roman dramatist Plautus’ [[Comedy\|comedy]] Menaechmi. As Shakespeare’s shortest play, it would have been especially suited to late-[[Night\|night]] performance. Exceptional in having no cues for music, it may have been written for the occasion, or at least have been new in 1594. The [[Comedy\|comedy]] in Menaechmi derives from the embarrassment experienced by a man in search of his long-lost twin brother when various people intimately acquainted with that twin—including his wife, his mistress, and his father—mistake the one for the other. Shakespeare greatly increases the possibilities of comic confusion by giving the brothers (both called Antipholus) servants (both called Dromio) who themselves are long-separated twins. An added episode in which [[Antipholus of Ephesus]]’ wife, [[Adriana]], bars him from his own [[house]] in which she is entertaining his brother is based on another play by Plautus, Amphitruo. Shakespeare sets the comic action within a more serious framework, opening with a scene in which the twin masters’ old father, [[Egeon]], who has arrived at Ephesus in search of them, is shown under imminent sentence of [[Death\|death]] unless he finds someone to redeem him. This strand of the plot, as [[Well\|well]] as the surprising revelation that brings about the resolution of the action, is based on the story of [[Apollonius]] of Tyre which Shakespeare was to use again, many years later, in [[Pericles]]. The [[Comedy]] of Errors is a kind of diploma piece, as if Shakespeare were displaying his ability to outshine both his classical progenitors and their English imitators. Along with The Tempest, it is his most classically constructed play: all the action takes place within a few hours and in a single place. Moreover, it seems to make use of the conventionalized arcade setting of academic drama, with three ‘houses’—the Phoenix, the Porcupine, and the Priory—represented by doors and signs on stage. The working out of the complexities inherent in the basic situation represents a considerable intellectual feat. But the [[Comedy\|comedy]] is humanized by the interweaving of romantic elements, such as [[Egeon]]’s initial plight, the [[Love\|love]] between the visiting Antipholus and his twin brother’s wife’s sister, [[Luciana]], and the entirely serious portrayal of [[Egeon]]’s [[Suffering\|suffering]] when his own son fails to recognize him at the moment of his greatest need. From [[Time\|time]] to [[Time\|time]] the comic tension is relaxed by the presence of discursive set pieces, none more memorable than [[Dromio of Syracuse]]’s description of Nell, the kitchen wench who is ‘spherical, like a globe’. |
-
-
-
-
-<span class="atom-split" data-atom="scenes--scene_18--07_exchange_the_persons_of_the_play" data-title="Edward III — Scene 18 — exchange (THE PERSONS OF THE PLAY) [7]" data-chapter="Scene 18" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| THE PERSONS OF THE | PLAY Solinus, DUKE of Ephesus [[Egeon\|EGEON]], a merchant of Syracuse, father of the Antipholus twins [[Adriana\|ADRIANA]], wife of [[Antipholus of Ephesus]] [[Luciana\|LUCIANA]], her sister NELL, [[Adriana]]’s kitchen-maid [[Angelo\|ANGELO]], a goldsmith BALTHASAR, a merchant |
-| *(didascalia)* | A |
-| COURTESAN | Doctor PINCH, a schoolmaster and exorcist |
+| PRINCE OF WALES | A pelican, my lord,<br>Wounding her bosom with her crooked beak<br>That so her nest of young ones might be fed<br>With drops of [[Blood\|blood]] that issue from her heart.<br>The motto, ‘Sic et vos’—‘and so should you’. |
+| ON | the [[Night\|night]] of 28 December 1594, the Christmas revels at Gray’s Inn—one of [[London]]’s law schools—became so uproarious that one performance planned for the occasion had to be abandoned. Eventually ‘it was thought good not to offer anything of account saving dancing and revelling with gentlewomen; and after such sports a [[Comedy\|comedy]] of errors (like to Plautus his Menaechmus) was played by the players. So that [[Night\|night]] was begun, and continued to the end, in nothing but confusion and errors; whereupon it was ever afterwards called “The [[Night]] of Errors”.’<br>This sounds like a reference to Shakespeare’s play, first printed in the 1623 Folio, which is certainly based in large part on the Roman dramatist Plautus’ [[Comedy\|comedy]] Menaechmi. As Shakespeare’s shortest play, it would have been especially suited to late-[[Night\|night]] performance. Exceptional in having no cues for music, it may have been written for the occasion, or at least have been new in 1594.<br>The [[Comedy\|comedy]] in Menaechmi derives from the embarrassment experienced by a man in search of his long-lost twin brother when various people intimately acquainted with that twin—including his wife, his mistress, and his father—mistake the one for the other. Shakespeare greatly increases the possibilities of comic confusion by giving the brothers (both called Antipholus) servants (both called Dromio) who themselves are long-separated twins. An added episode in which [[Antipholus of Ephesus]]’ wife, [[Adriana]], bars him from his own [[house]] in which she is entertaining his brother is based on another play by Plautus, Amphitruo. Shakespeare sets the comic action within a more serious framework, opening with a scene in which the twin masters’ old father, [[Egeon]], who has arrived at Ephesus in search of them, is shown under imminent sentence of [[Death\|death]] unless he finds someone to redeem him. This strand of the plot, as [[Well\|well]] as the surprising revelation that brings about the resolution of the action, is based on the story of [[Apollonius]] of Tyre which Shakespeare was to use again, many years later, in [[Pericles]].<br>The [[Comedy]] of Errors is a kind of diploma piece, as if Shakespeare were displaying his ability to outshine both his classical progenitors and their English imitators. Along with The Tempest, it is his most classically constructed play: all the action takes place within a few hours and in a single place. Moreover, it seems to make use of the conventionalized arcade setting of academic drama, with three ‘houses’—the Phoenix, the Porcupine, and the Priory—represented by doors and signs on stage. The working out of the complexities inherent in the basic situation represents a considerable intellectual feat. But the [[Comedy\|comedy]] is humanized by the interweaving of romantic elements, such as [[Egeon]]’s initial plight, the [[Love\|love]] between the visiting Antipholus and his twin brother’s wife’s sister, [[Luciana]], and the entirely serious portrayal of [[Egeon]]’s [[Suffering\|suffering]] when his own son fails to recognize him at the moment of his greatest need. From [[Time\|time]] to [[Time\|time]] the comic tension is relaxed by the presence of discursive set pieces, none more memorable than [[Dromio of Syracuse]]’s description of Nell, the kitchen wench who is ‘spherical, like a globe’. |
+| THE PERSONS OF THE | PLAY<br>Solinus, DUKE of Ephesus<br>[[Egeon\|EGEON]], a merchant of Syracuse, father of the Antipholus twins<br>[[Adriana\|ADRIANA]], wife of [[Antipholus of Ephesus]]<br>[[Luciana\|LUCIANA]], her sister<br>NELL, [[Adriana]]’s kitchen-maid<br>[[Angelo\|ANGELO]], a goldsmith<br>BALTHASAR, a merchant<br>A COURTESAN<br>Doctor PINCH, a schoolmaster and exorcist |
 | MERCHANT OF | EPHESUS, a friend of [[Antipholus of Syracuse]] |
-| SECOND | MERCHANT, [[Angelo]]’s creditor [[Emilia\|EMILIA]], an abbess at Ephesus Jailer, messenger, headsman, officers, and other attendants |
+| SECOND | MERCHANT, [[Angelo]]’s creditor<br>[[Emilia\|EMILIA]], an abbess at Ephesus<br>Jailer, messenger, headsman, officers, and other attendants |

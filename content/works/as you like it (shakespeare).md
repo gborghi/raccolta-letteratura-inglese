@@ -47,19 +47,27 @@ tags:
 
 ## Capitoli / Chapters
 
+- [Act I, Scene 1](/testi/shakespeare/plays/as_you_like_it#act_1--scene_1)
+- [Act I, Scene 2](/testi/shakespeare/plays/as_you_like_it#act_1--scene_2)
 - [Act II, Scene 1](/testi/shakespeare/plays/as_you_like_it#act_2--scene_1)
 - [Act II, Scene 2](/testi/shakespeare/plays/as_you_like_it#act_2--scene_2)
 - [Act II, Scene 3](/testi/shakespeare/plays/as_you_like_it#act_2--scene_3)
 - [Act II, Scene 4](/testi/shakespeare/plays/as_you_like_it#act_2--scene_4)
 - [Act II, Scene 5](/testi/shakespeare/plays/as_you_like_it#act_2--scene_5)
 - [Act II, Scene 6](/testi/shakespeare/plays/as_you_like_it#act_2--scene_6)
+- [Act II, Scene 7](/testi/shakespeare/plays/as_you_like_it#act_2--scene_7)
 - [Act III, Scene 1](/testi/shakespeare/plays/as_you_like_it#act_3--scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/as_you_like_it#act_3--scene_2)
 - [Act III, Scene 3](/testi/shakespeare/plays/as_you_like_it#act_3--scene_3)
 - [Act III, Scene 4](/testi/shakespeare/plays/as_you_like_it#act_3--scene_4)
+- [Act III, Scene 5](/testi/shakespeare/plays/as_you_like_it#act_3--scene_5)
+- [Act IV, Scene 1](/testi/shakespeare/plays/as_you_like_it#act_4--scene_1)
 - [Act IV, Scene 2](/testi/shakespeare/plays/as_you_like_it#act_4--scene_2)
+- [Act IV, Scene 3](/testi/shakespeare/plays/as_you_like_it#act_4--scene_3)
 - [Act V, Scene 1](/testi/shakespeare/plays/as_you_like_it#act_5--scene_1)
 - [Act V, Scene 2](/testi/shakespeare/plays/as_you_like_it#act_5--scene_2)
 - [Act V, Scene 3](/testi/shakespeare/plays/as_you_like_it#act_5--scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/as_you_like_it#act_5--scene_4)
 
 ## Connections
 

@@ -45,6 +45,7 @@ tags:
 
 ## Capitoli / Chapters
 
+- [Act I, Scene 1](/testi/shakespeare/plays/coriolanus#act_1--scene_1)
 - [Act I, Scene 3](/testi/shakespeare/plays/coriolanus#act_1--scene_3)
 - [Act I, Scene 4](/testi/shakespeare/plays/coriolanus#act_1--scene_4)
 - [Act I, Scene 5](/testi/shakespeare/plays/coriolanus#act_1--scene_5)
@@ -54,14 +55,23 @@ tags:
 - [Act I, Scene 9](/testi/shakespeare/plays/coriolanus#act_1--scene_9)
 - [Act I, Scene 10](/testi/shakespeare/plays/coriolanus#act_1--scene_10)
 - [Act I, Scene 11](/testi/shakespeare/plays/coriolanus#act_1--scene_11)
+- [Act II, Scene 1](/testi/shakespeare/plays/coriolanus#act_2--scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/coriolanus#act_2--scene_2)
+- [Act II, Scene 3](/testi/shakespeare/plays/coriolanus#act_2--scene_3)
+- [Act III, Scene 1](/testi/shakespeare/plays/coriolanus#act_3--scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/coriolanus#act_3--scene_2)
 - [Act IV, Scene 1](/testi/shakespeare/plays/coriolanus#act_4--scene_1)
 - [Act IV, Scene 2](/testi/shakespeare/plays/coriolanus#act_4--scene_2)
 - [Act IV, Scene 3](/testi/shakespeare/plays/coriolanus#act_4--scene_3)
 - [Act IV, Scene 4](/testi/shakespeare/plays/coriolanus#act_4--scene_4)
+- [Act IV, Scene 5](/testi/shakespeare/plays/coriolanus#act_4--scene_5)
+- [Act IV, Scene 6](/testi/shakespeare/plays/coriolanus#act_4--scene_6)
 - [Act IV, Scene 7](/testi/shakespeare/plays/coriolanus#act_4--scene_7)
 - [Act V, Scene 1](/testi/shakespeare/plays/coriolanus#act_5--scene_1)
 - [Act V, Scene 2](/testi/shakespeare/plays/coriolanus#act_5--scene_2)
+- [Act V, Scene 3](/testi/shakespeare/plays/coriolanus#act_5--scene_3)
 - [Act V, Scene 4](/testi/shakespeare/plays/coriolanus#act_5--scene_4)
+- [Act V, Scene 6](/testi/shakespeare/plays/coriolanus#act_5--scene_6)
 
 ## Connections
 

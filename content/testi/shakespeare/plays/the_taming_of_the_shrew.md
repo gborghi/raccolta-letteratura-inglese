@@ -1448,61 +1448,41 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1--01_exchange_dialogue" data-title="The Taming of the Shrew — Act I, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Taming of the Shrew — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Flourish. Enter [[Lucentio]] and his man, [[Tranio]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--02_monologue_lucentio" data-title="The Taming of the Shrew — Act I, Scene 1 — monologue (LUCENTIO) [2]" data-chapter="Scene 1" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Lucentio\|LUCENTIO]] | [[Tranio]], since for the great [[Desire\|desire]] I had To see fair Padua, nursery of arts, I am arrived fore fruitful Lombardy, The pleasant [[Garden\|garden]] of great [[Italy]], And by my father’s [[Love\|love]] and leave am armed With his good will and thy good company, My trusty servant, [[Well\|well]] approved in all, Here let us breathe, and haply institute A course of learning and ingenious studies. Pisa, renowned for [[Grave\|grave]] citizens, Gave me my being, and my father first— A merchant of great traffic through the world, Vincentio, come of the Bentivolii. Vincentio’s son, brought up in Florence, It shall become to serve all hopes conceived To deck his fortune with his virtuous deeds. And therefore, [[Tranio]], for the [[Time\|time]] I study, Virtue and that part of [[philosophy]] Will I apply that treats of happiness By virtue specially to be achieved. Tell me thy mind, for I have Pisa left And am to Padua come as he that [[Leaves\|leaves]] A shallow plash to plunge him in the deep, And with satiety seeks to quench his thirst. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--03_exchange_tranio" data-title="The Taming of the Shrew — Act I, Scene 1 — exchange (TRANIO) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Tranio\|TRANIO]] | Mi perdonate, gentle master mine. I am in all affected as yourself, Glad that you thus continue your resolve To suck the sweets of sweet [[philosophy]]. Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray, Or so devote to Aristotle’s checks As Ovid be an outcast quite abjured. Balk [[logic]] with acquaintance that you have, And practise rhetoric in your common talk. Music and poesy use to quicken you; The mathematics and the metaphysics, Fall to them as you find your stomach serves you. No profit grows where is no pleasure ta’en. In brief, sir, study what you most affect. |
-| [[Lucentio\|LUCENTIO]] | Gramercies, [[Tranio]], [[Well\|well]] dost thou advise. If, Biondello, thou wert come ashore, We could at once put us in readiness And take a lodging fit to entertain Such friends as [[Time\|time]] in Padua shall beget. But stay a while, what company is this? |
-| [[Tranio\|TRANIO]] | Master, some show to welcome us to town. Enter [[Baptista]] with his two daughters, Katherine and [[Bianca]]; Gremio, a pantaloon; [[Hortensio]], suitor to [[Bianca]]. [[Lucentio]] and [[Tranio]] stand by |
-| [[Baptista\|BAPTISTA]] | Gentlemen, importune me no farther, For how I firmly am resolved you know: That is, not to bestow my youngest daughter Before I have a husband for the elder. If either of you both [[Love\|love]] [[Katherina]], Because I know you [[Well\|well]] and [[Love\|love]] you [[Well\|well]] Leave shall you have to [[Court\|court]] her at your pleasure. |
-| GREMIO | To cart her rather. She’s too rough for me. There, there, [[Hortensio]]. Will you any wife? |
-| KATHERINE | (to [[Baptista]]) I pray you, sir, is it your will To make a stale of me amongst these mates? |
-| [[Hortensio\|HORTENSIO]] | ‘Mates’, maid? How mean you that? No mates for you Unless you were of gentler, milder mould. |
-| KATHERINE | I’[[Faith\|faith]], sir, you shall never need to [[Fear\|fear]]. Iwis it is not half-way to her heart, But if it were, [[Doubt\|doubt]] not her care should be To comb your noddle with a three-legged stool, And paint your face, and use you like a [[Fool\|fool]]. |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], since for the great [[Desire\|desire]] I had<br>To see fair Padua, nursery of arts,<br>I am arrived fore fruitful Lombardy,<br>The pleasant [[Garden\|garden]] of great [[Italy]],<br>And by my father’s [[Love\|love]] and leave am armed<br>With his good will and thy good company,<br>My trusty servant, [[Well\|well]] approved in all,<br>Here let us breathe, and haply institute<br>A course of learning and ingenious studies.<br>Pisa, renowned for [[Grave\|grave]] citizens,<br>Gave me my being, and my father first—<br>A merchant of great traffic through the world,<br>Vincentio, come of the Bentivolii.<br>Vincentio’s son, brought up in Florence,<br>It shall become to serve all hopes conceived<br>To deck his fortune with his virtuous deeds.<br>And therefore, [[Tranio]], for the [[Time\|time]] I study,<br>Virtue and that part of [[philosophy]]<br>Will I apply that treats of happiness<br>By virtue specially to be achieved.<br>Tell me thy mind, for I have Pisa left<br>And am to Padua come as he that [[Leaves\|leaves]]<br>A shallow plash to plunge him in the deep,<br>And with satiety seeks to quench his thirst. |
+| [[Tranio\|TRANIO]] | Mi perdonate, gentle master mine.<br>I am in all affected as yourself,<br>Glad that you thus continue your resolve<br>To suck the sweets of sweet [[philosophy]].<br>Only, good master, while we do admire<br>This virtue and this moral discipline,<br>Let’s be no stoics nor no stocks, I pray,<br>Or so devote to Aristotle’s checks<br>As Ovid be an outcast quite abjured.<br>Balk [[logic]] with acquaintance that you have,<br>And practise rhetoric in your common talk. |
+| *(didascalia)* | Music and poesy use to quicken you; |
+| [[Tranio\|TRANIO]] | The mathematics and the metaphysics,<br>Fall to them as you find your stomach serves you.<br>No profit grows where is no pleasure ta’en.<br>In brief, sir, study what you most affect. |
+| [[Lucentio\|LUCENTIO]] | Gramercies, [[Tranio]], [[Well\|well]] dost thou advise.<br>If, Biondello, thou wert come ashore,<br>We could at once put us in readiness<br>And take a lodging fit to entertain<br>Such friends as [[Time\|time]] in Padua shall beget.<br>But stay a while, what company is this? |
+| [[Tranio\|TRANIO]] | Master, some show to welcome us to town. |
+| *(didascalia)* | Enter [[Baptista]] with his two daughters, Katherine and [[Bianca]]; Gremio, a pantaloon; [[Hortensio]], suitor to [[Bianca]]. [[Lucentio]] and [[Tranio]] stand by |
+| [[Baptista\|BAPTISTA]] | Gentlemen, importune me no farther,<br>For how I firmly am resolved you know:<br>That is, not to bestow my youngest daughter<br>Before I have a husband for the elder.<br>If either of you both [[Love\|love]] [[Katherina]],<br>Because I know you [[Well\|well]] and [[Love\|love]] you [[Well\|well]]<br>Leave shall you have to [[Court\|court]] her at your pleasure. |
+| GREMIO | To cart her rather. She’s too rough for me.<br>There, there, [[Hortensio]]. Will you any wife? |
+| KATHERINE | (to [[Baptista]])<br>I pray you, sir, is it your will<br>To make a stale of me amongst these mates? |
+| [[Hortensio\|HORTENSIO]] | ‘Mates’, maid? How mean you that? No mates for<br>you<br>Unless you were of gentler, milder mould. |
+| KATHERINE | I’[[Faith\|faith]], sir, you shall never need to [[Fear\|fear]].<br>Iwis it is not half-way to her heart,<br>But if it were, [[Doubt\|doubt]] not her care should be<br>To comb your noddle with a three-legged stool,<br>And paint your face, and use you like a [[Fool\|fool]]. |
 | [[Hortensio\|HORTENSIO]] | From all such devils, good Lord deliver us. |
 | GREMIO | And me too, good Lord. |
-| [[Tranio\|TRANIO]] | (aside to [[Lucentio]]) Husht, master, here’s some good pastime toward. That wench is stark mad or wonderful froward. |
-| [[Lucentio\|LUCENTIO]] | (aside to [[Tranio]]) But in the other’s [[Silence\|silence]] do I see Maid’s mild behaviour and sobriety. Peace, [[Tranio]]. |
-| [[Tranio\|TRANIO]] | (aside to [[Lucentio]]) [[Well]] said, master. Mum, and gaze your fill. |
-| [[Baptista\|BAPTISTA]] | Gentlemen, that I may soon make good What I have said—[[Bianca]], get you in. And let it not displease thee, good [[Bianca]], For I will [[Love\|love]] thee ne’er the less, my girl. |
-| KATHERINE | A pretty peat! It is best Put finger in the eye, an she knew why. |
-| [[Bianca\|BIANCA]] | Sister, content you in my discontent. (To [[Baptista]]) Sir, to your pleasure humbly I subscribe. My books and instruments shall be my company, On them to look and practise by myself. |
-| [[Lucentio\|LUCENTIO]] | (aside to [[Tranio]]) Hark, [[Tranio]], thou mayst hear Minerva speak. |
-| [[Hortensio\|HORTENSIO]] | Signor [[Baptista]], will you be so strange? Sorry am I that our good will effects [[Bianca]]’s grief. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--04_exchange_gremio" data-title="The Taming of the Shrew — Act I, Scene 1 — exchange (GREMIO) [4]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| GREMIO | Why will you mew her up, Signor [[Baptista]], for this fiend of hell, And make her bear the penance of her tongue? |
-| BAPTIST | Gentlemen, content ye. I am resolved. Go in, [[Bianca]]. Exit [[Bianca]] And for I know she taketh most delight In music, instruments, and poetry, Schoolmasters will I keep within my [[house]] Fit to instruct her youth. If you, [[Hortensio]], Or, Signor Gremio, you know any such, Prefer them hither; for to cunning men I will be very kind, and liberal To mine own children in good bringing up. And so farewell. [[Katherina]], you may stay, For I have more to commune with [[Bianca]]. Exit |
-| KATHERINE | Why, and I trust I may go too, may I not? What, shall I be appointed hours, as though belike I knew not what to take and what to leave? Ha! Exit |
+| [[Tranio\|TRANIO]] | (aside to [[Lucentio]])<br>Husht, master, here’s some good pastime toward.<br>That wench is stark mad or wonderful froward. |
+| [[Lucentio\|LUCENTIO]] | (aside to [[Tranio]])<br>But in the other’s [[Silence\|silence]] do I see<br>Maid’s mild behaviour and sobriety.<br>Peace, [[Tranio]]. |
+| [[Tranio\|TRANIO]] | (aside to [[Lucentio]])<br>[[Well]] said, master. Mum, and gaze your fill. |
+| [[Baptista\|BAPTISTA]] | Gentlemen, that I may soon make good<br>What I have said—[[Bianca]], get you in.<br>And let it not displease thee, good [[Bianca]],<br>For I will [[Love\|love]] thee ne’er the less, my girl. |
+| KATHERINE | A pretty peat! It is best<br>Put finger in the eye, an she knew why. |
+| [[Bianca\|BIANCA]] | Sister, content you in my discontent.<br>(To [[Baptista]]) Sir, to your pleasure humbly I subscribe.<br>My books and instruments shall be my company,<br>On them to look and practise by myself. |
+| [[Lucentio\|LUCENTIO]] | (aside to [[Tranio]])<br>Hark, [[Tranio]], thou mayst hear Minerva speak. |
+| [[Hortensio\|HORTENSIO]] | Signor [[Baptista]], will you be so strange?<br>Sorry am I that our good will effects<br>[[Bianca]]’s grief. |
+| GREMIO | Why will you mew her up,<br>Signor [[Baptista]], for this fiend of hell,<br>And make her bear the penance of her tongue? |
+| BAPTIST | Gentlemen, content ye. I am resolved.<br>Go in, [[Bianca]]. |
+| *(didascalia)* | Exit [[Bianca]] |
+| BAPTIST | And for I know she taketh most delight<br>In music, instruments, and poetry,<br>Schoolmasters will I keep within my [[house]]<br>Fit to instruct her youth. If you, [[Hortensio]],<br>Or, Signor Gremio, you know any such,<br>Prefer them hither; for to cunning men<br>I will be very kind, and liberal<br>To mine own children in good bringing up.<br>And so farewell. [[Katherina]], you may stay,<br>For I have more to commune with [[Bianca]]. |
+| *(didascalia)* | Exit |
+| KATHERINE | Why, and I trust I may go too, may I not? What, shall I be appointed hours, as though belike I knew not what to take and what to leave? Ha! |
+| *(didascalia)* | Exit |
 | GREMIO | You may go to the devil’s dam. Your gifts are so good here’s none will hold you. Their [[Love\|love]] is not so great, [[Hortensio]], but we may blow our nails together and fast it fairly out. Our cake’s dough on both sides. Farewell. Yet for the [[Love\|love]] I bear my sweet [[Bianca]], if I can by any means light on a fit man to teach her that wherein she delights, I will wish him to her father. |
 | [[Hortensio\|HORTENSIO]] | So will I, Signor Gremio. But a word, I pray. Though the [[Nature\|nature]] of our quarrel yet never brooked parle, know now, upon advice, it toucheth us both—that we may yet again have access to our fair mistress and be happy rivals in [[Bianca]]’s [[Love\|love]]—to labour and effect one thing specially. |
 | GREMIO | What’s that, I pray? |
@@ -1513,149 +1493,113 @@ Bartholomew sits
 | [[Hortensio\|HORTENSIO]] | Tush, Gremio. Though it pass your patience and mine to endure her loud alarums, why, man, there be good fellows in the world, an a man could light on them, would take her with all faults, and money enough. |
 | GREMIO | I cannot tell, but I had as lief take her dowry with this condition: to be whipped at the high [[Cross\|cross]] every morning. |
 | [[Hortensio\|HORTENSIO]] | [[Faith]], as you say, there’s small choice in rotten apples. But come, since this bar in law makes us friends, it shall be so far forth friendly maintained till by helping [[Baptista]]’s eldest daughter to a husband we set his youngest free for a husband, and then have to’t afresh. Sweet [[Bianca]] Happy man be his dole. He that runs fastest gets the ring. How say you, Signor Gremio? |
-| GREMIO | I am agreed, and would I had given him the best [[Horse\|horse]] in Padua to begin his wooing that would thoroughly woo her, wed her, and bed her, and rid the [[house]] of her. Come on. Exeunt [[Hortensio]] and Gremio. [[Tranio]] and [[Lucentio]] remain |
-| [[Tranio\|TRANIO]] | I pray, sir, tell me : is it possible That [[Love\|love]] should of a sudden take such hold? |
-| [[Lucentio\|LUCENTIO]] | O [[Tranio]], till I found it to be true I never thought it possible or likely. But see, while idly I stood looking on I found the effect of [[Love\|love]] in idleness, And now in plainness do confess to thee, That art to me as secret and as dear As Anna to the [[Queen]] of Carthage was, [[Tranio]], I burn, I pine, I perish, [[Tranio]], If I achieve not this young modest girl. Counsel me, [[Tranio]], for I know thou canst. Assist me, [[Tranio]], for I know thou wilt. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--05_exchange_tranio" data-title="The Taming of the Shrew — Act I, Scene 1 — exchange (TRANIO) [5]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Tranio\|TRANIO]] | Master, it is no [[Time\|time]] to chide you now. Affection is not rated from the heart. If [[Love\|love]] have touched you, naught remains but so— Redime te captum quam queas minimo. |
-| [[Lucentio\|LUCENTIO]] | Gramercies, lad. Go forward, this contents. The rest will comfort, for thy counsel’s sound. |
-| [[Tranio\|TRANIO]] | Master, you looked so longly on the maid Perhaps you marked not what’s the pith of all. |
-| [[Lucentio\|LUCENTIO]] | O yes, I saw sweet [[Beauty\|beauty]] in her face, Such as the daughter of Agenor had, That made great Jove to humble him to her hand When with his knees he kissed the Cretan strand. |
-| [[Tranio\|TRANIO]] | Saw you no more? Marked you not how her sister Began to scold and raise up such a [[Storm\|storm]] That mortal ears might hardly endure the din ? |
-| [[Lucentio\|LUCENTIO]] | [[Tranio]], I saw her coral lips to move, And with her breath she did perfume the air. Sacred and sweet was all I saw in her. |
-| [[Tranio\|TRANIO]] | (aside) Nay, then ’tis [[Time\|time]] to stir him from his trance. (To [[Lucentio]]) I pray, awake, sir. If you [[Love\|love]] the maid, Bend thoughts and wits to achieve her. Thus it stands: Her elder sister is so curst and shrewd That till the father rid his hands of her, Master, your [[Love\|love]] must live a maid at [[Home\|home]], And therefore has he closely mewed her up Because she will not be annoyed with suitors. |
-| [[Lucentio\|LUCENTIO]] | Ah, [[Tranio]], what a cruel father’s he! But art thou not advised he took some care To get her cunning schoolmasters to instruct her? |
+| GREMIO | I am agreed, and would I had given him the best [[Horse\|horse]] in Padua to begin his wooing that would thoroughly woo her, wed her, and bed her, and rid the [[house]] of her. Come on. |
+| *(didascalia)* | Exeunt [[Hortensio]] and Gremio. [[Tranio]] and [[Lucentio]] remain |
+| [[Tranio\|TRANIO]] | I pray, sir, tell me : is it possible<br>That [[Love\|love]] should of a sudden take such hold? |
+| [[Lucentio\|LUCENTIO]] | O [[Tranio]], till I found it to be true<br>I never thought it possible or likely.<br>But see, while idly I stood looking on<br>I found the effect of [[Love\|love]] in idleness,<br>And now in plainness do confess to thee,<br>That art to me as secret and as dear<br>As Anna to the [[Queen]] of Carthage was,<br>[[Tranio]], I burn, I pine, I perish, [[Tranio]],<br>If I achieve not this young modest girl.<br>Counsel me, [[Tranio]], for I know thou canst.<br>Assist me, [[Tranio]], for I know thou wilt. |
+| [[Tranio\|TRANIO]] | Master, it is no [[Time\|time]] to chide you now.<br>Affection is not rated from the heart.<br>If [[Love\|love]] have touched you, naught remains but so—<br>Redime te captum quam queas minimo. |
+| [[Lucentio\|LUCENTIO]] | Gramercies, lad. Go forward, this contents.<br>The rest will comfort, for thy counsel’s sound. |
+| [[Tranio\|TRANIO]] | Master, you looked so longly on the maid<br>Perhaps you marked not what’s the pith of all. |
+| [[Lucentio\|LUCENTIO]] | O yes, I saw sweet [[Beauty\|beauty]] in her face,<br>Such as the daughter of Agenor had,<br>That made great Jove to humble him to her hand<br>When with his knees he kissed the Cretan strand. |
+| [[Tranio\|TRANIO]] | Saw you no more? Marked you not how her sister<br>Began to scold and raise up such a [[Storm\|storm]]<br>That mortal ears might hardly endure the din ? |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], I saw her coral lips to move,<br>And with her breath she did perfume the air.<br>Sacred and sweet was all I saw in her. |
+| [[Tranio\|TRANIO]] | (aside)<br>Nay, then ’tis [[Time\|time]] to stir him from his trance.<br>(To [[Lucentio]]) I pray, awake, sir. If you [[Love\|love]] the maid,<br>Bend thoughts and wits to achieve her. Thus it<br>stands:<br>Her elder sister is so curst and shrewd<br>That till the father rid his hands of her,<br>Master, your [[Love\|love]] must live a maid at [[Home\|home]],<br>And therefore has he closely mewed her up<br>Because she will not be annoyed with suitors. |
+| [[Lucentio\|LUCENTIO]] | Ah, [[Tranio]], what a cruel father’s he!<br>But art thou not advised he took some care<br>To get her cunning schoolmasters to instruct her? |
 | [[Tranio\|TRANIO]] | Ay, marry am I, sir, and now ’tis plotted. |
 | [[Lucentio\|LUCENTIO]] | I have it, [[Tranio]]. |
-| [[Tranio\|TRANIO]] | Master, for my hand, Both our inventions meet and jump in one. |
+| [[Tranio\|TRANIO]] | Master, for my hand,<br>Both our inventions meet and jump in one. |
 | [[Lucentio\|LUCENTIO]] | Tell me thine first. |
-| [[Tranio\|TRANIO]] | You will be schoolmaster And undertake the teaching of the maid. That’s your device. |
+| [[Tranio\|TRANIO]] | You will be schoolmaster<br>And undertake the teaching of the maid.<br>That’s your device. |
 | [[Lucentio\|LUCENTIO]] | It is. May it be done? |
-| [[Tranio\|TRANIO]] | Not possible; for who shall bear your part, And be in Padua here Vincentio’s son, Keep [[house]], and ply his book, welcome his friends, Visit his countrymen, and banquet them? |
-| [[Lucentio\|LUCENTIO]] | Basta, content thee, for I have it full. We have not yet been seen in any [[house]], Nor can we be distinguished by our faces For man or master. Then it follows thus: Thou shalt be master, [[Tranio]], in my stead; Keep [[house]], and port, and servants, as I should. I will some other be, some Florentine, Some Neapolitan, or meaner man of Pisa. Tis hatched, and shall be so. [[Tranio]], at once Uncase thee. Take my coloured hat and cloak. When Biondello comes he waits on thee, But I will charm him first to keep his tongue. |
-| [[Tranio\|TRANIO]] | So had you need. [They exchange clothes] In brief, sir, sith it your pleasure is, And I am tied to be obedient— For so your father charged me at our parting, ‘Be serviceable to my son,’ quoth he, Although I think ’twas in another sense— I am content to be [[Lucentio]] Because so [[Well\|well]] I [[Love\|love]] [[Lucentio]]. |
-| [[Lucentio\|LUCENTIO]] | [[Tranio]], be so, because [[Lucentio]] loves, And let me be a slave t’achieve that maid Whose sudden sight hath thralled my wounded eye. Enter Biondello Here comes the rogue. Sirrah, where have you been? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_1--06_exchange_biondello" data-title="The Taming of the Shrew — Act I, Scene 1 — exchange (BIONDELLO) [6]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Tranio\|TRANIO]] | Not possible; for who shall bear your part,<br>And be in Padua here Vincentio’s son,<br>Keep [[house]], and ply his book, welcome his friends,<br>Visit his countrymen, and banquet them? |
+| [[Lucentio\|LUCENTIO]] | Basta, content thee, for I have it full.<br>We have not yet been seen in any [[house]],<br>Nor can we be distinguished by our faces<br>For man or master. Then it follows thus:<br>Thou shalt be master, [[Tranio]], in my stead;<br>Keep [[house]], and port, and servants, as I should.<br>I will some other be, some Florentine,<br>Some Neapolitan, or meaner man of Pisa.<br>Tis hatched, and shall be so. [[Tranio]], at once<br>Uncase thee. Take my coloured hat and cloak.<br>When Biondello comes he waits on thee,<br>But I will charm him first to keep his tongue. |
+| [[Tranio\|TRANIO]] | So had you need.<br>[They<br>exchange<br>clothes]<br>In brief, sir, sith it your pleasure is,<br>And I am tied to be obedient—<br>For so your father charged me at our parting,<br>‘Be serviceable to my son,’ quoth he,<br>Although I think ’twas in another sense—<br>I am content to be [[Lucentio]]<br>Because so [[Well\|well]] I [[Love\|love]] [[Lucentio]]. |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], be so, because [[Lucentio]] loves,<br>And let me be a slave t’achieve that maid<br>Whose sudden sight hath thralled my wounded eye. |
+| *(didascalia)* | Enter |
+| [[Lucentio\|LUCENTIO]] | Biondello<br>Here comes the rogue. Sirrah, where have you been? |
 | BIONDELLO | Where have I been? Nay, how now, where are you? Master, has my fellow [[Tranio]] stolen your clothes, or you stolen his, or both? Pray, what’s the news? |
-| [[Lucentio\|LUCENTIO]] | Sirrah, come hither. ‘Tis no [[Time\|time]] to jest, And therefore frame your manners to the [[Time\|time]]. Your fellow [[Tranio]] here, to save my life Puts my apparel and my count’nance on, And I for my escape have put on his, For in a quarrel since I came ashore I killed a man, and [[Fear\|fear]] I was descried. Wait you on him, I charge you, as becomes, While I make way from hence to save my life. You understand me? |
+| [[Lucentio\|LUCENTIO]] | Sirrah, come hither. ‘Tis no [[Time\|time]] to jest,<br>And therefore frame your manners to the [[Time\|time]].<br>Your fellow [[Tranio]] here, to save my life<br>Puts my apparel and my count’nance on,<br>And I for my escape have put on his,<br>For in a quarrel since I came ashore<br>I killed a man, and [[Fear\|fear]] I was descried.<br>Wait you on him, I charge you, as becomes,<br>While I make way from hence to save my life.<br>You understand me? |
 | BIONDELLO | I sir? Ne’er a whit. |
-| [[Lucentio\|LUCENTIO]] | And not a jot of [[Tranio]] in your mouth. [[Tranio]] is changed into [[Lucentio]]. |
+| [[Lucentio\|LUCENTIO]] | And not a jot of [[Tranio]] in your mouth.<br>[[Tranio]] is changed into [[Lucentio]]. |
 | BIONDELLO | The better for him. Would I were so too. |
-| [[Tranio\|TRANIO]] | So could I, [[Faith\|faith]], boy, to have the next wish after— That [[Lucentio]] indeed had [[Baptista]]’s youngest daughter. But sirrah, not for my sake but your master’s I advise You use your manners discreetly in all kind of companies. When I am [[Alone\|alone]], why then I am [[Tranio]], But in all places else your master, [[Lucentio]]. |
-| [[Lucentio\|LUCENTIO]] | [[Tranio]], let’s go. One thing more rests that thyself execute— To make one among these wooers. If thou ask me why, Sufficeth my reasons are both good and weighty. Exeunt The presenters above speak |
+| [[Tranio\|TRANIO]] | So could I, [[Faith\|faith]], boy, to have the next wish after—<br>That [[Lucentio]] indeed had [[Baptista]]’s youngest<br>daughter.<br>But sirrah, not for my sake but your master’s I advise<br>You use your manners discreetly in all kind of<br>companies.<br>When I am [[Alone\|alone]], why then I am [[Tranio]],<br>But in all places else your master, [[Lucentio]]. |
+| [[Lucentio\|LUCENTIO]] | [[Tranio]], let’s go.<br>One thing more rests that thyself execute—<br>To make one among these wooers. If thou ask me<br>why,<br>Sufficeth my reasons are both good and weighty. |
+| *(didascalia)* | Exeunt |
+| [[Lucentio\|LUCENTIO]] | The presenters above speak |
 | FIRST SERVINGMAN | My lord, you nod. You do not mind the play. |
 | SLY | Yes, by Saint Anne do I. A good matter, surely. Comes there any more of it? |
 | BARTHOLOMEW | My lord, ’tis but begun. |
-| SLY | ‘Tis a very excellent piece of work, madam lady. Would ’twere done. They sit and mark |
+| SLY | ‘Tis a very excellent piece of work, madam lady. Would ’twere done.<br>They sit and mark |
 
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="The Taming of the Shrew — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Taming of the Shrew — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Petruccio and his man, [[Grumio]] |
-| PETRUCCIO | [[Verona]], for a while I take my leave To see my friends in Padua; but of all My best-beloved and approved friend [[Hortensio]], and I trow this is his [[house]]. Here, sirrah [[Grumio]], knock, I say. |
+| PETRUCCIO | [[Verona]], for a while I take my leave<br>To see my friends in Padua; but of all<br>My best-beloved and approved friend<br>[[Hortensio]], and I trow this is his [[house]].<br>Here, sirrah [[Grumio]], knock, I say. |
 | [[Grumio\|GRUMIO]] | Knock, sir? Whom should I knock? Is there any man has rebused your worship? |
 | PETRUCCIO | [[Villain]], I say, knock me here soundly. |
 | [[Grumio\|GRUMIO]] | Knock you here, sir? Why, sir, what am I, sir, that I should knock you here, sir? |
-| PETRUCCIO | [[Villain]], I say, knock me at this gate, And rap me [[Well\|well]] or I’ll knock your knave’s pate. |
-| [[Grumio\|GRUMIO]] | My master is grown quarrelsome. I should knock you first, And then I know after who comes by the worst. |
-| PETRUCCIO | Will it not be? [[Faith]], sirrah, an you’ll not knock, I’ll ring it. I’ll try how you can sol-fa and sing it. He wrings him by the ears. [[[Grumio]] kneels] |
+| PETRUCCIO | [[Villain]], I say, knock me at this gate,<br>And rap me [[Well\|well]] or I’ll knock your knave’s pate. |
+| [[Grumio\|GRUMIO]] | My master is grown quarrelsome. I should knock you<br>first,<br>And then I know after who comes by the worst. |
+| PETRUCCIO | Will it not be?<br>[[Faith]], sirrah, an you’ll not knock, I’ll ring it.<br>I’ll try how you can sol-fa and sing it.<br>He wrings him by the ears. [[[Grumio]] kneels] |
 | [[Grumio\|GRUMIO]] | Help, masters, help! My master is mad. |
-| PETRUCCIO | Now knock when I bid you, sirrah [[Villain\|villain]]. Enter [[Hortensio]] |
+| PETRUCCIO | Now knock when I bid you, sirrah [[Villain\|villain]]. |
+| *(didascalia)* | Enter |
+| PETRUCCIO | [[Hortensio]] |
 | [[Hortensio\|HORTENSIO]] | How now, what’s the matter? My old friend [[Grumio]] and my good friend Petruccio ? How do you all at [[Verona]]? |
-| PETRUCCIO | Signor [[Hortensio]], come you to part the fray? Con tutto il cuore ben trovato, may I say. |
-| [[Hortensio\|HORTENSIO]] | Alla nostra casa ben venuto, molto onorato signor mio Petruccio. Rise, [[Grumio]], rise. We will compound this quarrel. [[Grumio]] rises |
+| PETRUCCIO | Signor [[Hortensio]], come you to part the fray?<br>Con tutto il cuore ben trovato, may I say. |
+| [[Hortensio\|HORTENSIO]] | Alla nostra casa ben venuto, molto onorato signor mio Petruccio. Rise, [[Grumio]], rise. We will compound this quarrel.<br>[[Grumio]] rises |
 | [[Grumio\|GRUMIO]] | Nay, ‘tis no matter, sir, what he ’leges in Latin. If this be not a lawful cause for me to leave his service-look you, sir: he bid me knock him and rap him soundly, sir. [[Well]], was it fit for a servant to use his master so, being perhaps, for aught I see, two-and-thirty, a pip out? Whom would to God I had [[Well\|well]] knocked at first, Then had not [[Grumio]] come by the worst. |
-| PETRUCCIO | A senseless [[Villain\|villain]]. Good [[Hortensio]], I bade the rascal knock upon your gate, And could not get him for my heart to do it. |
+| PETRUCCIO | A senseless [[Villain\|villain]]. Good [[Hortensio]],<br>I bade the rascal knock upon your gate,<br>And could not get him for my heart to do it. |
 | [[Grumio\|GRUMIO]] | Knock at the gate? O heavens, spake you not these words plain? ‘Sirrah, knock me here, rap me here, knock me [[Well\|well]], and knock me soundly’ ? And come you now with knocking at the gate? |
 | PETRUCCIO | Sirrah, be gone, or talk not, I advise you. |
-| [[Hortensio\|HORTENSIO]] | Petruccio, patience. I am [[Grumio]]’s pledge. Why this’ a heavy chance ’twixt him and you, Your ancient, trusty, pleasant servant [[Grumio]]. And tell me now, sweet friend, what happy gale Blows you to Padua here from old [[Verona]] ? |
-| PETRUCCIO | Such [[Wind\|wind]] as scatters young men through the world To seek their fortunes farther than at [[Home\|home]], Where small experience grows. But in a few, Signor [[Hortensio]], thus it stands with me : [[Antonio]], my father, is deceased, And I have thrust myself into this maze Happily to wive and thrive as best I may. Crowns in my purse I have, and goods at [[Home\|home]], And so am come abroad to see the world. |
-| [[Hortensio\|HORTENSIO]] | Petruccio, shall I then come roundly to thee And wish thee to a shrewd, ill-favoured wife? Thou‘dst thank me but a little for my counsel, And yet I’ll promise thee she shall be rich, And very rich. But thou’rt too much my friend, And I’ll not wish thee to her. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_exchange_petruccio" data-title="The Taming of the Shrew — Act I, Scene 2 — exchange (PETRUCCIO) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PETRUCCIO | Signor [[Hortensio]], ’twixt such friends as we Few words suffice; and therefore, if thou know One rich enough to be Petruccio’s wife— As wealth is burden of my wooing [[Dance\|dance]]— Be she as foul as was Florentius’ [[Love\|love]], As old as Sibyl, and as curst and shrewd As Socrates’ Xanthippe or a worse, She moves me not—or not removes at least Affection’s edge in me, were she as rough As are the swelling Adriatic seas. I come to wive it wealthily in Padua; If wealthily, then happily in Padua. |
+| [[Hortensio\|HORTENSIO]] | Petruccio, patience. I am [[Grumio]]’s pledge.<br>Why this’ a heavy chance ’twixt him and you,<br>Your ancient, trusty, pleasant servant [[Grumio]].<br>And tell me now, sweet friend, what happy gale<br>Blows you to Padua here from old [[Verona]] ? |
+| PETRUCCIO | Such [[Wind\|wind]] as scatters young men through the world<br>To seek their fortunes farther than at [[Home\|home]],<br>Where small experience grows. But in a few,<br>Signor [[Hortensio]], thus it stands with me :<br>[[Antonio]], my father, is deceased,<br>And I have thrust myself into this maze<br>Happily to wive and thrive as best I may.<br>Crowns in my purse I have, and goods at [[Home\|home]],<br>And so am come abroad to see the world. |
+| [[Hortensio\|HORTENSIO]] | Petruccio, shall I then come roundly to thee<br>And wish thee to a shrewd, ill-favoured wife?<br>Thou‘dst thank me but a little for my counsel,<br>And yet I’ll promise thee she shall be rich,<br>And very rich. But thou’rt too much my friend,<br>And I’ll not wish thee to her. |
+| PETRUCCIO | Signor [[Hortensio]], ’twixt such friends as we<br>Few words suffice; and therefore, if thou know<br>One rich enough to be Petruccio’s wife—<br>As wealth is burden of my wooing [[Dance\|dance]]—<br>Be she as foul as was Florentius’ [[Love\|love]],<br>As old as Sibyl, and as curst and shrewd<br>As Socrates’ Xanthippe or a worse,<br>She moves me not—or not removes at least<br>Affection’s edge in me, were she as rough<br>As are the swelling Adriatic seas.<br>I come to wive it wealthily in Padua;<br>If wealthily, then happily in Padua. |
 | [[Grumio\|GRUMIO]] | (to [[Hortensio]]) Nay, look you, sir, he tells you flatly what his mind is. Why, give him gold enough and marry him to a puppet or an aglet-baby, or an old trot with ne’er a tooth in her head, though she have as many diseases as two-and-fifty horses. Why, nothing comes amiss so money comes withal. |
-| [[Hortensio\|HORTENSIO]] | Petruccio, since we are stepped thus far in, I will continue that I broached in jest. I can, Petruccio, help thee to a wife With wealth enough, and young and beauteous, Brought up as best becomes a gentlewoman. Her only fault—and that is faults enough— Is that she is intolerable curst, And shrewd and froward so beyond all measure That, were my state far worser than it is, I would not wed her for a mine of gold. |
-| PETRUCCIO | [[Hortensio]], peace. Thou know‘st not gold’s effect. Tell me her father’s name and ’tis enough, For I will board her though she chide as loud As thunder when the clouds in [[Autumn\|autumn]] crack. |
-| [[Hortensio\|HORTENSIO]] | Her father is [[Baptista]] Minola, An affable and courteous gentleman. Her name is [[Katherina]] Minola, Renowned in Padua for her scolding tongue. |
-| PETRUCCIO | I know her father, though I know not her, And he knew my deceased father [[Well\|well]]. I will not [[Sleep\|sleep]], [[Hortensio]], till I see her, And therefore let me be thus bold with you To give you over at this first encounter, Unless you will accompany me thither. |
+| [[Hortensio\|HORTENSIO]] | Petruccio, since we are stepped thus far in,<br>I will continue that I broached in jest.<br>I can, Petruccio, help thee to a wife<br>With wealth enough, and young and beauteous,<br>Brought up as best becomes a gentlewoman.<br>Her only fault—and that is faults enough—<br>Is that she is intolerable curst,<br>And shrewd and froward so beyond all measure<br>That, were my state far worser than it is,<br>I would not wed her for a mine of gold. |
+| PETRUCCIO | [[Hortensio]], peace. Thou know‘st not gold’s effect.<br>Tell me her father’s name and ’tis enough,<br>For I will board her though she chide as loud<br>As thunder when the clouds in [[Autumn\|autumn]] crack. |
+| [[Hortensio\|HORTENSIO]] | Her father is [[Baptista]] Minola,<br>An affable and courteous gentleman.<br>Her name is [[Katherina]] Minola,<br>Renowned in Padua for her scolding tongue. |
+| PETRUCCIO | I know her father, though I know not her,<br>And he knew my deceased father [[Well\|well]].<br>I will not [[Sleep\|sleep]], [[Hortensio]], till I see her,<br>And therefore let me be thus bold with you<br>To give you over at this first encounter,<br>Unless you will accompany me thither. |
 | [[Grumio\|GRUMIO]] | I pray you, sir, let him go while the [[Humour\|humour]] lasts. O’ my word, an she knew him as [[Well\|well]] as I do she would think scolding would do little good upon him. She may perhaps call him half a score knaves or so. Why, that’s nothing; an he begin once he’ll rail in his rope-tricks. I’ll tell you what, sir, an she stand him but a little he will throw a figure in her face and so disfigure her with it that she shall have no more eyes to see withal than a cat. You know him not, sir. |
-| [[Hortensio\|HORTENSIO]] | Tarry, Petruccio, I must go with thee, For in [[Baptista]]’s keep my treasure is. He hath the [[Jewel\|jewel]] of my life in hold, His youngest daughter, beautiful [[Bianca]], And her withholds from me and other more, Suitors to her and rivals in my [[Love\|love]], Supposing it a thing impossible, For those defects I have before rehearsed, That ever [[Katherina]] will be wooed. Therefore this order hath [[Baptista]] ta’en: That none shall have access unto [[Bianca]] Till Katherine the curst have got a husband. |
-| [[Grumio\|GRUMIO]] | Katherine the curst— A title for a maid of all titles the worst. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_exchange_hortensio" data-title="The Taming of the Shrew — Act I, Scene 2 — exchange (HORTENSIO) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hortensio\|HORTENSIO]] | Now shall my friend Petruccio do me grace, And offer me disguised in sober robes To old [[Baptista]] as a schoolmaster [[Well]] seen in music, to instruct [[Bianca]], That so I may by this device at least Have leave and leisure to make [[Love\|love]] to her, And unsuspected [[Court\|court]] her by herself. Enter Gremio with a paper, and [[Lucentio]] disguised as a schoolmaster |
+| [[Hortensio\|HORTENSIO]] | Tarry, Petruccio, I must go with thee,<br>For in [[Baptista]]’s keep my treasure is.<br>He hath the [[Jewel\|jewel]] of my life in hold,<br>His youngest daughter, beautiful [[Bianca]],<br>And her withholds from me and other more,<br>Suitors to her and rivals in my [[Love\|love]],<br>Supposing it a thing impossible,<br>For those defects I have before rehearsed,<br>That ever [[Katherina]] will be wooed.<br>Therefore this order hath [[Baptista]] ta’en:<br>That none shall have access unto [[Bianca]]<br>Till Katherine the curst have got a husband. |
+| [[Grumio\|GRUMIO]] | Katherine the curst—<br>A title for a maid of all titles the worst. |
+| [[Hortensio\|HORTENSIO]] | Now shall my friend Petruccio do me grace,<br>And offer me disguised in sober robes<br>To old [[Baptista]] as a schoolmaster<br>[[Well]] seen in music, to instruct [[Bianca]],<br>That so I may by this device at least<br>Have leave and leisure to make [[Love\|love]] to her,<br>And unsuspected [[Court\|court]] her by herself. |
+| *(didascalia)* | Enter Gremio with a paper, and [[Lucentio]] disguised as a schoolmaster |
 | [[Grumio\|GRUMIO]] | Here’s no knavery. See, to beguile the old folks, how the young folks lay their heads together. Master, master, look about you. Who goes there, ha? |
-| [[Hortensio\|HORTENSIO]] | Peace, [[Grumio]], it is the rival of my [[Love\|love]]. Petruccio, stand by a while. |
-| [[Grumio\|GRUMIO]] | A proper stripling, and an amorous! Petruccio, [[Hortensio]], and [[Grumio]] stand aside |
-| GREMIO | (to [[Lucentio]]) O, very [[Well\|well]]—I have perused the note. Hark you, sir, I’ll have them very fairly bound— All books of [[Love\|love]], see that at any hand— And see you read no other lectures to her. You understand me. Over and beside Signor [[Baptista]]’s liberality, I’ll mend it with a largess. Take your paper, too, And let me have them very [[Well\|well]] perfumed, For she is sweeter than perfume itself To whom they go to. What will you read to her? |
-| [[Lucentio\|LUCENTIO]] | Whate’er I read to her, I’ll plead for you As for my patron, stand you so assured, As firmly as yourself were still in place— Yea, and perhaps with more successful words Than you, unless you were a scholar, sir. |
+| [[Hortensio\|HORTENSIO]] | Peace, [[Grumio]], it is the rival of my [[Love\|love]].<br>Petruccio, stand by a while. |
+| [[Grumio\|GRUMIO]] | A proper stripling, and an amorous!<br>Petruccio, [[Hortensio]], and [[Grumio]] stand aside |
+| GREMIO | (to [[Lucentio]])<br>O, very [[Well\|well]]—I have perused the note.<br>Hark you, sir, I’ll have them very fairly bound—<br>All books of [[Love\|love]], see that at any hand—<br>And see you read no other lectures to her.<br>You understand me. Over and beside<br>Signor [[Baptista]]’s liberality,<br>I’ll mend it with a largess. Take your paper, too,<br>And let me have them very [[Well\|well]] perfumed,<br>For she is sweeter than perfume itself<br>To whom they go to. What will you read to her? |
+| [[Lucentio\|LUCENTIO]] | Whate’er I read to her, I’ll plead for you<br>As for my patron, stand you so assured,<br>As firmly as yourself were still in place—<br>Yea, and perhaps with more successful words<br>Than you, unless you were a scholar, sir. |
 | GREMIO | O this learning, what a thing it is! |
-| [[Grumio\|GRUMIO]] | (aside) O this woodcock, what an ass it is! |
+| [[Grumio\|GRUMIO]] | (aside)<br>O this woodcock, what an ass it is! |
 | PETRUCCIO | Peace, sirrah. |
 | [[Hortensio\|HORTENSIO]] | [[Grumio]], mum. (Coming forward) God save you, Signor Gremio. |
-| GREMIO | And you are [[Well\|well]] met, Signor [[Hortensio]]. Trow you whither I am going? To [[Baptista]] Minola. I promised to enquire carefully About a schoolmaster for the fair [[Bianca]], And by good fortune I have lighted [[Well\|well]] On this young man, for learning and behaviour Fit for her turn, [[Well\|well]] read in poetry And other books—good ones, I warrant ye. |
-| [[Hortensio\|HORTENSIO]] | ‘Tis [[Well\|well]], and I have met a gentleman Hath promised me to help me to another, A fine musician, to instruct our mistress. So shall I no whit be behind in duty To fair [[Bianca]], so beloved of me. |
+| GREMIO | And you are [[Well\|well]] met, Signor [[Hortensio]].<br>Trow you whither I am going?<br>To [[Baptista]] Minola.<br>I promised to enquire carefully<br>About a schoolmaster for the fair [[Bianca]],<br>And by good fortune I have lighted [[Well\|well]]<br>On this young man, for learning and behaviour<br>Fit for her turn, [[Well\|well]] read in poetry<br>And other books—good ones, I warrant ye. |
+| [[Hortensio\|HORTENSIO]] | ‘Tis [[Well\|well]], and I have met a gentleman<br>Hath promised me to help me to another,<br>A fine musician, to instruct our mistress.<br>So shall I no whit be behind in duty<br>To fair [[Bianca]], so beloved of me. |
 | GREMIO | Beloved of me, and that my deeds shall prove. |
 | [[Grumio\|GRUMIO]] | (aside) And that his bags shall prove. |
-| [[Hortensio\|HORTENSIO]] | Gremio, ’tis now no [[Time\|time]] to vent our [[Love\|love]]. Listen to me, and if you speak me fair I’ll tell you news indifferent good for either. Here is a gentleman whom by chance I met, Upon agreement from us to his liking Will undertake to woo curst Katherine, Yea, and to marry her, if her dowry please. |
-| GREMIO | So said, so done, is [[Well\|well]]. [[Hortensio]], have you told him all her faults? |
-| PETRUCCIO | I know she is an irksome brawling scold. If that be all, masters, I hear no harm. |
+| [[Hortensio\|HORTENSIO]] | Gremio, ’tis now no [[Time\|time]] to vent our [[Love\|love]].<br>Listen to me, and if you speak me fair<br>I’ll tell you news indifferent good for either.<br>Here is a gentleman whom by chance I met,<br>Upon agreement from us to his liking<br>Will undertake to woo curst Katherine,<br>Yea, and to marry her, if her dowry please. |
+| GREMIO | So said, so done, is [[Well\|well]].<br>[[Hortensio]], have you told him all her faults? |
+| PETRUCCIO | I know she is an irksome brawling scold.<br>If that be all, masters, I hear no harm. |
 | GREMIO | No, sayst me so, friend? What countryman? |
-| PETRUCCIO | Born in [[Verona]], old [[Antonio]]’s son. My father dead, his fortune lives for me, And I do [[Hope\|hope]] good days and long to see. |
-| GREMIO | O sir, such a life with such a wife were strange. But if you have a stomach, to’t, a’ God’s name. You shall have me assisting you in all. But will you woo this wildcat? |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_exchange_petruccio" data-title="The Taming of the Shrew — Act I, Scene 2 — exchange (PETRUCCIO) [4]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| PETRUCCIO | Born in [[Verona]], old [[Antonio]]’s son.<br>My father dead, his fortune lives for me,<br>And I do [[Hope\|hope]] good days and long to see. |
+| GREMIO | O sir, such a life with such a wife were strange.<br>But if you have a stomach, to’t, a’ God’s name.<br>You shall have me assisting you in all.<br>But will you woo this wildcat? |
 | PETRUCCIO | Will I live! |
 | [[Grumio\|GRUMIO]] | Will he woo her? Ay, or I’ll hang her. |
-| PETRUCCIO | Why came I hither but to that intent? Think you a little din can daunt mine ears? Have I not in my [[Time\|time]] heard lions roar? Have I not heard the sea, puffed up with winds, Rage like an angry boar chafed with sweat? Have I not heard great ordnance in the field, And heaven’s artillery thunder in the skies? Have I not in a pitched battle heard Loud ’larums, neighing steeds, and trumpets’ clang? And do you tell me of a woman’s tongue, That gives not half so great a blow to hear As will a chestnut in a farmer’s [[Fire\|fire]] ? Tush, tush—[[Fear\|fear]] boys with bugs. |
+| PETRUCCIO | Why came I hither but to that intent?<br>Think you a little din can daunt mine ears?<br>Have I not in my [[Time\|time]] heard lions roar?<br>Have I not heard the sea, puffed up with winds,<br>Rage like an angry boar chafed with sweat?<br>Have I not heard great ordnance in the field,<br>And heaven’s artillery thunder in the skies?<br>Have I not in a pitched battle heard<br>Loud ’larums, neighing steeds, and trumpets’ clang?<br>And do you tell me of a woman’s tongue,<br>That gives not half so great a blow to hear<br>As will a chestnut in a farmer’s [[Fire\|fire]] ?<br>Tush, tush—[[Fear\|fear]] boys with bugs. |
 | [[Grumio\|GRUMIO]] | For he fears none. |
-| GREMIO | [[Hortensio]], hark. This gentleman is happily arrived, My mind presumes, for his own good and ours. |
-| [[Hortensio\|HORTENSIO]] | I promised we would be contributors, And bear his charge of wooing, whatsoe’er. |
+| GREMIO | [[Hortensio]], hark.<br>This gentleman is happily arrived,<br>My mind presumes, for his own good and ours. |
+| [[Hortensio\|HORTENSIO]] | I promised we would be contributors,<br>And bear his charge of wooing, whatsoe’er. |
 | GREMIO | And so we will, provided that he win her. |
-| [[Grumio\|GRUMIO]] | I would I were as sure of a good dinner. Enter [[Tranio]], brave, as [[Lucentio]], and Biondello |
+| [[Grumio\|GRUMIO]] | I would I were as sure of a good dinner. |
+| *(didascalia)* | Enter [[Tranio]], brave, as [[Lucentio]], and Biondello |
 | [[Tranio\|TRANIO]] | Gentlemen, God save you. If I may be bold, tell me, I beseech you, which is the readiest way to the [[house]] of Signor [[Baptista]] Minola? |
 | BIONDELLO | He that has the two fair daughters—is’t he you mean? |
 | [[Tranio\|TRANIO]] | Even he, Biondello. |
@@ -1663,136 +1607,116 @@ Bartholomew sits
 | [[Tranio\|TRANIO]] | Perhaps him and her, sir. What have you to do? |
 | PETRUCCIO | Not her that chides, sir, at any hand, I pray. |
 | [[Tranio\|TRANIO]] | I [[Love\|love]] no chiders, sir. Biondello, let’s away. |
-| [[Lucentio\|LUCENTIO]] | (aside) [[Well]] begun, [[Tranio]]. |
-| [[Hortensio\|HORTENSIO]] | Sir, a word ere you go. Are you a suitor to the maid you talk of—yea or no? |
+| [[Lucentio\|LUCENTIO]] | (aside)<br>[[Well]] begun, [[Tranio]]. |
+| [[Hortensio\|HORTENSIO]] | Sir, a word ere you go.<br>Are you a suitor to the maid you talk of—yea or no? |
 | [[Tranio\|TRANIO]] | And if I be, sir, is it any offence? |
 | GREMIO | No, if without more words you will get you hence. |
-| [[Tranio\|TRANIO]] | Why, sir, I pray, are not the streets as free For me as for you? |
+| [[Tranio\|TRANIO]] | Why, sir, I pray, are not the streets as free<br>For me as for you? |
 | GREMIO | But so is not she. |
 | [[Tranio\|TRANIO]] | For what reason, I beseech you? |
-| GREMIO | For this reason, if you’ll know— That she’s the choice [[Love\|love]] of Signor Gremio. |
+| GREMIO | For this reason, if you’ll know—<br>That she’s the choice [[Love\|love]] of Signor Gremio. |
 | [[Hortensio\|HORTENSIO]] | That she’s the chosen of Signor [[Hortensio]]. |
-| [[Tranio\|TRANIO]] | Softly, my masters. If you be gentlemen, Do me this right, hear me with patience. [[Baptista]] is a noble gentleman To whom my father is not all unknown, And were his daughter fairer than she is She may more suitors have, and me for one. Fair Leda’s daughter had a thousand wooers; Then [[Well\|well]] one more may fair [[Bianca]] have, And so she shall. [[Lucentio]] shall make one, Though [[Paris]] came, in [[Hope\|hope]] to [[Speed\|speed]] [[Alone\|alone]]. |
+| [[Tranio\|TRANIO]] | Softly, my masters. If you be gentlemen,<br>Do me this right, hear me with patience.<br>[[Baptista]] is a noble gentleman<br>To whom my father is not all unknown,<br>And were his daughter fairer than she is<br>She may more suitors have, and me for one.<br>Fair Leda’s daughter had a thousand wooers;<br>Then [[Well\|well]] one more may fair [[Bianca]] have,<br>And so she shall. [[Lucentio]] shall make one,<br>Though [[Paris]] came, in [[Hope\|hope]] to [[Speed\|speed]] [[Alone\|alone]]. |
 | GREMIO | What, this gentleman will out-talk us all! |
 | [[Lucentio\|LUCENTIO]] | Sir, give him head, I know he’ll prove a jade. |
 | PETRUCCIO | [[Hortensio]], to what end are all these words? |
-| [[Hortensio\|HORTENSIO]] | Sir, let me be so bold as ask you, Did you yet ever see [[Baptista]]’s daughter? |
-| [[Tranio\|TRANIO]] | No, sir, but hear I do that he hath two, The one as famous for a scolding tongue As is the other for beauteous modesty. |
+| [[Hortensio\|HORTENSIO]] | Sir, let me be so bold as ask you,<br>Did you yet ever see [[Baptista]]’s daughter? |
+| [[Tranio\|TRANIO]] | No, sir, but hear I do that he hath two,<br>The one as famous for a scolding tongue<br>As is the other for beauteous modesty. |
 | PETRUCCIO | Sir, sir, the first’s for me. Let her go by. |
-| GREMIO | Yea, leave that labour to great Hercules, And let it be more than Alcides’ twelve. |
+| GREMIO | Yea, leave that labour to great Hercules,<br>And let it be more than Alcides’ twelve. |
+| PETRUCCIO | Sir, understand you this of me in sooth,<br>The youngest daughter whom you hearken for<br>Her father keeps from all access of suitors,<br>And will not promise her to any man<br>Until the elder sister first be wed.<br>The younger then is free, and not before. |
+| [[Tranio\|TRANIO]] | If it be so, sir, that you are the man<br>Must stead us all, and me amongst the rest,<br>And if you break the ice and do this feat,<br>Achieve the elder, set the younger free<br>For our access, whose hap shall be to have her<br>Will not so graceless be to be ingrate. |
+| [[Hortensio\|HORTENSIO]] | Sir, you say [[Well\|well]], and [[Well\|well]] you do conceive;<br>And since you do profess to be a suitor<br>You must, as we do, gratify this gentleman,<br>To whom we all rest generally beholden. |
+| [[Tranio\|TRANIO]] | Sir, I shall not be slack. In sign whereof,<br>Please ye we may contrive this afternoon,<br>And quaff carouses to our mistress’ health,<br>And do as adversaries do in law—<br>Strive mightily, but eat and drink as friends. |
+| [[Grumio\|GRUMIO]] | and BIONDELLO<br>O excellent motion! Fellows, let’s be gone. |
+| [[Hortensio\|HORTENSIO]] | The motion’s good indeed, and be it so.<br>Petruccio, I shall be your ben venuto. |
+| *(didascalia)* | Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2--05_exchange_petruccio" data-title="The Taming of the Shrew — Act I, Scene 2 — exchange (PETRUCCIO) [5]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PETRUCCIO | Sir, understand you this of me in sooth, The youngest daughter whom you hearken for Her father keeps from all access of suitors, And will not promise her to any man Until the elder sister first be wed. The younger then is free, and not before. |
-| [[Tranio\|TRANIO]] | If it be so, sir, that you are the man Must stead us all, and me amongst the rest, And if you break the ice and do this feat, Achieve the elder, set the younger free For our access, whose hap shall be to have her Will not so graceless be to be ingrate. |
-| [[Hortensio\|HORTENSIO]] | Sir, you say [[Well\|well]], and [[Well\|well]] you do conceive; And since you do profess to be a suitor You must, as we do, gratify this gentleman, To whom we all rest generally beholden. |
-| [[Tranio\|TRANIO]] | Sir, I shall not be slack. In sign whereof, Please ye we may contrive this afternoon, And quaff carouses to our mistress’ health, And do as adversaries do in law— Strive mightily, but eat and drink as friends. |
-| [[Grumio\|GRUMIO]] | and BIONDELLO O excellent motion! Fellows, let’s be gone. |
-| [[Hortensio\|HORTENSIO]] | The motion’s good indeed, and be it so. Petruccio, I shall be your ben venuto. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--01_exchange_dialogue" data-title="The Taming of the Shrew — Act II, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Taming of the Shrew — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Katherina]] and [[Bianca]], her hands bound |
-| [[Bianca\|BIANCA]] | Good sister, wrong me not, nor wrong yourself To make a bondmaid and a slave of me. That I disdain, but for these other goods, Unbind my hands, I’ll pull them off myself, Yea, all my raiment to my petticoat, Or what you will command me will I do, So [[Well\|well]] I know my duty to my elders. |
-| KATHERINE | Of all thy suitors here I charge thee tell Whom thou lov’st best. See thou dissemble not. |
-| [[Bianca\|BIANCA]] | Believe me, sister, of all the men alive I never yet beheld that special face Which I could fancy more than any other. |
+| [[Bianca\|BIANCA]] | Good sister, wrong me not, nor wrong yourself<br>To make a bondmaid and a slave of me.<br>That I disdain, but for these other goods,<br>Unbind my hands, I’ll pull them off myself,<br>Yea, all my raiment to my petticoat,<br>Or what you will command me will I do,<br>So [[Well\|well]] I know my duty to my elders. |
+| KATHERINE | Of all thy suitors here I charge thee tell<br>Whom thou lov’st best. See thou dissemble not. |
+| [[Bianca\|BIANCA]] | Believe me, sister, of all the men alive<br>I never yet beheld that special face<br>Which I could fancy more than any other. |
 | KATHERINE | Minion, thou liest. Is’t not [[Hortensio]]? |
-| [[Bianca\|BIANCA]] | If you affect him, sister, here I swear I’ll plead for you myself but you shall have him. |
-| KATHERINE | O then, belike you fancy riches more. You will have Gremio to keep you fair. |
-| [[Bianca\|BIANCA]] | Is it for him you do envy me so? Nay, then, you jest, and now I [[Well\|well]] perceive You have but jested with me all this while. I prithee, sister Kate, untie my hands. |
-| KATHERINE | (strikes her) If that be jest, then all the rest was so. Enter [[Baptista]] |
-| [[Baptista\|BAPTISTA]] | Why, how now, dame, whence grows this insolence? [[Bianca]], stand aside.—Poor girl, she weeps.— Go ply thy needle, meddle not with her. (To Katherine) For shame, thou hilding of a devilish spirit, Why dost thou wrong her that did ne’er wrong thee? When did she [[Cross\|cross]] thee with a bitter word? |
-| KATHERINE | Her [[Silence\|silence]] flouts me, and I’ll be revenged. She flies after [[Bianca]] |
-| [[Baptista\|BAPTISTA]] | What, in my sight? [[Bianca]], get thee in. Exit [[Bianca]] |
-| KATHERINE | What, will you not suffer me? Nay, now I see She is your treasure, she must have a husband. I must [[Dance\|dance]] barefoot on her wedding day, And for your [[Love\|love]] to her lead apes in hell. Talk not to me. I will go sit and weep Till I can find occasion of [[Revenge\|revenge]]. Exit |
-| [[Baptista\|BAPTISTA]] | Was ever gentleman thus grieved as I? But who comes here? Enter Gremio, [[Lucentio]] as a schoolmaster in the habit of a mean man, Petruccio with [[Hortensio]] as a |
-| [[Baptista\|BAPTISTA]] | musician, [[Tranio]] as [[Lucentio]], with Biondello his boy bearing a lute and books |
+| [[Bianca\|BIANCA]] | If you affect him, sister, here I swear<br>I’ll plead for you myself but you shall have him. |
+| KATHERINE | O then, belike you fancy riches more.<br>You will have Gremio to keep you fair. |
+| [[Bianca\|BIANCA]] | Is it for him you do envy me so?<br>Nay, then, you jest, and now I [[Well\|well]] perceive<br>You have but jested with me all this while.<br>I prithee, sister Kate, untie my hands. |
+| KATHERINE | (strikes her)<br>If that be jest, then all the rest was so. |
+| *(didascalia)* | Enter |
+| KATHERINE | [[Baptista]] |
+| [[Baptista\|BAPTISTA]] | Why, how now, dame, whence grows this insolence?<br>[[Bianca]], stand aside.—Poor girl, she weeps.—<br>Go ply thy needle, meddle not with her.<br>(To Katherine) For shame, thou hilding of a devilish<br>spirit,<br>Why dost thou wrong her that did ne’er wrong thee?<br>When did she [[Cross\|cross]] thee with a bitter word? |
+| KATHERINE | Her [[Silence\|silence]] flouts me, and I’ll be revenged.<br>She flies after [[Bianca]] |
+| [[Baptista\|BAPTISTA]] | What, in my sight? [[Bianca]], get thee in. |
+| *(didascalia)* | Exit [[Bianca]] |
+| KATHERINE | What, will you not suffer me? Nay, now I see<br>She is your treasure, she must have a husband.<br>I must [[Dance\|dance]] barefoot on her wedding day,<br>And for your [[Love\|love]] to her lead apes in hell.<br>Talk not to me. I will go sit and weep<br>Till I can find occasion of [[Revenge\|revenge]]. |
+| *(didascalia)* | Exit |
+| [[Baptista\|BAPTISTA]] | Was ever gentleman thus grieved as I?<br>But who comes here? |
+| *(didascalia)* | Enter Gremio, [[Lucentio]] as a schoolmaster in the |
+| [[Baptista\|BAPTISTA]] | habit of a mean man, Petruccio with [[Hortensio]] as a<br><br>musician, [[Tranio]] as [[Lucentio]], with Biondello his<br>boy bearing a lute and books |
 | GREMIO | Good morrow, neighbour [[Baptista]]. |
 | [[Baptista\|BAPTISTA]] | Good morrow, neighbour Gremio. God save you, gentlemen. |
-| PETRUCCIO | And you, good sir. Pray, have you not a daughter Called [[Katherina]], fair and virtuous? |
+| PETRUCCIO | And you, good sir. Pray, have you not a daughter<br>Called [[Katherina]], fair and virtuous? |
 | [[Baptista\|BAPTISTA]] | I have a daughter, sir, called [[Katherina]]. |
 | GREMIO | You are too blunt. Go to it orderly. |
-| PETRUCCIO | You wrong me, Signor Gremio. Give me leave. (To [[Baptista]]) I am a gentleman of [[Verona]], sir, That hearing of her [[Beauty\|beauty]] and her wit, Her affability and bashful modesty, Her wondrous qualities and mild behaviour, Am bold to show myself a forward guest Within your [[house]] to make mine eye the witness Of that report which I so oft have heard, And for an entrance to my entertainment I do present you with a man of mine (presenting [[Hortensio]]) |
-| PETRUCCIO | Cunning in music and the mathematics To instruct her fully in those sciences, Whereof I know she is not ignorant. Accept of him, or else you do me wrong. His name is Licio, born in Mantua. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--02_exchange_baptista" data-title="The Taming of the Shrew — Act II, Scene 1 — exchange (BAPTISTA) [2]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Baptista\|BAPTISTA]] | You’re welcome, sir, and he for your good sake. But for my daughter, Katherine, this I know: She is not for your turn, the more my grief. |
-| PETRUCCIO | I see you do not mean to part with her, Or else you like not of my company. |
-| [[Baptista\|BAPTISTA]] | Mistake me not, I speak but as I find. Whence are you, sir? What may I call your name? |
-| PETRUCCIO | Petruccio is my name, [[Antonio]]’s son, A man [[Well\|well]] known throughout all [[Italy]]. |
+| PETRUCCIO | You wrong me, Signor Gremio. Give me leave.<br>(To [[Baptista]]) I am a gentleman of [[Verona]], sir,<br>That hearing of her [[Beauty\|beauty]] and her wit,<br>Her affability and bashful modesty,<br>Her wondrous qualities and mild behaviour,<br>Am bold to show myself a forward guest |
+| *(didascalia)* | Within your [[house]] to make mine eye the witness |
+| PETRUCCIO | Of that report which I so oft have heard,<br>And for an entrance to my entertainment<br>I do present you with a man of mine (presenting<br>[[Hortensio]])<br><br>Cunning in music and the mathematics<br>To instruct her fully in those sciences,<br>Whereof I know she is not ignorant.<br>Accept of him, or else you do me wrong.<br>His name is Licio, born in Mantua. |
+| [[Baptista\|BAPTISTA]] | You’re welcome, sir, and he for your good sake.<br>But for my daughter, Katherine, this I know:<br>She is not for your turn, the more my grief. |
+| PETRUCCIO | I see you do not mean to part with her,<br>Or else you like not of my company. |
+| [[Baptista\|BAPTISTA]] | Mistake me not, I speak but as I find.<br>Whence are you, sir? What may I call your name? |
+| PETRUCCIO | Petruccio is my name, [[Antonio]]’s son,<br>A man [[Well\|well]] known throughout all [[Italy]]. |
 | [[Baptista\|BAPTISTA]] | I know him [[Well\|well]]. You are welcome for his sake. |
-| GREMIO | Saving your tale, Petruccio, I pray Let us that are poor petitioners speak too. Baccare, you are marvellous forward. |
+| GREMIO | Saving your tale, Petruccio, I pray<br>Let us that are poor petitioners speak too.<br>Baccare, you are marvellous forward. |
 | PETRUCCIO | O pardon me, Signor Gremio, I would fain be doing. |
 | GREMIO | I [[Doubt\|doubt]] it not, sir. But you will curse your wooing. (To [[Baptista]]) Neighbour, this is a gift very grateful, I am sure of it. To express the like kindness, myself, that have been more kindly beholden to you than any, freely give unto you this young scholar (presenting [[Lucentio]]) that hath been long studying at Rheims, as cunning in Greek, Latin, and other languages as the other in music and mathematics. His name is Cambio. Pray accept his service. |
 | [[Baptista\|BAPTISTA]] | A thousand thanks, Signor Gremio. Welcome, good Cambio. (To [[Tranio]]) But, gentle sir, methinks you walk like a stranger. May I be so bold to know the cause of your coming? |
-| [[Tranio\|TRANIO]] | Pardon me, sir, the boldness is mine own That, being a stranger in this [[City\|city]] here, Do make myself a suitor to your daughter, Unto [[Bianca]], fair and virtuous. Nor is your firm resolve unknown to me In the preferment of the eldest sister. This liberty is all that I request: That upon knowledge of my parentage I may have welcome ‘mongst the rest that woo, And free access and favour as the rest. And toward the [[Education\|education]] of your daughters I here bestow a simple instrument, And this small packet of Greek and Latin books. If you accept them, then their worth is great. |
+| [[Tranio\|TRANIO]] | Pardon me, sir, the boldness is mine own<br>That, being a stranger in this [[City\|city]] here,<br>Do make myself a suitor to your daughter,<br>Unto [[Bianca]], fair and virtuous.<br>Nor is your firm resolve unknown to me<br>In the preferment of the eldest sister.<br>This liberty is all that I request:<br>That upon knowledge of my parentage<br>I may have welcome ‘mongst the rest that woo,<br>And free access and favour as the rest.<br>And toward the [[Education\|education]] of your daughters<br>I here bestow a simple instrument,<br>And this small packet of Greek and Latin books.<br>If you accept them, then their worth is great. |
 | [[Baptista\|BAPTISTA]] | [[Lucentio]] is your name—of whence, I pray? |
 | [[Tranio\|TRANIO]] | Of Pisa, sir, son to Vincentio. |
-| [[Baptista\|BAPTISTA]] | A mighty man of Pisa. By report I know him [[Well\|well]]. You are very welcome, sir. (To [[Hortensio]]) Take you the lute, (to [[Lucentio]]) and you the set of books. You shall go see your pupils presently. Holla, within! Enter a Servant Sirrah, lead these gentlemen To my daughters, and tell them both These are their tutors. Bid them use them [[Well\|well]]. Exit Servant with [[Lucentio]] and [[Hortensio]], [Biondello following] (To Petruccio) We will go walk a little in the orchard, And then to dinner. You are passing welcome— And so I pray you all to think yourselves. |
-| PETRUCCIO | Signor [[Baptista]], my business asketh haste, And every day I cannot come to woo. You knew my father [[Well\|well]], and in him me, Left solely heir to all his lands and goods, Which I have bettered rather than decreased. Then tell me, if I get your daughter’s [[Love\|love]], What dowry shall I have with her to wife? |
-| [[Baptista\|BAPTISTA]] | After my [[Death\|death]] the one half of my lands, And in possession twenty thousand crowns. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--03_exchange_petruccio" data-title="The Taming of the Shrew — Act II, Scene 1 — exchange (PETRUCCIO) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PETRUCCIO | And for that dowry I’ll assure her of Her widowhood, be it that she survive me, In all my lands and leases whatsoever. Let specialties be therefore drawn between us, That covenants may be kept on either hand. |
-| [[Baptista\|BAPTISTA]] | Ay, when the special thing is [[Well\|well]] obtained— That is her [[Love\|love]], for that is all in all. |
-| PETRUCCIO | Why, that is nothing, for I tell you, father, I am as peremptory as she proud-minded, And where two raging fires meet together They do consume the thing that feeds their fury. Though little [[Fire\|fire]] grows great with little [[Wind\|wind]], Yet extreme gusts will blow out [[Fire\|fire]] and all. So I to her, and so she yields to me, For I am rough, and woo not like a babe. |
-| [[Baptista\|BAPTISTA]] | [[Well]] mayst thou woo, and happy be thy [[Speed\|speed]]. But be thou armed for some unhappy words. |
-| PETRUCCIO | Ay, to the proof, as [[Mountains\|mountains]] are for winds, That shakes not though they blow perpetually. Enter [[Hortensio]] with his head broke |
+| [[Baptista\|BAPTISTA]] | A mighty man of Pisa. By report<br>I know him [[Well\|well]]. You are very welcome, sir.<br>(To [[Hortensio]]) Take you the lute, (to [[Lucentio]]) and you<br>the set of books.<br>You shall go see your pupils presently.<br>Holla, within! |
+| *(didascalia)* | Enter a Servant |
+| [[Baptista\|BAPTISTA]] | Sirrah, lead these gentlemen<br>To my daughters, and tell them both<br>These are their tutors. Bid them use them [[Well\|well]]. |
+| *(didascalia)* | Exit Servant with [[Lucentio]] and [[Hortensio]], |
+| [[Baptista\|BAPTISTA]] | [Biondello following]<br>(To Petruccio) We will go walk a little in the orchard,<br>And then to dinner. You are passing welcome—<br>And so I pray you all to think yourselves. |
+| PETRUCCIO | Signor [[Baptista]], my business asketh haste,<br>And every day I cannot come to woo.<br>You knew my father [[Well\|well]], and in him me,<br>Left solely heir to all his lands and goods,<br>Which I have bettered rather than decreased.<br>Then tell me, if I get your daughter’s [[Love\|love]],<br>What dowry shall I have with her to wife? |
+| [[Baptista\|BAPTISTA]] | After my [[Death\|death]] the one half of my lands,<br>And in possession twenty thousand crowns. |
+| PETRUCCIO | And for that dowry I’ll assure her of<br>Her widowhood, be it that she survive me,<br>In all my lands and leases whatsoever.<br>Let specialties be therefore drawn between us,<br>That covenants may be kept on either hand. |
+| [[Baptista\|BAPTISTA]] | Ay, when the special thing is [[Well\|well]] obtained—<br>That is her [[Love\|love]], for that is all in all. |
+| PETRUCCIO | Why, that is nothing, for I tell you, father,<br>I am as peremptory as she proud-minded,<br>And where two raging fires meet together<br>They do consume the thing that feeds their fury.<br>Though little [[Fire\|fire]] grows great with little [[Wind\|wind]],<br>Yet extreme gusts will blow out [[Fire\|fire]] and all.<br>So I to her, and so she yields to me,<br>For I am rough, and woo not like a babe. |
+| [[Baptista\|BAPTISTA]] | [[Well]] mayst thou woo, and happy be thy [[Speed\|speed]].<br>But be thou armed for some unhappy words. |
+| PETRUCCIO | Ay, to the proof, as [[Mountains\|mountains]] are for winds,<br>That shakes not though they blow perpetually. |
+| *(didascalia)* | Enter [[Hortensio]] with his head broke |
 | [[Baptista\|BAPTISTA]] | How now, my friend, why dost thou look so pale? |
 | [[Hortensio\|HORTENSIO]] | For [[Fear\|fear]], I promise you, if I look pale. |
 | [[Baptista\|BAPTISTA]] | What, will my daughter prove a good musician? |
-| [[Hortensio\|HORTENSIO]] | I think she’ll sooner prove a soldier. Iron may hold with her, but never lutes. |
+| [[Hortensio\|HORTENSIO]] | I think she’ll sooner prove a soldier.<br>Iron may hold with her, but never lutes. |
 | [[Baptista\|BAPTISTA]] | Why then, thou canst not break her to the lute? |
-| [[Hortensio\|HORTENSIO]] | Why no, for she hath broke the lute to me. I did but tell her she mistook her frets, And bowed her hand to teach her fingering, When, with a most impatient devilish spirit, ‘Frets, call you these?’ quoth she, ‘I’ll fume with them,’ And with that word she struck me on the head, And through the instrument my pate made way, And there I stood amazed for a while, As on a pillory, looking through the lute, While she did call me rascal, fiddler, And twangling jack, with twenty such vile terms, As had she studied to misuse me so. |
-| PETRUCCIO | Now, by the world, it is a lusty wench! I [[Love\|love]] her ten times more than e’er I did. O, how I long to have some chat with her! |
-| [[Baptista\|BAPTISTA]] | (to [[Hortensio]]) [[Well]], go with me, and be not so discomfited. Proceed in practice with my younger daughter. She’s apt to learn, and thankful for good turns. Signor Petruccio, will you go with us, Or shall I send my daughter Kate to you ? |
-| PETRUCCIO | I pray you, do. Exeunt all but Petruccio I’ll attend her here, And woo her with some spirit when she comes. Say that she rail, why then I’ll tell her plain She sings as sweetly as a [[Nightingale\|nightingale]]. Say that she frown, I’ll say she looks as clear As morning roses newly washed with dew. Say she be mute and will not speak a word, Then I’ll commend her volubility, And say she uttereth piercing eloquence. If she do bid me pack, I’ll give her thanks As though she bid me stay by her a week. If she deny to wed, I’ll crave the day When I shall ask the banns, and when be married. But here she comes, and now, Petruccio, speak. Enter [[Katherina]] Good morrow, Kate, for that’s your name, I hear. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--04_exchange_katherine" data-title="The Taming of the Shrew — Act II, Scene 1 — exchange (KATHERINE) [4]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| KATHERINE | [[Well]] have you heard, but something hard of hearing. They call me Katherine that do talk of me. |
-| PETRUCCIO | You lie, in [[Faith\|faith]], for you are called plain Kate, And bonny Kate, and sometimes Kate the curst, But Kate, the prettiest Kate in Christendom, Kate of Kate Hall, my super-dainty Kate— For dainties are all cates, and therefore ‘Kate’— Take this of me, Kate of my consolation: Hearing thy mildness praised in every town, Thy virtues spoke of, and thy [[Beauty\|beauty]] sounded— Yet not so deeply as to thee belongs— Myself am moved to woo thee for my wife. |
-| KATHERINE | Moved? In good [[Time\|time]]. Let him that moved you hither Re-move you hence. I knew you at the first You were a movable. |
+| [[Hortensio\|HORTENSIO]] | Why no, for she hath broke the lute to me.<br>I did but tell her she mistook her frets,<br>And bowed her hand to teach her fingering,<br>When, with a most impatient devilish spirit,<br>‘Frets, call you these?’ quoth she, ‘I’ll fume with<br>them,’<br>And with that word she struck me on the head,<br>And through the instrument my pate made way,<br>And there I stood amazed for a while,<br>As on a pillory, looking through the lute,<br>While she did call me rascal, fiddler,<br>And twangling jack, with twenty such vile terms,<br>As had she studied to misuse me so. |
+| PETRUCCIO | Now, by the world, it is a lusty wench!<br>I [[Love\|love]] her ten times more than e’er I did.<br>O, how I long to have some chat with her! |
+| [[Baptista\|BAPTISTA]] | (to [[Hortensio]])<br>[[Well]], go with me, and be not so discomfited.<br>Proceed in practice with my younger daughter.<br>She’s apt to learn, and thankful for good turns.<br>Signor Petruccio, will you go with us,<br>Or shall I send my daughter Kate to you ? |
+| PETRUCCIO | I pray you, do. |
+| *(didascalia)* | Exeunt all but Petruccio |
+| PETRUCCIO | I’ll attend her here,<br>And woo her with some spirit when she comes.<br>Say that she rail, why then I’ll tell her plain<br>She sings as sweetly as a [[Nightingale\|nightingale]].<br>Say that she frown, I’ll say she looks as clear<br>As morning roses newly washed with dew.<br>Say she be mute and will not speak a word,<br>Then I’ll commend her volubility,<br>And say she uttereth piercing eloquence.<br>If she do bid me pack, I’ll give her thanks<br>As though she bid me stay by her a week.<br>If she deny to wed, I’ll crave the day<br>When I shall ask the banns, and when be married.<br>But here she comes, and now, Petruccio, speak. |
+| *(didascalia)* | Enter [[Katherina]] |
+| PETRUCCIO | Good morrow, Kate, for that’s your name, I hear. |
+| KATHERINE | [[Well]] have you heard, but something hard of hearing.<br>They call me Katherine that do talk of me. |
+| PETRUCCIO | You lie, in [[Faith\|faith]], for you are called plain Kate,<br>And bonny Kate, and sometimes Kate the curst,<br>But Kate, the prettiest Kate in Christendom,<br>Kate of Kate Hall, my super-dainty Kate—<br>For dainties are all cates, and therefore ‘Kate’—<br>Take this of me, Kate of my consolation:<br>Hearing thy mildness praised in every town,<br>Thy virtues spoke of, and thy [[Beauty\|beauty]] sounded—<br>Yet not so deeply as to thee belongs—<br>Myself am moved to woo thee for my wife. |
+| KATHERINE | Moved? In good [[Time\|time]]. Let him that moved you hither<br>Re-move you hence. I knew you at the first<br>You were a movable. |
 | PETRUCCIO | Why, what’s a movable? |
 | KATHERINE | A joint-stool. |
 | PETRUCCIO | Thou hast hit it. Come, sit on me. |
 | KATHERINE | Asses are made to bear, and so are you. |
 | PETRUCCIO | Women are made to bear, and so are you. |
 | KATHERINE | No such jade as you, if me you mean. |
-| PETRUCCIO | Alas, good Kate, I will not burden thee, For knowing thee to be but young and light. |
-| KATHERINE | Too light for such a swain as you to catch, And yet as heavy as my weight should be. 205 |
+| PETRUCCIO | Alas, good Kate, I will not burden thee,<br>For knowing thee to be but young and light. |
+| KATHERINE | Too light for such a swain as you to catch,<br>And yet as heavy as my weight should be. 205 |
 | PETRUCCIO | Should be?—should buzz. |
 | KATHERINE | [[Well]] ta’en, and like a buzzard. |
 | PETRUCCIO | O slow-winged turtle, shall a buzzard take thee? |
@@ -1806,9 +1730,9 @@ Bartholomew sits
 | PETRUCCIO | Whose tongue? |
 | KATHERINE | Yours, if you talk of tales, and so farewell. |
 | PETRUCCIO | What, with my tongue in your tail? Nay, come again, Good Kate, I am a gentleman. |
-| KATHERINE | That I’ll try. She strikes him |
+| KATHERINE | That I’ll try.<br>She strikes him |
 | PETRUCCIO | I swear I’ll cuff you if you strike again. |
-| KATHERINE | So may you lose your arms. If you strike me you are no gentleman, And if no gentleman, why then, no arms. |
+| KATHERINE | So may you lose your arms.<br>If you strike me you are no gentleman,<br>And if no gentleman, why then, no arms. |
 | PETRUCCIO | A herald, Kate? O, put me in thy books. |
 | KATHERINE | What is your crest—a coxcomb? |
 | PETRUCCIO | A combless cock, so Kate will be my hen. |
@@ -1827,77 +1751,59 @@ Bartholomew sits
 | KATHERINE | I care not. |
 | PETRUCCIO | Nay, hear you, Kate. In sooth, you scape not so. 235 |
 | KATHERINE | I chafe you if I tarry. Let me go. |
-| PETRUCCIO | No, not a whit. I find you passing gentle. ‘Twas told me you were rough, and coy, and sullen, And now I find report a very liar, For thou art pleasant, gamesome, passing courteous, But slow in speech, yet sweet as springtime [[Flowers\|flowers]]. Thou canst not frown. Thou canst not look askance, Nor bite the lip, as angry wenches will, Nor hast thou pleasure to be [[Cross\|cross]] in talk, But thou with mildness entertain’st thy wooers, With gentle conference, soft, and affable. Why does the world report that Kate doth limp? O sland’rous world ! Kate like the hazel twig Is straight and slender, and as brown in hue As hazelnuts, and sweeter than the kernels. O let me see thee walk. Thou dost not halt. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--05_exchange_katherine" data-title="The Taming of the Shrew — Act II, Scene 1 — exchange (KATHERINE) [5]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| PETRUCCIO | No, not a whit. I find you passing gentle.<br>‘Twas told me you were rough, and coy, and sullen,<br>And now I find report a very liar,<br>For thou art pleasant, gamesome, passing courteous,<br>But slow in speech, yet sweet as springtime [[Flowers\|flowers]].<br>Thou canst not frown. Thou canst not look askance,<br>Nor bite the lip, as angry wenches will,<br>Nor hast thou pleasure to be [[Cross\|cross]] in talk,<br>But thou with mildness entertain’st thy wooers,<br>With gentle conference, soft, and affable.<br>Why does the world report that Kate doth limp?<br>O sland’rous world ! Kate like the hazel twig<br>Is straight and slender, and as brown in hue<br>As hazelnuts, and sweeter than the kernels.<br>O let me see thee walk. Thou dost not halt. |
 | KATHERINE | Go, [[Fool\|fool]], and whom thou keep’st command. |
-| PETRUCCIO | Did ever Dian so become a grove As Kate this chamber with her princely gait? O, be thou Dian, and let her be Kate, And then let Kate be chaste and Dian sportful. |
+| PETRUCCIO | Did ever Dian so become a grove<br>As Kate this chamber with her princely gait?<br>O, be thou Dian, and let her be Kate,<br>And then let Kate be chaste and Dian sportful. |
 | KATHERINE | Where did you study all this goodly speech? |
 | PETRUCCIO | It is extempore, from my mother-wit. |
 | KATHERINE | A witty mother, witless else her son. |
 | PETRUCCIO | Am I not wise? |
 | KATHERINE | Yes, keep you warm. |
-| PETRUCCIO | Marry, so I mean, sweet Katherine, in thy bed. And therefore setting all this chat aside, Thus in plain terms: your father hath consented That you shall be my wife, your dowry ’[[Greed\|greed]] on, And will you, nill you, I will marry you. Now, Kate, I am a husband for your turn, For by this light, whereby I see thy [[Beauty\|beauty]]— Thy [[Beauty\|beauty]] that doth make me like thee [[Well\|well]]— Thou must be married to no man but me, Enter [[Baptista]], Gremio, and [[Tranio]] as [[Lucentio]] For I am he am born to tame you, Kate, And bring you from a wild Kate to a Kate Conformable as other household Kates. Here comes your father. Never make denial. I must and will have Katherine to my wife. |
+| PETRUCCIO | Marry, so I mean, sweet Katherine, in thy bed.<br>And therefore setting all this chat aside,<br>Thus in plain terms: your father hath consented<br>That you shall be my wife, your dowry ’[[Greed\|greed]] on,<br>And will you, nill you, I will marry you.<br>Now, Kate, I am a husband for your turn,<br>For by this light, whereby I see thy [[Beauty\|beauty]]—<br>Thy [[Beauty\|beauty]] that doth make me like thee [[Well\|well]]—<br>Thou must be married to no man but me, |
+| *(didascalia)* | Enter [[Baptista]], Gremio, and [[Tranio]] as |
+| PETRUCCIO | [[Lucentio]]<br>For I am he am born to tame you, Kate,<br>And bring you from a wild Kate to a Kate<br>Conformable as other household Kates.<br>Here comes your father. Never make denial.<br>I must and will have Katherine to my wife. |
 | [[Baptista\|BAPTISTA]] | Now, Signor Petruccio, how [[Speed\|speed]] you with my daughter? 276 |
-| PETRUCCIO | How but [[Well\|well]], sir, how but [[Well\|well]]? It were impossible I should [[Speed\|speed]] amiss. |
+| PETRUCCIO | How but [[Well\|well]], sir, how but [[Well\|well]]?<br>It were impossible I should [[Speed\|speed]] amiss. |
 | [[Baptista\|BAPTISTA]] | Why, how now, daughter Katherine—in your dumps? |
-| KATHERINE | Call you me daughter? Now I promise you 280 You have showed a tender fatherly regard, To wish me wed to one half-lunatic, A madcap ruffian and a swearing Jack, That thinks with oaths to face the matter out. |
-| PETRUCCIO | Father, ‘tis thus: yourself and all the world 285 That talked of her have talked amiss of her. If she be curst, it is for policy, For she’s not froward, but modest as the dove. She is not hot, but temperate as the morn. For patience she will prove a second Grissel, 290 And Roman [[Lucrece]] for her chastity. And to conclude, we have ’[[Greed\|greed]] so [[Well\|well]] together That upon [[Sunday]] is the wedding day. |
+| KATHERINE | Call you me daughter? Now I promise you 280<br>You have showed a tender fatherly regard,<br>To wish me wed to one half-lunatic,<br>A madcap ruffian and a swearing Jack,<br>That thinks with oaths to face the matter out. |
+| PETRUCCIO | Father, ‘tis thus: yourself and all the world 285<br>That talked of her have talked amiss of her.<br>If she be curst, it is for policy,<br>For she’s not froward, but modest as the dove.<br>She is not hot, but temperate as the morn.<br>For patience she will prove a second Grissel, 290<br>And Roman [[Lucrece]] for her chastity.<br>And to conclude, we have ’[[Greed\|greed]] so [[Well\|well]] together<br>That upon [[Sunday]] is the wedding day. |
 | KATHERINE | I’ll see thee hanged on [[Sunday]] first. |
 | GREMIO | Hark, Petruccio, she says she’ll see thee hanged first. 296 |
 | [[Tranio\|TRANIO]] | Is this your speeding ? Nay then, goodnight our part. |
-| PETRUCCIO | Be patient, gentlemen. I choose her for myself. If she and I be pleased, what’s that to you? Tis bargained ‘twixt us twain, being [[Alone\|alone]], That she shall still be curst in company. I tell you, ’tis incredible to believe How much she loves me. O, the kindest Kate I She hung about my neck, and kiss on kiss She vied so fast, protesting oath on oath, That in a twink she won me to her [[Love\|love]]. O, you are novices. ‘Tis a world to see How tame, when men and women are [[Alone\|alone]], A meacock wretch can make the curstest shrew. Give me thy hand, Kate. I will unto [[Venice]], To buy apparel ’gainst the wedding day. Provide the feast, father, and bid the guests. I will be sure my Katherine shall be fine. |
-| [[Baptista\|BAPTISTA]] | I know not what to say, but give me your hands. God send you joy, Petruccio! ’Tis a match. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--06_exchange_gremio" data-title="The Taming of the Shrew — Act II, Scene 1 — exchange (GREMIO) [6]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| GREMIO | and [[Tranio\|TRANIO]] Amen, say we. We will be witnesses. |
-| PETRUCCIO | Father, and wife, and gentlemen, adieu. I will to [[Venice]]. [[Sunday]] comes apace. We will have rings, and things, and fine array; And kiss me, Kate. We will be married o’ [[Sunday]]. Exeunt Petruccio and Katherine, severally |
+| PETRUCCIO | Be patient, gentlemen. I choose her for myself.<br>If she and I be pleased, what’s that to you?<br>Tis bargained ‘twixt us twain, being [[Alone\|alone]],<br>That she shall still be curst in company.<br>I tell you, ’tis incredible to believe<br>How much she loves me. O, the kindest Kate I<br>She hung about my neck, and kiss on kiss<br>She vied so fast, protesting oath on oath,<br>That in a twink she won me to her [[Love\|love]].<br>O, you are novices. ‘Tis a world to see<br>How tame, when men and women are [[Alone\|alone]],<br>A meacock wretch can make the curstest shrew.<br>Give me thy hand, Kate. I will unto [[Venice]],<br>To buy apparel ’gainst the wedding day.<br>Provide the feast, father, and bid the guests.<br>I will be sure my Katherine shall be fine. |
+| [[Baptista\|BAPTISTA]] | I know not what to say, but give me your hands.<br>God send you joy, Petruccio! ’Tis a match. |
+| GREMIO | and [[Tranio\|TRANIO]]<br>Amen, say we. We will be witnesses. |
+| PETRUCCIO | Father, and wife, and gentlemen, adieu.<br>I will to [[Venice]]. [[Sunday]] comes apace.<br>We will have rings, and things, and fine array;<br>And kiss me, Kate. We will be married o’ [[Sunday]]. |
+| *(didascalia)* | Exeunt Petruccio and Katherine, severally |
 | GREMIO | Was ever match clapped up so suddenly? |
-| [[Baptista\|BAPTISTA]] | [[Faith]], gentlemen, now I play a merchant’s part, And venture madly on a desperate mart. |
-| [[Tranio\|TRANIO]] | ‘Twas a commodity lay fretting by you. ’Twill bring you gain, or perish on the seas. |
+| [[Baptista\|BAPTISTA]] | [[Faith]], gentlemen, now I play a merchant’s part,<br>And venture madly on a desperate mart. |
+| [[Tranio\|TRANIO]] | ‘Twas a commodity lay fretting by you.<br>’Twill bring you gain, or perish on the seas. |
 | [[Baptista\|BAPTISTA]] | The gain I seek is quiet in the match. |
-| GREMIO | No [[Doubt\|doubt]] but he hath got a quiet catch. But now, [[Baptista]], to your younger daughter. Now is the day we long have looked for. I am your neighbour, and was suitor first. |
-| [[Tranio\|TRANIO]] | And I am one that [[Love\|love]] [[Bianca]] more Than words can witness, or your thoughts can guess. |
+| GREMIO | No [[Doubt\|doubt]] but he hath got a quiet catch.<br>But now, [[Baptista]], to your younger daughter.<br>Now is the day we long have looked for.<br>I am your neighbour, and was suitor first. |
+| [[Tranio\|TRANIO]] | And I am one that [[Love\|love]] [[Bianca]] more<br>Than words can witness, or your thoughts can guess. |
 | GREMIO | Youngling, thou canst not [[Love\|love]] so dear as I. |
 | [[Tranio\|TRANIO]] | Greybeard, thy [[Love\|love]] doth freeze. |
-| GREMIO | But thine doth fry. Skipper, stand back. ’Tis age that nourisheth. |
+| GREMIO | But thine doth fry.<br>Skipper, stand back. ’Tis age that nourisheth. |
 | [[Tranio\|TRANIO]] | But youth in ladies’ eyes that flourisheth. |
-| [[Baptista\|BAPTISTA]] | A Content you, gentlemen. I will compound this strife. ’Tis deeds must win the prize, and he of both That can assure my daughter greatest dower Shall have my [[Bianca]]’s [[Love\|love]]. Say, Signor Gremio, what can you assure her? |
-| GREMIO | First, as you know, my [[house]] within the [[City\|city]] Is richly furnished with plate and gold, Basins and ewers to lave her dainty hands; My hangings all of Tyrian tapestry. In ivory coffers I have stuffed my crowns, In cypress chests my arras counterpoints, Costly apparel, tents and canopies, Fine linen, Turkey cushions bossed with pearl, Valance of [[Venice]] gold in needlework, 350 Pewter, and brass, and all things that belongs To [[house]] or housekeeping. Then at my farm I have a hundred milch-kine to the pail, Six score fat oxen standing in my stalls, And all things answerable to this portion. 355 Myself am struck in years, I must confess, And if I die tomorrow this is hers, If whilst I live she will be only mine. |
-| [[Tranio\|TRANIO]] | That ‘only’ came [[Well\|well]] in. Sir, list to me. I am my father’s heir and only son. If I may have your daughter to my wife I’ll leave her houses three or four as good, Within rich Pisa walls, as any one Old Signor Gremio has in Padua, Besides two thousand ducats by the year Of fruitful land, all which shall be her jointure. What, have I pinched you, Signor Gremio? |
-| GREMIO | Two thousand ducats by the year of land— My land amounts not to so much in all. That she shall have; besides, an argosy That now is lying in Marseilles [[Road\|road]]. What, have I choked you with an argosy? |
-| [[Tranio\|TRANIO]] | Gremio, ‘tis known my father hath no less Than three great argosies, besides two galliasses And twelve tight galleys. These I will assure her, And twice as much whate’er thou off’rest next. |
-| GREMIO | Nay, I have offered all. I have no more, And she can have no more than all I have. If you like me, she shall have me and mine. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_1--07_exchange_tranio" data-title="The Taming of the Shrew — Act II, Scene 1 — exchange (TRANIO) [7]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Tranio\|TRANIO]] | Why then, the maid is mine from all the world. By your firm promise Gremio is out-vied. |
-| [[Baptista\|BAPTISTA]] | I must confess your offer is the best, And let your father make her the assurance, She is your own. Else, you must pardon me, If you should die before him, where’s her dower? |
+| [[Baptista\|BAPTISTA]] | A<br>Content you, gentlemen. I will compound this strife.<br>’Tis deeds must win the prize, and he of both<br>That can assure my daughter greatest dower<br>Shall have my [[Bianca]]’s [[Love\|love]].<br>Say, Signor Gremio, what can you assure her? |
+| GREMIO | First, as you know, my [[house]] within the [[City\|city]]<br>Is richly furnished with plate and gold,<br>Basins and ewers to lave her dainty hands;<br>My hangings all of Tyrian tapestry.<br>In ivory coffers I have stuffed my crowns,<br>In cypress chests my arras counterpoints,<br>Costly apparel, tents and canopies,<br>Fine linen, Turkey cushions bossed with pearl,<br>Valance of [[Venice]] gold in needlework, 350<br>Pewter, and brass, and all things that belongs<br>To [[house]] or housekeeping. Then at my farm<br>I have a hundred milch-kine to the pail,<br>Six score fat oxen standing in my stalls,<br>And all things answerable to this portion. 355<br>Myself am struck in years, I must confess,<br>And if I die tomorrow this is hers,<br>If whilst I live she will be only mine. |
+| [[Tranio\|TRANIO]] | That ‘only’ came [[Well\|well]] in. Sir, list to me.<br>I am my father’s heir and only son.<br>If I may have your daughter to my wife<br>I’ll leave her houses three or four as good, |
+| *(didascalia)* | Within rich Pisa walls, as any one |
+| [[Tranio\|TRANIO]] | Old Signor Gremio has in Padua,<br>Besides two thousand ducats by the year<br>Of fruitful land, all which shall be her jointure.<br>What, have I pinched you, Signor Gremio? |
+| GREMIO | Two thousand ducats by the year of land—<br>My land amounts not to so much in all.<br>That she shall have; besides, an argosy<br>That now is lying in Marseilles [[Road\|road]].<br>What, have I choked you with an argosy? |
+| [[Tranio\|TRANIO]] | Gremio, ‘tis known my father hath no less<br>Than three great argosies, besides two galliasses<br>And twelve tight galleys. These I will assure her,<br>And twice as much whate’er thou off’rest next. |
+| GREMIO | Nay, I have offered all. I have no more,<br>And she can have no more than all I have.<br>If you like me, she shall have me and mine. |
+| [[Tranio\|TRANIO]] | Why then, the maid is mine from all the world.<br>By your firm promise Gremio is out-vied. |
+| [[Baptista\|BAPTISTA]] | I must confess your offer is the best,<br>And let your father make her the assurance,<br>She is your own. Else, you must pardon me,<br>If you should die before him, where’s her dower? |
 | [[Tranio\|TRANIO]] | That’s but a cavil. He is old, I young. |
 | GREMIO | And may not young men die as [[Well\|well]] as old ? |
-| [[Baptista\|BAPTISTA]] | [[Well]], gentlemen, I am thus resolved. On [[Sunday]] next, you know, My daughter Katherine is to be married. (To [[Tranio]]) Now, on the [[Sunday]] following shall [[Bianca]] Be bride to you, if you make this assurance; If not, to Signor Gremio. And so I take my leave, and thank you both. |
-| GREMIO | Adieu, good neighbour. Exit [[Baptista]] Now I [[Fear\|fear]] thee not. Sirrah, young gamester, your father were a [[Fool\|fool]] To give thee all, and in his waning age Set foot under thy table. Tut, a toy ! I An old Italian fox is not so kind, my boy. Exit |
-| [[Tranio\|TRANIO]] | A vengeance on your crafty withered hide! Yet I have faced it with a card of ten. ‘Tis in my head to do my master good. I see no reason but supposed [[Lucentio]] Must get a father called supposed Vincentio— And that’s a [[Wonder\|wonder]]; fathers commonly Do get their children, but in this case of wooing A [[Child\|child]] shall get a sire, if I fail not of my cunning. Exit |
+| [[Baptista\|BAPTISTA]] | [[Well]], gentlemen,<br>I am thus resolved. On [[Sunday]] next, you know,<br>My daughter Katherine is to be married.<br>(To [[Tranio]]) Now, on the [[Sunday]] following shall<br>[[Bianca]]<br>Be bride to you, if you make this assurance;<br>If not, to Signor Gremio.<br>And so I take my leave, and thank you both. |
+| GREMIO | Adieu, good neighbour. |
+| *(didascalia)* | Exit [[Baptista]] |
+| GREMIO | Now I [[Fear\|fear]] thee not.<br>Sirrah, young gamester, your father were a [[Fool\|fool]]<br>To give thee all, and in his waning age<br>Set foot under thy table. Tut, a toy ! I<br>An old Italian fox is not so kind, my boy. |
+| *(didascalia)* | Exit |
+| [[Tranio\|TRANIO]] | A vengeance on your crafty withered hide!<br>Yet I have faced it with a card of ten.<br>‘Tis in my head to do my master good.<br>I see no reason but supposed [[Lucentio]]<br>Must get a father called supposed Vincentio—<br>And that’s a [[Wonder\|wonder]]; fathers commonly<br>Do get their children, but in this case of wooing<br>A [[Child\|child]] shall get a sire, if I fail not of my cunning. |
+| *(didascalia)* | Exit |
 
 
 
@@ -2061,16 +1967,17 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="The Taming of the Shrew — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Taming of the Shrew — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Grumio]] |
-| [[Grumio\|GRUMIO]] | Fie, fie on all tired jades, on all mad masters, and all foul ways. Was ever man so beaten? Was ever man so rayed? Was ever man so weary? I am sent before to make a [[Fire\|fire]], and they are coming after to warm them. Now were not I a little pot and soon hot, my very lips might freeze to my teeth, my tongue to the roof of my mouth, my heart in my belly ere I should come by a [[Fire\|fire]] to thaw me. But I with blowing the [[Fire\|fire]] shall warm myself, for considering the weather, a taller man than I will take cold. Holla! Hoa, Curtis! Enter Curtis |
-| CURTIS | Who is that calls so coldly? GRUMlO A piece of ice. If thou [[Doubt\|doubt]] it, thou mayst slide from my shoulder to my heel with no greater a run but my head and my neck. A [[Fire\|fire]], good Curtis! |
-| CURTIS | Is my master and his wife coming, [[Grumio]]? GRUMlO O ay, Curtis, ay, and therefore [[Fire\|fire]], [[Fire\|fire]]! Cast on no [[Water\|water]]. |
-| CURTIS | Is she so hot a shrew as she’s reported? GRUMlO She was, good Curtis, before this [[Frost\|frost]]; but thou know’st, [[Winter\|winter]] tames man, woman, and beast, for it hath tamed my old master, and my new mistress, and myself, fellow Curtis. |
+| [[Grumio\|GRUMIO]] | Fie, fie on all tired jades, on all mad masters, and all foul ways. Was ever man so beaten? Was ever man so rayed? Was ever man so weary? I am sent before to make a [[Fire\|fire]], and they are coming after to warm them. Now were not I a little pot and soon hot, my very lips might freeze to my teeth, my tongue to the roof of my mouth, my heart in my belly ere I should come by a [[Fire\|fire]] to thaw me. But I with blowing the [[Fire\|fire]] shall warm myself, for considering the weather, a taller man than I will take cold. Holla! Hoa, Curtis! |
+| *(didascalia)* | Enter Curtis |
+| CURTIS | Who is that calls so coldly?<br>GRUMlO A piece of ice. If thou [[Doubt\|doubt]] it, thou mayst slide from my shoulder to my heel with no greater a run but my head and my neck. A [[Fire\|fire]], good Curtis! |
+| CURTIS | Is my master and his wife coming, [[Grumio]]?<br>GRUMlO O ay, Curtis, ay, and therefore [[Fire\|fire]], [[Fire\|fire]]! Cast on no [[Water\|water]]. |
+| CURTIS | Is she so hot a shrew as she’s reported?<br>GRUMlO She was, good Curtis, before this [[Frost\|frost]]; but thou know’st, [[Winter\|winter]] tames man, woman, and beast, for it hath tamed my old master, and my new mistress, and myself, fellow Curtis. |
 | CURTIS | Away, you three-inch [[Fool\|fool]]. I am no beast. |
 | [[Grumio\|GRUMIO]] | Am I but three inches? Why, thy horn is a foot, and so long am I, at the least. But wilt thou make a [[Fire\|fire]], or shall I complain on thee to our mistress, whose hand—she being now at hand—thou shalt soon feel to thy cold comfort, for being slow in thy hot office. |
 | CURTIS | I prithee, good [[Grumio]], tell me—how goes the world? |
@@ -2087,19 +1994,10 @@ Bartholomew sits
 | [[Grumio\|GRUMIO]] | Lend thine ear. |
 | CURTIS | Here. |
 | GRUMTO | (cuffing him) There. |
-| CURTIS | This ’tis to feel a tale, not to hear a tale. GRUMlO And therefore ’tis called a sensible tale, and this cuff was but to knock at your ear and beseech listening. Now I begin. Inprimis, we came down a foul [[Hill\|hill]], my master riding behind my mistress. |
+| CURTIS | This ’tis to feel a tale, not to hear a tale.<br>GRUMlO And therefore ’tis called a sensible tale, and this cuff was but to knock at your ear and beseech listening. Now I begin. Inprimis, we came down a foul [[Hill\|hill]], my master riding behind my mistress. |
 | CURTIS | Both of one [[Horse\|horse]]? |
 | [[Grumio\|GRUMIO]] | What’s that to thee? |
-| CURTIS | Why, a [[Horse\|horse]]. GRUMlO Tell thou the tale. But hadst thou not crossed me thou shouldst have heard how her [[Horse\|horse]] fell and she under her [[Horse\|horse]]; thou shouldst have heard in how miry a place, how she was bemoiled, how he left her with the [[Horse\|horse]] upon her, how he beat me because her [[Horse\|horse]] stumbled, how she waded through the dirt to pluck him off me, how he swore, how she prayed that never prayed before, how I cried, how the horses ran away, how her bridle was burst, how I lost my crupper, with many things of worthy [[Memory\|memory]] which now shall die in oblivion, and thou return unexperienced to thy [[Grave\|grave]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_exchange_curtis" data-title="The Taming of the Shrew — Act IV, Scene 1 — exchange (CURTIS) [2]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| CURTIS | Why, a [[Horse\|horse]].<br>GRUMlO Tell thou the tale. But hadst thou not crossed me thou shouldst have heard how her [[Horse\|horse]] fell and she under her [[Horse\|horse]]; thou shouldst have heard in how miry a place, how she was bemoiled, how he left her with the [[Horse\|horse]] upon her, how he beat me because her [[Horse\|horse]] stumbled, how she waded through the dirt to pluck him off me, how he swore, how she prayed that never prayed before, how I cried, how the horses ran away, how her bridle was burst, how I lost my crupper, with many things of worthy [[Memory\|memory]] which now shall die in oblivion, and thou return unexperienced to thy [[Grave\|grave]]. |
 | CURTIS | By this reckoning he is more shrew than she. |
 | [[Grumio\|GRUMIO]] | Ay, and that thou and the proudest of you all shall find when he comes [[Home\|home]]. But what talk I of this? Call forth Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop, and the rest. Let their heads be sleekly combed, their blue coats brushed, and their garters of an indifferent knit. Let them curtsy with their left legs and not presume to touch a hair of my master’s [[Horse\|horse]]-tail till they kiss their hands. Are they all ready? |
 | CURTIS | They are. |
@@ -2108,7 +2006,8 @@ Bartholomew sits
 | [[Grumio\|GRUMIO]] | Why, she hath a face of her own. |
 | CURTIS | Who knows not that? |
 | [[Grumio\|GRUMIO]] | Thou, it seems, that calls for company to countenance her. |
-| CURTIS | I call them forth to credit her. Enter four or five servingmen |
+| CURTIS | I call them forth to credit her. |
+| *(didascalia)* | Enter four or five servingmen |
 | [[Grumio\|GRUMIO]] | Why, she comes to borrow nothing of them. |
 | NATHANIEL | Welcome [[Home\|home]], [[Grumio]]! |
 | PHILIP | How now, [[Grumio]]? |
@@ -2117,45 +2016,39 @@ Bartholomew sits
 | NATHANIEL | How now, old lad! |
 | [[Grumio\|GRUMIO]] | Welcome you, how now you, what you, fellow you, and thus much for greeting. Now, my spruce companions, is all ready and all things neat? |
 | NATHANIEL | All things is ready. How near is our master? |
-| [[Grumio\|GRUMIO]] | E’en at hand, alighted by this, and therefore be not—Cock’s passion, [[Silence\|silence]]! I hear my master. Enter Petruccio and Katherine |
-| PETRUCCIO | Where be these knaves? What, no man at door To hold my stirrup nor to take my [[Horse\|horse]]? Where is Nathaniel, Gregory, Philip? |
+| [[Grumio\|GRUMIO]] | E’en at hand, alighted by this, and therefore be not—Cock’s passion, [[Silence\|silence]]! I hear my master. |
+| *(didascalia)* | Enter Petruccio and Katherine |
+| PETRUCCIO | Where be these knaves? What, no man at door<br>To hold my stirrup nor to take my [[Horse\|horse]]?<br>Where is Nathaniel, Gregory, Philip? |
 | ALL SERVANTS | Here, here sir, here sir. |
-| PETRUCCIO | Here sir, here sir, here sir, here sir! You logger-headed and unpolished grooms, What! No attendance! No regard! No duty! Where is the foolish knave I sent before? |
+| PETRUCCIO | Here sir, here sir, here sir, here sir!<br>You logger-headed and unpolished grooms,<br>What! No attendance! No regard! No duty!<br>Where is the foolish knave I sent before? |
 | [[Grumio\|GRUMIO]] | Here, sir, as foolish as I was before. |
-| PETRUCCIO | You peasant swain, you whoreson, malthorse drudge, Did I not bid thee meet me in the park And bring along these rascal knaves with thee? |
-| [[Grumio\|GRUMIO]] | Nathaniel’s coat, sir, was not fully made, And Gabriel’s pumps were all unpinked i‘th’ heel. There was no link to colour Peter’s hat, And Walter’s dagger was not come from sheathing. There were none fine but Adam, Ralph, and Gregory. The rest were ragged, old, and beggarly. Yet as they are, here are they come to meet you. |
-| PETRUCCIO | Go, rascals, go and fetch my supper in. Exeunt servants (Sings) ‘Where is the life that late I led? Where are those—’ Sit down, Kate, and welcome. Soud, soud, soud, soud. Enter servants with supper Why, when, I say?—Nay, good sweet Kate, be merry.— Off with my boots, you rogues, you villains. When? (Sings) ‘It was the friar of orders gray, As he forth walked on his way.’ Out, you rogue, you pluck my foot awry. (Kicking a servant) Take that, and mend the plucking of the other. Be merry, Kate. (Calling) Some [[Water\|water]], here. What, hoa! Enter one with [[Water\|water]] Where’s my spaniel [[Troilus]]? Sirrah, get you hence, And bid my cousin [[Ferdinand]] come hither— One, Kate, that you must kiss and be acquainted with. (Calling) Where are my slippers? Shall I have some [[Water\|water]]? Come, Kate, and wash, and welcome heartily. [A servant drops [[Water\|water]]] You whoreson [[Villain\|villain]], will you let it fall? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--03_exchange_katherine" data-title="The Taming of the Shrew — Act IV, Scene 1 — exchange (KATHERINE) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| PETRUCCIO | You peasant swain, you whoreson, malthorse drudge,<br>Did I not bid thee meet me in the park<br>And bring along these rascal knaves with thee? |
+| [[Grumio\|GRUMIO]] | Nathaniel’s coat, sir, was not fully made,<br>And Gabriel’s pumps were all unpinked i‘th’ heel.<br>There was no link to colour Peter’s hat,<br>And Walter’s dagger was not come from sheathing.<br>There were none fine but Adam, Ralph, and Gregory.<br>The rest were ragged, old, and beggarly.<br>Yet as they are, here are they come to meet you. |
+| PETRUCCIO | Go, rascals, go and fetch my supper in. |
+| *(didascalia)* | Exeunt servants |
+| PETRUCCIO | (Sings)<br>‘Where is the life that late I led?<br>Where are those—’<br>Sit down, Kate, and welcome. Soud, soud, soud, soud. |
+| *(didascalia)* | Enter servants with supper |
+| PETRUCCIO | Why, when, I say?—Nay, good sweet Kate, be merry.—<br>Off with my boots, you rogues, you villains. When?<br>(Sings)<br>‘It was the friar of orders gray,<br>As he forth walked on his way.’<br>Out, you rogue, you pluck my foot awry.<br>(Kicking a servant) Take that, and mend the plucking of the other.<br>Be merry, Kate. (Calling) Some [[Water\|water]], here. What, hoa! |
+| *(didascalia)* | Enter one with [[Water\|water]] |
+| PETRUCCIO | Where’s my spaniel [[Troilus]]? Sirrah, get you hence,<br>And bid my cousin [[Ferdinand]] come hither—<br>One, Kate, that you must kiss and be acquainted with.<br>(Calling) Where are my slippers? Shall I have some [[Water\|water]]?<br>Come, Kate, and wash, and welcome heartily.<br>[A servant drops [[Water\|water]]]<br>You whoreson [[Villain\|villain]], will you let it fall? |
 | KATHERINE | Patience, I pray you, ‘twas a fault unwilling. |
 | PETRUCCIO | A whoreson, beetle-headed, flap-eared knave. Come, Kate, sit down, I know you have a stomach. Will you give thanks, sweet Kate, or else shall I? 145 What’s this—mutton? |
 | FIRST SERVINGMAN | Ay. |
 | PETRUCCIO | Who brought it? |
 | PETER | I. |
-| PETRUCCIO | ’Tis burnt, and so is all the meat. What [[dogs]] are these? Where is the rascal cook? How durst you villains bring it from the dresser And serve it thus to me that [[Love\|love]] it not? There, (throwing food) take it to you, trenchers, cups, and all, You heedless jolt-heads and unmannered slaves. What, do you grumble? I’ll be with you straight. He chases the servants away |
-| KATHERINE | I pray you, husband, be not so disquiet. The meat was [[Well\|well]], if you were so contented. |
-| PETRUCCIO | I tell thee, Kate, ‘twas burnt and dried away, And I expressly am forbid to touch it, For it engenders choler, planteth anger, And better ’twere that both of us did fast, Since of ourselves ourselves are choleric, Than feed it with such overroasted flesh. Be patient, tomorrow’t shall be mended, And for this [[Night\|night]] we’ll fast for company. Come, I will bring thee to thy bridal chamber. Exeunt Enter servants severally |
+| PETRUCCIO | ’Tis burnt, and so is all the meat.<br>What [[dogs]] are these? Where is the rascal cook?<br>How durst you villains bring it from the dresser<br>And serve it thus to me that [[Love\|love]] it not?<br>There, (throwing food) take it to you, trenchers, cups,<br>and all,<br>You heedless jolt-heads and unmannered slaves.<br>What, do you grumble? I’ll be with you straight.<br>He chases the servants away |
+| KATHERINE | I pray you, husband, be not so disquiet.<br>The meat was [[Well\|well]], if you were so contented. |
+| PETRUCCIO | I tell thee, Kate, ‘twas burnt and dried away,<br>And I expressly am forbid to touch it,<br>For it engenders choler, planteth anger,<br>And better ’twere that both of us did fast,<br>Since of ourselves ourselves are choleric,<br>Than feed it with such overroasted flesh.<br>Be patient, tomorrow’t shall be mended,<br>And for this [[Night\|night]] we’ll fast for company.<br>Come, I will bring thee to thy bridal chamber. Exeunt |
+| *(didascalia)* | Enter servants severally |
 | NATHANIEL | Peter, didst ever see the like? |
-| PETER | He kills her in her own [[Humour\|humour]]. Enter Curtis, a servant |
+| PETER | He kills her in her own [[Humour\|humour]]. |
+| *(didascalia)* | Enter Curtis, a servant |
 | [[Grumio\|GRUMIO]] | Where is he? |
-| CURTIS | In her chamber, Making a sermon of continency to her, And rails, and swears, and rates, that she, poor [[Soul\|soul]], Knows not which way to stand, to look, to speak, And sits as one new risen from [[A Dream\|a dream]]. Away, away, for he is coming hither. Exeunt Enter Petruccio |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--04_monologue_petruccio" data-title="The Taming of the Shrew — Act IV, Scene 1 — monologue (PETRUCCIO) [4]" data-chapter="Scene 1" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PETRUCCIO | Thus have I politicly begun my reign, And ‘tis my [[Hope\|hope]] to end successfully. My falcon now is sharp and passing empty, And till she stoop she must not be full-gorged, For then she never looks upon her lure. Another way I have to man my haggard, To make her come and know her keeper’s call— That is, to watch her as we watch these kites That bate and beat, and will not be obedient. She ate no meat today, nor none shall eat. Last [[Night\|night]] she slept not, nor tonight she shall not. As with the meat, some undeserved fault I’ll find about the making of the bed, And here I’ll fling the pillow, there the bolster, This way the coverlet, another way the sheets, Ay, and amid this hurly I intend That all is done in reverent care of her, And in conclusion she shall watch all [[Night\|night]], And if she chance to nod I’ll rail and brawl And with the clamour keep her still awake. This is a way to kill a wife with kindness, And thus I’ll curb her mad and headstrong [[Humour\|humour]]. He that knows better how to tame a shrew, Now let him speak. ’Tis [[Charity\|charity]] to show. Exit |
+| CURTIS | In her chamber,<br>Making a sermon of continency to her,<br>And rails, and swears, and rates, that she, poor [[Soul\|soul]],<br>Knows not which way to stand, to look, to speak,<br>And sits as one new risen from [[A Dream\|a dream]].<br>Away, away, for he is coming hither. |
+| *(didascalia)* | Exeunt |
+| *(didascalia)* | Enter Petruccio |
+| PETRUCCIO | Thus have I politicly begun my reign,<br>And ‘tis my [[Hope\|hope]] to end successfully.<br>My falcon now is sharp and passing empty,<br>And till she stoop she must not be full-gorged,<br>For then she never looks upon her lure.<br>Another way I have to man my haggard,<br>To make her come and know her keeper’s call—<br>That is, to watch her as we watch these kites<br>That bate and beat, and will not be obedient.<br>She ate no meat today, nor none shall eat.<br>Last [[Night\|night]] she slept not, nor tonight she shall not.<br>As with the meat, some undeserved fault<br>I’ll find about the making of the bed,<br>And here I’ll fling the pillow, there the bolster,<br>This way the coverlet, another way the sheets,<br>Ay, and amid this hurly I intend<br>That all is done in reverent care of her,<br>And in conclusion she shall watch all [[Night\|night]],<br>And if she chance to nod I’ll rail and brawl<br>And with the clamour keep her still awake.<br>This is a way to kill a wife with kindness,<br>And thus I’ll curb her mad and headstrong [[Humour\|humour]].<br>He that knows better how to tame a shrew,<br>Now let him speak. ’Tis [[Charity\|charity]] to show. |
+| *(didascalia)* | Exit |
 
 
 
@@ -2222,61 +2115,57 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3--01_exchange_dialogue" data-title="The Taming of the Shrew — Act IV, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Taming of the Shrew — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Katherine and [[Grumio]] |
 | [[Grumio\|GRUMIO]] | No, no, forsooth. I dare not, for my life. |
-| KATHERINE | The more my wrong, the more his spite appears. What, did he marry me to famish me? Beggars that come unto my father’s door Upon entreaty have a present alms, If not, elsewhere they meet with [[Charity\|charity]]. But I, who never knew how to entreat, Nor never needed that I should entreat, Am starved for meat, giddy for lack of [[Sleep\|sleep]], With oaths kept waking and with brawling fed, And that which spites me more than all these wants, He does it under name of perfect [[Love\|love]], As who should say if I should [[Sleep\|sleep]] or eat ‘Twere deadly sickness, or else present [[Death\|death]]. I prithee, go and get me some repast. I care not what, so it be wholesome food. |
+| KATHERINE | The more my wrong, the more his spite appears.<br>What, did he marry me to famish me?<br>Beggars that come unto my father’s door<br>Upon entreaty have a present alms,<br>If not, elsewhere they meet with [[Charity\|charity]].<br>But I, who never knew how to entreat,<br>Nor never needed that I should entreat,<br>Am starved for meat, giddy for lack of [[Sleep\|sleep]],<br>With oaths kept waking and with brawling fed,<br>And that which spites me more than all these wants,<br>He does it under name of perfect [[Love\|love]],<br>As who should say if I should [[Sleep\|sleep]] or eat<br>‘Twere deadly sickness, or else present [[Death\|death]].<br>I prithee, go and get me some repast.<br>I care not what, so it be wholesome food. |
 | [[Grumio\|GRUMIO]] | What say you to a neat’s foot? |
 | KATHERINE | ‘Tis passing good. I prithee, let me have it. |
-| [[Grumio\|GRUMIO]] | I [[Fear\|fear]] it is too choleric a meat. How say you to a fat tripe finely broiled? |
+| [[Grumio\|GRUMIO]] | I [[Fear\|fear]] it is too choleric a meat.<br>How say you to a fat tripe finely broiled? |
 | KATHERINE | I like it [[Well\|well]]. Good [[Grumio]], fetch it me. |
-| [[Grumio\|GRUMIO]] | I cannot tell, I [[Fear\|fear]] ’tis choleric. What say you to a piece of beef, and mustard? |
+| [[Grumio\|GRUMIO]] | I cannot tell, I [[Fear\|fear]] ’tis choleric.<br>What say you to a piece of beef, and mustard? |
 | KATHERINE | A dish that I do [[Love\|love]] to feed upon. |
 | [[Grumio\|GRUMIO]] | Ay, but the mustard is too hot a little. |
 | KATHERINE | Why then, the beef, and let the mustard rest. |
-| [[Grumio\|GRUMIO]] | Nay, then I will not. You shall have the mustard, Or else you get no beef of [[Grumio]]. |
+| [[Grumio\|GRUMIO]] | Nay, then I will not. You shall have the mustard,<br>Or else you get no beef of [[Grumio]]. |
 | KATHERINE | Then both, or one, or anything thou wilt. |
 | [[Grumio\|GRUMIO]] | Why then, the mustard without the beef. |
-| KATHERINE | Go, get thee gone, thou false, deluding slave, (Beating him) That feed’st me with the very name of meat. Sorrow on thee and all the pack of you, That triumph thus upon my misery. Go, get thee gone, I say. Enter Petruccio and [[Hortensio]], with meat |
+| KATHERINE | Go, get thee gone, thou false, deluding slave,<br>(Beating him) That feed’st me with the very name of<br>meat.<br>Sorrow on thee and all the pack of you,<br>That triumph thus upon my misery.<br>Go, get thee gone, I say. |
+| *(didascalia)* | Enter Petruccio and [[Hortensio]], with meat |
 | PETRUCCIO | How fares my Kate? What, sweeting, all amort? |
 | [[Hortensio\|HORTENSIO]] | Mistress, what cheer? |
 | KATHERINE | [[Faith]], as cold as can be. |
-| PETRUCCIO | Pluck up thy spirits, look cheerfully upon me. Here, [[Love\|love]], thou seest how diligent I am To dress thy meat myself and bring it thee. 40 I am sure, sweet Kate, this kindness merits thanks. What, not a word? Nay then, thou lov’st it not, And all my pains is sorted to no proof. Here, take away this dish. |
+| PETRUCCIO | Pluck up thy spirits, look cheerfully upon me.<br>Here, [[Love\|love]], thou seest how diligent I am<br>To dress thy meat myself and bring it thee. 40<br>I am sure, sweet Kate, this kindness merits thanks.<br>What, not a word? Nay then, thou lov’st it not,<br>And all my pains is sorted to no proof.<br>Here, take away this dish. |
 | KATHERINE | I pray you, let it stand. |
-| PETRUCCIO | The poorest service is repaid with thanks, And so shall mine before you touch the meat. |
+| PETRUCCIO | The poorest service is repaid with thanks,<br>And so shall mine before you touch the meat. |
 | KATHERINE | I thank you, sir. |
-| [[Hortensio\|HORTENSIO]] | Signor Petruccio, fie, you are to blame. Come, Mistress Kate, I’ll bear you company. |
-| PETRUCCIO | (aside) Eat it up all, [[Hortensio]], if thou lov’st me. (To Katherine) Much good do it unto thy gentle heart. Kate, eat apace; and now, my honey [[Love\|love]], Will we return unto thy father’s [[house]], And revel it as bravely as the best, With silken coats, and caps, and golden rings, With ruffs, and cuffs, and farthingales, and things, With scarves, and fans, and [[Double\|double]] change of bravery, With amber bracelets, beads, and all this knavery. What, hast thou dined? The tailor stays thy leisure, To deck thy [[Body\|body]] with his ruffling treasure. Enter Tailor with a gown Come, tailor, let us see these ornaments. Lay forth the gown. Enter Haberdasher with a cap What news with you, sir? |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--02_exchange_haberdasher" data-title="The Taming of the Shrew — Act IV, Scene 3 — exchange (HABERDASHER) [2]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Hortensio\|HORTENSIO]] | Signor Petruccio, fie, you are to blame.<br>Come, Mistress Kate, I’ll bear you company. |
+| PETRUCCIO | (aside)<br>Eat it up all, [[Hortensio]], if thou lov’st me.<br>(To Katherine) Much good do it unto thy gentle heart.<br>Kate, eat apace; and now, my honey [[Love\|love]],<br>Will we return unto thy father’s [[house]],<br>And revel it as bravely as the best,<br>With silken coats, and caps, and golden rings,<br>With ruffs, and cuffs, and farthingales, and things,<br>With scarves, and fans, and [[Double\|double]] change of<br>bravery,<br>With amber bracelets, beads, and all this knavery.<br>What, hast thou dined? The tailor stays thy leisure,<br>To deck thy [[Body\|body]] with his ruffling treasure. |
+| *(didascalia)* | Enter Tailor with a gown |
+| PETRUCCIO | Come, tailor, let us see these ornaments.<br>Lay forth the gown. |
+| *(didascalia)* | Enter Haberdasher with a cap |
+| PETRUCCIO | What news with you, sir? |
 | HABERDASHER | Here is the cap your worship did bespeak. |
-| PETRUCCIO | Why, this was moulded on a porringer— A velvet dish. Fie, fie, ‘tis lewd and filthy. Why, ’tis a cockle or a walnut-shell, A knack, a toy, a trick, a baby’s cap. Away with it! Come, let me have a bigger. |
-| KATHERINE | I’ll have no bigger. This doth fit the [[Time\|time]], And gentlewomen wear such caps as these. |
-| PETRUCCIO | When you are gentle you shall have one, too, And not till then. |
+| PETRUCCIO | Why, this was moulded on a porringer—<br>A velvet dish. Fie, fie, ‘tis lewd and filthy.<br>Why, ’tis a cockle or a walnut-shell,<br>A knack, a toy, a trick, a baby’s cap.<br>Away with it! Come, let me have a bigger. |
+| KATHERINE | I’ll have no bigger. This doth fit the [[Time\|time]],<br>And gentlewomen wear such caps as these. |
+| PETRUCCIO | When you are gentle you shall have one, too,<br>And not till then. |
 | [[Hortensio\|HORTENSIO]] | (aside) That will not be in haste. |
-| KATHERINE | Why, sir, I trust I may have leave to speak, And speak I will. I am no [[Child\|child]], no babe. Your betters have endured me say my mind, And if you cannot, best you stop your ears. My tongue will tell the anger of my heart, Or else my heart concealing it will break, And rather than it shall I will be free Even to the uttermost as I please in words. |
-| PETRUCCIO | Why, thou sayst true. It is a paltry cap, A custard-coffin, a bauble, a silken pie. I [[Love\|love]] thee [[Well\|well]] in that thou lik’st it not. |
-| KATHERINE | [[Love]] me or [[Love\|love]] me not, I like the cap And it I will have, or I will have none. [Exit Haberdasher] |
-| PETRUCCIO | Thy gown? Why, ay. Come, tailor, let us see’t. O [[Mercy\|mercy]], God, what masquing stuff is here? What’s this—a sleeve? ‘Tis like a demi-cannon. What, up and down carved like an apple-tart? Here’s snip, and nip, and cut, and slish and slash, Like to a scissor in a barber’s shop. Why, what o’ devil’s name, tailor, call’st thou this? |
-| [[Hortensio\|HORTENSIO]] | (aside) I see she’s like to have nor cap nor gown. |
-| TAILOR | You bid me make it orderly and [[Well\|well]], According to the fashion and the [[Time\|time]]. |
-| PETRUCCIO | Marry, and did, but if you be remembered I did not bid you mar it to the [[Time\|time]]. Go hop me over every kennel [[Home\|home]], For you shall hop without my custom, sir. I’ll none of it. Hence, make your best of it. |
-| KATHERINE | I never saw a better fashioned gown, More quaint, more pleasing, nor more commendable. Belike you mean to make a puppet of me. |
+| KATHERINE | Why, sir, I trust I may have leave to speak,<br>And speak I will. I am no [[Child\|child]], no babe.<br>Your betters have endured me say my mind,<br>And if you cannot, best you stop your ears.<br>My tongue will tell the anger of my heart,<br>Or else my heart concealing it will break,<br>And rather than it shall I will be free<br>Even to the uttermost as I please in words. |
+| PETRUCCIO | Why, thou sayst true. It is a paltry cap,<br>A custard-coffin, a bauble, a silken pie.<br>I [[Love\|love]] thee [[Well\|well]] in that thou lik’st it not. |
+| KATHERINE | [[Love]] me or [[Love\|love]] me not, I like the cap<br>And it I will have, or I will have none.<br>[Exit Haberdasher] |
+| PETRUCCIO | Thy gown? Why, ay. Come, tailor, let us see’t.<br>O [[Mercy\|mercy]], God, what masquing stuff is here?<br>What’s this—a sleeve? ‘Tis like a demi-cannon.<br>What, up and down carved like an apple-tart?<br>Here’s snip, and nip, and cut, and slish and slash,<br>Like to a scissor in a barber’s shop.<br>Why, what o’ devil’s name, tailor, call’st thou this? |
+| [[Hortensio\|HORTENSIO]] | (aside)<br>I see she’s like to have nor cap nor gown. |
+| TAILOR | You bid me make it orderly and [[Well\|well]],<br>According to the fashion and the [[Time\|time]]. |
+| PETRUCCIO | Marry, and did, but if you be remembered<br>I did not bid you mar it to the [[Time\|time]].<br>Go hop me over every kennel [[Home\|home]],<br>For you shall hop without my custom, sir.<br>I’ll none of it. Hence, make your best of it. |
+| KATHERINE | I never saw a better fashioned gown,<br>More quaint, more pleasing, nor more commendable.<br>Belike you mean to make a puppet of me. |
 | PETRUCCIO | Why true, he means to make a puppet of thee. |
 | TAILOR | She says your worship means to make a puppet of her. |
-| PETRUCCIO | O monstrous arrogance! Thou liest, thou thread, thou thimble, Thou yard, three-quarters, half-yard, quarter, nail, Thou flea, thou nit, thou [[Winter\|winter]]-cricket, thou. Braved in mine own [[house]] with a skein of thread! Away, thou rag, thou quantity, thou remnant, Or I shall so bemete thee with thy yard As thou shalt think on prating whilst thou liv’st. I tell thee, I, that thou hast marred her gown. |
-| TAILOR | Your worship is deceived. The gown is made Just as my master had direction. [[Grumio]] gave order how it should be done. |
+| PETRUCCIO | O monstrous arrogance! Thou liest, thou thread, thou<br>thimble,<br>Thou yard, three-quarters, half-yard, quarter, nail,<br>Thou flea, thou nit, thou [[Winter\|winter]]-cricket, thou.<br>Braved in mine own [[house]] with a skein of thread!<br>Away, thou rag, thou quantity, thou remnant,<br>Or I shall so bemete thee with thy yard<br>As thou shalt think on prating whilst thou liv’st.<br>I tell thee, I, that thou hast marred her gown. |
+| TAILOR | Your worship is deceived. The gown is made<br>Just as my master had direction.<br>[[Grumio]] gave order how it should be done. |
 | [[Grumio\|GRUMIO]] | I gave him no order, I gave him the stuff. |
 | TAILOR | But how did you [[Desire\|desire]] it should be made? |
 | [[Grumio\|GRUMIO]] | Marry, sir, with needle and thread. |
@@ -2284,15 +2173,6 @@ Bartholomew sits
 | [[Grumio\|GRUMIO]] | Thou hast faced many things. |
 | TAILOR | I have. |
 | [[Grumio\|GRUMIO]] | Face not me. Thou hast braved many men. Brave not me. I will neither be faced nor braved. I say unto thee I bid thy master cut out the gown, but I did not bid him cut it to pieces. Ergo thou liest. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--03_exchange_tailor" data-title="The Taming of the Shrew — Act IV, Scene 3 — exchange (TAILOR) [3]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | TAILOR | (showing a paper) Why, here is the note of the fashion, to testify. |
 | PETRUCCIO | Read it. |
 | [[Grumio\|GRUMIO]] | The note lies in’s throat if he say I said so. |
@@ -2311,25 +2191,18 @@ Bartholomew sits
 | [[Hortensio\|HORTENSIO]] | Godamercy, [[Grumio]], then he shall have no odds. |
 | PETRUCCIO | [[Well]], sir, in brief, the gown is not for me. |
 | [[Grumio\|GRUMIO]] | You are i‘th’ right, sir. ‘Tis for my mistress. |
-| PETRUCCIO | (to the Tailor) Go, take it up unto thy master’s use. |
+| PETRUCCIO | (to the Tailor)<br>Go, take it up unto thy master’s use. |
 | [[Grumio\|GRUMIO]] | (to the Tailor) [[Villain]], not for thy life. Take up my mistress’ gown for thy master’s use! |
 | PETRUCCIO | Why, sir, what’s your conceit in that? |
 | [[Grumio\|GRUMIO]] | O, sir, the conceit is deeper than you think for. ‘Take up my mistress’ gown to his master’s use’—O fie, fie, fie! |
-| PETRUCCIO | (aside) [[Hortensio]], say thou wilt see the tailor paid. (To the Tailor) Go, take it hence. Be gone, and say no more. |
-| [[Hortensio\|HORTENSIO]] | (aside to the Tailor) Tailor, I’ll pay thee for thy gown tomorrow. Take no unkindness of his hasty words. Away, I say. Commend me to thy master. Exit Tailor |
-| PETRUCCIO | [[Well]], come, my Kate. We will unto your father’s Even in these honest, mean habiliments. Our purses shall be proud, our garments poor, For ‘tis the mind that makes the [[Body\|body]] rich, And as the sun breaks through the darkest clouds, So [[Honour\|honour]] peereth in the meanest habit. What, is the jay more precious than the lark Because his feathers are more beautiful? Or is the adder better than the eel Because his painted skin contents the eye? O no, good Kate, neither art thou the worse For this poor furniture and mean array. If thou account’st it shame, lay it on me, And therefore frolic; we will hence forthwith To feast and sport us at thy father’s [[house]]. Go call my men, and let us straight to him, And bring our horses unto Long Lane end. There will we mount, and thither walk on foot. Let’s see, I think ’tis now some seven o’[[Clock\|clock]], And [[Well\|well]] we may come there by dinner-[[Time\|time]]. |
-| KATHERINE | I dare assure you, sir, ’tis almost two, And ’twill be supper-[[Time\|time]] ere you come there. |
-| PETRUCCIO | It shall be seven ere I go to [[Horse\|horse]]. Look what I speak, or do, or think to do, You are still crossing it. Sirs, let’t [[Alone\|alone]]. I will not go today, and ere I do It shall be what o’[[Clock\|clock]] I say it is. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_3--04_exchange_hortensio" data-title="The Taming of the Shrew — Act IV, Scene 3 — exchange (HORTENSIO) [4]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hortensio\|HORTENSIO]] | (aside) Why, so this gallant will command the sun. Exeunt |
+| PETRUCCIO | (aside)<br>[[Hortensio]], say thou wilt see the tailor paid.<br>(To the Tailor) Go, take it hence. Be gone, and say no<br>more. |
+| [[Hortensio\|HORTENSIO]] | (aside to the Tailor)<br>Tailor, I’ll pay thee for thy gown tomorrow.<br>Take no unkindness of his hasty words.<br>Away, I say. Commend me to thy master. |
+| *(didascalia)* | Exit Tailor |
+| PETRUCCIO | [[Well]], come, my Kate. We will unto your father’s<br>Even in these honest, mean habiliments.<br>Our purses shall be proud, our garments poor,<br>For ‘tis the mind that makes the [[Body\|body]] rich,<br>And as the sun breaks through the darkest clouds,<br>So [[Honour\|honour]] peereth in the meanest habit.<br>What, is the jay more precious than the lark<br>Because his feathers are more beautiful?<br>Or is the adder better than the eel<br>Because his painted skin contents the eye?<br>O no, good Kate, neither art thou the worse<br>For this poor furniture and mean array.<br>If thou account’st it shame, lay it on me,<br>And therefore frolic; we will hence forthwith<br>To feast and sport us at thy father’s [[house]].<br>Go call my men, and let us straight to him,<br>And bring our horses unto Long Lane end.<br>There will we mount, and thither walk on foot.<br>Let’s see, I think ’tis now some seven o’[[Clock\|clock]],<br>And [[Well\|well]] we may come there by dinner-[[Time\|time]]. |
+| KATHERINE | I dare assure you, sir, ’tis almost two,<br>And ’twill be supper-[[Time\|time]] ere you come there. |
+| PETRUCCIO | It shall be seven ere I go to [[Horse\|horse]].<br>Look what I speak, or do, or think to do,<br>You are still crossing it. Sirs, let’t [[Alone\|alone]].<br>I will not go today, and ere I do<br>It shall be what o’[[Clock\|clock]] I say it is. |
+| [[Hortensio\|HORTENSIO]] | (aside)<br>Why, so this gallant will command the sun. |
+| *(didascalia)* | Exeunt |
 
 
 
@@ -2435,7 +2308,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="The Taming of the Shrew — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Taming of the Shrew — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
@@ -2443,11 +2316,13 @@ Bartholomew sits
 | *(didascalia)* | Enter Biondello, [[Lucentio]], and [[Bianca]]. Gremio is out before |
 | BIONDELLO | Softly and swiftly, sir, for the priest is ready. |
 | [[Lucentio\|LUCENTIO]] | I fly, Biondello; but they may chance to need thee at [[Home\|home]], therefore leave us. |
-| BIONDELLO | Nay, [[Faith\|faith]], I’ll see the church a’ your back and then come back to my master’s as soon as I can. Exeunt [[Lucentio]], [[Bianca]], and Biondello |
-| GREMIO | I marvel Cambio comes not all this while. Enter Petruccio, Katherine, Vincentio, [[Grumio]], with attendants |
-| PETRUCCIO | Sir, here’s the door. This is [[Lucentio]]’s [[house]]. My father’s bears more toward the market-place. Thither must I, and here I leave you, sir. |
-| VINCENTIO | You shall not choose but drink before you go. I think I shall command your welcome here, And by all likelihood some cheer is toward. He knocks |
-| GREMIO | They’re busy within. You were best knock louder. Vincentio knocks again. The Pedant looks out of the [[Window\|window]] |
+| BIONDELLO | Nay, [[Faith\|faith]], I’ll see the church a’ your back and then come back to my master’s as soon as I can. |
+| *(didascalia)* | Exeunt [[Lucentio]], [[Bianca]], and Biondello |
+| GREMIO | I marvel Cambio comes not all this while. |
+| *(didascalia)* | Enter Petruccio, Katherine, Vincentio, [[Grumio]], with attendants |
+| PETRUCCIO | Sir, here’s the door. This is [[Lucentio]]’s [[house]].<br>My father’s bears more toward the market-place.<br>Thither must I, and here I leave you, sir. |
+| VINCENTIO | You shall not choose but drink before you go.<br>I think I shall command your welcome here,<br>And by all likelihood some cheer is toward.<br>He knocks |
+| GREMIO | They’re busy within. You were best knock louder.<br>Vincentio knocks again. The Pedant looks out of the [[Window\|window]] |
 | PEDANT | What’s he that knocks as he would beat down the gate? |
 | VINCENTIO | Is Signor [[Lucentio]] within, sir? |
 | PEDANT | He’s within, sir, but not to be spoken withal. |
@@ -2458,7 +2333,8 @@ Bartholomew sits
 | VINCENTIO | Art thou his father? |
 | PEDANT | Ay, sir, so his mother says, if I may believe her. |
 | PETRUCCIO | (to Vincentio) Why, how now, gentleman?Why, this is flat knavery, to take upon you another man’s name. |
-| PEDANT | Lay hands on the [[Villain\|villain]]. I believe a means to cozen somebody in this [[City\|city]] under my countenance. Enter Biondello |
+| PEDANT | Lay hands on the [[Villain\|villain]]. I believe a means to cozen somebody in this [[City\|city]] under my countenance. |
+| *(didascalia)* | Enter Biondello |
 | BIONDELLO | (aside) I have seen them in the church together, God send ’em good shipping. But who is here? Mine old master, Vincentio—now we are undone and brought to nothing. |
 | VINCENTIO | (to Biondello) Come hither, crackhemp. |
 | BIONDELLO | I [[Hope\|hope]] I may choose, sir. |
@@ -2466,20 +2342,15 @@ Bartholomew sits
 | BIONDELLO | Forgot you? No, sir, I could not forget you, for I never saw you before in all my life. |
 | VINCENTIO | What, you notorious [[Villain\|villain]], didst thou never see thy master’s father, Vincentio? |
 | BIONDELLO | What, my old worshipful old master? Yes, marry, sir, see where he looks out of the [[Window\|window]]. |
-| VINCENTIO | Is’t so indeed? He beats Biondello |
-| BIONDELLO | Help, help, help! Here’s a madman will murder me. Exit |
-| PEDANT | Help, son! Help, Signor [[Baptista]]! Exit above |
-| PETRUCCIO | Prithee, Kate, let’s stand aside and see the end of this controversy. They stand aside. Enter Pedant with servants, [[Baptista]], [[Tranio]] as [[Lucentio]] |
+| VINCENTIO | Is’t so indeed?<br>He beats Biondello |
+| BIONDELLO | Help, help, help! Here’s a madman will murder me. |
+| *(didascalia)* | Exit |
+| PEDANT | Help, son! Help, Signor [[Baptista]]! |
+| *(didascalia)* | Exit above |
+| PETRUCCIO | Prithee, Kate, let’s stand aside and see the end of this controversy.<br>They stand aside. |
+| *(didascalia)* | Enter Pedant with servants, [[Baptista]], [[Tranio]] |
+| PETRUCCIO | as [[Lucentio]] |
 | [[Tranio\|TRANIO]] | (to Vincentio) Sir, what are you that offer to beat my servant? |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_exchange_vincentio" data-title="The Taming of the Shrew — Act V, Scene 1 — exchange (VINCENTIO) [2]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | VINCENTIO | What am I, sir? Nay, what are you, sir? O immortal gods, O fine [[Villain\|villain]], a silken doublet, a velvet hose, a scarlet cloak, and a copintank hat—O, I am undone, I am undone! While I play the good husband at [[Home\|home]], my son and my servant spend all at the university. |
 | [[Tranio\|TRANIO]] | How now, what’s the matter? |
 | [[Baptista\|BAPTISTA]] | What, is the man lunatic? |
@@ -2489,7 +2360,9 @@ Bartholomew sits
 | VINCENTIO | His name? As if I knew not his name—I have brought him up ever since he was three years old, and his name is [[Tranio]]. |
 | PEDANT | Away, away, mad ass. His name is [[Lucentio]], and he is mine only son, and heir to the lands of me, Signor Vincentio. |
 | VINCENTIO | [[Lucentio]]? O, he hath murdered his master! Lay hold on him, I charge you, in the Duke’s name. O my son, my son! Tell me, thou [[Villain\|villain]], where is my son [[Lucentio]]? |
-| [[Tranio\|TRANIO]] | Call forth an officer. Enter an Officer Carry this mad knave to the jail. Father [[Baptista]], I charge you see that he be forthcoming. |
+| [[Tranio\|TRANIO]] | Call forth an officer. |
+| *(didascalia)* | Enter an Officer |
+| [[Tranio\|TRANIO]] | Carry this mad knave to the jail. Father [[Baptista]], I<br>charge you see that he be forthcoming. |
 | VINCENTIO | Carry me to the jail? |
 | GREMIO | Stay, officer, he shall not go to [[Prison\|prison]]. |
 | [[Baptista\|BAPTISTA]] | Talk not, Signor Gremio. I say he shall go to [[Prison\|prison]]. |
@@ -2498,34 +2371,30 @@ Bartholomew sits
 | GREMIO | Nay, I dare not swear it. |
 | [[Tranio\|TRANIO]] | Then thou wert best say that I am not [[Lucentio]]. |
 | GREMIO | Yes, I know thee to be Signor [[Lucentio]]. |
-| [[Baptista\|BAPTISTA]] | Away with the dotard. To the jail with him. Enter Biondello, [[Lucentio]], and [[Bianca]] |
+| [[Baptista\|BAPTISTA]] | Away with the dotard. To the jail with him. |
+| *(didascalia)* | Enter Biondello, [[Lucentio]], and [[Bianca]] |
 | VINCENTIO | Thus strangers may be haled and abused. O monstrous [[Villain\|villain]]! |
-| BIONDELLO | O, we are spoiled and—yonder he is. Deny him, forswear him, or else we are all undone. Exeunt Biondello, [[Tranio]], and Pedant, as fast as may be |
-| [[Lucentio\|LUCENTIO]] | (to Vincentio) Pardon, sweet father. He kneels |
+| BIONDELLO | O, we are spoiled and—yonder he is. Deny him, forswear him, or else we are all undone. |
+| *(didascalia)* | Exeunt Biondello, [[Tranio]], and Pedant, as fast as may be |
+| [[Lucentio\|LUCENTIO]] | (to Vincentio) Pardon, sweet father.<br>He kneels |
 | VINCENTIO | Lives my sweet son? |
 | [[Bianca\|BIANCA]] | (to [[Baptista]]) Pardon, dear father. |
 | [[Baptista\|BAPTISTA]] | How hast thou offended? Where is [[Lucentio]]? |
-| [[Lucentio\|LUCENTIO]] | Here’s [[Lucentio]], right son to the right Vincentio, That have by [[Marriage\|marriage]] made thy daughter mine, While counterfeit supposes bleared thine eyne. |
+| [[Lucentio\|LUCENTIO]] | Here’s [[Lucentio]], right son to the right Vincentio,<br>That have by [[Marriage\|marriage]] made thy daughter mine,<br>While counterfeit supposes bleared thine eyne. |
 | GREMIO | Here’s packing with a witness, to deceive us all. |
-| VINCENTIO | Where is that damned [[Villain\|villain]] [[Tranio]], That faced and braved me in this matter so? |
+| VINCENTIO | Where is that damned [[Villain\|villain]] [[Tranio]],<br>That faced and braved me in this matter so? |
 | [[Baptista\|BAPTISTA]] | Why, tell me, is not this my Cambio? |
 | [[Bianca\|BIANCA]] | Cambio is changed into [[Lucentio]]. |
-| [[Lucentio\|LUCENTIO]] | [[Love]] wrought these miracles. [[Bianca]]’s [[Love\|love]] Made me exchange my state with [[Tranio]] While he did bear my countenance in the town, And happily I have arrived at the last Unto the wished haven of my bliss. What [[Tranio]] did, myself enforced him to. Then pardon him, sweet father, for my sake. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_exchange_vincentio" data-title="The Taming of the Shrew — Act V, Scene 1 — exchange (VINCENTIO) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Lucentio\|LUCENTIO]] | [[Love]] wrought these miracles. [[Bianca]]’s [[Love\|love]]<br>Made me exchange my state with [[Tranio]]<br>While he did bear my countenance in the town,<br>And happily I have arrived at the last<br>Unto the wished haven of my bliss.<br>What [[Tranio]] did, myself enforced him to.<br>Then pardon him, sweet father, for my sake. |
 | VINCENTIO | I’ll slit the [[Villain\|villain]]’s nose that would have sent me to the jail. |
 | [[Baptista\|BAPTISTA]] | But do you hear, sir, have you married my daughter without asking my good will? 125 |
-| VINCENTIO | [[Fear]] not, [[Baptista]]. We will content you. Go to, but I will in to be revenged for this villainy. Exit |
+| VINCENTIO | [[Fear]] not, [[Baptista]]. We will content you. Go to, but I will in to be revenged for this villainy. |
+| *(didascalia)* | Exit |
 | [[Baptista\|BAPTISTA]] | And I to sound the depth of this knavery. Exit |
-| [[Lucentio\|LUCENTIO]] | Look not pale, [[Bianca]]. Thy father will not frown. Exeunt [[Lucentio]] and [[Bianca]] |
-| GREMIO | My cake is dough, but I’ll in among the rest, Out of [[Hope\|hope]] of all but my share of the feast. Exit |
+| [[Lucentio\|LUCENTIO]] | Look not pale, [[Bianca]]. Thy father will not frown. |
+| *(didascalia)* | Exeunt [[Lucentio]] and [[Bianca]] |
+| GREMIO | My cake is dough, but I’ll in among the rest,<br>Out of [[Hope\|hope]] of all but my share of the feast. |
+| *(didascalia)* | Exit |
 | KATHERINE | (coming forward) Husband, let’s follow to see the end of this ado. |
 | PETRUCCIO | First kiss me, Kate, and we will. |
 | KATHERINE | What, in the midst of the street? |
@@ -2533,25 +2402,26 @@ Bartholomew sits
 | KATHERINE | No, sir, God forbid; but ashamed to kiss. |
 | PETRUCCIO | Why then, let’s [[Home\|home]] again. Come sirrah, let’s away. |
 | KATHERINE | Nay, I will give thee a kiss. Now pray thee [[Love\|love]], stay. They kiss |
-| PETRUCCIO | Is not this [[Well\|well]]? Come, my sweet Kate. Better once than never, for never too late. Exeunt |
+| PETRUCCIO | Is not this [[Well\|well]]? Come, my sweet Kate.<br>Better once than never, for never too late. |
+| *(didascalia)* | Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="The Taming of the Shrew — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="The Taming of the Shrew — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Baptista]], Vincentio, Gremio, the Pedant, [[Lucentio]] and [[Bianca]], Petruccio, Katherine, and [[Hortensio]], [[Tranio]], Biondello, [[Grumio]], and the Widow, the servingmen with [[Tranio]] bringing in a banquet |
-| [[Lucentio\|LUCENTIO]] | At last, though long, our jarring notes agree, And [[Time\|time]] it is when raging war is done To smile at scapes and perils overblown. My fair [[Bianca]], bid my father welcome, While I with selfsame kindness welcome thine. Brother Petruccio, sister [[Katherina]], And thou, [[Hortensio]], with thy loving widow, Feast with the best, and welcome to my [[house]]. My banquet is to close our stomachs up After our great good cheer. Pray you, sit down, For now we sit to chat as [[Well\|well]] as eat. They sit |
+| [[Lucentio\|LUCENTIO]] | At last, though long, our jarring notes agree,<br>And [[Time\|time]] it is when raging war is done<br>To smile at scapes and perils overblown.<br>My fair [[Bianca]], bid my father welcome,<br>While I with selfsame kindness welcome thine.<br>Brother Petruccio, sister [[Katherina]],<br>And thou, [[Hortensio]], with thy loving widow,<br>Feast with the best, and welcome to my [[house]].<br>My banquet is to close our stomachs up<br>After our great good cheer. Pray you, sit down,<br>For now we sit to chat as [[Well\|well]] as eat.<br>They sit |
 | PETRUCCIO | Nothing but sit, and sit, and eat, and eat. |
 | [[Baptista\|BAPTISTA]] | Padua affords this kindness, son Petruccio. |
 | PETRUCCIO | Padua affords nothing but what is kind. |
 | [[Hortensio\|HORTENSIO]] | For both our sakes I would that word were true. 15 |
 | PETRUCCIO | Now, for my life, [[Hortensio]] fears his widow. |
 | WIDOW | Then never trust me if I be afeard. |
-| PETRUCCIO | You are very sensible, and yet you miss my sense. I mean [[Hortensio]] is afeard of you. |
+| PETRUCCIO | You are very sensible, and yet you miss my sense.<br>I mean [[Hortensio]] is afeard of you. |
 | WIDOW | He that is giddy thinks the world turns round. |
 | PETRUCCIO | Roundly replied. |
 | KATHERINE | Mistress, how mean you that? |
@@ -2559,8 +2429,8 @@ Bartholomew sits
 | PETRUCCIO | Conceives by me! How likes [[Hortensio]] that? |
 | [[Hortensio\|HORTENSIO]] | My widow says thus she conceives her tale. |
 | PETRUCCIO | Very [[Well\|well]] mended. Kiss him for that, good widow. |
-| KATHERINE | ‘He that is giddy thinks the world turns round’— I pray you tell me what you meant by that. |
-| WIDOW | Your husband, being troubled with a shrew, Measures my husband’s sorrow by his woe. And now you know my meaning. |
+| KATHERINE | ‘He that is giddy thinks the world turns round’—<br>I pray you tell me what you meant by that. |
+| WIDOW | Your husband, being troubled with a shrew,<br>Measures my husband’s sorrow by his woe.<br>And now you know my meaning. |
 | KATHERINE | A very mean meaning. |
 | WIDOW | Right, I mean you. |
 | KATHERINE | And I am mean indeed respecting you. |
@@ -2568,183 +2438,130 @@ Bartholomew sits
 | [[Hortensio\|HORTENSIO]] | To her, widow! |
 | PETRUCCIO | A hundred marks my Kate does put her down. |
 | [[Hortensio\|HORTENSIO]] | That’s my office. |
-| PETRUCCIO | Spoke like an officer! Ha’ to thee, lad. He drinks to [[Hortensio]] |
+| PETRUCCIO | Spoke like an officer! Ha’ to thee, lad.<br>He drinks to [[Hortensio]] |
 | [[Baptista\|BAPTISTA]] | How likes Gremio these quick-witted folks? |
 | GREMIO | Believe me, sir, they butt together [[Well\|well]]. |
-| [[Bianca\|BIANCA]] | Head and butt? An hasty-witted [[Body\|body]] Would say your head and butt were head and horn. |
+| [[Bianca\|BIANCA]] | Head and butt? An hasty-witted [[Body\|body]]<br>Would say your head and butt were head and horn. |
 | VINCENTIO | Ay, mistress bride, hath that awakened you? |
 | [[Bianca\|BIANCA]] | Ay, but not frighted me, therefore I’ll [[Sleep\|sleep]] again. |
-| PETRUCCIO | Nay, that you shall not. Since you have begun, Have at you for a better jest or two. |
-| [[Bianca\|BIANCA]] | Am I your bird? I mean to shift my bush, And then pursue me as you draw your bow. You are welcome all. Exit [[Bianca]] with Katherine and the Widow |
-| PETRUCCIO | She hath prevented me here, Signor [[Tranio]]. This bird you aimed at, though you hit her not. Therefore a health to all that shot and missed. |
-| [[Tranio\|TRANIO]] | O sir, [[Lucentio]] slipped me like his greyhound, Which runs himself and catches for his master. |
+| PETRUCCIO | Nay, that you shall not. Since you have begun,<br>Have at you for a better jest or two. |
+| [[Bianca\|BIANCA]] | Am I your bird? I mean to shift my bush,<br>And then pursue me as you draw your bow.<br>You are welcome all. |
+| *(didascalia)* | Exit [[Bianca]] with Katherine and the Widow |
+| PETRUCCIO | She hath prevented me here, Signor [[Tranio]].<br>This bird you aimed at, though you hit her not.<br>Therefore a health to all that shot and missed. |
+| [[Tranio\|TRANIO]] | O sir, [[Lucentio]] slipped me like his greyhound,<br>Which runs himself and catches for his master. |
 | PETRUCCIO | A good swift simile, but something currish. |
-| [[Tranio\|TRANIO]] | ‘Tis [[Well\|well]], sir, that you hunted for yourself. ’Tis thought your deer does hold you at a bay. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--02_exchange_baptista" data-title="The Taming of the Shrew — Act V, Scene 2 — exchange (BAPTISTA) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Tranio\|TRANIO]] | ‘Tis [[Well\|well]], sir, that you hunted for yourself.<br>’Tis thought your deer does hold you at a bay. |
 | [[Baptista\|BAPTISTA]] | O, O, Petruccio, [[Tranio]] hits you now. |
 | [[Lucentio\|LUCENTIO]] | I thank thee for that gird, good [[Tranio]]. |
 | [[Hortensio\|HORTENSIO]] | Confess, confess, hath he not hit you here? |
-| PETRUCCIO | A has a little galled me, I confess, And as the jest did glance away from me, ‘Tis ten to one it maimed you two outright. |
-| [[Baptista\|BAPTISTA]] | Now in good sadness, son Petruccio, I think thou hast the veriest shrew of all. |
-| PETRUCCIO | [[Well]], I say no.—And therefore, Sir Assurance, Let’s each one send unto his wife, And he whose wife is most obedient To come at first when he doth send for her Shall win the wager which we will propose. |
+| PETRUCCIO | A has a little galled me, I confess,<br>And as the jest did glance away from me,<br>‘Tis ten to one it maimed you two outright. |
+| [[Baptista\|BAPTISTA]] | Now in good sadness, son Petruccio,<br>I think thou hast the veriest shrew of all. |
+| PETRUCCIO | [[Well]], I say no.—And therefore, Sir Assurance,<br>Let’s each one send unto his wife,<br>And he whose wife is most obedient<br>To come at first when he doth send for her<br>Shall win the wager which we will propose. |
 | [[Hortensio\|HORTENSIO]] | Content. What’s the wager? |
 | LUCFNTIO | Twenty crowns. |
-| PETRUCCIO | Twenty crowns! I’ll venture so much of my hawk or hound, But twenty times so much upon my wife. |
+| PETRUCCIO | Twenty crowns!<br>I’ll venture so much of my hawk or hound,<br>But twenty times so much upon my wife. |
 | [[Lucentio\|LUCENTIO]] | A hundred, then. |
 | [[Hortensio\|HORTENSIO]] | Content. |
 | PETRUCCIO | A match, ‘tis done. |
 | [[Hortensio\|HORTENSIO]] | Who shall begin? |
-| [[Lucentio\|LUCENTIO]] | That will I. Go, Biondello, bid your mistress come to me. |
-| BIONDELLO | I go. Exit |
+| [[Lucentio\|LUCENTIO]] | That will I.<br>Go, Biondello, bid your mistress come to me. |
+| BIONDELLO | I go. |
+| *(didascalia)* | Exit |
 | [[Baptista\|BAPTISTA]] | Son, I’ll be your half [[Bianca]] comes. |
-| [[Lucentio\|LUCENTIO]] | I’ll have no halves, I’ll bear it all myself. Enter Biondello How now, what news? |
-| BIONDELLO | Sir, my mistress sends you word That she is busy and she cannot come. |
-| PETRUCCIO | How? She’s busy and she cannot come? Is that an answer? GREMlO Ay, and a kind one, too. Pray God, sir, your wife send you not a worse. |
+| [[Lucentio\|LUCENTIO]] | I’ll have no halves, I’ll bear it all myself. |
+| *(didascalia)* | Enter Biondello |
+| [[Lucentio\|LUCENTIO]] | How now, what news? |
+| BIONDELLO | Sir, my mistress sends you word<br>That she is busy and she cannot come. |
+| PETRUCCIO | How? She’s busy and she cannot come?<br>Is that an answer?<br>GREMlO Ay, and a kind one, too.<br>Pray God, sir, your wife send you not a worse. |
 | PETRUCCIO | I [[Hope\|hope]], better. |
-| [[Hortensio\|HORTENSIO]] | Sirrah Biondello, Go and entreat my wife to come to me forthwith. Exit Biondello |
+| [[Hortensio\|HORTENSIO]] | Sirrah Biondello,<br>Go and entreat my wife to come to me forthwith. |
+| *(didascalia)* | Exit Biondello |
 | PETRUCCIO | O ho, ‘entreat’ her—nay, then she must needs come. |
-| [[Hortensio\|HORTENSIO]] | I am afraid, sir, do what you can, Enter Biondello Yours will not be entreated. Now, where’s my wife? |
-| BIONDELLO | She says you have some goodly jest in hand. She will not come. She bids you come to her. |
-| PETRUCCIO | Worse and worse! She will not come—O vile, Intolerable, not to be endured! Sirrah [[Grumio]], go to your mistress. Say I command her come to me. Exit [[Grumio]] |
+| [[Hortensio\|HORTENSIO]] | I am afraid, sir, do what you can, |
+| *(didascalia)* | Enter Biondello |
+| [[Hortensio\|HORTENSIO]] | Yours will not be entreated. Now, where’s my wife? |
+| BIONDELLO | She says you have some goodly jest in hand.<br>She will not come. She bids you come to her. |
+| PETRUCCIO | Worse and worse! She will not come—O vile,<br>Intolerable, not to be endured!<br>Sirrah [[Grumio]], go to your mistress.<br>Say I command her come to me. |
+| *(didascalia)* | Exit [[Grumio]] |
 | [[Hortensio\|HORTENSIO]] | I know her answer. |
 | PETRUCCIO | What? |
 | [[Hortensio\|HORTENSIO]] | She will not. |
-| PETRUCCIO | The fouler fortune mine, and there an end. Enter Katherine |
+| PETRUCCIO | The fouler fortune mine, and there an end. |
+| *(didascalia)* | Enter Katherine |
 | [[Baptista\|BAPTISTA]] | Now by my halidom, here comes [[Katherina]]. |
-| KATHERINE | (to Petruccio) What is your will, sir, that you send for me? |
+| KATHERINE | (to Petruccio)<br>What is your will, sir, that you send for me? |
 | PETRUCCIO | Where is your sister and [[Hortensio]]’s wife? |
 | KATHERINE | They sit conferring by the parlour [[Fire\|fire]]. |
-| PETRUCCIO | Go, fetch them hither. If they deny to come, Swinge me them soundly forth unto their husbands. Away, I say, and bring them hither straight. Exit Katherine |
+| PETRUCCIO | Go, fetch them hither. If they deny to come,<br>Swinge me them soundly forth unto their husbands.<br>Away, I say, and bring them hither straight. |
+| *(didascalia)* | Exit Katherine |
 | [[Lucentio\|LUCENTIO]] | Here is a [[Wonder\|wonder]], if you talk of wonders. |
 | [[Hortensio\|HORTENSIO]] | And so it is. I [[Wonder\|wonder]] what it bodes. |
-| PETRUCCIO | Marry, peace it bodes, and [[Love\|love]], and quiet life; An aweful rule and right supremacy, And, to be short, what not that’s sweet and happy. |
-| [[Baptista\|BAPTISTA]] | Now fair befall thee, good Petruccio, The wager thou hast won, and I will add Unto their losses twenty thousand crowns, Another dowry to another daughter, For she is changed as she had never been. |
-| PETRUCCIO | Nay, I will win my wager better yet, And show more sign of her obedience, Her new-built virtue and obedience. Enter Katherine, [[Bianca]], and the Widow See where she comes, and brings your froward wives As prisoners to her womanly [[Persuasion\|persuasion]]. Katherine, that cap of yours becomes you not. Off with that bauble, throw it underfoot. Katherine throws down her cap |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--03_exchange_widow" data-title="The Taming of the Shrew — Act V, Scene 2 — exchange (WIDOW) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| WIDOW | Lord, let me never have a cause to sigh Till I be brought to such a silly pass. |
+| PETRUCCIO | Marry, peace it bodes, and [[Love\|love]], and quiet life;<br>An aweful rule and right supremacy,<br>And, to be short, what not that’s sweet and happy. |
+| [[Baptista\|BAPTISTA]] | Now fair befall thee, good Petruccio,<br>The wager thou hast won, and I will add<br>Unto their losses twenty thousand crowns,<br>Another dowry to another daughter,<br>For she is changed as she had never been. |
+| PETRUCCIO | Nay, I will win my wager better yet,<br>And show more sign of her obedience,<br>Her new-built virtue and obedience. |
+| *(didascalia)* | Enter Katherine, [[Bianca]], and the Widow |
+| PETRUCCIO | See where she comes, and brings your froward wives<br>As prisoners to her womanly [[Persuasion\|persuasion]].<br>Katherine, that cap of yours becomes you not.<br>Off with that bauble, throw it underfoot.<br>Katherine throws down her cap |
+| WIDOW | Lord, let me never have a cause to sigh<br>Till I be brought to such a silly pass. |
 | [[Bianca\|BIANCA]] | Fie, what a foolish duty call you this? |
-| [[Lucentio\|LUCENTIO]] | I would your duty were as foolish, too. The wisdom of your duty, fair [[Bianca]], Hath cost me a hundred crowns since supper-[[Time\|time]]. |
+| [[Lucentio\|LUCENTIO]] | I would your duty were as foolish, too.<br>The wisdom of your duty, fair [[Bianca]],<br>Hath cost me a hundred crowns since supper-[[Time\|time]]. |
 | [[Bianca\|BIANCA]] | The more [[Fool\|fool]] you for laying on my duty. |
-| PETRUCCIO | Katherine, I charge thee tell these headstrong women What duty they do owe their lords and husbands. |
+| PETRUCCIO | Katherine, I charge thee tell these headstrong women<br>What duty they do owe their lords and husbands. |
 | WIDOW | Come, come, you’re mocking. We will have no telling. |
 | PETRUCCIO | Come on, I say, and first begin with her. |
 | WIDOW | She shall not. |
 | PETRUCCIO | I say she shall: and first begin with her. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--04_monologue_katherine" data-title="The Taming of the Shrew — Act V, Scene 2 — monologue (KATHERINE) [4]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| KATHERINE | Fie, fie, unknit that threat’ning, unkind brow, And dart not scornful glances from those eyes To wound thy lord, thy [[King\|king]], thy governor. It blots thy [[Beauty\|beauty]] as frosts do bite the meads, Confounds thy fame as whirlwinds shake fair buds, And in no sense is meet or amiable. A woman moved is like a fountain troubled, Muddy, ill-seeming, thick, bereft of [[Beauty\|beauty]], And while it is so, none so dry or thirsty Will deign to sip or touch one drop of it. Thy husband is thy lord, thy life, thy keeper, Thy head, thy sovereign, one that cares for thee, And for thy maintenance commits his [[Body\|body]] To painful labour both by sea and land, To watch the [[Night\|night]] in storms, the day in cold, Whilst thou liest warm at [[Home\|home]], secure and safe, And craves no other tribute at thy hands But [[Love\|love]], fair looks, and true obedience, Too little payment for so great a debt. Such duty as the subject owes the prince, Even such a woman oweth to her husband, And when she is froward, peevish, sullen, sour, And not obedient to his honest will, What is she but a foul contending [[Rebel\|rebel]], And graceless traitor to her loving lord? I am ashamed that women are so simple To offer war where they should kneel for peace, Or seek for rule, supremacy, and sway When they are bound to serve, [[Love\|love]], and obey. Why are our bodies soft, and weak, and smooth, Unapt to toil and trouble in the world, But that our soft conditions and our hearts Should [[Well\|well]] agree with our external parts? Come, come, you froward and unable worms, My mind hath been as big as one of yours, My heart as great, my reason haply more, To bandy word for word and frown for frown; But now I see our lances are but straws, Our strength as weak, our weakness past compare, That seeming to be most which we indeed least are. Then vail your stomachs, for it is no boot, And place your hands below your husband’s foot, In token of which duty, if he please, My hand is ready, may it do him ease. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--05_exchange_petruccio" data-title="The Taming of the Shrew — Act V, Scene 2 — exchange (PETRUCCIO) [5]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PETRUCCIO | Why, there’s a wench! Come on, and kiss me, Kate. They kiss |
+| KATHERINE | Fie, fie, unknit that threat’ning, unkind brow,<br>And dart not scornful glances from those eyes<br>To wound thy lord, thy [[King\|king]], thy governor.<br>It blots thy [[Beauty\|beauty]] as frosts do bite the meads,<br>Confounds thy fame as whirlwinds shake fair buds,<br>And in no sense is meet or amiable.<br>A woman moved is like a fountain troubled,<br>Muddy, ill-seeming, thick, bereft of [[Beauty\|beauty]],<br>And while it is so, none so dry or thirsty<br>Will deign to sip or touch one drop of it.<br>Thy husband is thy lord, thy life, thy keeper,<br>Thy head, thy sovereign, one that cares for thee,<br>And for thy maintenance commits his [[Body\|body]]<br>To painful labour both by sea and land,<br>To watch the [[Night\|night]] in storms, the day in cold,<br>Whilst thou liest warm at [[Home\|home]], secure and safe,<br>And craves no other tribute at thy hands<br>But [[Love\|love]], fair looks, and true obedience,<br>Too little payment for so great a debt.<br>Such duty as the subject owes the prince,<br>Even such a woman oweth to her husband,<br>And when she is froward, peevish, sullen, sour,<br>And not obedient to his honest will,<br>What is she but a foul contending [[Rebel\|rebel]],<br>And graceless traitor to her loving lord?<br>I am ashamed that women are so simple<br>To offer war where they should kneel for peace,<br>Or seek for rule, supremacy, and sway<br>When they are bound to serve, [[Love\|love]], and obey.<br>Why are our bodies soft, and weak, and smooth,<br>Unapt to toil and trouble in the world,<br>But that our soft conditions and our hearts<br>Should [[Well\|well]] agree with our external parts?<br>Come, come, you froward and unable worms,<br>My mind hath been as big as one of yours,<br>My heart as great, my reason haply more,<br>To bandy word for word and frown for frown;<br>But now I see our lances are but straws,<br>Our strength as weak, our weakness past compare,<br>That seeming to be most which we indeed least are.<br>Then vail your stomachs, for it is no boot,<br>And place your hands below your husband’s foot,<br>In token of which duty, if he please,<br>My hand is ready, may it do him ease. |
+| PETRUCCIO | Why, there’s a wench! Come on, and kiss me, Kate.<br>They kiss |
 | [[Lucentio\|LUCENTIO]] | [[Well]], go thy ways, old lad, for thou shalt ha’t. |
 | VINCENTIO | ‘Tis a good hearing when children are toward. |
 | [[Lucentio\|LUCENTIO]] | But a harsh hearing when women are froward. |
-| PETRUCCIO | Come, Kate, we’ll to bed. We three are married, but you two are sped. ’Twas I won the wager, though (to [[Lucentio]]) you hit the white, And being a winner, God give you good [[Night\|night]]. Exit Petruccio with Katherine |
+| PETRUCCIO | Come, Kate, we’ll to bed.<br>We three are married, but you two are sped.<br>’Twas I won the wager, though (to [[Lucentio]]) you hit<br>the white,<br>And being a winner, God give you good [[Night\|night]]. |
+| *(didascalia)* | Exit Petruccio with Katherine |
 | [[Hortensio\|HORTENSIO]] | Now go thy ways, thou hast tamed a curst shrew. |
-| [[Lucentio\|LUCENTIO]] | ’Tis a [[Wonder\|wonder]], by your leave, she will be tamed so. Exeunt |
-| ADDITIONAL PASSAGES | The Taming of A Shrew, printed in 1594 and believed to derive from Shakespeare’s play as performed, contains episodes continuing and rounding off the [[Christopher Sly]] framework which may echo passages written by Shakespeare but not printed in the Folio. They are given below. |
-| ADDITIONAL PASSAGES | A. The following exchange occurs at a point for which there is no exact equivalent in Shakespeare’s play. It could come at the end of 2.1.The ‘[[Fool\|fool]]’ of the first line is Sander, the counterpart of [[Grumio]]. Then Sly speaks |
+| [[Lucentio\|LUCENTIO]] | ’Tis a [[Wonder\|wonder]], by your leave, she will be tamed so. |
+| *(didascalia)* | Exeunt |
+| ADDITIONAL PASSAGES | The Taming of A Shrew, printed in 1594 and believed to derive from Shakespeare’s play as performed, contains episodes continuing and rounding off the [[Christopher Sly]] framework which may echo passages written by Shakespeare but not printed in the Folio. They are given below.<br><br>A. The following exchange occurs at a point for which there is no exact equivalent in Shakespeare’s play. It could come at the end of 2.1.The ‘[[Fool\|fool]]’ of the first line is Sander, the counterpart of [[Grumio]].<br>Then Sly speaks |
 | SLY | Sim, when will the [[Fool\|fool]] come again? |
 | LORD | He’ll come again, my lord, anon. |
 | SLY | Gi’s some more drink here. Zounds, where’s the tapster? Here, Sim, eat some of these things. |
 | LORD | So I do, my lord. |
 | SLY | Here, Sim, I drink to thee. |
 | LORD | My lord, here comes the players again. |
-| SLY | O brave, here’s two fine gentlewomen. |
-| SLY | B. This passage comes between 4.5 and 4.6. If it originates with Shakespeare it implies that [[Grumio]] accompanies Petruccio at the beginning of 4.6. |
+| SLY | O brave, here’s two fine gentlewomen.<br><br>B. This passage comes between 4.5 and 4.6. If it originates with Shakespeare it implies that [[Grumio]] accompanies Petruccio at the beginning of 4.6. |
 | SLY | Sim, must they be married now? |
-| LORD | Ay, my lord. Enter Ferando and Kate and Sander |
-| SLY | Look, Sim, the [[Fool\|fool]] is come again now. |
-| SLY | C. Sly interrupts the action of the play-within-play. This is at 5.1.102 of Shakespeare’s play. Phylotus and Valeria runs away. |
-| SLY | Then Sly speaks |
+| LORD | Ay, my lord. |
+| *(didascalia)* | Enter Ferando and Kate and Sander |
+| SLY | Look, Sim, the [[Fool\|fool]] is come again now.<br><br>C. Sly interrupts the action of the play-within-play. This is at 5.1.102 of Shakespeare’s play.<br>Phylotus and Valeria runs away.<br><br>Then Sly speaks |
 | SLY | I say we’ll have no sending to [[Prison\|prison]]. |
 | LORD | My lord, this is but the play. They’re but in jest. |
 | SLY | I tell thee, Sim, we’ll have no sending to [[Prison\|prison]], that’s flat. Why, Sim, am not I Don Christo Vary? Therefore I say they shall not go to [[Prison\|prison]]. |
 | LORD | No more they shall not, my lord. They be run away. |
 | SLY | Are they run away, Sim? That’s [[Well\|well]]. Then gi’s some more drink, and let them play again. |
-| LORD | Here, my lord. Sly drinks and then falls asleep |
-| LORD | D. Sly is carried off between 5.1 and 5.2. Exeunt omnes Sly sleeps |
-| LORD | Who’s within there? Come hither, sirs, my lord’s Asleep again. Go take him easily up And put him in his own apparel again, And lay him in the place where we did find him Just underneath the alehouse side below. But see you wake him not in any case. |
-| BOY | It shall be done, my lord. Come help to bear him hence. Exit |
-| BOY | E. The conclusion. Then enter two bearing of Sly in his own apparel again and [[Leaves\|leaves]] him where they found him and then goes out. Then enter the Tapster |
-| TAPSTER | Now that the darksome [[Night\|night]] is overpast And dawning day appears in crystal sky, Now must I haste abroad. But soft, who’s this? What, Sly! O wondrous, hath he lain here all [[Night\|night]]? I’ll wake him. I think he’s starved by this, But that his belly was so stuffed with ale. What ho, Sly, awake, for shame! |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--06_exchange_sly" data-title="The Taming of the Shrew — Act V, Scene 2 — exchange (SLY) [6]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| LORD | Here, my lord.<br>Sly drinks and then falls asleep<br>D. Sly is carried off between 5.1 and 5.2. |
+| *(didascalia)* | Exeunt omnes |
+| LORD | Sly sleeps |
+| LORD | Who’s within there? Come hither, sirs, my lord’s<br>Asleep again. Go take him easily up<br>And put him in his own apparel again,<br>And lay him in the place where we did find him<br>Just underneath the alehouse side below.<br>But see you wake him not in any case. |
+| BOY | It shall be done, my lord. Come help to bear him hence. |
+| *(didascalia)* | Exit |
+| BOY | E. The conclusion.<br>Then enter two bearing of Sly in his own apparel again and [[Leaves\|leaves]] him where they found him and then goes out. Then enter the Tapster |
+| TAPSTER | Now that the darksome [[Night\|night]] is overpast<br>And dawning day appears in crystal sky,<br>Now must I haste abroad. But soft, who’s this?<br>What, Sly! O wondrous, hath he lain here all [[Night\|night]]?<br>I’ll wake him. I think he’s starved by this,<br>But that his belly was so stuffed with ale.<br>What ho, Sly, awake, for shame! |
 | SLY | Sim, gi’s some more wine. What, ’s all the players gone? Am not I a lord? |
 | TAPSTER | A lord with a murrain! Come, art thou drunken still? |
-| SLY | Who’s this? Tapster? O Lord, sirrah, I have had The bravest dream tonight that ever thou Heardest in all thy life. |
-| TAPSTER | Ay, marry, but you had best get you [[Home\|home]], For your wife will course you for dreaming here tonight. |
-| SLY | Will she? I know now how to tame a shrew. I dreamt upon it all this [[Night\|night]] till now, And thou hast waked me out of the best dream That ever I had in my life. But I’ll to my Wife presently and tame her too, An if she anger me. |
-| TAPSTER | Nay, tarry, Sly, for I’ll go [[Home\|home]] with thee And hear the rest that thou hast dreamt tonight. Exeunt omnes |
-| THE FIRST PART OF | THE CONTENTION (2 [[Henry VI\|HENRY VI]]) |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--07_monologue_when" data-title="The Taming of the Shrew — Act V, Scene 2 — monologue (WHEN) [7]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| WHEN | Shakespeare’s [[history]] plays were gathered together in the 1623 Folio, seven years after he died, they were printed in the order of their historical events, each with a title naming the [[King\|king]] in whose reign those events occurred. No one supposes that this is the order in which Shakespeare wrote them; and the Folio titles are demonstrably not, in all cases, those by which the plays were originally known. The three concerned with the reign of [[Henry VI]] are listed in the Folio, simply and unappealingly, as the First, Second, and Third Parts of [[King]] Henry the Sixth, and these are the names by which they have continued to be known. Versions of the Second and Third had appeared long before the Folio, in 1594 and 1595; their head titles read The First Part of the Contention of the two Famous Houses of York and Lancaster with the [[Death]] of the Good Duke Humphrey and The True [[Tragedy]] of [[Richard]], [[Duke of York]], and the Good [[King]] Henry the Sixth. These are, presumably, full versions of the plays’ original titles, and we revert to them in preference to the Folio’s historical listing. A variety of internal evidence suggests that the Folio’s Part One was composed after The First Part of the Contention and [[Richard]], [[Duke of York]], so we depart from the Folio order, though a reader wishing to read the plays in their narrative sequence will read [[Henry VI]], Part One before the other two plays. The dates of all three are uncertain, but Part One is alluded to in 1592, when it was probably new. The First Part of the Contention probably belongs to 1590-1. The play draws extensively on English chronicle [[history]] for its portrayal of the troubled state of England under [[Henry VI]] (1421-71). It dramatizes the touchingly weak [[King]]’s powerlessness against the machinations of his nobles, especially [[Richard]], [[Duke of York]], himself ambitious for the throne. [[Richard]] engineers the Kentish rebellion, led by [[Jack Cade]], which provides some of the play’s liveliest episodes; and at the play’s end [[Richard]] seems poised to take the throne. Historical events of ten years (11445-55) are dramatized with comparative fidelity within a coherent structure that offers a wide variety of theatrical entertainment. Though the play employs old-fashioned conventions of language (particularly the recurrent classical references) and of dramaturgy (such as the horrors of severed heads), its bold characterization, its fundamentally serious but often ironically comic presentation of moral and political issues, the powerful rhetoric of its verse, and the vivid immediacy of its prose have proved highly effective in its rare modern revivals. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--08_exchange_the_persons_of_the_play" data-title="The Taming of the Shrew — Act V, Scene 2 — exchange (THE PERSONS OF THE PLAY) [8]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| THE PERSONS OF THE | PLAY |
-| THE PERSONS OF THE | Of the [[King]]’s Party |
-| [[Queen Margaret\|QUEEN MARGARET]] | William de la Pole, Marquis, later Duke, of SUFFOLK, the [[Queen]]’s [[Lover\|lover]] Duke Humphrey of [[Gloucester\|GLOUCESTER]], the Lord Protector, the [[King]]’s uncle Dame [[Eleanor]] Cobham, the DUCHESS of [[Gloucester]] |
-| CARDINAL | BEAUFORT, Bishop of Winchester, [[Gloucester]]’s uncle and the [[King]]’s great-uncle [[Duke of Buckingham\|Duke of BUCKINGHAM]] Duke of SOMERSET Old Lord [[Clifford\|CLIFFORD]] |
-| YOUNG | [[Clifford\|CLIFFORD]], his son Of the [[Duke of York]]’s Party [[Earl of Salisbury\|Earl of SALISBURY]] [[Earl of Warwick\|Earl of WARWICK]], his son The petitions and the combat Two or three PETITIONERS Thomas HORNER, an armourer |
-| PETER | Thump, his man Three NEIGHBOURS, who drink to Horner Three PRENTICES, who drink to Peter The conjuration Margery Jordan, a [[Witch\|WITCH]] Roger BOLINGBROKE, a conjurer ASNATH, a spirit The false miracle Simon SIMPCOX |
-| SIMPCOX’S WIFE | The MAYOR of Saint Albans Aldermen of Saint Albans |
-| *(didascalia)* | A |
-| BEADLE | of Saint Albans Townsmen of Saint Albans [[Eleanor]]’s penance [[Gloucester]]’s SERVANTS Two SHERIFFS of [[London]] Sir John STANLEY |
-| HERALD | The murder of [[Gloucester]] Two MURDERERS |
+| SLY | Who’s this? Tapster? O Lord, sirrah, I have had<br>The bravest dream tonight that ever thou<br>Heardest in all thy life. |
+| TAPSTER | Ay, marry, but you had best get you [[Home\|home]],<br>For your wife will course you for dreaming here tonight. |
+| SLY | Will she? I know now how to tame a shrew.<br>I dreamt upon it all this [[Night\|night]] till now,<br>And thou hast waked me out of the best dream<br>That ever I had in my life. But I’ll to my<br>Wife presently and tame her too,<br>An if she anger me. |
+| TAPSTER | Nay, tarry, Sly, for I’ll go [[Home\|home]] with thee<br>And hear the rest that thou hast dreamt tonight. |
+| *(didascalia)* | Exeunt omnes |
+| THE FIRST PART OF | THE CONTENTION<br>(2 [[Henry VI\|HENRY VI]]) |
+| WHEN | Shakespeare’s [[history]] plays were gathered together in the 1623 Folio, seven years after he died, they were printed in the order of their historical events, each with a title naming the [[King\|king]] in whose reign those events occurred. No one supposes that this is the order in which Shakespeare wrote them; and the Folio titles are demonstrably not, in all cases, those by which the plays were originally known. The three concerned with the reign of [[Henry VI]] are listed in the Folio, simply and unappealingly, as the First, Second, and Third Parts of [[King]] Henry the Sixth, and these are the names by which they have continued to be known. Versions of the Second and Third had appeared long before the Folio, in 1594 and 1595; their head titles read The First Part of the Contention of the two Famous Houses of York and Lancaster with the [[Death]] of the Good Duke Humphrey and The True [[Tragedy]] of [[Richard]], [[Duke of York]], and the Good [[King]] Henry the Sixth. These are, presumably, full versions of the plays’ original titles, and we revert to them in preference to the Folio’s historical listing.<br>A variety of internal evidence suggests that the Folio’s Part One was composed after The First Part of the Contention and [[Richard]], [[Duke of York]], so we depart from the Folio order, though a reader wishing to read the plays in their narrative sequence will read [[Henry VI]], Part One before the other two plays. The dates of all three are uncertain, but Part One is alluded to in 1592, when it was probably new. The First Part of the Contention probably belongs to 1590-1.<br>The play draws extensively on English chronicle [[history]] for its portrayal of the troubled state of England under [[Henry VI]] (1421-71). It dramatizes the touchingly weak [[King]]’s powerlessness against the machinations of his nobles, especially [[Richard]], [[Duke of York]], himself ambitious for the throne. [[Richard]] engineers the Kentish rebellion, led by [[Jack Cade]], which provides some of the play’s liveliest episodes; and at the play’s end [[Richard]] seems poised to take the throne.<br>Historical events of ten years (11445-55) are dramatized with comparative fidelity within a coherent structure that offers a wide variety of theatrical entertainment. Though the play employs old-fashioned conventions of language (particularly the recurrent classical references) and of dramaturgy (such as the horrors of severed heads), its bold characterization, its fundamentally serious but often ironically comic presentation of moral and political issues, the powerful rhetoric of its verse, and the vivid immediacy of its prose have proved highly effective in its rare modern revivals. |
+| THE PERSONS OF THE | PLAY<br><br>Of the [[King]]’s Party |
+| [[Queen Margaret\|QUEEN MARGARET]] | William de la Pole, Marquis, later Duke, of SUFFOLK, the [[Queen]]’s [[Lover\|lover]]<br>Duke Humphrey of [[Gloucester\|GLOUCESTER]], the Lord Protector, the [[King]]’s uncle<br>Dame [[Eleanor]] Cobham, the DUCHESS of [[Gloucester]] |
+| CARDINAL | BEAUFORT, Bishop of Winchester, [[Gloucester]]’s uncle and the [[King]]’s great-uncle<br>[[Duke of Buckingham\|Duke of BUCKINGHAM]]<br>Duke of SOMERSET<br>Old Lord [[Clifford\|CLIFFORD]] |
+| YOUNG | [[Clifford\|CLIFFORD]], his son<br>Of the [[Duke of York]]’s Party<br>[[Earl of Salisbury\|Earl of SALISBURY]]<br>[[Earl of Warwick\|Earl of WARWICK]], his son<br>The petitions and the combat<br>Two or three PETITIONERS<br>Thomas HORNER, an armourer |
+| PETER | Thump, his man<br>Three NEIGHBOURS, who drink to Horner<br>Three PRENTICES, who drink to Peter<br>The conjuration<br>Margery Jordan, a [[Witch\|WITCH]]<br>Roger BOLINGBROKE, a conjurer<br>ASNATH, a spirit<br>The false miracle<br>Simon SIMPCOX |
+| SIMPCOX’S WIFE | The MAYOR of Saint Albans<br>Aldermen of Saint Albans<br>A BEADLE of Saint Albans<br>Townsmen of Saint Albans<br>[[Eleanor]]’s penance<br>[[Gloucester]]’s SERVANTS<br>Two SHERIFFS of [[London]]<br>Sir John STANLEY |
+| HERALD | The murder of [[Gloucester]]<br>Two MURDERERS |
 | COMMONS | The murder of Suffolk |
 | CAPTAIN | of a [[Ship\|ship]] |
-| MASTER | of that [[Ship\|ship]] The Master’s MATE Walter WHITMORE Two GENTLEMEN The Cade Rebellion [[Jack Cade\|Jack CADE]], a Kentishman suborned by the [[Duke of York]] Three or four CITIZENS of [[London]] Alexander IDEN, an esquire of [[Kent]], who kills Cade Others VAUX, a messenger |
-| *(didascalia)* | A |
-| SOLDIER | Attendants, guards, servants, soldiers, falconers |
+| MASTER | of that [[Ship\|ship]]<br>The Master’s MATE<br>Walter WHITMORE<br>Two GENTLEMEN<br>The Cade Rebellion<br>[[Jack Cade\|Jack CADE]], a Kentishman suborned by the [[Duke of York]]<br>Three or four CITIZENS of [[London]]<br>Alexander IDEN, an esquire of [[Kent]], who kills Cade<br>Others<br>VAUX, a messenger |
+| MESSENGERS | A SOLDIER<br>Attendants, guards, servants, soldiers, falconers |

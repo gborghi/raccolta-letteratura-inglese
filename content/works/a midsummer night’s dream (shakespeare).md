@@ -45,8 +45,15 @@ tags:
 
 ## Capitoli / Chapters
 
+- [Act I, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream#act_1--scene_1)
 - [Act I, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream#act_1--scene_2)
+- [Act II, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream#act_2--scene_1)
+- [Act II, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream#act_2--scene_2)
+- [Act III, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream#act_3--scene_1)
+- [Act III, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream#act_3--scene_2)
+- [Act IV, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream#act_4--scene_1)
 - [Act IV, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream#act_4--scene_2)
+- [Act V, Scene 1](/testi/shakespeare/plays/a_midsummer_nights_dream#act_5--scene_1)
 - [Act V, Scene 2](/testi/shakespeare/plays/a_midsummer_nights_dream#act_5--scene_2)
 
 ## Connections

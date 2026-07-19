@@ -1724,7 +1724,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="Antony and Cleopatra — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Antony and Cleopatra — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
@@ -1734,13 +1734,14 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | ALEXAS | Soothsayer! |
 | SOOTHSAYER | Your will? |
 | [[Charmian\|CHARMIAN]] | Is this the man? Is’t you, sir, that know things? |
-| SOOTHSAYER | In [[Nature\|nature]]’s infinite book of secrecy A little I can read. |
+| SOOTHSAYER | In [[Nature\|nature]]’s infinite book of secrecy<br>A little I can read. |
 | ALEXAS | (to [[Charmian]]) Show him your hand. |
-| [[Enobarbus\|ENOBARBUS]] | (calling) Bring in the banquet quickly, Wine enough [[Cleopatra]]’s health to drink. Enter servants with food and wine, and exeunt |
+| [[Enobarbus\|ENOBARBUS]] | (calling) Bring in the banquet quickly,<br>Wine enough [[Cleopatra]]’s health to drink. |
+| *(didascalia)* | Enter servants with food and wine, and exeunt |
 | [[Charmian\|CHARMIAN]] | (to Soothsayer) Good sir, give me good fortune. |
 | SOOTHSAYER | I make not, but foresee. |
 | [[Charmian\|CHARMIAN]] | Pray then, foresee me one. |
-| SOOTHSAYER | You shall be yet Far fairer than you are. |
+| SOOTHSAYER | You shall be yet<br>Far fairer than you are. |
 | [[Charmian\|CHARMIAN]] | He means in flesh. |
 | IRAS | No, you shall paint when you are old. |
 | [[Charmian\|CHARMIAN]] | Wrinkles forbid! |
@@ -1752,9 +1753,9 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | [[Charmian\|CHARMIAN]] | Good now, some excellent fortune! Let me be married to three kings in a forenoon and widow them all. Let me have a [[Child\|child]] at fifty to whom Herod of Jewry may do homage. Find me to marry me with [[Octavius Caesar]], and companion me with my mistress. |
 | SOOTHSAYER | You shall outlive the lady whom you serve. |
 | [[Charmian\|CHARMIAN]] | O, excellent! I [[Love\|love]] long life better than figs. |
-| SOOTHSAYER | You have seen and proved a fairer former fortune Than that which is to approach. |
+| SOOTHSAYER | You have seen and proved a fairer former fortune<br>Than that which is to approach. |
 | [[Charmian\|CHARMIAN]] | Then belike my children shall have no names. Prithee, how many boys and wenches must I have? |
-| SOOTHSAYER | If every of your wishes had a womb, And fertile every wish, a million. |
+| SOOTHSAYER | If every of your wishes had a womb,<br>And fertile every wish, a million. |
 | [[Charmian\|CHARMIAN]] | Out, [[Fool\|fool]]—I forgive thee for a [[Witch\|witch]]. |
 | ALEXAS | You think none but your sheets are privy to your wishes. |
 | [[Charmian\|CHARMIAN]] | (to the Soothsayer) Nay, come, tell Iras hers. |
@@ -1771,53 +1772,54 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | [[Charmian\|CHARMIAN]] | [[Well]], if you were but an inch of fortune better than I, where would you choose it? |
 | IRAS | Not in my husband’s nose. |
 | [[Charmian\|CHARMIAN]] | Our worser thoughts heavens mend! Alexas—come, his fortune, his fortune. O, let him marry a woman that cannot go, sweet Isis, I beseech thee, and let her die too, and give him a worse, and let worse follow worse till the worst of all follow him laughing to his [[Grave\|grave]], fiftyfold a cuckold. Good Isis, hear me this [[Prayer\|prayer]], though thou deny me a matter of more weight; good Isis, I beseech thee. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_exchange_iras" data-title="Antony and Cleopatra — Act I, Scene 2 — exchange (IRAS) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | IRAS | Amen, dear goddess, hear that [[Prayer\|prayer]] of the people. For as it is a heart-breaking to see a handsome man loose-wived, so it is a deadly sorrow to behold a foul knave uncuckolded. Therefore, dear Isis, keep decorum, and fortune him accordingly. |
 | [[Charmian\|CHARMIAN]] | Amen. |
-| ALEXAS | Lo now, if it lay in their hands to make me a cuckold, they would make themselves whores but they’d do’t. Enter [[Cleopatra]] |
+| ALEXAS | Lo now, if it lay in their hands to make me a cuckold, they would make themselves whores but they’d do’t. |
+| *(didascalia)* | Enter [[Cleopatra]] |
 | [[Enobarbus\|ENOBARBUS]] | Hush, here comes Antony. |
 | [[Charmian\|CHARMIAN]] | Not he, the [[Queen]]. |
 | [[Cleopatra\|CLEOPATRA]] | Saw you my lord? |
 | [[Enobarbus\|ENOBARBUS]] | No, lady. |
 | [[Cleopatra\|CLEOPATRA]] | Was he not here? |
 | [[Charmian\|CHARMIAN]] | No, madam. |
-| [[Cleopatra\|CLEOPATRA]] | He was disposed to mirth, but on the sudden A Roman thought hath struck him. [[Enobarbus]]! |
+| [[Cleopatra\|CLEOPATRA]] | He was disposed to mirth, but on the sudden<br>A Roman thought hath struck him. [[Enobarbus]]! |
 | [[Enobarbus\|ENOBARBUS]] | Madam? |
 | [[Cleopatra\|CLEOPATRA]] | Seek him, and bring him hither. Where’s Alexas? |
-| ALEXAS | Here at your service. My lord approaches. Enter Antony with a Messenger |
-| [[Cleopatra\|CLEOPATRA]] | We will not look upon him. Go with us. Exeunt all but Antony and the Messenger |
+| ALEXAS | Here at your service. My lord approaches. |
+| *(didascalia)* | Enter Antony with a Messenger |
+| [[Cleopatra\|CLEOPATRA]] | We will not look upon him. Go with us. |
+| *(didascalia)* | Exeunt all but Antony and the Messenger |
 | MESSENGER | Fulvia thy wife first came into the field. |
 | ANTONY | Against my brother [[Lucius]]? |
-| MESSENGER | Ay, but soon that war had end, and the [[Time\|time]]’s state Made friends of them, jointing their force ’gainst Caesar, Whose better issue in the war from [[Italy]] Upon the first encounter drave them. |
+| MESSENGER | Ay, but soon that war had end, and the [[Time\|time]]’s state<br>Made friends of them, jointing their force ’gainst<br>Caesar,<br>Whose better issue in the war from [[Italy]]<br>Upon the first encounter drave them. |
 | ANTONY | [[Well]], what worst? |
 | MESSENGER | The [[Nature\|nature]] of bad news infects the teller. |
-| ANTONY | When it concerns the [[Fool\|fool]] or coward. On. Things that are past are done. With me ’tis thus: Who tells me true, though in his tale lie [[Death\|death]], I hear him as he flattered. |
-| MESSENGER | Labienus— This is stiff news—hath with his Parthian force Extended Asia; from Euphrates His conquering banner shook, from Syria To Lydia and to Ionia, Whilst— ANTONYAntony, thou wouldst say— |
+| ANTONY | When it concerns the [[Fool\|fool]] or coward. On.<br>Things that are past are done. With me ’tis thus:<br>Who tells me true, though in his tale lie [[Death\|death]],<br>I hear him as he flattered. |
+| MESSENGER | Labienus—<br>This is stiff news—hath with his Parthian force<br>Extended Asia; from Euphrates<br>His conquering banner shook, from Syria<br>To Lydia and to Ionia,<br>Whilst—<br>ANTONYAntony, thou wouldst say— |
 | MESSENGER | O, my lord! |
-| ANTONY | Speak to me [[Home\|home]]. Mince not the general tongue. Name [[Cleopatra]] as she is called in Rome. Rail thou in Fulvia’s phrase, and taunt my faults With such full licence as both [[Truth\|truth]] and malice Have power to utter. O, then we bring forth weeds When our quick winds lie still, and our ills told us Is as our earing. Fare thee [[Well\|well]] a while. |
-| MESSENGER | At your noble pleasure. Exit Messenger Enter another Messenger |
-| ANTONY | From Sicyon, ho, the news? Speak there. SECOND MESSENGER The man from Sicyon— ANTONY Is there such a one? SECOND MESSENGER He stays upon your will. |
-| ANTONY | Let him appear. Exit Second Messenger These strong Egyptian fetters I must break, Or lose myself in dotage. Enter another Messenger with a letter What are you? THIRD MESSENGER Fulvia thy wife is dead. |
+| ANTONY | Speak to me [[Home\|home]]. Mince not the general tongue.<br>Name [[Cleopatra]] as she is called in Rome.<br>Rail thou in Fulvia’s phrase, and taunt my faults<br>With such full licence as both [[Truth\|truth]] and malice<br>Have power to utter. O, then we bring forth weeds<br>When our quick winds lie still, and our ills told us<br>Is as our earing. Fare thee [[Well\|well]] a while. |
+| MESSENGER | At your noble pleasure. |
+| *(didascalia)* | Exit Messenger |
+| *(didascalia)* | Enter another Messenger |
+| ANTONY | From Sicyon, ho, the news? Speak there. |
+| *(didascalia)* | SECOND MESSENGER |
+| ANTONY | The man from Sicyon— |
+| *(didascalia)* | ANTONY Is there such a one? |
+| *(didascalia)* | SECOND MESSENGER |
+| ANTONY | He stays upon your will. |
+| ANTONY | Let him appear. |
+| *(didascalia)* | Exit Second Messenger |
+| ANTONY | These strong Egyptian fetters I must break,<br>Or lose myself in dotage. |
+| *(didascalia)* | Enter another Messenger with a letter |
+| ANTONY | What are you? |
+| *(didascalia)* | THIRD MESSENGER |
+| ANTONY | Fulvia thy wife is dead. |
 | ANTONY | Where died she? |
-| THIRD MESSENGER | In Sicyon. Her length of sickness, with what else more serious Importeth thee to know, this bears. He gives Antony the letter |
-| ANTONY | Forbear me. Exit Third Messenger There’s a great spirit gone. Thus did I [[Desire\|desire]] it. What our contempts doth often hurl from us We wish it ours again. The present pleasure, By revolution low’ring, does become The opposite of itself. She’s good being gone; The hand could pluck her back that shoved her on. I must from this enchanting [[Queen\|queen]] break off. Ten thousand harms more than the ills I know My idleness doth hatch. How now, [[Enobarbus]]! Enter [[Enobarbus]] |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_exchange_enobarbus" data-title="Antony and Cleopatra — Act I, Scene 2 — exchange (ENOBARBUS) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| THIRD MESSENGER | In Sicyon.<br>Her length of sickness, with what else more serious<br>Importeth thee to know, this bears.<br>He gives Antony the letter |
+| ANTONY | Forbear me. |
+| *(didascalia)* | Exit Third Messenger |
+| ANTONY | There’s a great spirit gone. Thus did I [[Desire\|desire]] it.<br>What our contempts doth often hurl from us<br>We wish it ours again. The present pleasure,<br>By revolution low’ring, does become<br>The opposite of itself. She’s good being gone;<br>The hand could pluck her back that shoved her on.<br>I must from this enchanting [[Queen\|queen]] break off.<br>Ten thousand harms more than the ills I know<br>My idleness doth hatch. How now, [[Enobarbus]]! |
+| *(didascalia)* | Enter [[Enobarbus]] |
 | [[Enobarbus\|ENOBARBUS]] | What’s your pleasure, sir? |
 | ANTONY | I must with haste from hence. |
 | [[Enobarbus\|ENOBARBUS]] | Why, then we kill all our women. We see how mortal an unkindness is to them; if they suffer our departure, [[Death\|death]]’s the word. |
@@ -1833,28 +1835,11 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | [[Enobarbus\|ENOBARBUS]] | Fulvia? |
 | ANTONY | Dead. |
 | [[Enobarbus\|ENOBARBUS]] | Why, sir, give the gods a thankful sacrifice. When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein that when old robes are worn out there are members to make new. If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented. This grief is crowned with consolation; your old smock brings forth a new petticoat, and indeed the [[Tears\|tears]] live in an onion that should [[Water\|water]] this sorrow. |
-| ANTONY | The business she hath broached in the state Cannot endure my absence. |
+| ANTONY | The business she hath broached in the state<br>Cannot endure my absence. |
 | [[Enobarbus\|ENOBARBUS]] | And the business you have broached here cannot be without you, especially that of [[Cleopatra]]’s, which wholly depends on your abode. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_monologue_antony" data-title="Antony and Cleopatra — Act I, Scene 2 — monologue (ANTONY) [4]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| ANTONY | No more light answers. Let our officers Have notice what we purpose. I shall break The cause of our expedience to the [[Queen]], And get her leave to part; for not [[Alone\|alone]] The [[Death\|death]] of Fulvia, with more urgent touches, Do strongly speak to us, but the letters too Of many our contriving friends in Rome Petition us at [[Home\|home]]. Sextus Pompeius Hath given the dare to Caesar and commands The empire of the sea. Our slippery people, Whose [[Love\|love]] is never linked to the deserver Till his deserts are past, begin to throw [[Pompey]] the Great and all his dignities Upon his son, who—high in name and power, Higher than both in [[Blood\|blood]] and life—stands up For the main soldier; whose quality, going on, The sides o’th’ world may danger. Much is breeding Which, like the courser’s hair, hath yet but life, And not a serpent’s [[Poison\|poison]]. Say our pleasure, To such whose place is under us, requires Our quick remove from hence. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--05_exchange_enobarbus" data-title="Antony and Cleopatra — Act I, Scene 2 — exchange (ENOBARBUS) [5]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Enobarbus\|ENOBARBUS]] | I shall do’t. Exeunt severally |
+| ANTONY | No more light answers. Let our officers<br>Have notice what we purpose. I shall break<br>The cause of our expedience to the [[Queen]],<br>And get her leave to part; for not [[Alone\|alone]]<br>The [[Death\|death]] of Fulvia, with more urgent touches,<br>Do strongly speak to us, but the letters too<br>Of many our contriving friends in Rome<br>Petition us at [[Home\|home]]. Sextus Pompeius<br>Hath given the dare to Caesar and commands<br>The empire of the sea. Our slippery people,<br>Whose [[Love\|love]] is never linked to the deserver<br>Till his deserts are past, begin to throw<br>[[Pompey]] the Great and all his dignities<br>Upon his son, who—high in name and power,<br>Higher than both in [[Blood\|blood]] and life—stands up<br>For the main soldier; whose quality, going on,<br>The sides o’th’ world may danger. Much is breeding<br>Which, like the courser’s hair, hath yet but life,<br>And not a serpent’s [[Poison\|poison]]. Say our pleasure,<br>To such whose place is under us, requires<br>Our quick remove from hence. |
+| [[Enobarbus\|ENOBARBUS]] | I shall do’t. |
+| *(didascalia)* | Exeunt severally |
 
 
 
@@ -2017,126 +2002,104 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2--01_exchange_dialogue" data-title="Antony and Cleopatra — Act II, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Antony and Cleopatra — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Enobarbus]] and [[Lepidus]] |
-| [[Lepidus\|LEPIDUS]] | Good [[Enobarbus]], ’tis a worthy deed, And shall become you [[Well\|well]], to entreat your captain To soft and gentle speech. |
-| [[Enobarbus\|ENOBARBUS]] | I shall entreat him To answer like himself. If Caesar move him, Let Antony look over Caesar’s head And speak as loud as Mars. By Jupiter, Were I the wearer of [[Antonio]]’s beard I would not shave’t today. |
-| [[Lepidus\|LEPIDUS]] | ’Tis not a [[Time\|time]] For private stomaching. |
-| [[Enobarbus\|ENOBARBUS]] | Every [[Time\|time]] Serves for the matter that is then born in’t. |
+| [[Lepidus\|LEPIDUS]] | Good [[Enobarbus]], ’tis a worthy deed,<br>And shall become you [[Well\|well]], to entreat your captain<br>To soft and gentle speech. |
+| [[Enobarbus\|ENOBARBUS]] | I shall entreat him To answer like himself. If Caesar move him,<br>Let Antony look over Caesar’s head<br>And speak as loud as Mars. By Jupiter,<br>Were I the wearer of [[Antonio]]’s beard<br>I would not shave’t today. |
+| [[Lepidus\|LEPIDUS]] | ’Tis not a [[Time\|time]]<br>For private stomaching. |
+| [[Enobarbus\|ENOBARBUS]] | Every [[Time\|time]]<br>Serves for the matter that is then born in’t. |
 | [[Lepidus\|LEPIDUS]] | But small to greater matters must give way. |
 | [[Enobarbus\|ENOBARBUS]] | Not if the small come first. |
-| [[Lepidus\|LEPIDUS]] | Your speech is passion. But pray you, stir no embers up. Here comes The noble Antony. Enter at one door Antony and Ventidius |
-| [[Enobarbus\|ENOBARBUS]] | And yonder Caesar. Enter at another door Caesar, Maecenas, and Agrippa |
-| ANTONY | (to Ventidius) If we compose [[Well\|well]] here, to Parthia. Hark, Ventidius. |
-| CAESAR | I do not know, Maecenas; ask Agrippa. |
-| [[Lepidus\|LEPIDUS]] | (to Caesar and Antony) Noble friends, That which combined us was most great; and let not A leaner action rend us. What’s amiss, May it be gently heard. When we [[debate]] Our trivial difference loud, we do commit Murder in healing wounds. Then, noble partners, The rather for I earnestly beseech, Touch you the sourest points with sweetest terms, Nor curstness grow to th’ matter. |
-| ANTONY | ’Tis spoken [[Well\|well]]. Were we before our armies, and to fight, I should do thus. Antony and Caesar embrace. Flourish |
+| [[Lepidus\|LEPIDUS]] | Your speech is passion.<br>But pray you, stir no embers up. Here comes<br>The noble Antony. |
+| *(didascalia)* | Enter at one door Antony and Ventidius |
+| [[Enobarbus\|ENOBARBUS]] | And yonder Caesar. |
+| *(didascalia)* | Enter at another door Caesar, Maecenas, and Agrippa |
+| ANTONY | (to Ventidius)<br>If we compose [[Well\|well]] here, to Parthia.<br>Hark, Ventidius. |
+| CAESAR | I do not know,<br>Maecenas; ask Agrippa. |
+| [[Lepidus\|LEPIDUS]] | (to Caesar and Antony) Noble friends,<br>That which combined us was most great; and let not<br>A leaner action rend us. What’s amiss,<br>May it be gently heard. When we [[debate]]<br>Our trivial difference loud, we do commit<br>Murder in healing wounds. Then, noble partners,<br>The rather for I earnestly beseech,<br>Touch you the sourest points with sweetest terms,<br>Nor curstness grow to th’ matter. |
+| ANTONY | ’Tis spoken [[Well\|well]].<br>Were we before our armies, and to fight,<br>I should do thus. |
+| *(didascalia)* | Antony and Caesar embrace. Flourish |
 | CAESAR | Welcome to Rome. |
 | ANTONY | Thank you. |
 | CAESAR | Sit. |
 | ANTONY | Sit, sir. |
-| CAESAR | Nay then. They sit |
-| ANTONY | I learn you take things ill which are not so, Or being, concern you not. |
-| CAESAR | I must be laughed at If or for nothing or a little I Should say myself offended, and with you Chiefly i’th’ world; more laughed at that I should Once name you derogately, when to sound your name It not concerned me. |
+| CAESAR | Nay then.<br>They sit |
+| ANTONY | I learn you take things ill which are not so,<br>Or being, concern you not. |
+| CAESAR | I must be laughed at<br>If or for nothing or a little I<br>Should say myself offended, and with you<br>Chiefly i’th’ world; more laughed at that I should<br>Once name you derogately, when to sound your name<br>It not concerned me. |
 | ANTONY | My being in [[Egypt]], Caesar, what was’t to you? |
-| CAESAR | No more than my residing here at Rome Might be to you in [[Egypt]]. Yet if you there Did practise on my state, your being in [[Egypt]] Might be my question. |
+| CAESAR | No more than my residing here at Rome<br>Might be to you in [[Egypt]]. Yet if you there<br>Did practise on my state, your being in [[Egypt]]<br>Might be my question. |
 | ANTONY | How intend you ‘practised’? |
-| CAESAR | You may be pleased to catch at mine intent By what did here befall me. Your wife and brother Made wars upon me, and their contestation Was theme for you. You were the word of war. |
-| ANTONY | You do mistake the business. My brother never Did urge me in his act. I did enquire it, And have my learning from some true reports That drew their swords with you. Did he not rather Discredit my authority with yours, And make the wars alike against my stomach, Having alike your cause? Of this, my letters Before did satisfy you. If you’ll patch a quarrel, As matter whole you have to make it with, It must not be with this. |
-| CAESAR | You praise yourself By laying defects of judgement to me, but You patched up your excuses. |
-| ANTONY | Not so, not so. I know you could not lack, I am certain on’t, Very necessity of this thought, that I, Your partner in the cause ’gainst which he fought, Could not with graceful eyes attend those wars Which fronted mine own peace. As for my wife, I would you had her spirit in such another. The third o’th’ world is yours, which with a snaffle You may pace easy, but not such a wife. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--02_exchange_enobarbus" data-title="Antony and Cleopatra — Act II, Scene 2 — exchange (ENOBARBUS) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| CAESAR | You may be pleased to catch at mine intent<br>By what did here befall me. Your wife and brother<br>Made wars upon me, and their contestation<br>Was theme for you. You were the word of war. |
+| ANTONY | You do mistake the business. My brother never<br>Did urge me in his act. I did enquire it,<br>And have my learning from some true reports<br>That drew their swords with you. Did he not rather<br>Discredit my authority with yours,<br>And make the wars alike against my stomach,<br>Having alike your cause? Of this, my letters<br>Before did satisfy you. If you’ll patch a quarrel,<br>As matter whole you have to make it with,<br>It must not be with this. |
+| CAESAR | You praise yourself<br>By laying defects of judgement to me, but<br>You patched up your excuses. |
+| ANTONY | Not so, not so.<br>I know you could not lack, I am certain on’t,<br>Very necessity of this thought, that I,<br>Your partner in the cause ’gainst which he fought,<br>Could not with graceful eyes attend those wars<br>Which fronted mine own peace. As for my wife,<br>I would you had her spirit in such another.<br>The third o’th’ world is yours, which with a snaffle<br>You may pace easy, but not such a wife. |
 | [[Enobarbus\|ENOBARBUS]] | Would we had all such wives, that the men might go to wars with the women. |
-| ANTONY | So much uncurbable, her garboils, Caesar, Made out of her impatience—which not wanted Shrewdness of policy too—I grieving grant Did you too much disquiet, for that you must But say I could not help it. |
-| CAESAR | I wrote to you When, rioting in Alexandria, you Did pocket up my letters, and with taunts Did gibe my missive out of audience. |
-| ANTONY | Sir, he fell upon me ere admitted, then. Three kings I had newly feasted, and did want Of what I was i’th’ morning; but next day I told him of myself, which was as much As to have asked him pardon. Let this fellow Be nothing of our strife. If we contend, Out of our question wipe him. |
-| CAESAR | You have broken The article of your oath, which you shall never Have tongue to charge me with. |
+| ANTONY | So much uncurbable, her garboils, Caesar,<br>Made out of her impatience—which not wanted<br>Shrewdness of policy too—I grieving grant<br>Did you too much disquiet, for that you must<br>But say I could not help it. |
+| CAESAR | I wrote to you<br>When, rioting in Alexandria, you<br>Did pocket up my letters, and with taunts<br>Did gibe my missive out of audience. |
+| ANTONY | Sir, he fell upon me ere admitted, then.<br>Three kings I had newly feasted, and did want<br>Of what I was i’th’ morning; but next day<br>I told him of myself, which was as much<br>As to have asked him pardon. Let this fellow<br>Be nothing of our strife. If we contend,<br>Out of our question wipe him. |
+| CAESAR | You have broken<br>The article of your oath, which you shall never<br>Have tongue to charge me with. |
 | [[Lepidus\|LEPIDUS]] | Soft, Caesar. |
-| ANTONY | No, [[Lepidus]], let him speak. The [[Honour\|honour]] is sacred which he talks on now, Supposing that I lacked it. But on, Caesar: The article of my oath— |
-| CAESAR | To lend me arms and aid when I required them, The which you both denied. |
-| ANTONY | Neglected, rather, And then when poisoned hours had bound me up From mine own knowledge. As nearly as I may I’ll play the penitent to you, but mine honesty Shall not make poor my [[Greatness\|greatness]], nor my power Work without it. [[Truth]] is that Fulvia, To have me out of [[Egypt]], made wars here, For which myself, the ignorant motive, do So far ask pardon as befits mine [[Honour\|honour]] To stoop in such a case. |
+| ANTONY | No, [[Lepidus]], let him speak.<br>The [[Honour\|honour]] is sacred which he talks on now,<br>Supposing that I lacked it. But on, Caesar:<br>The article of my oath— |
+| CAESAR | To lend me arms and aid when I required them,<br>The which you both denied. |
+| ANTONY | Neglected, rather,<br>And then when poisoned hours had bound me up<br>From mine own knowledge. As nearly as I may<br>I’ll play the penitent to you, but mine honesty<br>Shall not make poor my [[Greatness\|greatness]], nor my power<br>Work without it. [[Truth]] is that Fulvia,<br>To have me out of [[Egypt]], made wars here,<br>For which myself, the ignorant motive, do<br>So far ask pardon as befits mine [[Honour\|honour]]<br>To stoop in such a case. |
 | [[Lepidus\|LEPIDUS]] | ’Tis noble spoken. |
-| MAECENAS | If it might please you to enforce no further The griefs between ye; to forget them quite Were to remember that the present need Speaks to atone you. |
+| MAECENAS | If it might please you to enforce no further<br>The griefs between ye; to forget them quite<br>Were to remember that the present need<br>Speaks to atone you. |
 | [[Lepidus\|LEPIDUS]] | Worthily spoken, Maecenas. |
 | [[Enobarbus\|ENOBARBUS]] | Or if you borrow one another’s [[Love\|love]] for the instant, you may, when you hear no more words of [[Pompey]], return it again. You shall have [[Time\|time]] to wrangle in when you have nothing else to do. |
 | ANTONY | Thou art a soldier only. Speak no more. |
 | [[Enobarbus\|ENOBARBUS]] | That [[Truth\|truth]] should be silent I had almost forgot. |
 | ANTONY | You wrong this presence, therefore speak no more. [[Enobarbus\|ENOBARBUS]] Go to, then; your considerate stone. |
-| CAESAR | I do not much dislike the matter, but The manner of his speech, for’t cannot be We shall remain in [[Friendship\|friendship]], our conditions So diff‘ring in their acts. Yet if I knew What hoop should hold us staunch, from edge to edge O’th’ world I would pursue it. |
+| CAESAR | I do not much dislike the matter, but<br>The manner of his speech, for’t cannot be<br>We shall remain in [[Friendship\|friendship]], our conditions<br>So diff‘ring in their acts. Yet if I knew<br>What hoop should hold us staunch, from edge to edge<br>O’th’ world I would pursue it. |
 | AGRIPPA | Give me leave, Caesar. |
 | CAESAR | Speak, Agrippa. |
-| AGRIPPA | Thou hast a sister by the mother’s side, Admired [[Octavia]]. Great [[Mark Antony]] Is now a widower. |
-| CAESAR | Say not so, Agrippa. If [[Cleopatra]] heard you, your reproof Were [[Well\|well]] deserved of rashness. |
-| ANTONY | I am not married, Caesar. Let me hear Agrippa further speak. |
-| AGRIPPA | To hold you in perpetual amity, To make you brothers, and to knit your hearts With an unslipping knot, take Antony [[Octavia]] to his wife; whose [[Beauty\|beauty]] claims No worse a husband than the best of men; Whose virtue and whose general graces speak That which none else can utter. By this [[Marriage\|marriage]] All little jealousies which now seem great, And all great fears which now import their dangers, Would then be nothing. Truths would be tales Where now half-tales be truths. Her [[Love\|love]] to both Would each to other and all loves to both Draw after her. Pardon what I have spoke, For ’tis a studied, not a present thought, By duty ruminated. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--03_exchange_antony" data-title="Antony and Cleopatra — Act II, Scene 2 — exchange (ANTONY) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| AGRIPPA | Thou hast a sister by the mother’s side,<br>Admired [[Octavia]]. Great [[Mark Antony]]<br>Is now a widower. |
+| CAESAR | Say not so, Agrippa.<br>If [[Cleopatra]] heard you, your reproof<br>Were [[Well\|well]] deserved of rashness. |
+| ANTONY | I am not married, Caesar. Let me hear<br>Agrippa further speak. |
+| AGRIPPA | To hold you in perpetual amity,<br>To make you brothers, and to knit your hearts<br>With an unslipping knot, take Antony<br>[[Octavia]] to his wife; whose [[Beauty\|beauty]] claims<br>No worse a husband than the best of men;<br>Whose virtue and whose general graces speak<br>That which none else can utter. By this [[Marriage\|marriage]]<br>All little jealousies which now seem great,<br>And all great fears which now import their dangers,<br>Would then be nothing. Truths would be tales<br>Where now half-tales be truths. Her [[Love\|love]] to both<br>Would each to other and all loves to both<br>Draw after her. Pardon what I have spoke,<br>For ’tis a studied, not a present thought,<br>By duty ruminated. |
 | ANTONY | Will Caesar speak? |
-| CAESAR | Not till he hears how Antony is touched With what is spoke already. |
-| ANTONY | What power is in Agrippa, If I would say ‘Agrippa, be it so’, To make this good? |
-| CAESAR | The power of Caesar, And his power unto [[Octavia]]. |
-| ANTONY | May I never To this good purpose, that so fairly shows, Dream of impediment! Let me have thy hand. Further this act of grace, and from this hour The heart of brothers govern in our loves And sway our great designs. |
-| CAESAR | There’s my hand. Antony and Caesar clasp hands A sister I bequeath you whom no brother Did ever [[Love\|love]] so dearly. Let her live To join our kingdoms and our hearts; and never Fly off our loves again. |
+| CAESAR | Not till he hears how Antony is touched<br>With what is spoke already. |
+| ANTONY | What power is in Agrippa,<br>If I would say ‘Agrippa, be it so’,<br>To make this good? |
+| CAESAR | The power of Caesar,<br>And his power unto [[Octavia]]. |
+| ANTONY | May I never<br>To this good purpose, that so fairly shows,<br>Dream of impediment! Let me have thy hand.<br>Further this act of grace, and from this hour<br>The heart of brothers govern in our loves<br>And sway our great designs. |
+| CAESAR | There’s my hand.<br>Antony and Caesar clasp hands<br>A sister I bequeath you whom no brother<br>Did ever [[Love\|love]] so dearly. Let her live<br>To join our kingdoms and our hearts; and never<br>Fly off our loves again. |
 | [[Lepidus\|LEPIDUS]] | Happily, amen. |
-| ANTONY | I did not think to draw my [[Sword\|sword]] ’gainst [[Pompey]], For he hath laid strange courtesies and great Of late upon me. I must thank him only, Lest my remembrance suffer ill report; At heel of that, defy him. |
-| [[Lepidus\|LEPIDUS]] | [[Time]] calls upon’s. Of us must [[Pompey]] presently be sought, Or else he seeks out us. |
+| ANTONY | I did not think to draw my [[Sword\|sword]] ’gainst [[Pompey]],<br>For he hath laid strange courtesies and great<br>Of late upon me. I must thank him only,<br>Lest my remembrance suffer ill report;<br>At heel of that, defy him. |
+| [[Lepidus\|LEPIDUS]] | [[Time]] calls upon’s.<br>Of us must [[Pompey]] presently be sought,<br>Or else he seeks out us. |
 | ANTONY | Where lies he? |
 | CAESAR | About the Mount Misena. |
 | ANTONY | What is his strength By land? |
-| CAESAR | Great and increasing, but by sea He is an absolute master. |
-| ANTONY | So is the fame. Would we had spoke together. Haste we for it; Yet ere we put ourselves in arms, dispatch we The business we have talked of. |
-| CAESAR | With most gladness, And do invite you to my sister’s view, Whither straight I’ll lead you. |
-| ANTONY | Let us, [[Lepidus]], Not lack your company. |
-| [[Lepidus\|LEPIDUS]] | Noble Antony, Not sickness should detain me. Flourish. Exeunt all but [[Enobarbus]], Agrippa, and Maecenas |
+| CAESAR | Great and increasing, but by sea<br>He is an absolute master. |
+| ANTONY | So is the fame.<br>Would we had spoke together. Haste we for it;<br>Yet ere we put ourselves in arms, dispatch we<br>The business we have talked of. |
+| CAESAR | With most gladness, And do invite you to my sister’s view,<br>Whither straight I’ll lead you. |
+| ANTONY | Let us, [[Lepidus]],<br>Not lack your company. |
+| [[Lepidus\|LEPIDUS]] | Noble Antony,<br>Not sickness should detain me. |
+| *(didascalia)* | Flourish. Exeunt all but [[Enobarbus]], Agrippa, and Maecenas |
 | MAECENAS | (to [[Enobarbus]]) Welcome from [[Egypt]], sir. |
-| [[Enobarbus\|ENOBARBUS]] | Half the heart of Caesar, worthy Maecenas! My honourable friend, Agrippa! |
+| [[Enobarbus\|ENOBARBUS]] | Half the heart of Caesar, worthy Maecenas!<br>My honourable friend, Agrippa! |
 | AGRIPPA | Good [[Enobarbus]]! |
 | MAECENAS | We have cause to be glad that matters are so [[Well\|well]] digested. You stayed [[Well\|well]] by’t in [[Egypt]]. |
 | [[Enobarbus\|ENOBARBUS]] | Ay, sir, we did [[Sleep\|sleep]] day out of countenance, and made the [[Night\|night]] light with drinking. |
 | MAECENAS | Eight wild boars roasted whole at a breakfast and but twelve persons there—is this true? |
 | [[Enobarbus\|ENOBARBUS]] | This was but as a fly by an eagle. We had much more monstrous matter of feast, which worthily deserved noting. |
 | MAECENAS | She’s a most triumphant lady, if report be square to her. |
-| [[Enobarbus\|ENOBARBUS]] | When she first met [[Mark Antony]], she pursed up his heart upon the [[River\|river]] of Cydnus. AGRiPPA There she appeared indeed, or my reporter devised [[Well\|well]] for her. |
-| [[Enobarbus\|ENOBARBUS]] | I will tell you. The barge she sat in, like a burnished throne Burned on the [[Water\|water]]. The poop was beaten gold; Purple the sails, and so perfumed that The winds were [[Love\|love]]-sick with them. The oars were silver, Which to the tune of flutes kept stroke, and made The [[Water\|water]] which they beat to follow faster, As amorous of their strokes. For her own person, It beggared all description. She did lie In her pavilion—cloth of gold, of tissue— O’er-picturing that [[Venus]] where we see The fancy outwork [[Nature\|nature]]. On each side her Stood pretty dimpled boys, like smiling Cupids, With divers-coloured fans whose [[Wind\|wind]] did seem To glow the delicate cheeks which they did cool, And what they undid did. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_2--04_exchange_agrippa" data-title="Antony and Cleopatra — Act II, Scene 2 — exchange (AGRIPPA) [4]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Enobarbus\|ENOBARBUS]] | When she first met [[Mark Antony]], she pursed up his heart upon the [[River\|river]] of Cydnus.<br>AGRiPPA There she appeared indeed, or my reporter devised [[Well\|well]] for her. |
+| [[Enobarbus\|ENOBARBUS]] | I will tell you.<br>The barge she sat in, like a burnished throne<br>Burned on the [[Water\|water]]. The poop was beaten gold;<br>Purple the sails, and so perfumed that<br>The winds were [[Love\|love]]-sick with them. The oars were<br>silver,<br>Which to the tune of flutes kept stroke, and made<br>The [[Water\|water]] which they beat to follow faster,<br>As amorous of their strokes. For her own person,<br>It beggared all description. She did lie<br>In her pavilion—cloth of gold, of tissue—<br>O’er-picturing that [[Venus]] where we see<br>The fancy outwork [[Nature\|nature]]. On each side her<br>Stood pretty dimpled boys, like smiling Cupids,<br>With divers-coloured fans whose [[Wind\|wind]] did seem<br>To glow the delicate cheeks which they did cool,<br>And what they undid did. |
 | AGRIPPA | O, rare for Antony! |
-| [[Enobarbus\|ENOBARBUS]] | Her gentlewomen, like the Nereides, So many mermaids, tended her i‘th’ eyes, And made their bends adornings. At the helm A seeming [[Mermaid\|mermaid]] steers. The silken tackle Swell with the touches of those flower-soft hands That yarely frame the office. From the barge A strange invisible perfume hits the sense Of the adjacent wharfs. The [[City\|city]] cast Her people out upon her, and Antony, Enthroned i’th’ market-place, did sit [[Alone\|alone]], Whistling to th’air, which but for vacancy Had gone to gaze on [[Cleopatra]] too, And made a gap in [[Nature\|nature]]. |
+| [[Enobarbus\|ENOBARBUS]] | Her gentlewomen, like the Nereides,<br>So many mermaids, tended her i‘th’ eyes,<br>And made their bends adornings. At the helm<br>A seeming [[Mermaid\|mermaid]] steers. The silken tackle<br>Swell with the touches of those flower-soft hands<br>That yarely frame the office. From the barge<br>A strange invisible perfume hits the sense<br>Of the adjacent wharfs. The [[City\|city]] cast<br>Her people out upon her, and Antony,<br>Enthroned i’th’ market-place, did sit [[Alone\|alone]],<br>Whistling to th’air, which but for vacancy<br>Had gone to gaze on [[Cleopatra]] too,<br>And made a gap in [[Nature\|nature]]. |
 | AGRIPPA | Rare Egyptian! |
-| [[Enobarbus\|ENOBARBUS]] | Upon her landing Antony sent to her, Invited her to supper. She replied It should be better he became her guest, Which she entreated. Our courteous Antony, Whom ne‘er the word of ‘No’ woman heard speak, Being barbered ten times o’er, goes to the feast, And for his ordinary pays his heart For what his eyes eat only. |
-| AGRIPPA | Royal wench! She made great Caesar lay his [[Sword\|sword]] to bed. He ploughed her, and she cropped. |
-| [[Enobarbus\|ENOBARBUS]] | I saw her once Hop forty paces through the public street, And having lost her breath, she spoke and panted, That she did make defect perfection, And breathless, pour breath forth. |
-| MAECENAS | Now Antony Must leave her utterly. |
-| [[Enobarbus\|ENOBARBUS]] | Never. He will not. Age cannot wither her, nor custom stale Her infinite variety. Other women cloy The appetites they feed, but she makes hungry Where most she satisfies. For vilest things Become themselves in her, that the holy priests Bless her when she is riggish. |
-| MAECENAS | If [[Beauty\|beauty]], wisdom, modesty can settle The heart of Antony, [[Octavia]] is A blessed lottery to him. |
-| AGRIPPA | Let us go. Good [[Enobarbus]], make yourself my guest Whilst you abide here. |
-| [[Enobarbus\|ENOBARBUS]] | Humbly, sir, I thank you. Exeunt |
+| [[Enobarbus\|ENOBARBUS]] | Upon her landing Antony sent to her,<br>Invited her to supper. She replied<br>It should be better he became her guest,<br>Which she entreated. Our courteous Antony,<br>Whom ne‘er the word of ‘No’ woman heard speak,<br>Being barbered ten times o’er, goes to the feast,<br>And for his ordinary pays his heart<br>For what his eyes eat only. |
+| AGRIPPA | Royal wench!<br>She made great Caesar lay his [[Sword\|sword]] to bed.<br>He ploughed her, and she cropped. |
+| [[Enobarbus\|ENOBARBUS]] | I saw her once<br>Hop forty paces through the public street,<br>And having lost her breath, she spoke and panted,<br>That she did make defect perfection,<br>And breathless, pour breath forth. |
+| MAECENAS | Now Antony<br>Must leave her utterly. |
+| [[Enobarbus\|ENOBARBUS]] | Never. He will not.<br>Age cannot wither her, nor custom stale<br>Her infinite variety. Other women cloy<br>The appetites they feed, but she makes hungry<br>Where most she satisfies. For vilest things<br>Become themselves in her, that the holy priests<br>Bless her when she is riggish. |
+| MAECENAS | If [[Beauty\|beauty]], wisdom, modesty can settle<br>The heart of Antony, [[Octavia]] is<br>A blessed lottery to him. |
+| AGRIPPA | Let us go.<br>Good [[Enobarbus]], make yourself my guest<br>Whilst you abide here. |
+| [[Enobarbus\|ENOBARBUS]] | Humbly, sir, I thank you. |
+| *(didascalia)* | Exeunt |
 
 
 
@@ -2190,28 +2153,31 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5--01_exchange_dialogue" data-title="Antony and Cleopatra — Act II, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Antony and Cleopatra — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Cleopatra]], [[Charmian]], Iras, and Alexas |
-| [[Cleopatra\|CLEOPATRA]] | Give me some music—music, moody food Of us that trade in [[Love\|love]]. [[Charmian\|CHARMIAN]], IRAS, and ALEXAS The music, ho! Enter Mardian, the eunuch |
+| [[Cleopatra\|CLEOPATRA]] | Give me some music—music, moody food<br>Of us that trade in [[Love\|love]].<br>[[Charmian\|CHARMIAN]], IRAS, and ALEXAS The music, ho! |
+| *(didascalia)* | Enter Mardian, the eunuch |
 | [[Cleopatra\|CLEOPATRA]] | Let it [[Alone\|alone]]. Let’s to billiards. Come, [[Charmian]]. |
 | [[Charmian\|CHARMIAN]] | My arm is sore. Best play with Mardian. |
-| [[Cleopatra\|CLEOPATRA]] | As [[Well\|well]] a woman with an eunuch played As with a woman. Come, you’ll play with me, sir? |
+| [[Cleopatra\|CLEOPATRA]] | As [[Well\|well]] a woman with an eunuch played<br>As with a woman. Come, you’ll play with me, sir? |
 | MARDIAN | As [[Well\|well]] as I can, madam. |
-| [[Cleopatra\|CLEOPATRA]] | And when good will is showed, though’t come too short The actor may plead pardon. I’ll none now. Give me mine angle. We’ll to th’ [[River\|river]]. There, My music playing far off, I will betray Tawny-finned fishes. My bended hook shall pierce Their slimy jaws, and as I draw them up I’ll think them every one an Antony, And say ‘Ah ha, you’re caught!’ |
-| [[Charmian\|CHARMIAN]] | ’Twas merry when You wagered on your angling, when your diver Did hang a salt fish on his hook, which he With fervency drew up. |
-| [[Cleopatra\|CLEOPATRA]] | That [[Time\|time]]—O times!— I laughed him out of patience, and that [[Night\|night]] I laughed him into patience, and next morn, Ere the ninth hour, I drunk him to his bed, Then put my tires and mantles on him whilst I wore his [[Sword\|sword]] Philippan. Enter a Messenger O, from [[Italy]]. Ram thou thy fruitful tidings in mine ears, That long [[Time\|time]] have been barren. |
+| [[Cleopatra\|CLEOPATRA]] | And when good will is showed, though’t come too<br>short<br>The actor may plead pardon. I’ll none now.<br>Give me mine angle. We’ll to th’ [[River\|river]]. There,<br>My music playing far off, I will betray<br>Tawny-finned fishes. My bended hook shall pierce<br>Their slimy jaws, and as I draw them up<br>I’ll think them every one an Antony,<br>And say ‘Ah ha, you’re caught!’ |
+| [[Charmian\|CHARMIAN]] | ’Twas merry when<br>You wagered on your angling, when your diver<br>Did hang a salt fish on his hook, which he<br>With fervency drew up. |
+| [[Cleopatra\|CLEOPATRA]] | That [[Time\|time]]—O times!—<br>I laughed him out of patience, and that [[Night\|night]]<br>I laughed him into patience, and next morn,<br>Ere the ninth hour, I drunk him to his bed,<br>Then put my tires and mantles on him whilst<br>I wore his [[Sword\|sword]] Philippan. |
+| *(didascalia)* | Enter a Messenger |
+| [[Cleopatra\|CLEOPATRA]] | O, from [[Italy]].<br>Ram thou thy fruitful tidings in mine ears,<br>That long [[Time\|time]] have been barren. |
 | MESSENGER | Madam, madam! |
-| [[Cleopatra\|CLEOPATRA]] | [[Antonio]]’s dead. If thou say so, [[Villain\|villain]], Thou kill’st thy mistress; but [[Well\|well]] and free, If thou so yield him, there is gold, and here My bluest veins to kiss—a hand that kings Have lipped, and trembled kissing. |
+| [[Cleopatra\|CLEOPATRA]] | [[Antonio]]’s dead. If thou say so, [[Villain\|villain]],<br>Thou kill’st thy mistress; but [[Well\|well]] and free,<br>If thou so yield him, there is gold, and here<br>My bluest veins to kiss—a hand that kings<br>Have lipped, and trembled kissing. |
 | MESSENGER | First, madam, he is [[Well\|well]]. |
-| [[Cleopatra\|CLEOPATRA]] | Why, there’s more gold. But, sirrah, mark: we use To say the dead are [[Well\|well]]. Bring it to that, The gold I give thee will I melt and pour Down thy ill-uttering throat. |
+| [[Cleopatra\|CLEOPATRA]] | Why, there’s more gold. But, sirrah, mark: we use<br>To say the dead are [[Well\|well]]. Bring it to that,<br>The gold I give thee will I melt and pour<br>Down thy ill-uttering throat. |
 | MESSENGER | Good madam, hear me. |
-| [[Cleopatra\|CLEOPATRA]] | [[Well]], go to, I will. But there’s no goodness in thy face. If Antony Be free and healthful, so tart a favour To trumpet such good tidings! If not [[Well\|well]], Thou shouldst come like a Fury crowned with snakes, Not like a formal man. |
+| [[Cleopatra\|CLEOPATRA]] | [[Well]], go to, I will.<br>But there’s no goodness in thy face. If Antony<br>Be free and healthful, so tart a favour<br>To trumpet such good tidings! If not [[Well\|well]],<br>Thou shouldst come like a Fury crowned with snakes,<br>Not like a formal man. |
 | MESSENGER | Will’t please you hear me? |
-| [[Cleopatra\|CLEOPATRA]] | I have a mind to strike thee ere thou speak’st. Yet if thou say Antony lives, is [[Well\|well]], Or friends with Caesar, or not captive to him, I’ll set thee in a shower of gold, and hail Rich pearls upon thee. |
+| [[Cleopatra\|CLEOPATRA]] | I have a mind to strike thee ere thou speak’st.<br>Yet if thou say Antony lives, is [[Well\|well]],<br>Or friends with Caesar, or not captive to him,<br>I’ll set thee in a shower of gold, and hail<br>Rich pearls upon thee. |
 | MESSENGER | Madam, he’s [[Well\|well]]. |
 | [[Cleopatra\|CLEOPATRA]] | [[Well]] said. |
 | MESSENGER | And friends with Caesar. |
@@ -2219,103 +2185,96 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | MESSENGER | Caesar and he are greater friends than ever. |
 | [[Cleopatra\|CLEOPATRA]] | Make thee a fortune from me. |
 | MESSENGER | But yet, madam— |
-| [[Cleopatra\|CLEOPATRA]] | I do not like ‘But yet’; it does allay The good precedence. Fie upon ‘But yet’. ‘But yet’ is as a jailer to bring forth Some monstrous malefactor. Prithee, friend, Pour out the pack of matter to mine ear, The good and bad together. He’s friends with Caesar, In state of health, thou sayst; and, thou sayst, free. |
-| MESSENGER | Free, madam? No, I made no such report. He’s bound unto [[Octavia]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--02_exchange_cleopatra" data-title="Antony and Cleopatra — Act II, Scene 5 — exchange (CLEOPATRA) [2]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Cleopatra\|CLEOPATRA]] | I do not like ‘But yet’; it does allay<br>The good precedence. Fie upon ‘But yet’.<br>‘But yet’ is as a jailer to bring forth<br>Some monstrous malefactor. Prithee, friend,<br>Pour out the pack of matter to mine ear,<br>The good and bad together. He’s friends with Caesar,<br>In state of health, thou sayst; and, thou sayst, free. |
+| MESSENGER | Free, madam? No, I made no such report.<br>He’s bound unto [[Octavia]]. |
 | [[Cleopatra\|CLEOPATRA]] | For what good turn? |
 | MESSENGER | For the best turn i’th’ bed. |
 | [[Cleopatra\|CLEOPATRA]] | I am pale, [[Charmian]]. |
 | MESSENGER | Madam, he’s married to [[Octavia]]. |
-| [[Cleopatra\|CLEOPATRA]] | The most infectious pestilence upon thee! She strikes him down |
+| [[Cleopatra\|CLEOPATRA]] | The most infectious pestilence upon thee!<br>She strikes him down |
 | MESSENGER | Good madam, patience! |
-| [[Cleopatra\|CLEOPATRA]] | What say you? She strikes him Hence, horrible [[Villain\|villain]], or I’ll spurn thine eyes Like balls before me. I’ll unhair thy head, She hales him up and down Thou shalt be whipped with wire and stewed in brine, Smarting in ling’ring pickle. |
-| MESSENGER | Gracious madam, I that do bring the news made not the match. |
-| [[Cleopatra\|CLEOPATRA]] | Say ’tis not so, a province I will give thee, And make thy fortunes proud. The blow thou hadst Shall make thy peace for moving me to rage, And I will boot thee with what gift beside Thy modesty can beg. |
+| [[Cleopatra\|CLEOPATRA]] | What say you?<br>She strikes him<br>Hence, horrible [[Villain\|villain]], or I’ll spurn thine eyes<br>Like balls before me. I’ll unhair thy head,<br>She hales him up and down<br>Thou shalt be whipped with wire and stewed in brine,<br>Smarting in ling’ring pickle. |
+| MESSENGER | Gracious madam,<br>I that do bring the news made not the match. |
+| [[Cleopatra\|CLEOPATRA]] | Say ’tis not so, a province I will give thee,<br>And make thy fortunes proud. The blow thou hadst<br>Shall make thy peace for moving me to rage,<br>And I will boot thee with what gift beside<br>Thy modesty can beg. |
 | MESSENGER | He’s married, madam. |
-| [[Cleopatra\|CLEOPATRA]] | Rogue, thou hast lived too long. She draws a knife |
-| MESSENGER | Nay then, I’ll run. What mean you, madam? I have made no fault. Exit |
-| [[Charmian\|CHARMIAN]] | Good madam, keep yourself within yourself. The man is [[Innocent\|innocent]]. |
-| [[Cleopatra\|CLEOPATRA]] | Some innocents ’scape not the thunderbolt. Melt [[Egypt]] into Nile, and kindly creatures Turn all to serpents! Call the slave again. Though I am mad I will not bite him. Call! |
+| [[Cleopatra\|CLEOPATRA]] | Rogue, thou hast lived too long.<br>She draws a knife |
+| MESSENGER | Nay then, I’ll run.<br>What mean you, madam? I have made no fault. Exit |
+| [[Charmian\|CHARMIAN]] | Good madam, keep yourself within yourself.<br>The man is [[Innocent\|innocent]]. |
+| [[Cleopatra\|CLEOPATRA]] | Some innocents ’scape not the thunderbolt.<br>Melt [[Egypt]] into Nile, and kindly creatures<br>Turn all to serpents! Call the slave again.<br>Though I am mad I will not bite him. Call! |
 | [[Charmian\|CHARMIAN]] | He is afeard to come. |
-| [[Cleopatra\|CLEOPATRA]] | I will not hurt him. Exit [[Charmian]] These hands do lack nobility that they strike A meaner than myself, since I myself Have given myself the cause. Enter the Messenger again With [[Charmian]] Come hither, sir. Though it be honest, it is never good To bring bad news. Give to a gracious message An host of tongues, but let ill tidings tell Themselves when they be felt. |
+| [[Cleopatra\|CLEOPATRA]] | I will not hurt him. |
+| *(didascalia)* | Exit [[Charmian]] |
+| [[Cleopatra\|CLEOPATRA]] | These hands do lack nobility that they strike<br>A meaner than myself, since I myself<br>Have given myself the cause. |
+| *(didascalia)* | Enter the Messenger again With [[Charmian]] Come hither, sir. |
+| [[Cleopatra\|CLEOPATRA]] | Though it be honest, it is never good<br>To bring bad news. Give to a gracious message<br>An host of tongues, but let ill tidings tell<br>Themselves when they be felt. |
 | MESSENGER | I have done my duty. |
-| [[Cleopatra\|CLEOPATRA]] | Is he married? I cannot hate thee worser than I do If thou again say ‘Yes’. |
+| [[Cleopatra\|CLEOPATRA]] | Is he married?<br>I cannot hate thee worser than I do<br>If thou again say ‘Yes’. |
 | MESSENGER | He’s married, madam. |
 | [[Cleopatra\|CLEOPATRA]] | The gods confound thee! Dost thou hold there still? |
 | MESSENGER | Should I lie, madam? |
-| [[Cleopatra\|CLEOPATRA]] | O, I would thou didst, So half my [[Egypt]] were submerged and made A cistern for scaled snakes. Go, get thee hence. Hadst thou Narcissus in thy face, to me Thou wouldst appear most ugly. He is married? |
+| [[Cleopatra\|CLEOPATRA]] | O, I would thou didst,<br>So half my [[Egypt]] were submerged and made<br>A cistern for scaled snakes. Go, get thee hence.<br>Hadst thou Narcissus in thy face, to me<br>Thou wouldst appear most ugly. He is married? |
 | MESSENGER | I crave your highness’ pardon. |
 | [[Cleopatra\|CLEOPATRA]] | He is married? |
-| MESSENGER | Take no offence that I would not offend you. To punish me for what you make me do Seems much unequal. He’s married to [[Octavia]]. |
-| [[Cleopatra\|CLEOPATRA]] | O that his fault should make a knave of thee, That act not what thou‘rt sure of! Get thee hence. The merchandise which thou hast brought from Rome Are all too dear for me. Lie they upon thy hand, And be undone by ’em. Exit Messenger |
+| MESSENGER | Take no offence that I would not offend you.<br>To punish me for what you make me do<br>Seems much unequal. He’s married to [[Octavia]]. |
+| [[Cleopatra\|CLEOPATRA]] | O that his fault should make a knave of thee,<br>That act not what thou‘rt sure of! Get thee hence.<br>The merchandise which thou hast brought from Rome<br>Are all too dear for me. Lie they upon thy hand,<br>And be undone by ’em. |
+| *(didascalia)* | Exit Messenger |
 | [[Charmian\|CHARMIAN]] | Good your highness, patience. |
 | [[Cleopatra\|CLEOPATRA]] | In praising Antony I have dispraised Caesar. |
 | [[Charmian\|CHARMIAN]] | Many times, madam. |
-| [[Cleopatra\|CLEOPATRA]] | I am paid for’t now. Lead me from hence. I faint. O Iras, [[Charmian]]—’tis no matter. Go to the fellow, good Alexas, bid him Report the feature of [[Octavia]]: her years, Her inclination; let him not leave out The colour of her hair. Bring me word quickly. Exit Alexas Let him for ever go—let him not, [[Charmian]]; Though he be painted one way like a Gorgon, The other way’s a Mars. To Mardian Bid you Alexas Bring me word how tall she is. Pity me, [[Charmian]], But do not speak to me. Lead me to my chamber. Exeunt |
+| [[Cleopatra\|CLEOPATRA]] | I am paid for’t now. Lead me from hence.<br>I faint. O Iras, [[Charmian]]—’tis no matter.<br>Go to the fellow, good Alexas, bid him<br>Report the feature of [[Octavia]]: her years,<br>Her inclination; let him not leave out<br>The colour of her hair. Bring me word quickly. |
+| *(didascalia)* | Exit Alexas |
+| [[Cleopatra\|CLEOPATRA]] | Let him for ever go—let him not, [[Charmian]];<br>Though he be painted one way like a Gorgon, |
+| *(didascalia)* | The other way’s a Mars. To Mardian Bid you Alexas |
+| [[Cleopatra\|CLEOPATRA]] | Bring me word how tall she is. Pity me, [[Charmian]],<br>But do not speak to me. Lead me to my chamber. |
+| *(didascalia)* | Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6--01_exchange_dialogue" data-title="Antony and Cleopatra — Act II, Scene 6 — exchange (dialogue) [1]" data-chapter="Scene 6" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="Antony and Cleopatra — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Flourish. Enter [[Pompey]] and Menas at one door, with a drummer and a trumpeter; at another, Caesar, [[Lepidus]], Antony, [[Enobarbus]], Maecenas, Agrippa, with soldiers marching |
-| [[Pompey\|POMPEY]] | Your hostages I have, so have you mine, And we shall talk before we fight. |
-| CAESAR | Most meet That first we come to words, and therefore have we Our written purposes before us sent, Which if thou hast considered, let us know If ’twill tie up thy discontented [[Sword\|sword]] And carry back to Sicily much tall youth That else must perish here. |
-| [[Pompey\|POMPEY]] | To you all three, The senators [[Alone\|alone]] of this great world, Chief factors for the gods: I do not know Wherefore my father should revengers want, Having a son and friends, since [[Julius Caesar]], Who at Philippi the good [[Brutus]] ghosted, There saw you labouring for him. What was’t That moved pale [[Cassius]] to conspire? And what Made the all-honoured, honest Roman [[Brutus]], With the armed rest, courtiers of beauteous [[Freedom\|freedom]], To drench the Capitol but that they would Have one man but a man? And that is it Hath made me rig my navy, at whose burden The angered ocean foams; with which I meant To scourge th’ingratitude that despiteful Rome Cast on my noble father. |
+| [[Pompey\|POMPEY]] | Your hostages I have, so have you mine,<br>And we shall talk before we fight. |
+| CAESAR | Most meet<br>That first we come to words, and therefore have we<br>Our written purposes before us sent,<br>Which if thou hast considered, let us know<br>If ’twill tie up thy discontented [[Sword\|sword]]<br>And carry back to Sicily much tall youth<br>That else must perish here. |
+| [[Pompey\|POMPEY]] | To you all three, The senators [[Alone\|alone]] of this great world,<br>Chief factors for the gods: I do not know<br>Wherefore my father should revengers want,<br>Having a son and friends, since [[Julius Caesar]],<br>Who at Philippi the good [[Brutus]] ghosted,<br>There saw you labouring for him. What was’t<br>That moved pale [[Cassius]] to conspire? And what<br>Made the all-honoured, honest Roman [[Brutus]],<br>With the armed rest, courtiers of beauteous [[Freedom\|freedom]],<br>To drench the Capitol but that they would<br>Have one man but a man? And that is it<br>Hath made me rig my navy, at whose burden<br>The angered ocean foams; with which I meant<br>To scourge th’ingratitude that despiteful Rome<br>Cast on my noble father. |
 | CAESAR | Take your [[Time\|time]]. |
-| ANTONY | Thou canst not [[Fear\|fear]] us, [[Pompey]], with thy sails. We’ll speak with thee at sea. At land thou know’st How much we do o’ercount thee. |
-| [[Pompey\|POMPEY]] | At land indeed Thou dost o’ercount me of my father’s [[house]], But since the cuckoo builds not for himself, Remain in’t as thou mayst. |
-| [[Lepidus\|LEPIDUS]] | Be pleased to tell us— For this is from the present—how you take The offers we have sent you. |
+| ANTONY | Thou canst not [[Fear\|fear]] us, [[Pompey]], with thy sails.<br>We’ll speak with thee at sea. At land thou know’st<br>How much we do o’ercount thee. |
+| [[Pompey\|POMPEY]] | At land indeed Thou dost o’ercount me of my father’s [[house]],<br>But since the cuckoo builds not for himself,<br>Remain in’t as thou mayst. |
+| [[Lepidus\|LEPIDUS]] | Be pleased to tell us—<br>For this is from the present—how you take<br>The offers we have sent you. |
 | CAESAR | There’s the point. |
-| ANTONY | Which do not be entreated to, but weigh What it is worth, embraced. |
+| ANTONY | Which do not be entreated to, but weigh<br>What it is worth, embraced. |
 | CAESAR | And what may follow, To try a larger fortune? |
-| [[Pompey\|POMPEY]] | You have made me offer Of Sicily, Sardinia; and I must Rid all the sea of pirates; then to send Measures of wheat to Rome; this ’[[Greed\|greed]] upon, To part with unhacked edges, and bear back Our targes undinted. CAESAR, ANTONY, and [[Lepidus\|LEPIDUS]] That’s our offer. |
-| [[Pompey\|POMPEY]] | Know, then, I came before you here a man prepared To take this offer. But [[Mark Antony]] Put me to some impatience. Though I lose The praise of it by telling, you must know, When Caesar and your brother were at blows, Your mother came to Sicily, and did find Her welcome friendly. |
-| ANTONY | I have heard it, [[Pompey]], And am [[Well\|well]] studied for a liberal thanks Which I do owe you. |
-| [[Pompey\|POMPEY]] | Let me have your hand. [[Pompey]] and Antony shake hands I did not think, sir, to have met you here. |
-| ANTONY | The beds i’th’ East are soft; and thanks to you, That called me timelier than my purpose hither; For I have gained by’t. |
-| CAESAR | (to [[Pompey]]) Since I saw you last There is a change upon you. |
-| [[Pompey\|POMPEY]] | [[Well]], I know not What counts harsh fortune casts upon my face, But in my bosom shall she never come To make my heart her vassal. |
+| [[Pompey\|POMPEY]] | You have made me offer Of Sicily, Sardinia; and I must<br>Rid all the sea of pirates; then to send<br>Measures of wheat to Rome; this ’[[Greed\|greed]] upon,<br>To part with unhacked edges, and bear back<br>Our targes undinted.<br>CAESAR, ANTONY, and [[Lepidus\|LEPIDUS]] That’s our offer. |
+| [[Pompey\|POMPEY]] | Know, then, I came before you here a man prepared<br>To take this offer. But [[Mark Antony]]<br>Put me to some impatience. Though I lose<br>The praise of it by telling, you must know,<br>When Caesar and your brother were at blows,<br>Your mother came to Sicily, and did find<br>Her welcome friendly. |
+| ANTONY | I have heard it, [[Pompey]], And am [[Well\|well]] studied for a liberal thanks<br>Which I do owe you. |
+| [[Pompey\|POMPEY]] | Let me have your hand.<br>[[Pompey]] and Antony shake hands<br>I did not think, sir, to have met you here. |
+| ANTONY | The beds i’th’ East are soft; and thanks to you,<br>That called me timelier than my purpose hither;<br>For I have gained by’t. |
+| CAESAR | (to [[Pompey]]) Since I saw you last<br>There is a change upon you. |
+| [[Pompey\|POMPEY]] | [[Well]], I know not<br>What counts harsh fortune casts upon my face,<br>But in my bosom shall she never come<br>To make my heart her vassal. |
 | [[Lepidus\|LEPIDUS]] | [[Well]] met here. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_6--02_exchange_pompey" data-title="Antony and Cleopatra — Act II, Scene 6 — exchange (POMPEY) [2]" data-chapter="Scene 6" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Pompey\|POMPEY]] | I [[Hope\|hope]] so, [[Lepidus]]. Thus we are agreed. I crave our composition may be written And sealed between us. |
+| [[Pompey\|POMPEY]] | I [[Hope\|hope]] so, [[Lepidus]]. Thus we are agreed.<br>I crave our composition may be written<br>And sealed between us. |
 | CAESAR | That’s the next to do. |
-| [[Pompey\|POMPEY]] | We’ll feast each other ere we part, and let’s Draw lots who shall begin. |
+| [[Pompey\|POMPEY]] | We’ll feast each other ere we part, and let’s<br>Draw lots who shall begin. |
 | ANTONY | That will I, [[Pompey]]. |
-| [[Pompey\|POMPEY]] | No, Antony, take the lot. But, first or last, your fine Egyptian cookery Shall have the fame. I have heard that [[Julius Caesar]] Grew fat with feasting there. |
+| [[Pompey\|POMPEY]] | No, Antony, take the lot.<br>But, first or last, your fine Egyptian cookery<br>Shall have the fame. I have heard that [[Julius Caesar]]<br>Grew fat with feasting there. |
 | ANTONY | You have heard much. |
 | [[Pompey\|POMPEY]] | I have fair meanings, sir. |
 | ANTONY | And fair words to them. |
-| [[Pompey\|POMPEY]] | Then so much have I heard, And I have heard Apollodorus carried— |
+| [[Pompey\|POMPEY]] | Then so much have I heard,<br>And I have heard Apollodorus carried— |
 | [[Enobarbus\|ENOBARBUS]] | No more o’ that, he did so. |
 | [[Pompey\|POMPEY]] | What, I pray you? |
 | [[Enobarbus\|ENOBARBUS]] | A certain [[Queen\|queen]] to Caesar in a mattress. |
 | [[Pompey\|POMPEY]] | I know thee now. How far’st thou, soldier? |
-| [[Enobarbus\|ENOBARBUS]] | [[Well]], and [[Well\|well]] am like to do, for I perceive Four feasts are toward. |
-| [[Pompey\|POMPEY]] | Let me shake thy hand. [[Pompey]] and [[Enobarbus]] shake hands I never hated thee. I have seen thee fight When I have envied thy behaviour. |
-| [[Enobarbus\|ENOBARBUS]] | Sir, I never loved you much, but I ha’ praised ye When you have [[Well\|well]] deserved ten times as much As I have said you did. |
-| [[Pompey\|POMPEY]] | Enjoy thy plainness. It nothing ill becomes thee. Aboard my galley I invite you all. Will you lead, lords? CAESAR, ANTONY, and [[Lepidus\|LEPIDUS]] Show’s the way, sir. |
-| [[Pompey\|POMPEY]] | Come. Exeunt all but [[Enobarbus]] and Menas |
-| MENAS | (aside) Thy father, [[Pompey]], would ne’er have made this treaty. (To [[Enobarbus]]) You and I have known, sir. |
+| [[Enobarbus\|ENOBARBUS]] | [[Well]], and [[Well\|well]] am like to do, for I perceive<br>Four feasts are toward. |
+| [[Pompey\|POMPEY]] | Let me shake thy hand.<br>[[Pompey]] and [[Enobarbus]] shake hands<br>I never hated thee. I have seen thee fight<br>When I have envied thy behaviour. |
+| [[Enobarbus\|ENOBARBUS]] | Sir, I never loved you much, but I ha’ praised ye<br>When you have [[Well\|well]] deserved ten times as much<br>As I have said you did. |
+| [[Pompey\|POMPEY]] | Enjoy thy plainness. It nothing ill becomes thee.<br>Aboard my galley I invite you all.<br>Will you lead, lords?<br>CAESAR, ANTONY, and [[Lepidus\|LEPIDUS]] Show’s the way, sir. |
+| [[Pompey\|POMPEY]] | Come. |
+| *(didascalia)* | Exeunt all but [[Enobarbus]] and Menas |
+| MENAS | (aside)<br>Thy father, [[Pompey]], would ne’er have made this<br>treaty.<br>(To [[Enobarbus]]) You and I have known, sir. |
 | [[Enobarbus\|ENOBARBUS]] | At sea, I think. |
 | MENAS | We have, sir. |
 | [[Enobarbus\|ENOBARBUS]] | You have done [[Well\|well]] by [[Water\|water]]. |
@@ -2324,12 +2283,12 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | MENAS | Nor what I have done by [[Water\|water]]. |
 | [[Enobarbus\|ENOBARBUS]] | Yes, something you can deny for your own safety. You have been a great thief by sea. |
 | MENAS | And you by land. |
-| [[Enobarbus\|ENOBARBUS]] | There I deny my land service; but give me your hand, Menas. If our eyes had authority, here they might take two thieves kissing. They shake hands |
+| [[Enobarbus\|ENOBARBUS]] | There I deny my land service; but give me your hand, Menas. If our eyes had authority, here they might take two thieves kissing.<br>They shake hands |
 | MENAS | All men’s faces are true, whatsome’er their hands are. |
 | [[Enobarbus\|ENOBARBUS]] | But there is never a fair woman has a true face. |
 | MENAS | No slander; they steal hearts. |
 | [[Enobarbus\|ENOBARBUS]] | We came hither to fight with you. |
-| MENAS | For my part, I am sorry it is turned to a drinking. [[Pompey]] doth this day laugh away his fortune. |
+| MENAS | For my part, I am sorry it is turned to a drinking.<br>[[Pompey]] doth this day laugh away his fortune. |
 | [[Enobarbus\|ENOBARBUS]] | If he do, sure he cannot weep’t back again. |
 | MENAS | You’ve said, sir. We looked not for [[Mark Antony]] here. Pray you, is he married to [[Cleopatra]]? |
 | [[Enobarbus\|ENOBARBUS]] | Caesar’s sister is called [[Octavia]]. |
@@ -2341,25 +2300,17 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | [[Enobarbus\|ENOBARBUS]] | If I were bound to divine of this [[unity]] I would not prophesy so. |
 | MENAS | I think the policy of that purpose made more in the [[Marriage\|marriage]] than the [[Love\|love]] of the parties. |
 | [[Enobarbus\|ENOBARBUS]] | I think so, too. But you shall find the band that seems to tie their [[Friendship\|friendship]] together will be the very strangler of their amity. [[Octavia]] is of a holy, cold, and still conversation. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_6--03_exchange_menas" data-title="Antony and Cleopatra — Act II, Scene 6 — exchange (MENAS) [3]" data-chapter="Scene 6" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | MENAS | Who would not have his wife so? |
 | [[Enobarbus\|ENOBARBUS]] | Not he that himself is not so, which is [[Mark Antony]]. He will to his Egyptian dish again; then shall the sighs of [[Octavia]] blow the [[Fire\|fire]] up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance. Antony will use his affection where it is. He married but his occasion here. |
 | MENAS | And thus it may be. Come, sir, will you aboard? I have a health for you. |
 | [[Enobarbus\|ENOBARBUS]] | I shall take it, sir. We have used our throats in [[Egypt]]. |
-| MENAS | Come, let’s away. Exeunt |
+| MENAS | Come, let’s away. |
+| *(didascalia)* | Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="act_2--scene_7--01_exchange_dialogue" data-title="Antony and Cleopatra — Act II, Scene 7 — exchange (dialogue) [1]" data-chapter="Scene 7" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_2--scene_7" data-title="Antony and Cleopatra — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
 
 
 | Speaker | Line |
@@ -2371,91 +2322,82 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | SECOND SERVANT | As they pinch one another by the disposition, he cries out ‘No more!’—reconciles them to his entreaty and himself to th’ drink. |
 | FIRST SERVANT | But it raises the greater war between him and his discretion. |
 | SECOND SERVANT | Why, this it is to have a name in great men’s fellowship. I had as lief have a reed that will do me no service as a partisan I could not heave. |
-| FIRST SERVANT | To be called into a huge sphere and not to be seen to move in’t, are the holes where eyes should be which pitifully disaster the cheeks. A sennet sounded. Enter Caesar, Antony, [[Pompey]], [[Lepidus]], Agrippa, Maecenas,.[[Enobarbus]], and Menas, with other captains and a boy |
-| ANTONY | (to Caesar) Thus do they, sir: they take the flow o’th’ Nile By certain scales i’th’ pyramid. They know By th’ height, the lowness, or the mean, if dearth Or foison follow. The higher Nilus swells The more it promises; as it ebbs, the seedsman Upon the slime and ooze scatters his grain, And shortly comes to harvest. |
+| FIRST SERVANT | To be called into a huge sphere and not to be seen to move in’t, are the holes where eyes should be which pitifully disaster the cheeks. |
+| *(didascalia)* | A sennet sounded. Enter Caesar, Antony, [[Pompey]], [[Lepidus]], Agrippa, Maecenas,.[[Enobarbus]], and Menas, with other captains and a boy |
+| ANTONY | (to Caesar)<br>Thus do they, sir: they take the flow o’th’ Nile<br>By certain scales i’th’ pyramid. They know<br>By th’ height, the lowness, or the mean, if dearth<br>Or foison follow. The higher Nilus swells<br>The more it promises; as it ebbs, the seedsman<br>Upon the slime and ooze scatters his grain,<br>And shortly comes to harvest. |
 | [[Lepidus\|LEPIDUS]] | You’ve strange serpents there? |
 | ANTONY | Ay, [[Lepidus]]. |
 | [[Lepidus\|LEPIDUS]] | Your serpent of [[Egypt]] is bred now of your mud by the operation of your sun; so is your crocodile. |
 | ANTONY | They are so. |
-| [[Pompey\|POMPEY]] | Sit, and some wine. A health to [[Lepidus]]! Antony, [[Pompey]], and [[Lepidus]] sit |
+| [[Pompey\|POMPEY]] | Sit, and some wine. A health to [[Lepidus]]! |
+| *(didascalia)* | Antony, [[Pompey]], and [[Lepidus]] sit |
 | [[Lepidus\|LEPIDUS]] | I am not so [[Well\|well]] as I should be, but I’ll ne’er out. |
 | [[Enobarbus\|ENOBARBUS]] | Not till you have slept—I [[Fear\|fear]] me you’ll be in till then. |
 | [[Lepidus\|LEPIDUS]] | Nay, certainly, I have heard the Ptolemies’ pyramises are very goodly things: without contradiction I have heard that. |
-| MENAS | (aside to [[Pompey]]) [[Pompey]], a word. |
+| MENAS | (aside to [[Pompey]])<br>[[Pompey]], a word. |
 | [[Pompey\|POMPEY]] | (aside to Menas) Say in mine ear; what is’t? |
-| MENAS | (aside to [[Pompey]]) Forsake thy seat, I do beseech thee, captain, And hear me speak a word. |
-| [[Pompey\|POMPEY]] | (aside to Menas) Forbear me till anon. (Aloud) This wine for [[Lepidus]]! Menas whispers in [[Pompey]]’s ear |
+| MENAS | (aside to [[Pompey]])<br>Forsake thy seat, I do beseech thee, captain,<br>And hear me speak a word. |
+| [[Pompey\|POMPEY]] | (aside to Menas) Forbear me till anon.<br>(Aloud) This wine for [[Lepidus]]!<br>Menas whispers in [[Pompey]]’s ear |
 | [[Lepidus\|LEPIDUS]] | What manner o’ thing is your crocodile? |
 | ANTONY | It is shaped, sir, like itself; and it is as broad as it hath breadth. It is just so high as it is, and moves with it own organs. It lives by that which nourisheth it, and the elements once out of it, it transmigrates. |
 | [[Lepidus\|LEPIDUS]] | What colour is it of? |
 | ANTONY | Of it own colour, too. |
 | [[Lepidus\|LEPIDUS]] | ’Tis a strange serpent. |
 | ANTONY | ’Tis so, and the [[Tears\|tears]] of it are wet. |
-| CAESAR | (to Antony) Will this description satisfy him? |
+| CAESAR | (to Antony)<br>Will this description satisfy him? |
 | ANTONY | With the health that [[Pompey]] gives him; else he is a very epicure. |
-| [[Pompey\|POMPEY]] | (aside to Menas) Go hang, sir, hang! Tell me of that? Away, Do as I bid you. (Aloud) Where’s this cup I called for? |
-| MENAS | (aside to [[Pompey]]) If for the sake of merit thou wilt hear me, Rise from thy stool. |
-| [[Pompey\|POMPEY]] | rising I think thou’rt mad. The matter? Menas and [[Pompey]] stand apart |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_7--02_exchange_menas" data-title="Antony and Cleopatra — Act II, Scene 7 — exchange (MENAS) [2]" data-chapter="Scene 7" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Pompey\|POMPEY]] | (aside to Menas)<br>Go hang, sir, hang! Tell me of that? Away,<br>Do as I bid you. (Aloud) Where’s this cup I called for? |
+| MENAS | (aside to [[Pompey]])<br>If for the sake of merit thou wilt hear me,<br>Rise from thy stool. |
+| *(didascalia)* | [[Pompey\|POMPEY]] rising I think thou’rt mad. The matter? |
+| *(didascalia)* | Menas and [[Pompey]] stand apart |
 | MENAS | I have ever held my cap off to thy fortunes. |
-| [[Pompey\|POMPEY]] | Thou hast served me with much [[Faith\|faith]]. What’s else to say? Be jolly, lords. |
-| ANTONY | These quicksands, [[Lepidus]], Keep off them, for you sink. |
+| [[Pompey\|POMPEY]] | Thou hast served me with much [[Faith\|faith]]. What’s else to<br>say?<br>Be jolly, lords. |
+| ANTONY | These quicksands, [[Lepidus]],<br>Keep off them, for you sink. |
 | MENAS | Wilt thou be lord of all the world? |
 | [[Pompey\|POMPEY]] | What sayst thou? |
 | MENAS | Wilt thou be lord of the whole world? That’s twice. |
 | [[Pompey\|POMPEY]] | How should that be? |
-| MENAS | But entertain it And, though thou think me poor, I am the man Will give thee all the world. |
+| MENAS | But entertain it<br>And, though thou think me poor, I am the man<br>Will give thee all the world. |
 | [[Pompey\|POMPEY]] | Hast thou drunk [[Well\|well]]? |
-| MENAS | No, [[Pompey]], I have kept me from the cup. Thou art, if thou dar‘st be, the earthly Jove. Whate’er the ocean pales or sky inclips Is thine, if thou wilt ha’t. |
+| MENAS | No, [[Pompey]], I have kept me from the cup.<br>Thou art, if thou dar‘st be, the earthly Jove.<br>Whate’er the ocean pales or sky inclips<br>Is thine, if thou wilt ha’t. |
 | [[Pompey\|POMPEY]] | Show me which way! |
-| MENAS | These three world-sharers, these competitors, Are in thy vessel. Let me cut the cable; And when we are put off, fall to their throats. All there is thine. |
-| [[Pompey\|POMPEY]] | Ah, this thou shouldst have done And not have spoke on’t. In me ‘tis villainy, In thee ’t had been good service. Thou must know ’Tis not my profit that does lead mine [[Honour\|honour]]; Mine [[Honour\|honour]], it. Repent that e’er thy tongue Hath so betrayed thine act. Being done unknown, I should have found it afterwards [[Well\|well]] done, But must condemn it now. Desist, and drink. He returns to the others |
-| MENAS | (aside) For this, I’ll never follow thy palled fortunes more. Who seeks and will not take when once ’tis offered, Shall never find it more. |
+| MENAS | These three world-sharers, these competitors,<br>Are in thy vessel. Let me cut the cable;<br>And when we are put off, fall to their throats.<br>All there is thine. |
+| [[Pompey\|POMPEY]] | Ah, this thou shouldst have done<br>And not have spoke on’t. In me ‘tis villainy,<br>In thee ’t had been good service. Thou must know<br>’Tis not my profit that does lead mine [[Honour\|honour]];<br>Mine [[Honour\|honour]], it. Repent that e’er thy tongue<br>Hath so betrayed thine act. Being done unknown,<br>I should have found it afterwards [[Well\|well]] done,<br>But must condemn it now. Desist, and drink.<br>He returns to the others |
+| MENAS | (aside)<br>For this, I’ll never follow thy palled fortunes more.<br>Who seeks and will not take when once ’tis offered,<br>Shall never find it more. |
 | [[Pompey\|POMPEY]] | This health to [[Lepidus]]! |
 | ANTONY | Bear him ashore.—I’ll pledge it for him, [[Pompey]]. |
 | [[Enobarbus\|ENOBARBUS]] | Here’s to thee, Menas! |
 | MENAS | [[Enobarbus]], welcome. |
-| [[Pompey\|POMPEY]] | Fill till the cup be hid. One lifts [[Lepidus]], drunk, and carries him off |
+| [[Pompey\|POMPEY]] | Fill till the cup be hid.<br>One lifts [[Lepidus]], drunk, and carries him off |
 | [[Enobarbus\|ENOBARBUS]] | There’s a strong fellow, Menas. |
 | MENAS | Why? 86 |
 | [[Enobarbus\|ENOBARBUS]] | A bears the third part of the world, man; seest not? |
-| MENAS | The third part then is drunk. Would it were all, That it might go on wheels. |
+| MENAS | The third part then is drunk. Would it were all,<br>That it might go on wheels. |
 | [[Enobarbus\|ENOBARBUS]] | Drink thou, increase the reels. |
 | MENAS | Come. |
 | [[Pompey\|POMPEY]] | This is not yet an Alexandrian feast. |
-| ANTONY | It ripens towards it. Strike the vessels, ho! Here’s to Caesar! |
-| CAESAR | I could [[Well\|well]] forbear’t. It’s monstrous labour when I wash my brain, An it grow fouler. |
+| ANTONY | It ripens towards it. Strike the vessels, ho!<br>Here’s to Caesar! |
+| CAESAR | I could [[Well\|well]] forbear’t.<br>It’s monstrous labour when I wash my brain,<br>An it grow fouler. |
 | ANTONY | Be a [[Child\|child]] o’th’ [[Time\|time]]. |
-| CAESAR | Possess it, I’ll make answer. But I had rather fast from all, four days, Than drink so much in one. |
-| [[Enobarbus\|ENOBARBUS]] | (to Antony) Ha, my brave Emperor, Shall we [[Dance\|dance]] now the Egyptian bacchanals, And celebrate our drink? |
+| CAESAR | Possess it, I’ll make answer.<br>But I had rather fast from all, four days,<br>Than drink so much in one. |
+| [[Enobarbus\|ENOBARBUS]] | (to Antony)<br>Ha, my brave Emperor, Shall we [[Dance\|dance]] now the Egyptian bacchanals,<br>And celebrate our drink? |
 | [[Pompey\|POMPEY]] | Let’s ha’t, good soldier. |
-| ANTONY | Come, let’s all take hands Till that the conquering wine hath steeped our sense In soft and delicate Lethe. |
-| [[Enobarbus\|ENOBARBUS]] | All take hands. Make battery to our ears with the loud music. The while I’ll place you, then the boy shall sing. The holding every man shall beat as loud As his strong sides can volley. Music plays. [[Enobarbus]] places them hand in hand Boy (sings) Come, thou monarch of the vine, Plumpy Bacchus, with pink eyne! In thy vats our cares be drowned, With thy grapes our hairs be crowned! Cup us till the world go round, Cup us till the world go round! |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_7--03_exchange_caesar" data-title="Antony and Cleopatra — Act II, Scene 7 — exchange (CAESAR) [3]" data-chapter="Scene 7" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| CAESAR | What would you more? [[Pompey]], good [[Night\|night]]. (To Antony) Good-brother, Let me request you off. Our graver business Frowns at this levity. Gentle lords, let’s part. You see we have burnt our cheeks. Strong Enobarb Is weaker than the wine, and mine own tongue Splits what it speaks. The wild disguise hath almost Anticked us all. What needs more words? Good [[Night\|night]]. Good Antony, your hand. |
+| ANTONY | Come, let’s all take hands<br>Till that the conquering wine hath steeped our sense<br>In soft and delicate Lethe. |
+| [[Enobarbus\|ENOBARBUS]] | All take hands.<br>Make battery to our ears with the loud music.<br>The while I’ll place you, then the boy shall sing.<br>The holding every man shall beat as loud<br>As his strong sides can volley. |
+| *(didascalia)* | Music plays. [[Enobarbus]] places them hand in hand |
+| *(didascalia)* | Boy (sings) |
+| [[Enobarbus\|ENOBARBUS]] | Come, thou monarch of the vine,<br>Plumpy Bacchus, with pink eyne!<br>In thy vats our cares be drowned,<br>With thy grapes our hairs be crowned!<br>Cup us till the world go round,<br>Cup us till the world go round! |
+| CAESAR | What would you more? [[Pompey]], good [[Night\|night]].<br>(To Antony)<br>Good-brother,<br>Let me request you off. Our graver business<br>Frowns at this levity. Gentle lords, let’s part.<br>You see we have burnt our cheeks. Strong Enobarb<br>Is weaker than the wine, and mine own tongue<br>Splits what it speaks. The wild disguise hath almost<br>Anticked us all. What needs more words? Good [[Night\|night]].<br>Good Antony, your hand. |
 | [[Pompey\|POMPEY]] | I’ll try you on the shore. |
 | ANTONY | And shall, sir. Give’s your hand. |
-| [[Pompey\|POMPEY]] | O Antony, You have my father’s [[house]]. But what, we are friends! Come down into the boat. Exeunt all but [[Enobarbus]] and Menas |
+| [[Pompey\|POMPEY]] | O Antony,<br>You have my father’s [[house]]. But what, we are friends!<br>Come down into the boat. |
+| *(didascalia)* | Exeunt all but [[Enobarbus]] and Menas |
 | [[Enobarbus\|ENOBARBUS]] | Take heed you fall not, Menas. |
-| MENAS | I’ll not on shore. No, to my cabin. These drums, these trumpets, flutes, what! Let Neptune hear we bid a loud farewell To these great fellows. Sound and be hanged, sound out! Sound a flourish, with drums |
-| [[Enobarbus\|ENOBARBUS]] | (throwing his cap in the air) Hoo, says a! There’s my cap. |
-| MENAS | Ho, noble captain, come! Exeunt |
+| MENAS | I’ll not on shore.<br>No, to my cabin. These drums, these trumpets, flutes,<br>what!<br>Let Neptune hear we bid a loud farewell<br>To these great fellows. Sound and be hanged, sound out! |
+| *(didascalia)* | Sound a flourish, with drums |
+| [[Enobarbus\|ENOBARBUS]] | (throwing his cap in the air)<br>Hoo, says a! There’s my cap. |
+| MENAS | Ho, noble captain, come! |
+| *(didascalia)* | Exeunt |
 
 
 
@@ -2840,7 +2782,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_13--01_exchange_dialogue" data-title="Antony and Cleopatra — Act III, Scene 13 — exchange (dialogue) [1]" data-chapter="Scene 13" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_3--scene_13" data-title="Antony and Cleopatra — Act III, Scene 13" data-chapter="Scene 13" data-kind="scene"></span>
 
 
 | Speaker | Line |
@@ -2849,97 +2791,87 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | [[Cleopatra\|CLEOPATRA]] | What shall we do, [[Enobarbus]]? |
 | [[Enobarbus\|ENOBARBUS]] | Think, and die. |
 | [[Cleopatra\|CLEOPATRA]] | Is Antony or we in fault for this? |
-| [[Enobarbus\|ENOBARBUS]] | Antony only, that would make his will Lord of his reason. What though you fled From that great face of war, whose several ranges Frighted each other? Why should he follow? The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mooted question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing. |
-| [[Cleopatra\|CLEOPATRA]] | Prithee, peace. Enter the Ambassador with Antony |
+| [[Enobarbus\|ENOBARBUS]] | Antony only, that would make his will<br>Lord of his reason. What though you fled<br>From that great face of war, whose several ranges<br>Frighted each other? Why should he follow?<br>The itch of his affection should not then<br>Have nicked his captainship, at such a point,<br>When half to half the world opposed, he being<br>The mooted question. ’Twas a shame no less<br>Than was his loss, to course your flying flags<br>And leave his navy gazing. |
+| [[Cleopatra\|CLEOPATRA]] | Prithee, peace. |
+| *(didascalia)* | Enter the Ambassador with Antony |
 | ANTONY | Is that his answer? |
 | AMBASSADOR | Ay, my lord. |
-| ANTONY | The [[Queen]] shall then have courtesy, so she Will yield us up. |
+| ANTONY | The [[Queen]] shall then have courtesy, so she<br>Will yield us up. |
 | AMBASSADOR | He says so. |
-| ANTONY | Let her know’t. (To [[Cleopatra]]) To the boy Caesar send this grizzled head, And he will fill thy wishes to the brim With principalities. |
+| ANTONY | Let her know’t.<br>(To [[Cleopatra]]) To the boy Caesar send this grizzled head,<br>And he will fill thy wishes to the brim<br>With principalities. |
 | [[Cleopatra\|CLEOPATRA]] | That head, my lord? |
-| ANTONY | (to the Ambassador) To him again. Tell him he wears the [[Rose\|rose]] Of youth upon him, from which the world should note Something particular. His coin, ships, legions, May be a coward‘s, whose ministers would prevail Under the service of a [[Child\|child]] as soon As i’th’ command of Caesar. I dare him therefore To lay his gay caparisons apart And answer me declined, [[Sword\|sword]] against [[Sword\|sword]], Ourselves [[Alone\|alone]]. I’ll write it. Follow me. Exeunt Antony and Ambassador |
-| [[Enobarbus\|ENOBARBUS]] | (aside) Yes, like enough, high-battled Caesar will Unstate his happiness and be staged to th’ show Against a sworder! I see men’s judgements are A parcel of their fortunes, and things outward Do draw the inward quality after them To suffer all alike. That he should dream, Knowing all measures, the full Caesar will Answer his emptiness! Caesar, thou hast subdued His judgement, too. Enter a Servant |
+| ANTONY | (to the Ambassador)<br>To him again. Tell him he wears the [[Rose\|rose]]<br>Of youth upon him, from which the world should note<br>Something particular. His coin, ships, legions,<br>May be a coward‘s, whose ministers would prevail<br>Under the service of a [[Child\|child]] as soon<br>As i’th’ command of Caesar. I dare him therefore<br>To lay his gay caparisons apart<br>And answer me declined, [[Sword\|sword]] against [[Sword\|sword]],<br>Ourselves [[Alone\|alone]]. I’ll write it. Follow me. |
+| *(didascalia)* | Exeunt Antony and Ambassador |
+| [[Enobarbus\|ENOBARBUS]] | (aside)<br>Yes, like enough, high-battled Caesar will<br>Unstate his happiness and be staged to th’ show<br>Against a sworder! I see men’s judgements are<br>A parcel of their fortunes, and things outward<br>Do draw the inward quality after them<br>To suffer all alike. That he should dream,<br>Knowing all measures, the full Caesar will<br>Answer his emptiness! Caesar, thou hast subdued<br>His judgement, too. |
+| *(didascalia)* | Enter a Servant |
 | SERVANT | A messenger from Caesar. |
-| [[Cleopatra\|CLEOPATRA]] | What, no more ceremony? See, my women: Against the blown [[Rose\|rose]] may they stop their nose, That kneeled unto the buds. Admit him, sir. Exit Servant |
-| [[Enobarbus\|ENOBARBUS]] | (aside) Mine honesty and I begin to square. The loyalty [[Well\|well]] held to fools does make Our [[Faith\|faith]] mere folly; yet he that can endure To follow with allegiance a fall’n lord Does conquer him that did his master conquer, And earns a place i’th’ story. Enter Thidias |
+| [[Cleopatra\|CLEOPATRA]] | What, no more ceremony? See, my women:<br>Against the blown [[Rose\|rose]] may they stop their nose,<br>That kneeled unto the buds. Admit him, sir. |
+| *(didascalia)* | Exit Servant |
+| [[Enobarbus\|ENOBARBUS]] | (aside)<br>Mine honesty and I begin to square.<br>The loyalty [[Well\|well]] held to fools does make<br>Our [[Faith\|faith]] mere folly; yet he that can endure<br>To follow with allegiance a fall’n lord<br>Does conquer him that did his master conquer,<br>And earns a place i’th’ story. |
+| *(didascalia)* | Enter Thidias |
 | [[Cleopatra\|CLEOPATRA]] | Caesar’s will? |
 | THIDIAS | Hear it apart. |
 | [[Cleopatra\|CLEOPATRA]] | None but friends; say boldly. |
 | THIDIAS | So haply are they friends to Antony. |
-| [[Enobarbus\|ENOBARBUS]] | He needs as many, sir, as Caesar has, Or needs not us. If Caesar please, our master Will leap to be his friend. For us, you know, Whose he is, we are: and that is Caesar’s. |
-| THIDIAS | So. (To [[Cleopatra]]) Thus, then, thou most renowned: Caesar entreats Not to consider in what case thou stand’st Further than he is Caesar. |
+| [[Enobarbus\|ENOBARBUS]] | He needs as many, sir, as Caesar has,<br>Or needs not us. If Caesar please, our master<br>Will leap to be his friend. For us, you know,<br>Whose he is, we are: and that is Caesar’s. |
+| THIDIAS | So. (To [[Cleopatra]]) Thus, then, thou most renowned:<br>Caesar entreats<br>Not to consider in what case thou stand’st<br>Further than he is Caesar. |
 | [[Cleopatra\|CLEOPATRA]] | Go on; right royal. |
-| THIDIAS | He knows that you embraced not Antony As you did [[Love\|love]], but as you feared him. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_13--02_exchange_cleopatra" data-title="Antony and Cleopatra — Act III, Scene 13 — exchange (CLEOPATRA) [2]" data-chapter="Scene 13" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| THIDIAS | He knows that you embraced not Antony<br>As you did [[Love\|love]], but as you feared him. |
 | [[Cleopatra\|CLEOPATRA]] | 0. |
-| THIDIAS | The scars upon your [[Honour\|honour]] therefore he Does pity as constrained blemishes, Not as deserved. |
-| [[Cleopatra\|CLEOPATRA]] | He is a god, and knows What is most right. Mine [[Honour\|honour]] was not yielded, But conquered merely. |
-| [[Enobarbus\|ENOBARBUS]] | (aside) To be sure of that I will ask Antony. Sir, sir, thou art so leaky That we must leave thee to thy sinking, for Thy dearest quit thee. Exit |
-| THIDIAS | Shall I say to Caesar What you require of him?—For he partly begs To be desired to give. It much would please him That of his fortunes you should make a staff To lean upon. But it would warm his spirits To hear from me you had left Antony, And put your [[Self\|self]] under his shroud, The universal landlord. |
+| THIDIAS | The scars upon your [[Honour\|honour]] therefore he<br>Does pity as constrained blemishes,<br>Not as deserved. |
+| [[Cleopatra\|CLEOPATRA]] | He is a god, and knows<br>What is most right. Mine [[Honour\|honour]] was not yielded,<br>But conquered merely. |
+| [[Enobarbus\|ENOBARBUS]] | (aside)<br>To be sure of that<br>I will ask Antony. Sir, sir, thou art so leaky<br>That we must leave thee to thy sinking, for<br>Thy dearest quit thee. |
+| *(didascalia)* | Exit |
+| THIDIAS | Shall I say to Caesar<br>What you require of him?—For he partly begs<br>To be desired to give. It much would please him<br>That of his fortunes you should make a staff<br>To lean upon. But it would warm his spirits<br>To hear from me you had left Antony,<br>And put your [[Self\|self]] under his shroud,<br>The universal landlord. |
 | [[Cleopatra\|CLEOPATRA]] | What’s your name? |
 | THIDIAS | My name is Thidias. |
-| [[Cleopatra\|CLEOPATRA]] | Most kind messenger, Say to great Caesar this in deputation: I kiss his conqu’ring hand. Tell him I am prompt To lay my [[Crown\|crown]] at’s feet, and there to kneel Till from his all-obeying breath I hear The doom of [[Egypt]]. |
-| THIDIAS | ’Tis your noblest course. Wisdom and fortune combating together, If that the former dare but what it can, No chance may shake it. Give me grace to lay My duty on your hand. He kisses [[Cleopatra]]’s hand |
-| [[Cleopatra\|CLEOPATRA]] | Your Caesar’s father oft, When he hath mused of taking kingdoms in, Bestowed his lips on that unworthy place, As it rained kisses. Enter Antony and [[Enobarbus]] |
-| ANTONY | Favours, by Jove that thunders! What art thou, fellow? |
-| THIDIAS | One that but performs The bidding of the fullest man, and worthiest To have command obeyed. |
+| [[Cleopatra\|CLEOPATRA]] | Most kind messenger,<br>Say to great Caesar this in deputation:<br>I kiss his conqu’ring hand. Tell him I am prompt<br>To lay my [[Crown\|crown]] at’s feet, and there to kneel<br>Till from his all-obeying breath I hear<br>The doom of [[Egypt]]. |
+| THIDIAS | ’Tis your noblest course.<br>Wisdom and fortune combating together,<br>If that the former dare but what it can,<br>No chance may shake it. Give me grace to lay<br>My duty on your hand.<br>He kisses [[Cleopatra]]’s hand |
+| [[Cleopatra\|CLEOPATRA]] | Your Caesar’s father oft,<br>When he hath mused of taking kingdoms in,<br>Bestowed his lips on that unworthy place,<br>As it rained kisses. |
+| *(didascalia)* | Enter Antony and [[Enobarbus]] |
+| ANTONY | Favours, by Jove that thunders!<br>What art thou, fellow? |
+| THIDIAS | One that but performs<br>The bidding of the fullest man, and worthiest<br>To have command obeyed. |
 | [[Enobarbus\|ENOBARBUS]] | You will be whipped. |
-| ANTONY | (calling) Approach, there!—Ah, you kite! Now, gods and devils, Authority melts from me of late. When I cried ‘Ho!’, Like boys unto a muss kings would start forth, And cry ‘Your will?’—Have you no ears? I am Antony yet. Enter servants Take hence this jack, and whip him. |
-| [[Enobarbus\|ENOBARBUS]] | aside to Thidias ’Tis better playing with a [[Lion\|lion]]’s whelp Than with an old one dying. |
-| ANTONY | [[Moon]] and [[Stars\|stars]]! Whip him! Were’t twenty of the greatest tributaries That do acknowledge Caesar, should I find them So saucy with the hand of she here—what’s her name Since she was [[Cleopatra]]? Whip him, fellows, Till like a boy you see him cringe his face, And whine aloud for [[Mercy\|mercy]]. Take him hence. |
+| ANTONY | (calling)<br>Approach, there!—Ah, you kite! Now, gods and<br>devils,<br>Authority melts from me of late. When I cried ‘Ho!’,<br>Like boys unto a muss kings would start forth,<br>And cry ‘Your will?’—Have you no ears? I am<br>Antony yet. |
+| *(didascalia)* | Enter servants |
+| ANTONY | Take hence this jack, and whip him. |
+| *(didascalia)* | [[Enobarbus\|ENOBARBUS]] aside to Thidias |
+| ANTONY | ’Tis better playing with a [[Lion\|lion]]’s whelp<br>Than with an old one dying. |
+| ANTONY | [[Moon]] and [[Stars\|stars]]!<br>Whip him! Were’t twenty of the greatest tributaries<br>That do acknowledge Caesar, should I find them<br>So saucy with the hand of she here—what’s her name<br>Since she was [[Cleopatra]]? Whip him, fellows,<br>Till like a boy you see him cringe his face,<br>And whine aloud for [[Mercy\|mercy]]. Take him hence. |
 | THIDIAS | [[Mark Antony]]— |
-| ANTONY | Tug him away. Being whipped, Bring him again. This jack of Caesar’s shall Bear us an errand to him. Exeunt servants with Thidias You were half blasted ere I knew you. Ha, Have I my pillow left unpressed in Rome, Forborne the getting of a lawful race, And by a gem of women, to be abused By one that looks on feeders? |
+| ANTONY | Tug him away. Being whipped,<br>Bring him again. This jack of Caesar’s shall<br>Bear us an errand to him. |
+| *(didascalia)* | Exeunt servants with Thidias |
+| ANTONY | You were half blasted ere I knew you. Ha,<br>Have I my pillow left unpressed in Rome,<br>Forborne the getting of a lawful race,<br>And by a gem of women, to be abused<br>By one that looks on feeders? |
 | [[Cleopatra\|CLEOPATRA]] | Good my lord— |
-| ANTONY | You have been a boggler ever. But when we in our viciousness grow hard— O misery on’t!—the wise gods seel our eyes, In our own filth drop our clear judgements, make us Adore our errors, laugh at’s while we strut To our confusion. |
+| ANTONY | You have been a boggler ever.<br>But when we in our viciousness grow hard—<br>O misery on’t!—the wise gods seel our eyes,<br>In our own filth drop our clear judgements, make us<br>Adore our errors, laugh at’s while we strut<br>To our confusion. |
 | [[Cleopatra\|CLEOPATRA]] | O, is’t come to this? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_13--03_exchange_antony" data-title="Antony and Cleopatra — Act III, Scene 13 — exchange (ANTONY) [3]" data-chapter="Scene 13" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| ANTONY | I found you as a morsel cold upon Dead Caesar’s trencher; nay, you were a [[Fragment\|fragment]] Of Gnaeus [[Pompey]]’s, besides what hotter hours Unregistered in vulgar fame you have Luxuriously picked out. For I am sure, Though you can guess what temperance should be, You know not what it is. |
+| ANTONY | I found you as a morsel cold upon<br>Dead Caesar’s trencher; nay, you were a [[Fragment\|fragment]]<br>Of Gnaeus [[Pompey]]’s, besides what hotter hours<br>Unregistered in vulgar fame you have<br>Luxuriously picked out. For I am sure,<br>Though you can guess what temperance should be,<br>You know not what it is. |
 | [[Cleopatra\|CLEOPATRA]] | Wherefore is this? |
-| ANTONY | To let a fellow that will take rewards And say ’God quit you’ be familiar with My playfellow your hand, this kingly seal And plighter of high hearts! O that I were Upon the [[Hill\|hill]] of Basan to outroar The hornèd herd! For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him. Enter a Servant with Thidias Is he whipped? |
+| ANTONY | To let a fellow that will take rewards<br>And say ’God quit you’ be familiar with<br>My playfellow your hand, this kingly seal<br>And plighter of high hearts! O that I were<br>Upon the [[Hill\|hill]] of Basan to outroar<br>The hornèd herd! For I have savage cause,<br>And to proclaim it civilly were like<br>A haltered neck which does the hangman thank<br>For being yare about him. |
+| *(didascalia)* | Enter a Servant with Thidias |
+| ANTONY | Is he whipped? |
 | SERVANT | Soundly, my lord. |
 | ANTONY | Cried he, and begged a pardon? |
 | SERVANT | He did ask favour. |
-| ANTONY | (to Thidias) If that thy father live, let him repent Thou wast not made his daughter; and be thou sorry To follow Caesar in his triumph, since Thou hast been whipped for following him. Henceforth The white hand of a lady fever thee, Shake thou to look on’t. Get thee back to Caesar; Tell him thy entertainment. Look thou say He makes me angry with him, for he seems Proud and disdainful, harping on what I am, Not what he knew I was. He makes me angry, And at this [[Time\|time]] most easy ’tis to do’t, When my good [[Stars\|stars]] that were my former guides Have empty left their orbs, and shot their fires Into th’abyss of hell. If he mislike My speech and what is done, tell him he has Hipparchus, my enfranchèd bondman, whom He may at pleasure whip, or hang, or torture, As he shall like, to quit me. Urge it thou. Hence, with thy stripes, be gone! Exit Servant with Thidias |
+| ANTONY | (to Thidias)<br>If that thy father live, let him repent<br>Thou wast not made his daughter; and be thou sorry<br>To follow Caesar in his triumph, since<br>Thou hast been whipped for following him. Henceforth<br>The white hand of a lady fever thee,<br>Shake thou to look on’t. Get thee back to Caesar;<br>Tell him thy entertainment. Look thou say<br>He makes me angry with him, for he seems<br>Proud and disdainful, harping on what I am,<br>Not what he knew I was. He makes me angry,<br>And at this [[Time\|time]] most easy ’tis to do’t,<br>When my good [[Stars\|stars]] that were my former guides<br>Have empty left their orbs, and shot their fires<br>Into th’abyss of hell. If he mislike<br>My speech and what is done, tell him he has<br>Hipparchus, my enfranchèd bondman, whom<br>He may at pleasure whip, or hang, or torture,<br>As he shall like, to quit me. Urge it thou.<br>Hence, with thy stripes, be gone! |
+| *(didascalia)* | Exit Servant with Thidias |
 | [[Cleopatra\|CLEOPATRA]] | Have you done yet? |
-| ANTONY | Alack, our terrene [[Moon\|moon]] Is now eclipsed, and it portends [[Alone\|alone]] The fall of Antony. |
-| [[Cleopatra\|CLEOPATRA]] | (aside) I must stay his [[Time\|time]]. |
-| ANTONY | To flatter Caesar would you mingle eyes With one that ties his points? |
+| ANTONY | Alack, our terrene [[Moon\|moon]]<br>Is now eclipsed, and it portends [[Alone\|alone]]<br>The fall of Antony. |
+| [[Cleopatra\|CLEOPATRA]] | (aside)<br>I must stay his [[Time\|time]]. |
+| ANTONY | To flatter Caesar would you mingle eyes<br>With one that ties his points? |
 | [[Cleopatra\|CLEOPATRA]] | Not know me yet? |
 | ANTONY | Cold-hearted toward me? |
-| [[Cleopatra\|CLEOPATRA]] | Ah, dear, if I be so, From my cold heart let heaven engender hail, And [[Poison\|poison]] it in the source, and the first stone Drop in my neck: as it determines, so Dissolve my life! The next Caesarion smite, Till by degrees the [[Memory\|memory]] of my womb, Together with my brave Egyptians all, By the discandying of this pelleted [[Storm\|storm]] Lie graveless till the flies and gnats of Nile Have buried them for prey! |
-| ANTONY | I am satisfied. Caesar sits down in Alexandria, where I will oppose his fate. Our force by land Hath nobly held; our severed navy too Have knit again, and fleet, threat’ning most sea-like. Where hast thou been, my heart? Dost thou hear, lady? If from the field I shall return once more To kiss these lips, I will appear in [[Blood\|blood]]. I and my [[Sword\|sword]] will earn our chronicle. There’s [[Hope\|hope]] in’t yet. |
+| [[Cleopatra\|CLEOPATRA]] | Ah, dear, if I be so,<br>From my cold heart let heaven engender hail,<br>And [[Poison\|poison]] it in the source, and the first stone<br>Drop in my neck: as it determines, so<br>Dissolve my life! The next Caesarion smite,<br>Till by degrees the [[Memory\|memory]] of my womb,<br>Together with my brave Egyptians all,<br>By the discandying of this pelleted [[Storm\|storm]]<br>Lie graveless till the flies and gnats of Nile<br>Have buried them for prey! |
+| ANTONY | I am satisfied.<br>Caesar sits down in Alexandria, where<br>I will oppose his fate. Our force by land<br>Hath nobly held; our severed navy too<br>Have knit again, and fleet, threat’ning most sea-like.<br>Where hast thou been, my heart? Dost thou hear,<br>lady?<br>If from the field I shall return once more<br>To kiss these lips, I will appear in [[Blood\|blood]].<br>I and my [[Sword\|sword]] will earn our chronicle.<br>There’s [[Hope\|hope]] in’t yet. |
 | [[Cleopatra\|CLEOPATRA]] | That’s my brave lord. |
-| ANTONY | I will be treble-sinewed, hearted, breathed, And fight maliciously; for when mine hours Were nice and lucky, men did ransom lives Of me for jests; but now I’ll set my teeth, And send to darkness all that stop me. Come, Let’s have one other gaudy [[Night\|night]]. Call to me All my sad captains. Fill our bowls once more. Let’s mock the midnight bell. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_13--04_exchange_cleopatra" data-title="Antony and Cleopatra — Act III, Scene 13 — exchange (CLEOPATRA) [4]" data-chapter="Scene 13" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Cleopatra\|CLEOPATRA]] | It is my birthday. I had thought to’ve held it poor, but since my lord Is Antony again, I will be [[Cleopatra]]. |
+| ANTONY | I will be treble-sinewed, hearted, breathed,<br>And fight maliciously; for when mine hours<br>Were nice and lucky, men did ransom lives<br>Of me for jests; but now I’ll set my teeth,<br>And send to darkness all that stop me. Come,<br>Let’s have one other gaudy [[Night\|night]]. Call to me<br>All my sad captains. Fill our bowls once more.<br>Let’s mock the midnight bell. |
+| [[Cleopatra\|CLEOPATRA]] | It is my birthday.<br>I had thought to’ve held it poor, but since my lord<br>Is Antony again, I will be [[Cleopatra]]. |
 | ANTONY | We will yet do [[Well\|well]]. |
 | [[Cleopatra\|CLEOPATRA]] | Call all his noble captains to my lord! |
-| ANTONY | Do so. We’ll speak to them, and tonight I’ll force The wine peep through their scars. Come on, my [[Queen\|queen]], There’s sap in’t yet. The next [[Time\|time]] I do fight I’ll make [[Death\|death]] [[Love\|love]] me, for I will contend Even with his pestilent scythe. Exeunt all but [[Enobarbus]] |
-| [[Enobarbus\|ENOBARBUS]] | Now he’ll outstare the [[Lightning\|lightning]]. To be furious Is to be frighted out of [[Fear\|fear]], and in that mood The dove will peck the estridge; and I see still A diminution in our captain’s brain Restores his heart. When valour preys on reason, It eats the [[Sword\|sword]] it fights with. I will seek Some way to leave him. Exit |
+| ANTONY | Do so. We’ll speak to them, and tonight I’ll force<br>The wine peep through their scars. Come on, my [[Queen\|queen]],<br>There’s sap in’t yet. The next [[Time\|time]] I do fight<br>I’ll make [[Death\|death]] [[Love\|love]] me, for I will contend<br>Even with his pestilent scythe. |
+| *(didascalia)* | Exeunt all but [[Enobarbus]] |
+| [[Enobarbus\|ENOBARBUS]] | Now he’ll outstare the [[Lightning\|lightning]]. To be furious<br>Is to be frighted out of [[Fear\|fear]], and in that mood<br>The dove will peck the estridge; and I see still<br>A diminution in our captain’s brain<br>Restores his heart. When valour preys on reason,<br>It eats the [[Sword\|sword]] it fights with. I will seek<br>Some way to leave him. |
+| *(didascalia)* | Exit |
 
 
 
@@ -3250,7 +3182,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_15--01_exchange_dialogue" data-title="Antony and Cleopatra — Act IV, Scene 15 — exchange (dialogue) [1]" data-chapter="Scene 15" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_4--scene_15" data-title="Antony and Cleopatra — Act IV, Scene 15" data-chapter="Scene 15" data-kind="scene"></span>
 
 
 | Speaker | Line |
@@ -3258,87 +3190,74 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | *(didascalia)* | Enter Antony and Eros |
 | ANTONY | Eros, thou yet behold’st me? |
 | EROS | Ay, noble lord. |
-| ANTONY | Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or [[Lion\|lion]], A towered citadel, a pendent rock, A forked mountain, or blue promontory With trees upon’t that nod unto the world And mock our eyes with air. Thou hast seen these signs; They are black vesper’s pageants. |
+| ANTONY | Sometime we see a cloud that’s dragonish,<br>A vapour sometime like a bear or [[Lion\|lion]],<br>A towered citadel, a pendent rock,<br>A forked mountain, or blue promontory<br>With trees upon’t that nod unto the world<br>And mock our eyes with air. Thou hast seen these signs;<br>They are black vesper’s pageants. |
 | EROS | Ay, my lord. |
-| ANTONY | That which is now a [[Horse\|horse]] even with a thought The rack distains, and makes it indistinct As [[Water\|water]] is in [[Water\|water]]. |
+| ANTONY | That which is now a [[Horse\|horse]] even with a thought<br>The rack distains, and makes it indistinct<br>As [[Water\|water]] is in [[Water\|water]]. |
 | EROS | It does, my lord. |
-| ANTONY | My good knave Eros, now thy captain is Even such a [[Body\|body]]. Here I am Antony, Yet cannot hold this visible shape, my knave. I made these wars for [[Egypt]], and the [[Queen]]— Whose heart I thought I had, for she had mine, Which whilst it was mine had annexed unto’t A million more, now lost—she, Eros, has Packed cards with Caesar, and false-played my glory Unto an enemy’s triumph. Nay, weep not, gentle Eros. There is left us Ourselves to end ourselves. Enter Mardian O thy vile lady, She has robbed me of my [[Sword\|sword]]! |
-| MARDIAN | No, Antony, My mistress loved thee, and her fortunes mingled With thine entirely. |
-| ANTONY | Hence, saucy eunuch, peace! She hath betrayed me, and shall die the [[Death\|death]]. |
-| MARDIAN | [[Death]] of one person can be paid but once, And that she has discharged. What thou wouldst do Is done unto thy hand. The last she spake Was ‘Antony, most noble Antony!’ Then in the midst a tearing groan did break The name of Antony. It was divided Between her heart and lips. She rendered life, Thy name so buried in her. |
+| ANTONY | My good knave Eros, now thy captain is<br>Even such a [[Body\|body]]. Here I am Antony,<br>Yet cannot hold this visible shape, my knave.<br>I made these wars for [[Egypt]], and the [[Queen]]—<br>Whose heart I thought I had, for she had mine,<br>Which whilst it was mine had annexed unto’t<br>A million more, now lost—she, Eros, has<br>Packed cards with Caesar, and false-played my glory<br>Unto an enemy’s triumph.<br>Nay, weep not, gentle Eros. There is left us<br>Ourselves to end ourselves. |
+| *(didascalia)* | Enter Mardian |
+| ANTONY | O thy vile lady,<br>She has robbed me of my [[Sword\|sword]]! |
+| MARDIAN | No, Antony,<br>My mistress loved thee, and her fortunes mingled<br>With thine entirely. |
+| ANTONY | Hence, saucy eunuch, peace!<br>She hath betrayed me, and shall die the [[Death\|death]]. |
+| MARDIAN | [[Death]] of one person can be paid but once,<br>And that she has discharged. What thou wouldst do<br>Is done unto thy hand. The last she spake<br>Was ‘Antony, most noble Antony!’<br>Then in the midst a tearing groan did break<br>The name of Antony. It was divided<br>Between her heart and lips. She rendered life,<br>Thy name so buried in her. |
 | ANTONY | Dead, then? |
 | MARDIAN | Dead. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_15--02_monologue_antony" data-title="Antony and Cleopatra — Act IV, Scene 15 — monologue (ANTONY) [2]" data-chapter="Scene 15" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| ANTONY | Unarm, Eros. The long day’s task is done, And we must [[Sleep\|sleep]]. (To Mardian) That thou depart’st hence safe Does pay thy labour richly. Go. Exit Mardian Off, pluck off. Eros helps Antony to unarm The seven-fold shield of [[Ajax]] cannot keep The battery from my heart. O, cleave, my sides! Heart, once be stronger than thy continent; Crack thy frail case. Apace, Eros, apace. No more a soldier. Bruised pieces, go; You have been nobly borne.—From me a while. Exit Eros I will o’ertake thee, [[Cleopatra]], and Weep for my pardon. So it must be, for now All length is torture. Since the torch is out, Lie down, and stray no farther. Now all labour Mars what it does; yea, very force entangles Itself with strength. Seal, then, and all is done. Eros!-I come, my [[Queen\|queen]].-Eros!-Stay for me. Where souls do couch on [[Flowers\|flowers]] we’ll hand in hand, And with our sprightly port make the [[Ghosts\|ghosts]] gaze. Dido and her Aeneas shall want troops, And all the haunt be ours. Come, Eros, Eros! Enter Eros |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_15--03_exchange_eros" data-title="Antony and Cleopatra — Act IV, Scene 15 — exchange (EROS) [3]" data-chapter="Scene 15" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| ANTONY | Unarm, Eros. The long day’s task is done,<br>And we must [[Sleep\|sleep]]. (To Mardian) That thou depart’st<br>hence safe<br>Does pay thy labour richly. Go. |
+| *(didascalia)* | Exit Mardian |
+| ANTONY | Off, pluck off.<br>Eros helps Antony to unarm<br>The seven-fold shield of [[Ajax]] cannot keep<br>The battery from my heart. O, cleave, my sides!<br>Heart, once be stronger than thy continent;<br>Crack thy frail case. Apace, Eros, apace.<br>No more a soldier. Bruised pieces, go;<br>You have been nobly borne.—From me a while. |
+| *(didascalia)* | Exit Eros |
+| ANTONY | I will o’ertake thee, [[Cleopatra]], and<br>Weep for my pardon. So it must be, for now<br>All length is torture. Since the torch is out,<br>Lie down, and stray no farther. Now all labour<br>Mars what it does; yea, very force entangles<br>Itself with strength. Seal, then, and all is done.<br>Eros!-I come, my [[Queen\|queen]].-Eros!-Stay for me.<br>Where souls do couch on [[Flowers\|flowers]] we’ll hand in hand,<br>And with our sprightly port make the [[Ghosts\|ghosts]] gaze.<br>Dido and her Aeneas shall want troops,<br>And all the haunt be ours. Come, Eros, Eros! |
+| *(didascalia)* | Enter Eros |
 | EROS | What would my lord? |
-| ANTONY | Since [[Cleopatra]] died I have lived in such dishonour that the gods Detest my baseness. I, that with my [[Sword\|sword]] Quartered the world, and o’er green Neptune’s back With ships made cities, condemn myself to lack The [[Courage\|courage]] of a woman; less noble mind Than she which by her [[Death\|death]] our Caesar tells ‘I am conqueror of myself.’ Thou art sworn, Eros, That when the exigent should come, which now Is come indeed—when I should see behind me Th’inevitable prosecution of Disgrace and horror—that on my command Thou then wouldst kill me. Do’t. The [[Time\|time]] is come. Thou strik‘st not me; ’tis Caesar thou defeat’st. Put colour in thy cheek. |
-| EROS | The gods withhold me! Shall I do that which all the Parthian darts, Though enemy, lost aim and could not? |
-| ANTONY | Eros, Wouldst thou be windowed in great Rome and see Thy master thus with pleached arms, bending down His corrigible neck, his face subdued To penetrative shame, whilst the wheeled seat Of fortunate Caesar, drawn before him, branded His baseness that ensued? |
+| ANTONY | Since [[Cleopatra]] died<br>I have lived in such dishonour that the gods<br>Detest my baseness. I, that with my [[Sword\|sword]]<br>Quartered the world, and o’er green Neptune’s back<br>With ships made cities, condemn myself to lack<br>The [[Courage\|courage]] of a woman; less noble mind<br>Than she which by her [[Death\|death]] our Caesar tells<br>‘I am conqueror of myself.’ Thou art sworn, Eros,<br>That when the exigent should come, which now<br>Is come indeed—when I should see behind me<br>Th’inevitable prosecution of<br>Disgrace and horror—that on my command<br>Thou then wouldst kill me. Do’t. The [[Time\|time]] is come.<br>Thou strik‘st not me; ’tis Caesar thou defeat’st.<br>Put colour in thy cheek. |
+| EROS | The gods withhold me!<br>Shall I do that which all the Parthian darts,<br>Though enemy, lost aim and could not? |
+| ANTONY | Eros,<br>Wouldst thou be windowed in great Rome and see<br>Thy master thus with pleached arms, bending down<br>His corrigible neck, his face subdued<br>To penetrative shame, whilst the wheeled seat<br>Of fortunate Caesar, drawn before him, branded<br>His baseness that ensued? |
 | EROS | I would not see’t. |
-| ANTONY | Come then; for with a wound I must be cured. Draw that thy honest [[Sword\|sword]], which thou hast worn Most useful for thy country. |
+| ANTONY | Come then; for with a wound I must be cured.<br>Draw that thy honest [[Sword\|sword]], which thou hast worn<br>Most useful for thy country. |
 | EROS | O sir, pardon me! 80 |
-| ANTONY | When I did make thee free, swor’st thou not then To do this when I bade thee? Do it at once, Or thy precedent services are all But accidents unpurposed. Draw, and come. |
-| EROS | Turn from me then that noble countenance Wherein the worship of the whole world lies. |
+| ANTONY | When I did make thee free, swor’st thou not then<br>To do this when I bade thee? Do it at once,<br>Or thy precedent services are all<br>But accidents unpurposed. Draw, and come. |
+| EROS | Turn from me then that noble countenance<br>Wherein the worship of the whole world lies. |
 | ANTONY | (turning away) Lo thee! |
 | EROS | My [[Sword\|sword]] is drawn. |
-| ANTONY | Then let it do at once The thing why thou hast drawn it. |
-| EROS | My dear master, My captain, and my Emperor: let me say, Before I strike this bloody stroke, farewell. |
+| ANTONY | Then let it do at once<br>The thing why thou hast drawn it. |
+| EROS | My dear master, My captain, and my Emperor: let me say,<br>Before I strike this bloody stroke, farewell. |
 | ANTONY | ’Tis said, man; and farewell. |
 | EROS | Farewell, great chief. Shall I strike now? |
-| ANTONY | Now, Eros. Eros stabs himself |
-| EROS | Why, there then, thus I do escape the sorrow Of Antony’s [[Death\|death]]. He dies |
-| ANTONY | Thrice nobler than myself, Thou teachest me, O valiant Eros, what I should and thou couldst not. My [[Queen\|queen]] and Eros Have by their brave instruction got upon me A nobleness in record. But I will be A bridegroom in my [[Death\|death]], and run into’t As to a [[Lover\|lover]]’s bed. Come then, and, Eros, Thy master dies thy scholar. To do thus I learned of thee. He stabs himself How, not dead? Not dead? The guard, ho! O, dispatch me! Enter a guard and Decretas |
+| ANTONY | Now, Eros. |
+| *(didascalia)* | Eros stabs himself |
+| EROS | Why, there then, thus I do escape the sorrow<br>Of Antony’s [[Death\|death]].<br>He dies |
+| ANTONY | Thrice nobler than myself,<br>Thou teachest me, O valiant Eros, what<br>I should and thou couldst not. My [[Queen\|queen]] and Eros<br>Have by their brave instruction got upon me<br>A nobleness in record. But I will be<br>A bridegroom in my [[Death\|death]], and run into’t<br>As to a [[Lover\|lover]]’s bed. Come then, and, Eros,<br>Thy master dies thy scholar. To do thus<br>I learned of thee.<br>He stabs himself<br>How, not dead? Not dead?<br>The guard, ho! O, dispatch me! |
+| *(didascalia)* | Enter a guard and Decretas |
 | FIRST GUARD | What’s the noise? |
-| ANTONY | I have done my work ill, friends. O, make an end Of what I have begun! |
+| ANTONY | I have done my work ill, friends. O, make an end<br>Of what I have begun! |
 | SECOND GUARD | The star is fall’n. |
 | FIRST GUARD | And [[Time\|time]] is at his period. |
-| ALL THE GUARDS | Alas And woe! |
+| ALL THE GUARDS | Alas<br>And woe! |
 | ANTONY | Let him that loves me strike me dead. |
 | FIRST GUARD | Not I. |
 | SECOND GUARD | Nor I. |
-| THIRD GUARD | Nor anyone. Exeunt the guard |
-| DECRETAS | Thy [[Death\|death]] and fortunes bid thy followers fly. He takes Antony’s [[Sword\|sword]] This [[Sword\|sword]] but shown to Caesar, with this tidings, Shall enter me with him. Enter Diomedes |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_15--04_exchange_diomedes" data-title="Antony and Cleopatra — Act IV, Scene 15 — exchange (DIOMEDES) [4]" data-chapter="Scene 15" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| THIRD GUARD | Nor anyone. |
+| *(didascalia)* | Exeunt the guard |
+| DECRETAS | Thy [[Death\|death]] and fortunes bid thy followers fly.<br>He takes Antony’s [[Sword\|sword]]<br>This [[Sword\|sword]] but shown to Caesar, with this tidings,<br>Shall enter me with him. |
+| *(didascalia)* | Enter Diomedes |
 | DIOMEDES | Where’s Antony? |
 | DECRETAS | There, Diomed, there. |
-| DIOMEDES | Lives he? Wilt thou not answer, man? Exit Decretas |
-| ANTONY | Art thou there, Diomed? Draw thy [[Sword\|sword]], and give me Sufficing strokes for [[Death\|death]]. |
-| DIOMEDES | Most absolute lord, My mistress [[Cleopatra]] sent me to thee. |
+| DIOMEDES | Lives he? Wilt thou not answer, man? |
+| *(didascalia)* | Exit Decretas |
+| ANTONY | Art thou there, Diomed? Draw thy [[Sword\|sword]], and give me<br>Sufficing strokes for [[Death\|death]]. |
+| DIOMEDES | Most absolute lord,<br>My mistress [[Cleopatra]] sent me to thee. |
 | ANTONY | When did she send thee? |
 | DIOMEDES | Now, my lord. |
 | ANTONY | Where is she? |
-| DIOMEDES | Locked in her monument. She had a prophesying [[Fear\|fear]] Of what hath come to pass; for when she saw— Which never shall be found—you did suspect She had disposed with Caesar, and that your rage Would not be purged, she sent word she was dead; But fearing since how it might work, hath sent Me to proclaim the [[Truth\|truth]]; and I am come, I dread, too late. |
+| DIOMEDES | Locked in her monument. She had a prophesying [[Fear\|fear]]<br>Of what hath come to pass; for when she saw—<br>Which never shall be found—you did suspect<br>She had disposed with Caesar, and that your rage<br>Would not be purged, she sent word she was dead;<br>But fearing since how it might work, hath sent<br>Me to proclaim the [[Truth\|truth]]; and I am come,<br>I dread, too late. |
 | ANTONY | Too late, good Diomed. Call my guard, I prithee. |
-| DIOMEDES | What ho, the Emperor’s guard! The guard, what hot Come, your lord calls. Enter four or five of the guard of Antony |
-| ANTONY | Bear me, good friends, where [[Cleopatra]] bides. ’Tis the last service that I shall command you. |
-| FIRST GUARD | Woe, woe are we, sir, you may not live to wear All your true followers out. |
+| DIOMEDES | What ho, the Emperor’s guard! The guard, what hot<br>Come, your lord calls. |
+| *(didascalia)* | Enter four or five of the guard of Antony |
+| ANTONY | Bear me, good friends, where [[Cleopatra]] bides.<br>’Tis the last service that I shall command you. |
+| FIRST GUARD | Woe, woe are we, sir, you may not live to wear<br>All your true followers out. |
 | ALL THE GUARDS | Most heavy day! |
-| ANTONY | Nay, good my fellows, do not please sharp fate To grace it with your sorrows. Bid that welcome Which comes to punish us, and we punish it, Seeming to bear it lightly. Take me up. I have led you oft; carry me now, good friends, And have my thanks for all. Exeunt bearing Antony and Eros |
+| ANTONY | Nay, good my fellows, do not please sharp fate<br>To grace it with your sorrows. Bid that welcome<br>Which comes to punish us, and we punish it,<br>Seeming to bear it lightly. Take me up.<br>I have led you oft; carry me now, good friends,<br>And have my thanks for all. |
+| *(didascalia)* | Exeunt bearing Antony and Eros |
 
 
 
@@ -3425,138 +3344,125 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2--01_exchange_dialogue" data-title="Antony and Cleopatra — Act V, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Antony and Cleopatra — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Cleopatra]], [[Charmian]], Iras, and Mardian |
-| [[Cleopatra\|CLEOPATRA]] | My desolation does begin to make A better life. ’Tis paltry to be Caesar. Not being Fortune, he’s but Fortune’s knave, A minister of her will. And it is great To do that thing that ends all other deeds, Which shackles accidents and bolts up change, Which sleeps and never palates more the dung, The beggar’s [[Nurse\|nurse]], and Caesar’s. Enter Proculeius |
-| PROCULEIUS | Caesar sends greeting to the [[Queen]] of [[Egypt]], And bids thee study on what fair demands Thou mean’st to have him grant thee. |
+| [[Cleopatra\|CLEOPATRA]] | My desolation does begin to make<br>A better life. ’Tis paltry to be Caesar.<br>Not being Fortune, he’s but Fortune’s knave,<br>A minister of her will. And it is great<br>To do that thing that ends all other deeds,<br>Which shackles accidents and bolts up change,<br>Which sleeps and never palates more the dung,<br>The beggar’s [[Nurse\|nurse]], and Caesar’s. |
+| *(didascalia)* | Enter Proculeius |
+| PROCULEIUS | Caesar sends greeting to the [[Queen]] of [[Egypt]],<br>And bids thee study on what fair demands<br>Thou mean’st to have him grant thee. |
 | [[Cleopatra\|CLEOPATRA]] | What’s thy name? |
 | PROCULEIUS | My name is Proculeius. |
-| [[Cleopatra\|CLEOPATRA]] | Antony Did tell me of you, bade me trust you; but I do not greatly care to be deceived, That have no use for trusting. If your master Would have a [[Queen\|queen]] his beggar, you must tell him That majesty, to keep decorum, must No less beg than a kingdom. If he please To give me conquered [[Egypt]] for my son, He gives me so much of mine own as I Will kneel to him with thanks. |
-| PROCULEIUS | Be of good cheer. You’re fall’n into a princely hand; [[Fear\|fear]] nothing. Make your full reference freely to my lord, Who is so full of grace that it flows over On all that need. Let me report to him Your sweet dependency, and you shall find A conqueror that will pray in aid for kindness, Where he for grace is kneeled to. |
-| [[Cleopatra\|CLEOPATRA]] | Pray you, tell him I am his fortune’s vassal, and I send him The [[Greatness\|greatness]] he has got. I hourly learn A doctrine of obedience, and would gladly Look him i’th’ face. |
-| PROCULEIUS | This I’ll report, dear lady; Have comfort, for I know your plight is pitied Of him that caused it. Enter Roman soldiers from behind |
-| PROCULEIUS | (to the soldiers) You see how easily she may be surprised. Guard her till Caesar come. |
+| [[Cleopatra\|CLEOPATRA]] | Antony<br>Did tell me of you, bade me trust you; but<br>I do not greatly care to be deceived,<br>That have no use for trusting. If your master<br>Would have a [[Queen\|queen]] his beggar, you must tell him<br>That majesty, to keep decorum, must<br>No less beg than a kingdom. If he please<br>To give me conquered [[Egypt]] for my son,<br>He gives me so much of mine own as I<br>Will kneel to him with thanks. |
+| PROCULEIUS | Be of good cheer.<br>You’re fall’n into a princely hand; [[Fear\|fear]] nothing.<br>Make your full reference freely to my lord,<br>Who is so full of grace that it flows over<br>On all that need. Let me report to him<br>Your sweet dependency, and you shall find<br>A conqueror that will pray in aid for kindness,<br>Where he for grace is kneeled to. |
+| [[Cleopatra\|CLEOPATRA]] | Pray you, tell him<br>I am his fortune’s vassal, and I send him<br>The [[Greatness\|greatness]] he has got. I hourly learn<br>A doctrine of obedience, and would gladly<br>Look him i’th’ face. |
+| PROCULEIUS | This I’ll report, dear lady;<br>Have comfort, for I know your plight is pitied<br>Of him that caused it. |
+| *(didascalia)* | Enter Roman soldiers from behind |
+| PROCULEIUS | (to the soldiers)<br>You see how easily she may be surprised.<br>Guard her till Caesar come. |
 | IRAS | Royal [[Queen]]- |
 | [[Charmian\|CHARMIAN]] | O [[Cleopatra]], thou art taken, [[Queen]]! |
-| [[Cleopatra\|CLEOPATRA]] | (drawing a dagger) Quick, quick, good hands! |
-| PROCULEIUS | (disarming [[Cleopatra]]) Hold, worthy lady, hold! Do not yourself such wrong, who are in this Relieved but not betrayed. |
-| [[Cleopatra\|CLEOPATRA]] | What, of [[Death\|death]] too, That rids our [[dogs]] of languish? |
-| PROCULEIUS | [[Cleopatra]], Do not abuse my master’s bounty by Th’undoing of yourself. Let the world see His nobleness [[Well\|well]] acted, which your [[Death\|death]] Will never let come forth. |
-| [[Cleopatra\|CLEOPATRA]] | Where art thou, [[Death\|death]]? Come hither, come. Come, come, and take a [[Queen\|queen]] Worth many babes and beggars. |
+| [[Cleopatra\|CLEOPATRA]] | (drawing a dagger)<br>Quick, quick, good hands! |
+| PROCULEIUS | (disarming [[Cleopatra]])<br>Hold, worthy lady, hold!<br>Do not yourself such wrong, who are in this<br>Relieved but not betrayed. |
+| [[Cleopatra\|CLEOPATRA]] | What, of [[Death\|death]] too,<br>That rids our [[dogs]] of languish? |
+| PROCULEIUS | [[Cleopatra]],<br>Do not abuse my master’s bounty by<br>Th’undoing of yourself. Let the world see<br>His nobleness [[Well\|well]] acted, which your [[Death\|death]]<br>Will never let come forth. |
+| [[Cleopatra\|CLEOPATRA]] | Where art thou, [[Death\|death]]?<br>Come hither, come. Come, come, and take a [[Queen\|queen]]<br>Worth many babes and beggars. |
 | PROCULEIUS | O temperance, lady! |
-| [[Cleopatra\|CLEOPATRA]] | Sir, I will eat no meat. I’ll not drink, sir. If idle talk will once be necessary, I’ll not [[Sleep\|sleep]], neither. This mortal [[house]] I’ll ruin, Do Caesar what he can. Know, sir, that I Will not wait pinioned at your master’s [[Court\|court]], Nor once be chastised with the sober eye Of dull [[Octavia]]. Shall they hoist me up And show me to the shouting varletry Of censuring Rome? Rather a ditch in [[Egypt]] Be gentle [[Grave\|grave]] unto me; rather on Nilus’ mud Lay me stark naked, and let the waterflies Blow me into abhorring; rather make My country’s high pyramides my gibbet, And hang me up in [[Chains\|chains]]. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--02_exchange_proculeius" data-title="Antony and Cleopatra — Act V, Scene 2 — exchange (PROCULEIUS) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PROCULEIUS | You do extend These thoughts of horror further than you shall Find cause in Caesar. Enter Dolabella |
-| DOLABELLA | Proculeius, What thou hast done thy master Caesar knows, And he hath sent for thee. For the [[Queen]], I’ll take her to my guard. |
-| PROCULEIUS | So, Dolabella, It shall content me best. Be gentle to her. (To [[Cleopatra]]) To Caesar I will speak what you shall please, If you’ll employ me to him. |
-| [[Cleopatra\|CLEOPATRA]] | Say I would die. Exit Proculeius |
+| [[Cleopatra\|CLEOPATRA]] | Sir, I will eat no meat. I’ll not drink, sir.<br>If idle talk will once be necessary,<br>I’ll not [[Sleep\|sleep]], neither. This mortal [[house]] I’ll ruin,<br>Do Caesar what he can. Know, sir, that I<br>Will not wait pinioned at your master’s [[Court\|court]],<br>Nor once be chastised with the sober eye<br>Of dull [[Octavia]]. Shall they hoist me up<br>And show me to the shouting varletry<br>Of censuring Rome? Rather a ditch in [[Egypt]]<br>Be gentle [[Grave\|grave]] unto me; rather on Nilus’ mud<br>Lay me stark naked, and let the waterflies<br>Blow me into abhorring; rather make<br>My country’s high pyramides my gibbet,<br>And hang me up in [[Chains\|chains]]. |
+| PROCULEIUS | You do extend<br>These thoughts of horror further than you shall<br>Find cause in Caesar. |
+| *(didascalia)* | Enter Dolabella |
+| DOLABELLA | Proculeius,<br>What thou hast done thy master Caesar knows,<br>And he hath sent for thee. For the [[Queen]],<br>I’ll take her to my guard. |
+| PROCULEIUS | So, Dolabella,<br>It shall content me best. Be gentle to her.<br>(To [[Cleopatra]]) To Caesar I will speak what you shall<br>please,<br>If you’ll employ me to him. |
+| [[Cleopatra\|CLEOPATRA]] | Say I would die. |
+| *(didascalia)* | Exit Proculeius |
 | DOLABELLA | Most noble Empress, you have heard of me. |
 | [[Cleopatra\|CLEOPATRA]] | I cannot tell. |
 | DOLABELLA | Assuredly you know me. |
-| [[Cleopatra\|CLEOPATRA]] | No matter, sir, what I have heard or known. You laugh when boys or women tell their [[Dreams\|dreams]]; Is’t not your trick? |
+| [[Cleopatra\|CLEOPATRA]] | No matter, sir, what I have heard or known.<br>You laugh when boys or women tell their [[Dreams\|dreams]];<br>Is’t not your trick? |
 | DOLABELLA | I understand not, madam. |
-| [[Cleopatra\|CLEOPATRA]] | I dreamt there was an Emperor Antony. O, such another [[Sleep\|sleep]], that I might see But such another man! |
+| [[Cleopatra\|CLEOPATRA]] | I dreamt there was an Emperor Antony.<br>O, such another [[Sleep\|sleep]], that I might see<br>But such another man! |
 | DOLABELLA | If it might please ye— |
-| [[Cleopatra\|CLEOPATRA]] | His face was as the heav‘ns, and therein stuck A sun and [[Moon\|moon]], which kept their course and lighted The little O o’th’ earth. |
+| [[Cleopatra\|CLEOPATRA]] | His face was as the heav‘ns, and therein stuck<br>A sun and [[Moon\|moon]], which kept their course and lighted<br>The little O o’th’ earth. |
 | DOLABELLA | Most sovereign creature— |
-| [[Cleopatra\|CLEOPATRA]] | His legs bestrid the ocean; his reared arm Crested the world. His voice was propertied As all the tuned spheres, and that to friends; But when he meant to quail and shake the orb, He was as rattling thunder. For his bounty, There was no [[Winter\|winter]] in’t; an [[Autumn\|autumn]] ’twas, That grew the more by reaping. His delights Were dolphin-like; they showed his back above The element they lived in. In his livery Walked crowns and crownets. Realms and islands were As plates dropped from his pocket. |
+| [[Cleopatra\|CLEOPATRA]] | His legs bestrid the ocean; his reared arm<br>Crested the world. His voice was propertied<br>As all the tuned spheres, and that to friends;<br>But when he meant to quail and shake the orb,<br>He was as rattling thunder. For his bounty,<br>There was no [[Winter\|winter]] in’t; an [[Autumn\|autumn]] ’twas,<br>That grew the more by reaping. His delights<br>Were dolphin-like; they showed his back above<br>The element they lived in. In his livery<br>Walked crowns and crownets. Realms and islands were<br>As plates dropped from his pocket. |
 | DOLABELLA | [[Cleopatra]]— |
-| [[Cleopatra\|CLEOPATRA]] | Think you there was, or might be, such a man As this I dreamt of? |
+| [[Cleopatra\|CLEOPATRA]] | Think you there was, or might be, such a man<br>As this I dreamt of? |
 | DOLABELLA | Gentle madam, no. |
-| [[Cleopatra\|CLEOPATRA]] | You lie, up to the hearing of the gods. But if there be, or ever were one such, It’s past the size of dreaming. [[Nature]] wants stuff To vie strange forms with fancy; yet t‘imagine An Antony were [[Nature\|nature]]’s piece ’gainst fancy, Condemning shadows quite. |
-| DOLABELLA | Hear me, good madam: Your loss is as yourself, great, and you bear it As answering to the weight. Would I might never O’ertake pursued [[success]] but I do feel, By the rebound of yours, a grief that smites My very heart at root. |
-| [[Cleopatra\|CLEOPATRA]] | I thank you, sir. Know you what Caesar means to do with me? |
+| [[Cleopatra\|CLEOPATRA]] | You lie, up to the hearing of the gods.<br>But if there be, or ever were one such,<br>It’s past the size of dreaming. [[Nature]] wants stuff<br>To vie strange forms with fancy; yet t‘imagine<br>An Antony were [[Nature\|nature]]’s piece ’gainst fancy,<br>Condemning shadows quite. |
+| DOLABELLA | Hear me, good madam: Your loss is as yourself, great, and you bear it<br>As answering to the weight. Would I might never<br>O’ertake pursued [[success]] but I do feel,<br>By the rebound of yours, a grief that smites<br>My very heart at root. |
+| [[Cleopatra\|CLEOPATRA]] | I thank you, sir.<br>Know you what Caesar means to do with me? |
 | DOLABELLA | I am loath to tell you what I would you knew. |
 | [[Cleopatra\|CLEOPATRA]] | Nay, pray you, sir. |
 | DOLABELLA | Though he be honourable— |
 | [[Cleopatra\|CLEOPATRA]] | He’ll lead me then in triumph. |
-| DOLABELLA | Madam, he will, I know’t. Flourish. Enter Caesar, with Proculeius, Gallus, Maecenas, and others of his train |
+| DOLABELLA | Madam, he will, I know’t. |
+| *(didascalia)* | Flourish. Enter Caesar, with Proculeius, Gallus, Maecenas, and others of his train |
 | ALL | Make way, there! Caesar! |
 | CAESAR | Which is the [[Queen]] of [[Egypt]]? |
-| DOLABELLA | (to [[Cleopatra]]) It is the Emperor, madam. [[Cleopatra]] kneels |
-| CAESAR | Arise! You shall not kneel. I pray you rise, rise, [[Egypt]]. |
-| [[Cleopatra\|CLEOPATRA]] | (rising) Sir, the gods Will have it thus. My master and my lord I must obey. |
-| CAESAR | Take to you no hard thoughts. The record of what injuries you did us, Though written in our flesh, we shall remember As things but done by chance. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--03_exchange_cleopatra" data-title="Antony and Cleopatra — Act V, Scene 2 — exchange (CLEOPATRA) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Cleopatra\|CLEOPATRA]] | Sole sir o’th’ world, I cannot project mine own cause so [[Well\|well]] To make it clear, but do confess I have Been laden with like frailties which before Have often shamed our sex. |
-| CAESAR | [[Cleopatra]], know We will extenuate rather than enforce. If you apply yourself to our intents, Which towards you are most gentle, you shall find A benefit in this change; but if you seek To lay on me a cruelty by taking Antony’s course, you shall bereave yourself Of my good purposes and put your children To that destruction which I’ll guard them from, If thereon you rely. I’ll take my leave. |
-| [[Cleopatra\|CLEOPATRA]] | And may through all the world! ’Tis yours, and we, Your scutcheons and your signs of conquest, shall Hang in what place you please. (Giving a paper) Here, my good lord. |
+| DOLABELLA | (to [[Cleopatra]])<br>It is the Emperor, madam.<br>[[Cleopatra]] kneels |
+| CAESAR | Arise! You shall not kneel.<br>I pray you rise, rise, [[Egypt]]. |
+| [[Cleopatra\|CLEOPATRA]] | (rising)<br>Sir, the gods<br>Will have it thus. My master and my lord<br>I must obey. |
+| CAESAR | Take to you no hard thoughts.<br>The record of what injuries you did us,<br>Though written in our flesh, we shall remember<br>As things but done by chance. |
+| [[Cleopatra\|CLEOPATRA]] | Sole sir o’th’ world, I cannot project mine own cause so [[Well\|well]]<br>To make it clear, but do confess I have<br>Been laden with like frailties which before<br>Have often shamed our sex. |
+| CAESAR | [[Cleopatra]], know<br>We will extenuate rather than enforce.<br>If you apply yourself to our intents,<br>Which towards you are most gentle, you shall find<br>A benefit in this change; but if you seek<br>To lay on me a cruelty by taking<br>Antony’s course, you shall bereave yourself<br>Of my good purposes and put your children<br>To that destruction which I’ll guard them from,<br>If thereon you rely. I’ll take my leave. |
+| [[Cleopatra\|CLEOPATRA]] | And may through all the world! ’Tis yours, and we,<br>Your scutcheons and your signs of conquest, shall<br>Hang in what place you please. (Giving a paper) Here,<br>my good lord. |
 | CAESAR | You shall advise me in all for [[Cleopatra]]. |
-| [[Cleopatra\|CLEOPATRA]] | This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted. Where’s Seleucus? Enter Seleucus |
+| [[Cleopatra\|CLEOPATRA]] | This is the brief of money, plate, and jewels<br>I am possessed of. ’Tis exactly valued,<br>Not petty things admitted. Where’s Seleucus? |
+| *(didascalia)* | Enter Seleucus |
 | SELEUCUS | Here, madam. |
-| [[Cleopatra\|CLEOPATRA]] | (to Caesar) This is my treasurer. Let him speak, my lord, Upon his peril, that I have reserved To myself nothing. Speak the [[Truth\|truth]], Seleucus. |
-| SELEUCUS | Madam, I had rather seal my lips Than to my peril speak that which is not. |
+| [[Cleopatra\|CLEOPATRA]] | (to Caesar)<br>This is my treasurer. Let him speak, my lord,<br>Upon his peril, that I have reserved<br>To myself nothing. Speak the [[Truth\|truth]], Seleucus. |
+| SELEUCUS | Madam, I had rather seal my lips<br>Than to my peril speak that which is not. |
 | [[Cleopatra\|CLEOPATRA]] | What have I kept back? |
 | SELEUCUS | Enough to purchase what you have made known. |
-| CAESAR | Nay, blush not, [[Cleopatra]]. I approve Your wisdom in the deed. |
-| [[Cleopatra\|CLEOPATRA]] | See, Caesar! O, behold How pomp is followed! Mine will now be yours, And should we shift estates, yours would be mine. The ingratitude of this Seleucus does Even make me wild.—O slave, of no more trust Than [[Love\|love]] that’s hired! What, goest thou back? Thou shalt Go back, I warrant thee; but I’ll catch thine eyes Though they had wings. Slave, soulless [[Villain\|villain]], dog! O rarely base! |
+| CAESAR | Nay, blush not, [[Cleopatra]]. I approve<br>Your wisdom in the deed. |
+| [[Cleopatra\|CLEOPATRA]] | See, Caesar! O, behold<br>How pomp is followed! Mine will now be yours,<br>And should we shift estates, yours would be mine.<br>The ingratitude of this Seleucus does<br>Even make me wild.—O slave, of no more trust<br>Than [[Love\|love]] that’s hired! What, goest thou back? Thou<br>shalt<br>Go back, I warrant thee; but I’ll catch thine eyes<br>Though they had wings. Slave, soulless [[Villain\|villain]], dog!<br>O rarely base! |
 | CAESAR | Good [[Queen]], let us entreat you. |
-| [[Cleopatra\|CLEOPATRA]] | O Caesar, what a wounding shame is this, That thou vouchsafing here to visit me, Doing the [[Honour\|honour]] of thy lordliness To one so meek—that mine own servant should Parcel the sum of my disgraces by Addition of his envy. Say, good Caesar, That I some lady trifles have reserved, Immoment toys, things of such dignity As we greet modern friends withal; and say Some nobler token I have kept apart For Livia and [[Octavia]], to induce Their mediation—must I be unfolded With one that I have bred? The gods! It smites me Beneath the fall I have. (To Seleucus) Prithee, go hence, Or I shall show the cinders of my spirits Through th’ashes of my chance. Wert thou a man Thou wouldst have [[Mercy\|mercy]] on me. |
-| CAESAR | Forbear, Seleucus. Exit Seleucus |
-| [[Cleopatra\|CLEOPATRA]] | Be it known that we, the greatest, are misthought For things that others do; and when we fall We answer others’ merits in our name, Are therefore to be pitied. |
-| CAESAR | [[Cleopatra]], Not what you have reserved nor what acknowledged Put we i’th’ roll of conquest. Still be’t yours. Bestow it at your pleasure, and believe Caesar’s no merchant, to make prize with you Of things that merchants sold. Therefore be cheered. Make not your thoughts your prisons. No, dear [[Queen]]; For we intend so to dispose you as Yourself shall give us counsel. Feed and [[Sleep\|sleep]]. Our care and pity is so much upon you That we remain your friend; and so adieu. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--04_exchange_cleopatra" data-title="Antony and Cleopatra — Act V, Scene 2 — exchange (CLEOPATRA) [4]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| [[Cleopatra\|CLEOPATRA]] | O Caesar, what a wounding shame is this,<br>That thou vouchsafing here to visit me,<br>Doing the [[Honour\|honour]] of thy lordliness<br>To one so meek—that mine own servant should<br>Parcel the sum of my disgraces by<br>Addition of his envy. Say, good Caesar,<br>That I some lady trifles have reserved,<br>Immoment toys, things of such dignity<br>As we greet modern friends withal; and say<br>Some nobler token I have kept apart<br>For Livia and [[Octavia]], to induce<br>Their mediation—must I be unfolded<br>With one that I have bred? The gods! It smites me<br>Beneath the fall I have. (To Seleucus) Prithee, go hence,<br>Or I shall show the cinders of my spirits<br>Through th’ashes of my chance. Wert thou a man<br>Thou wouldst have [[Mercy\|mercy]] on me. |
+| CAESAR | Forbear, Seleucus. |
+| *(didascalia)* | Exit Seleucus |
+| [[Cleopatra\|CLEOPATRA]] | Be it known that we, the greatest, are misthought<br>For things that others do; and when we fall<br>We answer others’ merits in our name,<br>Are therefore to be pitied. |
+| CAESAR | [[Cleopatra]],<br>Not what you have reserved nor what acknowledged<br>Put we i’th’ roll of conquest. Still be’t yours.<br>Bestow it at your pleasure, and believe<br>Caesar’s no merchant, to make prize with you<br>Of things that merchants sold. Therefore be cheered.<br>Make not your thoughts your prisons. No, dear<br>[[Queen]];<br>For we intend so to dispose you as<br>Yourself shall give us counsel. Feed and [[Sleep\|sleep]].<br>Our care and pity is so much upon you<br>That we remain your friend; and so adieu. |
 | [[Cleopatra\|CLEOPATRA]] | My master and my lord! |
-| CAESAR | Not so. Adieu. Flourish. Exeunt Caesar and his train |
-| [[Cleopatra\|CLEOPATRA]] | He words me, girls, he words me, that I should not Be noble to myself. But hark thee, [[Charmian]]. She whispers to [[Charmian]] |
-| IRAS | Finish, good lady. The bright day is done, And we are for the dark. |
-| [[Cleopatra\|CLEOPATRA]] | (to [[Charmian]]) Hie thee again. I have spoke already, and it is provided. Go put it to the haste. |
-| [[Charmian\|CHARMIAN]] | Madam, I will. Enter Dolabella |
+| CAESAR | Not so. Adieu. |
+| *(didascalia)* | Flourish. Exeunt Caesar and his train |
+| [[Cleopatra\|CLEOPATRA]] | He words me, girls, he words me, that I should not<br>Be noble to myself. But hark thee, [[Charmian]].<br>She whispers to [[Charmian]] |
+| IRAS | Finish, good lady. The bright day is done,<br>And we are for the dark. |
+| [[Cleopatra\|CLEOPATRA]] | (to [[Charmian]]) Hie thee again.<br>I have spoke already, and it is provided.<br>Go put it to the haste. |
+| [[Charmian\|CHARMIAN]] | Madam, I will. |
+| *(didascalia)* | Enter Dolabella |
 | DOLABELLA | Where’s the [[Queen]]? |
-| [[Charmian\|CHARMIAN]] | Behold, sir. Exit |
+| [[Charmian\|CHARMIAN]] | Behold, sir. |
+| *(didascalia)* | Exit |
 | [[Cleopatra\|CLEOPATRA]] | Dolabella! |
-| DOLABELLA | Madam, as thereto sworn by your command— Which my [[Love\|love]] makes religion to obey— I tell you this: Caesar through Syria Intends his [[Journey\|journey]], and within three days You with your children will he send before. Make your best use of this. I have performed Your pleasure, and my promise. |
-| [[Cleopatra\|CLEOPATRA]] | Dolabella, I shall remain your debtor. |
-| DOLABELLA | I your servant. Adieu, good [[Queen]]. I must attend on Caesar. |
-| [[Cleopatra\|CLEOPATRA]] | Farewell, and thanks. Exit Dolabella Now, Iras, what think’st thou? Thou, an Egyptian puppet shall be shown In Rome, as [[Well\|well]] as I. Mechanic slaves With greasy aprons, rules, and hammers shall Uplift us to the view. In their thick breaths, Rank of gross diet, shall we be enclouded, And forced to drink their vapour. |
+| DOLABELLA | Madam, as thereto sworn by your command—<br>Which my [[Love\|love]] makes religion to obey—<br>I tell you this: Caesar through Syria<br>Intends his [[Journey\|journey]], and within three days<br>You with your children will he send before.<br>Make your best use of this. I have performed<br>Your pleasure, and my promise. |
+| [[Cleopatra\|CLEOPATRA]] | Dolabella,<br>I shall remain your debtor. |
+| DOLABELLA | I your servant.<br>Adieu, good [[Queen]]. I must attend on Caesar. |
+| [[Cleopatra\|CLEOPATRA]] | Farewell, and thanks. |
+| *(didascalia)* | Exit Dolabella |
+| [[Cleopatra\|CLEOPATRA]] | Now, Iras, what think’st thou?<br>Thou, an Egyptian puppet shall be shown<br>In Rome, as [[Well\|well]] as I. Mechanic slaves<br>With greasy aprons, rules, and hammers shall<br>Uplift us to the view. In their thick breaths,<br>Rank of gross diet, shall we be enclouded,<br>And forced to drink their vapour. |
 | IRAS | The gods forbid! |
-| [[Cleopatra\|CLEOPATRA]] | Nay, ‘tis most certain, Iras. Saucy lictors Will catch at us like strumpets, and scald rhymers Ballad us out o’ tune. The quick comedians Extemporally will stage us, and present Our Alexandrian revels. Antony Shall be brought drunken forth, and I shall see Some squeaking [[Cleopatra]] boy my [[Greatness\|greatness]] I’th’ posture of a whore. |
+| [[Cleopatra\|CLEOPATRA]] | Nay, ‘tis most certain, Iras. Saucy lictors<br>Will catch at us like strumpets, and scald rhymers<br>Ballad us out o’ tune. The quick comedians<br>Extemporally will stage us, and present<br>Our Alexandrian revels. Antony<br>Shall be brought drunken forth, and I shall see<br>Some squeaking [[Cleopatra]] boy my [[Greatness\|greatness]]<br>I’th’ posture of a whore. |
 | IRAS | O, the good gods! |
 | [[Cleopatra\|CLEOPATRA]] | Nay, that’s certain. |
-| IRAS | I’ll never see’t! For I am sure my nails Are stronger than mine eyes. |
-| [[Cleopatra\|CLEOPATRA]] | Why, that’s the way To [[Fool\|fool]] their preparation and to conquer Their most absurd intents. Enter [[Charmian]] Now, [[Charmian]]! Show me, my women, like a [[Queen\|queen]]. Go fetch My best attires. I am again for Cydnus To meet [[Mark Antony]]. Sirrah Iras, go. Now, noble [[Charmian]], we’ll dispatch indeed, And when thou hast done this chore I’ll give thee leave To play till doomsday.—Bring our [[Crown\|crown]] and all. Exit Iras A noise within Wherefore’s this noise? Enter a Guardsman |
-| GUARDSMAN | Here is a rural fellow That will not be denied your highness’ presence. He brings you figs. |
-| [[Cleopatra\|CLEOPATRA]] | Let him come in. Exit Guardsman What poor an instrument May do a noble deed! He brings me liberty. My resolution’s placed, and I have nothing Of woman in me. Now from head to foot I am marble-constant. Now the fleeting [[Moon\|moon]] No planet is of mine. Enter Guardsman, and Clown with a basket |
+| IRAS | I’ll never see’t! For I am sure my nails<br>Are stronger than mine eyes. |
+| [[Cleopatra\|CLEOPATRA]] | Why, that’s the way<br>To [[Fool\|fool]] their preparation and to conquer<br>Their most absurd intents. |
+| *(didascalia)* | Enter [[Charmian]] |
+| [[Cleopatra\|CLEOPATRA]] | Now, [[Charmian]]!<br>Show me, my women, like a [[Queen\|queen]]. Go fetch<br>My best attires. I am again for Cydnus<br>To meet [[Mark Antony]]. Sirrah Iras, go.<br>Now, noble [[Charmian]], we’ll dispatch indeed,<br>And when thou hast done this chore I’ll give thee<br>leave<br>To play till doomsday.—Bring our [[Crown\|crown]] and all. |
+| *(didascalia)* | Exit Iras |
+| *(didascalia)* | A noise within |
+| [[Cleopatra\|CLEOPATRA]] | Wherefore’s this noise? |
+| *(didascalia)* | Enter a Guardsman |
+| GUARDSMAN | Here is a rural fellow<br>That will not be denied your highness’ presence.<br>He brings you figs. |
+| [[Cleopatra\|CLEOPATRA]] | Let him come in. |
+| *(didascalia)* | Exit Guardsman |
+| [[Cleopatra\|CLEOPATRA]] | What poor an instrument<br>May do a noble deed! He brings me liberty.<br>My resolution’s placed, and I have nothing<br>Of woman in me. Now from head to foot<br>I am marble-constant. Now the fleeting [[Moon\|moon]]<br>No planet is of mine. |
+| *(didascalia)* | Enter Guardsman, and Clown with a basket |
 | GUARDSMAN | This is the man. |
-| [[Cleopatra\|CLEOPATRA]] | Avoid, and leave him. Exit Guardsman Hast thou the pretty worm Of Nilus there, that kills and pains not? |
+| [[Cleopatra\|CLEOPATRA]] | Avoid, and leave him. |
+| *(didascalia)* | Exit Guardsman |
+| [[Cleopatra\|CLEOPATRA]] | Hast thou the pretty worm<br>Of Nilus there, that kills and pains not? |
 | CLOWN | Truly, I have him; but I would not be the party that should [[Desire\|desire]] you to touch him, for his biting is immortal; those that do die of it do seldom or never recover. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--05_exchange_cleopatra" data-title="Antony and Cleopatra — Act V, Scene 2 — exchange (CLEOPATRA) [5]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | [[Cleopatra\|CLEOPATRA]] | Remember’st thou any that have died on’t? |
 | CLOWN | Very many, men, and women too. I heard of one of them no longer than yesterday, a very honest woman, but something given to lie, as a woman should not do but in the way of honesty, how she died of the biting of it, what [[Pain\|pain]] she felt. Truly, she makes a very good report o’th’ worm; but he that will believe all that they say shall never be saved by half that they do; but this is most falliable: the worm’s an odd worm. |
 | [[Cleopatra\|CLEOPATRA]] | Get thee hence, farewell. |
@@ -3569,69 +3475,45 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 | [[Cleopatra\|CLEOPATRA]] | Will it eat me? |
 | CLOWN | You must not think I am so simple but I know the devil himself will not eat a woman; I know that a woman is a dish for the gods, if the devil dress her not. But truly, these same whoreson devils do the gods great harm in their women; for in every ten that they make, the devils mar five. |
 | [[Cleopatra\|CLEOPATRA]] | [[Well]], get thee gone, farewell. |
-| CLOWN | Yes, forsooth. I wish you joy o’th’ worm. Exit, leaving the basket Enter Iras with a robe, [[Crown\|crown]], and other jewels |
-| [[Cleopatra\|CLEOPATRA]] | Give me my robe. Put on my [[Crown\|crown]]. I have Immortal longings in me. Now no more The juice of [[Egypt]]’s grape shall moist this lip. [[Charmian]] and Iras help her to dress Yare, yare, good Iras, quick—methinks I hear Antony call. I see him rouse himself To praise my noble act. I hear him mock The luck of Caesar, which the gods give men To excuse their after wrath. Husband, I come. Now to that name my [[Courage\|courage]] prove my title. I am [[Fire\|fire]] and air; my other elements I give to baser life. So, have you done? Come then, and take the last warmth of my lips. She kisses them Farewell, kind [[Charmian]]. Iras, long farewell. Iras falls and dies Have I the aspic in my lips? Dost fall? If thou and [[Nature\|nature]] can so gently part, The stroke of [[Death\|death]] is as a [[Lover\|lover]]’s pinch, Which hurts and is desired. Dost thou lie still? If thus thou vanishest, thou tell’st the world It is not worth leave-taking. |
-| [[Charmian\|CHARMIAN]] | Dissolve, thick cloud, and rain, that I may say The gods themselves do weep. |
-| [[Cleopatra\|CLEOPATRA]] | This proves me base. If she first meet the curled Antony He’ll make demand of her, and spend that kiss Which is my heaven to have. She takes an aspic from the basket and puts it to her breast Come, thou mortal wretch, With thy sharp teeth this knot intrinsicate Of life at once untie. Poor venomous [[Fool\|fool]], Be angry, and dispatch. O, couldst thou speak, That I might hear thee call great Caesar ass Unpolicied! |
+| CLOWN | Yes, forsooth. I wish you joy o’th’ worm. |
+| *(didascalia)* | Exit, leaving the basket |
+| *(didascalia)* | Enter Iras with a robe, [[Crown\|crown]], and other jewels |
+| [[Cleopatra\|CLEOPATRA]] | Give me my robe. Put on my [[Crown\|crown]]. I have<br>Immortal longings in me. Now no more<br>The juice of [[Egypt]]’s grape shall moist this lip.<br>[[Charmian]] and Iras help her to dress<br>Yare, yare, good Iras, quick—methinks I hear<br>Antony call. I see him rouse himself<br>To praise my noble act. I hear him mock<br>The luck of Caesar, which the gods give men<br>To excuse their after wrath. Husband, I come.<br>Now to that name my [[Courage\|courage]] prove my title.<br>I am [[Fire\|fire]] and air; my other elements<br>I give to baser life. So, have you done?<br>Come then, and take the last warmth of my lips.<br>She kisses them<br>Farewell, kind [[Charmian]]. Iras, long farewell.<br>Iras falls and dies<br>Have I the aspic in my lips? Dost fall?<br>If thou and [[Nature\|nature]] can so gently part,<br>The stroke of [[Death\|death]] is as a [[Lover\|lover]]’s pinch,<br>Which hurts and is desired. Dost thou lie still?<br>If thus thou vanishest, thou tell’st the world<br>It is not worth leave-taking. |
+| [[Charmian\|CHARMIAN]] | Dissolve, thick cloud, and rain, that I may say<br>The gods themselves do weep. |
+| [[Cleopatra\|CLEOPATRA]] | This proves me base.<br>If she first meet the curled Antony<br>He’ll make demand of her, and spend that kiss<br>Which is my heaven to have.<br>She takes an aspic from the basket and puts it to her breast<br>Come, thou mortal wretch,<br>With thy sharp teeth this knot intrinsicate<br>Of life at once untie. Poor venomous [[Fool\|fool]],<br>Be angry, and dispatch. O, couldst thou speak,<br>That I might hear thee call great Caesar ass<br>Unpolicied! |
 | [[Charmian\|CHARMIAN]] | O eastern star! |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--06_exchange_cleopatra" data-title="Antony and Cleopatra — Act V, Scene 2 — exchange (CLEOPATRA) [6]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Cleopatra\|CLEOPATRA]] | Peace, peace. Dost thou not see my baby at my breast, That sucks the [[Nurse\|nurse]] asleep? |
+| [[Cleopatra\|CLEOPATRA]] | Peace, peace.<br>Dost thou not see my baby at my breast,<br>That sucks the [[Nurse\|nurse]] asleep? |
 | [[Charmian\|CHARMIAN]] | O, break! O, break! |
-| [[Cleopatra\|CLEOPATRA]] | As sweet as balm, as soft as air, as gentle. O Antony! She puts another aspic to her arm Nay, I will take thee too. What should I stay— She dies |
-| [[Charmian\|CHARMIAN]] | In this vile world? So, fare thee [[Well\|well]]. Now boast thee, [[Death\|death]], in thy possession lies A lass unparalleled. Downy windows, close, And golden Phoebus never be beheld Of eyes again so royal. Your [[Crown\|crown]]’s awry. I’ll mend it, and then play— Enter the Guard, rustling in |
+| [[Cleopatra\|CLEOPATRA]] | As sweet as balm, as soft as air, as gentle.<br>O Antony!<br>She puts another aspic to her arm<br>Nay, I will take thee too.<br>What should I stay—<br>She dies |
+| [[Charmian\|CHARMIAN]] | In this vile world? So, fare thee [[Well\|well]].<br>Now boast thee, [[Death\|death]], in thy possession lies<br>A lass unparalleled. Downy windows, close,<br>And golden Phoebus never be beheld<br>Of eyes again so royal. Your [[Crown\|crown]]’s awry.<br>I’ll mend it, and then play— |
+| *(didascalia)* | Enter the Guard, rustling in |
 | FIRST GUARD | Where’s the [[Queen]]? |
 | [[Charmian\|CHARMIAN]] | Speak softly. Wake her not. |
 | FIRST GUARD | Caesar hath sent— |
-| [[Charmian\|CHARMIAN]] | Too slow a messenger. She applies an aspic O come apace, dispatch! I partly feel thee. |
+| [[Charmian\|CHARMIAN]] | Too slow a messenger.<br>She applies an aspic<br>O come apace, dispatch! I partly feel thee. |
 | FIRST GUARD | Approach, ho! All’s not [[Well\|well]]. Caesar’s beguiled. |
-| SECOND GUARD | There’s Dolabella sent from Caesar. Call him. Exit a Guardsman |
+| SECOND GUARD | There’s Dolabella sent from Caesar. Call him. |
+| *(didascalia)* | Exit a Guardsman |
 | FIRST GUARD | What work is here, [[Charmian]]? Is this [[Well\|well]] done? |
-| [[Charmian\|CHARMIAN]] | It is [[Well\|well]] done, and fitting for a princess Descended of so many royal kings. Ah, soldier! She dies Enter Dolabella |
+| [[Charmian\|CHARMIAN]] | It is [[Well\|well]] done, and fitting for a princess<br>Descended of so many royal kings.<br>Ah, soldier!<br>She dies |
+| *(didascalia)* | Enter |
+| [[Charmian\|CHARMIAN]] | Dolabella |
 | DOLABELLA | How goes it here? |
 | SECOND GUARD | All dead. |
-| DOLABELLA | Caesar, thy thoughts Touch their effects in this. Thyself art coming To see performed the dreaded act which thou So sought’st to hinder. |
-| ALL | A way there, a way for Caesar! Enter Caesar and all his train, marching |
-| DOLABELLA | (to Caesar) O sir, you are too sure an augurer. That you did [[Fear\|fear]] is done. |
-| CAESAR | Bravest at the last, She levelled at our purposes, and, being royal, Took her own way. The manner of their deaths? I do not see them bleed. |
+| DOLABELLA | Caesar, thy thoughts<br>Touch their effects in this. Thyself art coming<br>To see performed the dreaded act which thou<br>So sought’st to hinder. |
+| ALL | A way there, a way for Caesar! |
+| *(didascalia)* | Enter Caesar and all his train, marching |
+| DOLABELLA | (to Caesar)<br>O sir, you are too sure an augurer.<br>That you did [[Fear\|fear]] is done. |
+| CAESAR | Bravest at the last,<br>She levelled at our purposes, and, being royal,<br>Took her own way. The manner of their deaths?<br>I do not see them bleed. |
 | DOLABELLA | (to a Guardsman) Who was last with them? |
-| FIRST GUARD | A simple countryman that brought her figs. This was his basket. |
+| FIRST GUARD | A simple countryman that brought her figs.<br>This was his basket. |
 | CAESAR | Poisoned, then. |
-| FIRST GUARD | O Caesar, This [[Charmian]] lived but now; she stood and spake. I found her trimming up the diadem On her dead mistress; tremblingly she stood, And on the sudden dropped. |
-| CAESAR | O, noble weakness! If they had swallowed [[Poison\|poison]], ’twould appear By external swelling; but she looks like [[Sleep\|sleep]], As she would catch another Antony In her strong toil of grace. |
-| DOLABELLA | Here on her breast There is a vent of [[Blood\|blood]], and something blown. The like is on her arm. |
-| FIRST GUARD | This is an aspic’s trail, And these fig-[[Leaves\|leaves]] have slime upon them such As th’aspic [[Leaves\|leaves]] upon the caves of Nile. |
-| CAESAR | Most probable That so she died; for her physician tells me She hath pursued conclusions infinite Of easy ways to die. Take up her bed, And bear her women from the monument. She shall be buried by her Antony. No [[Grave\|grave]] upon the earth shall clip in it A pair so famous. High events as these Strike those that make them, and their story is No less in pity than his glory which Brought them to be lamented. Our army shall In solemn show attend this funeral, And then to Rome. Come, Dolabella, see High order in this great solemnity. Exeunt all, soldiers bearing [[Cleopatra]] on her bed, [[Charmian]], and Iras |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--07_monologue_alls_well_that_ends_well" data-title="Antony and Cleopatra — Act V, Scene 2 — monologue (ALL’S WELL THAT ENDS WELL) [7]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| ALL’S [[Well\|WELL]] THAT ENDS | [[Well\|WELL]] All’s [[Well]] That Ends [[Well]], first printed in the 1623 Folio, is often paired with Measure for Measure. Though we lack external evidence as to its date of composition, internal evidence suggests that it, too, is an early Jacobean play. Like Measure for Measure, it places its central characters in more painful situations than those in which the heroes and heroines of the earlier, more romantic comedies usually find themselves. The touching ardour with which [[Helen]], ‘a poor physician’s daughter’, pursues the young [[Bertram]], son of her guardian the Countess of Roussillon, creates embarrassments for both of them. When the [[King]], whose illness she cures by her semi-magical skills, brings about their [[Marriage\|marriage]] as a reward, [[Bertram]]’s flight to the wars seems to destroy all her chances of happiness. She achieves consummation of the [[Marriage\|marriage]] only by the ruse (resembling [[Isabella]]’s ’bed-trick’ in Measure for Measure) of substituting herself for the Florentine maiden [[Diana]] whom [[Bertram]] believes himself to be seducing. The play’s conclusion, in which the [[Deception\|deception]] is exposed and [[Bertram]] is shamed into acknowledging [[Helen]] as his wife, offers only a tentatively happy ending. Shakespeare based the story of [[Bertram]] and [[Helen]] on a tale from Boccaccio’s Decameron either in the original or in the version included in William Painter’s Palace of Pleasure (1566-7, revised 1575). But he created several important characters, including the Countess and the old Lord, Lafeu. He also invented the accompanying action exposing the roguery of [[Bertram]]’s flashy friend Paroles, a man of words (as his name indicates) descending from the braggart soldier of Roman [[Comedy\|comedy]]. Versions of the play performed in the eighteenth and nineteenth centuries, mostly emphasizing either the [[Comedy\|comedy]] of Paroles or the sentimental appeal of [[Helen]], had little [[success]]; but fine productions from the middle of the twentieth century onwards have shown it in a more favourable light, demonstrating, for example, that the role of the Countess is (in Bernard [[Shaw]]’s words) ‘the most beautiful old woman’s part ever written’, that the discomfiture of Paroles provides [[Comedy\|comedy]] that is subtle as [[Well\|well]] as highly laughable, and that the relationship of [[Bertram]] and [[Helen]] is profoundly convincing in its emotional reality. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_2--08_exchange_the_persons_of_the_play" data-title="Antony and Cleopatra — Act V, Scene 2 — exchange (THE PERSONS OF THE PLAY) [8]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| THE PERSONS OF THE | PLAY The Dowager COUNTESS of Roussillon [[Bertram\|BERTRAM]], Count of Roussillon, her son [[Helen\|HELEN]], an [[Orphan\|orphan]], attending on the Countess LAVATCH, a Clown, the Countess’s servant REYNALDO, the Countess’s steward PAROLES, [[Bertram]]’s companion |
-| *(didascalia)* | The |
-| [[King\|KING]] | of France LAFEU, an old lord INTERPRETER, a French soldier An AUSTRINGER |
-| *(didascalia)* | The |
-| DUKE | of Florence |
-| WIDOW | Capilet [[Diana\|DIANA]], her daughter [[Mariana\|MARIANA]], a friend of the Widow |
-| WIDOW | Lords, attendants, soldiers, citizens |
+| FIRST GUARD | O Caesar,<br>This [[Charmian]] lived but now; she stood and spake.<br>I found her trimming up the diadem<br>On her dead mistress; tremblingly she stood,<br>And on the sudden dropped. |
+| CAESAR | O, noble weakness!<br>If they had swallowed [[Poison\|poison]], ’twould appear<br>By external swelling; but she looks like [[Sleep\|sleep]],<br>As she would catch another Antony<br>In her strong toil of grace. |
+| DOLABELLA | Here on her breast<br>There is a vent of [[Blood\|blood]], and something blown.<br>The like is on her arm. |
+| FIRST GUARD | This is an aspic’s trail,<br>And these fig-[[Leaves\|leaves]] have slime upon them such<br>As th’aspic [[Leaves\|leaves]] upon the caves of Nile. |
+| CAESAR | Most probable<br>That so she died; for her physician tells me<br>She hath pursued conclusions infinite<br>Of easy ways to die. Take up her bed,<br>And bear her women from the monument.<br>She shall be buried by her Antony.<br>No [[Grave\|grave]] upon the earth shall clip in it<br>A pair so famous. High events as these<br>Strike those that make them, and their story is<br>No less in pity than his glory which<br>Brought them to be lamented. Our army shall<br>In solemn show attend this funeral,<br>And then to Rome. Come, Dolabella, see<br>High order in this great solemnity. |
+| *(didascalia)* | Exeunt all, soldiers bearing [[Cleopatra]] on her bed, [[Charmian]], and Iras |
+| ALL’S [[Well\|WELL]] THAT ENDS | [[Well\|WELL]]<br>All’s [[Well]] That Ends [[Well]], first printed in the 1623 Folio, is often paired with Measure for Measure. Though we lack external evidence as to its date of composition, internal evidence suggests that it, too, is an early Jacobean play. Like Measure for Measure, it places its central characters in more painful situations than those in which the heroes and heroines of the earlier, more romantic comedies usually find themselves. The touching ardour with which [[Helen]], ‘a poor physician’s daughter’, pursues the young [[Bertram]], son of her guardian the Countess of Roussillon, creates embarrassments for both of them. When the [[King]], whose illness she cures by her semi-magical skills, brings about their [[Marriage\|marriage]] as a reward, [[Bertram]]’s flight to the wars seems to destroy all her chances of happiness. She achieves consummation of the [[Marriage\|marriage]] only by the ruse (resembling [[Isabella]]’s ’bed-trick’ in Measure for Measure) of substituting herself for the Florentine maiden [[Diana]] whom [[Bertram]] believes himself to be seducing. The play’s conclusion, in which the [[Deception\|deception]] is exposed and [[Bertram]] is shamed into acknowledging [[Helen]] as his wife, offers only a tentatively happy ending.<br>Shakespeare based the story of [[Bertram]] and [[Helen]] on a tale from Boccaccio’s Decameron either in the original or in the version included in William Painter’s Palace of Pleasure (1566-7, revised 1575). But he created several important characters, including the Countess and the old Lord, Lafeu. He also invented the accompanying action exposing the roguery of [[Bertram]]’s flashy friend Paroles, a man of words (as his name indicates) descending from the braggart soldier of Roman [[Comedy\|comedy]].<br>Versions of the play performed in the eighteenth and nineteenth centuries, mostly emphasizing either the [[Comedy\|comedy]] of Paroles or the sentimental appeal of [[Helen]], had little [[success]]; but fine productions from the middle of the twentieth century onwards have shown it in a more favourable light, demonstrating, for example, that the role of the Countess is (in Bernard [[Shaw]]’s words) ‘the most beautiful old woman’s part ever written’, that the discomfiture of Paroles provides [[Comedy\|comedy]] that is subtle as [[Well\|well]] as highly laughable, and that the relationship of [[Bertram]] and [[Helen]] is profoundly convincing in its emotional reality. |
+| THE PERSONS OF THE | PLAY<br>The Dowager COUNTESS of Roussillon<br>[[Bertram\|BERTRAM]], Count of Roussillon, her son<br>[[Helen\|HELEN]], an [[Orphan\|orphan]], attending on the Countess<br>LAVATCH, a Clown, the Countess’s servant<br>REYNALDO, the Countess’s steward<br>PAROLES, [[Bertram]]’s companion<br><br>The [[King of France\|KING of France]]<br>LAFEU, an old lord<br>INTERPRETER, a French soldier<br>An AUSTRINGER<br><br>The DUKE of Florence |
+| WIDOW | Capilet<br>[[Diana\|DIANA]], her daughter<br>[[Mariana\|MARIANA]], a friend of the Widow<br><br>Lords, attendants, soldiers, citizens |

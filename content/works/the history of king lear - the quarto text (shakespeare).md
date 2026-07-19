@@ -57,11 +57,17 @@ tags:
 
 ## Capitoli / Chapters
 
+- [Scene 1](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_1)
+- [Scene 2](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_2)
 - [Scene 3](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_3)
+- [Scene 4](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_4)
 - [Scene 5](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_5)
+- [Scene 6](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_6)
+- [Scene 7](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_7)
 - [Scene 8](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_8)
 - [Scene 9](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_9)
 - [Scene 10](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_10)
+- [Scene 11](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_11)
 - [Scene 12](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_12)
 - [Scene 13](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_13)
 - [Scene 14](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_14)
@@ -70,9 +76,11 @@ tags:
 - [Scene 17](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_17)
 - [Scene 18](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_18)
 - [Scene 19](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_19)
+- [Scene 20](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_20)
 - [Scene 21](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_21)
 - [Scene 22](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_22)
 - [Scene 23](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_23)
+- [Scene 24](/testi/shakespeare/plays/the_history_of_king_lear_quarto_text#scenes--scene_24)
 
 ## Connections
 

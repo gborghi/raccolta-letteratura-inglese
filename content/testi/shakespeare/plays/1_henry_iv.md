@@ -1051,13 +1051,12 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2--01_exchange_dialogue" data-title="1 Henry IV — Act I, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="1 Henry IV — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
-| *(didascalia)* | Enter Harry Prince of Wales and Sir John Oldcastle |
-| SIR JOHN | Now, Hal, what [[Time\|time]] of day is it, lad? |
+| *(didascalia)* | Enter Harry Prince of Wales and Sir John Oldcastle SIR JOHN Now, Hal, what [[Time\|time]] of day is it, lad? |
 | PRINCE HARRY | Thou art so fat-witted with drinking of old sack, and unbuttoning thee after supper, and sleeping upon benches after [[Noon\|noon]], that thou hast forgotten to demand that truly which thou wouldst truly know. What a devil hast thou to do with the [[Time\|time]] of the day? Unless hours were cups of sack, and minutes capons, and clocks the tongues of bawds, and dials the signs of leaping-houses, and the blessed sun himself a fair hot wench in flame-coloured taffeta, I see no reason why thou shouldst be so superfluous to demand the [[Time\|time]] of the day. |
 | SIR JOHN | Indeed you come near me now, Hal, for we that take purses go by the [[Moon\|moon]] and the seven [[Stars\|stars]], and not ‘By Phoebus, he, that wand’ring knight so fair’. And I prithee, sweet wag, when thou art a [[King\|king]], as God save thy grace—‘majesty’ I should say, for grace thou wilt have none— |
 | PRINCE HARRY | What, none? |
@@ -1074,15 +1073,6 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | No, I’ll give thee thy due, thou hast paid all there. |
 | PRINCE HARRY | Yea, and elsewhere so far as my coin would stretch; and where it would not, I have used my credit. |
 | SIR JOHN | Yea, and so used it that were it not here apparent that thou art heir apparent—but I prithee, sweet wag, shall there be gallows standing in England when thou art [[King\|king]], and resolution thus fubbed as it is with the rusty curb of old father Antic the law? Do not thou when thou art [[King\|king]] hang a thief. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--02_exchange_prince_harry" data-title="1 Henry IV — Act I, Scene 2 — exchange (PRINCE HARRY) [2]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | PRINCE HARRY | No, thou shalt. |
 | SIR JOHN | Shall I? O, rare! By the Lord, I’ll be a brave judge! |
 | PRINCE HARRY | Thou judgest false already. I mean thou shalt have the hanging of the thieves, and so become a rare hangman. |
@@ -1098,22 +1088,15 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | Where shall we take a purse tomorrow, Jack? |
 | SIR JOHN | Zounds, where thou wilt, lad! I’ll make one; an I do not, call me [[Villain\|villain]] and baffle me. |
 | PRINCE HARRY | I see a good amendment of life in thee, from praying to purse-taking. |
-| SIR JOHN | Why, Hal, ‘tis my vocation, Hal. ’Tis no sin for a man to labour in his vocation. Enter Poins Poins! Now shall we know if Gadshill have set a match. O, if men were to be saved by merit, what hole in hell were hot enough for him? This is the most omnipotent [[Villain\|villain]] that ever cried ‘Stand!’ to a true man. |
+| SIR JOHN | Why, Hal, ‘tis my vocation, Hal. ’Tis no sin for a man to labour in his vocation. |
+| *(didascalia)* | Enter Poins |
+| SIR JOHN | Poins! Now shall we know if Gadshill have set a match. O, if men were to be saved by merit, what hole in hell were hot enough for him? This is the most omnipotent [[Villain\|villain]] that ever cried ‘Stand!’ to a true man. |
 | PRINCE HARRY | Good morrow, Ned. no |
 | POINS | Good morrow, sweet Hal. (To Sir John) What says Monsieur Remorse? What says Sir John, sack-and-sugar Jack? How agrees the devil and thee about thy [[Soul\|soul]], that thou soldest him on Good Friday last, for a cup of Madeira and a cold capon’s leg? |
 | PRINCE HARRY | Sir John stands to his word, the devil shall have his bargain, for he was never yet a breaker of proverbs: he will give the devil his due. |
 | POINS | (to Sir John) Then art thou damned for keeping thy word with the devil. |
 | PRINCE HARRY | Else he had been damned for cozening the devil. |
 | POINS | But my lads, my lads, tomorrow morning by four o’[[Clock\|clock]] early, at Gads [[Hill]], there are pilgrims going to Canterbury with rich offerings, and traders riding to [[London]] with fat purses. I have visors for you all; you have horses for yourselves. Gadshill lies tonight in Rochester. I have bespoke supper tomorrow [[Night\|night]] in Eastcheap. We may do it as secure as [[Sleep\|sleep]]. If you will go, I will stuff your purses full of crowns; if you will not, tarry at [[Home\|home]] and be hanged. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--03_exchange_sir_john" data-title="1 Henry IV — Act I, Scene 2 — exchange (SIR JOHN) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | SIR JOHN | Hear ye, Edward, if I tarry at [[Home\|home]] and go not, I’ll hang you for going. |
 | POINS | You will, chops? |
 | SIR JOHN | Hal, wilt thou make one? |
@@ -1136,21 +1119,12 @@ The [[history|History]] of Henry the Fourth
 | POINS | [[Well]], for two of them, I know them to be as true-bred cowards as ever turned back; and for the third, if he fight longer than he sees reason, I’ll forswear arms. The virtue of this jest will be the incomprehensible lies that this same fat rogue will tell us when we meet at supper: how thirty at least he fought with, what wards, what blows, what extremities he endured; and in the reproof of this lives the jest. |
 | PRINCE HARRY | [[Well]], I’ll go with thee. Provide us all things necessary, and meet me tomorrow [[Night\|night]] in Eastcheap; there I’ll sup. Farewell. |
 | POINS | Farewell, my lord. Exit |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_2--04_monologue_prince_harry_i" data-title="1 Henry IV — Act I, Scene 2 — monologue (PRINCE HARRY I) [4]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
 | PRINCE HARRY | I know you all, and will a while uphold The unyoked [[Humour\|humour]] of your idleness. Yet herein will I imitate the sun, Who doth permit the base contagious clouds To smother up his [[Beauty\|beauty]] from the world, That when he please again to be himself, Being wanted he may be more wondered at By breaking through the foul and ugly mists Of vapours that did seem to strangle him. If all the year were playing holidays, To sport would be as tedious as to work; But when they seldom come, they wished-for come, And nothing pleaseth but rare accidents. So when this loose behaviour I throw off And pay the debt I never promised, By how much better than my word I am, By so much shall I falsify men’s hopes; And like bright metal on a sullen ground, My [[Reformation\|reformation]], glitt‘ring o’er my fault, Shall show more goodly and attract more eyes Than that which hath no foil to set it off. I’ll so offend to make offence a skill, Redeeming [[Time\|time]] when men think least I will. Exit |
 
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3--01_exchange_dialogue" data-title="1 Henry IV — Act I, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="1 Henry IV — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
 
 
 | Speaker | Line |
@@ -1159,110 +1133,64 @@ The [[history|History]] of Henry the Fourth
 | [[King\|KING]] HENRY | (to [[Hotspur]], Northumberland, and Worcester) My [[Blood\|blood]] hath been too cold and temperate, Unapt to stir at these indignities, And you have found me, for accordingly You tread upon my patience; but be sure I will from henceforth rather be myself, Mighty and to be feared, than my condition, Which hath been smooth as oil, soft as young down, And therefore lost that title of respect Which the proud [[Soul\|soul]] ne’er pays but to the proud. |
 | WORCESTER | Our [[house]], my sovereign liege, little deserves The scourge of [[Greatness\|greatness]] to be used on it, And that same [[Greatness\|greatness]] too, which our own hands Have holp to make so portly. |
 | NORTHUMBERLAND | (to the [[King]]) My lord— |
-| [[King\|KING]] HENRY | Worcester, get thee gone, for I do see Danger and disobedience in thine eye. O sir, your presence is too bold and peremptory, And majesty might never yet endure The moody frontier of a servant brow. You have good leave to leave us. When we need Your use and counsel we shall send for you. Exit Worcester You were about to speak. |
-| NORTHUMBERLAND | Yea, my good lord. Those prisoners in your highness’ name demanded, Which Harry Percy here at Holmedon took, Were, as he says, not with such strength denied As was delivered to your majesty, Who either through envy or misprision Was guilty of this fault, and not my son. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--02_monologue_hotspur" data-title="1 Henry IV — Act I, Scene 3 — monologue (HOTSPUR) [2]" data-chapter="Scene 3" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hotspur\|HOTSPUR]] | (to the [[King]]) My liege, I did deny no prisoners; But I remember, when the fight was done, When I was dry with rage and extreme toil, Breathless and faint, leaning upon my [[Sword\|sword]], Came there a certain lord, neat and trimly dressed, Fresh as a bridegroom, and his chin, new-reaped, Showed like a stubble-land at harvest-[[Home\|home]]. He was perfumed like a milliner, And ‘twixt his finger and his thumb he held A pouncet-box, which ever and anon He gave his nose and took’t away again— Who therewith angry, when it next came there Took it in snuff—and still he smiled and talked; And as the soldiers bore dead bodies by, He called them untaught knaves, unmannerly To bring a slovenly unhandsome corpse Betwixt the [[Wind\|wind]] and his nobility. With many holiday and lady terms He questioned me; amongst the rest demanded My prisoners in your majesty’s behalf. I then, all smarting with my wounds being cold— To be so pestered with a popinjay!— Out of my grief and my impatience Answered neglectingly, I know not what— He should, or should not—for he made me mad To see him shine so brisk, and smell so sweet, And talk so like a waiting gentlewoman Of guns, and drums, and wounds, God save the mark! And telling me the sovereign’st thing on earth Was parmacity for an inward bruise, And that it was great pity, so it was, This villainous saltpetre should be digged Out of the bowels of the harmless earth, Which many a good tall fellow had destroyed So cowardly, and but for these vile guns He would himself have been a soldier. This bald unjointed chat of his, my lord, Made me to answer indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my [[Love\|love]] and your high majesty. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--03_exchange_blunt" data-title="1 Henry IV — Act I, Scene 3 — exchange (BLUNT) [3]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| BLUNT | (to the [[King]]) The circumstance considered, good my lord, Whate’er Lord Harry Percy then had said To such a person, and in such a place, At such a [[Time\|time]], with all the rest retold, May reasonably die, and never rise To do him wrong or any way impeach What then he said, so he unsay it now. |
-| [[King\|KING]] HENRY | Why, yet he doth deny his prisoners, But with proviso and exception That we at our own charge shall ransom straight His brother-in-law the foolish Mortimer, Who, on my [[Soul\|soul]], hath wilfully betrayed The lives of those that he did lead to fight Against that great magician, damned Glyndŵr— Whose daughter, as we hear, the Earl of March Hath lately married. Shall our coffers, then, Be emptied to redeem a traitor [[Home\|home]]? Shall we buy treason, and indent with fears When they have lost and forfeited themselves? No, on the barren [[Mountains\|mountains]] let him starve; For I shall never hold that man my friend Whose tongue shall ask me for one penny cost To ransom [[Home\|home]] revolted Mortimer— |
-| [[Hotspur\|HOTSPUR]] | Revolted Mortimer? He never did fall off, my sovereign liege, But by the chance of war. To prove that true Needs no more but one tongue for all those wounds, Those mouthed wounds, which valiantly he took When on the gentle Severn’s sedgy bank, In single opposition, hand to hand, He did confound the best part of an hour In changing hardiment with great Glyndwr. Three times they breathed, and three times did they drink, Upon agreement, of swift Severn’s flood, Who, then affrighted with their bloody looks, Ran fearfully among the trembling reeds, And hid his crisp head in the hollow bank, Bloodstainèd with these valiant combatants. Never did bare and rotten policy Colour her working with such deadly wounds, Nor never could the noble Mortimer Receive so many, and all willingly. Then let not him be slandered with revolt. |
-| [[King\|KING]] HENRY | Thou dost belie him, Percy, thou dost belie him. He never did encounter with Glyndŵr. I tell thee, He durst as [[Well\|well]] have met the devil [[Alone\|alone]] As Owain Glyndŵr for an enemy. Art thou not ashamed? But, sirrah, henceforth Let me not hear you speak of Mortimer. Send me your prisoners with the speediest means, Or you shall hear in such a kind from me As will displease you.—My lord Northumberland, We license your departure with your son. (To [[Hotspur]]) Send us your prisoners, or you’ll hear of it. Exeunt all but [[Hotspur]] and Northumberland |
-| [[Hotspur\|HOTSPUR]] | An if the devil come and roar for them I will not send them. I will after straight And tell him so, for I will ease my heart, Although it be with hazard of my head. |
-| NORTHUMBERLAND | What, drunk with choler? Stay and pause awhile. Enter the [[Earl of Worcester]] Here comes your uncle. |
-| [[Hotspur\|HOTSPUR]] | Speak of Mortimer? Zounds, I will speak of him, and let my [[Soul\|soul]] Want [[Mercy\|mercy]] if I do not join with him. In his behalf I’ll empty all these veins, And shed my dear [[Blood\|blood]] drop by drop in the [[Dust\|dust]], But I will lift the downfall Mortimer As high in the air as this unthankful [[King]], As this ingrate and cankered Bolingbroke. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--04_exchange_northumberland" data-title="1 Henry IV — Act I, Scene 3 — exchange (NORTHUMBERLAND) [4]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| NORTHUMBERLAND | (to Worcester) Brother, the [[King]] hath made your nephew mad. |
+| [[King\|KING]] HENRY | Worcester, get thee gone, for I do see<br>Danger and disobedience in thine eye.<br>O sir, your presence is too bold and peremptory,<br>And majesty might never yet endure<br>The moody frontier of a servant brow.<br>You have good leave to leave us. When we need<br>Your use and counsel we shall send for you. |
+| *(didascalia)* | Exit Worcester |
+| [[King\|KING]] HENRY | You were about to speak. |
+| NORTHUMBERLAND | Yea, my good lord.<br>Those prisoners in your highness’ name demanded,<br>Which Harry Percy here at Holmedon took,<br>Were, as he says, not with such strength denied<br>As was delivered to your majesty,<br>Who either through envy or misprision<br>Was guilty of this fault, and not my son. |
+| [[Hotspur\|HOTSPUR]] | (to the [[King]])<br>My liege, I did deny no prisoners;<br>But I remember, when the fight was done,<br>When I was dry with rage and extreme toil,<br>Breathless and faint, leaning upon my [[Sword\|sword]],<br>Came there a certain lord, neat and trimly dressed,<br>Fresh as a bridegroom, and his chin, new-reaped,<br>Showed like a stubble-land at harvest-[[Home\|home]].<br>He was perfumed like a milliner,<br>And ‘twixt his finger and his thumb he held<br>A pouncet-box, which ever and anon<br>He gave his nose and took’t away again—<br>Who therewith angry, when it next came there<br>Took it in snuff—and still he smiled and talked;<br>And as the soldiers bore dead bodies by,<br>He called them untaught knaves, unmannerly<br>To bring a slovenly unhandsome corpse<br>Betwixt the [[Wind\|wind]] and his nobility.<br>With many holiday and lady terms<br>He questioned me; amongst the rest demanded<br>My prisoners in your majesty’s behalf.<br>I then, all smarting with my wounds being cold—<br>To be so pestered with a popinjay!—<br>Out of my grief and my impatience<br>Answered neglectingly, I know not what—<br>He should, or should not—for he made me mad<br>To see him shine so brisk, and smell so sweet,<br>And talk so like a waiting gentlewoman<br>Of guns, and drums, and wounds, God save the mark!<br>And telling me the sovereign’st thing on earth<br>Was parmacity for an inward bruise,<br>And that it was great pity, so it was,<br>This villainous saltpetre should be digged<br>Out of the bowels of the harmless earth,<br>Which many a good tall fellow had destroyed<br>So cowardly, and but for these vile guns<br>He would himself have been a soldier.<br>This bald unjointed chat of his, my lord,<br>Made me to answer indirectly, as I said,<br>And I beseech you, let not his report<br>Come current for an accusation<br>Betwixt my [[Love\|love]] and your high majesty. |
+| BLUNT | (to the [[King]])<br>The circumstance considered, good my lord,<br>Whate’er Lord Harry Percy then had said<br>To such a person, and in such a place,<br>At such a [[Time\|time]], with all the rest retold,<br>May reasonably die, and never rise<br>To do him wrong or any way impeach<br>What then he said, so he unsay it now. |
+| [[King\|KING]] HENRY | Why, yet he doth deny his prisoners,<br>But with proviso and exception<br>That we at our own charge shall ransom straight<br>His brother-in-law the foolish Mortimer,<br>Who, on my [[Soul\|soul]], hath wilfully betrayed<br>The lives of those that he did lead to fight<br>Against that great magician, damned Glyndŵr—<br>Whose daughter, as we hear, the Earl of March<br>Hath lately married. Shall our coffers, then,<br>Be emptied to redeem a traitor [[Home\|home]]?<br>Shall we buy treason, and indent with fears<br>When they have lost and forfeited themselves?<br>No, on the barren [[Mountains\|mountains]] let him starve;<br>For I shall never hold that man my friend<br>Whose tongue shall ask me for one penny cost<br>To ransom [[Home\|home]] revolted Mortimer— |
+| [[Hotspur\|HOTSPUR]] | Revolted Mortimer?<br>He never did fall off, my sovereign liege,<br>But by the chance of war. To prove that true<br>Needs no more but one tongue for all those wounds,<br>Those mouthed wounds, which valiantly he took<br>When on the gentle Severn’s sedgy bank,<br>In single opposition, hand to hand,<br>He did confound the best part of an hour<br>In changing hardiment with great Glyndwr.<br>Three times they breathed, and three times did they<br>drink,<br>Upon agreement, of swift Severn’s flood,<br>Who, then affrighted with their bloody looks,<br>Ran fearfully among the trembling reeds,<br>And hid his crisp head in the hollow bank,<br>Bloodstainèd with these valiant combatants.<br>Never did bare and rotten policy<br>Colour her working with such deadly wounds,<br>Nor never could the noble Mortimer<br>Receive so many, and all willingly.<br>Then let not him be slandered with revolt. |
+| [[King\|KING]] HENRY | Thou dost belie him, Percy, thou dost belie him.<br>He never did encounter with Glyndŵr. I tell thee,<br>He durst as [[Well\|well]] have met the devil [[Alone\|alone]]<br>As Owain Glyndŵr for an enemy.<br>Art thou not ashamed? But, sirrah, henceforth<br>Let me not hear you speak of Mortimer.<br>Send me your prisoners with the speediest means,<br>Or you shall hear in such a kind from me<br>As will displease you.—My lord Northumberland,<br>We license your departure with your son.<br>(To [[Hotspur]]) Send us your prisoners, or you’ll hear of it. |
+| *(didascalia)* | Exeunt all but [[Hotspur]] and Northumberland |
+| [[Hotspur\|HOTSPUR]] | An if the devil come and roar for them<br>I will not send them. I will after straight<br>And tell him so, for I will ease my heart,<br>Although it be with hazard of my head. |
+| NORTHUMBERLAND | What, drunk with choler? Stay and pause awhile. |
+| *(didascalia)* | Enter the [[Earl of Worcester]] |
+| NORTHUMBERLAND | Here comes your uncle. |
+| [[Hotspur\|HOTSPUR]] | Speak of Mortimer?<br>Zounds, I will speak of him, and let my [[Soul\|soul]]<br>Want [[Mercy\|mercy]] if I do not join with him.<br>In his behalf I’ll empty all these veins,<br>And shed my dear [[Blood\|blood]] drop by drop in the [[Dust\|dust]],<br>But I will lift the downfall Mortimer<br>As high in the air as this unthankful [[King]],<br>As this ingrate and cankered Bolingbroke. |
+| NORTHUMBERLAND | (to Worcester)<br>Brother, the [[King]] hath made your nephew mad. |
 | WORCESTER | Who struck this heat up after I was gone? |
-| [[Hotspur\|HOTSPUR]] | He will forsooth have all my prisoners; And when I urged the ransom once again Of my wife’s brother, then his cheek looked pale, And on my face he turned an eye of [[Death\|death]], Trembling even at the name of Mortimer. |
-| WORCESTER | I cannot blame him: was not he proclaimed By [[Richard]], that dead is, the next of [[Blood\|blood]]? |
-| NORTHUMBERLAND | He was; I heard the proclamation. And then it was when the unhappy [[King]], Whose wrongs in us God pardon, did set forth Upon his Irish expedition, From whence he, intercepted, did return To be deposed, and shortly murdered. |
-| WORCESTER | And for whose [[Death\|death]] we in the world’s wide mouth Live scandalized and foully spoken of. |
-| [[Hotspur\|HOTSPUR]] | But soft, I pray you; did [[King]] [[Richard]] then Proclaim my brother [[Edmund]] Mortimer Heir to the [[Crown\|crown]]? |
+| [[Hotspur\|HOTSPUR]] | He will forsooth have all my prisoners;<br>And when I urged the ransom once again<br>Of my wife’s brother, then his cheek looked pale,<br>And on my face he turned an eye of [[Death\|death]],<br>Trembling even at the name of Mortimer. |
+| WORCESTER | I cannot blame him: was not he proclaimed<br>By [[Richard]], that dead is, the next of [[Blood\|blood]]? |
+| NORTHUMBERLAND | He was; I heard the proclamation.<br>And then it was when the unhappy [[King]],<br>Whose wrongs in us God pardon, did set forth<br>Upon his Irish expedition,<br>From whence he, intercepted, did return<br>To be deposed, and shortly murdered. |
+| WORCESTER | And for whose [[Death\|death]] we in the world’s wide mouth<br>Live scandalized and foully spoken of. |
+| [[Hotspur\|HOTSPUR]] | But soft, I pray you; did [[King]] [[Richard]] then<br>Proclaim my brother [[Edmund]] Mortimer<br>Heir to the [[Crown\|crown]]? |
 | NORTHUMBERLAND | He did; myself did hear it. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--05_monologue_hotspur" data-title="1 Henry IV — Act I, Scene 3 — monologue (HOTSPUR) [5]" data-chapter="Scene 3" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hotspur\|HOTSPUR]] | Nay, then I cannot blame his cousin [[King]] That wished him on the barren [[Mountains\|mountains]] starve. But shall it be that you that set the [[Crown\|crown]] Upon the head of this forgetful man, And for his sake wear the detested blot Of murderous subornation, shall it be That you a world of curses undergo, Being the agents or base second means, The cords, the ladder, or the hangman, rather? O, pardon me that I descend so low To show the line and the predicament Wherein you range under this subtle [[King]]! Shall it for shame be spoken in these days, Or fill up chronicles in [[Time\|time]] to come, That men of your nobility and power Did gage them both in an unjust behalf, As both of you, God pardon it, have done: To put down [[Richard]], that sweet lovely [[Rose\|rose]], And plant this thorn, this canker, Bolingbroke? And shall it in more shame be further spoken That you are fooled, discarded, and shook off By him for whom these shames ye underwent? No; yet [[Time\|time]] serves wherein you may redeem Your banished honours, and restore yourselves Into the good thoughts of the world again, [[Revenge]] the jeering and disdained contempt Of this proud [[King]], who studies day and [[Night\|night]] To answer all the debt he owes to you Even with the bloody payment of your deaths. Therefore, I say— |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--06_exchange_worcester" data-title="1 Henry IV — Act I, Scene 3 — exchange (WORCESTER) [6]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| WORCESTER | Peace, cousin, say no more. And now I will unclasp a secret book, And to your quick-conceiving discontents I’ll read you matter deep and dangerous, As full of peril and adventurous spirit As to o’erwalk a current roaring loud On the unsteadfast footing of a spear. |
-| [[Hotspur\|HOTSPUR]] | If he fall in, good [[Night\|night]], or sink or swim. Send danger from the east unto the west, So [[Honour\|honour]] [[Cross\|cross]] it from the north to south; And let them grapple. O, the [[Blood\|blood]] more stirs To rouse a [[Lion\|lion]] than to start a hare! |
-| NORTHUMBERLAND | (to Worcester) [[Imagination]] of some great exploit Drives him beyond the bounds of patience. [[Hotspur\|HOTSPUR]] By heaven, methinks it were an easy leap To pluck bright [[Honour\|honour]] from the pale-faced [[Moon\|moon]], Or dive into the [[Bottom\|bottom]] of the deep, Where fathom-line could never touch the ground, And pluck up drowned [[Honour\|honour]] by the locks, So he that doth redeem her thence might wear, Without corrival, all her dignities. But out upon this half-faced fellowship! |
-| WORCESTER | (to Northumberland) He apprehends a world of figures here, But not the form of what he should attend. (To [[Hotspur]]) Good cousin, give me audience for a while, And list to me. |
+| [[Hotspur\|HOTSPUR]] | Nay, then I cannot blame his cousin [[King]]<br>That wished him on the barren [[Mountains\|mountains]] starve.<br>But shall it be that you that set the [[Crown\|crown]]<br>Upon the head of this forgetful man,<br>And for his sake wear the detested blot<br>Of murderous subornation, shall it be<br>That you a world of curses undergo,<br>Being the agents or base second means,<br>The cords, the ladder, or the hangman, rather?<br>O, pardon me that I descend so low<br>To show the line and the predicament<br>Wherein you range under this subtle [[King]]!<br>Shall it for shame be spoken in these days,<br>Or fill up chronicles in [[Time\|time]] to come,<br>That men of your nobility and power<br>Did gage them both in an unjust behalf,<br>As both of you, God pardon it, have done:<br>To put down [[Richard]], that sweet lovely [[Rose\|rose]],<br>And plant this thorn, this canker, Bolingbroke?<br>And shall it in more shame be further spoken<br>That you are fooled, discarded, and shook off<br>By him for whom these shames ye underwent?<br>No; yet [[Time\|time]] serves wherein you may redeem<br>Your banished honours, and restore yourselves<br>Into the good thoughts of the world again,<br>[[Revenge]] the jeering and disdained contempt<br>Of this proud [[King]], who studies day and [[Night\|night]]<br>To answer all the debt he owes to you<br>Even with the bloody payment of your deaths.<br>Therefore, I say— |
+| WORCESTER | Peace, cousin, say no more.<br>And now I will unclasp a secret book,<br>And to your quick-conceiving discontents<br>I’ll read you matter deep and dangerous,<br>As full of peril and adventurous spirit<br>As to o’erwalk a current roaring loud<br>On the unsteadfast footing of a spear. |
+| [[Hotspur\|HOTSPUR]] | If he fall in, good [[Night\|night]], or sink or swim.<br>Send danger from the east unto the west,<br>So [[Honour\|honour]] [[Cross\|cross]] it from the north to south;<br>And let them grapple. O, the [[Blood\|blood]] more stirs<br>To rouse a [[Lion\|lion]] than to start a hare! |
+| NORTHUMBERLAND | (to Worcester)<br>[[Imagination]] of some great exploit<br>Drives him beyond the bounds of patience. |
+| *(didascalia)* | [[Hotspur\|HOTSPUR]] |
+| NORTHUMBERLAND | By heaven, methinks it were an easy leap<br>To pluck bright [[Honour\|honour]] from the pale-faced [[Moon\|moon]],<br>Or dive into the [[Bottom\|bottom]] of the deep,<br>Where fathom-line could never touch the ground,<br>And pluck up drowned [[Honour\|honour]] by the locks,<br>So he that doth redeem her thence might wear,<br>Without corrival, all her dignities.<br>But out upon this half-faced fellowship! |
+| WORCESTER | (to Northumberland)<br>He apprehends a world of figures here,<br>But not the form of what he should attend.<br>(To [[Hotspur]]) Good cousin, give me audience for a while,<br>And list to me. |
 | [[Hotspur\|HOTSPUR]] | I cry you [[Mercy\|mercy]]. |
-| WORCESTER | Those same noble Scots That are your prisoners— |
-| [[Hotspur\|HOTSPUR]] | I’ll keep them all. By God, he shall not have a Scot of them; No, if a scot would save his [[Soul\|soul]] he shall not. I’ll keep them, by this hand. |
-| WORCESTER | You start away, And lend no ear unto my purposes. Those prisoners you shall keep. |
-| [[Hotspur\|HOTSPUR]] | Nay, I will; that’s flat. He said he would not ransom Mortimer, Forbade my tongue to speak of Mortimer; But I will find him when he lies asleep, And in his ear I’ll hollo ‘Mortimerl’ Nay, I’ll have a starling shall be taught to speak Nothing but ‘Mortimer’, and give it him To keep his anger still in motion. |
+| WORCESTER | Those same noble Scots<br>That are your prisoners— |
+| [[Hotspur\|HOTSPUR]] | I’ll keep them all.<br>By God, he shall not have a Scot of them;<br>No, if a scot would save his [[Soul\|soul]] he shall not.<br>I’ll keep them, by this hand. |
+| WORCESTER | You start away,<br>And lend no ear unto my purposes.<br>Those prisoners you shall keep. |
+| [[Hotspur\|HOTSPUR]] | Nay, I will; that’s flat.<br>He said he would not ransom Mortimer,<br>Forbade my tongue to speak of Mortimer;<br>But I will find him when he lies asleep,<br>And in his ear I’ll hollo ‘Mortimerl’<br>Nay, I’ll have a starling shall be taught to speak<br>Nothing but ‘Mortimer’, and give it him<br>To keep his anger still in motion. |
 | WORCESTER | Hear you, cousin, a word. |
-| [[Hotspur\|HOTSPUR]] | All studies here I solemnly defy, Save how to gall and pinch this Bolingbroke. And that same [[Sword\|sword]]-and-buckler Prince of Wales— But that I think his father loves him not And would be glad he met with some mischance— I would have him poisoned with a pot of ale. |
-| WORCESTER | Farewell, kinsman. I’ll talk to you When you are better tempered to attend. |
-| NORTHUMBERLAND | (to [[Hotspur]]) Why, what a wasp-stung and impatient [[Fool\|fool]] Art thou to break into this woman’s mood, Tying thine ear to no tongue but thine own I |
-| [[Hotspur\|HOTSPUR]] | Why, look you, I am whipped and scourged with rods, Nettled and stung with pismires, when I hear Of this vile politician Bolingbroke. In [[Richard]]’s [[Time\|time]]—what d‘ye call the place? A plague upon’t, it is in Gloucestershire. ‘Twas where the madcap Duke his uncle kept— His uncle York—where I first bowed my knee Unto this [[King\|king]] of smiles, this Bolingbroke. ’Sblood, when you and he came back from Ravenspurgh. |
+| [[Hotspur\|HOTSPUR]] | All studies here I solemnly defy,<br>Save how to gall and pinch this Bolingbroke.<br>And that same [[Sword\|sword]]-and-buckler Prince of Wales—<br>But that I think his father loves him not<br>And would be glad he met with some mischance—<br>I would have him poisoned with a pot of ale. |
+| WORCESTER | Farewell, kinsman. I’ll talk to you<br>When you are better tempered to attend. |
+| NORTHUMBERLAND | (to [[Hotspur]])<br>Why, what a wasp-stung and impatient [[Fool\|fool]]<br>Art thou to break into this woman’s mood,<br>Tying thine ear to no tongue but thine own I |
+| [[Hotspur\|HOTSPUR]] | Why, look you, I am whipped and scourged with rods,<br>Nettled and stung with pismires, when I hear<br>Of this vile politician Bolingbroke.<br>In [[Richard]]’s [[Time\|time]]—what d‘ye call the place?<br>A plague upon’t, it is in Gloucestershire.<br>‘Twas where the madcap Duke his uncle kept—<br>His uncle York—where I first bowed my knee<br>Unto this [[King\|king]] of smiles, this Bolingbroke.<br>’Sblood, when you and he came back from<br>Ravenspurgh. |
 | NORTHUMBERLAND | At Berkeley [[Castle\|castle]]. |
-| [[Hotspur\|HOTSPUR]] | You say true. Why, what a candy deal of courtesy This fawning greyhound then did proffer me! ‘Look when his infant fortune came to age’, And ‘gentle Harry Percy’, and ‘kind cousin’. O, the devil take such cozeners!—God forgive me. Good uncle, tell your tale; I have done. |
-
-
-
-
-<span class="atom-split" data-atom="act_1--scene_3--07_exchange_worcester" data-title="1 Henry IV — Act I, Scene 3 — exchange (WORCESTER) [7]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| WORCESTER | Nay, if you have not, to’t again. We’ll stay your leisure. |
+| [[Hotspur\|HOTSPUR]] | You say true.<br>Why, what a candy deal of courtesy<br>This fawning greyhound then did proffer me!<br>‘Look when his infant fortune came to age’,<br>And ‘gentle Harry Percy’, and ‘kind cousin’.<br>O, the devil take such cozeners!—God forgive me.<br>Good uncle, tell your tale; I have done. |
+| WORCESTER | Nay, if you have not, to’t again.<br>We’ll stay your leisure. |
 | [[Hotspur\|HOTSPUR]] | I have done, i’[[Faith\|faith]]. |
-| WORCESTER | Then once more to your Scottish prisoners. Deliver them up without their ransom straight; And make the Douglas’ son your only mean For powers in Scotland, which, for divers reasons Which I shall send you written, be assured Will easily be granted. (To Northumberland) You, my lord, Your son in Scotland being thus employed, Shall secretly into the bosom creep Of that same noble prelate [[Well\|well]]-beloved, The Archbishop. |
+| WORCESTER | Then once more to your Scottish prisoners.<br>Deliver them up without their ransom straight;<br>And make the Douglas’ son your only mean<br>For powers in Scotland, which, for divers reasons<br>Which I shall send you written, be assured<br>Will easily be granted. (To Northumberland) You, my<br>lord,<br>Your son in Scotland being thus employed,<br>Shall secretly into the bosom creep<br>Of that same noble prelate [[Well\|well]]-beloved,<br>The Archbishop. |
 | [[Hotspur\|HOTSPUR]] | Of York, is’t not? |
-| WORCESTER | True, who bears hard His brother’s [[Death\|death]] at Bristol, the Lord Scrope. I speak not this in estimation, As what I think might be, but what I know Is ruminated, plotted, and set down, And only stays but to behold the face Of that occasion that shall bring it on. |
+| WORCESTER | True, who bears hard<br>His brother’s [[Death\|death]] at Bristol, the Lord Scrope.<br>I speak not this in estimation,<br>As what I think might be, but what I know<br>Is ruminated, plotted, and set down,<br>And only stays but to behold the face<br>Of that occasion that shall bring it on. |
 | [[Hotspur\|HOTSPUR]] | I smell it; upon my life, it will do [[Well\|well]]! |
 | NORTHUMBERLAND | Before the game is afoot thou still lett’st slip. |
-| [[Hotspur\|HOTSPUR]] | Why, it cannot choose but be a noble plot— And then the power of Scotland and of York To join with Mortimer, ha? |
+| [[Hotspur\|HOTSPUR]] | Why, it cannot choose but be a noble plot—<br>And then the power of Scotland and of York<br>To join with Mortimer, ha? |
 | WORCESTER | And so they shall. |
 | [[Hotspur\|HOTSPUR]] | In [[Faith\|faith]], it is exceedingly [[Well\|well]] aimed. |
-| WORCESTER | And ’tis no little reason bids us [[Speed\|speed]] To save our heads by raising of a head; For, bear ourselves as even as we can, The [[King]] will always think him in our debt, And think we think ourselves unsatisfied Till he hath found a [[Time\|time]] to pay us [[Home\|home]]. And see already how he doth begin To make us strangers to his looks of [[Love\|love]]. |
+| WORCESTER | And ’tis no little reason bids us [[Speed\|speed]]<br>To save our heads by raising of a head;<br>For, bear ourselves as even as we can,<br>The [[King]] will always think him in our debt,<br>And think we think ourselves unsatisfied<br>Till he hath found a [[Time\|time]] to pay us [[Home\|home]].<br>And see already how he doth begin<br>To make us strangers to his looks of [[Love\|love]]. |
 | [[Hotspur\|HOTSPUR]] | He does, he does. We’ll be revenged on him. |
-| WORCESTER | Cousin, farewell. No further go in this Than I by letters shall direct your course. When [[Time\|time]] is ripe, which will be suddenly, I’ll steal to Glyndŵr and Lord Mortimer, Where you and Douglas and our powers at once, As I will fashion it, shall happily meet, To bear our fortunes in our own strong arms, Which now we hold at much uncertainty. |
+| WORCESTER | Cousin, farewell. No further go in this<br>Than I by letters shall direct your course.<br>When [[Time\|time]] is ripe, which will be suddenly,<br>I’ll steal to Glyndŵr and Lord Mortimer,<br>Where you and Douglas and our powers at once,<br>As I will fashion it, shall happily meet,<br>To bear our fortunes in our own strong arms,<br>Which now we hold at much uncertainty. |
 | NORTHUMBERLAND | Farewell, good brother. We shall thrive, I trust. |
-| [[Hotspur\|HOTSPUR]] | (to Worcester) Uncle, adieu. O, let the hours be short Till fields and blows and groans applaud our sport! Exeunt Worcester at one door, Northumberland and [[Hotspur]] at another door |
+| [[Hotspur\|HOTSPUR]] | (to Worcester)<br>Uncle, adieu. O, let the hours be short<br>Till fields and blows and groans applaud our sport! |
+| *(didascalia)* | Exeunt Worcester at one door, Northumberland and [[Hotspur]] at another door |
 
 
 
@@ -1425,36 +1353,21 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5--01_exchange_dialogue" data-title="1 Henry IV — Act II, Scene 5 — exchange (dialogue) [1]" data-chapter="Scene 5" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="1 Henry IV — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter Prince Harry |
-| PRINCE HARRY | Ned, prithee come out of that fat room, and lend me thy hand to laugh a little. Enter Poins at another door |
+| PRINCE HARRY | Ned, prithee come out of that fat room, and lend me thy hand to laugh a little. |
+| *(didascalia)* | Enter Poins at another door |
 | POINS | Where hast been, Hal? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--02_monologue_prince_harry" data-title="1 Henry IV — Act II, Scene 5 — monologue (PRINCE HARRY) [2]" data-chapter="Scene 5" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE HARRY | With three or four loggerheads, amongst three or fourscore hogsheads. I have sounded the very bass-string of [[Humility\|humility]]. Sirrah, I am sworn brother to a leash of drawers, and can call them all by their christen names, as ‘Tom’, ‘Dick’, and ‘Francis’. They take it already, upon their salvation, that though I be but Prince of Wales yet I am the [[King\|king]] of courtesy, and tell me flatly I am no proud jack like Oldcastle, but a Corinthian, a lad of mettle, a good boy—by the Lord, so they call me; and when I am [[King]] of England I shall command all the good lads in Eastcheap. They call drinking deep ‘dyeing scarlet’, and when you breathe in your watering they cry ‘Hem!’ and bid you ‘Play it off!’ To conclude, I am so good a proficient in one quarter of an hour that I can drink with any tinker in his own language during my life. I tell thee, Ned, thou hast lost much [[Honour\|honour]] that thou wert not with me in this action. But, sweet Ned—to sweeten which name of Ned I give thee this pennyworth of sugar, clapped even now into my hand by an underskinker, one that never spake other English in his life than ‘Eight shillings and sixpence’, and ‘You are welcome’, with this shrill addition, ‘Anon, anon, sir ! Score a pint of bastard in the Half-[[Moon\|moon]]!’ or so. But, Ned, to drive away the [[Time\|time]] till Oldcastle come, I prithee do thou stand in some by-room, while I question my puny drawer to what end he gave me the sugar, and do thou never leave calling ‘Francis!’, that his tale to me may be nothing but ‘Anon!’ Step aside, and I’ll show thee a precedent. Exit Poins |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--03_exchange_poins" data-title="1 Henry IV — Act II, Scene 5 — exchange (POINS) [3]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| PRINCE HARRY | With three or four loggerheads, amongst three or fourscore hogsheads. I have sounded the very bass-string of [[Humility\|humility]]. Sirrah, I am sworn brother to a leash of drawers, and can call them all by their christen names, as ‘Tom’, ‘Dick’, and ‘Francis’. They take it already, upon their salvation, that though I be but Prince of Wales yet I am the [[King\|king]] of courtesy, and tell me flatly I am no proud jack like Oldcastle, but a Corinthian, a lad of mettle, a good boy—by the Lord, so they call me; and when I am [[King]] of England I shall command all the good lads in Eastcheap. They call drinking deep ‘dyeing scarlet’, and when you breathe in your watering they cry ‘Hem!’ and bid you ‘Play it off!’ To conclude, I am so good a proficient in one quarter of an hour that I can drink with any tinker in his own language during my life. I tell thee, Ned, thou hast lost much [[Honour\|honour]] that thou wert not with me in this action. But, sweet Ned—to sweeten which name of Ned I give thee this pennyworth of sugar, clapped even now into my hand by an underskinker, one that never spake other English in his life than ‘Eight shillings and sixpence’, and ‘You are welcome’, with this shrill addition, ‘Anon, anon, sir ! Score a pint of bastard in the Half-[[Moon\|moon]]!’ or so. But, Ned, to drive away the [[Time\|time]] till Oldcastle come, I prithee do thou stand in some by-room, while I question my puny drawer to what end he gave me the sugar, and do thou never leave calling ‘Francis!’, that his tale to me may be nothing but ‘Anon!’ Step aside, and I’ll show thee a precedent. |
+| *(didascalia)* | Exit Poins |
 | POINS | (within) Francis! |
 | PRINCE HARRY | Thou art perfect. |
-| POINS | (within) Francis! Enter Francis, a drawer |
+| POINS | (within) Francis! |
+| *(didascalia)* | Enter Francis, a drawer |
 | FRANCIS | Anon, anon, sir!—Look down into the Pomegranate, Ralph ! |
 | PRINCE HARRY | Come hither, Francis. |
 | FRANCIS | My lord. |
@@ -1482,30 +1395,26 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | Why, then, your brown bastard is your only drink ! For look you, Francis, your white canvas doublet will sully. In Barbary, sir, it cannot come to so much. |
 | FRANCIS | What, sir? |
 | POINS | (within) Francis ! |
-| PRINCE HARRY | Away, you rogue ! Dost thou not hear them call ? As he departs Poins and the Prince both call him. The Drawer stands amazed, not knowing which |
-| PRINCE HARRY | way to go. |
+| PRINCE HARRY | Away, you rogue ! Dost thou not hear them call ? |
+| *(didascalia)* | As he departs Poins and the Prince both call him. |
+| PRINCE HARRY | The Drawer stands amazed, not knowing which<br><br>way to go. |
 | *(didascalia)* | Enter Vintner |
 | VINTNER | What, standest thou still, and hearest such a calling? Look to the guests within. Exit Francis My lord, old Sir John with half a dozen more are at the door. Shall I let them in? |
 | PRINCE HARRY | Let them [[Alone\|alone]] a while, and then open the door. Exit Vintner Poins ! |
-| POINS | within Anon, anon, sir! Enter Poins |
+| *(didascalia)* | POINS within Anon, anon, sir! |
+| *(didascalia)* | Enter Poins |
 | PRINCE HARRY | Sirrah, Oldcastle and the rest of the thieves are at the door. Shall we be merry? |
 | POINS | As merry as crickets, my lad. But hark ye, what cunning match have you made with this jest of the drawer? Come, what’s the issue? |
-| PRINCE HARRY | I am now of all humours that have showed themselves humours since the old days of goodman Adam to the pupil age of this present twelve o’[[Clock\|clock]] at midnight. Enter Francis What’s o’[[Clock\|clock]], Francis? |
-| FRANCIS | Anon, anon, sir ! Exit at another door |
-| PRINCE HARRY | That ever this fellow should have fewer words than a parrot, and yet the son of a woman ! His industry is upstairs and downstairs, his eloquence the parcel of a reckoning. I am not yet of Percy’s mind, the [[Hotspur]] of the North—he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, ‘Fie upon this quiet life ! I want work.’ ‘O my sweet Harry,’ says she, ‘how many hast thou killed today?’ Give my roan [[Horse\|horse]] a drench,’says he, and answers, ‘Some fourteen,’ an hour after; ‘a trifle, a trifle.’ I prithee call in Oldcastle. I’ll play Percy, and that damned brawn shall play Dame Mortimer his wife. ‘Rivo!’ says the drunkard. Call in Ribs, call in Tallow. Enter Sir John Oldcastle, with [[Sword\|sword]] and buckler, Russell, Harvey, and Gadshill, followed by Francis, with wine |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--04_exchange_poins" data-title="1 Henry IV — Act II, Scene 5 — exchange (POINS) [4]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| PRINCE HARRY | I am now of all humours that have showed themselves humours since the old days of goodman Adam to the pupil age of this present twelve o’[[Clock\|clock]] at midnight. |
+| *(didascalia)* | Enter Francis |
+| PRINCE HARRY | What’s o’[[Clock\|clock]], Francis? |
+| *(didascalia)* | FRANCIS Anon, anon, sir ! Exit at another door |
+| PRINCE HARRY | That ever this fellow should have fewer words than a parrot, and yet the son of a woman ! His industry is upstairs and downstairs, his eloquence the parcel of a reckoning. I am not yet of Percy’s mind, the [[Hotspur]] of the North—he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, ‘Fie upon this quiet life ! I want work.’ ‘O my sweet Harry,’ says she, ‘how many hast thou killed today?’ Give my roan [[Horse\|horse]] a drench,’says he, and answers, ‘Some fourteen,’ an hour after; ‘a trifle, a trifle.’ I prithee call in Oldcastle. I’ll play Percy, and that damned brawn shall play Dame Mortimer his wife. ‘Rivo!’ says the drunkard. Call in Ribs, call in Tallow. |
+| *(didascalia)* | Enter Sir John Oldcastle, with [[Sword\|sword]] and buckler, Russell, Harvey, and Gadshill, followed by Francis, with wine |
 | POINS | Welcome, Jack. Where hast thou been? |
-| SIR JOHN | A plague of all cowards, I say, and a vengeance too, marry and amen!—Give me a cup of sack, boy.—Ere I lead this life long, I’ll sew netherstocks, and mend them and foot them too. A plague of all cowards!—Give me a cup of sack, rogue. Is there no virtue extant? He drinketh |
+| SIR JOHN | A plague of all cowards, I say, and a vengeance too, marry and amen!—Give me a cup of sack, boy.—Ere I lead this life long, I’ll sew netherstocks, and mend them and foot them too. A plague of all cowards!—Give me a cup of sack, rogue. Is there no virtue extant?<br>He drinketh |
 | PRINCE HARRY | Didst thou never see Titan kiss a dish of butter—pitiful hearted Titan—that melted at the sweet tale of the sun’s? If thou didst, then behold that compound. |
-| SIR JOHN | (to Francis) You rogue, here’s lime in this sack too. There is nothing but roguery to be found in villainous man, yet a coward is worse than a cup of sack with lime in it. Exit Francis A villainous coward ! Go thy ways, old Jack, die when thou wilt. If manhood, good manhood, be not forgot upon the face of the earth, then am I a shotten herring. There lives not three good men unhanged in England, and one of them is fat and grows old, God help the while. A bad world, I say. I would I were a weaver—I could sing psalms, or anything. A plague of all cowards, I say still. |
+| *(didascalia)* | SIR JOHN (to Francis) You rogue, here’s lime in this sack too. There is nothing but roguery to be found in villainous man, yet a coward is worse than a cup of sack with lime in it. Exit Francis A villainous coward ! Go thy ways, old Jack, die when thou wilt. If manhood, good manhood, be not forgot upon the face of the earth, then am I a shotten herring. There lives not three good men unhanged in England, and one of them is fat and grows old, God help the while. A bad world, I say. I would I were a weaver—I could sing psalms, or anything. A plague of all cowards, I say still. |
 | PRINCE HARRY | How now, woolsack, what mutter you? |
 | SIR JOHN | A [[King\|king]]’s son ! If I do not beat thee out of thy kingdom with a dagger of lath, and drive all thy subjects afore thee like a flock of wild geese, I’ll never wear hair on my face more. You, Prince of Wales! |
 | PRINCE HARRY | Why, you whoreson round man, what’s the matter? |
@@ -1513,34 +1422,34 @@ The [[history|History]] of Henry the Fourth
 | POINS | Zounds, ye fat paunch, an ye call me coward, by the Lord I’ll stab thee. |
 | SIR JOHN | I call thee coward? I’ll see thee damned ere I call thee coward, but I would give a thousand pound I could run as fast as thou canst. You are straight enough in the shoulders; you care not who sees your back. Call you that backing of your friends ? A plague upon such backing! Give me them that will face me. Give me a cup of sack. I am a rogue if I drunk today. |
 | PRINCE HARRY | O [[Villain\|villain]], thy lips are scarce wiped since thou drunkest last. |
-| SIR JOHN | All is one for that. He drinketh A plague of all cowards, still say I. |
+| SIR JOHN | All is one for that.<br>He drinketh<br>A plague of all cowards, still say I. |
 | PRINCE HARRY | What’s the matter? |
 | SIR JOHN | What’s the matter? There be four of us here have ta’en a thousand pound this day morning. |
 | PRINCE HARRY | Where is it, Jack, where is it? |
 | SIR JOHN | Where is it? Taken from us it is. A hundred upon poor four of us. |
 | PRINCE HARRY | What, a hundred, man? |
-| SIR JOHN | I am a rogue if I were not at half-[[Sword\|sword]] with a dozen of them, two hours together. I have scaped by miracle. I am eight times thrust through the doublet, four through the hose, my buckler cut through and through, my [[Sword\|sword]] hacked like a handsaw. Ecce signum. He shows his [[Sword\|sword]] I never dealt better since I was a man. All would not do. A plague of all cowards! (Pointing to Gadshill, Harvey, and Russell) Let them speak. If they speak more or less than [[Truth\|truth]], they are villains and the sons of darkness. PRINCE HARRY Speak, sirs, how was it? GADSHILL We four set upon some dozen— |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--05_exchange_sir_john" data-title="1 Henry IV — Act II, Scene 5 — exchange (SIR JOHN) [5]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| SIR JOHN | (to the Prince) Sixteen at least, my lord. GADSHILL And bound them. |
+| SIR JOHN | I am a rogue if I were not at half-[[Sword\|sword]] with a dozen of them, two hours together. I have scaped by miracle. I am eight times thrust through the doublet, four through the hose, my buckler cut through and through, my [[Sword\|sword]] hacked like a handsaw. Ecce signum. |
+| *(didascalia)* | He shows his [[Sword\|sword]] |
+| SIR JOHN | I never dealt better since I was a man. All would not do. A plague of all cowards! (Pointing to Gadshill, Harvey, and Russell) Let them speak. If they speak more or less than [[Truth\|truth]], they are villains and the sons of darkness. |
+| *(didascalia)* | PRINCE HARRY Speak, sirs, how was it? |
+| *(didascalia)* | GADSHILL We four set upon some dozen— |
+| SIR JOHN | (to the Prince) Sixteen at least, my lord. |
+| *(didascalia)* | GADSHILL And bound them. |
 | HARVEY | No, no, they were not bound. |
-| SIR JOHN | You rogue, they were bound every man of them, or I am a Jew else, an Hebrew Jew. GADSHILL As we were sharing, some six or seven fresh men set upon us. |
+| SIR JOHN | You rogue, they were bound every man of them, or I am a Jew else, an Hebrew Jew. |
+| *(didascalia)* | GADSHILL As we were sharing, some six or seven fresh men set upon us. |
 | SIR JOHN | And unbound the rest; and then come in the other. |
 | PRINCE HARRY | What, fought you with them all? |
 | SIR JOHN | All? I know not what you call all, but if I fought not with fifty of them, I am a bunch of radish. If there were not two- or three-and-fifty upon poor old Jack, then am I no two-legged creature. |
 | PRINCE HARRY | Pray God you have not murdered some of them. |
-| SIR JOHN | Nay, that’s past praying for. I have peppered two of them. Two I am sure I have paid—two rogues in buckram suits. I tell thee what, Hal, if I tell thee a lie, spit in my face, call me [[Horse\|horse]]. Thou knowest my old ward— He stands as to fight here I lay, and thus I bore my point. Four rogues in buckram let drive at me. |
+| SIR JOHN | Nay, that’s past praying for. I have peppered two of them. Two I am sure I have paid—two rogues in buckram suits. I tell thee what, Hal, if I tell thee a lie, spit in my face, call me [[Horse\|horse]]. Thou knowest my old ward— |
+| *(didascalia)* | He stands as to fight |
+| SIR JOHN | here I lay, and thus I bore my point. Four rogues in buckram let drive at me. |
 | PRINCE HARRY | What, four? Thou saidst but two even now. |
 | SIR JOHN | Four, Hal, I told thee four. |
 | POINS | Ay, ay, he said four. |
-| SIR JOHN | These four came all afront, and mainly thrust at me. I made me no more ado, but took all their seven points in my target, thus. He wards himself with his buckler |
+| SIR JOHN | These four came all afront, and mainly thrust at me. I made me no more ado, but took all their seven points in my target, thus. |
+| *(didascalia)* | He wards himself with his buckler |
 | PRINCE HARRY | Seven? Why, there were but four even now. |
 | SIR JOHN | In buckram? |
 | POINS | Ay, four in buckram suits. |
@@ -1551,7 +1460,7 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | Do so, for it is worth the listening to. These nine in buckram that I told thee of— |
 | PRINCE HARRY | (aside to Poins) So, two more already. |
 | SIR JOHN | Their points being broken— |
-| POINS | aside to the Prince Down fell their hose. |
+| *(didascalia)* | POINS aside to the Prince Down fell their hose. |
 | SIR JOHN | Began to give me ground. But I followed me close, came in foot and hand, and, with a thought, seven of the eleven I paid. |
 | PRINCE HARRY | (aside to Poins) O monstrous! Eleven buckram men grown out of two! |
 | SIR JOHN | But, as the devil would have it, three misbegotten knaves in Kendal green came at my back and let drive at me; for it was so dark, Hal, that thou couldst not see thy hand. |
@@ -1560,15 +1469,6 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | Why, how couldst thou know these men in Kendal green when it was so dark thou couldst not see thy hand? Come, tell us your reason. What sayst thou to this? |
 | POINS | Come, your reason, Jack, your reason. |
 | SIR JOHN | What, upon compulsion? Zounds, an I were at the strappado, or all the racks in the world, I would not tell you on compulsion. Give you a reason on compulsion? If reasons were as plentiful as blackberries, I would give no man a reason upon compulsion, I. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--06_exchange_prince_harry" data-title="1 Henry IV — Act II, Scene 5 — exchange (PRINCE HARRY) [6]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | PRINCE HARRY | I’ll be no longer guilty of this sin. This sanguine coward, this bed-presser, this [[Horse\|horse]]-back-breaker, this huge [[Hill\|hill]] of flesh— |
 | SIR JOHN | ’Sblood, you starveling, you elf-skin, you dried neat’s tongue, you bull’s pizzle, you stock-fish—O, for breath to utter what is like thee!—you tailor’s yard, you sheath, you bow-case, you vile standing tuck— |
 | PRINCE HARRY | [[Well]], breathe awhile, and then to’t again, and when thou hast tired thyself in base comparisons, hear me speak but this. |
@@ -1577,7 +1477,8 @@ The [[history|History]] of Henry the Fourth
 | POINS | Come, let’s hear, Jack; what trick hast thou now? |
 | SIR JOHN | By the Lord, I knew ye as [[Well\|well]] as he that made ye. Why, hear you, my masters. Was it for me to kill the heir-apparent? Should I turn upon the true prince? Why, thou knowest I am as valiant as Hercules; but beware instinct. The [[Lion\|lion]] will not touch the true prince—instinct is a great matter. I was now a coward on instinct. I shall think the better of myself and thee during my life—I for a valiant [[Lion\|lion]], and thou for a true prince. But by the Lord, lads, I am glad you have the money.—(Calling) Hostess, clap to the doors.—Watch tonight, pray tomorrow. Gallants, lads, boys, hearts of gold, all the titles of good fellowship come to you! What, shall we be merry, shall we have a play extempore? |
 | PRINCE HARRY | Content, and the argument shall be thy running away. |
-| SIR JOHN | Ah, no more of that, Hal, an thou lovest me. Enter Hostess |
+| SIR JOHN | Ah, no more of that, Hal, an thou lovest me. |
+| *(didascalia)* | Enter Hostess |
 | HOSTESS | O Jesu, my lord the Prince! |
 | PRINCE HARRY | How now, my lady the Hostess, what sayst thou to me? |
 | HOSTESS | Marry, my lord, there is a nobleman of the [[Court\|court]] at door would speak with you. He says he comes from your father. |
@@ -1589,15 +1490,6 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | [[Faith]], and I’ll send him packing. Exit |
 | PRINCE HARRY | Now, sirs; (to Gadshill) by’r Lady, you fought fair—so did you, Harvey, so did you, Russell. You are lions too—you ran away upon instinct, you will not touch the true prince; no, fie! |
 | RUSSELL | [[Faith]], I ran when I saw others run. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--07_exchange_prince_harry" data-title="1 Henry IV — Act II, Scene 5 — exchange (PRINCE HARRY) [7]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | PRINCE HARRY | [[Faith]], tell me now in earnest, how came Oldcastle’s [[Sword\|sword]] so hacked? |
 | HARVEY | Why, he hacked it with his dagger, and said he would swear [[Truth\|truth]] out of England but he would make you believe it was done in fight, and persuaded us to do the like. |
 | RUSSELL | Yea, and to tickle our noses with speargrass, to make them bleed; and then to beslubber our garments with it, and swear it was the [[Blood\|blood]] of true men. I did that I did not this seven year before—I blushed to hear his monstrous devices. |
@@ -1606,8 +1498,10 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | I do. |
 | RUSSELL | What think you they portend? |
 | PRINCE HARRY | Hot livers, and cold purses. |
-| RUSSELL | Choler, my lord, if rightly taken. Exit |
-| PRINCE HARRY | No, if rightly taken, halter. Enter Sir John Oldcastle Here comes lean Jack; here comes bare-bone. How now, my sweet creature of bombast? How long is’t ago, Jack, since thou sawest thine own knee? |
+| *(didascalia)* | RUSSELL Choler, my lord, if rightly taken. Exit |
+| PRINCE HARRY | No, if rightly taken, halter. |
+| *(didascalia)* | Enter Sir John Oldcastle |
+| PRINCE HARRY | Here comes lean Jack; here comes bare-bone. How now, my sweet creature of bombast? How long is’t ago, Jack, since thou sawest thine own knee? |
 | SIR JOHN | My own knee? When I was about thy years, Hal, I was not an eagle’s talon in the waist; I could have crept into any alderman’s thumb-ring. A plague of sighing and grief—it blows a man up like a bladder. There’s villainous news abroad. Here was Sir John Bracy from your father; you must to the [[Court\|court]] in the morning. That same mad fellow of the North, Percy, and he of Wales that gave Amamon the bastinado, and made [[Lucifer]] cuckold, and swore the devil his true liegeman upon the [[Cross\|cross]] of a Welsh hook—what a plague call you him? |
 | POINS | Owain Glyndwr. |
 | SIR JOHN | Owain, Owain, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots Douglas, that runs a-horseback up a [[Hill\|hill]] perpendicular— |
@@ -1621,19 +1515,10 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | I grant ye, upon instinct. [[Well]], he is there too, and one Mordake, and a thousand blue-caps more. Worcester is stolen away tonight. Thy father’s beard is turned white with the news. You may buy land now as cheap as stinking mackerel. |
 | PRINCE HARRY | Why then, it is like, if there come a hot June and this civil buffeting hold, we shall buy maidenheads as they buy hobnails: by the hundreds. |
 | SIR JOHN | By the mass, lad, thou sayst true; it is like we shall have good trading that way. But tell me, Hal, art not thou horrible afeard? Thou being heir-apparent, could the world pick thee out three such enemies again as that fiend Douglas, that spirit Percy, and that devil Glyndŵr? Art thou not horribly afraid? Doth not thy [[Blood\|blood]] thrill at it? |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--08_exchange_prince_harry" data-title="1 Henry IV — Act II, Scene 5 — exchange (PRINCE HARRY) [8]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | PRINCE HARRY | Not a whit, i’[[Faith\|faith]]. I lack some of thy instinct. 375 |
 | SIR JOHN | [[Well]], thou wilt be horribly chid tomorrow when thou comest to thy father. If thou [[Love\|love]] me, practise an answer. |
 | PRINCE HARRY | Do thou stand for my father, and examine me upon the particulars of my life. |
-| SIR JOHN | Shall I? Content. This chair shall be my state, this dagger my sceptre, and this cushion my [[Crown\|crown]]. He sits |
+| SIR JOHN | Shall I? Content. This chair shall be my state, this dagger my sceptre, and this cushion my [[Crown\|crown]].<br>He sits |
 | PRINCE HARRY | Thy state is taken for a joint-stool, thy golden sceptre for a leaden dagger, and thy precious rich [[Crown\|crown]] for a pitiful bald [[Crown\|crown]]. |
 | SIR JOHN | [[Well]], an the [[Fire\|fire]] of grace be not quite out of thee, now shalt thou be moved. Give me a cup of sack to make my eyes look red, that it may be thought I have wept; for I must speak in passion, and I will do it in [[King]] Cambyses’ vein. |
 | PRINCE HARRY | (bowing) [[Well]], here is my leg. |
@@ -1641,27 +1526,9 @@ The [[history|History]] of Henry the Fourth
 | HOSTESS | O Jesu, this is excellent sport, i’[[Faith\|faith]]. |
 | SIR JOHN | Weep not, sweet [[Queen]], for trickling [[Tears\|tears]] are vain. |
 | HOSTESS | O the Father, how he holds his countenance! |
-| SIR JOHN | For God’s sake, lords, convey my tristful [[Queen]], For [[Tears\|tears]] do stop the floodgates of her eyes. |
+| SIR JOHN | For God’s sake, lords, convey my tristful [[Queen]],<br>For [[Tears\|tears]] do stop the floodgates of her eyes. |
 | HOSTESS | O Jesu, he doth it as like one of these harlotry players as ever I see! |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--09_monologue_sir_john" data-title="1 Henry IV — Act II, Scene 5 — monologue (SIR JOHN) [9]" data-chapter="Scene 5" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| SIR JOHN | Peace, good pint-pot; peace, good tickle-brain.— Harry, I do not only marvel where thou spendest thy [[Time\|time]], but also how thou art accompanied. For though the camomile, the more it is trodden on, the faster it grows, yet youth, the more it is wasted, the sooner it wears. That thou art my son I have partly thy mother’s word, partly my own opinion, but chiefly a villainous trick of thine eye, and a foolish hanging of thy nether lip, that doth warrant me. If then thou be son to me, here lies the point. Why, being son to me, art thou so pointed at? Shall the blessed sun of heaven prove a micher, and eat btackberries?—A question not to be asked. Shall the son of England prove a thief, and take purses?—A question to be asked. There is a thing, Harry, which thou hast often heard of, and it is known to many in our land by the name of pitch. This pitch, as ancient writers do report, doth defile. So doth the company thou keepest. For Harry, now I do not speak to thee in drink, but in [[Tears\|tears]]; not in pleasure, but in passion; not in words only, but in woes also. And yet there is a virtuous man whom I have often noted in thy company, but I know not his name. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--10_exchange_prince_harry" data-title="1 Henry IV — Act II, Scene 5 — exchange (PRINCE HARRY) [10]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| SIR JOHN | Peace, good pint-pot; peace, good tickle-brain.—<br>Harry, I do not only marvel where thou spendest thy<br>[[Time\|time]], but also how thou art accompanied. For though<br>the camomile, the more it is trodden on, the faster it<br>grows, yet youth, the more it is wasted, the sooner it<br>wears. That thou art my son I have partly thy mother’s<br>word, partly my own opinion, but chiefly a villainous<br>trick of thine eye, and a foolish hanging of thy nether<br>lip, that doth warrant me. If then thou be son to me,<br>here lies the point. Why, being son to me, art thou so<br>pointed at? Shall the blessed sun of heaven prove a<br>micher, and eat btackberries?—A question not to be<br>asked. Shall the son of England prove a thief, and take<br>purses?—A question to be asked. There is a thing,<br>Harry, which thou hast often heard of, and it is known<br>to many in our land by the name of pitch. This pitch,<br>as ancient writers do report, doth defile. So doth the<br>company thou keepest. For Harry, now I do not speak<br>to thee in drink, but in [[Tears\|tears]]; not in pleasure, but in<br>passion; not in words only, but in woes also. And yet<br>there is a virtuous man whom I have often noted in<br>thy company, but I know not his name. |
 | PRINCE HARRY | What manner of man, an it like your majesty? |
 | SIR JOHN | A goodly, portly man, i‘[[Faith\|faith]], and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore. And now I remember me, his name is Oldcastle. If that man should be lewdly given, he deceiveth me; for, Harry, I see virtue in his looks. If, then, the tree may be known by the fruit, as the fruit by the tree, then peremptorily I speak it—there is virtue in that Oldcastle. Him keep with; the rest banish. And tell me now, thou naughty varlet, tell me, where hast thou been this month? |
 | PRINCE HARRY | Dost thou speak like a [[King\|king]]? Do thou stand for me, and I’ll play my father. |
@@ -1671,165 +1538,120 @@ The [[history|History]] of Henry the Fourth
 | PRINCE HARRY | Now, Harry, whence come you? |
 | SIR JOHN | My noble lord, from Eastcheap. |
 | PRINCE HARRY | The complaints I hear of thee are grievous. |
-| SIR JOHN | ’Sblood, my lord, they are false. To the others Nay, I’ll tickle ye for a young prince, i’[[Faith\|faith]]. |
+| *(didascalia)* | SIR JOHN ’Sblood, my lord, they are false. To |
+| *(didascalia)* | the others |
+| PRINCE HARRY | Nay, I’ll tickle ye for a young prince, i’[[Faith\|faith]]. |
 | PRINCE HARRY | Swearest thou, ungracious boy? Henceforth ne’er look on me. Thou art violently carried away from grace. There is a devil haunts thee in the likeness of an old fat man; a tun of man is thy companion. Why dost thou converse with that trunk of humours, that bolting-hutch of beastliness, that swollen parcel of dropsies, that huge bombard of sack, that stuffed cloak-bag of guts, that roasted Manningtree ox with the pudding in his belly, that reverend Vice, that grey Iniquity, that father Ruffian, that [[Vanity]] in Years? Wherein is he good, but to taste sack and drink it? Wherein neat and cleanly, but to carve a capon and eat it? Wherein cunning, but in craft? Wherein crafty, but in villainy? Wherein villainous, but in all things? Wherein worthy, but in nothing? |
 | SIR JOHN | I would your grace would take me with you. Whom means your grace? |
 | PRINCE HARRY | That villainous, abominable misleader of youth, Oldcastle; that old white-bearded [[Satan]]. |
 | SIR JOHN | My lord, the man I know. |
 | PRINCE HARRY | I know thou dost. |
 | SIR JOHN | But to say I know more harm in him than in myself were to say more than I know. That he is old, the more the pity, his white hairs do witness it. But that he is, saving your reverence, a whoremaster, that I utterly deny. If sack and sugar be a fault, God help the wicked. If to be old and merry be a sin, then many an old host that I know is damned. If to be fat be to be hated, then Pharaoh’s lean kine are to be loved. No, my good lord, banish Harvey, banish Russell, banish Poins, but for sweet Jack Oldcastle, kind Jack Oldcastle, true Jack Oldcastle, valiant Jack Oldcastle, and therefore more valiant being, as he is, old Jack Oldcastle, Banish not him thy Harry’s company, Banish not him thy Harry’s company. Banish plump Jack, and banish all the world. |
-
-
-
-
-<span class="atom-split" data-atom="act_2--scene_5--11_exchange_prince_harry_i" data-title="1 Henry IV — Act II, Scene 5 — exchange (PRINCE HARRY I) [11]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE HARRY | I do; I will. Knocking within. Exit Hostess. Enter Russell, running |
+| PRINCE HARRY | I do; I will. |
+| *(didascalia)* | Knocking within. Exit Hostess. |
+| *(didascalia)* | Enter Russell, running |
 | RUSSELL | O my lord, my lord, the sheriff with a most monstrous watch is at the door! |
-| SIR JOHN | Out, ye rogue! Play out the play! I have much to say in the behalf of that Oldeastle. Enter the Hostess |
+| SIR JOHN | Out, ye rogue! Play out the play! I have much to say in the behalf of that Oldeastle. |
+| *(didascalia)* | Enter the Hostess |
 | HOSTESS | O Jesu! My lord, my lord! |
 | PRINCE HARRY | Heigh, heigh, the devil rides upon a fiddlestick! What’s the matter? |
-| HOSTESS | The sheriff and all the watch are at the door. They are come to search the [[house]]. Shall I let them in? |
+| HOSTESS | The sheriff and all the watch are at the door.<br>They are come to search the [[house]]. Shall I let them in? |
 | SIR JOHN | Dost thou hear, Hal? Never call a true piece of gold a counterfeit—thou art essentially made, without seeming so. |
 | PRINCE HARRY | And thou a natural coward without instinct. |
 | SIR JOHN | I deny your major. If you will deny the sheriff, so. If not, let him enter. If I become not a cart as [[Well\|well]] as another man, a plague on my bringing up. I [[Hope\|hope]] I shall as soon be strangled with a halter as another. |
 | PRINCE HARRY | Go, hide thee behind the arras. The rest walk up above. Now, my masters, for a true face and good [[Conscience\|conscience]]. Exeunt Poins, Russell, and Gadshill |
-| SIR JOHN | Both which I have had, but their date is out; and therefore I’ll hide me. He withdraws behind the arras |
-| PRINCE HARRY | (to Hostess) Call in the sheriff. Exit Hostess Enter Sheriff and a Carrier Now, master sheriff, what is your will with me? |
-| SHERIFF | First, pardon me, my lord. A hue and cry Hath followed certain men unto this [[house]]. |
+| SIR JOHN | Both which I have had, but their date is out; and therefore I’ll hide me.<br>He withdraws behind the arras |
+| PRINCE HARRY | (to<br>Hostess) Call in the sheriff. Exit Hostess |
+| *(didascalia)* | Enter Sheriff and a Carrier |
+| PRINCE HARRY | Now, master sheriff, what is your will with me? |
+| SHERIFF | First, pardon me, my lord. A hue and cry<br>Hath followed certain men unto this [[house]]. |
 | PRINCE HARRY | What men? |
-| SHERIFF | One of them is [[Well\|well]] known, my gracious lord, A gross, fat man. |
+| SHERIFF | One of them is [[Well\|well]] known, my gracious lord,<br>A gross, fat man. |
 | CARRIER | As fat as butter. |
-| PRINCE HARRY | The man, I do assure you, is not here, For I myself at this [[Time\|time]] have employed him. And, sheriff, I will engage my word to thee That I will by tomorrow dinner-[[Time\|time]] Send him to answer thee, or any man, For anything he shall be charged withal. And so let me entreat you leave the [[house]]. |
-| SHERIFF | I will, my lord. There are two gentlemen Have in this robbery lost three hundred marks. |
-| PRINCE HARRY | It may be so. If he have robbed these men, He shall be answerable. And so, farewell. |
+| PRINCE HARRY | The man, I do assure you, is not here,<br>For I myself at this [[Time\|time]] have employed him.<br>And, sheriff, I will engage my word to thee<br>That I will by tomorrow dinner-[[Time\|time]]<br>Send him to answer thee, or any man,<br>For anything he shall be charged withal.<br>And so let me entreat you leave the [[house]]. |
+| SHERIFF | I will, my lord. There are two gentlemen<br>Have in this robbery lost three hundred marks. |
+| PRINCE HARRY | It may be so. If he have robbed these men,<br>He shall be answerable. And so, farewell. |
 | SHERIFF | Good [[Night\|night]], my noble lord. |
 | PRINCE HARRY | I think it is good morrow, is it not? |
-| SHERIFF | Indeed, my lord, I think it be two o’[[Clock\|clock]]. Exeunt Sheriff and Carrier |
-| PRINCE HARRY | This oily rascal is known as [[Well\|well]] as Paul’s. Go call him forth. |
-| HARVEY | Oldcastle! He draws back the arras, revealing Sir John asleep Fast asleep Behind the arras, and snorting like a [[Horse\|horse]]. |
-| PRINCE HARRY | Hark how hard he fetches breath. Search his pockets. Harvey searcheth his pocket and findeth certain papers. He closeth the arras and cometh forward What hast thou found? |
+| SHERIFF | Indeed, my lord, I think it be two o’[[Clock\|clock]]. |
+| *(didascalia)* | Exeunt Sheriff and Carrier |
+| PRINCE HARRY | This oily rascal is known as [[Well\|well]] as Paul’s.<br>Go call him forth. |
+| HARVEY | Oldcastle! |
+| *(didascalia)* | He |
+| *(didascalia)* | draws back the arras, revealing Sir John asleep |
+| HARVEY | Fast asleep<br>Behind the arras, and snorting like a [[Horse\|horse]]. |
+| PRINCE HARRY | Hark how hard he fetches breath. Search his pockets. |
+| *(didascalia)* | Harvey searcheth his pocket and findeth certain papers. He closeth the arras and cometh forward |
+| PRINCE HARRY | What hast thou found? |
 | HARVEY | Nothing but papers, my lord. |
-| PRINCE HARRY | Let’s see what they be. Read them. HARVEY (reads) Item: a capon. 2s. 2d. |
-| PRINCE HARRY | Item: sauce. 4d. |
-| PRINCE HARRY | Item: sack, two gallons. 5s. 8d. Item: anchovies and sack after supper. 2s. 6d. |
-| *(didascalia)* | Item: bread. ob. PRINCE HARRY O monstrous! But one halfpennyworth of bread to this intolerable deal of sack! What there is else, keep close; we’ll read it at more advantage. There let him [[Sleep\|sleep]] till day. I’ll to the [[Court\|court]] in the morning. We must all to the wars, and thy place shall be honourable. I’ll procure this fat rogue a charge of foot, and I know his [[Death\|death]] will be a march of twelve score. The money shall be paid back again, with advantage. Be with me betimes in the morning; and so good morrow, Harvey. |
+| PRINCE HARRY | Let’s see what they be. Read them. |
+| *(didascalia)* | HARVEY (reads) |
+| PRINCE HARRY | Item: a capon. 2s. 2d.<br><br>Item: sauce. 4d.<br><br>Item: sack, two gallons. 5s. 8d.<br>Item: anchovies and sack after supper. 2s. 6d.<br><br>Item: bread. ob. |
+| *(didascalia)* | PRINCE HARRY O monstrous! But one halfpennyworth of bread to this intolerable deal of sack! What there is else, keep close; we’ll read it at more advantage. There let him [[Sleep\|sleep]] till day. I’ll to the [[Court\|court]] in the morning. We must all to the wars, and thy place shall be honourable. I’ll procure this fat rogue a charge of foot, and I know his [[Death\|death]] will be a march of twelve score. The money shall be paid back again, with advantage. Be with me betimes in the morning; and so good morrow, Harvey. |
+| *(didascalia)* | HARVEY Good morrow, good my lord. Exeunt severally |
 
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5--12_exchange_harvey" data-title="1 Henry IV — Act II, Scene 5 — exchange (HARVEY) [12]" data-chapter="Scene 5" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| HARVEY | Good morrow, good my lord. Exeunt severally |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--01_exchange_dialogue" data-title="1 Henry IV — Act III, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="1 Henry IV — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Hotspur]], the [[Earl of Worcester]], Lord Mortimer, and Owain Glyndŵr, with a map |
-| MORTIMER | These promises are fair, the parties sure, And our induction full of prosperous [[Hope\|hope]]. |
-| [[Hotspur\|HOTSPUR]] | Lord Mortimer and cousin Glyndŵr, Will you sit down? And uncle Worcester? Mortimer, Glyndŵr, and Worcester sit A plague upon it, I have forgot the map! GLYNDŴR No, here it is. Sit, cousin Percy, sit, Good cousin [[Hotspur]]; [[Hotspur]] sits For by that name As oft as Lancaster doth speak of you, His cheek looks pale, and with a rising sigh He wisheth you in heaven. |
-| [[Hotspur\|HOTSPUR]] | And you in hell, As oft as he hears Owain Glyndŵr spoke of. GLYNDŴR I cannot blame him. At my nativity The front of heaven was full of fiery shapes, Of burning cressets; and at my birth The frame and huge foundation of the earth Shaked like a coward. |
-| [[Hotspur\|HOTSPUR]] | Why, so it would have done At the same season if your mother’s cat Had but kittened, though yourself had never been born. GLYNDŴR I say the earth did shake when I was born. |
-| [[Hotspur\|HOTSPUR]] | And I say the earth was not of my mind If you suppose as fearing you it shook. GLYNDŴR The heavens were all on [[Fire\|fire]], the earth did tremble— |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--02_monologue_hotspur" data-title="1 Henry IV — Act III, Scene 1 — monologue (HOTSPUR) [2]" data-chapter="Scene 1" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hotspur\|HOTSPUR]] | O, then the earth shook to see the heavens on [[Fire\|fire]], And not in [[Fear\|fear]] of your nativity. Diseased [[Nature\|nature]] oftentimes breaks forth In strange eruptions; oft the teeming earth Is with a kind of colic pinched and vexed By the imprisoning of unruly [[Wind\|wind]] Within her womb, which for enlargement striving Shakes the old beldam earth, and topples down Steeples and moss-grown towers. At your birth Our grandam earth, having this distemp’rature, In passion shook. GLYNDŴR Cousin, of many men I do not bear these crossings. Give me leave To tell you once again that at my birth The front of heaven was full of fiery shapes, The goats ran from the [[Mountains\|mountains]], and the herds Were strangely clamorous to the frighted fields. These signs have marked me extraordinary, And all the courses of my life do show I am not in the roll of commen men. Where is he living, clipped in with the sea That chides the banks of England, Scotland, Wales, Which calls me pupil or hath read to me? And bring him out that is but woman’s son Can trace me in the tedious ways of art, And hold me pace in deep experiments. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--03_exchange_hotspur" data-title="1 Henry IV — Act III, Scene 1 — exchange (HOTSPUR) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hotspur\|HOTSPUR]] | standíng I think there’s no man speaketh better Welsh. I’ll to dinner. |
-| MORTIMER | Peace, cousin Percy, you will make him mad. GLYNDŴR I can call spirits from the vasty deep. |
-| [[Hotspur\|HOTSPUR]] | Why, so can I, or so can any man; But will they come when you do call for them? GLYNDŴR Why, I can teach you, cousin, to command the devil. |
-| [[Hotspur\|HOTSPUR]] | And I can teach thee, coz, to shame the devil, By telling [[Truth\|truth]]: ‘Tell [[Truth\|truth]], and shame the devil’. If thou have power to raise him, bring him hither, And I’ll be sworn I have power to shame him hence. O, while you live, tell [[Truth\|truth]] and shame the devil. |
-| MORTIMER | Come, come, no more of this unprofitable chat. GLYNDŴR Three times hath [[Henry Bolingbroke]] made head Against my power; thrice from the banks of Wye And sandy-bottomed Severn have I sent him Bootless [[Home\|home]], and weather-beaten back. |
-| [[Hotspur\|HOTSPUR]] | [[Home]] without boots, and in foul weather too! How scapes he agues, in the devil’s name? GLYNDŴR Come, here’s the map. Shall we divide our right, According to our threefold order ta’en? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--04_monologue_mortimer" data-title="1 Henry IV — Act III, Scene 1 — monologue (MORTIMER) [4]" data-chapter="Scene 1" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| MORTIMER | The Archdeacon hath divided it Into three limits very equally. England from Trent and Severn hitherto By south and east is to my part assigned; All westward-Wales beyond the Severn shore And all the fertile land within that bound— To Owain Glyndwr; (to [[Hotspur]]) and, dear coz, to you The remnant northward lying off from Trent. And our indentures tripartite are drawn, Which, being sealèd interchangeably— A business that this [[Night\|night]] may execute— Tomorrow, cousin Percy, you and I 80 And my good lord of Worcester will set forth To meet your father and the Scottish power, As is appointed us, at Shrewsbury. My father, Glyndŵr., is not ready yet, Nor shall we need his help these fourteen days. Within that space you may have drawn together Your tenants, friends, and neighbouring gentlemen. GLYNDŴR A shorter [[Time\|time]] shall send me to you, lords; And in my conduct shall your ladies come, From whom you now must steal and take no leave; For there will be a world of [[Water\|water]] shed 91 Upon the parting of your wives and you. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--05_exchange_hotspur" data-title="1 Henry IV — Act III, Scene 1 — exchange (HOTSPUR) [5]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hotspur\|HOTSPUR]] | Methinks my moiety north from Burton here In quantity equals not one of yours. See how this [[River\|river]] comes me cranking in, And cuts me from the best of all my land A huge half-[[Moon\|moon]], a monstrous cantle, out. I’ll have the current in this place dammed up, And here the smug and silver Trent shall run In a new channel fair and evenly. It shall not [[Wind\|wind]] with such a deep indent, To rob me of so rich a [[Bottom\|bottom]] here. GLYNDŴR Not [[Wind\|wind]]? It shall, it must; you see it doth. |
-| MORTIMER | Yea, but mark how he bears his course, and runs me up With like advantage on the other side, Gelding the opposed continent as much As on the other side it takes from you. |
-| WORCESTER | Yea, but a little charge will trench him here, And on this north side win this cape of land, And then he runs straight and even. no |
-| [[Hotspur\|HOTSPUR]] | I’ll have it so; a little charge will do it. GLYNDŴR I’ll not have it altered. |
-| [[Hotspur\|HOTSPUR]] | Will not you? GLYNDŴR No, nor you shall not. |
-| [[Hotspur\|HOTSPUR]] | Who shall say me nay? 115 GLYNDŴR Why, that will I. |
-| [[Hotspur\|HOTSPUR]] | Let me not understand you, then: speak it in Welsh. GLYNDŴR I can speak English, lord, as [[Well\|well]] as you; For I was trained up in the English [[Court\|court]], Where, being but young, I framed to the harp Many an English ditty lovely [[Well\|well]], And gave the tongue a helpful ornament— A virtue that was never seen in you. |
-| [[Hotspur\|HOTSPUR]] | Marry, and I am glad of it, with all my heart. I had rather be a kitten and cry ‘mew’ Than one of these same metre ballad-mongers. I had rather hear a brazen canstick turned, Or a dry [[Wheel\|wheel]] grate on the axle-tree, And that would set my teeth nothing on edge, Nothing so much as mincing poetry. ’Tis like the forced gait of a shuffling nag. GLYNDŴR Come, you shall have Trent turned. |
-| [[Hotspur\|HOTSPUR]] | I do not care. I’ll give thrice so much land To any [[Well\|well]]-deserving friend; But in the way of bargain—mark ye me—135 I’ll cavil on the ninth part of a hair. Are the indentures drawn? Shall we be gone? GLYNDŴR The [[Moon\|moon]] shines fair. You may away by [[Night\|night]]. I’ll haste the writer, and withal Break with your wives of your departure hence. I am afraid my daughter will run mad, So much she doteth on her Mortimer. Exit |
+| MORTIMER | These promises are fair, the parties sure,<br>And our induction full of prosperous [[Hope\|hope]]. |
+| [[Hotspur\|HOTSPUR]] | Lord Mortimer and cousin Glyndŵr,<br>Will you sit down? And uncle Worcester? |
+| *(didascalia)* | Mortimer, Glyndŵr, and Worcester sit |
+| [[Hotspur\|HOTSPUR]] | A plague upon it, I have forgot the map!<br>GLYNDŴR<br>No, here it is. Sit, cousin Percy, sit,<br>Good cousin [[Hotspur]]; |
+| *(didascalia)* | [[Hotspur]] sits |
+| [[Hotspur\|HOTSPUR]] | For by that name<br>As oft as Lancaster doth speak of you,<br>His cheek looks pale, and with a rising sigh<br>He wisheth you in heaven. |
+| [[Hotspur\|HOTSPUR]] | And you in hell,<br>As oft as he hears Owain Glyndŵr spoke of.<br>GLYNDŴR<br>I cannot blame him. At my nativity<br>The front of heaven was full of fiery shapes,<br>Of burning cressets; and at my birth<br>The frame and huge foundation of the earth<br>Shaked like a coward. |
+| [[Hotspur\|HOTSPUR]] | Why, so it would have done<br>At the same season if your mother’s cat<br>Had but kittened, though yourself had never been<br>born.<br>GLYNDŴR<br>I say the earth did shake when I was born. |
+| [[Hotspur\|HOTSPUR]] | And I say the earth was not of my mind<br>If you suppose as fearing you it shook.<br>GLYNDŴR<br>The heavens were all on [[Fire\|fire]], the earth did tremble— |
+| [[Hotspur\|HOTSPUR]] | O, then the earth shook to see the heavens on [[Fire\|fire]],<br>And not in [[Fear\|fear]] of your nativity.<br>Diseased [[Nature\|nature]] oftentimes breaks forth<br>In strange eruptions; oft the teeming earth<br>Is with a kind of colic pinched and vexed<br>By the imprisoning of unruly [[Wind\|wind]] |
+| *(didascalia)* | Within her womb, which for enlargement striving |
+| [[Hotspur\|HOTSPUR]] | Shakes the old beldam earth, and topples down<br>Steeples and moss-grown towers. At your birth<br>Our grandam earth, having this distemp’rature,<br>In passion shook.<br>GLYNDŴR Cousin, of many men<br>I do not bear these crossings. Give me leave<br>To tell you once again that at my birth<br>The front of heaven was full of fiery shapes,<br>The goats ran from the [[Mountains\|mountains]], and the herds<br>Were strangely clamorous to the frighted fields.<br>These signs have marked me extraordinary,<br>And all the courses of my life do show<br>I am not in the roll of commen men.<br>Where is he living, clipped in with the sea<br>That chides the banks of England, Scotland, Wales,<br>Which calls me pupil or hath read to me?<br>And bring him out that is but woman’s son<br>Can trace me in the tedious ways of art,<br>And hold me pace in deep experiments. |
+| *(didascalia)* | [[Hotspur\|HOTSPUR]] standíng |
+| [[Hotspur\|HOTSPUR]] | I think there’s no man speaketh better Welsh.<br>I’ll to dinner. |
+| MORTIMER | Peace, cousin Percy, you will make him mad.<br>GLYNDŴR<br>I can call spirits from the vasty deep. |
+| [[Hotspur\|HOTSPUR]] | Why, so can I, or so can any man;<br>But will they come when you do call for them?<br>GLYNDŴR<br>Why, I can teach you, cousin, to command the devil. |
+| [[Hotspur\|HOTSPUR]] | And I can teach thee, coz, to shame the devil,<br>By telling [[Truth\|truth]]: ‘Tell [[Truth\|truth]], and shame the devil’.<br>If thou have power to raise him, bring him hither,<br>And I’ll be sworn I have power to shame him hence.<br>O, while you live, tell [[Truth\|truth]] and shame the devil. |
+| MORTIMER | Come, come, no more of this unprofitable chat.<br>GLYNDŴR<br>Three times hath [[Henry Bolingbroke]] made head<br>Against my power; thrice from the banks of Wye<br>And sandy-bottomed Severn have I sent him<br>Bootless [[Home\|home]], and weather-beaten back. |
+| [[Hotspur\|HOTSPUR]] | [[Home]] without boots, and in foul weather too!<br>How scapes he agues, in the devil’s name?<br>GLYNDŴR<br>Come, here’s the map. Shall we divide our right,<br>According to our threefold order ta’en? |
+| MORTIMER | The Archdeacon hath divided it<br>Into three limits very equally.<br>England from Trent and Severn hitherto<br>By south and east is to my part assigned;<br>All westward-Wales beyond the Severn shore<br>And all the fertile land within that bound—<br>To Owain Glyndwr; (to [[Hotspur]]) and, dear coz, to you<br>The remnant northward lying off from Trent.<br>And our indentures tripartite are drawn,<br>Which, being sealèd interchangeably—<br>A business that this [[Night\|night]] may execute—<br>Tomorrow, cousin Percy, you and I 80<br>And my good lord of Worcester will set forth<br>To meet your father and the Scottish power,<br>As is appointed us, at Shrewsbury.<br>My father, Glyndŵr., is not ready yet,<br>Nor shall we need his help these fourteen days. |
+| *(didascalia)* | Within that space you may have drawn together |
+| MORTIMER | Your tenants, friends, and neighbouring gentlemen.<br>GLYNDŴR<br>A shorter [[Time\|time]] shall send me to you, lords;<br>And in my conduct shall your ladies come,<br>From whom you now must steal and take no leave;<br>For there will be a world of [[Water\|water]] shed 91<br>Upon the parting of your wives and you. |
+| [[Hotspur\|HOTSPUR]] | Methinks my moiety north from Burton here<br>In quantity equals not one of yours.<br>See how this [[River\|river]] comes me cranking in,<br>And cuts me from the best of all my land<br>A huge half-[[Moon\|moon]], a monstrous cantle, out.<br>I’ll have the current in this place dammed up,<br>And here the smug and silver Trent shall run<br>In a new channel fair and evenly.<br>It shall not [[Wind\|wind]] with such a deep indent,<br>To rob me of so rich a [[Bottom\|bottom]] here.<br>GLYNDŴR<br>Not [[Wind\|wind]]? It shall, it must; you see it doth. |
+| MORTIMER | Yea, but mark how he bears his course, and runs<br>me up<br>With like advantage on the other side,<br>Gelding the opposed continent as much<br>As on the other side it takes from you. |
+| WORCESTER | Yea, but a little charge will trench him here,<br>And on this north side win this cape of land,<br>And then he runs straight and even. no |
+| [[Hotspur\|HOTSPUR]] | I’ll have it so; a little charge will do it.<br>GLYNDŴR I’ll not have it altered. |
+| [[Hotspur\|HOTSPUR]] | Will not you?<br>GLYNDŴR No, nor you shall not. |
+| [[Hotspur\|HOTSPUR]] | Who shall say me nay? 115<br>GLYNDŴR Why, that will I. |
+| [[Hotspur\|HOTSPUR]] | Let me not understand you, then: speak it in Welsh.<br>GLYNDŴR<br>I can speak English, lord, as [[Well\|well]] as you;<br>For I was trained up in the English [[Court\|court]],<br>Where, being but young, I framed to the harp<br>Many an English ditty lovely [[Well\|well]],<br>And gave the tongue a helpful ornament—<br>A virtue that was never seen in you. |
+| [[Hotspur\|HOTSPUR]] | Marry, and I am glad of it, with all my heart.<br>I had rather be a kitten and cry ‘mew’<br>Than one of these same metre ballad-mongers.<br>I had rather hear a brazen canstick turned,<br>Or a dry [[Wheel\|wheel]] grate on the axle-tree,<br>And that would set my teeth nothing on edge,<br>Nothing so much as mincing poetry.<br>’Tis like the forced gait of a shuffling nag.<br>GLYNDŴR Come, you shall have Trent turned. |
+| [[Hotspur\|HOTSPUR]] | I do not care. I’ll give thrice so much land<br>To any [[Well\|well]]-deserving friend;<br>But in the way of bargain—mark ye me—135<br>I’ll cavil on the ninth part of a hair.<br>Are the indentures drawn? Shall we be gone?<br>GLYNDŴR<br>The [[Moon\|moon]] shines fair. You may away by [[Night\|night]].<br>I’ll haste the writer, and withal<br>Break with your wives of your departure hence.<br>I am afraid my daughter will run mad,<br>So much she doteth on her Mortimer. Exit |
 | MORTIMER | Fie, cousin Percy, how you [[Cross\|cross]] my father! |
-| [[Hotspur\|HOTSPUR]] | I cannot choose. Sometime he angers me With telling me of the moldwarp and the ant, Of the dreamer Merlin and his prophecies, And of a dragon and a finless fish, A clip-winged griffin and a moulten raven, A couching [[Lion\|lion]] and a ramping cat, And such a deal of skimble-skamble stuff 150 As puts me from my [[Faith\|faith]]. I tell you what, He held me last [[Night\|night]] at the least nine hours In reckoning up the several devils’ names That were his lackeys. I cried, ‘Hum!’ and, ‘[[Well]], go to!’, But marked him not a word. O, he is as tedious As a tired [[Horse\|horse]], a railing wife, Worse than a smoky [[house]]. I had rather live With [[cheese]] and garlic, in a windmill, far, Than feed on cates and have him talk to me In any [[Summer\|summer]] [[house]] in Christendom. 160 |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--06_exchange_mortimer" data-title="1 Henry IV — Act III, Scene 1 — exchange (MORTIMER) [6]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| MORTIMER | In [[Faith\|faith]], he is a worthy gentleman, Exceedingly [[Well\|well]] read, and profited In strange concealments, valiant as a [[Lion\|lion]], And wondrous affable, and as bountiful As mines of India. Shall I tell you, cousin? 165 He holds your temper in a high respect, And curbs himself even of his natural scope When you come ’[[Cross\|cross]] his [[Humour\|humour]]; [[Faith\|faith]], he does. I warrant you, that man is not alive Might so have tempted him as you have done Without the taste of danger and reproof. But do not use it oft, let me entreat you. |
-| WORCESTER | (to [[Hotspur]]) In [[Faith\|faith]], my lord, you are too wilful-blame, And since your coming hither have done enough To put him quite besides his patience. You must needs learn, lord, to amend this fault. Though sometimes it show [[Greatness\|greatness]], [[Courage\|courage]], [[Blood\|blood]]— And that’s the dearest grace it renders you— Yet oftentimes it doth present harsh rage, Defect of manners, want of [[government]], [[Pride]], haughtiness, opinion, and disdain, The least of which haunting a nobleman Loseth men’s hearts, and [[Leaves\|leaves]] behind a stain Upon the [[Beauty\|beauty]] of all parts besides, Beguiling them of commendation. 185 |
-| [[Hotspur\|HOTSPUR]] | [[Well]], I am schooled. Good manners be your [[Speed\|speed]]! Enter Glyndŵr with Lady Percy and Mortimer’s wife Here come our wives, and let us take our leave. Mortimer’s wife weeps, and speaks to him in Welsh |
-| MORTIMER | This is the deadly spite that angers me: My wife can speak no English, I no Welsh. GLYNDŴR My daughter weeps she’ll not part with you. She’ll be a soldier, too; she’ll to the wars. |
-| MORTIMER | Good father, tell her that she and my aunt Percy Shall follow in your conduct speedily. Glyndŵr speaks to her in Welsh, and she answers him in the same |
-| GLYNDWR | She is desperate here, a peevish [[Self\|self]]-willed harlotry, One that no [[Persuasion\|persuasion]] can do good upon. 195 The lady speaks in Welsh |
-| MORTIMER | I understand thy looks. That pretty Welsh Which thou down pourest from these swelling heavens I am too perfect in, and but for shame In such a parley should I answer thee. The lady kisses him, and speaks again in Welsh |
-| MORTIMER | I understand thy kisses, and thou mine, And that’s a feeling disputation; But I will never be a truant, [[Love\|love]], Till I have learnt thy language, for thy tongue Makes Welsh as sweet as ditties highly penned, Sung by a fair [[Queen\|queen]] in a [[Summer\|summer]]’s bower With ravishing division, to her lute. GLYNDŴR Nay, if you melt, then will she run mad. The lady sits on the rushes and speaks again in Welsh |
-| MORTIMER | O, I am ignorance itself in this! GLYNDŴR She bids you on the wanton rushes lay you down And rest your gentle head upon her lap, And she will sing the [[Song\|song]] that pleaseth you, And on your eyelids [[Crown\|crown]] the god of [[Sleep\|sleep]], Charming your [[Blood\|blood]] with pleasing heaviness, Making such difference ’twixt wake and [[Sleep\|sleep]] As is the difference betwixt day and [[Night\|night]] 215 The hour before the heavenly-harnessed team Begins his golden progress in the east. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_1--07_exchange_mortimer" data-title="1 Henry IV — Act III, Scene 1 — exchange (MORTIMER) [7]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| MORTIMER | With all my heart, I’ll sit and hear her sing. By that [[Time\|time]] will our book, I think, be drawn. He sits, resting his head on the Welsh lady’s lap |
-| YNDWR | Do so, and those musicians that shall play to you Hang in the air a thousand leagues from hence, And straight they shall be here. Sit and attend. |
-| [[Hotspur\|HOTSPUR]] | Come, Kate, thou art perfect in lying down. Come, quick, quick, that I may lay my head in thy lap. |
-| LADY PERCY | (sitting) Go, ye giddy goose! [[Hotspur]] sits, resting his head on Lady Percy’s lap. The music plays |
-| [[Hotspur\|HOTSPUR]] | Now I perceive the devil understands Welsh; And ’tis no marvel, he is so humorous. By’r Lady, he’s a good musician. |
-| LADY PERCY | Then should you be nothing but musical, For you are altogether governed by humours. Lie still, ye thief, and hear the lady sing in Welsh. |
+| [[Hotspur\|HOTSPUR]] | I cannot choose. Sometime he angers me<br>With telling me of the moldwarp and the ant,<br>Of the dreamer Merlin and his prophecies,<br>And of a dragon and a finless fish,<br>A clip-winged griffin and a moulten raven,<br>A couching [[Lion\|lion]] and a ramping cat,<br>And such a deal of skimble-skamble stuff 150<br>As puts me from my [[Faith\|faith]]. I tell you what,<br>He held me last [[Night\|night]] at the least nine hours<br>In reckoning up the several devils’ names<br>That were his lackeys. I cried, ‘Hum!’ and, ‘[[Well]],<br>go to!’,<br>But marked him not a word. O, he is as tedious<br>As a tired [[Horse\|horse]], a railing wife,<br>Worse than a smoky [[house]]. I had rather live<br>With [[cheese]] and garlic, in a windmill, far,<br>Than feed on cates and have him talk to me<br>In any [[Summer\|summer]] [[house]] in Christendom. 160 |
+| MORTIMER | In [[Faith\|faith]], he is a worthy gentleman,<br>Exceedingly [[Well\|well]] read, and profited<br>In strange concealments, valiant as a [[Lion\|lion]],<br>And wondrous affable, and as bountiful<br>As mines of India. Shall I tell you, cousin? 165<br>He holds your temper in a high respect,<br>And curbs himself even of his natural scope<br>When you come ’[[Cross\|cross]] his [[Humour\|humour]]; [[Faith\|faith]], he does.<br>I warrant you, that man is not alive<br>Might so have tempted him as you have done<br>Without the taste of danger and reproof.<br>But do not use it oft, let me entreat you. |
+| WORCESTER | (to [[Hotspur]])<br>In [[Faith\|faith]], my lord, you are too wilful-blame,<br>And since your coming hither have done enough<br>To put him quite besides his patience.<br>You must needs learn, lord, to amend this fault.<br>Though sometimes it show [[Greatness\|greatness]], [[Courage\|courage]], [[Blood\|blood]]—<br>And that’s the dearest grace it renders you—<br>Yet oftentimes it doth present harsh rage,<br>Defect of manners, want of [[government]],<br>[[Pride]], haughtiness, opinion, and disdain,<br>The least of which haunting a nobleman<br>Loseth men’s hearts, and [[Leaves\|leaves]] behind a stain<br>Upon the [[Beauty\|beauty]] of all parts besides,<br>Beguiling them of commendation. 185 |
+| [[Hotspur\|HOTSPUR]] | [[Well]], I am schooled. Good manners be your [[Speed\|speed]]! |
+| *(didascalia)* | Enter Glyndŵr with Lady Percy and Mortimer’s wife |
+| [[Hotspur\|HOTSPUR]] | Here come our wives, and let us take our leave. |
+| *(didascalia)* | Mortimer’s wife weeps, and speaks to him in Welsh |
+| MORTIMER | This is the deadly spite that angers me:<br>My wife can speak no English, I no Welsh.<br>GLYNDŴR<br>My daughter weeps she’ll not part with you.<br>She’ll be a soldier, too; she’ll to the wars. |
+| MORTIMER | Good father, tell her that she and my aunt Percy<br>Shall follow in your conduct speedily.<br>Glyndŵr speaks to her in Welsh, and she answers him in the same |
+| GLYNDWR | She is desperate here, a peevish [[Self\|self]]-willed harlotry,<br>One that no [[Persuasion\|persuasion]] can do good upon. 195<br>The lady speaks in Welsh |
+| MORTIMER | I understand thy looks. That pretty Welsh<br>Which thou down pourest from these swelling<br>heavens<br>I am too perfect in, and but for shame<br>In such a parley should I answer thee.<br>The lady kisses him, and speaks again in Welsh |
+| MORTIMER | I understand thy kisses, and thou mine,<br>And that’s a feeling disputation;<br>But I will never be a truant, [[Love\|love]],<br>Till I have learnt thy language, for thy tongue<br>Makes Welsh as sweet as ditties highly penned,<br>Sung by a fair [[Queen\|queen]] in a [[Summer\|summer]]’s bower<br>With ravishing division, to her lute.<br>GLYNDŴR<br>Nay, if you melt, then will she run mad.<br>The lady |
+| *(didascalia)* | sits on the rushes and speaks again in Welsh |
+| MORTIMER | O, I am ignorance itself in this!<br>GLYNDŴR<br>She bids you on the wanton rushes lay you down<br>And rest your gentle head upon her lap,<br>And she will sing the [[Song\|song]] that pleaseth you,<br>And on your eyelids [[Crown\|crown]] the god of [[Sleep\|sleep]],<br>Charming your [[Blood\|blood]] with pleasing heaviness,<br>Making such difference ’twixt wake and [[Sleep\|sleep]]<br>As is the difference betwixt day and [[Night\|night]] 215<br>The hour before the heavenly-harnessed team<br>Begins his golden progress in the east. |
+| MORTIMER | With all my heart, I’ll sit and hear her sing.<br>By that [[Time\|time]] will our book, I think, be drawn. |
+| *(didascalia)* | He sits, resting his head on the Welsh lady’s lap |
+| YNDWR | Do so, and those musicians that shall play to you<br>Hang in the air a thousand leagues from hence,<br>And straight they shall be here. Sit and attend. |
+| [[Hotspur\|HOTSPUR]] | Come, Kate, thou art perfect in lying down.<br>Come, quick, quick, that I may lay my head in thy lap. |
+| LADY PERCY | (sitting) Go, ye giddy goose!<br>[[Hotspur]] sits, resting his head on Lady Percy’s lap. The music plays |
+| [[Hotspur\|HOTSPUR]] | Now I perceive the devil understands Welsh;<br>And ’tis no marvel, he is so humorous.<br>By’r Lady, he’s a good musician. |
+| LADY PERCY | Then should you be nothing but musical,<br>For you are altogether governed by humours.<br>Lie still, ye thief, and hear the lady sing in Welsh. |
 | [[Hotspur\|HOTSPUR]] | I had rather hear Lady my brach howl in Irish. |
 | LADY PERCY | Wouldst thou have thy head broken? |
 | [[Hotspur\|HOTSPUR]] | No. |
@@ -1838,114 +1660,60 @@ The [[history|History]] of Henry the Fourth
 | LADY PERCY | Now God help thee! |
 | [[Hotspur\|HOTSPUR]] | To the Welsh lady’s bed. |
 | LADY PERCY | What’s that? |
-| [[Hotspur\|HOTSPUR]] | Peace; she sings. Here the lady sings a Welsh [[Song\|song]] |
+| [[Hotspur\|HOTSPUR]] | Peace; she sings.<br>Here the lady sings a Welsh [[Song\|song]] |
 | [[Hotspur\|HOTSPUR]] | Come, Kate, I’ll have your [[Song\|song]] too. |
 | LADY PERCY | Not mine, in good sooth. |
 | [[Hotspur\|HOTSPUR]] | Not yours, in good sooth! Heart, you swear like a comfit-maker’s wife: ‘Not you, in good sooth!’ and ‘As true as I live!’ and 245 ‘As God shall mend me!’ and ‘As sure as day!’; And giv‘st such sarcenet surety for thy oaths As if thou never walk’st further than Finsbury. Swear me, Kate, like a lady as thou art, A good mouth-filling oath, and leave ’in sooth’ 250 And such protest of pepper gingerbread To velvet-guards and [[Sunday]] citizens. Come, sing. |
 | LADY PERCY | I will not sing. |
-| [[Hotspur\|HOTSPUR]] | ’Tis the next way to turn tailor, or be redbreast teacher. (Rising) An the indentures be drawn, I’ll away within these two hours; and so come in when ye will. Exit GLYNDŴR Come, come, Lord Mortimer. You are as slow As hot Lord Percy is on [[Fire\|fire]] to go. By this our book is drawn. We’ll but seal, 260 And then to [[Horse\|horse]] immediately. |
-| MORTIMER | (rising) With all my heart. The ladies rise, and all exeunt |
+| [[Hotspur\|HOTSPUR]] | ’Tis the next way to turn tailor, or be redbreast teacher. (Rising) An the indentures be drawn, I’ll away within these two hours; and so come in when ye will. |
+| *(didascalia)* | Exit |
+| [[Hotspur\|HOTSPUR]] | GLYNDŴR<br>Come, come, Lord Mortimer. You are as slow<br>As hot Lord Percy is on [[Fire\|fire]] to go.<br>By this our book is drawn. We’ll but seal, 260<br>And then to [[Horse\|horse]] immediately. |
+| MORTIMER | (rising) With all my heart.<br>The ladies rise, and all exeunt |
 
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2--01_exchange_dialogue" data-title="1 Henry IV — Act III, Scene 2 — exchange (dialogue) [1]" data-chapter="Scene 2" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="1 Henry IV — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[King]] Henry, Prince Harry, and lords |
-| [[King\|KING]] HENRY | Lords, give us leave—the Prince of Wales and I Must have some private conference—but be near at hand, For we shall presently have need of you. Exeunt Lords I know not whether God will have it so For some displeasing service I have done, That in his secret doom out of my [[Blood\|blood]] He’ll breed revengement and a scourge for me, But thou dost in thy passages of life Make me believe that thou art only marked For the hot vengeance and the rod of heaven To punish my mistreadings. Tell me else, Could such inordinate and low desires, Such poor, such bare, such lewd, such mean attempts, Such barren pleasures, rude society, As thou art matched withal and grafted to, 15 Accompany the [[Greatness\|greatness]] of thy [[Blood\|blood]], And hold their level with thy princely heart? |
-| PRINCE HARRY | So please your majesty, I would I could Quit all offences with as clear excuse As [[Well\|well]] as I am doubtless I can purge Myself of many I am charged withal; Yet such extenuation let me beg As, in reproof of many tales devised— Which oft the ear of [[Greatness\|greatness]] needs must hear By smiling pickthanks and base newsmongers— I may, for some things true wherein my youth Hath faulty wandered and irregular, Find pardon on my true submission. |
+| [[King\|KING]] HENRY | Lords, give us leave—the Prince of Wales and I<br>Must have some private conference—but be near at<br>hand,<br>For we shall presently have need of you. |
+| *(didascalia)* | Exeunt Lords |
+| [[King\|KING]] HENRY | I know not whether God will have it so<br>For some displeasing service I have done,<br>That in his secret doom out of my [[Blood\|blood]]<br>He’ll breed revengement and a scourge for me,<br>But thou dost in thy passages of life<br>Make me believe that thou art only marked<br>For the hot vengeance and the rod of heaven<br>To punish my mistreadings. Tell me else,<br>Could such inordinate and low desires,<br>Such poor, such bare, such lewd, such mean attempts,<br>Such barren pleasures, rude society,<br>As thou art matched withal and grafted to, 15<br>Accompany the [[Greatness\|greatness]] of thy [[Blood\|blood]],<br>And hold their level with thy princely heart? |
+| PRINCE HARRY | So please your majesty, I would I could<br>Quit all offences with as clear excuse<br>As [[Well\|well]] as I am doubtless I can purge<br>Myself of many I am charged withal;<br>Yet such extenuation let me beg<br>As, in reproof of many tales devised—<br>Which oft the ear of [[Greatness\|greatness]] needs must hear<br>By smiling pickthanks and base newsmongers—<br>I may, for some things true wherein my youth<br>Hath faulty wandered and irregular,<br>Find pardon on my true submission. |
+| [[King\|KING]] HENRY | God pardon thee! Yet let me [[Wonder\|wonder]], Harry,<br>At thy affections, which do hold a wing<br>Quite from the flight of all thy ancestors.<br>Thy place in Council thou hast rudely lost—<br>Which by thy younger brother is supplied—<br>And art almost an alien to the hearts<br>Of all the [[Court\|court]] and princes of my [[Blood\|blood]].<br>The [[Hope\|hope]] and expectation of thy [[Time\|time]]<br>Is ruined, and the [[Soul\|soul]] of every man<br>Prophetically do forethink thy fall.<br>Had I so lavish of my presence been,<br>So common-hackneyed in the eyes of men,<br>So stale and cheap to vulgar company,<br>Opinion, that did help me to the [[Crown\|crown]],<br>Had still kept loyal to possession,<br>And left me in reputeless banishment,<br>A fellow of no mark nor likelihood.<br>By being seldom seen, I could not stir<br>But, like a comet, I was wondered at,<br>That men would tell their children ‘This is he.’<br>Others would say ‘Where, which is Bolingbroke?’<br>And then I stole all courtesy from heaven,<br>And dressed myself in such [[Humility\|humility]]<br>That I did pluck allegiance from men’s hearts,<br>Loud shouts and salutations from their mouths,<br>Even in the presence of the crowned [[King]].<br>Thus did I keep my person fresh and new,<br>My presence like a robe pontifical—<br>Ne‘er seen but wondered at—and so my state,<br>Seldom but sumptuous, showed like a feast,<br>And won by rareness such solemnity.<br>The skipping [[King]], he ambled up and down 60<br>With shallow jesters and rash bavin wits,<br>Soon kindled and soon burnt, carded his state,<br>Mingled his royalty with cap’ring fools,<br>Had his great name profaned with their scorns,<br>And gave his countenance, against his name,<br>To laugh at gibing boys, and stand the push<br>Of every beardless vain comparative;<br>Grew a companion to the common streets,<br>Enfeoffed himself to popularity,<br>That, being daily swallowed by men’s eyes,<br>They surfeited with honey, and began<br>To loathe the taste of sweetness, whereof a little<br>More than a little is by much too much.<br>So when he had occasion to be seen,<br>He was but as the cuckoo is in June,<br>Heard, not regarded, seen but with such eyes<br>As, sick and blunted with community,<br>Afford no extraordinary gaze<br>Such as is bent on sun-like majesty<br>When it shines seldom in admiring eyes,<br>But rather drowsed and hung their eyelids down,<br>Slept in his face, and rendered such aspect<br>As cloudy men use to their adversaries,<br>Being with his presence glutted, gorged, and full.<br>And in that very line, Harry, standest thou; 85<br>For thou hast lost thy princely privilege<br>With vile participation. Not an eye<br>But is a-weary of thy common sight,<br>Save mine, which hath desired to see thee more,<br>Which now doth that I would not have it do—<br>Make blind itself with foolish tenderness.<br>He weeps |
+| PRINCE HARRY | I shall hereafter, my thrice-gracious lord,<br>Be more myself. |
+| [[King\|KING]] HENRY | For all the world,<br>As thou art to this hour was [[Richard]] then,<br>When I from France set foot at Ravenspurgh,<br>And even as I was then is Percy now.<br>Now by my sceptre, and my [[Soul\|soul]] to boot,<br>He hath more worthy interest to the state<br>Than thou, the [[Shadow\|shadow]] of succession;<br>For, of no right, nor colour like to right,<br>He doth fill fields with harness in the realm,<br>Turns head against the [[Lion\|lion]]’s armed jaws,<br>And, being no more in debt to years than thou,<br>Leads ancient lords and reverend bishops on<br>To bloody battles, and to bruising arms. 105<br>What never-dying [[Honour\|honour]] hath he got<br>Against renowned Douglas !—whose high deeds,<br>Whose hot incursions and great name in arms,<br>Holds from all soldiers chief majority<br>And military title capital<br>Through all the kingdoms that acknowledge [[Christ]].<br>Thrice hath this [[Hotspur]], Mars in swaddling-clothes,<br>This infant warrior, in his enterprises<br>Discomfited great Douglas; ta‘en him once;<br>Enlarged him; and made a friend of him 115<br>To fill the mouth of deep defiance up,<br>And shake the peace and safety of our throne.<br>And what say you to this ? Percy, Northumberland,<br>The Archbishop’s grace of York, Douglas, Mortimer,<br>Capitulate against us, and are up.<br>But wherefore do I tell these news to thee ?<br>Why, Harry, do I tell thee of my foes,<br>Which art my near’st and dearest enemy ?—<br>Thou that art like enough, through vassal [[Fear\|fear]],<br>Base inclination, and the start of spleen,<br>To fight against me under Percy’s pay,<br>To dog his heels, and curtsy at his frowns,<br>To show how much thou art degenerate. |
+| PRINCE HARRY | Do not think so; you shall not find it so.<br>And God forgive them that so much have swayed<br>Your majesty’s good thoughts away from me.<br>I will redeem all this on Percy’s head,<br>And in the closing of some glorious day<br>Be bold to tell you that I am your son;<br>When I will wear a garment all of [[Blood\|blood]],<br>And stain my favours in a bloody mask,<br>Which, washed away, shall scour my shame with it.<br>And that shall be the day, whene’er it lights,<br>That this same [[Child\|child]] of [[Honour\|honour]] and renown,<br>This gallant [[Hotspur]], this all-praised knight,<br>And your unthought-of Harry chance to meet.<br>For every [[Honour\|honour]] sitting on his helm,<br>Would they were multitudes, and on my head<br>My shames redoubled; for the [[Time\|time]] will come<br>That I shall make this northern youth exchange<br>His glorious deeds for my indignities.<br>Percy is but my factor, good my lord,<br>To engross up glorious deeds on my behalf;<br>And I will call him to so strict account<br>That he shall render every glory up, 150<br>Yea, even the slightest worship of his [[Time\|time]],<br>Or I will tear the reckoning from his heart.<br>This, in the name of God, I promise here,<br>The which if he be pleased I shall perform,<br>I do beseech your majesty may salve<br>The long-grown wounds of my intemperature;<br>If not, the end of life cancels all bonds,<br>And I will die a hundred thousand deaths<br>Ere break the smallest parcel of this vow. |
+| [[King\|KING]] HENRY | A hundred thousand rebels die in this.<br>Thou shalt have charge and sovereign trust herein. |
+| *(didascalia)* | Enter Sir Walter Blunt |
+| [[King\|KING]] HENRY | How now, good Blunt ? Thy looks are full of [[Speed\|speed]]. |
+| BLUNT | So hath the business that I come to speak of.<br>Lord Mortimer of Scotland hath sent word<br>That Douglas and the English rebels met<br>The eleventh of this month at Shrewsbury.<br>A mighty and a fearful head they are,<br>If promises be kept on every hand,<br>As ever offered foul play in a state. |
+| [[King\|KING]] HENRY | The Earl of Westmorland set forth today,<br>With him my son Lord John of Lancaster,<br>For this advertisement is five days old.<br>On Wednesday next, Harry, you shall set forward.<br>On [[thursday\|Thursday]] we ourselves will march.<br>Our meeting is Bridgnorth, and, Harry, you<br>Shall march through Gloucestershire, by which<br>account,<br>Our business valued, some twelve days hence<br>Our general forces at Bridgnorth shall meet.<br>Our hands are full of business; let’s away.<br>Advantage feeds him fat while men delay. Exeunt |
 
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2--02_monologue_king_henry" data-title="1 Henry IV — Act III, Scene 2 — monologue (KING HENRY) [2]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] HENRY | God pardon thee! Yet let me [[Wonder\|wonder]], Harry, At thy affections, which do hold a wing Quite from the flight of all thy ancestors. Thy place in Council thou hast rudely lost— Which by thy younger brother is supplied— And art almost an alien to the hearts Of all the [[Court\|court]] and princes of my [[Blood\|blood]]. The [[Hope\|hope]] and expectation of thy [[Time\|time]] Is ruined, and the [[Soul\|soul]] of every man Prophetically do forethink thy fall. Had I so lavish of my presence been, So common-hackneyed in the eyes of men, So stale and cheap to vulgar company, Opinion, that did help me to the [[Crown\|crown]], Had still kept loyal to possession, And left me in reputeless banishment, A fellow of no mark nor likelihood. By being seldom seen, I could not stir But, like a comet, I was wondered at, That men would tell their children ‘This is he.’ Others would say ‘Where, which is Bolingbroke?’ And then I stole all courtesy from heaven, And dressed myself in such [[Humility\|humility]] That I did pluck allegiance from men’s hearts, Loud shouts and salutations from their mouths, Even in the presence of the crowned [[King]]. Thus did I keep my person fresh and new, My presence like a robe pontifical— Ne‘er seen but wondered at—and so my state, Seldom but sumptuous, showed like a feast, And won by rareness such solemnity. The skipping [[King]], he ambled up and down 60 With shallow jesters and rash bavin wits, Soon kindled and soon burnt, carded his state, Mingled his royalty with cap’ring fools, Had his great name profaned with their scorns, And gave his countenance, against his name, To laugh at gibing boys, and stand the push Of every beardless vain comparative; Grew a companion to the common streets, Enfeoffed himself to popularity, That, being daily swallowed by men’s eyes, They surfeited with honey, and began To loathe the taste of sweetness, whereof a little More than a little is by much too much. So when he had occasion to be seen, He was but as the cuckoo is in June, Heard, not regarded, seen but with such eyes As, sick and blunted with community, Afford no extraordinary gaze Such as is bent on sun-like majesty When it shines seldom in admiring eyes, But rather drowsed and hung their eyelids down, Slept in his face, and rendered such aspect As cloudy men use to their adversaries, Being with his presence glutted, gorged, and full. And in that very line, Harry, standest thou; 85 For thou hast lost thy princely privilege With vile participation. Not an eye But is a-weary of thy common sight, Save mine, which hath desired to see thee more, Which now doth that I would not have it do— Make blind itself with foolish tenderness. He weeps |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--03_exchange_prince_harry" data-title="1 Henry IV — Act III, Scene 2 — exchange (PRINCE HARRY) [3]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE HARRY | I shall hereafter, my thrice-gracious lord, Be more myself. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--04_monologue_king_henry" data-title="1 Henry IV — Act III, Scene 2 — monologue (KING HENRY) [4]" data-chapter="Scene 2" data-kind="monologue"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="1 Henry IV — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
-| [[King\|KING]] HENRY | For all the world, As thou art to this hour was [[Richard]] then, When I from France set foot at Ravenspurgh, And even as I was then is Percy now. Now by my sceptre, and my [[Soul\|soul]] to boot, He hath more worthy interest to the state Than thou, the [[Shadow\|shadow]] of succession; For, of no right, nor colour like to right, He doth fill fields with harness in the realm, Turns head against the [[Lion\|lion]]’s armed jaws, And, being no more in debt to years than thou, Leads ancient lords and reverend bishops on To bloody battles, and to bruising arms. 105 What never-dying [[Honour\|honour]] hath he got Against renowned Douglas !—whose high deeds, Whose hot incursions and great name in arms, Holds from all soldiers chief majority And military title capital Through all the kingdoms that acknowledge [[Christ]]. Thrice hath this [[Hotspur]], Mars in swaddling-clothes, This infant warrior, in his enterprises Discomfited great Douglas; ta‘en him once; Enlarged him; and made a friend of him 115 To fill the mouth of deep defiance up, And shake the peace and safety of our throne. And what say you to this ? Percy, Northumberland, The Archbishop’s grace of York, Douglas, Mortimer, Capitulate against us, and are up. But wherefore do I tell these news to thee ? Why, Harry, do I tell thee of my foes, Which art my near’st and dearest enemy ?— Thou that art like enough, through vassal [[Fear\|fear]], Base inclination, and the start of spleen, To fight against me under Percy’s pay, To dog his heels, and curtsy at his frowns, To show how much thou art degenerate. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--05_monologue_prince_harry" data-title="1 Henry IV — Act III, Scene 2 — monologue (PRINCE HARRY) [5]" data-chapter="Scene 2" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE HARRY | Do not think so; you shall not find it so. And God forgive them that so much have swayed Your majesty’s good thoughts away from me. I will redeem all this on Percy’s head, And in the closing of some glorious day Be bold to tell you that I am your son; When I will wear a garment all of [[Blood\|blood]], And stain my favours in a bloody mask, Which, washed away, shall scour my shame with it. And that shall be the day, whene’er it lights, That this same [[Child\|child]] of [[Honour\|honour]] and renown, This gallant [[Hotspur]], this all-praised knight, And your unthought-of Harry chance to meet. For every [[Honour\|honour]] sitting on his helm, Would they were multitudes, and on my head My shames redoubled; for the [[Time\|time]] will come That I shall make this northern youth exchange His glorious deeds for my indignities. Percy is but my factor, good my lord, To engross up glorious deeds on my behalf; And I will call him to so strict account That he shall render every glory up, 150 Yea, even the slightest worship of his [[Time\|time]], Or I will tear the reckoning from his heart. This, in the name of God, I promise here, The which if he be pleased I shall perform, I do beseech your majesty may salve The long-grown wounds of my intemperature; If not, the end of life cancels all bonds, And I will die a hundred thousand deaths Ere break the smallest parcel of this vow. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_2--06_exchange_king_henry" data-title="1 Henry IV — Act III, Scene 2 — exchange (KING HENRY) [6]" data-chapter="Scene 2" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] HENRY | A hundred thousand rebels die in this. Thou shalt have charge and sovereign trust herein. Enter Sir Walter Blunt How now, good Blunt ? Thy looks are full of [[Speed\|speed]]. |
-| BLUNT | So hath the business that I come to speak of. Lord Mortimer of Scotland hath sent word That Douglas and the English rebels met The eleventh of this month at Shrewsbury. A mighty and a fearful head they are, If promises be kept on every hand, As ever offered foul play in a state. |
-| [[King\|KING]] HENRY | The Earl of Westmorland set forth today, With him my son Lord John of Lancaster, For this advertisement is five days old. On Wednesday next, Harry, you shall set forward. On [[thursday\|Thursday]] we ourselves will march. Our meeting is Bridgnorth, and, Harry, you Shall march through Gloucestershire, by which account, Our business valued, some twelve days hence Our general forces at Bridgnorth shall meet. Our hands are full of business; let’s away. Advantage feeds him fat while men delay. Exeunt |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--01_exchange_dialogue" data-title="1 Henry IV — Act III, Scene 3 — exchange (dialogue) [1]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| *(didascalia)* | Enter Sir John Oldcastle With a truncheon at his waist, and Russell |
+| *(didascalia)* | Enter Sir John Oldcastle |
+| *(didascalia)* | With a truncheon at his waist, and Russell |
 | SIR JOHN | Russell, am I not fallen away vilely since this last action? Do I not bate? Do I not dwindle? Why, my skin hangs about me like an old lady’s loose gown. I am withered like an old apple-john. [[Well]], I’ll repent, and that suddenly, while I am in some liking. I shall be out of heart shortly, and then I shall have no strength to repent. An I have not forgotten what the inside of a church is made of, I am a peppercorn, a brewer’s [[Horse\|horse]]—the inside of a church! Company, villainous company, hath been the spoil of me. 10 |
 | RUSSELL | Sir John, you are so fretful you cannot live long. |
 | SIR JOHN | Why, there is it. Come, sing me a bawdy [[Song\|song]], make me merry. I was as virtuously given as a gentleman need to be: virtuous enough; swore little; diced not-above seven times a week; went to a bawdy-[[house]] not-above once in a quarter—of an hour; paid money that I borrowed—three or four times; lived [[Well\|well]], and in good compass. And now I live out of all order, out of all compass. |
 | RUSSELL | Why, you are so fat, Sir John, that you must needs be out of all compass, out of all reasonable compass, Sir John. |
 | SIR JOHN | Do thou amend thy face, and I’ll amend my life. Thou art our admiral, thou bearest the lantern in the poop—but ’tis in the nose of thee. Thou art the Knight of the Burning Lamp. |
 | RUSSELL | Why, Sir John, my face does you no harm. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--02_monologue_sir_john" data-title="1 Henry IV — Act III, Scene 3 — monologue (SIR JOHN) [2]" data-chapter="Scene 3" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
 | SIR JOHN | No, I’ll be sworn; I make as good use of it as many a man doth of a [[Death\|death]]’s head, or a [[Memento Mori\|memento mori]]. I never see thy face but I think upon hell-[[Fire\|fire]] and Dives that lived in purple—for there he is in his robes, burning, burning. If thou wert any way given to virtue, I would swear by thy face; my oath should be ’By this [[Fire\|fire]] that’s God’s angell’ But thou art altogether given over, and wert indeed, but for the light in thy face, the son of utter darkness. When thou rannest up Gads [[Hill]] in the [[Night\|night]] to catch my [[Horse\|horse]], if I did not think thou hadst been an ignis fatuus or a ball of wildfire, there’s no purchase in money. O, thou art a perpetual triumph, an everlasting bonfire-light! Thou hast saved me a thousand marks in links and torches, walking with thee in the [[Night\|night]] betwixt tavern and tavern—but the sack that thou hast drunk me would have bought me lights as good cheap at the dearest chandler’s in Europe. I have maintained that salamander of yours with [[Fire\|fire]] any [[Time\|time]] this two-and-thirty years, God reward me for it. |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--03_exchange_russell" data-title="1 Henry IV — Act III, Scene 3 — exchange (RUSSELL) [3]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | RUSSELL | ’Sblood, I would my face were in your belly! |
-| SIR JOHN | God-a-[[Mercy\|mercy]]! ! So should I be sure to be heart-burnt. Enter Hostess How now, Dame Partlet the hen, have you enquired yet who picked my pocket? |
+| SIR JOHN | God-a-[[Mercy\|mercy]]! ! So should I be sure to be heart-burnt. |
+| *(didascalia)* | Enter Hostess |
+| SIR JOHN | How now, Dame Partlet the hen, have you enquired<br>yet who picked my pocket? |
 | HOSTESS | Why, Sir John, what do you think, Sir John? Do you think I keep thieves in my [[house]] ? I have searched, I have enquired; so has my husband, man by man, boy by boy, servant by servant. The tithe of a hair was never lost in my [[house]] before. |
 | SIR JOHN | Ye lie, Hostess: Russell was shaved and lost many a hair, and I’ll be sworn my pocket was picked. Go to, you are a woman, go. 60 |
 | HOSTESS | Who, I? No, I defy thee! God’s light, I was never called so in mine own [[house]] before. |
@@ -1957,10 +1725,12 @@ The [[history|History]] of Henry the Fourth
 | HOSTESS | He? Alas, he is poor; he hath nothing. |
 | SIR JOHN | How, poor? Look upon his face. What call you rich? Let them coin his nose, let them coin his cheeks, I’ll not pay a denier. What, will you make a younker of me ? Shall I not take mine ease in mine inn, but I shall have my pocket picked? I have lost a seal-ring of my grandfather’s worth forty mark. |
 | HOSTESS | O Jesu, (to Russell) I have heard the Prince tell him, I know not how oft, that that ring was copper. |
-| SIR JOHN | How ? The Prince is a jack, a sneak-up. Raising his truncheon ’Sblood, an he were here I would cudgel him like a dog if he would say so. Enter Prince Harry and Harvey, marching; and Sir John Oldcastle meets them, playing upon his truncheon like a fife How now, lad, is the [[Wind\|wind]] in that door, i’[[Faith\|faith]]? Must we all march? |
+| *(didascalia)* | SIR JOHN How ? The Prince is a jack, a sneak-up. Raising his truncheon ’Sblood, an he were here I would cudgel him like a dog if he would say so. |
+| *(didascalia)* | Enter Prince Harry and Harvey, marching; and Sir John Oldcastle meets them, playing upon his truncheon like a fife |
+| HOSTESS | How now, lad, is the [[Wind\|wind]] in that door, i’[[Faith\|faith]]? Must<br>we all march? |
 | RUSSELL | Yea, two and two, Newgate fashion. |
 | HOSTESS | My lord, I pray you hear me. |
-| PRINCE HARRY | What sayst thou, [[Mistress Quickly]]? How doth thy husband? I [[Love\|love]] him [[Well\|well]]; he is an honest man. |
+| PRINCE HARRY | What sayst thou, [[Mistress Quickly]]? How doth thy<br>husband?<br>I [[Love\|love]] him [[Well\|well]]; he is an honest man. |
 | HOSTESS | Good my lord, hear me!! |
 | SIR JOHN | Prithee, let her [[Alone\|alone]], and list to me. |
 | PRINCE HARRY | What sayst thou, Jack? |
@@ -1969,15 +1739,6 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | Wilt thou believe me, Hal, three or four bonds of forty pound apiece, and a seal-ring of my grandfather’s. |
 | PRINCE HARRY | A trifle, some eightpenny matter. |
 | HOSTESS | So I told him, my lord; and I said I heard your grace say so; and, my lord, he speaks most vilely of you, like a foul-mouthed man as he is, and said he would cudgel you. 108 |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--04_exchange_prince_harry" data-title="1 Henry IV — Act III, Scene 3 — exchange (PRINCE HARRY) [4]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | PRINCE HARRY | What? He did not ! |
 | HOSTESS | There’s neither [[Faith\|faith]], [[Truth\|truth]], nor womanhood in me else. |
 | SIR JOHN | There’s no more [[Faith\|faith]] in thee than in a stewed prune, nor no more [[Truth\|truth]] in thee than in a drawn fox; and, for womanhood, Maid Marian may be the deputy’s wife of the ward to thee. Go, you thing, go! |
@@ -1985,7 +1746,7 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | What thing? Why, a thing to thank God on. |
 | HOSTESS | I am no thing to thank God on. I would thou shouldst know it, I am an honest man’s wife; and setting thy knighthood aside, thou art a knave to call me so. |
 | SIR JOHN | Setting thy womanhood aside, thou art a beast to say otherwise. |
-| HOSTESS | Say, what beast, thou knave, thou? sIR JOHN What beast? Why, an otter. |
+| HOSTESS | Say, what beast, thou knave, thou?<br>sIR JOHN What beast? Why, an otter. |
 | PRINCE HARRY | An otter, Sir John? Why an otter? |
 | SIR JOHN | Why? She’s neither fish nor flesh; a man knows not where to have her. |
 | HOSTESS | Thou art an unjust man in saying so. Thou or any man knows where to have me, thou knave, thou. |
@@ -2005,15 +1766,6 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | Dost thou hear, Hal? Thou knowest in the state of innocency Adam fell, and what should poor Jack Oldcastle do in the days of villainy? Thou seest I have more flesh than another man, and therefore more frailty. You confess, then, you picked my pocket. |
 | PRINCE HARRY | It appears so by the story. |
 | SIR JOHN | Hostess, I forgive thee. Go make ready breakfast. [[Love]] thy husband, look to thy servants, cherish thy guests. Thou shalt find me tractable to any honest reason; thou seest I am pacified still. Nay, prithee, be gone. Exit Hostess Now, Hal, to the news at [[Court\|court]]. For the robbery, lad, how is that answered? |
-
-
-
-
-<span class="atom-split" data-atom="act_3--scene_3--05_exchange_prince_harry" data-title="1 Henry IV — Act III, Scene 3 — exchange (PRINCE HARRY) [5]" data-chapter="Scene 3" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
 | PRINCE HARRY | O, my sweet beef, I must still be good angel to thee. The money is paid back again. |
 | SIR JOHN | O, I do not like that paying back; ’tis a [[Double\|double]] labour. 181 |
 | PRINCE HARRY | I am good friends with my father, and may do anything. |
@@ -2023,60 +1775,61 @@ The [[history|History]] of Henry the Fourth
 | SIR JOHN | I would it had been of [[Horse\|horse]] ! Where shall I find one that can steal [[Well\|well]]? O, for a fine thief of the age of two-and-twenty or thereabouts! I am heinously unprovided. [[Well]], God be thanked for these rebels-they offend none but the virtuous. I laud them, I praise them. |
 | PRINCE HARRY | Russell. |
 | RUSSELL | My lord? |
-| PRINCE HARRY | (giving letters) Go bear this letter to Lord John of Lancaster, To my brother John; this to my lord of Westmorland. Exit Russell Go, Harvey, to [[Horse\|horse]], to [[Horse\|horse]], for thou and I Have thirty miles to ride yet ere dinner [[Time\|time]]. Exit Harvey Jack, meet me tomorrow in the Temple Hall At two o’[[Clock\|clock]] in the afternoon. There shalt thou know thy charge, and there receive Money and order for their furniture. The land is burning, Percy stands on high, And either we or they must lower lie. Exit |
-| SIR JOHN | Rare words I Brave world! (Calling) Hostess, my breakfast, come!— O, I could wish this tavern were my drum! Exit |
+| PRINCE HARRY | (giving letters)<br>Go bear this letter to Lord John of Lancaster,<br>To my brother John; this to my lord of Westmorland. |
+| *(didascalia)* | Exit Russell |
+| PRINCE HARRY | Go, Harvey, to [[Horse\|horse]], to [[Horse\|horse]], for thou and I<br>Have thirty miles to ride yet ere dinner [[Time\|time]]. |
+| *(didascalia)* | Exit Harvey |
+| PRINCE HARRY | Jack, meet me tomorrow in the Temple Hall<br>At two o’[[Clock\|clock]] in the afternoon.<br>There shalt thou know thy charge, and there receive<br>Money and order for their furniture.<br>The land is burning, Percy stands on high,<br>And either we or they must lower lie. Exit |
+| SIR JOHN | Rare words I Brave world! (Calling) Hostess, my<br>breakfast, come!—<br>O, I could wish this tavern were my drum! Exit |
 
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1--01_exchange_dialogue" data-title="1 Henry IV — Act IV, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="1 Henry IV — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[Hotspur]] and the Earls of,Worcester and Douglas |
-| [[Hotspur\|HOTSPUR]] | [[Well]] said, my noble Scot ! If speaking [[Truth\|truth]] In this fine age were not thought flattery, Such attribution should the Douglas have As not a soldier of this season’s stamp Should go so general current through the world. By God, I cannot flatter, I do defy The tongues of soothers, but a braver place In my heart’s [[Love\|love]] hath no man than yourself. Nay, task me to my word, approve me, lord. |
-| DOUGLAS | Thou art the [[King\|king]] of [[Honour\|honour]]. No man so potent breathes upon the ground But I will beard him. |
-| [[Hotspur\|HOTSPUR]] | Do so, and ’tis [[Well\|well]]. Enter a Messenger with letters What letters hast thou there? I can but thank you. |
+| [[Hotspur\|HOTSPUR]] | [[Well]] said, my noble Scot ! If speaking [[Truth\|truth]]<br>In this fine age were not thought flattery,<br>Such attribution should the Douglas have<br>As not a soldier of this season’s stamp<br>Should go so general current through the world.<br>By God, I cannot flatter, I do defy<br>The tongues of soothers, but a braver place<br>In my heart’s [[Love\|love]] hath no man than yourself.<br>Nay, task me to my word, approve me, lord. |
+| DOUGLAS | Thou art the [[King\|king]] of [[Honour\|honour]].<br>No man so potent breathes upon the ground<br>But I will beard him. |
+| [[Hotspur\|HOTSPUR]] | Do so, and ’tis [[Well\|well]]. |
+| *(didascalia)* | Enter a Messenger with letters |
+| [[Hotspur\|HOTSPUR]] | What letters hast thou there? I can but thank you. |
 | MESSENGER | These letters come from your father. |
 | [[Hotspur\|HOTSPUR]] | Letters from him? Why comes he not himself? 15 |
 | MESSENGER | He cannot come, my lord, he is grievous sick. |
-| [[Hotspur\|HOTSPUR]] | Zounds, how has he the leisure to be sick In such a jostling [[Time\|time]]? Who leads his power? Under whose [[government]] come they along? |
-| MESSENGER | His letters bears his mind, not I, my lord. [[Hotspur]] reads the letter |
+| [[Hotspur\|HOTSPUR]] | Zounds, how has he the leisure to be sick<br>In such a jostling [[Time\|time]]? Who leads his power?<br>Under whose [[government]] come they along? |
+| MESSENGER | His letters bears his mind, not I, my lord.<br>[[Hotspur]] reads the letter |
 | WORCESTER | I prithee tell me, doth he keep his bed? |
-| MESSENGER | He did, my lord, four days ere I set forth; And at the [[Time\|time]] of my departure thence He was much feared by his physicians. |
-| WORCESTER | I would the state of [[Time\|time]] had first been whole Ere he by sickness had been visited. His health was never better worth than now. |
-| [[Hotspur\|HOTSPUR]] | Sick now? Droop now? This sickness doth infect The very life-[[Blood\|blood]] of our enterprise. ’Tis catching hither, even to our camp. He writes me here that inward sickness stays him, And that his friends by deputation Could not so soon be drawn; nor did he think it meet To lay so dangerous and dear a trust On any [[Soul\|soul]] removed but on his own. Yet doth he give us bold advertisement That with our small conjunction we should on, To see how fortune is disposed to us; For, as he writes, there is no quailing now, Because the [[King]] is certainly possessed 40 Of all our purposes. What say you to it? |
+| MESSENGER | He did, my lord, four days ere I set forth;<br>And at the [[Time\|time]] of my departure thence<br>He was much feared by his physicians. |
+| WORCESTER | I would the state of [[Time\|time]] had first been whole<br>Ere he by sickness had been visited.<br>His health was never better worth than now. |
+| [[Hotspur\|HOTSPUR]] | Sick now? Droop now? This sickness doth infect<br>The very life-[[Blood\|blood]] of our enterprise.<br>’Tis catching hither, even to our camp.<br>He writes me here that inward sickness stays him,<br>And that his friends by deputation<br>Could not so soon be drawn; nor did he think it meet<br>To lay so dangerous and dear a trust<br>On any [[Soul\|soul]] removed but on his own.<br>Yet doth he give us bold advertisement<br>That with our small conjunction we should on,<br>To see how fortune is disposed to us;<br>For, as he writes, there is no quailing now,<br>Because the [[King]] is certainly possessed 40<br>Of all our purposes. What say you to it? |
 | WORCESTER | Your father’s sickness is a maim to us. |
-| [[Hotspur\|HOTSPUR]] | A perilous gash, a very limb lopped off. And yet, in [[Faith\|faith]], it is not. His present want Seems more than we shall find it. Were it good To set the exact wealth of all our states All at one cast, to set so rich a main On the nice hazard of one doubtful hour? It were not good, for therein should we read The very [[Bottom\|bottom]] and the sole of [[Hope\|hope]], The very list, the very utmost bound, Of all our fortunes. |
-| DOUGLAS | [[Faith]], and so we should, where now remains A sweet reversion—we may boldly spend Upon the [[Hope\|hope]] of what is to come in. A comfort of retirement lives in this. |
-| [[Hotspur\|HOTSPUR]] | A rendezvous, a [[Home\|home]] to fly unto, If that the devil and mischance look big Upon the maidenhead of our affairs. |
-| WORCESTER | But yet I would your father had been here. 60 The quality and hair of our attempt Brooks no division. It will be thought By some that know not why he is away That wisdom, loyalty, and mere dislike Of our proceedings kept the Earl from hence; And think how such an apprehension May turn the tide of fearful faction, And breed a kind of question in our cause. For, [[Well\|well]] you know, we of the off’ring side Must keep aloof from strict arbitrement, And stop all sight-holes, every loop from whence The eye of reason may pry in upon us. This absence of your father’s draws a curtain That shows the ignorant a kind of [[Fear\|fear]] Before not dreamt of. |
-
-
-
-
-<span class="atom-split" data-atom="act_4--scene_1--02_exchange_hotspur" data-title="1 Henry IV — Act IV, Scene 1 — exchange (HOTSPUR) [2]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[Hotspur\|HOTSPUR]] | You strain too far. I rather of his absence make this use: It lends a lustre, and more great opinion, A larger dare to our great enterprise, Than if the Earl were here; for men must think If we without his help can make a head 80 To push against a kingdom, with his help We shall o’erturn it topsy-turvy down. Yet all goes [[Well\|well]], yet all our joints are whole. |
-| DOUGLAS | As heart can think, there is not such a word Spoke of in Scotland as this term of [[Fear\|fear]]. Enter Sir [[Richard]] Vernon |
+| [[Hotspur\|HOTSPUR]] | A perilous gash, a very limb lopped off.<br>And yet, in [[Faith\|faith]], it is not. His present want<br>Seems more than we shall find it. Were it good<br>To set the exact wealth of all our states<br>All at one cast, to set so rich a main<br>On the nice hazard of one doubtful hour?<br>It were not good, for therein should we read<br>The very [[Bottom\|bottom]] and the sole of [[Hope\|hope]],<br>The very list, the very utmost bound,<br>Of all our fortunes. |
+| DOUGLAS | [[Faith]], and so we should, where now remains<br>A sweet reversion—we may boldly spend<br>Upon the [[Hope\|hope]] of what is to come in.<br>A comfort of retirement lives in this. |
+| [[Hotspur\|HOTSPUR]] | A rendezvous, a [[Home\|home]] to fly unto,<br>If that the devil and mischance look big<br>Upon the maidenhead of our affairs. |
+| WORCESTER | But yet I would your father had been here. 60<br>The quality and hair of our attempt<br>Brooks no division. It will be thought<br>By some that know not why he is away<br>That wisdom, loyalty, and mere dislike<br>Of our proceedings kept the Earl from hence;<br>And think how such an apprehension<br>May turn the tide of fearful faction,<br>And breed a kind of question in our cause.<br>For, [[Well\|well]] you know, we of the off’ring side<br>Must keep aloof from strict arbitrement,<br>And stop all sight-holes, every loop from whence<br>The eye of reason may pry in upon us.<br>This absence of your father’s draws a curtain<br>That shows the ignorant a kind of [[Fear\|fear]]<br>Before not dreamt of. |
+| [[Hotspur\|HOTSPUR]] | You strain too far.<br>I rather of his absence make this use:<br>It lends a lustre, and more great opinion,<br>A larger dare to our great enterprise,<br>Than if the Earl were here; for men must think<br>If we without his help can make a head 80<br>To push against a kingdom, with his help<br>We shall o’erturn it topsy-turvy down.<br>Yet all goes [[Well\|well]], yet all our joints are whole. |
+| DOUGLAS | As heart can think, there is not such a word<br>Spoke of in Scotland as this term of [[Fear\|fear]]. |
+| *(didascalia)* | Enter Sir [[Richard]] Vernon |
 | [[Hotspur\|HOTSPUR]] | My cousin Vernon! Welcome, by my [[Soul\|soul]]! |
-| VERNON | Pray God my news be worth a welcome, lord. The Earl of Westmorland, seven thousand strong, Is marching hitherwards; with him [[Prince John]]. |
+| VERNON | Pray God my news be worth a welcome, lord.<br>The Earl of Westmorland, seven thousand strong,<br>Is marching hitherwards; with him [[Prince John]]. |
 | [[Hotspur\|HOTSPUR]] | No harm. What more? |
-| VERNON | And further I have learned The [[King]] himself in person is set forth, Or hitherwards intended speedily, With strong and mighty preparation. |
-| [[Hotspur\|HOTSPUR]] | He shall be welcome too. Where is his son, The nimble-footed madcap Prince of Wales, And his comrades that daffed the world aside And bid it pass? |
-| VERNON | All furnished, all in arms, All plumed like ostriches, that with the [[Wind\|wind]]   Baiting like eagles having lately bathed, Glittering in golden coats like images, As full of spirit as the month of May, And gorgeous as the sun at midsummer; Wanton as youthful goats, wild as young bulls. I saw young Harry with his beaver on, 105 His cuishes on his thighs, gallantly armed, Rise from the ground like feathered Mercury, And vaulted with such ease into his seat As if an angel dropped down from the clouds To turn and [[Wind\|wind]] a fiery Pegasus, 110 And [[Witch\|witch]] the world with noble horsemanship. |
-| [[Hotspur\|HOTSPUR]] | No more, no more! Worse than the sun in March, This praise doth nourish agues. Let them come! They come like sacrifices in their trim, And to the [[Fire\|fire]]-eyed maid of smoky war 115 All hot and bleeding will we offer them. The mailed Mars shall on his altar sit Up to the ears in [[Blood\|blood]]. I am on [[Fire\|fire]] To hear this rich reprisal is so nigh, And yet not ours! Come, let me taste my [[Horse\|horse]], Who is to bear me like a thunderbolt Against the bosom of the Prince of Wales. Harry to Harry shall, hot [[Horse\|horse]] to [[Horse\|horse]], Meet and ne’er part till one drop down a corpse. O, that Glyndwr were come! |
-| VERNON | There is more news. I learned in Worcester, as I rode along, He cannot draw his power this fourteen days. |
+| VERNON | And further I have learned<br>The [[King]] himself in person is set forth,<br>Or hitherwards intended speedily,<br>With strong and mighty preparation. |
+| [[Hotspur\|HOTSPUR]] | He shall be welcome too. Where is his son,<br>The nimble-footed madcap Prince of Wales,<br>And his comrades that daffed the world aside<br>And bid it pass? |
+| VERNON | All furnished, all in arms,<br>All plumed like ostriches, that with the [[Wind\|wind]] |
+| *(didascalia)* |  |
+| VERNON | Baiting like eagles having lately bathed,<br>Glittering in golden coats like images,<br>As full of spirit as the month of May,<br>And gorgeous as the sun at midsummer;<br>Wanton as youthful goats, wild as young bulls.<br>I saw young Harry with his beaver on, 105<br>His cuishes on his thighs, gallantly armed,<br>Rise from the ground like feathered Mercury,<br>And vaulted with such ease into his seat<br>As if an angel dropped down from the clouds<br>To turn and [[Wind\|wind]] a fiery Pegasus, 110<br>And [[Witch\|witch]] the world with noble horsemanship. |
+| [[Hotspur\|HOTSPUR]] | No more, no more! Worse than the sun in March,<br>This praise doth nourish agues. Let them come!<br>They come like sacrifices in their trim,<br>And to the [[Fire\|fire]]-eyed maid of smoky war 115<br>All hot and bleeding will we offer them.<br>The mailed Mars shall on his altar sit<br>Up to the ears in [[Blood\|blood]]. I am on [[Fire\|fire]]<br>To hear this rich reprisal is so nigh,<br>And yet not ours! Come, let me taste my [[Horse\|horse]],<br>Who is to bear me like a thunderbolt<br>Against the bosom of the Prince of Wales.<br>Harry to Harry shall, hot [[Horse\|horse]] to [[Horse\|horse]],<br>Meet and ne’er part till one drop down a corpse.<br>O, that Glyndwr were come! |
+| VERNON | There is more news.<br>I learned in Worcester, as I rode along,<br>He cannot draw his power this fourteen days. |
 | DOUGLAS | That’s the worst tidings that I hear of yet. |
 | WORCESTER | Ay, by my [[Faith\|faith]], that bears a frosty sound. |
 | [[Hotspur\|HOTSPUR]] | What may the [[King]]’s whole battle reach unto? |
 | VERNON | To thirty thousand. |
-| [[Hotspur\|HOTSPUR]] | Forty let it be. My father and Glyndŵr being both away, The powers of us may serve so great a day. Come, let us take a muster speedily. Doomsday is near: die all, die merrily. |
-| DOUGLAS | Talk not of dying; I am out of [[Fear\|fear]] Of [[Death\|death]] or [[Death\|death]]’s hand for this one half year. Exeunt |
+| [[Hotspur\|HOTSPUR]] | Forty let it be.<br>My father and Glyndŵr being both away,<br>The powers of us may serve so great a day.<br>Come, let us take a muster speedily.<br>Doomsday is near: die all, die merrily. |
+| DOUGLAS | Talk not of dying; I am out of [[Fear\|fear]]<br>Of [[Death\|death]] or [[Death\|death]]’s hand for this one half year. |
+| *(didascalia)* | Exeunt |
 
 
 
@@ -2173,48 +1926,36 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1--01_exchange_dialogue" data-title="1 Henry IV — Act V, Scene 1 — exchange (dialogue) [1]" data-chapter="Scene 1" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="1 Henry IV — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Enter [[King]] Henry, Prince Harry, Lord John of Lancaster, the Earl of Westmorland, Sir Walter Blunt, and Sir John Oldcastle |
-| [[King\|KING]] HENRY | How bloodily the sun begins to peer Above yon bulky [[Hill\|hill]]! The day looks pale At his distemp’rature. |
-| PRINCE HARRY | The southern [[Wind\|wind]] Doth play the trumpet to his purposes, And by his hollow whistling in the [[Leaves\|leaves]] 5 Foretells a tempest and a blust’ring day. |
-| [[King\|KING]] HENRY | Then with the losers let it sympathize, For nothing can seem foul to those that win. The trumpet sounds a parley within. Enter the [[Earl of Worcester]] and Sir [[Richard]] Vernon How now, my lord of Worcester? ’Tis not [[Well\|well]] That you and I should meet upon such terms 10 As now we meet. You have deceived our trust, And made us doff our easy robes of peace To crush our old limbs in ungentle steel. This is not [[Well\|well]], my lord, this is not [[Well\|well]]. What say you to it? Will you again unknit 15 This churlish knot of all-abhorred war, And move in that obedient orb again Where you did give a fair and natural light, And be no more an exhaled meteor, A prodigy of [[Fear\|fear]], and a portent Of broached mischief to the [[unborn]] times? |
-| WORCESTER | Hear me, my liege. For mine own part, I could be [[Well\|well]] content To entertain the lag-end of my life With quiet hours; for I protest, 25 I have not sought the day of this dislike. |
+| [[King\|KING]] HENRY | How bloodily the sun begins to peer<br>Above yon bulky [[Hill\|hill]]! The day looks pale<br>At his distemp’rature. |
+| PRINCE HARRY | The southern [[Wind\|wind]]<br>Doth play the trumpet to his purposes,<br>And by his hollow whistling in the [[Leaves\|leaves]] 5<br>Foretells a tempest and a blust’ring day. |
+| [[King\|KING]] HENRY | Then with the losers let it sympathize,<br>For nothing can seem foul to those that win.<br>The trumpet sounds |
+| *(didascalia)* | a parley within. Enter the [[Earl of Worcester]] |
+| *(didascalia)* | and Sir [[Richard]] Vernon |
+| [[King\|KING]] HENRY | How now, my lord of Worcester? ’Tis not [[Well\|well]]<br>That you and I should meet upon such terms 10<br>As now we meet. You have deceived our trust,<br>And made us doff our easy robes of peace<br>To crush our old limbs in ungentle steel.<br>This is not [[Well\|well]], my lord, this is not [[Well\|well]].<br>What say you to it? Will you again unknit 15<br>This churlish knot of all-abhorred war,<br>And move in that obedient orb again<br>Where you did give a fair and natural light,<br>And be no more an exhaled meteor,<br>A prodigy of [[Fear\|fear]], and a portent<br>Of broached mischief to the [[unborn]] times? |
+| WORCESTER | Hear me, my liege.<br>For mine own part, I could be [[Well\|well]] content<br>To entertain the lag-end of my life<br>With quiet hours; for I protest, 25<br>I have not sought the day of this dislike. |
 | [[King\|KING]] HENRY | You have not sought it? How comes it, then? |
 | SIR JOHN | Rebellion lay in his way, and he found it. |
 | PRINCE HARRY | Peace, chewet, peace! |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--02_monologue_worcester" data-title="1 Henry IV — Act V, Scene 1 — monologue (WORCESTER) [2]" data-chapter="Scene 1" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| WORCESTER | (to the [[King]]) It pleased your majesty to turn your looks Of favour from myself and all our [[house]]; And yet I must remember you, my lord, We were the first and dearest of your friends. For you my staff of office did I break In [[Richard]]’s [[Time\|time]], and posted day and [[Night\|night]] To meet you on the way and kiss your hand When yet you were in place and in account Nothing so strong and fortunate as I. It was myself, my brother, and his son That brought you [[Home\|home]], and boldly did outdare The dangers of the [[Time\|time]]. You swore to us, And you did swear that oath at Doncaster, That you did nothing purpose ‘gainst the state, Nor claim no further than your new-fall’n right, The seat of Gaunt, dukedom of Lancaster. To this we swore our aid, but in short space It rained down fortune show’ring on your head, And such a flood of [[Greatness\|greatness]] fell on you, What with our help, what with the absent [[King]], What with the injuries of a wanton [[Time\|time]], The seeming sufferances that you had borne, And the contrarious winds that held the [[King]] So long in his unlucky Irish wars That all in England did repute him dead; And from this swarm of fair advantages You took occasion to be quickly wooed To gripe the general sway into your hand, Forgot your oath to us at Doncaster, And being fed by us, you used us so As that ungentle gull, the cuckoo’s bird, Useth the sparrow—did oppress our nest, Grew by our feeding to so great a bulk That even our [[Love\|love]] durst not come near your sight For [[Fear\|fear]] of swallowing. But with nimble wing We were enforced for safety’ sake to fly 65 Out of your sight, and raise this present head, Whereby we stand opposed by such means As you yourself have forged against yourself, By unkind usage, dangerous countenance, And violation of all [[Faith\|faith]] and troth Sworn to us in your younger enterprise. |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_1--03_exchange_king_henry" data-title="1 Henry IV — Act V, Scene 1 — exchange (KING HENRY) [3]" data-chapter="Scene 1" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| [[King\|KING]] HENRY | These things indeed you have articulate, Proclaimed at market crosses, read in churches, To face the garment of rebellion With some fine colour that may please the eye Of fickle changelings and poor discontents, Which gape and rub the elbow at the news Of hurly-burly innovation; And never yet did insurrection want Such [[Water\|water]]-colours to impaint his cause, Nor moody beggars starving for a [[Time\|time]] Of pell-mell havoc and confusion. |
-| PRINCE HARRY | In both our armies there is many a [[Soul\|soul]] Shall pay full dearly for this encounter If once they join in trial. Tell your nephew The Prince of Wales doth join with all the world In praise of Henry Percy. By my hopes, This present enterprise set off his head, I do not think a braver gentleman, More active-valiant or more valiant-young, More daring, or more bold, is now alive To grace this latter age with noble deeds. For my part, I may speak it to my shame, I have a truant been to chivalry; And so I hear he doth account me too. Yet this, before my father’s majesty: I am content that he shall take the odds Of his great name and estimation, And will, to save the [[Blood\|blood]] on either side, Try fortune with him in a single fight. |
-| [[King\|KING]] HENRY | And, Prince of Wales, so dare we venture thee, Albeit considerations infinite Do make against it. No, good Worcester, no. We [[Love\|love]] our people [[Well\|well]]; even those we [[Love\|love]] That are misled upon your cousin’s part; 105 And will they take the offer of our grace, Both he and they and you, yea, every man Shall be my friend again, and I’ll be his. So tell your cousin, and bring me word What he will do. But if he will not yield, Rebuke and dread correction wait on us, And they shall do their office. So be gone. We will not now be troubled with reply. We offer fair; take it advisedly. Exeunt Worcester [and Vernon] |
-| PRINCE HARRY | It will not be accepted, on my life. The Douglas and the [[Hotspur]] both together Are confident against the world in arms. |
-| [[King\|KING]] HENRY | Hence, therefore, every leader to his charge, For on their answer will we set on them, And God befriend us as our cause is just! Exeunt all but Prince Harry and Oldcastle |
+| WORCESTER | (to the [[King]])<br>It pleased your majesty to turn your looks<br>Of favour from myself and all our [[house]];<br>And yet I must remember you, my lord,<br>We were the first and dearest of your friends.<br>For you my staff of office did I break<br>In [[Richard]]’s [[Time\|time]], and posted day and [[Night\|night]]<br>To meet you on the way and kiss your hand<br>When yet you were in place and in account<br>Nothing so strong and fortunate as I.<br>It was myself, my brother, and his son<br>That brought you [[Home\|home]], and boldly did outdare<br>The dangers of the [[Time\|time]]. You swore to us,<br>And you did swear that oath at Doncaster,<br>That you did nothing purpose ‘gainst the state,<br>Nor claim no further than your new-fall’n right,<br>The seat of Gaunt, dukedom of Lancaster.<br>To this we swore our aid, but in short space<br>It rained down fortune show’ring on your head,<br>And such a flood of [[Greatness\|greatness]] fell on you,<br>What with our help, what with the absent [[King]],<br>What with the injuries of a wanton [[Time\|time]],<br>The seeming sufferances that you had borne,<br>And the contrarious winds that held the [[King]]<br>So long in his unlucky Irish wars<br>That all in England did repute him dead;<br>And from this swarm of fair advantages<br>You took occasion to be quickly wooed<br>To gripe the general sway into your hand,<br>Forgot your oath to us at Doncaster,<br>And being fed by us, you used us so<br>As that ungentle gull, the cuckoo’s bird,<br>Useth the sparrow—did oppress our nest,<br>Grew by our feeding to so great a bulk<br>That even our [[Love\|love]] durst not come near your sight<br>For [[Fear\|fear]] of swallowing. But with nimble wing<br>We were enforced for safety’ sake to fly 65<br>Out of your sight, and raise this present head,<br>Whereby we stand opposed by such means<br>As you yourself have forged against yourself,<br>By unkind usage, dangerous countenance,<br>And violation of all [[Faith\|faith]] and troth<br>Sworn to us in your younger enterprise. |
+| [[King\|KING]] HENRY | These things indeed you have articulate,<br>Proclaimed at market crosses, read in churches,<br>To face the garment of rebellion<br>With some fine colour that may please the eye<br>Of fickle changelings and poor discontents,<br>Which gape and rub the elbow at the news<br>Of hurly-burly innovation;<br>And never yet did insurrection want<br>Such [[Water\|water]]-colours to impaint his cause,<br>Nor moody beggars starving for a [[Time\|time]]<br>Of pell-mell havoc and confusion. |
+| PRINCE HARRY | In both our armies there is many a [[Soul\|soul]]<br>Shall pay full dearly for this encounter<br>If once they join in trial. Tell your nephew<br>The Prince of Wales doth join with all the world<br>In praise of Henry Percy. By my hopes,<br>This present enterprise set off his head,<br>I do not think a braver gentleman,<br>More active-valiant or more valiant-young,<br>More daring, or more bold, is now alive<br>To grace this latter age with noble deeds.<br>For my part, I may speak it to my shame,<br>I have a truant been to chivalry;<br>And so I hear he doth account me too.<br>Yet this, before my father’s majesty:<br>I am content that he shall take the odds<br>Of his great name and estimation,<br>And will, to save the [[Blood\|blood]] on either side,<br>Try fortune with him in a single fight. |
+| [[King\|KING]] HENRY | And, Prince of Wales, so dare we venture thee,<br>Albeit considerations infinite<br>Do make against it. No, good Worcester, no.<br>We [[Love\|love]] our people [[Well\|well]]; even those we [[Love\|love]]<br>That are misled upon your cousin’s part; 105<br>And will they take the offer of our grace,<br>Both he and they and you, yea, every man<br>Shall be my friend again, and I’ll be his.<br>So tell your cousin, and bring me word<br>What he will do. But if he will not yield,<br>Rebuke and dread correction wait on us,<br>And they shall do their office. So be gone.<br>We will not now be troubled with reply.<br>We offer fair; take it advisedly. |
+| *(didascalia)* | Exeunt Worcester [and Vernon] |
+| PRINCE HARRY | It will not be accepted, on my life.<br>The Douglas and the [[Hotspur]] both together<br>Are confident against the world in arms. |
+| [[King\|KING]] HENRY | Hence, therefore, every leader to his charge,<br>For on their answer will we set on them,<br>And God befriend us as our cause is just! |
+| *(didascalia)* | Exeunt all but Prince Harry and Oldcastle |
 | SIR JOHN | Hal, if thou see me down in the battle, and bestride me, so. ’Tis a point of [[Friendship\|friendship]]. |
 | PRINCE HARRY | Nothing but a colossus can do thee that [[Friendship\|friendship]]. Say thy prayers, and farewell. |
 | SIR JOHN | I would ’twere bed-[[Time\|time]], Hal, and all [[Well\|well]]. |
 | PRINCE HARRY | Why, thou owest God a [[Death\|death]]. Exit |
-| SIR JOHN | ‘Tis not due yet. I would be loath to pay him before his day. What need I be so forward with him that calls not on me? [[Well]], ’tis no matter; [[Honour\|honour]] pricks me on. Yea, but how if [[Honour\|honour]] prick me off when I come on? How then? Can [[Honour\|honour]] set-to a leg? No. Or an arm? No. Or take away the grief of a wound? No. [[Honour]] hath no skill in surgery, then? No. What is [[Honour\|honour]]? A word. What is in that word ‘[[Honour\|honour]]’? What is that ‘[[Honour\|honour]]’ ? Air. A trim reckoning! Who hath it? He that died o’ Wednesday. Doth he feel it? No. Doth he hear it? No. ’Tis insensible then? Yea, to the dead. But will it not live with the living? No. Why? Detraction will not suffer it. Therefore I’ll none of it. [[Honour]] is a mere scutcheon. And so ends my catechism. Exit |
+| SIR JOHN | ‘Tis not due yet. I would be loath to pay him before his day. What need I be so forward with him that calls not on me? [[Well]], ’tis no matter; [[Honour\|honour]] pricks me on. Yea, but how if [[Honour\|honour]] prick me off when I come on? How then? Can [[Honour\|honour]] set-to a leg? No. Or an arm? No. Or take away the grief of a wound? No. [[Honour]] hath no skill in surgery, then? No. What is [[Honour\|honour]]? A word. What is in that word ‘[[Honour\|honour]]’? What is that ‘[[Honour\|honour]]’ ? Air. A trim reckoning! Who hath it? He that died o’ Wednesday. Doth he feel it? No. Doth he hear it? No. ’Tis insensible then? Yea, to the dead. But will it not live with the living? No. Why? Detraction will not suffer it. Therefore I’ll none of it. [[Honour]] is a mere scutcheon. And so ends my catechism. |
+| *(didascalia)* | Exit |
 
 
 
@@ -2294,85 +2035,57 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4--01_exchange_dialogue" data-title="1 Henry IV — Act V, Scene 4 — exchange (dialogue) [1]" data-chapter="Scene 4" data-kind="exchange"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="1 Henry IV — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
 
 
 | Speaker | Line |
 |---|---|
 | *(didascalia)* | Alarum. Excursions. Enter [[King]] Henry, Prince Harry, wounded, Lord John of Lancaster, and the Earl of Westmorland |
-| [[King\|KING]] HENRY | I prithee, Harry, withdraw thyself, thou bleed’st too much. Lord John of Lancaster, go you with him. |
+| [[King\|KING]] HENRY | I prithee, Harry, withdraw thyself, thou bleed’st too<br>much.<br>Lord John of Lancaster, go you with him. |
 | JOHN OF LANCASTER | Not I, my lord, unless I did bleed too. |
-| PRINCE HARRY | (to the [[King]]) I beseech your majesty, make up, Lest your retirement do amaze your friends. |
-| [[King\|KING]] HENRY | I will do so. My lord of Westmorland, Lead him to his tent. |
-| WESTMORLAND | (to the Prince) Come, my lord, I’ll lead you to your tent. |
-| PRINCE HARRY | Lead me, my lord? I do not need your help, And God forbid a shallow scratch should drive The Prince of Wales from such a field as this, Where stained nobility lies trodden on, And rebels’ arms triumph in massacres. |
-| JOHN OF LANCASTER | We breathe too long. Come, cousin Westmorland, Our duty this way lies. For God’s sake, come. Exeunt Lancaster and Westmorland |
-| PRINCE HARRY | By God, thou hast deceived me, Lancaster; I did not think thee lord of such a spirit. Before I loved thee as a brother, John, But now I do respect thee as my [[Soul\|soul]]. |
-| [[King\|KING]] HENRY | I saw him hold Lord Percy at the point With lustier maintenance than I did look for Of such an ungrown warrior. |
-| PRINCE HARRY | O, this boy lends mettle to us all! Exit Enter the Earl of Douglas |
-| DOUGLAS | Another [[King\|king]]! They grow like Hydra’s heads. I am the Douglas, fatal to all those That wear those colours on them. What art thou That counterfeit’st the person of a [[King\|king]]? |
-| [[King\|KING]] HENRY | The [[King]] himself, who, Douglas, grieves at heart So many of his shadows thou hast met And not the very [[King]]. I have two boys Seek Percy and thyself about the field; But seeing thou fall’st on me so luckily, I will assay thee; and defend thyself. |
-| DOUGLAS | I [[Fear\|fear]] thou art another counterfeit; And yet, in [[Faith\|faith]], thou bear’st thee like a [[King\|king]]. But mine I am sure thou art, whoe’er thou be, And thus I win thee. They fight. The [[King]] being in danger, enter Prince Harry |
-| PRINCE HARRY | Hold up thy head, vile Scot, or thou art like Never to hold it up again. The spirits Of valiant [[Shirley]], Stafford, Blunt, are in my arms. It is the Prince of Wales that threatens thee, Who never promiseth but he means to pay. They fight. Douglas flieth Cheerly, my lord! How fares your grace? Sir Nicholas Gawsey hath for succour sent, And so hath Clifton. I’ll to Clifton straight. |
-| [[King\|KING]] HENRY | Stay and breathe awhile. Thou hast redeemed thy lost opinion, And showed thou mak’st some tender of my life, In this fair rescue thou hast brought to me. |
-| PRINCE HARRY | O God, they did me too much injury That ever said I hearkened for your [[Death\|death]]. If it were so, I might have let [[Alone\|alone]] The insulting hand of Douglas over you, Which would have been as speedy in your end As all the poisonous potions in the world, And saved the treacherous labour of your son. |
-| [[King\|KING]] HENRY | Make up to Clifton; I’ll to Sir Nicholas Gawsey. Exit Enter [[Hotspur]] |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--02_exchange_hotspur" data-title="1 Henry IV — Act V, Scene 4 — exchange (HOTSPUR) [2]" data-chapter="Scene 4" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
+| PRINCE HARRY | (to the [[King]])<br>I beseech your majesty, make up,<br>Lest your retirement do amaze your friends. |
+| [[King\|KING]] HENRY | I will do so. My lord of Westmorland,<br>Lead him to his tent. |
+| WESTMORLAND | (to the Prince)<br>Come, my lord, I’ll lead you to your tent. |
+| PRINCE HARRY | Lead me, my lord? I do not need your help,<br>And God forbid a shallow scratch should drive<br>The Prince of Wales from such a field as this,<br>Where stained nobility lies trodden on,<br>And rebels’ arms triumph in massacres. |
+| JOHN OF LANCASTER | We breathe too long. Come, cousin Westmorland,<br>Our duty this way lies. For God’s sake, come. |
+| *(didascalia)* | Exeunt Lancaster and Westmorland |
+| PRINCE HARRY | By God, thou hast deceived me, Lancaster;<br>I did not think thee lord of such a spirit.<br>Before I loved thee as a brother, John,<br>But now I do respect thee as my [[Soul\|soul]]. |
+| [[King\|KING]] HENRY | I saw him hold Lord Percy at the point<br>With lustier maintenance than I did look for<br>Of such an ungrown warrior. |
+| PRINCE HARRY | O, this boy lends mettle to us all! Exit |
+| *(didascalia)* | Enter the Earl of Douglas |
+| DOUGLAS | Another [[King\|king]]! They grow like Hydra’s heads.<br>I am the Douglas, fatal to all those<br>That wear those colours on them. What art thou<br>That counterfeit’st the person of a [[King\|king]]? |
+| [[King\|KING]] HENRY | The [[King]] himself, who, Douglas, grieves at heart<br>So many of his shadows thou hast met<br>And not the very [[King]]. I have two boys<br>Seek Percy and thyself about the field;<br>But seeing thou fall’st on me so luckily,<br>I will assay thee; and defend thyself. |
+| DOUGLAS | I [[Fear\|fear]] thou art another counterfeit;<br>And yet, in [[Faith\|faith]], thou bear’st thee like a [[King\|king]].<br>But mine I am sure thou art, whoe’er thou be,<br>And thus I win thee.<br>They fight. The [[King]] being in danger, enter Prince Harry |
+| PRINCE HARRY | Hold up thy head, vile Scot, or thou art like<br>Never to hold it up again. The spirits<br>Of valiant [[Shirley]], Stafford, Blunt, are in my arms.<br>It is the Prince of Wales that threatens thee,<br>Who never promiseth but he means to pay.<br>They fight. Douglas flieth<br>Cheerly, my lord! How fares your grace?<br>Sir Nicholas Gawsey hath for succour sent,<br>And so hath Clifton. I’ll to Clifton straight. |
+| [[King\|KING]] HENRY | Stay and breathe awhile.<br>Thou hast redeemed thy lost opinion,<br>And showed thou mak’st some tender of my life,<br>In this fair rescue thou hast brought to me. |
+| PRINCE HARRY | O God, they did me too much injury<br>That ever said I hearkened for your [[Death\|death]].<br>If it were so, I might have let [[Alone\|alone]]<br>The insulting hand of Douglas over you,<br>Which would have been as speedy in your end<br>As all the poisonous potions in the world,<br>And saved the treacherous labour of your son. |
+| [[King\|KING]] HENRY | Make up to Clifton; I’ll to Sir Nicholas Gawsey. Exit |
+| *(didascalia)* | Enter [[Hotspur]] |
 | [[Hotspur\|HOTSPUR]] | If I mistake not, thou art Harry Monmouth. |
 | PRINCE HARRY | Thou speak’st as if I would deny my name. |
 | [[Hotspur\|HOTSPUR]] | My name is Harry Percy. |
-| PRINCE HARRY | Why then, I see A very valiant [[Rebel\|rebel]] of the name. I am the Prince of Wales; and think not, Percy, To share with me in glory any more. Two [[Stars\|stars]] keep not their motion in one sphere, Nor can one England brook a [[Double\|double]] reign Of Harry Percy and the Prince of Wales. |
-| [[Hotspur\|HOTSPUR]] | Nor shall it, Harry, for the hour is come To end the one of us, and would to God Thy name in arms were now as great as mine. |
-| PRINCE HARRY | I’ll make it greater ere I part from thee, And all the budding honours on thy crest I’ll crop to make a garland for my head. |
-| [[Hotspur\|HOTSPUR]] | I can no longer brook thy vanities. They fight. Enter Sir John Oldcastle |
-| SIR JOHN | [[Well]] said, Hal! To it, Hal! Nay, you shall find no boy’s play here, I can tell you. Enter Douglas. He fighteth with Sir John, who falls down as if he were dead. Exit Douglas. The Prince killeth [[Hotspur]] |
-| [[Hotspur\|HOTSPUR]] | O Harry, thou hast robbed me of my youth. I better brook the loss of brittle life Than those proud titles thou hast won of me. They wound my thoughts worse than thy [[Sword\|sword]] my flesh. But thoughts, the slaves of life, and life, [[Time\|time]]’s [[Fool\|fool]], And [[Time\|time]], that takes survey of all the world, Must have a stop. O, I could prophesy, But that the earthy and cold hand of [[Death\|death]] Lies on my tongue. No, Percy, thou art [[Dust\|dust]], And food for—He dies |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--03_monologue_prince_harry" data-title="1 Henry IV — Act V, Scene 4 — monologue (PRINCE HARRY) [3]" data-chapter="Scene 4" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE HARRY | For worms, brave Percy. Fare thee [[Well\|well]], great heart. Ill-weaved [[Ambition\|ambition]], how much art thou shrunk! When that this [[Body\|body]] did contain a spirit, A kingdom for it was too small a bound, But now two paces of the vilest earth Is room enough. This earth that bears thee dead Bears not alive so stout a gentleman. If thou wert sensible of courtesy, I should not make so dear a show of zeal; But let my favours hide thy mangled face, He covers [[Hotspur]]’s face And even in thy behalf I’ll thank myself For doing these fair rites of tenderness. Adieu, and take thy praise with thee to heaven. Thy ignominy [[Sleep\|sleep]] with thee in the [[Grave\|grave]], But not remembered in thy epitaph. He spieth Sir John on the ground What, old acquaintance! Could not all this flesh Keep in a little life ? Poor Jack, farewell. I could have better spared a better man. O, I should have a heavy miss of thee, If I were much in [[Love\|love]] with [[Vanity\|vanity]]. [[Death]] hath not struck so fat a deer today, Though many dearer in this bloody fray. Embowelled will I see thee by and by. Till then, in [[Blood\|blood]] by noble Percy lie. Exit Sir John riseth up |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--04_monologue_sir_john" data-title="1 Henry IV — Act V, Scene 4 — monologue (SIR JOHN) [4]" data-chapter="Scene 4" data-kind="monologue"></span>
-
-
-| Speaker | Line |
-|---|---|
-| SIR JOHN | Embowelled? If thou embowel me today, I’ll give you leave to powder me, and eat me too, tomorrow. ’Sblood, ’twas [[Time\|time]] to counterfeit, or that hot termagant Scot had paid me, scot and lot too. Counterfeit? I lie, I am no counterfeit. To die is to be a counterfeit, for he is but the counterfeit of a man who hath not the life of a man. But to counterfeit dying when a man thereby liveth is to be no counterfeit, but the true and perfect image of life indeed. The better part of valour is discretion, in the which better part I have saved my life. Zounds, I am afraid of this gunpowder Percy, though he be dead. How if he should counterfeit too, and rise ? By my [[Faith\|faith]], I am afraid he would prove the better counterfeit. Therefore I’ll make him sure; yea, and I’ll swear I killed him. Why may not he rise as [[Well\|well]] as I? Nothing confutes me but eyes, and nobody sees me. Therefore, sirrah, (stabbing [[Hotspur]]) with a new wound in your thigh, come you along with me. He takes up [[Hotspur]] on his back. Enter Prince Harry and Lord John of Lancaster |
-
-
-
-
-<span class="atom-split" data-atom="act_5--scene_4--05_exchange_prince_harry" data-title="1 Henry IV — Act V, Scene 4 — exchange (PRINCE HARRY) [5]" data-chapter="Scene 4" data-kind="exchange"></span>
-
-
-| Speaker | Line |
-|---|---|
-| PRINCE HARRY | Come, brother John. Full bravely hast thou fleshed Thy maiden [[Sword\|sword]]. |
+| PRINCE HARRY | Why then, I see<br>A very valiant [[Rebel\|rebel]] of the name.<br>I am the Prince of Wales; and think not, Percy,<br>To share with me in glory any more.<br>Two [[Stars\|stars]] keep not their motion in one sphere,<br>Nor can one England brook a [[Double\|double]] reign<br>Of Harry Percy and the Prince of Wales. |
+| [[Hotspur\|HOTSPUR]] | Nor shall it, Harry, for the hour is come<br>To end the one of us, and would to God<br>Thy name in arms were now as great as mine. |
+| PRINCE HARRY | I’ll make it greater ere I part from thee,<br>And all the budding honours on thy crest<br>I’ll crop to make a garland for my head. |
+| [[Hotspur\|HOTSPUR]] | I can no longer brook thy vanities.<br>They fight. |
+| *(didascalia)* | Enter Sir John Oldcastle |
+| SIR JOHN | [[Well]] said, Hal! To it, Hal! Nay, you shall find no boy’s play here, I can tell you. |
+| *(didascalia)* | Enter Douglas. He fighteth with Sir John, who falls down as if he were dead. Exit Douglas. The Prince killeth [[Hotspur]] |
+| [[Hotspur\|HOTSPUR]] | O Harry, thou hast robbed me of my youth.<br>I better brook the loss of brittle life<br>Than those proud titles thou hast won of me.<br>They wound my thoughts worse than thy [[Sword\|sword]] my<br>flesh.<br>But thoughts, the slaves of life, and life, [[Time\|time]]’s [[Fool\|fool]],<br>And [[Time\|time]], that takes survey of all the world,<br>Must have a stop. O, I could prophesy,<br>But that the earthy and cold hand of [[Death\|death]]<br>Lies on my tongue. No, Percy, thou art [[Dust\|dust]],<br>And food for—He dies |
+| PRINCE HARRY | For worms, brave Percy. Fare thee [[Well\|well]], great heart.<br>Ill-weaved [[Ambition\|ambition]], how much art thou shrunk!<br>When that this [[Body\|body]] did contain a spirit,<br>A kingdom for it was too small a bound,<br>But now two paces of the vilest earth<br>Is room enough. This earth that bears thee dead<br>Bears not alive so stout a gentleman.<br>If thou wert sensible of courtesy,<br>I should not make so dear a show of zeal;<br>But let my favours hide thy mangled face,<br>He covers [[Hotspur]]’s face<br>And even in thy behalf I’ll thank myself<br>For doing these fair rites of tenderness.<br>Adieu, and take thy praise with thee to heaven.<br>Thy ignominy [[Sleep\|sleep]] with thee in the [[Grave\|grave]],<br>But not remembered in thy epitaph.<br>He spieth Sir John on the ground<br>What, old acquaintance! Could not all this flesh<br>Keep in a little life ? Poor Jack, farewell.<br>I could have better spared a better man.<br>O, I should have a heavy miss of thee,<br>If I were much in [[Love\|love]] with [[Vanity\|vanity]].<br>[[Death]] hath not struck so fat a deer today,<br>Though many dearer in this bloody fray.<br>Embowelled will I see thee by and by.<br>Till then, in [[Blood\|blood]] by noble Percy lie. Exit<br>Sir John riseth up |
+| SIR JOHN | Embowelled? If thou embowel me today, I’ll give you leave to powder me, and eat me too, tomorrow. ’Sblood, ’twas [[Time\|time]] to counterfeit, or that hot termagant Scot had paid me, scot and lot too. Counterfeit? I lie, I am no counterfeit. To die is to be a counterfeit, for he is but the counterfeit of a man who hath not the life of a man. But to counterfeit dying when a man thereby liveth is to be no counterfeit, but the true and perfect image of life indeed. The better part of valour is discretion, in the which better part I have saved my life. Zounds, I am afraid of this gunpowder Percy, though he be dead. How if he should counterfeit too, and rise ? By my [[Faith\|faith]], I am afraid he would prove the better counterfeit. Therefore I’ll make him sure; yea, and I’ll swear I killed him. Why may not he rise as [[Well\|well]] as I? Nothing confutes me but eyes, and nobody sees me. Therefore, sirrah, (stabbing [[Hotspur]]) with a new wound in your thigh, come you along with me.<br>He takes up [[Hotspur]] on his back. |
+| *(didascalia)* | Enter Prince Harry and Lord John of Lancaster |
+| PRINCE HARRY | Come, brother John. Full bravely hast thou fleshed<br>Thy maiden [[Sword\|sword]]. |
 | JOHN OF LANCASTER | But soft; whom have we here? Did you not tell me this fat man was dead? |
 | PRINCE HARRY | I did; I saw him dead, Breathless and bleeding on the ground. (To Sir John) Art thou alive? Or is it fantasy that plays upon our eyesight? I prithee speak; we will not trust our eyes Without our ears. Thou art not what thou seem’st. |
 | SIR JOHN | No, that’s certain: I am not a [[Double\|double]] man. But if I be not Jack Oldcastle, then am I a jack. There is Percy. If your father will do me any [[Honour\|honour]], so; if not, let him kill the next Percy himself. I look to be either earl or duke, I can assure you. |
 | PRINCE HARRY | Why, Percy I killed myself, and saw thee dead. |
 | SIR JOHN | Didst thou ? Lord, Lord, how this world is given to lying! I grant you I was down and out of breath, and so was he; but we [[Rose\|rose]] both at an instant, and fought a long hour by Shrewsbury [[Clock\|clock]]. If I may be believed, so; if not, let them that should reward valour bear the sin upon their own heads. I’ll take’t on my [[Death\|death]] I gave him this wound in the thigh. If the man were alive and would deny it, zounds, I would make him eat a piece of my [[Sword\|sword]]. |
 | JOHN OF LANCASTER | This is the strangest tale that e’er I heard. |
-| PRINCE HARRY | This is the strangest fellow, brother John. (To Sir John) Come, bring your luggage nobly on your back. For my part, if a lie may do thee grace, I’ll gild it with the happiest terms I have. A retreat is sounded The trumpet sounds retreat; the day is our. Come, brother, let us to the highest of the field To see what friends are living, who are dead. Exeunt the Prince and Lancaster |
-| SIR JOHN | I’ll follow, as they say, for reward. He that rewards me, God reward him. If I do grow great, I’ll grow less; for I’ll purge, and leave sack, and live cleanly, as a nobleman should do. Exit, bearing [[Hotspur]]’s [[Body\|body]] |
+| PRINCE HARRY | This is the strangest fellow, brother John.<br>(To Sir John) Come, bring your luggage nobly on your<br>back.<br>For my part, if a lie may do thee grace,<br>I’ll gild it with the happiest terms I have.<br>A retreat is sounded<br>The trumpet sounds retreat; the day is our.<br>Come, brother, let us to the highest of the field<br>To see what friends are living, who are dead. |
+| *(didascalia)* | Exeunt the Prince and Lancaster |
+| SIR JOHN | I’ll follow, as they say, for reward. He that rewards me, God reward him. If I do grow great, I’ll grow less; for I’ll purge, and leave sack, and live cleanly, as a nobleman should do. |
+| *(didascalia)* | Exit, bearing [[Hotspur]]’s [[Body\|body]] |
 
 
 

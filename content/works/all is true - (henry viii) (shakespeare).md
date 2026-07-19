@@ -44,9 +44,17 @@ tags:
 
 ## Capitoli / Chapters
 
+- [Act I, Scene 2](/testi/shakespeare/plays/all_is_true_henry_viii#act_1--scene_2)
 - [Act I, Scene 3](/testi/shakespeare/plays/all_is_true_henry_viii#act_1--scene_3)
+- [Act I, Scene 4](/testi/shakespeare/plays/all_is_true_henry_viii#act_1--scene_4)
+- [Act II, Scene 2](/testi/shakespeare/plays/all_is_true_henry_viii#act_2--scene_2)
 - [Act II, Scene 3](/testi/shakespeare/plays/all_is_true_henry_viii#act_2--scene_3)
+- [Act II, Scene 4](/testi/shakespeare/plays/all_is_true_henry_viii#act_2--scene_4)
+- [Act III, Scene 2](/testi/shakespeare/plays/all_is_true_henry_viii#act_3--scene_2)
+- [Act IV, Scene 1](/testi/shakespeare/plays/all_is_true_henry_viii#act_4--scene_1)
+- [Act V, Scene 1](/testi/shakespeare/plays/all_is_true_henry_viii#act_5--scene_1)
 - [Act V, Scene 3](/testi/shakespeare/plays/all_is_true_henry_viii#act_5--scene_3)
+- [Act V, Scene 4](/testi/shakespeare/plays/all_is_true_henry_viii#act_5--scene_4)
 
 ## Connections
 
